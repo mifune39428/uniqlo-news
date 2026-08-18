@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T15:23:34.276301+09:00",
+ "updated_at": "2026-08-18T21:21:43.395281+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -25,14 +25,17 @@
   "Disney.jp",
   "Drapers",
   "Gear Patrol",
+  "Gempak",
   "Interaksyon",
   "Manila Bulletin",
   "Mshale",
+  "Retail & Leisure International",
   "SSBCrack",
   "The Economist",
   "Vietnam.vn",
   "Yahoo!ニュース",
   "asatunews.co.id",
+  "houseofheat.co",
   "news.tv5.com.ph",
   "nikkei.com",
   "says.com",
@@ -49,9 +52,25 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 41,
- "detail_count": 21,
+ "count": 46,
+ "detail_count": 24,
  "items": [
+  {
+   "id": "7f95d206dca9cf5c",
+   "url": "https://gempak.com/en/rojakdaily/lifestyle/not-sure-what-do-your-old-uniqlo-clothes-donate-them-kl-ngo",
+   "title_original": "Not Sure What to Do With Your Old UNIQLO Clothes? Donate Them to This KL NGO",
+   "source": "Gempak",
+   "image": "https://d3lmgsai2rsy7d.cloudfront.net/gempak/media/uploads/image/2026-08/image1_8.png?VersionId=3UGOKAwHL_PE0t9ueVX3_HBgrWAJEmWW",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T14:12:01+00:00",
+   "title_ja": "不要になったユニクロの服をクアラルンプールのNGOへ寄付する取り組み",
+   "summary_ja": "着なくなったユニクロの古着の処分方法に悩む人に向けて、マレーシアのクアラルンプールに拠点を置くNGO団体へ寄付する選択肢が提示されている。手元にある衣類を処分せずに社会貢献に役立てる方法を伝えている。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "1ed00882ceadf27b",
    "url": "https://says.com/my/lifestyle/you-can-donate-your-old-uniqlo-clothes-to-help-kls-homeless-community",
@@ -69,6 +88,54 @@
    "has_detail": true
   },
   {
+   "id": "ff96cf12d0770eb7",
+   "url": "https://mshale.com/f710db22/47b30419_Tc09UUAkYY",
+   "title_original": "綾瀬はるか、エプロン姿のお花屋さんに ユニクロ新CM「エアリズムインナー篇」 楽曲は桑田佳祐「遠い街角（The Wanderin' Street）」 Tess Daly (oAcUnssMEZ)",
+   "source": "Mshale",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T08:54:09+00:00",
+   "title_ja": "綾瀬はるかが出演するユニクロ「エアリズムインナー」新CMが公開",
+   "summary_ja": "綾瀬はるかが出演するユニクロの「エアリズムインナー」新CMが公開された。エプロン姿で花屋の店員を演じる内容で、テーマ曲には桑田佳祐の楽曲「遠い街角」が採用されている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a36ef3efa4cab2bf",
+   "url": "https://houseofheat.co/yu-gi-oh-x-uniqlo-ut-collection-august-2026",
+   "title_original": "Yu-Gi-Oh! x Uniqlo UT Collection Drops This August",
+   "source": "houseofheat.co",
+   "image": "https://cdn.sanity.io/images/pu5wtzfc/production/72e791a411b5e0ad3d8831ca3d55d14628c7fa34-2646x1492.png?rect=0,52,2646,1389&w=1200&h=630",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T08:50:25+00:00",
+   "title_ja": "ユニクロUTと「遊戯王」のコラボコレクションが8月に発売へ",
+   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」と人気作品「遊戯王」によるコラボレーションコレクションが、8月に発売されることが判明した。両者のコラボアイテムが展開される予定。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3d92a8531cba1e4c",
+   "url": "https://www.rli.uk.com/uniqlo-to-launch-kyoto-flagship-unit",
+   "title_original": "Uniqlo to Launch Kyoto Flagship Unit",
+   "source": "Retail & Leisure International",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T08:00:00+00:00",
+   "title_ja": "ユニクロが京都に新たな旗艦店を開設へ",
+   "summary_ja": "ユニクロが京都府内に新たな旗艦店（フラッグシップストア）を開設することが明らかになった。地域の中心的な店舗として、同ブランドの魅力を広く発信する拠点となる予定。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "592fa5fd701fcd94",
    "url": "https://36kr.jp/500454",
    "title_original": "ユニクロ、中国・京東物流と世界物流網を強化 AI・ロボットも活用",
@@ -82,6 +149,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "62a0c94d65e7cc7c",
+   "url": "https://www.vietnam.vn/en/xu-huong-capsule-wardrobe-thanh-thi-trong-bst-lifewear-thu-dong-2026",
+   "title_original": "The urban Capsule Wardrobe trend in the LifeWear Fall/Winter 2026 collection.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/18/1787022366609_img_4922.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T03:00:28.527000+00:00",
+   "title_ja": "ユニクロの2026年秋冬LifeWearは都市型カプセルワードローブに注目",
+   "summary_ja": "ユニクロの2026年秋冬LifeWearコレクションにおいて、都市型の「カプセルワードローブ」のトレンドを取り入れた展開が注目を集めている。効率的で洗練された装いを提案する内容となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -146,7 +229,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4ab902d0dd1d6f9a",
@@ -210,7 +293,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "384ff194d03fc948",
@@ -626,7 +709,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6680a9ebcb51941c",
