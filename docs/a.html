@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ユニクロ ニュース</title>
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+  :root {
+    --bg: #f2f2f2; --card: #ffffff; --text: #111111; --muted: #767676;
+    --line: rgba(0,0,0,.1); --accent: #ff0000; --chip: rgba(0,0,0,.05);
+    --badge: #ff0000; --header: rgba(242,242,242,.88); --quote: rgba(255,0,0,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d0d0d; --card: #1a1a1a; --text: #f2f2f2; --muted: #9b9b9b;
+      --line: rgba(255,255,255,.12); --accent: #ff3b30; --chip: rgba(255,255,255,.1);
+      --badge: #ff3b30; --header: rgba(13,13,13,.82); --quote: rgba(255,59,48,.1);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
+    line-height: 1.8; -webkit-font-smoothing: antialiased;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  a { color: var(--accent); text-decoration: none; }
+  header {
+    position: sticky; top: 0; z-index: 10; background: var(--header);
+    -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    padding: max(env(safe-area-inset-top), 10px) 16px 10px;
+  }
+  .bar { max-width: 720px; margin: 0 auto; display: flex; align-items: center; gap: 10px; }
+  .back { font-size: 14px; font-weight: 600; }
+  main { max-width: 720px; margin: 0 auto; padding: 18px 16px 40px; }
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+  .tag { background: var(--chip); border-radius: 4px; padding: 2px 8px; color: var(--text); }
+  .brand { border: 1px solid var(--line); border-radius: 4px; padding: 1px 8px; color: var(--text); font-weight: 600; }
+  .badge { background: var(--badge); color: #fff; border-radius: 4px; padding: 2px 8px; font-weight: 600; }
+  h1 { font-size: 25px; line-height: 1.45; letter-spacing: -.01em; margin: 0 0 14px; }
+  .cover { width: 100%; aspect-ratio: 16 / 9; max-height: 340px; object-fit: cover; border-radius: 12px; background: var(--chip); display: block; margin-bottom: 18px; }
+  .points {
+    background: var(--quote); border: 1px solid var(--line); border-radius: 12px;
+    padding: 15px 18px 15px 16px; margin: 0 0 22px;
+  }
+  .points h2 { font-size: 13px; color: var(--muted); margin: 0 0 8px; letter-spacing: .04em; font-weight: 600; }
+  .points ul { margin: 0; padding-left: 20px; }
+  .points li { font-size: 14.5px; margin-bottom: 5px; }
+  .points li:last-child { margin-bottom: 0; }
+  .body p { font-size: 16px; margin: 0 0 18px; }
+  .actions { display: flex; flex-direction: column; gap: 9px; margin: 26px 0 20px; }
+  .btn {
+    display: block; text-align: center; padding: 13px; border-radius: 10px;
+    font-size: 15px; font-weight: 600; border: 1px solid var(--line);
+  }
+  .btn.primary { background: var(--accent); color: #fff; border-color: transparent; }
+  .btn.sub { background: var(--card); color: var(--accent); }
+  .note { font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
+  .note p { margin: 0 0 7px; }
+  .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar"><a class="back" href="./">← 一覧へ戻る</a></div>
+</header>
+
+<main id="main"><p class="loading">読み込み中…</p></main>
+
+<script>
+const params = new URLSearchParams(location.search);
+const id = (params.get("id") || "").replace(/[^0-9a-f]/g, "");
+
+const fmt = new Intl.DateTimeFormat("ja-JP", {
+  year: "numeric", month: "numeric", day: "numeric",
+  hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
+});
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+// Google翻訳を通した原文ページ。1タップで日本語の全文が読める。
+function translated(url) {
+  return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
+}
+
+async function load() {
+  const main = document.getElementById("main");
+  if (!id) { location.replace("./"); return; }
+  try {
+    const res = await fetch(`articles/${id}.json`, { cache: "no-store" });
+    if (!res.ok) throw new Error("not found");
+    const a = await res.json();
+    document.title = `${a.title_ja} | ユニクロ ニュース`;
+
+    const paragraphs = String(a.body).split(/\n{2,}|\n/).map(p => p.trim()).filter(Boolean);
+    main.innerHTML = `
+      <div class="meta">
+        ${a.importance >= 4 ? '<span class="badge">注目</span>' : ""}
+        <span class="brand">${escapeHtml(a.brand || "ユニクロ")}</span>
+        <span class="tag">${escapeHtml(a.category)}</span>
+        <span>${a.region === "jp" ? "🇯🇵" : "🌍"} ${escapeHtml(a.source)}</span>
+        <span>・${fmt.format(new Date(a.published))}</span>
+      </div>
+      <h1>${escapeHtml(a.title_ja)}</h1>
+      ${a.image ? `<img class="cover" src="${escapeHtml(a.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+      <div class="points">
+        <h2>この記事の要点</h2>
+        <ul>${a.points.map(p => `<li>${escapeHtml(p)}</li>`).join("")}</ul>
+      </div>
+      <div class="body">${paragraphs.map(p => `<p>${escapeHtml(p)}</p>`).join("")}</div>
+      <div class="actions">
+        ${a.lang === "ja" ? "" : `<a class="btn primary" href="${escapeHtml(translated(a.url))}" target="_blank" rel="noopener noreferrer">原文を日本語で全文読む（Google翻訳）</a>`}
+        <a class="btn sub" href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${a.lang === "ja" ? "原文を読む" : "原文（英語）を読む"}：${escapeHtml(a.source)}</a>
+      </div>
+      <div class="note">
+        <p>この解説は、${escapeHtml(a.source)}の記事をもとにAIが日本語で書き起こしたものです。原文の翻訳ではありません。正確な内容と最新の情報は出典元の記事をご確認ください。</p>
+        <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
+        <p>記事および画像の著作権は${escapeHtml(a.source)}に帰属します。このサイトは個人が運営する非公式のニュースまとめです。</p>
+      </div>`;
+  } catch (err) {
+    main.innerHTML = '<p class="loading">記事が見つかりませんでした。<br><a href="./">一覧へ戻る</a></p>';
+  }
+}
+
+load();
+</script>
+</body>
+</html>
