@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T21:21:43.395281+09:00",
+ "updated_at": "2026-08-19T03:20:53.738428+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -31,6 +31,7 @@
   "Mshale",
   "Retail & Leisure International",
   "SSBCrack",
+  "SunStar Publishing Inc.",
   "The Economist",
   "Vietnam.vn",
   "Yahoo!ニュース",
@@ -45,6 +46,7 @@
   "ふねぽ",
   "スポーツ報知",
   "ダイヤモンド・チェーンストア",
+  "ファミ通",
   "マイナビニュース",
   "マイナビ子育て",
   "中日BIZナビ",
@@ -52,8 +54,8 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 46,
- "detail_count": 24,
+ "count": 50,
+ "detail_count": 26,
  "items": [
   {
    "id": "7f95d206dca9cf5c",
@@ -67,6 +69,22 @@
    "title_ja": "不要になったユニクロの服をクアラルンプールのNGOへ寄付する取り組み",
    "summary_ja": "着なくなったユニクロの古着の処分方法に悩む人に向けて、マレーシアのクアラルンプールに拠点を置くNGO団体へ寄付する選択肢が提示されている。手元にある衣類を処分せずに社会貢献に役立てる方法を伝えている。",
    "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "12893106913d4c40",
+   "url": "https://www.sunstar.com.ph/amp/story/davao/celebrating-as-one-uniqlo-joins-dabawenyos-for-kadayawan",
+   "title_original": "Celebrating as One: UNIQLO joins Dabawenyos for Kadayawan",
+   "source": "SunStar Publishing Inc.",
+   "image": "https://cf-images.assettype.com/sunstar%2F2026-08-18%2F126w048v%2FUntitled-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-18T13:54:07+00:00",
+   "title_ja": "ユニクロがフィリピン・ダバオの「カダヤワン祭り」に参加",
+   "summary_ja": "ユニクロがフィリピンのダバオ市で開催された地域のお祭り「カダヤワン・フェスティバル」に参加しました。現地の人々とともにイベントを祝い、地域社会との繋がりを深める取り組みを行っています。",
+   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
@@ -101,7 +119,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a36ef3efa4cab2bf",
@@ -117,7 +135,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3d92a8531cba1e4c",
@@ -134,6 +152,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "33d809a233412bc2",
+   "url": "https://news.yahoo.co.jp/articles/bb92722fa7a7599242f522aa494c437de55f4fc5/images/001",
+   "title_original": "「1000円もしないのに上質」【ユニクロ】の定番Tシャツが990円に！「私の制服」「骨スト大優勝」「洗濯してもヨレない」とリピーター続出 (婦人公論.jp)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYzxA08I-BbxO8xuSYG42l2golhp8WgF8CrBJudiHW3s5zp-EB0cza47YhY1JC10A33ruocy_VkW1dCfQNrjLiTSjtUIEBHKqh0xUS-H7x2Fk",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T03:30:35+00:00",
+   "title_ja": "ユニクロの定番Tシャツが990円に値下げ　上質な生地と耐久性で高評価",
+   "summary_ja": "ユニクロの定番Tシャツが990円に値下げされた。1,000円未満の価格でありながら品質が高く、洗濯してもヨレにくい耐久性を備えており、リピート購入する顧客が多く見られる。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "592fa5fd701fcd94",
@@ -278,6 +312,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "b3cb920fe94e4912",
+   "url": "https://www.sanyonews.jp/article/1951382?rct=oricon_geino&kw=%E8%B0%B7%E6%AD%8Cseo%E7%95%99%E7%97%95%2Cgoogle%E7%95%99%E7%97%95%E5%B7%A5%E5%85%B7%28%E9%9B%BB%E5%A0%B1%EF%BC%9A%40trace88%29%E3%8A%99%EF%B8%8F24%E5%B0%8F%E6%99%82%E6%94%B6%E9%8C%84%2C%E5%85%8D%E8%B2%BB%E6%B8%AC%E8%A9%A6%E3%8A%99%EF%B8%8F%E8%B0%B7%E6%AD%8C%E7%80%8F%E8%A6%BD%E5%99%A8%E6%80%8E%E9%BA%BD%E7%95%99%E7%97%95%2Cgoogle%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E5%A4%96%E9%8F%88%E4%BB%A3%E7%99%BC%2C%E5%A6%82%E4%BD%95%E5%81%9A%E8%B0%B7%E6%AD%8Cseo%E6%8E%A8%E5%BB%A3%E7%95%99%E7%97%95%2C%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E4%BB%80%E9%BA%BD%E6%84%8F%E6%80%9D%28%E9%9B%BB%E5%A0%B1%EF%BC%9A%40trace88%29%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E5%BC%95%E6%B5%81%2Cgoogle%E7%95%99%E7%97%95%E6%8A%80%E8%A1%93%2C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E6%80%8E%E9%BA%BD%E5%81%9A%2Cgoogle%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E8%BB%9F%E4%BB%B6%2C%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E8%9C%98%E8%9B%9B%E6%B1%A0%2Cgoogle%E7%95%99%E7%97%95%E6%94%B6%E9%8C%84%2C%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E6%8E%A8%E5%BB%A3%2Cgoogle%E7%95%99%E7%97%95%E4%BB%A3%E7%99%BC.pad.0612",
+   "title_original": "ユニクロ「ポケモンUT」7・24発売、MEN＆KIDSの計8柄 モノクロの「ゲームドット」デザインで“原点”へ",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/4/b/c/0/4bc0a94d121d2f8987cf21360e8d1889_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-17T20:50:17+00:00",
+   "title_ja": "ユニクロが「ポケモンUT」を7月24日に発売　ゲームドット柄など計8柄",
+   "summary_ja": "ユニクロが「ポケモンUT」を7月24日に発売する。メンズとキッズ向けに計8柄を用意し、モノクロの「ゲームドット」デザインで作品の原点を表現したTシャツを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "d3d87da6508bdc37",
@@ -435,6 +485,22 @@
    "title_ja": "ユニクロ、オーストラリアで8月20日に春夏コレクションを発売へ",
    "summary_ja": "ユニクロがオーストラリア市場において、8月20日より最新の春夏コレクションを展開することが明らかになりました。現地の季節に合わせた商品展開を行います。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "57138e235d814ba0",
+   "url": "https://www.famitsu.com/article/images/202608/84062/826024",
+   "title_original": "『マリオカート ワールド』Tシャツがユニクロから発売。レトロ風2Dイラストや3Dグラフィック、ゲーム中に登場するステッカーなどをプリントしたマリオファン垂涎のデザイン",
+   "source": "ファミ通",
+   "image": "https://cimg.kgl-systems.io/camion/files/famitsu/84062/a4efdd2f969559e8b1c92e99f32ded48e.jpg?x=1280",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-17T11:00:00+00:00",
+   "title_ja": "ユニクロから『マリオカート ワールド』のTシャツが登場。レトロ柄やステッカー風デザイン",
+   "summary_ja": "ユニクロから『マリオカート ワールド』のデザインをあしらったTシャツが発売されます。レトロ風の2Dイラストや立体的な3Dグラフィックのほか、ゲーム内に登場するステッカーなどをあしらった、ファン必見のラインナップとなっています。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
