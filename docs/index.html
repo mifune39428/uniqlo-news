@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ユニクロ ニュース</title>
+<meta name="description" content="ユニクロ・GU・ファーストリテイリング関連のニュースを国内外から自動で集め、日本語の見出し・要約・解説付きでまとめています。6時間ごとに更新。">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="ユニクロニュース">
+<meta property="og:title" content="ユニクロ ニュース">
+<meta property="og:description" content="ユニクロ・GU・ファーストリテイリングの最新ニュースを、海外の記事も日本語で。6時間ごとに自動更新。">
+<meta property="og:type" content="website">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<style>
+  :root {
+    --bg: #f2f2f2;
+    --card: #ffffff;
+    --text: #111111;
+    --muted: #767676;
+    --line: rgba(0,0,0,.1);
+    --accent: #ff0000;
+    --chip: rgba(0,0,0,.05);
+    --chip-on: #111111;
+    --chip-on-text: #ffffff;
+    --badge: #ff0000;
+    --global: #0b5fbe;
+    --header: rgba(242,242,242,.88);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d0d0d;
+      --card: #1a1a1a;
+      --text: #f2f2f2;
+      --muted: #9b9b9b;
+      --line: rgba(255,255,255,.12);
+      --accent: #ff3b30;
+      --chip: rgba(255,255,255,.1);
+      --chip-on: #ff3b30;
+      --chip-on-text: #ffffff;
+      --badge: #ff3b30;
+      --global: #62a8ff;
+      --header: rgba(13,13,13,.82);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  a { color: inherit; text-decoration: none; }
+
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--header);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    border-bottom: 1px solid var(--line);
+    padding: max(env(safe-area-inset-top), 10px) 16px 0;
+  }
+  .bar { max-width: 760px; margin: 0 auto; display: flex; align-items: center; gap: 9px; }
+  /* ロゴは赤い四角。ユニクロの店頭タグの雰囲気に寄せる。 */
+  .logo {
+    flex: 0 0 auto; background: var(--accent); color: #fff;
+    font-size: 11px; font-weight: 700; letter-spacing: .06em;
+    padding: 4px 7px; border-radius: 2px; line-height: 1.2;
+  }
+  h1 { font-size: 18px; font-weight: 700; letter-spacing: -.01em; margin: 0; }
+  .updated { font-size: 11px; color: var(--muted); margin-left: auto; white-space: nowrap; }
+  .filters {
+    max-width: 760px; margin: 0 auto;
+    display: flex; gap: 6px; overflow-x: auto; padding: 10px 0 0;
+    scrollbar-width: none;
+  }
+  .filters:last-of-type { padding-bottom: 10px; }
+  .filters::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: 0 0 auto; border: 0; cursor: pointer;
+    background: var(--chip); color: var(--text);
+    font: inherit; font-size: 13px; line-height: 1.4;
+    padding: 6px 13px; border-radius: 999px;
+  }
+  .chip[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-text); }
+
+  main { max-width: 760px; margin: 0 auto; padding: 16px 16px 56px; }
+  .search {
+    width: 100%; margin-bottom: 14px;
+    background: var(--card); color: var(--text);
+    border: 1px solid var(--line); border-radius: 10px;
+    padding: 11px 14px; font: inherit; font-size: 16px;
+  }
+  .search::placeholder { color: var(--muted); }
+
+  article {
+    background: var(--card); border-radius: 12px;
+    padding: 15px 17px; margin-bottom: 11px;
+    border: 1px solid var(--line);
+    transition: transform .15s ease;
+  }
+  article:active { transform: scale(.99); }
+  .row { display: flex; gap: 12px; align-items: flex-start; }
+  .row .body { flex: 1 1 auto; min-width: 0; }
+  .thumb {
+    flex: 0 0 100px; width: 100px; height: 100px;
+    object-fit: cover; border-radius: 8px;
+    background: var(--chip); display: block;
+  }
+  .hero {
+    /* 幅の広い画面で主役の画像が伸びすぎないように上限を付ける。 */
+    width: 100%; aspect-ratio: 16 / 9; max-height: 300px; object-fit: cover;
+    border-radius: 10px; background: var(--chip);
+    display: block; margin-bottom: 11px;
+  }
+  /* 画像が取れなかった記事のための代わりの絵。カードに穴を空けない。 */
+  .ph {
+    display: flex; align-items: center; justify-content: center;
+    background: linear-gradient(135deg, #ff0000, #b00000);
+    color: #fff; font-size: 34px; line-height: 1;
+  }
+  .hero.ph { font-size: 56px; }
+
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 11.5px; color: var(--muted); margin-bottom: 7px; }
+  .tag { background: var(--chip); border-radius: 4px; padding: 2px 7px; color: var(--text); }
+  .brand { border: 1px solid var(--line); border-radius: 4px; padding: 1px 7px; color: var(--text); font-weight: 600; }
+  .badge { background: var(--badge); color: #fff; border-radius: 4px; padding: 2px 7px; font-weight: 600; }
+  .flag { font-size: 12px; }
+  h2 { font-size: 17px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.01em; line-height: 1.45; }
+  p.summary { margin: 0 0 10px; font-size: 14px; color: var(--text); opacity: .85; }
+  .src { font-size: 12.5px; color: var(--accent); font-weight: 600; }
+
+  .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
+  #more {
+    display: block; width: 100%; margin-top: 8px; padding: 13px;
+    background: var(--card); color: var(--accent); border: 1px solid var(--line);
+    border-radius: 10px; font: inherit; font-size: 15px; cursor: pointer;
+  }
+  footer {
+    max-width: 760px; margin: 0 auto; padding: 24px 16px 40px;
+    font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line);
+  }
+  footer p { margin: 0 0 7px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <span class="logo">UNIQLO</span>
+    <h1>ニュース</h1>
+    <span class="updated" id="updated"></span>
+  </div>
+  <div class="filters" id="regionFilters"></div>
+  <div class="filters" id="brandFilters"></div>
+  <div class="filters" id="categoryFilters"></div>
+</header>
+
+<main>
+  <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: エアリズム、コラボ、決算）" autocomplete="off">
+  <div id="list"><p class="loading">読み込み中…</p></div>
+  <button id="more" hidden>もっと見る</button>
+</main>
+
+<footer>
+  <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
+  <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
+  <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
+  <p>このサイトは個人が運営する非公式のニュースまとめで、株式会社ファーストリテイリングおよびユニクロとは関係ありません。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
+  <p id="sources"></p>
+</footer>
+
+<script>
+const PAGE_SIZE = 30;
+let all = [], filtered = [], shown = 0;
+let region = "all", brand = "all", category = "all", query = "";
+
+const fmt = new Intl.DateTimeFormat("ja-JP", {
+  month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
+});
+
+function relative(iso) {
+  const then = new Date(iso), diff = (Date.now() - then) / 1000;
+  if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}分前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}時間前`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)}日前`;
+  return fmt.format(then);
+}
+
+// Google翻訳を通した原文ページ。1タップで日本語の全文が読める。
+function translated(url) {
+  return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+function apply() {
+  const q = query.trim().toLowerCase();
+  filtered = all.filter(item => {
+    if (region !== "all" && item.region !== region) return false;
+    if (brand !== "all" && (item.brand || "ユニクロ") !== brand) return false;
+    if (category !== "all" && item.category !== category) return false;
+    if (q) {
+      const hay = `${item.title_ja} ${item.summary_ja} ${item.title_original} ${item.source} ${item.brand || ""}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  shown = 0;
+  document.getElementById("list").innerHTML = "";
+  render();
+}
+
+function render() {
+  const list = document.getElementById("list");
+  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  if (!filtered.length) {
+    list.innerHTML = '<p class="empty">該当する記事がありません</p>';
+    document.getElementById("more").hidden = true;
+    return;
+  }
+  list.insertAdjacentHTML("beforeend", slice.map((item, i) => {
+    // 先頭と「重要」な記事だけ大きい画像にして、一覧に緩急をつける。
+    const hero = shown + i === 0 || item.importance >= 4;
+    const meta = `
+        <div class="meta">
+          ${item.importance >= 4 ? '<span class="badge">注目</span>' : ""}
+          <span class="brand">${escapeHtml(item.brand || "ユニクロ")}</span>
+          <span class="tag">${escapeHtml(item.category)}</span>
+          <span class="flag">${item.region === "jp" ? "🇯🇵" : "🌍"}</span>
+          <span>${escapeHtml(item.source)}</span>
+          <span>・${relative(item.published)}</span>
+        </div>`;
+    const title = `<h2>${escapeHtml(item.title_ja)}</h2>`;
+    // 画像が無い記事、読み込みに失敗した記事は同じ大きさの代替の絵に差し替える。
+    // 失敗したときの差し替えは下の error ハンドラが受け持つ（data-ph が代わりの絵）。
+    const mark = item.brand === "GU" ? "🛍" : "👕";
+    const img = cls => item.image
+      ? `<img class="${cls}" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async"
+             referrerpolicy="no-referrer" data-ph="${mark}">`
+      : `<div class="${cls} ph">${mark}</div>`;
+    const head = hero
+      ? `${img("hero")}${meta}${title}`
+      // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
+      : `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`;
+    // 解説があれば詳細ページへ。無い記事は（英語なら翻訳済みの）原文へ直接飛ばす。
+    const target = item.has_detail
+      ? { href: `a.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "詳しく読む →" }
+      : (item.lang === "ja"
+          ? { href: item.url, blank: true, label: "元の記事を読む →" }
+          : { href: translated(item.url), blank: true, label: "日本語で原文を読む →" });
+    return `
+    <article>
+      <a href="${escapeHtml(target.href)}"${target.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}>
+        ${head}
+        <p class="summary">${escapeHtml(item.summary_ja)}</p>
+        <span class="src">${target.label}</span>
+      </a>
+    </article>`;
+  }).join(""));
+  shown += slice.length;
+  document.getElementById("more").hidden = shown >= filtered.length;
+}
+
+// 該当0件のチップは押しても空になるだけなので、そもそも出さない。
+function buildChips(boxId, attr, current, defs) {
+  document.getElementById(boxId).innerHTML = defs
+    .filter(d => d.key === "all" || all.some(d.match))
+    .map(d => `<button class="chip" data-${attr}="${escapeHtml(d.key)}" aria-pressed="${d.key === current}">${d.label}</button>`)
+    .join("");
+}
+
+function buildAll(categories, brands) {
+  const used = new Set(all.map(i => i.category));
+  if (category !== "all" && !used.has(category)) category = "all";
+  buildChips("regionFilters", "region", region, [
+    { key: "all", label: "すべて", match: () => true },
+    { key: "jp", label: "🇯🇵 国内", match: i => i.region === "jp" },
+    { key: "global", label: "🌍 海外", match: i => i.region === "global" },
+  ]);
+  buildChips("brandFilters", "brand", brand, [{ key: "all", label: "全ブランド", match: () => true }]
+    .concat(brands.map(b => ({ key: b, label: b, match: i => (i.brand || "ユニクロ") === b }))));
+  buildChips("categoryFilters", "category", category, [{ key: "all", label: "全カテゴリ", match: () => true }]
+    .concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
+}
+
+// チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
+function chipHandler(attr, setValue) {
+  return e => {
+    const btn = e.target.closest(`[data-${attr}]`);
+    if (!btn) return;
+    setValue(btn.dataset[attr]);
+    e.currentTarget.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
+    apply();
+  };
+}
+
+document.getElementById("regionFilters").addEventListener("click", chipHandler("region", v => { region = v; }));
+document.getElementById("brandFilters").addEventListener("click", chipHandler("brand", v => { brand = v; }));
+document.getElementById("categoryFilters").addEventListener("click", chipHandler("category", v => { category = v; }));
+
+document.getElementById("more").addEventListener("click", render);
+
+// 画像のURLが切れていたら、同じ大きさの代わりの絵に置き換える（穴を空けない）。
+// 読み込めても極端に小さい画像は「いいね」ボタンなどの部品なので同じ扱いにする。
+// error / load は親まで上がってこないので、捕捉フェーズで受ける。
+function replaceWithPlaceholder(img) {
+  const box = document.createElement("div");
+  box.className = `${img.className} ph`;
+  box.textContent = img.dataset.ph || "👕";
+  img.replaceWith(box);
+}
+
+const listBox = document.getElementById("list");
+listBox.addEventListener("error", e => {
+  if (e.target instanceof HTMLImageElement) replaceWithPlaceholder(e.target);
+}, true);
+listBox.addEventListener("load", e => {
+  const img = e.target;
+  if (img instanceof HTMLImageElement && img.naturalWidth && img.naturalWidth < 200) {
+    replaceWithPlaceholder(img);
+  }
+}, true);
+
+let timer;
+document.getElementById("search").addEventListener("input", e => {
+  clearTimeout(timer);
+  query = e.target.value;
+  timer = setTimeout(apply, 180);
+});
+
+async function load() {
+  try {
+    const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
+    const data = await res.json();
+    all = data.items || [];
+    document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
+    document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
+    buildAll(data.categories || [], data.brands || []);
+    apply();
+  } catch (err) {
+    document.getElementById("list").innerHTML = '<p class="empty">記事を読み込めませんでした。時間をおいて再読み込みしてください。</p>';
+  }
+}
+
+load();
+// ホーム画面から復帰したときに最新へ追従する。
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") load();
+});
+</script>
+</body>
+</html>

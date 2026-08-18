@@ -1,0 +1,29 @@
+{
+  "_comment": "収集元のRSS。enabled を false にすると一時的に外せる。lang は原文の言語（en は日本語に直して載せる）。google_news: true のフィードは <source> から実際の媒体名を取り出し、見出し末尾の「 - 媒体名」を落とす。filter: true の総合媒体はユニクロ関連の語を含む記事だけ拾う（LLMに投げる前のふるい）。Googleニュースの検索語に OR は使わない（語がばらけて無関係な記事が大量に混ざるため）。",
+  "feeds": [
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%20%E6%96%B0%E4%BD%9C%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%20%E3%82%B3%E3%83%A9%E3%83%9C%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%20%E5%BA%97%E8%88%97%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+    { "name": "Google ニュース", "url": "https://news.google.com/rss/search?q=%E3%82%B8%E3%83%BC%E3%83%A6%E3%83%BC%20%E6%96%B0%E4%BD%9C%20when%3A7d&hl=ja&gl=JP&ceid=JP:ja", "lang": "ja", "region": "jp", "google_news": true, "enabled": true },
+
+    { "name": "FASHIONSNAP", "url": "https://www.fashionsnap.com/rss.xml", "lang": "ja", "region": "jp", "filter": true, "enabled": true },
+    { "name": "WWDJAPAN", "url": "https://www.wwdjapan.com/feed", "lang": "ja", "region": "jp", "filter": true, "enabled": true },
+    { "name": "ダイヤモンド・チェーンストア", "url": "https://diamond-rm.net/feed/", "lang": "ja", "region": "jp", "filter": true, "enabled": true },
+    { "name": "ITmedia ビジネスオンライン", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml", "lang": "ja", "region": "jp", "filter": true, "enabled": true },
+    { "name": "PR TIMES", "url": "https://prtimes.jp/index.rdf", "lang": "ja", "region": "jp", "filter": true, "enabled": true },
+
+    { "name": "Google News", "url": "https://news.google.com/rss/search?q=Uniqlo%20when%3A3d&hl=en-US&gl=US&ceid=US:en", "lang": "en", "region": "global", "google_news": true, "enabled": true },
+    { "name": "Google News", "url": "https://news.google.com/rss/search?q=Uniqlo%20when%3A3d&hl=en-GB&gl=GB&ceid=GB:en", "lang": "en", "region": "global", "google_news": true, "enabled": true },
+    { "name": "Google News", "url": "https://news.google.com/rss/search?q=%22Fast%20Retailing%22%20when%3A3d&hl=en-US&gl=US&ceid=US:en", "lang": "en", "region": "global", "google_news": true, "enabled": true },
+
+    { "name": "Retail Dive", "url": "https://www.retaildive.com/feeds/news/", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "Just Style", "url": "https://www.just-style.com/feed/", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "Drapers", "url": "https://www.drapersonline.com/feed", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "Retail Gazette", "url": "https://www.retailgazette.co.uk/feed/", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "The Business of Fashion", "url": "https://www.businessoffashion.com/feed/", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "Hypebeast", "url": "https://hypebeast.com/feed", "lang": "en", "region": "global", "filter": true, "enabled": true },
+    { "name": "Highsnobiety", "url": "https://www.highsnobiety.com/feed/", "lang": "en", "region": "global", "filter": true, "enabled": true }
+  ]
+}
