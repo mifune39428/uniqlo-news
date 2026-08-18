@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T11:55:28.835785+09:00",
+ "updated_at": "2026-08-18T15:23:34.276301+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -16,6 +16,7 @@
   "グループ"
  ],
  "sources": [
+  "36Kr Japan",
   "@DIME アットダイム",
   "BAILA（バイラ）",
   "Boss Hunting",
@@ -26,6 +27,7 @@
   "Gear Patrol",
   "Interaksyon",
   "Manila Bulletin",
+  "Mshale",
   "SSBCrack",
   "The Economist",
   "Vietnam.vn",
@@ -40,13 +42,15 @@
   "ふねぽ",
   "スポーツ報知",
   "ダイヤモンド・チェーンストア",
+  "マイナビニュース",
   "マイナビ子育て",
   "中日BIZナビ",
   "山陽新聞",
+  "流通ニュース",
   "読売新聞"
  ],
- "count": 34,
- "detail_count": 17,
+ "count": 41,
+ "detail_count": 21,
  "items": [
   {
    "id": "1ed00882ceadf27b",
@@ -65,6 +69,86 @@
    "has_detail": true
   },
   {
+   "id": "592fa5fd701fcd94",
+   "url": "https://36kr.jp/500454",
+   "title_original": "ユニクロ、中国・京東物流と世界物流網を強化 AI・ロボットも活用",
+   "source": "36Kr Japan",
+   "image": "https://36kr.jp/uploads/2026/08/20260817184156dd2f-ef3137d1d5a92ab1d47821bfc284a62c435.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T03:30:34+00:00",
+   "title_ja": "ユニクロが中国の京東物流と連携強化、AIを活用し世界物流網を構築",
+   "summary_ja": "ユニクロが中国の京東物流との連携を強め、世界的な物流ネットワークの強化に乗り出す。AIやロボットなどの先進技術を積極的に活用し、サプライチェーンの効率化を進める方針だ。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "59b0541c9c105ebd",
+   "url": "https://www.vietnam.vn/ja/uniqlo-thoi-nhip-song-moi-vao-thoi-trang-thu-dong-2026",
+   "title_original": "ユニクロは2026年秋冬ファッションに新たな息吹を吹き込む。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/18/1787024461162_dong-trang-phuc-det-kim-trong-bst-lifewear-thu-dong-2026-so-huu-cac-sac-do-noi-bat-nhu-do-xanh-va-nau-jpg.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T02:56:11.815000+00:00",
+   "title_ja": "ユニクロが2026年秋冬コレクションで新たなスタイルを提案",
+   "summary_ja": "ユニクロが2026年秋冬シーズンに向けた新たなファッションの取り組みを開始しました。新しいスタイルの提案を通じて、秋冬の装いに新しい風を吹き込みます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4142b3aeb8d0fabc",
+   "url": "https://news.mynavi.jp/techplus/article/20260818-4833834",
+   "title_original": "ファーストリテイリング財団事務局長・石田吉生「日本と世界をつなぐ次世代リーダーの育成を」",
+   "source": "マイナビニュース",
+   "image": "https://news.mynavi.jp/techplus/article/20260818-4833834/index_images/index.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T02:30:00+00:00",
+   "title_ja": "ファーストリテイリング財団が日本と世界をつなぐ人材育成に注力",
+   "summary_ja": "一般財団法人ファーストリテイリング財団の石田吉生事務局長が、人材育成事業への取り組みを語った。日本と世界を繋ぐ次世代のリーダーを育てるため、教育支援や育成プログラムに注力していく。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3d7d1c5319e14765",
+   "url": "https://www.ryutsuu.biz/sales/s081842.html",
+   "title_original": "カジュアル衣料4社／7月の既存店売上高はユニクロ4.3％増、しまむら5.1％減",
+   "source": "流通ニュース",
+   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T01:40:10+00:00",
+   "title_ja": "カジュアル衣料4社の7月既存店売上高、ユニクロは4.3％増を記録",
+   "summary_ja": "カジュアル衣料大手4社の7月における既存店売上高が発表され、ユニクロは前年同月比4.3％増と好調を維持しました。一方で、競合のしまむらは5.1％減となるなど、各社の明暗が分かれる結果となっています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e9fe0d3f88b1864c",
+   "url": "https://mshale.com/12ceb477/0c809dc7juQatrnVsGE",
+   "title_original": "【木村さ〜〜ん！】木村拓哉セレクト「ユニクロ７日間コーデ」披露！！ Brad Gushue Usa Curling Role (abGfPLNZoY)",
+   "source": "Mshale",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-18T00:28:33+00:00",
+   "title_ja": "木村拓哉が「ユニクロ」のアイテムを用いた7日間コーデを披露",
+   "summary_ja": "タレントの木村拓哉さんが、自身がセレクトしたユニクロのアイテムを使った「7日間コーディネート」を披露しました。どのような着こなしを提案しているのか、ファンやファッション好きの間で注目を集めそうです。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "4ab902d0dd1d6f9a",
    "url": "https://biz.chunichi.co.jp/news/article/10/129348/60",
    "title_original": "米関税返金へ日本企業提訴 トヨタ、ユニクロの購入者 還付金巡り新たな混乱：ニュース",
@@ -78,7 +162,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9480225800e04ba8",
@@ -111,6 +195,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "d3d87da6508bdc37",
+   "url": "https://www.sanyonews.jp/article/1966180?rct=oricon_news&kw=%E9%99%8C%E9%99%8C%E7%99%BD%E5%8F%B7%E6%80%8E%E4%B9%88%E5%90%B8%E7%B2%89%E2%9C%94%EF%B8%8F+youxiaohao.com+%E2%AD%90++Telegram%E8%B4%A6%E5%8F%B7%E5%94%AE%E4%B9%B0%E5%B9%B3%E5%8F%B0",
+   "title_original": "熊本駅直結「アミュプラザくまもと」きょうから通常営業 ユニクロ「お客様と従業員の安全を最優先」 マクドナルドなど一部店舗は臨時休業中【令和8年熊本地震】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/d/4/b/6/d4b683bfa9489f1194f50beacc476001_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-17T20:17:38+00:00",
+   "title_ja": "熊本地震を受けアミュプラザくまもとのユニクロが営業再開、安全最優先で",
+   "summary_ja": "令和8年熊本地震の影響を受けていた熊本駅直結の「アミュプラザくまもと」が営業を再開しました。同施設内のユニクロは、顧客と従業員の安全を最優先に考慮した上で営業を行っています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "384ff194d03fc948",
@@ -513,6 +613,22 @@
    "has_detail": true
   },
   {
+   "id": "f4bb8e8d245819b7",
+   "url": "https://businessmirror.com.ph/2026/08/16/re-uniqlo-studio-launches-notes-to-self-collection",
+   "title_original": "Re.UNIQLO Studio launches ‘Notes to Self’ collection",
+   "source": "BusinessMirror",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-15T16:00:00+00:00",
+   "title_ja": "Re.UNIQLO Studioが新コレクション「Notes to Self」を発表",
+   "summary_ja": "服の修理やリメイクを手掛けるユニクロの専門サービス「Re.UNIQLO Studio」が、新たなコレクションとなる「Notes to Self」を立ち上げたことが明らかになった。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "6680a9ebcb51941c",
    "url": "https://mb.com.ph/2026/08/15/fashion-that-matters-uniqlo-and-its-commitment-towards-improving-filipino-lives-through-japanese-innovation",
    "title_original": "Fashion that matters: UNIQLO and its commitment towards improving Filipino lives through Japanese innovation",
@@ -526,7 +642,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dbae344715da3105",
