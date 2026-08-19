@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T21:21:48.238699+09:00",
+ "updated_at": "2026-08-20T03:17:37.555472+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -29,8 +29,12 @@
   "Gempak",
   "Interaksyon",
   "Kursiv Media Узбекистан",
+  "Liverpool Echo",
+  "MLB.com",
   "Manila Bulletin",
   "Mshale",
+  "PRESIDENT Online（プレジデントオンライン）",
+  "PoPville",
   "Retail & Leisure International",
   "SSBCrack",
   "SunStar Publishing Inc.",
@@ -54,6 +58,7 @@
   "ファミ通",
   "マイナビニュース",
   "マイナビ子育て",
+  "ママテナ",
   "中日BIZナビ",
   "号外NET 奈良市",
   "山陽新聞",
@@ -61,9 +66,57 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 62,
- "detail_count": 33,
+ "count": 68,
+ "detail_count": 38,
  "items": [
+  {
+   "id": "d15be91549fe7159",
+   "url": "https://www.mlb.com/news/los-angeles-dodgers-and-uniqlo-announce-community-events",
+   "title_original": "Los Angeles Dodgers and UNIQLO Announce Community Events",
+   "source": "MLB.com",
+   "image": "https://images.ctfassets.net/iiozhi00a8lc/7rLiL2FzRtYvRA6WljKhNY/359c3d0e14e8deced16d006ecb2f4218/mlb_fallback_2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-19T17:32:33.870000+00:00",
+   "title_ja": "ユニクロと米大リーグのドジャース、地域イベントの開催を発表",
+   "summary_ja": "米大リーグのロサンゼルス・ドジャースとユニクロが、地域コミュニティ向けのイベントを開催することを発表した。両者のパートナーシップを通じた地域貢献活動として実施される。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "43320bd3ce3ef565",
+   "url": "https://www.popville.com/2026/08/uniqlo-announces-grand-opening-date-dc-georgetown",
+   "title_original": "UNIQLO announces Grand Opening Date for new Georgetown Location",
+   "source": "PoPville",
+   "image": "https://www.popville.com/wp-content/uploads/2026/08/IMG_4070.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-19T12:25:33+00:00",
+   "title_ja": "ユニクロ、米ジョージタウンの新店舗のグランドオープン日を発表",
+   "summary_ja": "ユニクロが米国ジョージタウンに新しく開設する店舗のグランドオープン日を発表した。現地市場でのブランド展開を一層推進するための新たな店舗オープンとなる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cb5dcac7e7a559a1",
+   "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/uniqlos-viral-retro-autumn-jacket-34482666.amp",
+   "title_original": "Uniqlo's 'viral' retro autumn jacket is 'water-repellent'",
+   "source": "Liverpool Echo",
+   "image": "https://i2-prod.examinerlive.co.uk/whats-on/shopping/article34014973.ece/ALTERNATES/s1200/7_UNIQLO-Liverpool-Photo-by-Colin-Lane.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-19T12:23:54+00:00",
+   "title_ja": "ユニクロの撥水加工付きレトロな秋用ジャケットが話題に",
+   "summary_ja": "撥水加工が施されたユニクロのレトロな秋用ジャケットが、SNSなどで話題を集めています。機能性とデザイン性を兼ね備えたアイテムとして、海外メディアでも注目されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "8b91fe62cca4ef88",
    "url": "https://news.allabout.co.jp/articles/o/126761",
@@ -78,7 +131,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "207c0053f1b0e7e9",
@@ -94,7 +147,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "741bb21ba315dc71",
@@ -110,7 +163,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8c11c0144b542e2e",
@@ -126,7 +179,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "269de9f67546aeb4",
@@ -145,6 +198,22 @@
    "has_detail": true
   },
   {
+   "id": "a62c82df01759498",
+   "url": "https://mama.smt.docomo.ne.jp/pre/articles/561883",
+   "title_original": "可愛過ぎて頭抱えたわ…2000円以下は破格！全種類欲しい！大バズりの予感！【ユニクロ】モフサンドUT9月下旬～発売！",
+   "source": "ママテナ",
+   "image": "https://assets.mama.aacdn.jp/contents/57/2026/8/1787133889005_xpcv539rtq.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T10:00:09+00:00",
+   "title_ja": "ユニクロが「モフサンド」UTを9月下旬から発売へ",
+   "summary_ja": "ユニクロから、人気キャラクター「モフサンド」を起用したグラフィックTシャツ「UT」が9月下旬に発売されます。2,000円以下の手頃な価格設定となっており、発売前からファンの間で話題を呼んでいます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "a4b05c52d2b7f336",
    "url": "https://lp.p.pia.jp/article/news/500725/index.html",
    "title_original": "【ユニクロ】UTに初登場！『マリオカート ワールド』マリオやクッパの迫力デザインTシャツが即買いコスパ",
@@ -156,6 +225,22 @@
    "title_ja": "ユニクロUTに「マリオカート ワールド」初登場、マリオやクッパのTシャツ発売",
    "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」から、『マリオカート ワールド』をモチーフにしたTシャツが初登場します。マリオやクッパなどがデザインされた迫力あるアイテムが展開されています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "33ce1706796f7243",
+   "url": "https://president.jp/articles/-/117865?page=1",
+   "title_original": "正解は｢デジタル化｣とは限らない 失速ナイキと好調ユニクロの決定的違い",
+   "source": "PRESIDENT Online（プレジデントオンライン）",
+   "image": "https://president.ismcdn.jp/mwimgs/a/7/1200wm/img_a7bc4aa015ed928208a6616fed8ea985895884.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T06:00:00+00:00",
+   "title_ja": "デジタル化にとどまらない強み、ナイキと好調ユニクロの経営戦略を比較",
+   "summary_ja": "業績が好調なユニクロと失速するナイキを比較し、ビジネスにおけるデジタル化のあり方や両社の決定的な違いについて考察した記事。単なるデジタル化にとどまらないユニクロの経営戦略や強みについて論じている。",
+   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -1039,6 +1124,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "5d3c33eb0aaf1a48",
+   "url": "https://news.yahoo.co.jp/articles/75b4d9d31870a571bd2c85cbd21d888faee3b9ea/images/000",
+   "title_original": "ユニクロ「マリオカート ワールド」UTが本日発売！ TシャツやKIDSスウェットがラインナップ (GAME Watch)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY6YozZPtWBfseWVxguvl6jiqqV4FMMclZ2qx7vMNwxqQKn1h6ofpoLMMzS_GRgN_Kscvcu5yXiLWTU-y38-6d5Dz3SqiHj19EKFTqd8NjBUT",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-09T15:00:00+00:00",
+   "title_ja": "ユニクロ、「マリオカート ワールド」のUTやキッズスウェットを発売",
+   "summary_ja": "ユニクロは「マリオカート ワールド」デザインの新作UTコレクションを発売した。大人向けのグラフィックTシャツに加え、キッズ向けのスウェットなどが登場している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "db7f2379e82cb437",
