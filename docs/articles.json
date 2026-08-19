@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T09:36:00.440269+09:00",
+ "updated_at": "2026-08-19T15:24:29.331233+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -36,6 +36,7 @@
   "Vietnam.vn",
   "Yahoo!ニュース",
   "asatunews.co.id",
+  "fashionsnap.com",
   "houseofheat.co",
   "news.tv5.com.ph",
   "nikkei.com",
@@ -53,12 +54,45 @@
   "中日BIZナビ",
   "号外NET 奈良市",
   "山陽新聞",
+  "日本経済新聞",
   "流通ニュース",
   "読売新聞"
  ],
- "count": 52,
- "detail_count": 27,
+ "count": 55,
+ "detail_count": 30,
  "items": [
+  {
+   "id": "1d18c2277c88a615",
+   "url": "https://www.fashionsnap.com/article/tag-history-uniqlo",
+   "title_original": "「ユニクロ」の歴史が分かるタグ変遷と見分け方",
+   "source": "fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/07/cafd06b6-56fc-44dd-9eb2-5f6e1a94d793.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T05:00:00+00:00",
+   "title_ja": "ユニクロの歴史がわかる洋服タグの変遷と製品の見分け方を解説",
+   "summary_ja": "ユニクロの製品に付けられている洋服タグの歴史的な変遷と、タグのデザインから年代などを識別する見分け方について解説された記事です。服のタグを見ることで、ブランドが辿ってきた歴史を知ることができます。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "4fd1c47359d800c9",
+   "url": "https://www.nikkei.com/article/DGXZQOCD1622A0W6A810C2000000",
+   "title_original": "本田圭佑氏に問う「アホ」の効用 ユニクロ柳井氏のビッグマウス経営",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3467264018082026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.57&fp-y=0.25&h=630&w=1200&s=c3e3ef1cb0e154d33f9909d94cf92e71",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T01:00:00+00:00",
+   "title_ja": "本田圭佑氏の視点から紐解くユニクロ柳井正氏の経営手法とビジョン",
+   "summary_ja": "元サッカー日本代表の本田圭佑氏へのインタビューを通じ、ユニクロを展開するファーストリテイリングの柳井正氏による大きな目標を掲げる経営手法やその効果について考察しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ead4c5b0cc1d855c",
    "url": "https://nara.goguynet.jp/2026/08/19/unikuroikomaiten",
@@ -73,7 +107,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "de65854af6175519",
@@ -889,6 +923,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "db7f2379e82cb437",
+   "url": "https://www.fashionsnap.com/article/uniqlo-loungewear",
+   "title_original": "「ユニクロ」のラウンジウェアが映し出す、クリエイティブなあの子の素顔",
+   "source": "fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/08/702f9b92-d96f-43e7-b016-3098d346b343.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-05T10:00:00+00:00",
+   "title_ja": "ユニクロのラウンジウェアに焦点を当てクリエイティブな人物の素顔に迫る特集",
+   "summary_ja": "ユニクロのラウンジウェアを特集した企画が展開されています。クリエイティブな活動を行う人物の日常や素顔を映し出しながら、ユニクロのラウンジウェアが持つ魅力やその人らしい着こなしについて紹介しています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
    "has_detail": true
   }
  ]
