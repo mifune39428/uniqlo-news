@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T21:23:59.550525+09:00",
+ "updated_at": "2026-08-21T03:21:45.606027+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -42,12 +42,15 @@
   "Retail & Leisure International",
   "SSBCrack",
   "SunStar Publishing Inc.",
+  "The Business Journals",
   "The Economist",
   "Vietnam.vn",
+  "WhatNow",
   "Yahoo!ニュース",
   "asatunews.co.id",
   "fashionsnap.com",
   "houseofheat.co",
+  "journal.com.ph",
   "news.tv5.com.ph",
   "nikkei.com",
   "says.com",
@@ -71,9 +74,41 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 77,
- "detail_count": 44,
+ "count": 80,
+ "detail_count": 45,
  "items": [
+  {
+   "id": "5be717212d473723",
+   "url": "https://www.bizjournals.com/pacific/news/2026/08/20/uniqlo-owner-donates-3m-hawaii-storm-lala.html",
+   "title_original": "Uniqlo owner donates $3M to Hawaii after Tropical Storm Lala causes statewide damage",
+   "source": "The Business Journals",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-20T17:20:00+00:00",
+   "title_ja": "ユニクロ親会社、熱帯低気圧被害を受けたハワイに300万ドルを寄付",
+   "summary_ja": "熱帯低気圧「ララ」の襲来によってハワイ州全域で大きな被害が発生したことを受け、ユニクロの親会社が被災地支援として300万ドルを寄付することが判明した。現地への迅速な支援活動となる。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "c0ab8298c38ad0f8",
+   "url": "https://whatnow.com/new-york/retail/uniqlo-is-opening-a-new-store-in-nycs-financial-district",
+   "title_original": "UNIQLO is Opening a New Store in NYC’s Financial District",
+   "source": "WhatNow",
+   "image": "https://whatnow.com/wp-content/uploads/2026/08/UNIQLO.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-20T17:06:47+00:00",
+   "title_ja": "ユニクロが米ニューヨークのフィナンシャル・ディストリクトに新店舗を出店へ",
+   "summary_ja": "ユニクロが米国ニューヨークのフィナンシャル・ディストリクトエリアに新たな店舗をオープンすることが明らかになった。ニューヨーク市内における新たな拠点として出店が予定されている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ccb779f1077590b6",
    "url": "https://fashionunited.com/news/culture/uniqlo-teams-with-la-dodgers-for-youth-education-and-community-programs/2026082074176",
@@ -104,7 +139,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "19913fd6cb9a019a",
@@ -200,7 +235,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d15be91549fe7159",
@@ -217,6 +252,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "44aa6291885ad270",
+   "url": "https://journal.com.ph/ncca-slt-artisans-featured-in-uniqlos-70th-ph-japan-friendship-celebration",
+   "title_original": "NCCA SLT Artisans Featured In UNIQLO’s 70th PH-Japan Friendship Celebration",
+   "source": "journal.com.ph",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-19T15:47:10+00:00",
+   "title_ja": "比日国交70周年事業でユニクロがフィリピンの伝統工芸職人を特集",
+   "summary_ja": "フィリピンと日本の国交樹立70周年を記念する企画において、ユニクロがフィリピン全国文化芸術委員会に所属する伝統工芸職人を特集した。現地の伝統文化を称え、両国の交流を深める取り組みとして実施された。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "43320bd3ce3ef565",
