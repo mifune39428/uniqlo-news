@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T09:35:33.333430+09:00",
+ "updated_at": "2026-08-20T15:25:28.754405+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,6 +18,8 @@
  "sources": [
   "36Kr Japan",
   "@DIME アットダイム",
+  "AFPBB News",
+  "Access Winnipeg",
   "All About ニュース",
   "BAILA（バイラ）",
   "Boss Hunting",
@@ -68,9 +70,57 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 70,
- "detail_count": 39,
+ "count": 74,
+ "detail_count": 43,
  "items": [
+  {
+   "id": "19913fd6cb9a019a",
+   "url": "https://www.afpbb.com/articles/-/3648709",
+   "title_original": "中国の京東物流と日本のファストリが世界戦略で提携",
+   "source": "AFPBB News",
+   "image": "https://afpbb.ismcdn.jp/mwimgs/e/4/1000x/img_e41a7c7658be0d8643a2ad54ad23329f82503.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-20T06:00:00+00:00",
+   "title_ja": "ファーストリテイリングが中国の京東物流と世界戦略で提携",
+   "summary_ja": "ファーストリテイリングが中国の物流大手である京東物流とグローバル戦略で提携した。世界規模での事業展開を見据え、サプライチェーンや物流体制の効率化を図る取り組みとみられる。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "7476259d25eeeed4",
+   "url": "https://accesswinnipeg.com/2026/08/uniqlo-st-vital-centre-grand-opening-august-21-hours-deals-and-opening-weekend-events",
+   "title_original": "UNIQLO St. Vital Centre Grand Opening August 21: Hours, Deals and Opening Weekend Events",
+   "source": "Access Winnipeg",
+   "image": "https://accesswinnipeg.com/wp-content/uploads/2026/07/uniqlo-winnipeg-st-v.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-20T01:01:59+00:00",
+   "title_ja": "ユニクロ セント・バイタル・センター店が8月21日にグランドオープン",
+   "summary_ja": "カナダのユニクロ セント・バイタル・センター店が8月21日にグランドオープンします。オープンに合わせて、営業時間や限定のセール、週末のオープニングイベントなどが予定されています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6dcef4984729243a",
+   "url": "https://nlab.itmedia.co.jp/cont/articles/3982096",
+   "title_original": "仲里依紗、ユニクロ2990円アイテムを「やっと買えた」「かわいくない？」 妹購入の3990円パンツに「すごい上質」と驚く（1/3） | エンタメ ねとらぼ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787183108_ogp.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-20T00:38:26+00:00",
+   "title_ja": "仲里依紗がユニクロのアイテムを購入、妹のパンツの上質さに驚く",
+   "summary_ja": "俳優の仲里依紗さんが、ユニクロの2990円のアイテムを購入したことを報告しました。また、妹が購入した3990円のパンツについても、非常に上質であると驚きをもって評価しています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "26cebb07876b6ba7",
    "url": "https://netshop.impress.co.jp/n/2026/08/20/16578",
@@ -101,7 +151,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d15be91549fe7159",
@@ -309,6 +359,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "c3f2cebdeb187f31",
+   "url": "https://nlab.itmedia.co.jp/research/articles/3980697",
+   "title_original": "「ほかの服が着られない」「2セット購入」 ユニクロの“1990円ルームウェア上下セット”が好評 「サラサラ」「汗や水にぬれてもすぐ乾く」（1/2） | ライフ ねとらぼリサーチ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748835524_ae893cf31188d906210e595c4055854f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T04:20:00+00:00",
+   "title_ja": "ユニクロの1990円ルームウェアが好評",
+   "summary_ja": "ユニクロで販売されている1990円のルームウェア上下セットについて、速乾性やサラサラした肌触りが心地よいと購入者から高い評価を得ています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
