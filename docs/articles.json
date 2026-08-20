@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T15:25:28.754405+09:00",
+ "updated_at": "2026-08-20T21:23:59.550525+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -27,6 +27,7 @@
   "BusinessWorld Online",
   "Disney.jp",
   "Drapers",
+  "Fashion United",
   "Gear Patrol",
   "Gempak",
   "Honolulu Star-Advertiser",
@@ -70,9 +71,41 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 74,
- "detail_count": 43,
+ "count": 77,
+ "detail_count": 44,
  "items": [
+  {
+   "id": "ccb779f1077590b6",
+   "url": "https://fashionunited.com/news/culture/uniqlo-teams-with-la-dodgers-for-youth-education-and-community-programs/2026082074176",
+   "title_original": "Uniqlo teams with LA Dodgers for youth education and community programs",
+   "source": "Fashion United",
+   "image": "https://r.fashionunited.com/3JolmDhJdJ8k71YTq05mWkL8IZevhuYr4_um-yBYfyo/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDUvMDEvdW5uYW1lZC0zLTlxcGR1NmVxLTIwMjYtMDUtMDEuanBlZw.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-20T08:09:08.140092+00:00",
+   "title_ja": "ユニクロが米ドジャースと提携 青少年教育や地域支援プログラムを実施へ",
+   "summary_ja": "ユニクロが米大リーグのロサンゼルス・ドジャースと提携し、青少年の教育支援や地域コミュニティ向けプログラムを開始することが明らかになりました。スポーツを通じた社会貢献活動として、現地でのコミュニティ支援を強化します。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9b0b42c52f75a0d8",
+   "url": "https://news.yahoo.co.jp/articles/ac671dee0d6d6977af26b9d7c0729e90c9cacb29/images/000",
+   "title_original": "ユニクロのフリースが多彩に進化！2026年秋冬の注目アイテムをチェック (ウォーカープラス)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYzNgGBIJdY4e4TKNSgSw2bFyWzrEZ1Q1w5lm6LhsOw8hw6pfBRYUsOwgNBLjr_QukUPvbiK7Qq2YzWMIdW3z-LKulhvXf2zKbyHSt7hDRK2Yaa6KHtl--196gv2DKFAfHA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-20T06:30:00+00:00",
+   "title_ja": "ユニクロが2026年秋冬フリースを発表 多彩に進化した注目アイテムが登場",
+   "summary_ja": "ユニクロの2026年秋冬コレクションにて、フリースアイテムが多彩なラインナップで進化を遂げました。機能性やデザイン性をアップデートした注目商品が揃っており、これからの季節に向けたラインナップを公開しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "19913fd6cb9a019a",
    "url": "https://www.afpbb.com/articles/-/3648709",
@@ -152,6 +185,22 @@
    "brand": "グループ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "652e0891527bb6fd",
+   "url": "https://www.sanyonews.jp/article/1895086?kw=%E7%A6%8F%25",
+   "title_original": "ドジャース×ユニクロ、歴史的パートナーシップを締結 『UNIQLO Field at Dodger Stadium』誕生 柳井正氏「大変光栄に思います」【全文】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/c/e/5/d/ce5db58b600ec205e636d44136682fa9_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-19T19:06:19+00:00",
+   "title_ja": "ユニクロが米ドジャースとパートナーシップ締結、スタジアムに冠施設も誕生",
+   "summary_ja": "ユニクロが米MLBのロサンゼルス・ドジャースと歴史的なパートナーシップ契約を締結しました。ドジャー・スタジアム内に「UNIQLO Field」が誕生し、柳井正氏もコメントを発表しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "d15be91549fe7159",
