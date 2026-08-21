@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T09:37:40.990899+09:00",
+ "updated_at": "2026-08-21T15:26:10.719774+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -96,7 +96,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2c2d4333a6034c31",
@@ -112,7 +112,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9844b8202a1147af",
@@ -368,7 +368,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "43320bd3ce3ef565",
