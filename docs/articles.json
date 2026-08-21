@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T21:23:13.504444+09:00",
+ "updated_at": "2026-08-22T03:21:15.916192+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -79,15 +79,32 @@
   "中日BIZナビ",
   "号外NET 奈良市",
   "山陽新聞",
+  "日刊スポーツ",
   "日本経済新聞",
   "東京バーゲンマニア",
   "流通スーパーニュース",
   "流通ニュース",
   "読売新聞"
  ],
- "count": 97,
+ "count": 98,
  "detail_count": 56,
  "items": [
+  {
+   "id": "014d17bf6d18e4b1",
+   "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202608210001806-0.html",
+   "title_original": "ドジャースとユニクロが共同イベント 中学生42人が球団の歴史や多様性を学ぶ",
+   "source": "日刊スポーツ",
+   "image": "https://www.nikkansports.com/baseball/mlb/news/img/202608210001806-w1300_0.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-21T13:50:30+00:00",
+   "title_ja": "ドジャースとユニクロが共同イベント 中学生が球団の歴史や多様性を学ぶ",
+   "summary_ja": "米大リーグのドジャースとユニクロが共同イベントを開催しました。参加した42人の中学生は、イベントを通じてドジャース球団の歴史や多様性について学びを深める貴重な機会を得ました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "22afec36bd42a9bd",
    "url": "https://prtimes.jp/main/html/rd/p/000000119.000076227.html",
@@ -166,7 +183,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c5b3ece3619d0cb3",
@@ -198,7 +215,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a2579a37d40b8dec",
@@ -214,7 +231,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3b416870971aa2dd",
@@ -246,7 +263,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "80893ba5600d887d",
