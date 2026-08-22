@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T09:35:40.704003+09:00",
+ "updated_at": "2026-08-22T15:20:30.840483+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -23,6 +23,7 @@
   "Access Winnipeg",
   "All About ニュース",
   "BAILA（バイラ）",
+  "BVM Sports",
   "Boss Hunting",
   "BusinessMirror",
   "BusinessWorld Online",
@@ -87,9 +88,41 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 102,
- "detail_count": 59,
+ "count": 107,
+ "detail_count": 61,
  "items": [
+  {
+   "id": "247ec49a2e38d330",
+   "url": "https://news.yahoo.co.jp/articles/1ba45d2ddb67ef791fba523e3fd4397412611097/images/000",
+   "title_original": "ドジャースコーチ陣が日米の中学生に直接指導 ユニクロとドジャースが野球教室開催 (FNNプライムオンライン（フジテレビ系）)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY384BnZOCwrkQnuhzKDX2B4pXY3Xv04IXk3LF5zYRV2mL3J8rtThPnyuEEGFDYYNRsc0eyN9kNfBljNCVoHheXdpZ1LeOjXCD5gQgoofKPvY",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-22T02:20:35+00:00",
+   "title_ja": "ユニクロと米ドジャースが野球教室を開催　コーチ陣が日米の中学生を直接指導",
+   "summary_ja": "ユニクロと米大リーグのドジャースが共同で野球教室を開催し、ドジャースのコーチ陣が日本とアメリカの中学生へ直接指導を行いました。スポーツを通じた交流や青少年育成の取り組みとして実施されたイベントです。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4e8ba9f3149b084f",
+   "url": "https://bvmsports.com/2026/08/21/a-field-level-view-of-uniqlo-field-at-dodger-stadium",
+   "title_original": "A field-level view of UNIQLO Field at Dodger Stadium",
+   "source": "BVM Sports",
+   "image": "https://i4.ytimg.com/vi/3NTHG6qa03Y/hqdefault.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-22T01:18:51+00:00",
+   "title_ja": "米ドジャースタジアムの「ユニクロ・フィールド」をグラウンドレベルから紹介",
+   "summary_ja": "米国ロサンゼルスのドジャースタジアム内に設けられている「ユニクロ・フィールド」について、グラウンドレベルからの現地の様子や視点を紹介しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b04870b83dd0b7a3",
    "url": "https://www.seventietwo.com/ja/business/SVTglobal_20260821",
@@ -105,6 +138,22 @@
    "brand": "グループ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "e4ca73cec7eebcc4",
+   "url": "https://news.yahoo.co.jp/articles/57ad35b1eee8ba3f0e1fffff1b83fb03370d2bbb/images/000",
+   "title_original": "熊本から村上宗隆の“後輩”も参加 ユニクロの国際交流プログラムでドジャース首脳陣らが直接指導「周りの人に感謝」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYyBJg_UnHerZ4DCr39BLjq3_TNsievS8ggMxB__Fh9yb7AesOajYrIwACS8SmhG2E9es8VS8IgAQsm-9XnVqHxQANot4fmll7OHZESTr0Shu",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-21T20:42:00+00:00",
+   "title_ja": "ユニクロの国際交流プログラムでドジャース首脳陣が指導、熊本の中学生も参加",
+   "summary_ja": "ユニクロが実施する国際交流プログラムにおいて、ドジャースの首脳陣らが直接指導を行う野球教室が開催されました。このプログラムには熊本から村上宗隆選手の後輩にあたる中学生らも参加し、感謝の言葉を述べました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "9fcd91b65ffef0cc",
@@ -267,6 +316,22 @@
    "detail_tries": 2
   },
   {
+   "id": "26e1dde6f87d1a48",
+   "url": "https://hochi.news/articles/20260821-OHT1T51094.html",
+   "title_original": "ユニクロ×ドジャース再び ドジャースタジアムで日米の子どもたちが特別なプログラムを体験 ５年間で計１万人を目標",
+   "source": "スポーツ報知",
+   "image": "https://hochi.news/images/2026/08/21/20260821-OHT1I51180-C.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-21T04:50:00+00:00",
+   "title_ja": "ユニクロがドジャースと日米子ども向けプログラム",
+   "summary_ja": "ユニクロとドジャースがドジャースタジアムで日米の子どもたちが特別なプログラムを体験する企画を実施。5年間で計1万人の参加を目標に掲げています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "a2579a37d40b8dec",
    "url": "https://www.lofficielmalaysia.com/fashion/uniqlo-enters-the-modest-dressing-category-with-first-hijab-collection-in-malaysi",
    "title_original": "UNIQLO enters the modest dressing category with first Hijab Collection in Malaysia",
@@ -312,7 +377,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b06fd3eeb8813424",
@@ -457,6 +522,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "6b92bcf7a05137f5",
+   "url": "https://www.nikkei.com/article/DGKKZO98271570Q6A820C2H96A00",
+   "title_original": "ユニクロ、フィリピンで現地文化商品",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKKZO9827158020082026H96A00-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=5e27a2c5ef99971ffdd8993ea247964f",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-20T15:00:00+00:00",
+   "title_ja": "ユニクロがフィリピンで現地文化を反映した商品を展開",
+   "summary_ja": "ユニクロがフィリピン市場において、現地の文化を取り入れた商品を展開する方針であることが伝えられています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "ccb779f1077590b6",
