@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-22T03:21:15.916192+09:00",
+ "updated_at": "2026-08-22T09:35:40.704003+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -45,6 +45,7 @@
   "PR TIMES",
   "PRESIDENT Online（プレジデントオンライン）",
   "PoPville",
+  "Pokde.Net",
   "Retail & Leisure International",
   "SEVENTIE TWO",
   "SSBCrack",
@@ -86,9 +87,57 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 98,
- "detail_count": 56,
+ "count": 102,
+ "detail_count": 59,
  "items": [
+  {
+   "id": "b04870b83dd0b7a3",
+   "url": "https://www.seventietwo.com/ja/business/SVTglobal_20260821",
+   "title_original": "欧米ファッション株が反発 日本勢はアシックス4.64％安、ファストリ3.63％安で下落率ツートップ 「SVT グローバル」｜8月21日",
+   "source": "SEVENTIE TWO",
+   "image": "https://www.seventietwo.com/uploads/2026/03/840-22.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-22T00:00:00+00:00",
+   "title_ja": "8月21日の株式市場でファーストリテイリングが3.63％安を記録",
+   "summary_ja": "8月21日の株式市場にて、欧米のファッション関連株が反発した一方、日本の主要銘柄は下落した。ファーストリテイリングは3.63％安となり、アシックスとともに下落率の上位となった。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "9fcd91b65ffef0cc",
+   "url": "https://hochi.news/articles/20260822-OHT1T51034.html",
+   "title_original": "ドジャースとユニクロが国際野球交流プログラム 現役コーチ陣や高橋尚成氏が直接指導「僕も初めて王さんを見た時に…」",
+   "source": "スポーツ報知",
+   "image": "https://hochi.news/images/2026/08/22/20260822-OHT1I51011-C.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-21T19:54:00+00:00",
+   "title_ja": "ユニクロとドジャースが野球交流プログラムを開催　コーチ陣らが指導",
+   "summary_ja": "ユニクロとロサンゼルス・ドジャースが共同で国際野球交流プログラムを開催した。イベントでは現役のコーチ陣や高橋尚成氏らが登壇し、参加者へ直接指導を行った。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5d6b047090adeab8",
+   "url": "https://pokde.net/lifestyle/shopping/uniqlo-2026-fall-winter-collection",
+   "title_original": "UNIQLO Previews Upcoming UNIQLO 2026 Fall/Winter Collection In Kuala Lumpur",
+   "source": "Pokde.Net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/08/22033940/uniqlofw26collectioncover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-21T19:48:05+00:00",
+   "title_ja": "ユニクロがクアラルンプールで2026年秋冬コレクションを先行公開",
+   "summary_ja": "ユニクロがマレーシアのクアラルンプールで、2026年秋冬コレクションのプレビューを開催しました。現地でこれから登場する最新コレクションのお披露目が行われています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "014d17bf6d18e4b1",
    "url": "https://www.nikkansports.com/baseball/mlb/photonews/photonews_nsInc_202608210001806-0.html",
@@ -103,7 +152,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "22afec36bd42a9bd",
@@ -248,6 +297,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "bb1bfe8611b9c900",
+   "url": "https://www.sanyonews.jp/article/1887543?kw=2025",
+   "title_original": "ららぽーと豊洲、大規模リニューアルで「31店舗」順次オープン 江東区初のスーパーマーケットやゴディパン、ユニクロ拡大など【一覧】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/7/8/0/8780faad541889a858107f94325ccf5e_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-21T03:27:19+00:00",
+   "title_ja": "ららぽーと豊洲が大規模改装を実施しユニクロの店舗面積を拡大",
+   "summary_ja": "アーバンドック ららぽーと豊洲が大規模リニューアルを行い、31店舗を順次オープンします。この改装に伴い、施設内のユニクロも店舗を拡大してリニューアルされます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b06fd3eeb8813424",
