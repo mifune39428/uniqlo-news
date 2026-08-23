@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T03:13:28.465941+09:00",
+ "updated_at": "2026-08-23T09:38:37.497189+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -22,6 +22,7 @@
   "AFPBB News",
   "Access Winnipeg",
   "All About ニュース",
+  "Alvinology",
   "BAILA（バイラ）",
   "BVM Sports",
   "Boss Hunting",
@@ -44,6 +45,7 @@
   "Manila Bulletin",
   "Mshale",
   "Newswav",
+  "North Luzon Monitor",
   "PR TIMES",
   "PRESIDENT Online（プレジデントオンライン）",
   "PoPville",
@@ -97,9 +99,57 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 121,
- "detail_count": 68,
+ "count": 125,
+ "detail_count": 70,
  "items": [
+  {
+   "id": "ac93f3bff31aa250",
+   "url": "https://alvinology.com/2026/08/23/uniqlo-welcomes-fall-winter-2026-with-lifewear-week-and-new-city-inspired-styles",
+   "title_original": "UNIQLO Welcomes Fall Winter 2026 with LifeWear Week and New City Inspired Styles",
+   "source": "Alvinology",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-22T23:00:00+00:00",
+   "title_ja": "ユニクロが2026年秋冬コレクション「LifeWear Week」を開催",
+   "summary_ja": "ユニクロは「LifeWear Week」を開催し、都市から着想を得た新たなスタイルとともに2026年秋冬シーズンのコレクションを発表した。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f8986339efff6943",
+   "url": "https://northluzonmonitor.com/ncca-slt-artisans-shine-in-uniqlos-70th-ph-japan-friendship-celeb",
+   "title_original": "NCCA SLT artisans shine in UNIQLO’s 70th PH-Japan Friendship celeb",
+   "source": "North Luzon Monitor",
+   "image": "https://northluzonmonitor.com/wp-content/uploads/2026/08/IMG_8991-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-22T22:00:44+00:00",
+   "title_ja": "ユニクロの比日国交70周年イベントで現地の伝統工芸職人が活躍",
+   "summary_ja": "フィリピンと日本の国交正常化70周年を記念したユニクロのイベントにて、フィリピン文化芸術委員会の伝統工芸職人が参加しスポットライトを浴びた。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "959661f57505cf4e",
+   "url": "https://www.nikkei.com/article/DGXZQOGM052VF0V00C26A8000000",
+   "title_original": "ユニクロ、フィリピンで現地文化商品 伝統刺しゅうワッペンなど",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3422102006082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.27&fp-y=0.26&h=630&upscale=false&w=1200&s=d27d3f0331d5d58e0aff2f2e1c894b70",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-22T20:00:00+00:00",
+   "title_ja": "ユニクロがフィリピンで伝統刺繍ワッペンなど現地文化商品を販売",
+   "summary_ja": "ユニクロはフィリピンにて、現地の伝統的な刺しゅうを取り入れたワッペンをはじめ、地域の文化や伝統を活かした商品の販売を実施している。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0f43c4d72763acaa",
    "url": "https://www.wwdjapan.com/articles/2451227",
@@ -114,7 +164,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bbd120973e8bd05b",
@@ -130,6 +180,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "632da81201a0eb2c",
+   "url": "https://www.sanyonews.jp/article/1911002",
+   "title_original": "【きょうから】ユニクロ、お得な『ゴールデンウィークキャンペーン』5月7日まで開催 のべ100商品以上が特別価格に 初日3日間はノベルティプレゼントも実施",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/e/7/f/8/e7f82e57f4bcf31fbe7a8b9c0a3398fc_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-22T10:18:02+00:00",
+   "title_ja": "ユニクロが5月7日までGWキャンペーン開催、100点以上が特別価格に",
+   "summary_ja": "ユニクロは、5月7日まで「ゴールデンウィークキャンペーン」を開催します。のべ100商品以上が特別価格で販売されるほか、キャンペーン開始からの初日3日間はノベルティのプレゼントも実施されます。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -146,7 +212,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c8ca2bc451166e0e",
@@ -178,7 +244,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "18f7854ad2e9f68c",
@@ -226,7 +292,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3f5604f8c49c9f16",
@@ -306,7 +372,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "80bce26012427c60",
@@ -850,7 +916,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "26cebb07876b6ba7",
