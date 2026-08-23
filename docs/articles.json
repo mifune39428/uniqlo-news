@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T21:17:30.336030+09:00",
+ "updated_at": "2026-08-24T03:13:38.807228+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -136,7 +136,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8fc1b13ce556c845",
@@ -152,7 +152,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "666a9a431fd2d174",
