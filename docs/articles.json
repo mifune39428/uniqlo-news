@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T15:21:56.077752+09:00",
+ "updated_at": "2026-08-23T21:17:30.336030+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -40,6 +40,7 @@
   "KITV",
   "Kursiv Media Узбекистан",
   "L'Officiel Malaysia",
+  "Laodong.vn",
   "Liverpool Echo",
   "MLB.com",
   "Manila Bulletin",
@@ -81,6 +82,7 @@
   "ふねぽ",
   "インサイド",
   "サンスポ",
+  "スポーツブル",
   "スポーツ報知",
   "ダイヤモンド・チェーンストア",
   "ネットショップ担当者フォーラム",
@@ -90,6 +92,7 @@
   "マイナビ子育て",
   "ママテナ",
   "中日BIZナビ",
+  "千葉テレビ放送",
   "号外NET 奈良市",
   "山陽新聞",
   "日刊スポーツ",
@@ -100,9 +103,57 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 126,
- "detail_count": 70,
+ "count": 130,
+ "detail_count": 72,
  "items": [
+  {
+   "id": "c70b1e3bb3700c59",
+   "url": "https://news.yahoo.co.jp/articles/e1df14736e8cc418839081603af847c6226a95c4",
+   "title_original": "国枝慎吾さんが出場選手と交流 ユニクロ全日本ジュニアテニス（毎日新聞）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00000050-mai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T11:05:47+00:00",
+   "title_ja": "国枝慎吾さんがユニクロ全日本ジュニアテニスに出場する選手たちと交流",
+   "summary_ja": "ユニクロ全日本ジュニアテニスにて、国枝慎吾さんが出場選手たちと交流を行った。大会に参加するジュニア選手との触れ合いを通じて、交流を深めた様子が伝えられている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "915ea6e67ad1ddf3",
+   "url": "https://sportsbull.jp/p/2403687",
+   "title_original": "ドジャースとユニクロが子供たちのアカデミー開催 ロバーツ監督もサプライズ参加",
+   "source": "スポーツブル",
+   "image": "https://img.sportsbull.jp/raw/20260823190506287734.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T09:44:09+00:00",
+   "title_ja": "ユニクロがドジャースと子ども向けアカデミーを開催、ロバーツ監督も参加",
+   "summary_ja": "ロサンゼルス・ドジャースとユニクロが子どもたちを対象としたアカデミーを開催した。イベントにはドジャースのロバーツ監督もサプライズで参加し、子どもたちと交流した。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8fc1b13ce556c845",
+   "url": "https://www.chiba-tv.com/plus/detail/2026081931046",
+   "title_original": "ユニクロ柳井氏、ハワイのハリケーン被災者支援に約4億8000万円寄付。「ハワイは私にとって特別な場所」",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1464162361745737020/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T07:38:31+00:00",
+   "title_ja": "ファーストリテイリング柳井氏、ハワイのハリケーン被災者支援へ約4.8億円を寄付",
+   "summary_ja": "ユニクロを展開するファーストリテイリングの柳井氏が、ハワイで発生したハリケーンの被災者支援のために約4億8000万円を寄付しました。自身にとって特別な場所であるハワイへの思いとともに、復興支援に向けた意向を示しています。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "666a9a431fd2d174",
    "url": "https://s.inside-games.jp/article/2026/08/23/186631.html",
@@ -117,7 +168,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ac93f3bff31aa250",
@@ -198,6 +249,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "bcc35ea327733007",
+   "url": "https://news.laodong.vn/tien-te-dau-tu/tai-san-nhieu-ti-phu-nhat-ban-tang-manh-masayoshi-son-bat-kip-tadashi-yanai-1754491.ldo",
+   "title_original": "The assets of many Japanese billionaires increased sharply, Masayoshi Son caught up with Tadashi Yanai",
+   "source": "Laodong.vn",
+   "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/8/22/1754491/7E19b23b-2F56-4F09-A.jpg?w=800&h=420&crop=auto&scale=both",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-22T10:53:03+00:00",
+   "title_ja": "日本の富豪の資産が大幅増加　孫正義氏の資産額がファーストリテイリング柳井正氏に迫る",
+   "summary_ja": "日本の富豪らの資産が急増しており、ソフトバンクグループの孫正義氏の資産額がファーストリテイリングの柳井正会長兼社長に迫っていることが海外メディアで報じられた。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "632da81201a0eb2c",
