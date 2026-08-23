@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T09:38:37.497189+09:00",
+ "updated_at": "2026-08-23T15:21:56.077752+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -79,6 +79,7 @@
   "ねとらぼ",
   "ぴあエンタメ情報",
   "ふねぽ",
+  "インサイド",
   "サンスポ",
   "スポーツ報知",
   "ダイヤモンド・チェーンストア",
@@ -99,9 +100,25 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 125,
+ "count": 126,
  "detail_count": 70,
  "items": [
+  {
+   "id": "666a9a431fd2d174",
+   "url": "https://s.inside-games.jp/article/2026/08/23/186631.html",
+   "title_original": "ユニクロの「パンどろぼう」のアパレルがキュート！お茶目で憎めない姿がかわいい、キルトパジャマ2種類",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/ogp_f/1756576.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T03:30:03+00:00",
+   "title_ja": "ユニクロから絵本「パンどろぼう」デザインのキルトパジャマ2種が登場",
+   "summary_ja": "ユニクロから人気絵本「パンどろぼう」のアパレルアイテムとしてキルトパジャマ2種類が登場します。愛らしいキャラクターのイラストがプリントされた、可愛らしいデザインのウェアとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "ac93f3bff31aa250",
    "url": "https://alvinology.com/2026/08/23/uniqlo-welcomes-fall-winter-2026-with-lifewear-week-and-new-city-inspired-styles",
@@ -116,7 +133,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f8986339efff6943",
@@ -196,7 +213,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3b43705e25fb94f1",
