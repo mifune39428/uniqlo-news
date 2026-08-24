@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T03:13:38.807228+09:00",
+ "updated_at": "2026-08-24T09:37:20.082490+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -103,9 +103,25 @@
   "流通ニュース",
   "読売新聞"
  ],
- "count": 130,
+ "count": 131,
  "detail_count": 72,
  "items": [
+  {
+   "id": "2c4b0c2af92cb9ce",
+   "url": "https://mb.com.ph/2026/08/24/uniqlo-philippines-marks-ph-japan-milestone-with-sustainable-art",
+   "title_original": "UNIQLO Philippines marks PH-Japan milestone with sustainable art",
+   "source": "Manila Bulletin",
+   "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/24/125645.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T07:51:00+00:00",
+   "title_ja": "ユニクロフィリピン、日本との節目を記念したサステナブルアートを披露",
+   "summary_ja": "ユニクロのフィリピン法人が、日本とフィリピンの節目を祝う取り組みとして持続可能性をテーマにしたアートを公開しました。両国の友好関係を深めるとともに、環境配慮への姿勢を表現するイベントとなっています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "c70b1e3bb3700c59",
    "url": "https://news.yahoo.co.jp/articles/e1df14736e8cc418839081603af847c6226a95c4",
