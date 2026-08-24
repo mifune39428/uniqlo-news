@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T15:34:52.097091+09:00",
+ "updated_at": "2026-08-24T21:24:27.261333+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -20,6 +20,7 @@
   "7NEWS",
   "@DIME アットダイム",
   "AFPBB News",
+  "AMP[アンプ]",
   "Access Winnipeg",
   "All About ニュース",
   "Alvinology",
@@ -32,6 +33,8 @@
   "Disney.jp",
   "Drapers",
   "Fashion United",
+  "FashionNetwork - The World's Fashion Business News",
+  "FashionNetwork France",
   "Gear Patrol",
   "Gempak",
   "Honolulu Star-Advertiser",
@@ -63,6 +66,8 @@
   "The Business Journals",
   "The Cool Down",
   "The Economist",
+  "The MoCo Show -",
+  "TheIndustry.fashion",
   "Vietnam.vn",
   "Vogue Japan",
   "WWDJAPAN",
@@ -70,16 +75,19 @@
   "Yahoo!ニュース",
   "asatunews.co.id",
   "baby-babys.com",
+  "cwg.com",
   "fashionsnap.com",
   "houseofheat.co",
   "journal.com.ph",
   "news.tv5.com.ph",
   "nikkei.com",
   "says.com",
+  "simplywall.st",
   "smart-flash.jp",
   "speed.ph",
   "thephilbiznews",
   "toledoblade.com",
+  "uptodate.tokyo",
   "しもブロ",
   "ねとらぼ",
   "ぴあエンタメ情報",
@@ -105,13 +113,14 @@
   "日本経済新聞",
   "日経ビジネス電子版",
   "東京バーゲンマニア",
+  "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
   "繊研新聞",
   "読売新聞"
  ],
- "count": 145,
- "detail_count": 81,
+ "count": 155,
+ "detail_count": 90,
  "items": [
   {
    "id": "67bc770962ac0e04",
@@ -127,6 +136,118 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "46a4eb13603bc636",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%9D%A5%E6%9C%88%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%81%AB%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-lifewear%E3%82%92%E5%B1%95%E9%96%8B,1860342.html",
+   "title_original": "ユニクロ、来月ケンブリッジのグランド・アーケードに新店舗オープン—LifeWearを展開",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-24T11:16:15+00:00",
+   "title_ja": "ユニクロが来月、英ケンブリッジのグランド・アーケードに新店舗を開店",
+   "summary_ja": "ユニクロが来月、英国ケンブリッジの商業施設「グランド・アーケード」に新店舗をオープンすることが分かりました。同店ではブランドの軸であるLifeWearを全面的に展開する予定となっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "aeea024570373dc8",
+   "url": "https://ww.fashionnetwork.com/news/Uniqlo-takes-lifewear-to-cambridge-with-grande-arcade-store-opening-next-month,1860341.html",
+   "title_original": "Uniqlo takes LifeWear to Cambridge with Grande Arcade store opening next month",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T11:16:15+00:00",
+   "title_ja": "ユニクロが英ケンブリッジにオープン予定の新店舗でLifeWearを展開",
+   "summary_ja": "ユニクロは来月、イギリスのケンブリッジにあるグランド・アーケードに新店舗を開店します。同店を通じて独自の商品コンセプトであるLifeWearを現地の顧客に向けて提案していく方針です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "ad84fc997279c573",
+   "url": "https://cwg.com/press-release/uniqlo-joins-the-fashion-line-up-at-canary-wharf-24-08-26",
+   "title_original": "UNIQLO joins the fashion line up at Canary Wharf – 24.08.26",
+   "source": "cwg.com",
+   "image": "https://cwg.com/wp-content/uploads/2026/08/UNIQLO-Canary-Wharf-web-jpeg.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T11:14:58+00:00",
+   "title_ja": "英カナリー・ワーフの出店企業にユニクロが加入",
+   "summary_ja": "イギリスのロンドンにあるカナリー・ワーフのファッションブランドラインナップに、ユニクロが新たに加わることが判明しました。現地の主要エリアにおける今後の出店や店舗展開に注目が集まっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "eb41ea54691681cd",
+   "url": "https://www.drapersonline.com/news/uniqlo-readies-cambridge-store",
+   "title_original": "Uniqlo readies Cambridge store",
+   "source": "Drapers",
+   "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/2/2026/08/24112112/UNIQLO-Grand-Arcade-560x315.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T10:46:06+00:00",
+   "title_ja": "ユニクロが英ケンブリッジでの出店に向けオープン準備を進める",
+   "summary_ja": "ユニクロがイギリスのケンブリッジでの新店舗開設に向けて、準備を着々と進めていることが報じられました。現地におけるブランドの認知拡大とさらなる店舗網の強化が期待されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fdbf64c4c1d20891",
+   "url": "https://mainichi.jp/articles/20260824/k00/00m/050/223000c",
+   "title_original": "ユニクロ全日本ジュニアテニス選手権が開幕 9月5日まで熱戦",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2023/07/06/20230706k0000m050101000p/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-24T10:07:43+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス選手権が開幕",
+   "summary_ja": "ジュニアテニスの国内最高峰の大会である「ユニクロ全日本ジュニアテニス選手権」が開幕しました。大会は9月5日まで開催され、全国から集まった若い選手たちによる熱い戦いが繰り広げられます。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "562c0c4a26fd1b6a",
+   "url": "https://www.theindustry.fashion/uniqlo-accelerates-uk-expansion-with-new-store-in-cambridge",
+   "title_original": "Uniqlo accelerates expansion with new store in Cambridge",
+   "source": "TheIndustry.fashion",
+   "image": "https://www.theindustry.fashion/wp-content/uploads/2026/08/Title-39-1024x576.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T08:15:21+00:00",
+   "title_ja": "ユニクロが英ケンブリッジに新店舗をオープンし出店加速",
+   "summary_ja": "ユニクロは、英国のケンブリッジに新店舗をオープンし、同地域での出店拡大を加速させています。今回の新店舗開設により、現地におけるブランドの存在感をさらに高め、顧客基盤の拡大を図る狙いがあるとみられます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3292b7db3ada15dd",
+   "url": "https://mocoshow.com/2026/08/24/new-22000-sf-uniqlo-store-opens-on-august-28th",
+   "title_original": "New 22,000 SF Uniqlo Store Opens on August 28th",
+   "source": "The MoCo Show -",
+   "image": "https://mocoshow.com/wp-content/uploads/2026/08/IMG_3259.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T08:00:44+00:00",
+   "title_ja": "2万2000平方フィート規模のユニクロ新店舗が8月28日に開店へ",
+   "summary_ja": "8月28日に店舗面積2万2000平方フィートを誇るユニクロの新店舗がオープンする予定であることを報じる記事。広い店舗空間を生かした商品展開と快適な買い物の場が提示される。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -178,6 +299,22 @@
    "has_detail": true
   },
   {
+   "id": "4a134a3a167b5095",
+   "url": "https://ampmedia.jp/2026/08/24/uniqlo-u-2026aw",
+   "title_original": "ユニクロ、「Uniqlo U」2026秋冬コレクションを9月11日発売 全33アイテムを展開",
+   "source": "AMP[アンプ]",
+   "image": "https://ampmedia.jp/wp-content/uploads/2026/08/76227-120-11011dd74569e6e6c85952dc59adf0e7-1016x571-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-24T05:12:17+00:00",
+   "title_ja": "ユニクロ「Uniqlo U」2026秋冬コレクションが9月11日に発売決定、全33アイテムを展開",
+   "summary_ja": "ユニクロは、人気ライン「Uniqlo U」の2026年秋冬コレクションを9月11日より発売します。今シーズンは全33アイテムを展開する予定で、洗練されたデザインと機能性を兼ね備えた秋冬の新作ラインナップが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "f18316c2ce6535bd",
    "url": "https://www.wwdjapan.com/articles/2479138",
    "title_original": "「ユニクロ ユー」第1章の集大成 クリストフ・ルメール、サラ＝リン・トランが主導する最後のコレクション",
@@ -191,7 +328,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "539748e1a75a1bca",
@@ -239,7 +376,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6b723b2acc14a1a6",
@@ -255,7 +392,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3c3eae94c388d08e",
@@ -306,6 +443,22 @@
    "has_detail": true
   },
   {
+   "id": "7a0d9a67095e2f3a",
+   "url": "https://uptodate.tokyo/uniqlo-u-2026fw",
+   "title_original": "Uniqlo U 2026年秋冬コレクションが国内9月11日より発売。クリストフ・ルメール、サラ-リン・トランが主導する第1章最後のコレクション【26FW】",
+   "source": "uptodate.tokyo",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/08/IMG_0064-1024x575.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-24T02:29:50+00:00",
+   "title_ja": "「Uniqlo U」秋冬新作が9月11日発売、ルメールらが手がける第1章の最終コレクション",
+   "summary_ja": "ユニクロは、「Uniqlo U」の2026年秋冬コレクションを9月11日より発売します。クリストフ・ルメールとサラ＝リン・トランが主導してきたプロジェクトの「第1章」を締めくくる、最後のコレクションとなります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "2dc23274d54aacd9",
    "url": "https://www.fashionsnap.com/article/2026-08-24/uniqlo-u-close",
    "title_original": "ルメールによるユニクロ ユーがラストコレクション 始動から10年",
@@ -319,7 +472,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "9d25d951480b528c",
@@ -338,6 +491,22 @@
    "has_detail": true
   },
   {
+   "id": "70af4d4d2e0c8cec",
+   "url": "https://simplywall.st/ja/stocks/jp/retail/tse-9983/fast-retailing-shares/news/b43fe99d2c548cf5/amp",
+   "title_original": "このインサイダーが、ファーストリテイリングの株式を売却したばかりだ",
+   "source": "simplywall.st",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T23:11:33.401000+00:00",
+   "title_ja": "ファーストリテイリングのインサイダーが同社株式を売却",
+   "summary_ja": "ファーストリテイリングの内部関係者（インサイダー）が、同社の株式を売却したことが明らかになりました。インサイダーによる取引は、市場関係者や投資家の間で注目される動向となっています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "a4461ad33024b35b",
    "url": "https://www.oricon.co.jp/news/2475123/embed/video/?anc=322",
    "title_original": "関連動画 | 仲里依紗、現在の身長＆体重を公表 ユニクロで購入した“意外なサイズ”に共感する声「親近感ありすぎる」",
@@ -351,7 +520,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c70b1e3bb3700c59",
