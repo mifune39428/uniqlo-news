@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T21:24:27.261333+09:00",
+ "updated_at": "2026-08-25T03:23:08.605623+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -29,6 +29,7 @@
   "Boss Hunting",
   "BusinessMirror",
   "BusinessWorld Online",
+  "Cambridge News",
   "DK Pittsburgh Sports",
   "Disney.jp",
   "Drapers",
@@ -52,6 +53,7 @@
   "Mshale",
   "Newswav",
   "North Luzon Monitor",
+  "Oui Speak Fashion (OSF)",
   "PR TIMES",
   "PRESIDENT Online（プレジデントオンライン）",
   "PoPville",
@@ -66,6 +68,7 @@
   "The Business Journals",
   "The Cool Down",
   "The Economist",
+  "The Georgetowner",
   "The MoCo Show -",
   "TheIndustry.fashion",
   "Vietnam.vn",
@@ -76,6 +79,7 @@
   "asatunews.co.id",
   "baby-babys.com",
   "cwg.com",
+  "dscene magazine",
   "fashionsnap.com",
   "houseofheat.co",
   "journal.com.ph",
@@ -119,9 +123,25 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 155,
- "detail_count": 90,
+ "count": 161,
+ "detail_count": 95,
  "items": [
+  {
+   "id": "c75f4d35458578ef",
+   "url": "https://georgetowner.com/articles/2026/08/24/uniqlo-times-from-tokyo-to-georgetown",
+   "title_original": "UNIQLO TIMES: From Tokyo to Georgetown",
+   "source": "The Georgetowner",
+   "image": "https://georgetowner.com/wp-content/uploads/2026/08/1A-1024x819.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T17:09:32+00:00",
+   "title_ja": "ユニクロが東京から米ジョージタウンへ展開",
+   "summary_ja": "ユニクロが東京からアメリカのジョージタウンへの展開を進めています。日本発のグローバルブランドとして、現地市場における新たな店舗出店とブランド発信を行っています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "67bc770962ac0e04",
    "url": "https://hypebeast.com/jp/2026/8/uniqlo-u-10th-anniversary-collection-2026-fall-winter-release-info",
@@ -139,6 +159,38 @@
    "has_detail": true
   },
   {
+   "id": "a5fe60248ee7846c",
+   "url": "https://www.designscene.net/2026/08/uniqlo-u-fw26-collection.html",
+   "title_original": "Uniqlo U Celebrates 10th Anniversary With FW26 Collection",
+   "source": "dscene magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T14:03:45+00:00",
+   "title_ja": "ユニクロ Uが10周年を迎える2026年秋冬コレクションを発表",
+   "summary_ja": "ユニクロの人気ライン「Uniqlo U」が、2026年秋冬コレクションでブランド設立10周年を迎えることが分かりました。節目のシーズンを飾る新たなアイテムが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "418b6489cec889d0",
+   "url": "https://www.cambridge-news.co.uk/news/cambridge-news/opening-date-confirmed-new-popular-34507801",
+   "title_original": "Opening date confirmed for new popular clothing shop in Cambridge",
+   "source": "Cambridge News",
+   "image": "https://i2-prod.cambridge-news.co.uk/article34507818.ece/ALTERNATES/s1200d/0_UNIQLO-Grand-Arcade.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T13:00:00+00:00",
+   "title_ja": "英ケンブリッジの新店舗でオープン日が確定",
+   "summary_ja": "イギリスのケンブリッジに新しく出店する人気衣料品店のオープン日が確定しました。現地市場で注目を集める新店舗の開業に向け、具体的な営業開始日が公表されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "46a4eb13603bc636",
    "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%9D%A5%E6%9C%88%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%81%AB%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-lifewear%E3%82%92%E5%B1%95%E9%96%8B,1860342.html",
    "title_original": "ユニクロ、来月ケンブリッジのグランド・アーケードに新店舗オープン—LifeWearを展開",
@@ -152,7 +204,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "aeea024570373dc8",
@@ -168,7 +220,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ad84fc997279c573",
@@ -184,6 +236,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "592cd4191df4fc7c",
+   "url": "https://ouispeakfashion.com/uniqlo-u-fw2026-confidence-in-form",
+   "title_original": "UNIQLO U Marks 10 Years With Final Collection Under Christophe Lemaire and Sarah-Linh Tran",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2026/08/OSF-main-image-1-10.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T10:57:18+00:00",
+   "title_ja": "ユニクロ Uが10周年、ルメールらの手掛けるラストコレクションを発表",
+   "summary_ja": "ユニクロの「Uniqlo U」が10周年を迎え、クリストフ・ルメールとサラ＝リン・トランが手掛ける最後のコレクションを発表します。長年ブランドを率いたコンビによる集大成となります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -248,6 +316,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d703058dcabb8579",
+   "url": "https://hypebeast.com/2026/8/christophe-lemaire-sarah-linh-tran-uniqlo-u-10th-anniversary-final-capsule-lookbook-release-info",
+   "title_original": "Christophe Lemaire and Sarah-Linh Tran Mark Decade-Long UNIQLO U Partnership With 10th Anniversary Capsule",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F23%2Fchristophe-lemaire-sarah-linh-tran-uniqlo-u-10th-anniversary-final-capsule-lookbook-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-24T08:00:20+00:00",
+   "title_ja": "UNIQLO Uが10周年、ルメールらとの記念カプセルを発表",
+   "summary_ja": "クリストフ・ルメールとサラ＝リン・トランが手掛けるUNIQLO Uが、パートナーシップ10周年を記念したカプセルコレクションを発表しました。長年の協業の節目を飾る注目のラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -521,6 +605,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "efb882e5822dac20",
+   "url": "https://bworldonline.com/arts-and-leisure/2026/08/24/771787/a-merging-of-authentic-pinoy-craft-and-japanese-style",
+   "title_original": "A merging of authentic Pinoy craft and Japanese style",
+   "source": "BusinessWorld Online",
+   "image": "https://bworldonline.com/wp-content/uploads/2026/08/Re.UNIQLO-Studio.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-23T16:02:40+00:00",
+   "title_ja": "フィリピンの伝統工芸と日本スタイルが融合したユニクロの企画",
+   "summary_ja": "フィリピンの伝統的なクラフトマンシップと日本のスタイルを掛け合わせたユニクロの取り組みが取り上げられています。現地の文化や職人技を活かした独自のデザイン展開が紹介されています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "c70b1e3bb3700c59",
