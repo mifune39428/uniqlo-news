@@ -15,6 +15,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="uniqlo-news"></script>
 <style>
   :root {
     --bg: #f2f2f2;
@@ -198,6 +199,18 @@ function translated(url) {
   return "https://translate.google.com/translate?sl=auto&tl=ja&u=" + encodeURIComponent(url);
 }
 
+// 解説があれば詳細ページへ。無い記事は（英語なら翻訳済みの）原文へ直接飛ばす。
+// お気に入り一覧（ui.js）も同じ決め方を使うので、window.NEWS_LINK に置いておく。
+function linkTarget(item) {
+  if (item.has_detail) {
+    return { href: `a.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "詳しく読む →" };
+  }
+  return item.lang === "ja"
+    ? { href: item.url, blank: true, label: "元の記事を読む →" }
+    : { href: translated(item.url), blank: true, label: "日本語で原文を読む →" };
+}
+window.NEWS_LINK = linkTarget;
+
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
@@ -251,14 +264,9 @@ function render() {
       ? `${img("hero")}${meta}${title}`
       // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
       : `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`;
-    // 解説があれば詳細ページへ。無い記事は（英語なら翻訳済みの）原文へ直接飛ばす。
-    const target = item.has_detail
-      ? { href: `a.html?id=${encodeURIComponent(item.id)}`, blank: false, label: "詳しく読む →" }
-      : (item.lang === "ja"
-          ? { href: item.url, blank: true, label: "元の記事を読む →" }
-          : { href: translated(item.url), blank: true, label: "日本語で原文を読む →" });
+    const target = linkTarget(item);
     return `
-    <article>
+    <article data-id="${escapeHtml(item.id)}">
       <a href="${escapeHtml(target.href)}"${target.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}>
         ${head}
         <p class="summary">${escapeHtml(item.summary_ja)}</p>
@@ -341,7 +349,7 @@ async function load() {
   try {
     const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    all = data.items || [];
+    all = window.NEWS_ITEMS = data.items || [];
     document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
     document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
     buildAll(data.categories || [], data.brands || []);

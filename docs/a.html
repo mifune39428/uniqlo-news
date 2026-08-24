@@ -10,6 +10,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
+<script src="ui.js" data-site="uniqlo-news"></script>
 <style>
   :root {
     --bg: #f2f2f2; --card: #ffffff; --text: #111111; --muted: #767676;
@@ -127,6 +128,7 @@ async function load() {
         <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
         <p>記事および画像の著作権は${escapeHtml(a.source)}に帰属します。このサイトは個人が運営する非公式のニュースまとめです。</p>
       </div>`;
+    if (window.uiAttachDetail) uiAttachDetail(a);   // 日付の行に「☆ お気に入り」を足す
   } catch (err) {
     main.innerHTML = '<p class="loading">記事が見つかりませんでした。<br><a href="./">一覧へ戻る</a></p>';
   }
