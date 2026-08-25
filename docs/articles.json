@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T21:25:06.975457+09:00",
+ "updated_at": "2026-08-26T03:22:32.239095+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -27,11 +27,13 @@
   "BAILA（バイラ）",
   "BVM Sports",
   "Boss Hunting",
+  "Business Standard",
   "BusinessMirror",
   "BusinessWorld Online",
   "Cambridge News",
   "CoStar",
   "Completely Retail News",
+  "DC News Now",
   "DK Pittsburgh Sports",
   "Disney.jp",
   "Drapers",
@@ -139,9 +141,57 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 187,
- "detail_count": 114,
+ "count": 191,
+ "detail_count": 115,
  "items": [
+  {
+   "id": "1868ade92c28f0db",
+   "url": "https://www.dcnewsnow.com/news/local-news/washington-dc/uniqlo-clothing-store-to-host-grand-opening-in-georgetown",
+   "title_original": "UNIQLO clothing store to host grand opening in Georgetown",
+   "source": "DC News Now",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T17:11:42+00:00",
+   "title_ja": "米ジョージタウンでユニクロの新店舗がグランドオープンへ",
+   "summary_ja": "米国のジョージタウンにおいて、アパレルブランドのユニクロが新店舗のグランドオープニングを開催することが明らかになった。地域における新たな店舗展開として準備が進められている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "0ab115f27a52e8b2",
+   "url": "https://www.business-standard.com/amp/companies/news/uniqlo-india-to-focus-expansion-on-six-cities-where-it-has-a-presence-126082501232_1.html",
+   "title_original": "Uniqlo India to focus expansion on six cities where it has a presence",
+   "source": "Business Standard",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T13:55:19+00:00",
+   "title_ja": "ユニクロがインドでの出店拡大を既存6都市に集中へ",
+   "summary_ja": "インドにおけるユニクロが、今後の店舗拡大において現在すでに進出を果たしている主要6都市に焦点を絞って集中展開する方針であることが分かった。基盤のある地域でのさらなる成長を目指す。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "de9226658b499d41",
+   "url": "https://news.laodong.vn/tien-te-dau-tu/tai-san-ti-phu-nhat-ban-bien-dong-ong-chu-uniqlo-lay-lai-vi-tri-dan-dau-1756217.ldo",
+   "title_original": "Japanese billionaire's assets fluctuate, Uniqlo owner regains leadership",
+   "source": "Laodong.vn",
+   "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/8/25/1756217/Anh-Man-Hinh-2026-08-02.jpeg?w=800&h=420&crop=auto&scale=both",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T12:25:40+00:00",
+   "title_ja": "ユニクロ展開企業の創業者が資産首位を奪還　日本の富豪資産が変動",
+   "summary_ja": "日本の富豪における保有資産の変動に伴い、ユニクロを展開する企業の創業者が再び首位に立ったことを伝える海外報道です。富豪ランキングにおける資産推移と首位交代の動きについて報じられています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "29b931d882c3f74f",
    "url": "https://prtimes.jp/main/html/rd/p/000000152.000068741.html",
@@ -188,6 +238,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "88e3ec520b62b7b7",
+   "url": "https://news.yahoo.co.jp/articles/270e24bde513d2270090001b2f4e7a17d63bb13b/images/000",
+   "title_original": "「ユニクロ ユー」2026秋冬、最後のコレクション発売 ウィメンズ14種＆メンズ17種＆グッズ2種 (オトナンサー)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY00dkt0wTlF_jSxlu2P96EISAiXet_01Q9r6rXWyDwYck5eFRsDU9VhvKGrn8srunE5krfvHGMQzd5bwiCWhSHgPPNOCFn7V12wD2aJfFSCYXLCG3t_qDO2k9aN0RzP6bQ==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T10:15:00+00:00",
+   "title_ja": "「ユニクロ ユー」2026年秋冬で最後のコレクションを発売へ",
+   "summary_ja": "「ユニクロ ユー（Uniqlo U）」の2026年秋冬コレクションが、同ラインのラストコレクションとして発売されます。展開されるラインナップは、ウィメンズ14型、メンズ17型、グッズ2型の計33アイテムとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 5,
    "detail_tries": 1
   },
   {
@@ -220,7 +286,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9bbebdbd2d8ead79",
@@ -236,7 +302,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d39ef400d2497721",
@@ -1020,7 +1086,7 @@
    "category": "店舗・出店",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "70af4d4d2e0c8cec",
