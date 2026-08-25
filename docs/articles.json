@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T15:26:24.209150+09:00",
+ "updated_at": "2026-08-25T21:25:06.975457+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -30,6 +30,8 @@
   "BusinessMirror",
   "BusinessWorld Online",
   "Cambridge News",
+  "CoStar",
+  "Completely Retail News",
   "DK Pittsburgh Sports",
   "Disney.jp",
   "Drapers",
@@ -60,6 +62,8 @@
   "PoPville",
   "Pokde.Net",
   "Retail & Leisure International",
+  "Retail Gazette",
+  "Retail Sector",
   "Retail Technology Innovation Hub",
   "RetailNews Asia",
   "SEVENTIE TWO",
@@ -135,9 +139,105 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 180,
- "detail_count": 111,
+ "count": 187,
+ "detail_count": 114,
  "items": [
+  {
+   "id": "29b931d882c3f74f",
+   "url": "https://prtimes.jp/main/html/rd/p/000000152.000068741.html",
+   "title_original": "ユニクロとドジャースの社会貢献活動が始動",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/152/68741-152-034aaa1b734bd22295173cb37ae9360c-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T10:34:08+00:00",
+   "title_ja": "ユニクロが米ドジャースとの社会貢献活動の始動を発表",
+   "summary_ja": "ユニクロが米大リーグのロサンゼルス・ドジャースと提携し、新たな社会貢献活動を開始したことが明らかになりました。地域社会への貢献を目指す取組の今後の展開に期待が集まっています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "aabdc3281ba98bab",
+   "url": "https://news.completelyretail.co.uk/canary-wharf-adds-uniqlo-to-fashion-lineup",
+   "title_original": "Canary Wharf adds UNIQLO to fashion lineup",
+   "source": "Completely Retail News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T10:29:53+00:00",
+   "title_ja": "ユニクロが英カナリー・ワーフの店舗ラインナップに登場",
+   "summary_ja": "ロンドンの商業地区であるカナリー・ワーフのファッションラインナップに、ユニクロが追加されることが分かった。地域内の商業施設へ新たに出店し、ファッションの選択肢を拡充する。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "22cdf8d1dd77774a",
+   "url": "https://www.retailsector.co.uk/744229-uniqlo-to-open-first-cambridge-store-as-uk-expansion-accelerates",
+   "title_original": "Uniqlo to open first Cambridge store as UK expansion accelerates",
+   "source": "Retail Sector",
+   "image": "https://www.retailsector.co.uk/wp-content/uploads/2025/10/Uniqlo-Image-Square-e1759481181372.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T10:23:59+00:00",
+   "title_ja": "ユニクロが英ケンブリッジに初出店へ 英国での拡大を加速",
+   "summary_ja": "ユニクロがイギリスのケンブリッジ初となる新店舗をオープンすることが決定した。英国での事業拡大が加速する中で、新たな地域への店舗展開を進めていくこととなる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "206b506412f7f260",
+   "url": "https://smart-flash.jp/entertainment/entertainment-news/425073/image/1",
+   "title_original": "綾瀬はるか、ユニクロ“上半身裸”CMの反発ムード再燃“わかりやすさ”からスタイル“強調路線”に「いい加減やめない?」",
+   "source": "smart-flash.jp",
+   "image": "https://data.smart-flash.jp/wp-content/uploads/2024/03/23104639/ayase_haruka_1_thumb.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T10:15:00+00:00",
+   "title_ja": "綾瀬はるか出演のユニクロCMに対し一部で反発の意見が再燃",
+   "summary_ja": "綾瀬はるかさんが出演するユニクロのテレビCMに対し、演出面におけるスタイルの強調や分かりやすさを巡り、視聴者からの反発や疑問の声が再び寄せられていることが報じられています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "72782001933ee4d7",
+   "url": "https://www.retailgazette.co.uk/blog/2026/08/uniqlo-ramps-up-uk-expansion-with-new-openings",
+   "title_original": "Uniqlo ramps up UK expansion with new openings",
+   "source": "Retail Gazette",
+   "image": "https://www.retailgazette.co.uk/wp-content/uploads/2024/04/uniqlo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T07:22:43+00:00",
+   "title_ja": "ユニクロが英国での出店を加速、新規店舗の開設で事業を拡大",
+   "summary_ja": "ユニクロがイギリス市場における店舗網の拡大を一層強化している。新たな店舗を相次いで開設することにより、同国内でのブランド展開と顧客へのアプローチをより一層推し進める狙いがある。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "9bbebdbd2d8ead79",
+   "url": "https://www.costar.com/article/2099086584/uniqlo-to-freshen-up-canary-wharfs-jubilee-place",
+   "title_original": "News | Uniqlo to freshen up Canary Wharf's Jubilee Place",
+   "source": "CoStar",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-25T07:14:21+00:00",
+   "title_ja": "ユニクロが英ロンドンのジュビリー・プレイス店舗をリニューアルへ",
+   "summary_ja": "ユニクロが、イギリス・ロンドンの商業地区キャナリー・ワーフ内にある「ジュビリー・プレイス」の店舗刷新を計画している。店舗の魅力を高めることで、現地での更なるブランド活性化を図る。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "d39ef400d2497721",
    "url": "https://lasisa.net/post/157403",
@@ -216,7 +316,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f37bfb6af990c3ba",
@@ -312,7 +412,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d4d0a85ee640b342",
@@ -905,6 +1005,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "bae161f241a81ef2",
+   "url": "https://nara.goguynet.jp/2026/08/24/post-58140",
+   "title_original": "【奈良市近隣】「GU 学研北生駒ならやま大通り店」が10月に開店。登美ヶ丘のジーユーは10月4日に閉店へ。",
+   "source": "号外NET 奈良市",
+   "image": "https://nara.goguynet.jp/wp-content/uploads/sites/264/2026/08/IMG_2445.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-23T23:46:35+00:00",
+   "title_ja": "GU学研北生駒ならやま大通り店が10月開店、登美ヶ丘店は10月4日閉店",
+   "summary_ja": "奈良市近隣にて「GU 学研北生駒ならやま大通り店」が10月にオープンすることが決定しました。これに合わせて、近隣の「ジーユー 登美ヶ丘店」は10月4日をもって閉店することが伝えられています。",
+   "category": "店舗・出店",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "70af4d4d2e0c8cec",
