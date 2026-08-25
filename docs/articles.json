@@ -135,7 +135,7 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 181,
+ "count": 180,
  "detail_count": 111,
  "items": [
   {
@@ -1113,22 +1113,6 @@
    "brand": "グループ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "632da81201a0eb2c",
-   "url": "https://www.sanyonews.jp/article/1911002",
-   "title_original": "【きょうから】ユニクロ、お得な『ゴールデンウィークキャンペーン』5月7日まで開催 のべ100商品以上が特別価格に 初日3日間はノベルティプレゼントも実施",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/e/7/f/8/e7f82e57f4bcf31fbe7a8b9c0a3398fc_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-22T10:18:02+00:00",
-   "title_ja": "ユニクロが5月7日までGWキャンペーン開催、100点以上が特別価格に",
-   "summary_ja": "ユニクロは、5月7日まで「ゴールデンウィークキャンペーン」を開催します。のべ100商品以上が特別価格で販売されるほか、キャンペーン開始からの初日3日間はノベルティのプレゼントも実施されます。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   },
   {
    "id": "3b43705e25fb94f1",

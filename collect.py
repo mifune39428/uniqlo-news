@@ -93,6 +93,50 @@ BLOCK_URL_RE = re.compile(
     re.I,
 )
 
+# 見出しの中で「◯月◯日まで」のように名指しされている期間限定情報を、
+# ページの公開日が取れない媒体（山陽新聞など）でも弾くための下ごしらえ。
+# 例: 「【きょうから】ユニクロ、お得な『ゴールデンウィークキャンペーン』5月7日まで開催」
+# → ページ側の公開日が取れず「今日」の日付になり、8月に5月のGW記事が載っていた。
+TITLE_DATE_RE = re.compile(r"(\d{1,2})月(\d{1,2})日")
+ONGOING_CLAIM_RE = re.compile(
+    r"まで(開催|実施|セール|値下げ|販売|キャンペーン)|きょうから|本日から|期間限定"
+)
+
+
+def nearest_date_delta_days(month: int, day: int, now_jst: dt.datetime) -> int:
+    """今日から見て一番近い「その月日」までの日数（未来なら正、過去なら負）。"""
+    candidates = []
+    for year in (now_jst.year - 1, now_jst.year, now_jst.year + 1):
+        try:
+            candidates.append(dt.datetime(year, month, day, tzinfo=JST))
+        except ValueError:
+            continue  # 2/30 など存在しない日付
+    if not candidates:
+        return 0
+    closest = min(candidates, key=lambda c: abs((c - now_jst).days))
+    return (closest - now_jst).days
+
+
+def title_seasonal_mismatch(title: str, now_jst: dt.datetime) -> bool:
+    """見出しの中の日付・季節表現が、今の時期と食い違っていないか確かめる。
+
+    ページの公開日が取れなくても、見出し自体が「いつの話か」を語っていることが多い。
+    「ゴールデンウィーク」「5月7日まで開催」のような、期間限定を今のことのように
+    語る見出しが、実際の時期と30日以上ズレていれば古い記事とみなす。
+    """
+    if "ゴールデンウィーク" in title and now_jst.month not in (3, 4, 5):
+        return True
+    if not ONGOING_CLAIM_RE.search(title):
+        return False
+    for month_text, day_text in TITLE_DATE_RE.findall(title):
+        month, day = int(month_text), int(day_text)
+        if not (1 <= month <= 12 and 1 <= day <= 31):
+            continue
+        if nearest_date_delta_days(month, day, now_jst) <= -STALE_DAYS:
+            return True
+    return False
+
+
 # Googleニュース経由で紛れ込む、報道ではないものの出典。部分一致で落とす。
 BLOCK_SOURCES = [
     "Yahoo!ファイナンス", "みんかぶ", "株探", "トレーダーズ・ウェブ",
@@ -418,6 +462,12 @@ def inspect_pages(items: list[dict], skipped: dict[str, str] | None = None) -> l
         if image and not item.get("image"):
             item["image"] = image
             images += 1
+        if title_seasonal_mismatch(item["title_original"], now.astimezone(JST)):
+            title = item.get("title_ja") or item["title_original"]
+            print(f"  ・見出しの日付表現が今の時期と合わないため除外: {title}")
+            if skipped is not None:
+                skipped[item["id"]] = dt.datetime.now(dt.timezone.utc).isoformat()
+            continue
         parsed = parse_date(published) if published else None
         if parsed:
             if parsed < now - dt.timedelta(days=STALE_DAYS):
@@ -667,11 +717,19 @@ PROMPT_TEMPLATE = """あなたはユニクロ（ファーストリテイリン�
   recommend = 書き手の好みで商品を薦めるだけの記事。ニュースになる発表が無く、
   「買うべき」「神アイテム」「〇選」「私の愛用品」「着回し」が主題のもの。
   判断の例:
-    「佐々木希がユニクロの新CMに出演」→ report（起用の発表なので）
+    「佐々木希がユニクロの新CMに出演」→ report（企業が起用した発表なので）
     「ユニクロが8月20日まで限定値下げを実施」→ report（施策の告知なので）
     「ユニクロのちいかわコラボTシャツが発売」→ report（発売の告知なので）
     「40代が買うべきユニクロの神インナー5選」→ recommend
     「ユニクロ店員の私が毎日着ている着回しコーデ」→ recommend
+    「〇〇（芸能人）がユニクロの私服姿を公開、ネットで話題に」→ recommend
+      （CM起用など企業側の発表ではなく、私物の着用が話題というだけのため）
+    「ユニクロの『大きめショルダーバッグ』が軽量で大容量とネットで話題」→ recommend
+      （発売日や価格改定など企業の発表を伴わず、個別商品への感想紹介だけのため。
+       いつ発売された商品か分からず、掲載時点で販売終了している恐れがある）
+  上記のように「一つの商品が良い」という魅力紹介だけで、発売日・実施期間・発表元のような
+  具体的な事実が本文に無いものは recommend にする（出店・決算・CM起用・コラボ発表・
+  寄付やイベントの開催報告など、商品の魅力紹介が主題ではない記事はこれに当たらない。引き続き report）。
   迷ったら report にする。
 - noise: 求人・占い・株価の自動生成記事・見出しだけの転載など、
   そもそも記事の体をなしていないものだけ true。
