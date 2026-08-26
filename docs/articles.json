@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T09:37:25.885987+09:00",
+ "updated_at": "2026-08-26T15:28:15.053049+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -133,6 +133,7 @@
   "中日BIZナビ",
   "千葉テレビ放送",
   "号外NET 奈良市",
+  "地球の歩き方",
   "山陽新聞",
   "日刊スポーツ",
   "日本経済新聞",
@@ -144,9 +145,41 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 197,
- "detail_count": 120,
+ "count": 200,
+ "detail_count": 122,
  "items": [
+  {
+   "id": "91b4195048d03520",
+   "url": "https://news.yahoo.co.jp/articles/ac1cfbb49fe195da9862a863b211d108df62ee67",
+   "title_original": "「もうなくさないで」ユニクロ《Vネックブラトップ》が待望の復活「待ってたー」「これ以上のものに出会えず」歓喜の声（オトナンサー）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00387934-otonans-000-7-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T02:15:00+00:00",
+   "title_ja": "ユニクロが「Vネックブラトップ」を再発売、愛用者から歓喜の声",
+   "summary_ja": "ユニクロが「Vネックブラトップ」の販売を再開し、愛用者から喜びの声が上がっています。代替品が見つからないほど支持されていた人気商品の復活に、SNSなどでは多くの反響が寄せられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a2f6f100efb97b46",
+   "url": "https://news.shoninsha.co.jp/csr/316410",
+   "title_original": "ユニクロnews｜8/20～23･ドジャースとの社会貢献活動を開催",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T01:16:19+00:00",
+   "title_ja": "ユニクロがドジャースと共同で社会貢献活動を8月20日から23日まで開催",
+   "summary_ja": "ユニクロは、メジャーリーグのロサンゼルス・ドジャースと共同で、2026年8月20日から23日までの期間に社会貢献活動を開催しました。スポーツを通じた地域や社会への支援を目的とした取り組みです。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "bab36715d27efe2f",
    "url": "https://the-ans.jp/column/718232",
@@ -161,6 +194,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "f55f0f57df991af4",
+   "url": "https://www.arukikata.co.jp/tokuhain/393144",
+   "title_original": "【米国】SFにユニクロ復活！ダウンタウンに再び赤い看板",
+   "source": "地球の歩き方",
+   "image": "https://www.arukikata.co.jp/wp-content/uploads/IMG_4323-2_2026_0826_0852.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T00:06:26+00:00",
+   "title_ja": "米国サンフランシスコのダウンタウンにユニクロが再出店",
+   "summary_ja": "アメリカ・サンフランシスコのダウンタウン地区に、ユニクロの店舗が再びオープンすることが分かりました。かつて撤退したエリアへの復活となり、街に再びおなじみの赤い看板が戻ってきます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -593,7 +642,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dda1ad02942c8235",
