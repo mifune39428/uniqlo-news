@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T03:22:32.239095+09:00",
+ "updated_at": "2026-08-26T09:37:25.885987+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -36,6 +36,7 @@
   "DC News Now",
   "DK Pittsburgh Sports",
   "Disney.jp",
+  "Distribuzione Moderna",
   "Drapers",
   "Fashion United",
   "FashionNetwork - The World's Fashion Business News",
@@ -94,6 +95,7 @@
   "dscene magazine",
   "fashionsnap.com",
   "fastretailing.com",
+  "full-count.jp",
   "houseofheat.co",
   "journal.com.ph",
   "lasisa.net",
@@ -104,6 +106,7 @@
   "simplywall.st",
   "smart-flash.jp",
   "speed.ph",
+  "the-ans.jp",
   "thephilbiznews",
   "toledoblade.com",
   "uptodate.tokyo",
@@ -141,9 +144,41 @@
   "繊研新聞",
   "読売新聞"
  ],
- "count": 191,
- "detail_count": 115,
+ "count": 197,
+ "detail_count": 120,
  "items": [
+  {
+   "id": "bab36715d27efe2f",
+   "url": "https://the-ans.jp/column/718232",
+   "title_original": "サッカー界のレジェンドが子どもたちに伝えた\"楽しむ\"姿勢 24年目の「JFAユニクロサッカーキッズ」が目指すもの",
+   "source": "the-ans.jp",
+   "image": "https://the-ans.jp/wp-content/uploads/2026/08/21151647/20260821_JFA-650x433.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T00:09:00+00:00",
+   "title_ja": "24年目を迎えた「JFAユニクロサッカーキッズ」が伝えるスポーツの魅力",
+   "summary_ja": "24年目を迎えた「JFAユニクロサッカーキッズ」において、サッカー界のレジェンドが子どもたちへ楽しむ姿勢を伝えました。長年にわたり開催されている本イベントの理念や、スポーツを通じて子どもたちを支援する取り組みが紹介されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "834e61d618d3d42d",
+   "url": "https://news.yahoo.co.jp/articles/6da8da866c5c125a65ac74d1bbe3eaf830f94ddd?source=rss",
+   "title_original": "「なぜ脱がすの？」綾瀬はるかのユニクロ“上半身裸”CMに賛否の声…「高好感度の女優」が出演も、何度も物議を醸したワケ",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00955773-toyo-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T22:00:44+00:00",
+   "title_ja": "綾瀬はるかが出演するユニクロのCM演出に対する反響と賛否の声",
+   "summary_ja": "女優の綾瀬はるかが出演するユニクロのテレビCM演出について、視聴者から賛否両論の声が上がっています。高好感度なタレントの起用と特徴的な演出がネット上で話題を集め、その背景について考察されています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "1868ade92c28f0db",
    "url": "https://www.dcnewsnow.com/news/local-news/washington-dc/uniqlo-clothing-store-to-host-grand-opening-in-georgetown",
@@ -158,7 +193,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0ab115f27a52e8b2",
@@ -174,7 +209,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "de9226658b499d41",
@@ -190,6 +225,22 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1019b43ec652a98a",
+   "url": "https://news.yahoo.co.jp/articles/ee6fe257239c701c375e7aedba81f262040203b6",
+   "title_original": "【最新ユニクロ ユー】第1章の集大成となる最強新作！「Uniqlo U」2026年秋冬コレクションが公開に！（MEN’S NON-NO WEB）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00010001-mensnonno-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T12:01:36+00:00",
+   "title_ja": "「Uniqlo U」2026年秋冬コレクションが公開、第1章の集大成となる新作",
+   "summary_ja": "ユニクロの人気ライン「Uniqlo U」から、2026年秋冬コレクションが公開されました。第1章の集大成となる最新作がラインナップされており、ブランドの魅力を詰め込んだ最強の新作コレクションとして注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -254,7 +305,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "206b506412f7f260",
@@ -481,6 +532,22 @@
    "detail_tries": 2
   },
   {
+   "id": "4f619c5dea23edb8",
+   "url": "https://full-count.jp/2026/08/25/post2007692",
+   "title_original": "資産10兆円超、ド軍戦にいた日本の“超大物” ベッツと肩組み…「Yes yes yes!!」「素晴らしい」",
+   "source": "full-count.jp",
+   "image": "https://full-count.jp/wp-content/uploads/2026/08/25091048/20260825_betts_kro.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-25T00:11:23+00:00",
+   "title_ja": "資産10兆円超の「日本の超大物」がドジャース戦に登場、ベッツ選手と肩を組む",
+   "summary_ja": "資産10兆円を超える日本の超大物がドジャースの試合を観戦し、ベッツ選手と肩を組む様子が公開されました。ネット上では素晴らしいツーショットとして話題を呼んでいます。",
+   "category": "その他",
+   "brand": "グループ",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
    "id": "d4d0a85ee640b342",
    "url": "https://lee.hpplus.jp/column/3705982",
    "title_original": "【ユニクロ】ラウンジ＆インナーウェアコレクション誕生！30代・40代におすすめのアイテム5選",
@@ -511,6 +578,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "b88743eafcf42a70",
+   "url": "https://www.wwdjapan.com/articles/2479865",
+   "title_original": "「ユニクロ ユー」第1章終了 ルメールとサラの最後のコレクション",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-24T21:30:00+00:00",
+   "title_ja": "「ユニクロ ユー」第1章が終了へ ルメールとサラによる最後のコレクション",
+   "summary_ja": "人気コレクション「ユニクロ ユー（Uniqlo U）」の第1章が終了することが分かりました。デザイナーのクリストフ・ルメールとサラ＝リン・トランが手がける、最後のコレクションが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "dda1ad02942c8235",
@@ -1356,6 +1439,22 @@
    "title_ja": "綾瀬はるかさん出演のユニクロCMが話題に、演出への疑問や賛否の声も",
    "summary_ja": "女優の綾瀬はるかさんが出演するユニクロのテレビCMにおいて、その演出や肌の露出度に対して視聴者から様々な意見が寄せられ、ネット上で賛否を呼ぶなど話題となっています。",
    "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "042bf84d2c540bfe",
+   "url": "https://distribuzionemoderna.info/en/communication-marketing/algida-and-uniqlo-the-ice-creams-that-symbolise-summer-become-a-collection-of-t-shirts-to-wear",
+   "title_original": "Algida e Uniqlo: i gelati simbolo dell'estate diventano una collezione di T-shirt da indossare",
+   "source": "Distribuzione Moderna",
+   "image": "https://distribuzionemoderna.info/images/news/econa-article-images/101447/full/1200/algida-e-uniqlo-i-gelati-simbolo-dellestate-diventano-una-collezione-di-t-shirt-da-indossare.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-22T08:00:30+00:00",
+   "title_ja": "ユニクロがアイスブランド「アルジダ」とコラボしたTシャツを発売",
+   "summary_ja": "ユニクロが、夏を象徴するイタリアのアイスクリームブランド「アルジダ（Algida）」とコラボレーションしたTシャツコレクションを発売します。人気のアイスをモチーフにしたデザインが特徴です。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
