@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27T14:35:44.523524+09:00",
+ "updated_at": "2026-08-28T02:01:45.024031+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -25,6 +25,7 @@
   "Access Winnipeg",
   "All About ニュース",
   "Alvinology",
+  "Apparel Resources",
   "BAILA（バイラ）",
   "BVM Sports",
   "Boss Hunting",
@@ -51,6 +52,7 @@
   "Honolulu Star-Advertiser",
   "Hoodline",
   "Hypebeast",
+  "Indian Television Dot Com",
   "Interaksyon",
   "JFA",
   "KITV",
@@ -85,6 +87,7 @@
   "Skratch Golf",
   "Social News XYZ",
   "Social Samosa",
+  "Storyboard18",
   "Stylist",
   "SunStar Publishing Inc.",
   "The Business Journals",
@@ -100,6 +103,7 @@
   "Trend Hunter",
   "UOMO",
   "Vietnam.vn",
+  "Village Pipol",
   "Vogue Japan",
   "WWDJAPAN",
   "Whalesbook",
@@ -167,11 +171,92 @@
   "流通ニュース",
   "神戸ジャーナル",
   "繊研新聞",
+  "船橋つうしん",
   "読売新聞"
  ],
- "count": 232,
- "detail_count": 143,
+ "count": 241,
+ "detail_count": 151,
  "items": [
+  {
+   "id": "17a48016d41da5c5",
+   "url": "https://apparelresources.com/business-news/manufacturing/japans-uniqlo-step-sourcing-investment-india-piyush-goyal",
+   "title_original": "Japan’s Uniqlo to Step Up Sourcing, Investment in India: Piyush Goyal",
+   "source": "Apparel Resources",
+   "image": "https://apparelresources.com/wp-content/uploads/2026/08/Japan’s-Uniqlo-to-Step-Up-Sourcing-Investment-in-India-Piyush-Goyal.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T18:26:52+00:00",
+   "title_ja": "ユニクロ、インドでの生産調達と投資を強化へ",
+   "summary_ja": "日本のユニクロがインドにおける生産調達および投資を強化する方針であることが、インドのピユシュ・ゴーヤル商工相の発言などにより明らかになった。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fe82f4db35b353e1",
+   "url": "https://www.lofficielmalaysia.com/fashion/take-a-closer-look-at-the-uniqlo-fallwinter-2026-collection",
+   "title_original": "Take a closer look at the UNIQLO Fall/Winter 2026 collection",
+   "source": "L'Officiel Malaysia",
+   "image": "https://www.datocms-assets.com/55615/1787818358-lom-uniqlo-byslk-0926-web14.jpg?auto=format&fit=max&w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T16:00:01+00:00",
+   "title_ja": "ユニクロの2026年秋冬コレクション、マレーシアのメディアが詳細を速報",
+   "summary_ja": "マレーシアのライフスタイルメディアが、ユニクロの2026年秋冬コレクションを紹介する記事を公開しました。今シーズンの新作アイテムやデザインの全体像に注目しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "957e233b98734b9f",
+   "url": "https://funabashi-tsushin.com/40147.html",
+   "title_original": "ミーナ津田沼にファーストリテイリング系の「PLST（プラステ）」が2026年秋オープン予定",
+   "source": "船橋つうしん",
+   "image": "https://funabashi-tsushin.com/wp-content/uploads/2026/08/IMG_5898.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-27T10:54:47+00:00",
+   "title_ja": "ミーナ津田沼にファーストリテイリング傘下の「PLST」が2026年秋オープン予定",
+   "summary_ja": "千葉県のミーナ津田沼に、ファーストリテイリング傘下のブランド「PLST（プラステ）」が2026年秋にオープンすることが分かりました。実店舗の出店により、地域でのブランド展開がさらに強化されるとみられます。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e6813b5d6a0e00a3",
+   "url": "https://villagepipol.com/lifewear-week-launches-at-uniqlo-stores-worldwide",
+   "title_original": "LifeWear Week Launches at UNIQLO Stores Worldwide",
+   "source": "Village Pipol",
+   "image": "https://villagepipol.com/wp-content/uploads/2026/08/LifeWear-Week-2026-FI.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T10:05:32+00:00",
+   "title_ja": "ユニクロが世界中の店舗で「LifeWear Week」を開始",
+   "summary_ja": "ユニクロが、世界各地の店舗において「LifeWear Week」と題したキャンペーンやイベントを開始したことが分かりました。ブランドを象徴するコンセプトである「LifeWear」をグローバルに発信する取り組みとみられます。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6365a188fb41d2cb",
+   "url": "https://news.yahoo.co.jp/articles/cdb48ef8efe70cad011afff34e8d941f2c36db60",
+   "title_original": "【大人のユニクロ】「ユニクロ ユー」2026年秋冬速報。これがクリストフ・ルメールによるラストコレクション（UOMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00010001-webuomo-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-27T10:04:03+00:00",
+   "title_ja": "ユニクロ ユーの2026年秋冬速報、ルメールによるラストコレクションが発表",
+   "summary_ja": "ユニクロの人気ライン「Uniqlo U（ユニクロ ユー）」の2026年秋冬コレクションが発表されました。本コレクションは、長年デザインを率いてきたクリストフ・ルメール氏が手掛ける最後のコレクションとなります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "8591152201b2cfb4",
    "url": "https://www.gmanetwork.com/lifestyle/fashion-beauty/137632/new-collection-combines-refined-french-elegance-and-modern-attitude/story",
@@ -186,7 +271,55 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "134f4c50d79a08fb",
+   "url": "https://www.storyboard18.com/amp/brand-marketing/uniqlo-japanese-textile-companies-look-to-expand-sourcing-and-investment-in-india-piyush-goyal-109008.htm",
+   "title_original": "Uniqlo, Japanese textile companies look to expand sourcing and investment in India: Piyush Goyal",
+   "source": "Storyboard18",
+   "image": "https://images.storyboard18.com/storyboard18/2026/08/Visuals-Page-2026-08-27T135710.158-2026-08-a9c38a00e5bd706bb65338f7dead5549-1019x573.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T08:36:02+00:00",
+   "title_ja": "ユニクロなどの日本企業がインドでの調達や投資の拡大を検討",
+   "summary_ja": "ユニクロを含む日本の繊維企業が、インドにおける調達および投資の拡大を目指していることが伝えられました。インド政府閣僚の発言として今後の事業展開の可能性が報じられています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8b6357ba310d3795",
+   "url": "https://indiantelevision.com/mam/uniqlo-india-to-host-first-lifewear-week-for-fall-winter-2026-collection",
+   "title_original": "UNIQLO India to host first LifeWear Week for Fall/Winter 2026 collection",
+   "source": "Indian Television Dot Com",
+   "image": "https://indiantelevision.com/wp-content/uploads/2026/08/life-1000x600.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T08:26:15+00:00",
+   "title_ja": "インドのユニクロが2026年秋冬コレクションで「LifeWear Week」を初開催",
+   "summary_ja": "インドのユニクロが、2026年秋冬コレクションに向けて初となる「LifeWear Week」を開催します。現地でのコレクション披露やイベントを通じてブランドの訴求を図る取り組みです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8629b6529592ad30",
+   "url": "https://www.vietnam.vn/ja/uniqlo-u-ky-niem-hanh-trinh-10-nam-voi-bst-moi-mua-thu-dong-2026",
+   "title_original": "ユニクロUは、2026年秋冬コレクションを発表し、10周年を祝います。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/27/1787822597017_1-1787800744788752060074-0-0-1047-2000-crop-1787800748027908487101.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-27T07:48:00.175000+00:00",
+   "title_ja": "「ユニクロ U」が10周年を記念する2026年秋冬コレクションを発表",
+   "summary_ja": "「ユニクロ U」が10周年を迎えるにあたり、2026年秋冬コレクションを発表しました。ブランドの節目を祝う特別なコレクションとなっており、今シーズンの注目ラインナップとして展開されることが公表されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "13408d0152cfcd1e",
@@ -317,6 +450,22 @@
    "has_detail": true
   },
   {
+   "id": "c7bb34de699d09c2",
+   "url": "https://www.fastretailing.com/eng/group/news/2608270900.html",
+   "title_original": "UNIQLO SHANGHAI Global Flagship Store Reopens at New Location on October 30",
+   "source": "fastretailing.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T00:00:00+00:00",
+   "title_ja": "ユニクロ上海のグローバル旗艦店が10月30日に移転オープンへ",
+   "summary_ja": "ユニクロは、中国の上海グローバル旗艦店を新たな場所に移転し、10月30日にリニューアルオープンすることを発表した。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "7ced52e02857d070",
    "url": "https://mainichikirei.jp/prtimes/article/20260827prt00m100000467a.html",
    "title_original": "LifeWear magazine Issue 15 Modern City Feelings 2026年8月28日（金）配布開始",
@@ -330,7 +479,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b65256d12ea7627a",
@@ -378,7 +527,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "24f2acbf27df725d",
@@ -394,7 +543,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c549a3e458c627b5",
