@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T20:55:01.264941+09:00",
+ "updated_at": "2026-08-30T00:53:48.636474+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -225,7 +225,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "80a4d32fd5f38bfc",
@@ -257,7 +257,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2d86489512d43661",
@@ -1281,7 +1281,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "55c858d04cc53af8",
@@ -1361,7 +1361,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "383ea0af55cf9d6e",
