@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T00:53:48.636474+09:00",
+ "updated_at": "2026-08-30T05:07:46.670110+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -192,9 +192,25 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 280,
- "detail_count": 168,
+ "count": 281,
+ "detail_count": 169,
  "items": [
+  {
+   "id": "6000ce8a1f9aba14",
+   "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/uniqlos-reduced-24-packable-parka-34534842.amp",
+   "title_original": "Uniqlo's reduced £24 'packable parka' is perfect for rainy weather",
+   "source": "Liverpool Echo",
+   "image": "https://i2-prod.glasgowlive.co.uk/whats-on/shopping/article34411181.ece/ALTERNATES/s1200/1_GettyImages-458709201.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T17:30:00+00:00",
+   "title_ja": "英メディアが紹介するユニクロの値下げパッカブルパーカ",
+   "summary_ja": "イギリスの現地メディアが、24ポンドに値下げされたユニクロのパッカブルパーカを紹介。小さく折りたたんで持ち運ぶことができ、雨の日の外出や天候の変化に対応しやすいアイテムとして注目されている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "d70af7bb800fdf93",
    "url": "https://spur.hpplus.jp/fashion/news/2026-08-29-bylXtg",
