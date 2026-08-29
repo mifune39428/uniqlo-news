@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T10:16:27.040318+09:00",
+ "updated_at": "2026-08-29T20:55:01.264941+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -29,6 +29,7 @@
   "Apparel Resources",
   "BAILA（バイラ）",
   "BVM Sports",
+  "BizzBuzz",
   "Boss Hunting",
   "Brand Finance",
   "Business Standard",
@@ -90,6 +91,7 @@
   "Retail Technology Innovation Hub",
   "RetailNews Asia",
   "SEVENTIE TWO",
+  "SPUR（シュプール）",
   "SSBCrack",
   "Sirabee",
   "Skratch Golf",
@@ -190,9 +192,41 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 274,
- "detail_count": 165,
+ "count": 280,
+ "detail_count": 168,
  "items": [
+  {
+   "id": "d70af7bb800fdf93",
+   "url": "https://spur.hpplus.jp/fashion/news/2026-08-29-bylXtg",
+   "title_original": "【ユニクロ ユー】2026年秋冬コレクション〈全アイテム掲載〉。第1章の集大成！日常で活躍できるアウターやニットが登場",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/75/7526bad8-d2c3-4a95-8016-788eb56a8669-4781x2510.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-29T08:00:00+00:00",
+   "title_ja": "ユニクロ ユーの2026年秋冬コレクションが公開　アウターやニットなど登場",
+   "summary_ja": "ユニクロ ユーの2026年秋冬コレクション全アイテムが発表されました。日常の装いで活躍するアウターやニットなどが登場し、第1章の集大成となるラインナップが披露されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "b09ca2173cc02b64",
+   "url": "https://mainichi.jp/graphs/20260829/hpj/00m/050/005000g",
+   "title_original": "U12・U14シングルス準決勝を写真で見る ユニクロ全日本ジュニアテニス2026 [写真特集1/32]",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/08/29/20260829hpj00m050132000q/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-29T03:00:00+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス2026のU12・U14準決勝写真特集",
+   "summary_ja": "ユニクロ全日本ジュニアテニス2026における、12歳以下および14歳以下の男女シングルス準決勝の模様を伝える写真特集。若手選手たちが繰り広げた熱戦の様子を多数の写真とともに掲載している。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "80a4d32fd5f38bfc",
    "url": "https://www.seventietwo.com/ja/business/SVTglobal_20260828",
@@ -210,6 +244,22 @@
    "has_detail": true
   },
   {
+   "id": "e5a135371d04b306",
+   "url": "https://news.yahoo.co.jp/articles/594b057bde27d393fbde1827af2ced9ab683576f/images/000",
+   "title_original": "ユニクロの「エアリズム」 いつ買ったかわかる“隠れた数字” より涼しく着る方法は?透けにくい色は?買い替え時は?担当者に聞いた",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYwpa9ojhgAGBKubbEeN0xuu9Tp8I_2XRQq1IgFpBz00KFDx2tTNV2Zo1PaMydj_9nWL3oAfNQgmpvar02ewKbjU-sGVRz-nmmFU1DISpob7Z",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T23:30:32+00:00",
+   "title_ja": "ユニクロ「エアリズム」の買い替え時期や着用時のコツを担当者にインタビュー",
+   "summary_ja": "ユニクロの担当者が人気インナー「エアリズム」について解説。タグに記載された数字から購入時期を見分ける方法や、より涼しく着用するコツ、透けにくいカラーの選び方、買い替えのタイミングなどの疑問に答えている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "2d86489512d43661",
    "url": "https://newsdig.tbs.co.jp/articles/cbc/2818002",
    "title_original": "ユニクロの｢エアリズム｣ いつ買ったかわかる“隠れた数字” より涼しく着る方法は？透けにくい色は？買い替え時は？担当者に聞いた | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
@@ -223,7 +273,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2b67a80fab7e5275",
@@ -422,7 +472,7 @@
    "url": "https://emomiu.jp/news/270950",
    "title_original": "【塩﨑太智】ユニクロ2026年秋冬コレクションに身をつつんだゲストが来場♪",
    "source": "Emo!miu",
-   "image": "",
+   "image": "https://emomiu.jp/wp/wp-content/uploads/2026/08/085A5713.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-08-28T09:54:01+00:00",
@@ -518,7 +568,7 @@
    "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
    "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
    "source": "uptodate.tokyo",
-   "image": "",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/08/IMG_1509-910x1024.jpeg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-08-28T04:22:50+00:00",
@@ -527,7 +577,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "b3f86267590cb69d",
@@ -559,7 +609,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6e262d9dfce804b4",
@@ -670,6 +720,22 @@
    "summary_ja": "日本のユニクロがインドにおける生産調達および投資を強化する方針であることが、インドのピユシュ・ゴーヤル商工相の発言などにより明らかになった。",
    "category": "海外展開",
    "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4634dea496cfc7d2",
+   "url": "https://www.bizzbuzz.news/industry/uniqlo-among-japans-top-firms-eyeing-india-expansion-goyal-1402742",
+   "title_original": "Uniqlo among Japan’s top firms eyeing India expansion: Goyal",
+   "source": "BizzBuzz",
+   "image": "https://assets.bizzbuzz.news/h-upload/2026/08/27/2005561-uniqlo-india-expansion-plans.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-27T17:50:00+00:00",
+   "title_ja": "ユニクロ、インド市場での事業拡大を目指す日本大手として注目",
+   "summary_ja": "インドのゴヤル商工相は、同国市場での事業拡大を精力的に目指す日本の代表的な大手企業の一社としてユニクロを挙げた。インド市場での今後の成長展開が期待されている。",
+   "category": "海外展開",
+   "brand": "グループ",
    "importance": 4,
    "has_detail": true
   },
@@ -1202,6 +1268,22 @@
    "has_detail": true
   },
   {
+   "id": "a0b97296d398c2de",
+   "url": "https://www.asahi.com/and/w/article/16835459",
+   "title_original": "新作を買うなら今！ 【ユニクロ秋冬】8/28〜抽選・先着で「限定エコバッグ」がもらえる「LifeWear Week」がスタート",
+   "source": "朝日新聞",
+   "image": "https://p.potaufeu.asahi.com/8651-p/picture/31249922/097a0ecb21a002bc5a13ec5aadc7d1fe.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T15:00:00+00:00",
+   "title_ja": "ユニクロが8月28日より限定エコバッグをプレゼントする企画を開始",
+   "summary_ja": "ユニクロは秋冬新作の展開に伴い「LifeWear Week」をスタート。8月28日より抽選や先着順で「限定エコバッグ」をプレゼントするキャンペーンを実施している。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "55c858d04cc53af8",
    "url": "https://fashionunited.jp/news/people/kurisutohurumerutosara-rintoran-yunikurotonoxie-ye-wozhong-liao-he/20260826570551",
    "title_original": "クリストフ・ルメールとサラ＝リン・トラン、ユニクロとの協業を終了へ",
@@ -1264,6 +1346,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "0cae805281b01187",
+   "url": "https://news.yahoo.co.jp/articles/1351cf3602957e2d2cc74f483b96cd878dcb5b5f/images/002",
+   "title_original": "【GU（ジーユー）2026年秋冬展示会レポ】この秋、大人女性が買うべきアイテムは？ (＠BAILA)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY6Jb6gAKdwLg-ySAuc-AIy3ONhcKKsnHsWRkZOW8ayfddLUkVXvlOOcD3ZanVJPMD3sfurM8kjdYxVQXzNCnj7BOap_zPycpGHIEF6W4ooz4",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T09:50:43+00:00",
+   "title_ja": "GUの2026年秋冬展示会をレポート、大人女性向けの注目アイテムを紹介",
+   "summary_ja": "GUが開催した2026年秋冬展示会の模様をレポート。秋のシーズンに向けて、大人の女性が取り入れやすいトレンドアイテムや注目の新作商品について解説している。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "383ea0af55cf9d6e",
