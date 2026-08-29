@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-29T02:50:31.976577+09:00",
+ "updated_at": "2026-08-29T10:16:27.040318+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -98,6 +98,7 @@
   "Storyboard18",
   "Stylist",
   "SunStar Publishing Inc.",
+  "TBS NEWS DIG",
   "THE FIRST TIMES",
   "The Business Journals",
   "The Cool Down",
@@ -150,6 +151,7 @@
   "ぴあエンタメ情報",
   "ふねぽ",
   "インサイド",
+  "オトナンサー",
   "オリコンニュース",
   "サンスポ",
   "スポーツブル",
@@ -188,9 +190,57 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 267,
- "detail_count": 161,
+ "count": 274,
+ "detail_count": 165,
  "items": [
+  {
+   "id": "80a4d32fd5f38bfc",
+   "url": "https://www.seventietwo.com/ja/business/SVTglobal_20260828",
+   "title_original": "欧米ファッション株、インディテックス、H&Mが一斉反発も、ファーストリテイリングが6日続落 「SVT グローバル」｜8月28日",
+   "source": "SEVENTIE TWO",
+   "image": "https://www.seventietwo.com/uploads/2026/04/840-3.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-29T00:00:00+00:00",
+   "title_ja": "欧米アパレル大手の株価反発に対しファーストリテイリングは6日続落",
+   "summary_ja": "インディテックスやH&Mをはじめとする欧米の主要アパレル企業の株価が一斉に反発した一方で、ファーストリテイリングの株価は6日連続で下落した市場動向を報じる記事。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2d86489512d43661",
+   "url": "https://newsdig.tbs.co.jp/articles/cbc/2818002",
+   "title_original": "ユニクロの｢エアリズム｣ いつ買ったかわかる“隠れた数字” より涼しく着る方法は？透けにくい色は？買い替え時は？担当者に聞いた | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+   "source": "TBS NEWS DIG",
+   "image": "https://newsdig.ismcdn.jp/mwimgs/a/f/1200w/img_afd281937d6175f5eb34f21262892652707957.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T23:30:00+00:00",
+   "title_ja": "ユニクロ「エアリズム」の買い替え時期や効果的な着こなしを担当者が解説",
+   "summary_ja": "ユニクロの広報担当者が「エアリズム」の製品タグに記載された購入時期を見分ける識別番号や、より涼しく着用するコツ、透けにくい色選び、買い替え時の目安を解説した記事。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2b67a80fab7e5275",
+   "url": "https://www.mensnonno.jp/fashion/new-topics/793567",
+   "title_original": "いいね、新しいGU（ジーユー）。エディターが気になった最新作をスタイリングとともに。【GU 2026 秋冬コレクション】／エディターの私的ベストバイ編",
+   "source": "MEN'S NON-NO WEB",
+   "image": "https://www.mensnonno.jp/wp-content/uploads/2026/08/203-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T21:00:00+00:00",
+   "title_ja": "GUの2026年秋冬コレクションからエディターが注目する最新作を紹介",
+   "summary_ja": "GUの2026年秋冬コレクションより、ファッションエディターが気になった最新アイテムを自身のスタイリングとともに紹介する記事。今シーズンの注目作や試着した感想が掲載されている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "f9798215ee7cc232",
    "url": "https://fashionmagazine.com/style/uniqlo-u-decade-fashion-news",
@@ -205,7 +255,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2d3431587cfb4cda",
@@ -221,7 +271,23 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "c67986b7c1747985",
+   "url": "https://prtimes.jp/main/html/rd/p/000000352.000039955.html",
+   "title_original": "Standard Products×UNIQLO TOKYO「UTme!」第2弾 商品のグラフィックをモチーフに、日常使いしやすい新たなオリジナルスタンプ24種を追加し、9月4日からスタート",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/39955/352/39955-352-5422df3991755392fd53dab2274600ad-2000x1414.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T13:00:02+00:00",
+   "title_ja": "UNIQLO TOKYOの「UTme!」に新スタンプ追加",
+   "summary_ja": "Standard ProductsとUNIQLO TOKYOの「UTme!」第2弾として、商品のグラフィックをモチーフにした日常使いしやすいオリジナルスタンプ24種が9月4日より登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "06313876f66b7392",
@@ -237,7 +303,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9e5cbc05985fbca5",
@@ -285,7 +351,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cbe195777a6f545f",
@@ -317,7 +383,23 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "0eed799de45d6b29",
+   "url": "https://otonanswer.jp/post/388568",
+   "title_original": "「色違いで3本目」ユニクロ《SNSで大バズり》のパンツが“1000円”OFF 「50代でもきれいに見える」「下半身をカバー」",
+   "source": "オトナンサー",
+   "image": "https://otonanswer.jp/wp-content/uploads/2027/08/20260828uniqlo001.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T10:00:00+00:00",
+   "title_ja": "ユニクロでSNS大ヒットのパンツが1000円引き、体型カバー力に支持",
+   "summary_ja": "SNSで話題を呼んでいるユニクロのパンツが1000円オフの特別価格で販売されています。50代の愛用者からも「下半身をカバーしてきれいに見える」と評判で、色違いで購入する人もいる人気商品です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "325c090d1e67566c",
@@ -333,7 +415,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4d6d659d74dc8ed1",
@@ -349,7 +431,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f68b6a042cd0b6f2",
@@ -365,7 +447,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1cb5b55d56c1df6c",
@@ -413,7 +495,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "43af09083c2e4516",
@@ -432,6 +514,22 @@
    "has_detail": true
   },
   {
+   "id": "0e5c98db9ed215d1",
+   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
+   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
+   "source": "uptodate.tokyo",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T04:22:50+00:00",
+   "title_ja": "GUがポケモンテーマの新作コラボを10月23日より発売",
+   "summary_ja": "GUは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを、10月23日より国内で発売する予定です。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "b3f86267590cb69d",
    "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/cosy-uniqlo-fleeces-back-autumn-34528676",
    "title_original": "'Cosy' Uniqlo fleeces are back for autumn and prices start from £25",
@@ -446,6 +544,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "c02e9de9249f8626",
+   "url": "https://news.yahoo.co.jp/articles/1be1b3b0f26e3f9ba61f3b8d1fa85bb76c70aa6b",
+   "title_original": "ユニクロ、中国・上海旗艦店を移転リニューアルオープン（FASHIONSNAP）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00528325-fashions-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T03:04:52+00:00",
+   "title_ja": "ユニクロ、中国・上海の旗艦店を移転リニューアル",
+   "summary_ja": "ユニクロは、中国にある上海の旗艦店を移転し、新しくリニューアルオープンすることを発表しました。現地でのさらなる展開に向けた取り組みとなります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "6e262d9dfce804b4",
