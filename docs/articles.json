@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T00:40:04.521225+09:00",
+ "updated_at": "2026-08-31T05:14:16.113722+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -77,6 +77,7 @@
   "Mshale",
   "NDTV Profit",
   "Newswav",
+  "Nikkei Asia",
   "North Luzon Monitor",
   "Oggi.jp",
   "Oui Speak Fashion (OSF)",
@@ -195,9 +196,41 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 289,
- "detail_count": 173,
+ "count": 291,
+ "detail_count": 174,
  "items": [
+  {
+   "id": "ba4d880e0a58dd09",
+   "url": "https://asia.nikkei.com/business/retail/uniqlo-to-double-number-of-flagship-stores-in-japan-in-strategy-pivot",
+   "title_original": "Uniqlo to double number of flagship stores in Japan in strategy pivot",
+   "source": "Nikkei Asia",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F6%2F2%2F2%2F13032265-2-eng-GB%2Ff0bb256ec164-photo_SXM2026061600006280.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T19:43:23+00:00",
+   "title_ja": "ユニクロ、国内の旗艦店数を2倍に拡大へ 戦略転換を推進",
+   "summary_ja": "ユニクロが事業戦略の転換を図り、日本国内における旗艦店の店舗数を従来の2倍に増やす方針であることが分かりました。旗艦店の展開を強化することで、ブランド価値のさらなる向上と国内市場での成長を目指す考えとみられます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "6ef96dec65bebbdb",
+   "url": "https://www.nikkei.com/article/DGKKZO98483470R30C26A8MM8000",
+   "title_original": "ユニクロが旗艦店を倍増 都市部に重点、ブランド発信 大量出店は見直し",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKKZO9848348031082026MM8000-2.jpg?auto=compress&bg=FFFF&fill=blur&fit=fill&fm=jpg&h=630&upscale=false&w=1200&s=ee52b44b3bd9df7ac335b1a7f268996c",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T17:00:00+00:00",
+   "title_ja": "ユニクロが国内の旗艦店を倍増へ 都市部重点で大量出店は見直し",
+   "summary_ja": "ユニクロは国内にある旗艦店の数を倍増させる方針を決定しました。都市部に重点を置いてブランドの発信力を強化する一方、これまでの大量出店戦略は見直す方針へと転換を進める模様です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "8a51ad30c97bf948",
    "url": "https://www.whalesbook.com/news/English/consumer-products/Uniqlo-India-Revenue-Hits-indian-rupee1193-Crore-Profit-Doubled-in-FY25/6a9401dba703e4a81609d719",
@@ -228,7 +261,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c6fcc229fde6e1c9",
