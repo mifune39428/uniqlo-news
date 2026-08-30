@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T05:07:46.670110+09:00",
+ "updated_at": "2026-08-30T11:14:02.043229+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -65,6 +65,7 @@
   "Kursiv Media Узбекистан",
   "L'Officiel Malaysia",
   "Laodong.vn",
+  "Le Monde.fr",
   "LionhearTV",
   "Liverpool Echo",
   "London Daily News",
@@ -100,6 +101,7 @@
   "Storyboard18",
   "Stylist",
   "SunStar Publishing Inc.",
+  "Sustainable Japan",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
   "The Business Journals",
@@ -192,9 +194,41 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 281,
- "detail_count": 169,
+ "count": 283,
+ "detail_count": 170,
  "items": [
+  {
+   "id": "b8ccc8392c41a5ca",
+   "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/30/uniqlo-u-s-christophe-lemaire-and-sarah-linh-tran-leave-the-helm-the-line-was-designed-so-it-would-not-end-with-us_6756977_117.html",
+   "title_original": "Uniqlo U's Christophe Lemaire and Sarah-Linh Tran leave the helm: 'The line was designed so it would not end with us'",
+   "source": "Le Monde.fr",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T01:30:21+00:00",
+   "title_ja": "「Uniqlo U」のクリストフ・ルメール氏らがデザイナーを退任へ",
+   "summary_ja": "「Uniqlo U」を手掛けてきたクリストフ・ルメール氏とサラ＝リン・トラン氏がブランドのトップを退任することが分かりました。両氏は同ラインについて、自分たちが離れた後もブランドが継続していくよう設計したと語っています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1005ee1bd2517c93",
+   "url": "https://sustainablejapan.jp/2026/08/30/uniqlo-dodgers-sustainability/130071",
+   "title_original": "【アメリカ】ユニクロ、ドジャースとのスポンサー契約で第1弾。中学生にサステナビリティ学習も | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+   "source": "Sustainable Japan",
+   "image": "https://sustainablejapan.jp/wp-content/uploads/2026/08/uniqlo.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-29T22:40:55+00:00",
+   "title_ja": "米ユニクロがドジャースとの契約第1弾を実施 中学生向けサステナビリティ学習を提供",
+   "summary_ja": "米国のユニクロがドジャースとのスポンサー契約に基づく取り組みの第1弾を実施しました。地域の中学生を対象としたサステナビリティ学習などを通じて、パートナーシップを通じた活動を開始しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "6000ce8a1f9aba14",
    "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/uniqlos-reduced-24-packable-parka-34534842.amp",
