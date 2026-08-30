@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T19:52:10.623308+09:00",
+ "updated_at": "2026-08-31T00:40:04.521225+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -195,8 +195,8 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 287,
- "detail_count": 172,
+ "count": 289,
+ "detail_count": 173,
  "items": [
   {
    "id": "8a51ad30c97bf948",
@@ -213,6 +213,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "4052977f6abeccac",
+   "url": "https://mainichi.jp/junior-tennis2026/highlights/u14m",
+   "title_original": "ハイライト U14男子シングルス決勝｜ユニクロ全日本ジュニアテニス2026",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/07/28/20260728hrc00m050003000q/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T10:05:29+00:00",
+   "title_ja": "「ユニクロ全日本ジュニアテニス2026」U14男子決勝のハイライト動画が公開",
+   "summary_ja": "「ユニクロ全日本ジュニアテニス2026」の14歳以下男子シングルス決勝のハイライト動画が配信されている。若きテニスプレーヤーたちが熱戦を繰り広げた大会の様子を伝える映像コンテンツ。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "c6fcc229fde6e1c9",
@@ -244,7 +260,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e111e39f137fabee",
@@ -260,7 +276,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b8ccc8392c41a5ca",
@@ -517,6 +533,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "c611e901dc4bdcf1",
+   "url": "https://www.toy-people.com/en/?p=113779",
+   "title_original": "GU x Pokémon Collaboration Autumn/Winter Apparel Collection Drops in October, Themed \"Living with Pokémon in the Forest!\"",
+   "source": "玩具人 TOY PEOPLE",
+   "image": "https://img.toy-people.com/member/17879124152.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-28T10:33:09+00:00",
+   "title_ja": "GUがポケモンとの秋冬コラボコレクションを10月に発売、「森での生活」がテーマ",
+   "summary_ja": "GUはポケモンとのコラボレーションによる秋冬アパレルコレクションを10月に発売します。「森でポケモンと暮らす」をテーマに掲げ、秋冬シーズンに向けた特別なアイテムがラインナップされる予定です。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "cbe195777a6f545f",
