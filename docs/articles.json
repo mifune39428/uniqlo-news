@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-30T11:14:02.043229+09:00",
+ "updated_at": "2026-08-30T19:52:10.623308+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -67,6 +67,7 @@
   "Laodong.vn",
   "Le Monde.fr",
   "LionhearTV",
+  "Livemint",
   "Liverpool Echo",
   "London Daily News",
   "MEN'S NON-NO WEB",
@@ -194,9 +195,73 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 283,
- "detail_count": 170,
+ "count": 287,
+ "detail_count": 172,
  "items": [
+  {
+   "id": "8a51ad30c97bf948",
+   "url": "https://www.whalesbook.com/news/English/consumer-products/Uniqlo-India-Revenue-Hits-indian-rupee1193-Crore-Profit-Doubled-in-FY25/6a9401dba703e4a81609d719",
+   "title_original": "Uniqlo India Revenue Hits ₹1,193 Crore, Profit Doubled in FY25",
+   "source": "Whalesbook",
+   "image": "https://images.whalesbook.com/images/images/mtfnh9m5af40.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T10:11:39.310000+00:00",
+   "title_ja": "ユニクロのインド事業、2025年度売上高が119億ルピー超で利益倍増",
+   "summary_ja": "ユニクロのインド市場における2025年度業績において、売上高が119億3000万ルピーに達し、純利益が前年から倍増したことが明らかになった。同国でのビジネス拡大が順調に進んでおり、収益性の向上を加速させている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "c6fcc229fde6e1c9",
+   "url": "https://www.livemint.com/companies/uniqlo-india-growth-revenue-stores-strategy-11788066250783.html",
+   "title_original": "Uniqlo’s India play: Value over discounts, authentic voices over marketplaces",
+   "source": "Livemint",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-30T09:51:24+00:00",
+   "title_ja": "ユニクロのインド戦略、値引きを抑えた製品価値と自社発信重視で成長を目指す",
+   "summary_ja": "ユニクロがインド市場において、安易な割引販売を行わずに製品価値を重視する戦略を展開している。マーケットプレイスに依存せず、自社チャネルや共感を生む情報発信を軸とすることで、現地での持続的なブランド成長を図る狙いがある。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ae394756800b8a65",
+   "url": "https://www.nikkei.com/article/DGXZQOUC095NZ0Z00C26A6000000",
+   "title_original": "ユニクロが旗艦店倍増、最大20店に 柳井氏「売るだけの場所不要」",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3173590016062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.26&fp-y=0.76&h=630&w=1200&s=49128db9c6f00bd2dbe41b13a0292625",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T08:07:39+00:00",
+   "title_ja": "ユニクロが旗艦店を最大20店へ倍増方針、柳井氏「単に売るだけの店舗は不要」",
+   "summary_ja": "ユニクロがグローバル旗艦店などの主要店舗を最大20店へと倍増させる計画を打ち出した。ファーストリテイリングの柳井氏が「単に商品を売るだけの場所は不要」と語り、体験価値や発信力を重視した店舗展開を強める方針を示した。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "e111e39f137fabee",
+   "url": "https://mainichi.jp/graphs/20260830/hpj/00m/050/001000g/20260830hpj00m050001000q",
+   "title_original": "12歳以下シングルス決勝を写真で見る ユニクロ全日本ジュニアテニス選手権2026 [写真特集1/17]",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/08/30/20260830hpj00m050001000q/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T02:30:00+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス選手権2026で12歳以下シングルス決勝が開催",
+   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026において、12歳以下のシングルス決勝戦が開催された。大会の熱戦の模様を写真特集で振り返り、フレッシュな選手たちの活躍を伝えている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "b8ccc8392c41a5ca",
    "url": "https://www.lemonde.fr/en/m-le-mag/article/2026/08/30/uniqlo-u-s-christophe-lemaire-and-sarah-linh-tran-leave-the-helm-the-line-was-designed-so-it-would-not-end-with-us_6756977_117.html",
@@ -211,7 +276,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1005ee1bd2517c93",
