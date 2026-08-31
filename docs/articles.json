@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T11:09:30.799187+09:00",
+ "updated_at": "2026-08-31T21:04:10.127544+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -55,10 +55,12 @@
   "Gear Patrol",
   "Gempak",
   "Georgetown DC",
+  "Global Brands Magazine",
   "Honolulu Star-Advertiser",
   "Hoodline",
   "Hypebeast",
   "Indian Television Dot Com",
+  "Inside Retail Asia",
   "Interaksyon",
   "JFA",
   "KITV",
@@ -197,9 +199,89 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 297,
- "detail_count": 176,
+ "count": 302,
+ "detail_count": 180,
  "items": [
+  {
+   "id": "679ce11ea000f2ce",
+   "url": "https://spur.hpplus.jp/fashion/wear/UB7CWQ",
+   "title_original": "【新生GU】元「マルニ」デザイナーによる新コレクションを試着！ オフィスでも活躍する万能アイテムとは？【フランチェスコ・リッソ】",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/27/27e32b41-dbf9-428b-9b0c-2acace612cc4-750x393.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T10:30:00+00:00",
+   "title_ja": "GUが元マルニのフランチェスコ・リッソ氏と手掛ける新コレクションを公開",
+   "summary_ja": "GUが元マルニのデザイナーであるフランチェスコ・リッソ氏とタッグを組んだ新たなコレクションを発表しました。オフィスから普段使いまで対応する万能なアイテムの試着レビューが掲載されています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "517e9fedd590fa31",
+   "url": "https://news.yahoo.co.jp/articles/84ca17356ed7c546ddb86e3e59a99fc79f6ba350",
+   "title_original": "【ユニクロ】9/3までの特別価格！秋に使えるジーンズ・エアリズムT・ノンアイロンシャツなど注目商品が登場（マネーの達人）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00000012-manetatsun-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T10:00:03+00:00",
+   "title_ja": "ユニクロが9月3日まで限定セールを実施、秋向けジーンズなどが特別価格に",
+   "summary_ja": "ユニクロが9月3日までの期間限定で特別価格セールを開催しています。秋のコーディネートに活用できるジーンズやエアリズムTシャツ、ノンアイロンシャツなど、注目商品が手頃な価格で登場しています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "34d1bfd7ac8f0efe",
+   "url": "https://www.globalbrandsmagazine.com/uniqlo-flagship-stores-japan",
+   "title_original": "UNIQLO Flagship Stores: 20 Prime Sites in a Bold Rethink",
+   "source": "Global Brands Magazine",
+   "image": "https://www.globalbrandsmagazine.com/wp-content/uploads/2026/08/uniqlo-flagship-stores-tokyo.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T07:09:13+00:00",
+   "title_ja": "ユニクロが主要20立地のグローバル旗艦店戦略を大胆に見直し",
+   "summary_ja": "ユニクロが世界主要都市の好立地20カ所にあるグローバル旗艦店の展開戦略を大胆に見直す方針を提示。主要エリアでの店舗役割を再定義し、グローバルにおけるブランド発信力と顧客体験のさらなる向上を目指す。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ab6d48d3593d3779",
+   "url": "https://www.chiba-tv.com/plus/detail/amp/2026081960038",
+   "title_original": "ユニクロ、10月30日、上海・淮海中路のグローバル旗艦店をリニューアルオープン",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1466996765846455307/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T03:21:26+00:00",
+   "title_ja": "ユニクロ、上海・淮海中路のグローバル旗艦店を10月30日に刷新",
+   "summary_ja": "ユニクロは10月30日、中国の上海・淮海中路に位置するグローバル旗艦店をリニューアルオープンする。現地でのブランド体験や認知度をさらに向上させる施策となる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "135d080aa74d2465",
+   "url": "https://insideretail.asia/2026/08/31/uniqlo-shifts-retail-strategy-towards-prime-urban-locations",
+   "title_original": "Uniqlo shifts retail strategy towards prime urban locations",
+   "source": "Inside Retail Asia",
+   "image": "https://insideretail.asia/wp-content/uploads/2026/08/photolib_uqasakusa01l.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T03:19:52+00:00",
+   "title_ja": "ユニクロ、都市部の一等地を重視する店舗戦略へ方針を転換",
+   "summary_ja": "ユニクロが出店戦略の見直しを行い、主要都市の中心部や一等地への展開を強化する方針を示した。ブランド発信力の向上と都市部顧客層のさらなる獲得を目指す取り組みとなる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d1f0b0f1f2676359",
    "url": "https://www.nikkei.com/article/DGXZQOFL310OB0R30C26A8000000",
@@ -214,7 +296,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c4175b8dd5b7606b",
@@ -246,7 +328,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ba4d880e0a58dd09",
@@ -358,7 +440,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e111e39f137fabee",
@@ -534,7 +616,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f9798215ee7cc232",
