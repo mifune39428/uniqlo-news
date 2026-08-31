@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T05:14:16.113722+09:00",
+ "updated_at": "2026-08-31T11:09:30.799187+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -149,6 +149,7 @@
   "the-ans.jp",
   "thephilbiznews",
   "toledoblade.com",
+  "ultrasports.jp",
   "uptodate.tokyo",
   "webスポルティーバ",
   "しもブロ",
@@ -196,9 +197,57 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 291,
- "detail_count": 174,
+ "count": 297,
+ "detail_count": 176,
  "items": [
+  {
+   "id": "d1f0b0f1f2676359",
+   "url": "https://www.nikkei.com/article/DGXZQOFL310OB0R30C26A8000000",
+   "title_original": "ファーストリテイリング株価、一進一退 「ユニクロが旗艦店倍増」報道",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3524721031082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.57&h=630&w=1200&s=93c40611aabda12c718c184b29575d57",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T01:01:57+00:00",
+   "title_ja": "ファーストリテイリング株価が一進一退 ユニクロ旗艦店倍増の報道受け",
+   "summary_ja": "ファーストリテイリングの株価が一進一退の展開を見せている。ユニクロがグローバルで旗艦店を倍増させると報じられたことが影響し、株式市場で投資家の注目を集めている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "c4175b8dd5b7606b",
+   "url": "https://news.laodong.vn/doanh-nghiep-doanh-nhan/tai-san-5-ti-phu-nhat-ban-giam-manh-ong-chu-uniqlo-mat-vi-tri-so-1-1759228.ldo",
+   "title_original": "Assets of 5 Japanese billionaires plummet, Uniqlo owner loses No. 1 position",
+   "source": "Laodong.vn",
+   "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/8/30/1759228/Anh-Man-Hinh-2026-08-01.jpg?w=800&h=420&crop=auto&scale=both",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T00:19:49+00:00",
+   "title_ja": "日本の富豪資産が大幅減 ユニクロ創業者が首位から転落と報道",
+   "summary_ja": "日本の大富豪5人の資産が大幅に減少したと報じられた。ユニクロを展開するファーストリテイリングの創業者が、これまで維持していた日本の長者番付首位の座から転落したと伝えている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e6dd44d0b17d3458",
+   "url": "https://mshale.com/c10638d5/2acadfbaUGurh3x_U90",
+   "title_original": "ユニクロUは止まらない。【魂のYouTube】ライブデザインチーム続投でコレクション継続確定か？ Alex Pereira (pDlKAgnsre)",
+   "source": "Mshale",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T19:46:20+00:00",
+   "title_ja": "「ユニクロ U」コレクション継続か、デザインチーム続投の噂",
+   "summary_ja": "人気コレクション「ユニクロ U（Uniqlo U）」について、デザインチームが続投し今後もコレクションが継続されるのではないかという憶測や、関連する動向を伝える記事です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 1,
+   "detail_tries": 1
+  },
   {
    "id": "ba4d880e0a58dd09",
    "url": "https://asia.nikkei.com/business/retail/uniqlo-to-double-number-of-flagship-stores-in-japan-in-strategy-pivot",
@@ -229,7 +278,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8a51ad30c97bf948",
@@ -294,6 +343,22 @@
    "brand": "ユニクロ",
    "importance": 5,
    "detail_tries": 2
+  },
+  {
+   "id": "06b6e4611d746079",
+   "url": "https://mainichi.jp/junior-tennis2026/games/u12m",
+   "title_original": "見逃し配信 U12男子シングルス決勝｜ユニクロ全日本ジュニアテニス2026",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/07/28/20260728hrc00m050003000q/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-30T07:04:25+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス2026、U12男子決勝が見逃し配信中",
+   "summary_ja": "ジュニアテニスの全国大会「ユニクロ全日本ジュニアテニス2026」における、12歳以下男子シングルス決勝戦の模様をインターネットで見逃し配信するニュースです。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "e111e39f137fabee",
@@ -454,6 +519,22 @@
    "brand": "GU",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "c4bee444d863d27d",
+   "url": "https://mshale.com/ee2d4f7c/b0b97c66zjAqgXKOmGs",
+   "title_original": "『それSnow Manにやらせて下さい』ユニクロ×東京それスノコレクション! 初夏の親子お出かけコーデ対決! 5/29(金) #それスノ【TBS】 Peter Capaldi (BHSI5KoBVu)",
+   "source": "Mshale",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-28T19:33:06+00:00",
+   "title_ja": "TBS「それSnow Manにやらせて下さい」でユニクロコーデ対決を放送",
+   "summary_ja": "TBS系のバラエティ番組「それSnow Manにやらせて下さい」にて、ユニクロのアイテムを使用した「東京それスノコレクション」が放送。初夏の親子お出かけコーディネートをテーマに対決が繰り広げられます。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f9798215ee7cc232",
@@ -1557,6 +1638,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d6d355a8197b23b8",
+   "url": "https://ultrasports.jp/uniqlo-dodgers-baseball-exchange-next-generation",
+   "title_original": "ユニクロとドジャースが日米交流の次世代育成プログラムを開始！ドジャースコーチ陣が日米の野球少年へ本格指導",
+   "source": "ultrasports.jp",
+   "image": "https://ultrasports.jp/wp-content/uploads/2026/08/447A2120-scaled.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-26T08:00:00+00:00",
+   "title_ja": "ユニクロとドジャースが日米交流の次世代育成プログラムを開始",
+   "summary_ja": "ユニクロとロサンゼルス・ドジャースが、日米交流の次世代育成プログラムを開始した。ドジャースのコーチ陣が日米の野球少年たちに本格的な指導を提供するプロジェクトとなっている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
