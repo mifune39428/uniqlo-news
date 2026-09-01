@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T00:42:49.352535+09:00",
+ "updated_at": "2026-09-02T05:16:18.041978+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -84,6 +84,7 @@
   "Newswav",
   "Nikkei Asia",
   "North Luzon Monitor",
+  "Nottingham Post",
   "Oggi.jp",
   "Oui Speak Fashion (OSF)",
   "PAUSE Online",
@@ -215,8 +216,8 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 338,
- "detail_count": 204,
+ "count": 340,
+ "detail_count": 206,
  "items": [
   {
    "id": "e5e54f1426a7c194",
@@ -248,7 +249,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1d917be665f52d70",
@@ -280,7 +281,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dc11b1f2c9ebbc27",
@@ -360,7 +361,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4579aa16462da5a3",
@@ -392,7 +393,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "231175ce5f0fab5a",
@@ -648,7 +649,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8c14c063b184cbf3",
@@ -792,6 +793,22 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "92d5e84364882eb0",
+   "url": "https://www.nottinghampost.com/news/uk-world-news/major-fashion-brand-announces-uk-11135511.amp",
+   "title_original": "Major fashion brand announces UK expansion with four new stores confirmed",
+   "source": "Nottingham Post",
+   "image": "https://i2-prod.nottinghampost.com/news/uk-world-news/article11135509.ece/ALTERNATES/s1200/0_Inside-a-Uniqlo-store-with-mannequins-wearing-mens-clothes.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T08:27:00+00:00",
+   "title_ja": "大手ファッションブランドが英国での事業拡大を発表、新たに4店舗の出店が決定",
+   "summary_ja": "大手ファッションブランドが、イギリスでの事業拡大に向けて新たに4つの店舗を出店することを発表しました。現時点で見出しからは具体的なブランド名は特定されていませんが、同国市場におけるさらなる展開を進める動きとして注目されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -1080,6 +1097,22 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "69a191350cb5b4ee",
+   "url": "https://pokde.net/lifestyle/shopping/uniqlo-lifewear-magazine-issue-15",
+   "title_original": "UNIQLO Launches LifeWear Magazine Issue 15 With Modern City Feelings Theme",
+   "source": "Pokde.Net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/01000610/uniqlolifewearmagn15cover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-29T11:58:00+00:00",
+   "title_ja": "ユニクロが『LifeWear magazine』第15号を発行、「モダンな都市」がテーマ",
+   "summary_ja": "ユニクロが自社発行誌『LifeWear magazine』の第15号を発刊しました。今号は「モダンな都市の空気感」をテーマに掲げ、現代の都市生活に馴染むスタイリングやライフスタイルを提案しています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
