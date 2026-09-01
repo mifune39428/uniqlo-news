@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T07:09:14.992142+09:00",
+ "updated_at": "2026-09-01T11:29:19.103624+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -67,6 +67,7 @@
   "KITV",
   "Kursiv Media Узбекистан",
   "L'Officiel Malaysia",
+  "L'Officiel Philippines",
   "Laodong.vn",
   "Le Monde.fr",
   "LionhearTV",
@@ -151,6 +152,7 @@
   "smart-flash.jp",
   "smartmag.jp",
   "speed.ph",
+  "tennis.jp",
   "the-ans.jp",
   "thephilbiznews",
   "toledoblade.com",
@@ -181,6 +183,7 @@
   "マイライフニュース",
   "ママテナ",
   "ヨムーノ",
+  "リンネル.jp",
   "中日BIZナビ",
   "千葉テレビ放送",
   "号外NET 奈良市",
@@ -204,9 +207,57 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 312,
- "detail_count": 187,
+ "count": 317,
+ "detail_count": 192,
  "items": [
+  {
+   "id": "111a24f0471c7f0e",
+   "url": "https://www.lofficielph.com/fashion/uniqlo-reintroduces-city-dressing-through-lifewear-week-2026",
+   "title_original": "UNIQLO Reintroduces City Dressing Through LifeWear Week 2026",
+   "source": "L'Officiel Philippines",
+   "image": "https://www.datocms-assets.com/42755/1788226949-1.jpg?auto=format&fit=max&w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-01T01:49:02+00:00",
+   "title_ja": "ユニクロが「LifeWear Week 2026」で都市型スタイルを提案",
+   "summary_ja": "ユニクロは、「LifeWear Week 2026」を通じて、都市生活に適したスタイリングである「シティドレッシング」の魅力を発信しています。日常に寄り添うLifeWearのコンセプトに基づき、洗練された都市型の着こなしを改めて提示しています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "736a6fd5218fa3ad",
+   "url": "https://www.seventietwo.com/ja/business/SVTglobal_uniqlo_20260831",
+   "title_original": "米欧ファッション株が全面安のなか、「ユニクロ」旗艦店倍増方針でファーストリテイリングが上昇率トップ 「SVT グローバル」｜8月31日",
+   "source": "SEVENTIE TWO",
+   "image": "https://www.seventietwo.com/uploads/2026/05/840-15.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T00:00:00+00:00",
+   "title_ja": "ファーストリテイリング株が上昇率トップ、ユニクロ旗艦店倍増方針を好感",
+   "summary_ja": "欧米のファッション関連株が全面安となる中、ファーストリテイリングの株価が上昇率トップを記録しました。ユニクロの旗艦店を倍増させるという同社の方針が市場で好感されたとみられます。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "c44b2612dec38b81",
+   "url": "https://www.jfa.jp/news/00036677",
+   "title_original": "JFAユニクロサッカーキッズ in 福井 2026年11月8日(日)開催決定！ 8月31日(月)から参加者募集開始",
+   "source": "JFA",
+   "image": "https://www.jfa.jp/img/cache/6a94d7f6-21ac-4fc3-a905-5d78d3093d95.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T22:18:45+00:00",
+   "title_ja": "福井で「JFAユニクロサッカーキッズ」が11月に開催決定、参加募集を開始",
+   "summary_ja": "2026年11月8日に福井県で「JFAユニクロサッカーキッズ」が開催されることが決定しました。これに伴い、同年8月31日よりイベントへの参加者の募集が開始されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "e21f648d836f2ac3",
    "url": "http://www.bbc.co.uk/news/articles/cz64955d56po",
@@ -317,7 +368,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8ce5fe985acf0412",
@@ -333,7 +384,23 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "75edbffca771f985",
+   "url": "https://tennis.jp/news/archives/348456",
+   "title_original": "U12は大賀翔平と高木咲來が選抜ジュニアでの雪辱を果たして優勝【ユニクロ全日本ジュニアテニス選手権 2026】",
+   "source": "tennis.jp",
+   "image": "https://tennis.jp/wp-content/uploads/2026/08/12-4nin-1024x683.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T11:49:32+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス選手権2026が閉幕",
+   "summary_ja": "ユニクロが特別協賛する全日本ジュニアテニス選手権2026が開催され、U12部門では大賀翔平と高木咲來が雪辱を果たして優勝を果たしました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "679ce11ea000f2ce",
@@ -397,6 +464,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fcabd8745351483b",
+   "url": "https://liniere.jp/column/fashion/picture/109507",
+   "title_original": "【ユニクロ新作・秋冬のコントワー・デ・コトニエがかわいい！】注目アイテムは？ きれい色が映えるパリの日常着",
+   "source": "リンネル.jp",
+   "image": "https://liniere.jp/wp/wp-content/uploads/2026/08/UNIQLO-CDC-CDC-image-top1-2026-8-19-1024x1280.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-08-31T06:12:06+00:00",
+   "title_ja": "ユニクロとコントワー・デ・コトニエの秋冬新作が登場　綺麗な色が映えるパリ日常着",
+   "summary_ja": "ユニクロと「コントワー・デ・コトニエ」による秋冬の新作コレクションが登場します。綺麗なカラーが映えるパリの日常着を意識した注目のアイテムが揃っており、これからの季節に向けたラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -932,7 +1015,7 @@
    "url": "https://smartmag.jp/picture/132738",
    "title_original": "（画像一覧）【ユニクロ ユー】2026秋冬の神アウター＆絶対買いのアイテムは？ルメール手がけるラストコレクションに注目",
    "source": "smartmag.jp",
-   "image": "",
+   "image": "https://smartmag.jp/official/wp-content/uploads/2026/08/PE_Uniqlo_U_FW26_SHOT_05_NAOMI_129_IB_F08_3x2-scaled.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-08-28T10:00:04+00:00",
@@ -941,7 +1024,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "0eed799de45d6b29",
