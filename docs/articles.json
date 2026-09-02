@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T05:16:18.041978+09:00",
+ "updated_at": "2026-09-02T10:50:02.126406+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -216,9 +216,41 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 340,
- "detail_count": 206,
+ "count": 342,
+ "detail_count": 207,
  "items": [
+  {
+   "id": "69de76e88c33bc8d",
+   "url": "https://www.nikkei.com/article/DGXZQOCD310140R30C26A8000000",
+   "title_original": "「服を売る前にユニクロを売れ」 日本で旗艦店シフト、AIに備え",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3531434001092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.22&fp-y=0.37&h=630&w=1200&s=991696c550d435728d5d851c40167d42",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T01:00:00+00:00",
+   "title_ja": "ユニクロが国内で旗艦店シフトを推進、AI時代を見据えたブランド戦略",
+   "summary_ja": "ユニクロが日本国内において大型の旗艦店へのシフトを進めている。AI時代を見据え、個々の衣服を販売するだけでなくブランド自体の価値を高める取り組みを強化する方針だ。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "0b0b3c9bd53f5d41",
+   "url": "https://www.asahi.com/articles/ASV914466V91UTQP01CM.html",
+   "title_original": "ユニクロがBリーグに「参戦」 地域密着のファン層に見いだす商機",
+   "source": "朝日新聞",
+   "image": "https://imgopt.asahi.com/ogp/AS20260901004621_comm.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T21:30:00+00:00",
+   "title_ja": "ユニクロがプロバスケ「Bリーグ」に参入へ、地域密着のファン層に商機",
+   "summary_ja": "ユニクロがプロバスケットボール「Bリーグ」に関連した取り組みを開始することが報じられました。地域に密着した熱心なファン層に注目し、新たな顧客層の開拓や地域社会への貢献を目指す狙いがあるとみられます。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e5e54f1426a7c194",
    "url": "https://www.vietnam.vn/ja/loi-tam-biet-cua-lemaire-va-sarah-linh-tran",
