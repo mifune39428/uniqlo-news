@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T19:07:39.282867+09:00",
+ "updated_at": "2026-09-03T00:32:27.136404+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -61,6 +61,7 @@
   "Honolulu Star-Advertiser",
   "Hoodline",
   "Hypebeast",
+  "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
   "Interaksyon",
@@ -172,6 +173,7 @@
   "ultrasports.jp",
   "uptodate.tokyo",
   "webスポルティーバ",
+  "wheninmanila.com",
   "しもブロ",
   "とよすと",
   "ねとらぼ",
@@ -195,6 +197,7 @@
   "マイナビ子育て",
   "マイライフニュース",
   "ママテナ",
+  "モデルプレス",
   "ヨムーノ",
   "ラブすぽ",
   "リンネル.jp",
@@ -222,9 +225,57 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 352,
- "detail_count": 212,
+ "count": 358,
+ "detail_count": 216,
  "items": [
+  {
+   "id": "e18643ebaa12fac3",
+   "url": "https://mdpr.jp/other/4838392",
+   "title_original": "ユニクロ、8月の既存店売上高 夏物が失速し1.3％減",
+   "source": "モデルプレス",
+   "image": "https://img-mdpr.freetls.fastly.net/common/noimage.png?width=700&disable=upscale&auto=webp&quality=80",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T16:00:00+00:00",
+   "title_ja": "ユニクロ、8月既存店売上高は1.3%減 夏物失速",
+   "summary_ja": "ユニクロの8月既存店売上高は、夏物の販売が失速した影響を受けて前年同月比1.3%減となったことが明らかになった。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a1597dded844fdd0",
+   "url": "https://www.indianretailer.com/interview/retail-people/fashion/how-uniqlo-integrating-style-comfort-and-tech-winter-clothing",
+   "title_original": "How UNIQLO is integrating style, comfort, and tech in winter clothing",
+   "source": "Indian Retailer",
+   "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-09/NIDHI.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T13:20:23+00:00",
+   "title_ja": "ユニクロが冬服で追求するスタイル、快適さ、技術の融合",
+   "summary_ja": "ユニクロが冬向けの衣類において、デザイン性と快適さ、そしてテクノロジーをどのように融合させているかを紹介する記事です。防寒性だけでなく、着心地やスタイルを両立させる同社の製品開発へのアプローチについて取り上げています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9dada97f06bb8930",
+   "url": "https://news.yahoo.co.jp/articles/017795ef680bdf5e04dae5bd7429120849a4dbf1",
+   "title_original": "バスケ歴13年の桜井日奈子、地元・岡山愛にあふれたオリジナルTシャツを作成 篠山竜青選手＆齋藤拓実選手とともにユニクロ『UTme!』を体験（デビュー）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000537-devi-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T12:10:16+00:00",
+   "title_ja": "桜井日奈子らがユニクロ「UTme!」を体験、地元・岡山愛を込めたTシャツ制作",
+   "summary_ja": "女優の桜井日奈子さんが、プロバスケットボールの篠山竜青選手、齋藤拓実選手とともにユニクロのオリジナルTシャツ作成サービス「UTme!」を体験しました。桜井さんは地元である岡山への愛を表現したデザインを制作しました。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6621258b32798fce",
    "url": "https://shikiho.toyokeizai.net/news/0/956665",
@@ -239,7 +290,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "de8c965b318765d0",
@@ -253,6 +304,38 @@
    "title_ja": "ドジャースタジアムにおけるユニクロの命名権・ビジネス構造を解説",
    "summary_ja": "ドジャースタジアムにおけるユニクロの広告や命名権ビジネスについて解説された記事です。年間36億円規模とされる契約内容を例に、スポーツビジネスにおける命名権の仕組みやその効果について分析しています。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "81f4086e8e6c9dce",
+   "url": "https://basketballking.jp/news/japan/20260902/630415.html",
+   "title_original": "驚異の肉体美に感嘆…ユニクロ製ウェアが審判員にシンデレラフィット「ちなみにサイズは…」",
+   "source": "バスケットボールキング",
+   "image": "https://basketballking.jp/wp-content/uploads/2026/09/Urushima.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T08:07:52+00:00",
+   "title_ja": "審判員が着用するユニクロ製ウェアが話題",
+   "summary_ja": "試合の審判員が着用しているユニクロ製のウェアについて、その優れたフィット感や肉体美を引き立てるシルエットが関係者の間で話題となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "b946e72e27a2978b",
+   "url": "https://www.nikkei.com/article/DGXZQOUC0268X0S6A900C2000000",
+   "title_original": "ユニクロ国内売上高1%減 8月、天候不順で客数減",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3540802002092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.66&fp-y=0.65&h=630&w=1200&s=22b8b65854574fd102806102e7b3e35a",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T07:59:14+00:00",
+   "title_ja": "ユニクロの国内売上高、8月は天候不順で1%減",
+   "summary_ja": "ファーストリテイリングが展開するユニクロの8月国内売上高は、天候不順による客数の減少が響き、前年同月比で1%のマイナスとなった。",
+   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -303,7 +386,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "246b4c060f9c123a",
@@ -367,7 +450,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "661e17d622e6aeaf",
@@ -383,7 +466,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0b0b3c9bd53f5d41",
@@ -975,6 +1058,22 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8eb8b6b67902fd12",
+   "url": "https://www.wheninmanila.com/uniqlo-launches-its-2026-fall-winter-collection-introduces-anne-curtis-as-newest-celebrity-ambassador",
+   "title_original": "UNIQLO Launches Its 2026 Fall/Winter Collection, Introduces Anne Curtis as Newest Celebrity Ambassador",
+   "source": "wheninmanila.com",
+   "image": "https://www.wheninmanila.com/wp-content/uploads/2026/09/13A.-UNIQLOs-Fleece-collection-offers-lightweight-warmth-comfort-and-versatile-styles-in-a-range-of-colors-for-effortless-layering-and-travel-to-cooler-destinations-1024x699.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-08-31T09:11:28+00:00",
+   "title_ja": "ユニクロ、2026年秋冬コレクションと新アンバサダーを発表",
+   "summary_ja": "ユニクロが2026年秋冬コレクションを発表し、新アンバサダーとしてアン・カーティスを起用したことを明らかにした。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
