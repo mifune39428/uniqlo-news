@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T00:32:27.136404+09:00",
+ "updated_at": "2026-09-03T05:14:35.434407+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -84,6 +84,7 @@
   "Moomoo",
   "Mshale",
   "NDTV Profit",
+  "News.com.au",
   "Newswav",
   "Nikkei Asia",
   "North Luzon Monitor",
@@ -225,8 +226,8 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 358,
- "detail_count": 216,
+ "count": 363,
+ "detail_count": 219,
  "items": [
   {
    "id": "e18643ebaa12fac3",
@@ -243,6 +244,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "f0225c2bbf64d668",
+   "url": "https://www.news.com.au/checkout/fashion-and-accessories/clothing/best-affordable-fashion-brands/news-story/d866f42399b97ebe604fe8d952da3690",
+   "title_original": "‘Dior for less’: Uniqlo collab has fans hyped",
+   "source": "News.com.au",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T15:19:16+00:00",
+   "title_ja": "ディオール風と話題に、海外でユニクロの新作コラボコレクションに注目集まる",
+   "summary_ja": "ユニクロが手掛ける最新のコラボレーションコレクションが海外のファンの間で大きな話題となっています。高級ブランド「ディオール」を思わせるデザインを低価格で楽しめるアイテムとして、多くの期待が寄せられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "a1597dded844fdd0",
@@ -322,7 +339,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b946e72e27a2978b",
@@ -338,7 +355,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "54eac1f38945a7c0",
@@ -371,6 +388,22 @@
    "brand": "グループ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "10681bd2ef41fda9",
+   "url": "https://www.ryutsuu.biz/sales/s090215.html",
+   "title_original": "ユニクロ／8月既存店売上1.3％減、天候不順で夏物低調",
+   "source": "流通ニュース",
+   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T05:10:53+00:00",
+   "title_ja": "ユニクロの8月既存店売上高は1.3％減、天候不順により夏物販売が低調",
+   "summary_ja": "ユニクロが発表した8月の国内既存店売上高は、前年同月比で1.3％減少しました。天候不順の影響により、夏物商品の販売が振るわなかったことが主な要因とみられます。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e102ebb2e788da21",
@@ -453,6 +486,38 @@
    "detail_tries": 2
   },
   {
+   "id": "07dd81719fa306ed",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/82648",
+   "title_original": "【ユニクロ アンド コントワー・デ・コトニエ】2026年秋冬コレクション登場！ 自然体で楽しむ、現代的なフレンチエレガンス",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/c9/c90c26dd-dced-4ee3-bfb9-484b8e473037-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T00:00:00+00:00",
+   "title_ja": "ユニクロとコントワー・デ・コトニエの2026年秋冬コラボコレクションが登場",
+   "summary_ja": "ユニクロと「コントワー・デ・コトニエ」のコラボレーションによる2026年秋冬コレクションが発表されました。自然体で楽しめる現代的なフレンチエレガンスをテーマにしたアイテムが展開され、新たなコレクションとして注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f392a9018f264478",
+   "url": "https://baila.hpplus.jp/fashion/bag-shoes-sneakers/82641",
+   "title_original": "【UNIQLO（ユニクロ）】世界全店で「LifeWear Week」を開催中！ 秋冬コレクションの世界観を楽しんで",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/ba/ba61626d-4111-4ecc-9378-fa34dc97d5fb-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T00:00:00+00:00",
+   "title_ja": "ユニクロが世界全店で「LifeWear Week」を開催！秋冬の世界観を展開",
+   "summary_ja": "ユニクロが世界中の全店舗において「LifeWear Week」を開催しています。秋冬コレクションのテーマや世界観を体験できる取り組みとなっており、ブランドの魅力を体感できる機会を提供しています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "661e17d622e6aeaf",
    "url": "https://mantan-web.jp/prtimes/article/20260902prt00m200000837a.html",
    "title_original": "「UNIQLO LifeWear Day Tokyo 2026 with Kei Nishikori」2026年10月11日（日）に有明コロシアムで開催",
@@ -496,6 +561,22 @@
    "title_ja": "クリストフ・ルメールとサラ＝リン・トランによるメッセージ公開",
    "summary_ja": "ファッションブランド「ルメール」を手掛けるクリストフ・ルメールとサラ＝リン・トランからのメッセージが公開されました。ユニクロの「Uniqlo U」も手掛ける両氏の今後の動向に関心が集まっています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bcaf6510aa879446",
+   "url": "https://topics.smt.docomo.ne.jp/article/mainichi/sports/mainichi-20260901k0000m050099000c?page=1",
+   "title_original": "U12、U14シングルスで王者決まる ユニクロ全日本ジュニアテニス",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/mainichi/m_mainichi-20260901k0000m050099000c.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-01T13:00:07+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス、U12・U14の王者決定",
+   "summary_ja": "ユニクロが特別協賛する全日本ジュニアテニス選手権において、U12およびU14のシングルス部門でそれぞれの王者が決定しました。国内の若手トップジュニアたちが熱戦を繰り広げました。",
+   "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
