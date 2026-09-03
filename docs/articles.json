@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T05:14:35.434407+09:00",
+ "updated_at": "2026-09-03T10:56:16.341940+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -118,6 +118,7 @@
   "Sustainable Japan",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
+  "TRP | The Rakyat Post",
   "The Business Journals",
   "The Cool Down",
   "The Economic Times",
@@ -226,9 +227,25 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 363,
- "detail_count": 219,
+ "count": 365,
+ "detail_count": 221,
  "items": [
+  {
+   "id": "2c8e0d6c41b04abb",
+   "url": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
+   "title_original": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
+   "source": "Nikkei Asia",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F4%2F13044513-1-eng-GB%2Fed979489e0f3-20260902N-Uniqlo-Yanai.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T21:32:43+00:00",
+   "title_ja": "ユニクロが国内で旗艦店主軸にシフトしブランドイメージ再構築へ",
+   "summary_ja": "ユニクロは日本国内で大型旗艦店を中心とした店舗展開へ舵を切り、ブランドイメージの再構築を図っている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e18643ebaa12fac3",
    "url": "https://mdpr.jp/other/4838392",
@@ -259,7 +276,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a1597dded844fdd0",
@@ -403,7 +420,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e102ebb2e788da21",
@@ -449,6 +466,22 @@
    "title_ja": "ユニクロ ユーが2026年秋冬コレクションを発表、注目アイテムを解説",
    "summary_ja": "ユニクロの「ユニクロ ユー」から2026年秋冬コレクションが登場しました。新たな展開を迎える今シーズンのラインナップの中から、GQエディターが特におすすめする注目アイテムやコレクションの魅力が解説されています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "95b906fee2eaacb5",
+   "url": "https://www.therakyatpost.com/living/2026/09/02/uniqlo-launches-fall-winter-2026-in-malaysia-as-uniqlo-u-marks-10th-and-final-collection-under-lemaire-and-tran",
+   "title_original": "Uniqlo Launches Fall/Winter 2026 In Malaysia As Uniqlo U Marks 10th - And Final - Collection Under Lemaire And Tran",
+   "source": "TRP | The Rakyat Post",
+   "image": "https://www.therakyatpost.com/wp-content/uploads/2026/09/uniqlofeatimg.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T01:41:14+00:00",
+   "title_ja": "ユニクロがマレーシアで2026年秋冬を開始　「Uniqlo U」最後作も",
+   "summary_ja": "ユニクロがマレーシアで2026年秋冬コレクションを立ち上げました。ルメールとトランによる「Uniqlo U」は今回が10回目であり、同体制としては最後のコレクションとなります。",
+   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -3482,7 +3515,7 @@
    "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%9D%A5%E6%9C%88%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89-%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%81%AB%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-lifewear%E3%82%92%E5%B1%95%E9%96%8B,1860342.html",
    "title_original": "ユニクロ、来月ケンブリッジのグランド・アーケードに新店舗オープン—LifeWearを展開",
    "source": "FashionNetwork France",
-   "image": "",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/bf09/33cc/c567/f531/5d96/0433/e4d5/666a/c119/9311/9311.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-08-24T11:16:15+00:00",
@@ -3498,7 +3531,7 @@
    "url": "https://ww.fashionnetwork.com/news/Uniqlo-takes-lifewear-to-cambridge-with-grande-arcade-store-opening-next-month,1860341.html",
    "title_original": "Uniqlo takes LifeWear to Cambridge with Grande Arcade store opening next month",
    "source": "FashionNetwork - The World's Fashion Business News",
-   "image": "",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/bf09/33cc/c567/f531/5d96/0433/e4d5/666a/c119/9311/9311.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-08-24T11:16:15+00:00",
