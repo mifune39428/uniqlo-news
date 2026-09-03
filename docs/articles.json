@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T00:25:13.507371+09:00",
+ "updated_at": "2026-09-04T05:15:21.043041+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -158,6 +158,7 @@
   "full-count.jp",
   "houseofheat.co",
   "hype.my",
+  "illustrated Daily News",
   "jbasket.jp",
   "journal.com.ph",
   "lasisa.net",
@@ -223,6 +224,7 @@
   "朝日新聞",
   "東京バーゲンマニア",
   "東奥日報社",
+  "東洋経済オンライン",
   "毎日キレイ",
   "毎日新聞",
   "流通スーパーニュース",
@@ -234,9 +236,41 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 378,
- "detail_count": 228,
+ "count": 384,
+ "detail_count": 231,
  "items": [
+  {
+   "id": "2b4c1838433dbe76",
+   "url": "https://toyokeizai.net/articles/-/956639",
+   "title_original": "｢障害者雇用率｣が高い企業ランキング！ 10位ファーストリテイリング､9位Trailhead Global Holdings､8位しまむら､さらに上位に入ったのは？",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/4/0/1200xm/img_40a81e7a703307d0ef5671f29f13d604119151.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T20:00:00+00:00",
+   "title_ja": "障害者雇用率が高い企業ランキングでファーストリテイリングが10位に",
+   "summary_ja": "東洋経済オンラインが発表した「障害者雇用率が高い企業ランキング」にて、ファーストリテイリングが10位にランクインした。同社の多様な人材の雇用に対する取り組みが示されている。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a35773dba4b695f8",
+   "url": "https://www.chiba-tv.com/plus/detail/2026091973440",
+   "title_original": "「ユニクロJR新大阪店」とJR西日本グループのコラボレーションTシャツにJR西日本で活躍する車両のをデザインした新柄が登場！",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1468281803401232518/origin_1.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T16:29:33+00:00",
+   "title_ja": "ユニクロJR新大阪店とJR西日本がコラボ、実在の車両をデザインした新柄Tシャツが登場",
+   "summary_ja": "「ユニクロJR新大阪店」とJR西日本グループのコラボレーションTシャツに、JR西日本で活躍する車両をデザインした新しい柄が登場。地域の魅力を伝える限定デザインとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "49a83111f30371ea",
    "url": "https://woman.nikkei.com/atcl/column/23/030200403/081000007/?i_cid=nbpnxw_new_top_03",
@@ -267,7 +301,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "43dd024ea923f15d",
@@ -299,6 +333,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7ef30313584f7935",
+   "url": "https://retailnews.asia/uniqlo-to-double-japanese-flagship-count-to-20-in-ten-year-strategy-shift",
+   "title_original": "Uniqlo to Double Japanese Flagship Count to 20 in Ten-Year Strategy Shift",
+   "source": "Retail News Asia",
+   "image": "https://i0.wp.com/crm.retailnews.asia/wp-content/uploads/2017/12/uniqlo-1280x817.jpg?w=1600&quality=72&strip=all&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T07:59:17+00:00",
+   "title_ja": "ユニクロが10年間の戦略転換で国内旗艦店を20店に倍増へ",
+   "summary_ja": "ユニクロは今後10年間の新たな戦略転換に基づき、日本国内におけるフラッグシップ店舗の数を現在の2倍にあたる20店舗へと倍増させる方針を打ち出しました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -395,7 +445,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "182cf7334216c700",
@@ -412,6 +462,22 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "448d7755b5d658fd",
+   "url": "https://news.yahoo.co.jp/articles/e0f1ac57ab8e864afa2140c9dd7dcb03359104c4",
+   "title_original": "【ヤフコメで話題】「ユニクロ主催の錦織圭引退イベントにフェデラー来日」「無料観戦の応募条件やブランド戦略に意見」 - テニス界とユニクロの関係性に注目集まる（Yahoo!ニュース オリジナル THE PAGE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00000010-wordleafai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T00:24:50+00:00",
+   "title_ja": "錦織圭引退イベントにフェデラー来日、ユニクロ戦略に注目",
+   "summary_ja": "ユニクロが主催する錦織圭の引退イベントにロジャー・フェデラーが来日することが話題となり、無料観戦の条件や同社のブランド戦略に様々な意見が寄せられています。（※抜粋なし）",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "9ce6d44930401d8e",
@@ -444,6 +510,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "e0adc90aa882daf7",
+   "url": "https://www.illustrateddailynews.com/india/from-uniqlo-to-banks-japans-capital-is-pouring-into-india-870092",
+   "title_original": "From Uniqlo To Banks: Japan's Capital Is Pouring Into India",
+   "source": "illustrated Daily News",
+   "image": "https://www.illustrateddailynews.com/h-upload/2026/09/02/1101602-screenshot-2026-09-02-235045.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-02T18:27:34+00:00",
+   "title_ja": "ユニクロなど日本企業のインド投資が拡大",
+   "summary_ja": "ユニクロの進出をはじめ、銀行など日本からの資本がインド市場へ急速に流入している動向を伝えています。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e18643ebaa12fac3",
@@ -505,6 +587,22 @@
    "title_ja": "桜井日奈子らがユニクロ「UTme!」を体験、地元・岡山愛を込めたTシャツ制作",
    "summary_ja": "女優の桜井日奈子さんが、プロバスケットボールの篠山竜青選手、齋藤拓実選手とともにユニクロのオリジナルTシャツ作成サービス「UTme!」を体験しました。桜井さんは地元である岡山への愛を表現したデザインを制作しました。",
    "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bc5f9601f0e7602a",
+   "url": "https://senken.co.jp/posts/uniqlo-bleague-260902",
+   "title_original": "ユニクロ Bリーグとパートナーシップ契約",
+   "source": "繊研新聞",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/421865/facebook_760570__27_.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T09:00:00+00:00",
+   "title_ja": "ユニクロ、男子プロバスケットボール「B.LEAGUE」と契約",
+   "summary_ja": "ユニクロが男子プロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ契約締結を発表しました。",
+   "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
