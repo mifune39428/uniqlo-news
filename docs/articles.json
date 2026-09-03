@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T19:19:03.011383+09:00",
+ "updated_at": "2026-09-04T00:25:13.507371+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -54,6 +54,7 @@
   "Fashion United",
   "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
+  "Fibre2Fashion",
   "GMA Network",
   "Gear Patrol",
   "Gempak",
@@ -180,6 +181,7 @@
   "uptodate.tokyo",
   "webスポルティーバ",
   "wheninmanila.com",
+  "woman.nikkei.com",
   "しもブロ",
   "とよすと",
   "ねとらぼ",
@@ -232,9 +234,73 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 373,
- "detail_count": 225,
+ "count": 378,
+ "detail_count": 228,
  "items": [
+  {
+   "id": "49a83111f30371ea",
+   "url": "https://woman.nikkei.com/atcl/column/23/030200403/081000007/?i_cid=nbpnxw_new_top_03",
+   "title_original": "ユニクロ部長、柳井社長へのプレゼンは毎回ド緊張 攻略のカギは「紙1枚」",
+   "source": "woman.nikkei.com",
+   "image": "https://woman.nikkei.com/atcl/column/23/030200403/081000007/top_m.jpg?20260401",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T15:01:00+00:00",
+   "title_ja": "柳井社長へのプレゼンに挑むユニクロ部長が明かす資料作成のコツ",
+   "summary_ja": "ユニクロの部長が、柳井正社長へのプレゼンにおける緊張感と、その攻略法について語る記事です。提案を通すためのカギは「紙1枚」にまとめることであり、社内での迅速な意思決定を支えるコミュニケーションの実態が明かされています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "af3749ef09017f6d",
+   "url": "https://www.fibre2fashion.com/news/fashion-news/uniqlo-set-to-open-new-store-at-lake-shore-in-mumbai-s-thane--313203-newsdetails.htm",
+   "title_original": "UNIQLO set to open new store at Lake Shore in Mumbai's Thane",
+   "source": "Fibre2Fashion",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-03T12:44:58+00:00",
+   "title_ja": "ユニクロがインド・ムンバイのセイン地区に新店舗をオープンへ",
+   "summary_ja": "ユニクロが、インドのムンバイ近郊にあるセイン地区の商業施設「レイク・ショア」に新店舗を出店することが分かりました。成長を続けるインド市場において、さらなる店舗網の拡大とブランドの認知度向上を図ります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "43dd024ea923f15d",
+   "url": "https://news.yahoo.co.jp/articles/f213da004a4fd00d164089515a388c93c4b1646c",
+   "title_original": "第1章の集大成!!! Uniqlo U 2026秋冬コレクション「Confidence in Form」（FORZA STYLE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00079528-forza-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T11:00:38+00:00",
+   "title_ja": "Uniqlo Uが2026年秋冬コレクション「Confidence in Form」を発表",
+   "summary_ja": "ユニクロは、Uniqlo Uの2026年秋冬コレクション「Confidence in Form」を発表しました。「第1章の集大成」と位置づけられた本コレクションは、洗練されたデザインと機能性を兼ね備えたアイテムが展開される予定です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "de37235ea928d440",
+   "url": "https://news.yahoo.co.jp/articles/325088673052d95fd5c54287e9917bf13f0343ee",
+   "title_original": "【Bリーグ】ユニクロとパートナーシップ 数値目標は三桁の“UTme!”店舗数、そして「右肩上がり」（スポーティングニュース日本版）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00010021-sporting-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T09:14:59+00:00",
+   "title_ja": "ユニクロがBリーグとパートナーシップ締結 “UTme!”店舗拡大も目標に",
+   "summary_ja": "ユニクロが男子プロバスケットボール「Bリーグ」とのパートナーシップを締結しました。オリジナル商品を作れる「UTme!」の展開店舗数を3桁に増やすという具体的な数値目標を掲げ、右肩上がりの成長を目指します。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a68463f62cab5b63",
    "url": "https://infashionbusiness.com/home/news_details/8497/15",
@@ -297,7 +363,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9dd35665664b58b8",
@@ -313,6 +379,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "5f661823b4bc9fee",
+   "url": "https://news.yahoo.co.jp/articles/0970973c8fbeff3d0ef58978f2537719e58f46eb/images/000",
+   "title_original": "「軽く薄くて快適」ユニクロの値下げ中ポロシャツが人気「汗をかいてもサラサラ」「暑くても爽やか」 (Fav-Log by ITmedia)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgHARoB_08HTBGDt1nairqbQlmB14tc3oYWDL-t8ztkl8q8bmW9kh_JeusfiDmReNAN_cmE2nwGEmtPwcBDQLWu-ZG0leHNOL3ZlhQ5YpNBg_",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T02:45:00+00:00",
+   "title_ja": "ユニクロの値下げ中ポロシャツが人気　薄手で汗をかいても快適な着心地",
+   "summary_ja": "ユニクロで値下げ販売されているポロシャツが好評を得ています。生地が軽く薄いため、汗をかいてもサラサラとした爽やかな着心地が持続し、暑い日でも快適に過ごせると評価されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
    "detail_tries": 1
   },
   {
@@ -329,7 +411,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9ce6d44930401d8e",
@@ -745,7 +827,7 @@
    "category": "キャンペーン・セール",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a1e824806fa3532e",
