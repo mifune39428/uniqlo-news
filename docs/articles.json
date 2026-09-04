@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T05:15:21.043041+09:00",
+ "updated_at": "2026-09-04T10:50:58.862692+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -69,6 +69,7 @@
   "Inside Retail Asia",
   "Interaksyon",
   "Investing.com",
+  "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
   "JFA",
   "KED Global",
   "KITV",
@@ -116,6 +117,7 @@
   "Skratch Golf",
   "Social News XYZ",
   "Social Samosa",
+  "Storm.mg",
   "Storyboard18",
   "Stylist",
   "SunStar Publishing Inc.",
@@ -214,6 +216,7 @@
   "千葉テレビ放送",
   "号外NET 奈良市",
   "四季報オンライン",
+  "地域ニュースサイト号外NET",
   "地球の歩き方",
   "山陽新聞",
   "推し楽",
@@ -236,9 +239,73 @@
   "船橋つうしん",
   "読売新聞"
  ],
- "count": 384,
- "detail_count": 231,
+ "count": 392,
+ "detail_count": 233,
  "items": [
+  {
+   "id": "00c6a86fefce5189",
+   "url": "https://www.ryutsuu.biz/store/s090442.html",
+   "title_original": "ユニクロ／東京・錦糸町の「アルカキット錦糸町店」9月25日リニューアルオープン",
+   "source": "流通ニュース",
+   "image": "https://www.ryutsuu.biz/main/images/2026/09/20260904uniqlo.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T01:24:48+00:00",
+   "title_ja": "ユニクロ「アルカキット錦糸町店」が9月25日にリニューアルオープン",
+   "summary_ja": "東京・錦糸町にあるユニクロ「アルカキット錦糸町店」が、9月25日にリニューアルオープンすることが分かりました。店舗装いを新たにし、来店客が訪れるたびに楽しみを感じられるような店舗を目指します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f4f4d97fe7cb7ad5",
+   "url": "https://japan.storm.mg/articles/1161112",
+   "title_original": "ユニクロがB.LEAGUEとパートナーシップ締結 初となる選手用ユニフォームや審判ウェア提供へ | 黃信維（コウ・シンイ） | ニュース",
+   "source": "Storm.mg",
+   "image": "https://images.storm.mg/cloud/da6c2742d32a5399882e0007bf7b9ddf19d80aea.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2208432%2FF7v8XsVpL9bz7tJBdbBasMX4RTU5QhYXo3klDJ7x.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T01:18:00+00:00",
+   "title_ja": "ユニクロがB.LEAGUEとパートナーシップ締結　選手・審判用ウェアを初提供",
+   "summary_ja": "ユニクロはプロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。本提携を通じて、同社としては初となる選手用ユニフォームや審判用ウェアの提供を行う予定です。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "eb3a1c1644a66196",
+   "url": "https://news.yahoo.co.jp/articles/8b0da1a96fdbd70d64b569bd54f43afa8f05e0a1",
+   "title_original": "ユニクロで万引きした商品の返品を要求か 38歳男逮捕 ユニクロは男の人着を共有（テレビ朝日系（ANN））",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00010001-annd-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T00:42:09+00:00",
+   "title_ja": "ユニクロで盗んだ商品の返品を要求か　38歳男を逮捕",
+   "summary_ja": "ユニクロの店舗で万引きした商品を店舗に持ち込み、不正に返品を要求したとして38歳の男が逮捕されました。被害を受けたユニクロ側は、容疑者の特徴などの情報を共有して警戒を行っていたと伝えられています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "c72add5494f6e9d7",
+   "url": "https://daitoshijonawate.goguynet.jp/2026/09/04/plst",
+   "title_original": "【四條畷市】イオンモール四條畷1階の水のコート横に超大型店舗「PLST（プラステ）」がオープンするようです。ユニクロもリニューアル！",
+   "source": "地域ニュースサイト号外NET",
+   "image": "https://daitoshijonawate.goguynet.jp/wp-content/uploads/sites/4/2026/09/IMG_7640.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T22:21:25+00:00",
+   "title_ja": "イオンモール四條畷に「PLST」超大型店がオープンへ ユニクロも改装",
+   "summary_ja": "イオンモール四條畷の1階に、ファーストリテイリング傘下のブランド「PLST（プラステ）」の超大型店舗がオープンすることが分かりました。これに伴い、同施設内にある「ユニクロ」もリニューアルオープンする予定です。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "2b4c1838433dbe76",
    "url": "https://toyokeizai.net/articles/-/956639",
@@ -253,7 +320,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a35773dba4b695f8",
@@ -267,6 +334,22 @@
    "title_ja": "ユニクロJR新大阪店とJR西日本がコラボ、実在の車両をデザインした新柄Tシャツが登場",
    "summary_ja": "「ユニクロJR新大阪店」とJR西日本グループのコラボレーションTシャツに、JR西日本で活躍する車両をデザインした新しい柄が登場。地域の魅力を伝える限定デザインとなっている。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "487394bb6314d272",
+   "url": "http://www.excite.co.jp/news/article/BestTimes_04326988",
+   "title_original": "桜井日奈子がユニクロ✕Bリーグイベントに登場。オリジナルバスケTシャツづくりに挑戦",
+   "source": "Excite エキサイト",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T15:30:00+00:00",
+   "title_ja": "桜井日奈子がユニクロとBリーグのイベントに登場、オリジナルTシャツ作りに挑戦",
+   "summary_ja": "女優の桜井日奈子が、ユニクロとBリーグがコラボレーションしたイベントに登場しました。イベント内では、自身でデザインするオリジナルのバスケットボールTシャツ作りに挑戦しました。",
+   "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -416,6 +499,22 @@
    "detail_tries": 2
   },
   {
+   "id": "b2f15cda1ed4514c",
+   "url": "https://jp.investing.com/news/stock-market-news/article-1669001",
+   "title_original": "ファストリテイリング株、ユニクロ8月の既存店売上高が減少し約5カ月ぶり安値 執筆",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T05:00:00+00:00",
+   "title_ja": "ユニクロ8月既存店売上高が減少し約5カ月ぶり安値",
+   "summary_ja": "ファーストリテイリングの株価が下落し、ユニクロの8月の既存店売上高が減少したことで約5カ月ぶりの安値を記録したと伝えています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "9dd35665664b58b8",
    "url": "https://www.lofficielph.com/fashion/uniqlo-fallwinter-26-press-preview",
    "title_original": "Everything You Missed From UNIQLO’s Fall/Winter ’26 Press Preview",
@@ -462,6 +561,22 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "03fba9a4c749e466",
+   "url": "https://jp.investing.com/news/stock-market-news/article-1668934",
+   "title_original": "ファーストリテ---大幅続落、8月既存店は2カ月ぶりマイナスに 執筆： Fisco",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T02:30:00+00:00",
+   "title_ja": "ファーストリテイリングが大幅続落、8月既存店売上高は2カ月ぶりマイナスに",
+   "summary_ja": "ファーストリテイリングの株価が大幅に続落しました。8月の国内ユニクロ既存店売上高が2カ月ぶりのマイナスとなったことが背景にあります。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "448d7755b5d658fd",
@@ -525,7 +640,7 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e18643ebaa12fac3",
@@ -590,6 +705,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "219ce4e50b6ef588",
+   "url": "https://news.yahoo.co.jp/articles/c0a4fad253f2183b920bf89b76b1054294f697b2/images/000",
+   "title_original": "【ユニクロ ユー】ルメールのラストコレクションはどれを買う？ (FASHIONSNAP)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgIk99y5yerAqR1NEK2RA0Rb9SEHNuAsbUljgq2za8Q5N1pFDY6wVJgfhyjpsf8fUcoJtDmjKqEj5E_UxEdZoor3VbaajcdU-2jNy26xCPhBdDtgdBGSSDdFq6ao8cFL_UQ==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-02T09:28:13+00:00",
+   "title_ja": "ユニクロ ユー、ルメールのラストコレクション",
+   "summary_ja": "ユニクロ ユーにおけるクリエイティブ・ディレクター、クリストフ・ルメールの最後のコレクションについて、どれを購入すべきか注目アイテムが紹介されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "bc5f9601f0e7602a",
