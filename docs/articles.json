@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T19:06:39.242103+09:00",
+ "updated_at": "2026-09-05T00:22:04.787880+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,7 +18,6 @@
  "sources": [
   "36Kr Japan",
   "7NEWS",
-  "@DIME アットダイム",
   "A1 Retail Magazine",
   "ABEMA",
   "AFPBB News",
@@ -246,7 +245,7 @@
   "読売新聞"
  ],
  "count": 400,
- "detail_count": 234,
+ "detail_count": 235,
  "items": [
   {
    "id": "7b8102d7109f87b4",
@@ -265,6 +264,38 @@
    "has_detail": true
   },
   {
+   "id": "85716131694c53b0",
+   "url": "https://nlab.itmedia.co.jp/research/articles/4003195",
+   "title_original": "「8枚買いました」 ユニクロの“大ヒットTシャツ”が1990円→1290円に 「他のは着れないくらい気持ちいい」「エアリズムから乗り換えました」（1/2） | ウェア ねとらぼリサーチ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749447054_ae893cf31188d906210e595c4055854f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T12:00:00+00:00",
+   "title_ja": "ユニクロのTシャツが1990円から1290円に値下げされ話題に",
+   "summary_ja": "ユニクロの「大ヒットTシャツ」が1990円から1290円へと値下げされ注目を集めている。着心地の良さから複数枚まとめ買いする人や、他のインナーから乗り換える人が続出するなど人気となっている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a752c0de3fd7df7a",
+   "url": "https://news.yahoo.co.jp/articles/7b7f98b626e204b04b47d0401f29c22af9fc888c",
+   "title_original": "店員に怪しまれた原因は「NY帽」 ユニクロで「万引き→返品」詐欺 試着室でリュックに入れ別の店舗で返品要求",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-01208246-fnn-000-1-thumb.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T10:40:31+00:00",
+   "title_ja": "ユニクロ店舗で「万引きした商品を別店舗で返品」する詐欺事件が発生",
+   "summary_ja": "ユニクロの店舗において、試着室で商品をリュックに隠して万引きし、それを別の店舗に持ち込んで返品・返金を要求する詐欺事件が発生した。犯行時に着用していた特徴的な帽子などが、店員に不審がられるきっかけとなった。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "6cfe17113bfa4b59",
    "url": "https://news.tv-asahi.co.jp/news_society/articles/000531116.html",
    "title_original": "ユニクロに“何度も返品”男逮捕 “返金要求”もその商品は…",
@@ -278,7 +309,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94f94c397321a701",
@@ -374,7 +405,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "68f5158af9878176",
@@ -390,7 +421,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e4415fd8d3cecc62",
@@ -406,7 +437,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3de950f9e6d20e9d",
@@ -422,7 +453,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "183d177fb8eae10e",
@@ -438,7 +469,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cabebed5e066c912",
@@ -454,7 +485,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b313415c96653020",
@@ -470,7 +501,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "40b5dbd1698dc32a",
@@ -486,7 +517,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "9710c11ac571542d",
+   "url": "https://ampmedia.jp/2026/09/04/uniqlo-arcakit",
+   "title_original": "ユニクロ、アルカキット錦糸町店を増床リニューアル キッズ＆ベビー売場を約3倍に拡大",
+   "source": "AMP[アンプ]",
+   "image": "https://ampmedia.jp/wp-content/uploads/2026/09/68741-154-9ca359f199e33c5a82f8186c5d451afc-1000x571-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T02:56:44+00:00",
+   "title_ja": "ユニクロのアルカキット錦糸町店がリニューアル、キッズ＆ベビー売り場を3倍に拡大",
+   "summary_ja": "ユニクロがアルカキット錦糸町店を増床リニューアルします。今回の改装により、キッズおよびベビー商品の売り場面積が従来の約3倍に拡大され、ファミリー層にとってより買い物がしやすい店舗へと生まれ変わります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "00c6a86fefce5189",
@@ -550,7 +597,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c72add5494f6e9d7",
@@ -646,7 +693,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af3749ef09017f6d",
@@ -6599,54 +6646,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "e08c66d0dad54ef8",
-   "url": "https://www.sanyonews.jp/article/1955056?rct=oricon_news&kw=Soul%E5%BE%AE%E4%BF%A1%E5%8F%B7%E6%B3%A8%E5%86%8C%E5%87%BA%E6%B5%B7%E7%A5%9E%E5%99%A8%E2%9C%94%EF%B8%8F+rigebi.com+%E2%AD%90++%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%94%B7%E5%8F%B7%E5%A6%82%E4%BD%95%E5%85%BB%E7%B2%89",
-   "title_original": "【ユニクロ2026秋冬】新作「ラウンジ＆インナーウェア」コレクションで自分だけのリラックスタイム",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/8/6/e/d/86ed9ec6e289bd44edb3a0c31e9835f9_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-16T08:05:27+00:00",
-   "title_ja": "2026秋冬のユニクロ、新作ラウンジ＆インナー発表",
-   "summary_ja": "2026年秋冬シーズンの新作として、リラックスタイムを快適に過ごすための「ラウンジ＆インナーウェア」コレクションが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7a70746047babee8",
-   "url": "https://baila.hpplus.jp/fashion/petitprice/82074",
-   "title_original": "【UNIQLO（ユニクロ）】マリオカート ワールドが「UT」に登場！ ダイナミックなレースと多彩なキャラクターの魅力をデザイン",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/bf/bf3a07b8-f708-4d4d-b6c0-43ffa6e8d72a-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-16T00:00:00+00:00",
-   "title_ja": "マリオカート ワールドがユニクロのUTに登場",
-   "summary_ja": "マリオカート ワールドの世界観を表現したデザインが、ユニクロのTシャツブランド「UT」に登場しました。多彩なキャラクターが魅力です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "150361fbacbdb95b",
-   "url": "https://dime.jp/genre/2143745",
-   "title_original": "天然素材と鮮やかなカラーで現代的なフレンチエレガンスを楽しむコントワー・デ・コトニエ×ユニクロの新作コレクション",
-   "source": "@DIME アットダイム",
-   "image": "https://dime.jp/wp-content/uploads/2026/08/1-18-770x513.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-16T00:00:00+00:00",
-   "title_ja": "コントワー・デ・コトニエ×ユニクロの新作コレクション",
-   "summary_ja": "天然素材や鮮やかなカラーを取り入れ、現代的なフレンチエレガンスが楽しめるコラボレーションの新作コレクションが発表されました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
