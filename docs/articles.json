@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T23:09:29.159289+09:00",
+ "updated_at": "2026-09-06T04:40:09.745522+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -167,6 +167,7 @@
   "lee.hpplus.jp",
   "marketscreener.com",
   "mshale.com",
+  "news.livedoor.com",
   "nikkei.com",
   "qab.co.jp",
   "riemiyata.com",
@@ -238,10 +239,11 @@
   "神戸ジャーナル",
   "繊研新聞",
   "船橋つうしん",
-  "読売新聞"
+  "読売新聞",
+  "鉄道ファン・railf.jp"
  ],
  "count": 400,
- "detail_count": 237,
+ "detail_count": 235,
  "items": [
   {
    "id": "0c091b8874eb0b51",
@@ -257,7 +259,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "62a37c0d63b8530c",
@@ -356,6 +358,22 @@
    "has_detail": true
   },
   {
+   "id": "dde9f87b7f7f4ce3",
+   "url": "http://www.excite.co.jp/news/article/FNN_1468713609206497844",
+   "title_original": "“NY帽”が決め手に 試着室で万引き→別店舗で返品要求か ユニクロ狙い“返品詐欺”の疑いで38歳男逮捕 「知人からのギフト」と説明",
+   "source": "Excite エキサイト",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T21:09:06+00:00",
+   "title_ja": "ユニクロを狙った返品詐欺の疑いで38歳男逮捕、特徴的な帽子が決め手に",
+   "summary_ja": "ユニクロの店舗で商品を万引きし、別の店舗で「知人からのギフト」と偽って返品し現金をだまし取ろうとした疑いで、38歳の男が逮捕されました。犯行時に被っていたニューヨークのロゴ入り帽子が容疑者特定の決め手となりました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "deb776c8c2f39fd0",
    "url": "https://news.yahoo.co.jp/articles/50bcc34112fee2350f7e77e27cd803e04b9c326b/images/000",
    "title_original": "“NY帽”が決め手に 試着室で万引き→別店舗で返品要求か ユニクロ狙い“返品詐欺”の疑いで38歳男逮捕 「知人からのギフト」と説明 (FNNプライムオンライン（フジテレビ系）)",
@@ -386,6 +404,22 @@
    "brand": "グループ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "dd74596055a81215",
+   "url": "https://news.livedoor.com/topics/detail/32246813",
+   "title_original": "東京都のユニクロ店舗で返品詐欺 判明した決め手は「NY帽」だった (2026年9月5日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T21:00:00+00:00",
+   "title_ja": "都内ユニクロ店舗での返品詐欺事件、容疑者特定の決め手は「NY帽」",
+   "summary_ja": "東京都内のユニクロ店舗で発生した返品詐欺事件で、容疑者の特定に至る決定的な証拠となったのは、犯行時に被っていたニューヨークのロゴ入り帽子でした。万引きした商品を別店舗で返品する手口が使われました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "7b8102d7109f87b4",
@@ -514,6 +548,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "093b4bbc37c011bc",
+   "url": "https://news.livedoor.com/topics/detail/32243638",
+   "title_original": "ユニクロで「万引き→返品」詐欺 別の店舗で返品要求か 男を逮捕 (2026年9月4日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T10:32:00+00:00",
+   "title_ja": "ユニクロで商品を万引きし別店舗で返品を要求した疑いで男を逮捕",
+   "summary_ja": "ユニクロで商品を盗んだあと、別の店舗へ持ち込んで返品を要求し現金をだまし取ろうとした詐欺の疑いで男が逮捕されました。盗んだ商品を別店舗で返金させる手口が判明しています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "5202178f2f3b134f",
@@ -721,7 +771,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "68f5158af9878176",
@@ -792,7 +842,7 @@
    "url": "https://abema.tv/video/episode/89-42_s0_p531006",
    "title_original": "ユニクロで万引きくり返し… 返品して現金詐取未遂か",
    "source": "ABEMA",
-   "image": "",
+   "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-42_s0_p531006/thumb001.png?height=720&quality=75&version=1788487421&width=1280",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-04T03:33:16+00:00",
@@ -818,6 +868,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "0c7a6f1c63ef868d",
+   "url": "https://news.livedoor.com/topics/detail/32238908",
+   "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に (2026年9月4日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T03:09:57+00:00",
+   "title_ja": "ユニクロ、ベビー用品の取り扱い店舗で「ベビー肌着」の全商品を販売開始",
+   "summary_ja": "ユニクロは、ベビー用品を取り扱う全店舗において、ベビー肌着の全ラインナップを購入できるようにした。これにより、利用者は最寄りのベビー取り扱い店舗で、必要なベビー肌着をより手軽に比較・選択して購入することが可能になる。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "40b5dbd1698dc32a",
@@ -856,7 +922,7 @@
    "url": "https://abema.tv/video/episode/89-93_s10_p60116",
    "title_original": "「ユニクロ」で万引き繰り返し 返品して現金詐取未遂か 38歳男を逮捕 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
    "source": "ABEMA",
-   "image": "",
+   "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-93_s10_p60116/thumb001.png?height=720&quality=75&version=1788487597&width=1280",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-04T02:51:49+00:00",
@@ -1060,6 +1126,22 @@
    "has_detail": true
   },
   {
+   "id": "b7bdd229cb3159af",
+   "url": "https://railf.jp/news/2026/09/03/184500.html",
+   "title_original": "ユニクロ×JR西日本グループ，コラボレーションTシャツの新デザインを発売",
+   "source": "鉄道ファン・railf.jp",
+   "image": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/09/sq260904_jrw_uniqlo.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T09:45:00+00:00",
+   "title_ja": "ユニクロとJR西日本グループがコラボレーションしたUTの新デザインが発売",
+   "summary_ja": "ユニクロは、JR西日本グループとのコラボレーションによるグラフィックTシャツ（UT）の新しいデザインを発売した。鉄道ファンや地域の方々に向け、JR西日本の車両などをモチーフにしたユニークなデザインが展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "de37235ea928d440",
    "url": "https://news.yahoo.co.jp/articles/325088673052d95fd5c54287e9917bf13f0343ee",
    "title_original": "【Bリーグ】ユニクロとパートナーシップ 数値目標は三桁の“UTme!”店舗数、そして「右肩上がり」（スポーティングニュース日本版）",
@@ -1250,6 +1332,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "ca9bfee0d9dc6f33",
+   "url": "https://news.livedoor.com/topics/detail/32228771",
+   "title_original": "ファストリが冴えない、８月国内ユニクロ既存店売上高が２カ月ぶり前年割れ (2026年9月3日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-03T00:04:25+00:00",
+   "title_ja": "ファーストリテイリングの8月国内ユニクロ既存店売上高、2カ月ぶりに前年実績を下回る",
+   "summary_ja": "ファーストリテイリングが発表した2026年8月の国内ユニクロ既存店売上高は、前年同月の実績を2カ月ぶりに下回った。この業績発表を受けて、株式市場における同社の株価も冴えない展開となっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "9ce6d44930401d8e",
@@ -6545,102 +6643,6 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "9480225800e04ba8",
-   "url": "https://news.yahoo.co.jp/articles/94b7c770959b4076dc689c5faf2754b53e59d1cc",
-   "title_original": "サハラ砂漠でユニクロダウンを紛失…450キロ先まで届けてくれたモロッコ人、「見返り」はチップじゃなかった",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00954947-toyo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T22:30:42+00:00",
-   "title_ja": "サハラ砂漠で紛失したユニクロダウン、奇跡の返還劇",
-   "summary_ja": "サハラ砂漠で紛失したユニクロのダウンジャケットが、450キロ離れた場所からモロッコ人の手によって無事に届けられたという心温まる話題です。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "63573e4acdd2956d",
-   "url": "https://hochi.news/articles/pub_hmk_16902.html",
-   "title_original": "【ユニクロ】2026秋冬展示会リポート！50代が買うべきアイテムとは？",
-   "source": "スポーツ報知",
-   "image": "https://hochi.news/assets/v2/img/hochi_news_sns.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T22:00:00+00:00",
-   "title_ja": "ユニクロの2026年秋冬展示会レポート、注目の新作アイテムを紹介",
-   "summary_ja": "ユニクロが開催した2026年秋冬展示会のリポート記事。展示会場で発表された注目の新作コレクションの中から、50代の利用者に向けたおすすめアイテムや着こなしのポイントを紹介している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b3cb920fe94e4912",
-   "url": "https://www.sanyonews.jp/article/1951382?rct=oricon_geino&kw=%E8%B0%B7%E6%AD%8Cseo%E7%95%99%E7%97%95%2Cgoogle%E7%95%99%E7%97%95%E5%B7%A5%E5%85%B7%28%E9%9B%BB%E5%A0%B1%EF%BC%9A%40trace88%29%E3%8A%99%EF%B8%8F24%E5%B0%8F%E6%99%82%E6%94%B6%E9%8C%84%2C%E5%85%8D%E8%B2%BB%E6%B8%AC%E8%A9%A6%E3%8A%99%EF%B8%8F%E8%B0%B7%E6%AD%8C%E7%80%8F%E8%A6%BD%E5%99%A8%E6%80%8E%E9%BA%BD%E7%95%99%E7%97%95%2Cgoogle%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E5%A4%96%E9%8F%88%E4%BB%A3%E7%99%BC%2C%E5%A6%82%E4%BD%95%E5%81%9A%E8%B0%B7%E6%AD%8Cseo%E6%8E%A8%E5%BB%A3%E7%95%99%E7%97%95%2C%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E4%BB%80%E9%BA%BD%E6%84%8F%E6%80%9D%28%E9%9B%BB%E5%A0%B1%EF%BC%9A%40trace88%29%E8%B0%B7%E6%AD%8C%E7%95%99%E7%97%95%E5%BC%95%E6%B5%81%2Cgoogle%E7%95%99%E7%97%95%E6%8A%80%E8%A1%93%2C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E6%80%8E%E9%BA%BD%E5%81%9A%2Cgoogle%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E8%BB%9F%E4%BB%B6%2C%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E8%9C%98%E8%9B%9B%E6%B1%A0%2Cgoogle%E7%95%99%E7%97%95%E6%94%B6%E9%8C%84%2C%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%95%99%E7%97%95%E6%8E%A8%E5%BB%A3%2Cgoogle%E7%95%99%E7%97%95%E4%BB%A3%E7%99%BC.pad.0612",
-   "title_original": "ユニクロ「ポケモンUT」7・24発売、MEN＆KIDSの計8柄 モノクロの「ゲームドット」デザインで“原点”へ",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/4/b/c/0/4bc0a94d121d2f8987cf21360e8d1889_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T20:50:17+00:00",
-   "title_ja": "ユニクロが「ポケモンUT」を7月24日に発売　ゲームドット柄など計8柄",
-   "summary_ja": "ユニクロが「ポケモンUT」を7月24日に発売する。メンズとキッズ向けに計8柄を用意し、モノクロの「ゲームドット」デザインで作品の原点を表現したTシャツを展開する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d3d87da6508bdc37",
-   "url": "https://www.sanyonews.jp/article/1966180?rct=oricon_news&kw=%E9%99%8C%E9%99%8C%E7%99%BD%E5%8F%B7%E6%80%8E%E4%B9%88%E5%90%B8%E7%B2%89%E2%9C%94%EF%B8%8F+youxiaohao.com+%E2%AD%90++Telegram%E8%B4%A6%E5%8F%B7%E5%94%AE%E4%B9%B0%E5%B9%B3%E5%8F%B0",
-   "title_original": "熊本駅直結「アミュプラザくまもと」きょうから通常営業 ユニクロ「お客様と従業員の安全を最優先」 マクドナルドなど一部店舗は臨時休業中【令和8年熊本地震】",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/d/4/b/6/d4b683bfa9489f1194f50beacc476001_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T20:17:38+00:00",
-   "title_ja": "熊本地震を受けアミュプラザくまもとのユニクロが営業再開、安全最優先で",
-   "summary_ja": "令和8年熊本地震の影響を受けていた熊本駅直結の「アミュプラザくまもと」が営業を再開しました。同施設内のユニクロは、顧客と従業員の安全を最優先に考慮した上で営業を行っています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "384ff194d03fc948",
-   "url": "https://www.sanyonews.jp/article/1942299?kw=ws%E8%80%81%E7%BE%A4%E5%93%AA%E9%87%8C%E8%83%BD%E6%89%BE%2Fws%E8%80%81%E7%BE%A4%E5%93%AA%E9%87%8C%E8%83%BD%E4%B9%B0%F0%9F%91%89%3E%5B%E8%AE%A4%E5%87%86%E5%A4%A9%E5%AE%87TG%3A%40cjhshk199937%5D%3Cws%E6%88%90%E7%86%9F%E8%80%81%E7%BE%A4%2Fws%E8%BF%90%E8%90%A5%E7%BE%A4%E7%BB%84.mnph",
-   "title_original": "木村拓哉、全身ユニクロで“1週間コーデ”挑戦「むずいね」 流行りアイテム＆機能の進化に驚き",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/8/f/1/5/8f1580a44521a33785e5303d4086dfa1_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T20:02:47+00:00",
-   "title_ja": "木村拓哉が全身ユニクロで1週間コーデに挑戦",
-   "summary_ja": "木村拓哉が全身ユニクロのアイテムを使って1週間コーディネートに挑戦しました。トレンドアイテムや機能性の進化に驚く様子が伝えられています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "284d141145ae69f3",
-   "url": "https://www.yomiuri.co.jp/kyoiku/support/information/CO036522/20260817-GYT8T00142",
-   "title_original": "自衛隊・ＪＡＬ・ユニクロで中３職場体験、プロの仕事に触れる…秀明八千代",
-   "source": "読売新聞",
-   "image": "https://www.yomiuri.co.jp/media/2026/08/20260817-GYT8I00143-1.jpg?type=ogp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T20:00:00+00:00",
-   "title_ja": "秀明八千代中学校の生徒がユニクロなどで職場体験を実施、プロの仕事を学ぶ",
-   "summary_ja": "秀明八千代中学校の3年生が、自衛隊や日本航空（JAL）、ユニクロなどの企業や組織で職場体験を行いました。生徒たちは実際の就業体験を通じて、プロフェッショナルの仕事に対する姿勢や社会の仕組みを学びました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
    "detail_tries": 2
   }
  ]
