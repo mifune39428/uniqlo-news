@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T10:52:00.562657+09:00",
+ "updated_at": "2026-09-05T18:36:34.494710+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -146,7 +146,6 @@
   "Yahoo!ニュース",
   "afaqs!",
   "article.auone.jp",
-  "asatunews.co.id",
   "baby-babys.com",
   "baila.hpplus.jp",
   "biz-journal.jp",
@@ -243,8 +242,40 @@
   "読売新聞"
  ],
  "count": 400,
- "detail_count": 237,
+ "detail_count": 238,
  "items": [
+  {
+   "id": "62a37c0d63b8530c",
+   "url": "https://ampmedia.jp/2026/09/05/aeon-yachiyo-2609",
+   "title_original": "千葉県八千代市の「イオンモール八千代緑が丘」が9月18日リニューアルオープン ユニクロやGUなど5店舗が新規出店",
+   "source": "AMP[アンプ]",
+   "image": "https://ampmedia.jp/wp-content/uploads/2026/09/7505-6063-e8622a909f698edb64bac11788668877-1014x716-1.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T09:06:51+00:00",
+   "title_ja": "イオンモール八千代緑が丘が9月18日リニューアル、ユニクロやGUが出店",
+   "summary_ja": "千葉県八千代市にあるイオンモール八千代緑が丘が、9月18日にリニューアルオープンします。これに伴い、施設内にはユニクロやGUを含む計5店舗が新たにオープンすることが決定しました。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d2a88758053a26de",
+   "url": "https://news.yahoo.co.jp/articles/a2ce7564bec208f987ba7620dcdc50be7ae002d1/images/000",
+   "title_original": "10万円超の高級品に迫る…？ ユニクロU《9990円コート》 発売前から賛否分かれるものの… “完売必至” と話題沸騰 (LASISA)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgLgyHB_YcEDcbEnG-64BP0_Qa97YeYCIIHWT4C_La53lGzAy1IPfcQXcf4GZLAbUTXafsuUuPAnHPG3IG5x14C0lZs37MhGOf-btEO7db5hsB5XVUCpIcTPZutRnQJrE2A==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T23:45:00+00:00",
+   "title_ja": "Uniqlo Uの9990円コートが話題に 発売前から注目の新作アウター",
+   "summary_ja": "Uniqlo Uから発売される9,990円のコートが注目を集めている。高級品にも迫るクオリティとして話題を呼んでおり、発売前から完売が予想されるなど反響を呼んでいる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "9893d6ae0cfa354a",
    "url": "https://www.lmaga.jp/news/2026/09/1096916",
@@ -307,7 +338,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1a2b2152a9a0d427",
@@ -339,6 +370,22 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b57cd3eb9dd9697f",
+   "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703077",
+   "title_original": "【ユニクロ最新チラシ】大人気の「バギーバレルレッグジーンズ」が3990円！シャツやポロカーディガンなど秋の注目作が特別価格で登場《9月10日まで》（東京バーゲンマニア）",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/bgmania/m_bgmania-703077.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T17:02:00+00:00",
+   "title_ja": "ユニクロがジーンズや秋物新作を特別価格で提供する限定セールを開始",
+   "summary_ja": "ユニクロは9月10日までの期間限定で、人気のジーンズを特別価格の3,990円で販売するほか、シャツやポロカーディガンなど秋の注目作を値下げする最新チラシ情報を公開しました。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -467,7 +514,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6cfe17113bfa4b59",
@@ -6596,54 +6643,6 @@
    "brand": "グループ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "ac4fbf7ce3a1b298",
-   "url": "https://www.vietnam.vn/ja/uniqlo-gioi-thieu-bo-suu-tap-thoi-trang-lifewear-thu-dong-2026",
-   "title_original": "ユニクロは2026年秋冬ライフウェアコレクションを発表します。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/17/1786976049794_unknown-3618-jpg.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T13:10:48.689000+00:00",
-   "title_ja": "ユニクロが2026年秋冬の「LifeWear」コレクションを発表",
-   "summary_ja": "ユニクロが、2026年秋冬シーズンの「LifeWear」コレクションを発表しました。ブランドの基幹コンセプトであるライフウェアの最新ラインナップとして、今季の新作アイテムが披露されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8e429618051f5595",
-   "url": "https://businessmirror.com.ph/2026/08/17/uniqlo-shows-the-way-heeds-dots-push-for-indigenous-heritage",
-   "title_original": "Uniqlo shows the way, heeds DOT’s push for indigenous heritage",
-   "source": "BusinessMirror",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T12:57:29+00:00",
-   "title_ja": "ユニクロ、フィリピン観光省の先住民族文化継承に協力",
-   "summary_ja": "ユニクロがフィリピン観光省の呼びかけに応じ、先住民族の伝統文化の継承を支援する取り組みを示した。現地での文化保護や地域振興への貢献が期待されている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "77cf4473086de384",
-   "url": "https://www.asatunews.co.id/en/uniqlo-expands-sustainable-fashion-initiatives",
-   "title_original": "UNIQLO Expands Global Sustainable Fashion Initiatives",
-   "source": "asatunews.co.id",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T11:17:15+00:00",
-   "title_ja": "ユニクロ、世界規模のサステナブルファッションを拡大",
-   "summary_ja": "ユニクロが地球環境に配慮した持続可能なファッションへの取り組みを世界的に拡大していることを伝える海外からの報道。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
