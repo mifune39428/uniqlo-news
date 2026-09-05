@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T18:36:34.494710+09:00",
+ "updated_at": "2026-09-05T23:09:29.159289+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -55,7 +55,6 @@
   "FashionNetwork France",
   "Fibre2Fashion",
   "GMA Network",
-  "Gear Patrol",
   "Gempak",
   "Georgetown DC",
   "Global Brands Magazine",
@@ -94,6 +93,7 @@
   "Nikkei Asia",
   "North Luzon Monitor",
   "Nottingham Post",
+  "OCEANS オーシャンズ",
   "Oggi.jp",
   "Oui Speak Fashion (OSF)",
   "PAUSE Online",
@@ -195,7 +195,6 @@
   "サンスポ",
   "スポーツブル",
   "スポーツ報知",
-  "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "テレ東BIZ",
   "トラベル Watch",
@@ -242,8 +241,24 @@
   "読売新聞"
  ],
  "count": 400,
- "detail_count": 238,
+ "detail_count": 237,
  "items": [
+  {
+   "id": "0c091b8874eb0b51",
+   "url": "https://oceans.tokyo.jp/article/detail/55476?module=toppage_new",
+   "title_original": "【全て5000円以下】「ユニクロ ユー」の“新作パンツ”全3種を編集部員が履き比べ！9月11日、いよいよ発売",
+   "source": "OCEANS オーシャンズ",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T12:02:02+00:00",
+   "title_ja": "「ユニクロ ユー」の新作パンツ3種が9月11日に発売開始",
+   "summary_ja": "ユニクロ ユーの新作パンツ全3種が9月11日に発売される。価格はいずれも5000円以下に抑えられており、編集部員による履き比べとともにアイテムの魅力が紹介されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "62a37c0d63b8530c",
    "url": "https://ampmedia.jp/2026/09/05/aeon-yachiyo-2609",
@@ -261,6 +276,22 @@
    "has_detail": true
   },
   {
+   "id": "a78b4c9b198897f0",
+   "url": "https://news.yahoo.co.jp/articles/fdc844f229fe65ea43d2291079fb76fd26c0dcf4",
+   "title_original": "「本当に着心地がいい」ユニクロで値下げ中の快適Tシャツが好評「肌触りサラサラ」「洗濯してもよく乾く」（Fav-Log by ITmedia）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-10167039-it_favlog-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T02:45:00+00:00",
+   "title_ja": "ユニクロで値下げ中の快適Tシャツが好評！サラサラな肌触りと高い速乾性が魅力",
+   "summary_ja": "ユニクロで現在値下げ中の快適なTシャツが、ユーザーの間で好評を得ています。サラサラとした心地よい肌触りや、洗濯してもすぐに乾く高い速乾性を備えており、着心地の良さと実用性の高さが評価されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "d2a88758053a26de",
    "url": "https://news.yahoo.co.jp/articles/a2ce7564bec208f987ba7620dcdc50be7ae002d1/images/000",
    "title_original": "10万円超の高級品に迫る…？ ユニクロU《9990円コート》 発売前から賛否分かれるものの… “完売必至” と話題沸騰 (LASISA)",
@@ -274,7 +305,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9893d6ae0cfa354a",
@@ -675,6 +706,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "8caa1efbc5f4e61f",
+   "url": "https://news.yahoo.co.jp/articles/791578dba5f6c6b55aa4f08da87a59f518712a12/images/000",
+   "title_original": "ユニクロ「アルカキット錦糸町店」、ギンビスと「UTme!」で限定コラボ 「たべっ子どうぶつ」デザインなど展開 (オリコン)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgM-3pGa-tvLELnQlHadqOd757vgkfuNA-DpfJf-UT14-2Q3kpWUbhHtIQzdrUSbVyMwjpI7RaYiM3CpA5YcHIQRB_Uvm3Fy-GzQ6BlNpn8ng",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T04:27:36+00:00",
+   "title_ja": "ユニクロアルカキット錦糸町店がギンビスと限定コラボ　UTme!で登場",
+   "summary_ja": "ユニクロの「アルカキット錦糸町店」限定で、菓子メーカーのギンビスとUTme!のコラボレーションを実施する。「たべっ子どうぶつ」などのデザインを使用したオリジナルグラフィックTシャツを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "68f5158af9878176",
@@ -6595,54 +6642,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "b6bf065f2dac7ed8",
-   "url": "https://diamond-rm.net/management/businessplan/554132",
-   "title_original": "ファーストリテイリングは世界2位か、3位か",
-   "source": "ダイヤモンド・チェーンストア",
-   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/08/iStock-527068315-1-2.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T19:42:06+00:00",
-   "title_ja": "世界のアパレル市場におけるファーストリテイリングの業界順位を考察",
-   "summary_ja": "世界のアパレル市場において、首位とされるインディテックスに続き、ファーストリテイリングの売上規模や世界2位・3位といった業界内での立ち位置が検証されている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6d4d0a950af7646a",
-   "url": "https://www.gearpatrol.com/style/uniqlo-padded-short-blouson",
-   "title_original": "Uniqlo Drops an Admirable Barbour Dupe for a Fifth of the Price",
-   "source": "Gear Patrol",
-   "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/uniqlo-padded-short-blouson-16x9-Lead-1.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T18:15:44+00:00",
-   "title_ja": "ユニクロが英バブアー風アウターを本家の5分の1の価格で発売、海外メディアが注目",
-   "summary_ja": "海外メディアのGear Patrolが、ユニクロから登場したアウターを特集しています。イギリスの老舗ブランド「バブアー（Barbour）」の定番ジャケットに似たデザインを、本家のおよそ5分の1の価格で実現していると紹介しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d41882b9c0a7f64f",
-   "url": "https://www.drapersonline.com/topics/international/the-retail-thrills-of-manila-why-brands-are-flocking-to-the-philippines",
-   "title_original": "The retail thrills of Manila: Why brands are flocking to the Philippines",
-   "source": "Drapers",
-   "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/2/2026/08/17161052/HandM-Tropical-Essentials-campaign-in-Philippines-1-560x315.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-17T15:24:51+00:00",
-   "title_ja": "ユニクロなど主要ブランドがマニラへ進出する理由",
-   "summary_ja": "マークス＆スペンサーやユニクロ、H&Mなどの小売ブランドがフィリピン・マニラへ積極的に店舗を拡大している背景と市場の魅力を解説しています。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
