@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T10:46:18.462429+09:00",
+ "updated_at": "2026-09-06T18:51:43.009423+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -16,7 +16,6 @@
   "グループ"
  ],
  "sources": [
-  "36Kr Japan",
   "7NEWS",
   "A1 Retail Magazine",
   "ABEMA",
@@ -103,7 +102,6 @@
   "PoPville",
   "Pokde.Net",
   "Rediff MoneyWiz",
-  "Retail & Leisure International",
   "Retail Gazette",
   "Retail Insight Network",
   "Retail News Asia",
@@ -145,6 +143,7 @@
   "Whalesbook",
   "WhatNow",
   "Yahoo!ニュース",
+  "YouTube",
   "afaqs!",
   "article.auone.jp",
   "baby-babys.com",
@@ -167,6 +166,7 @@
   "lasisa.net",
   "lee.hpplus.jp",
   "marketscreener.com",
+  "mi-mollet（ミモレ）",
   "mshale.com",
   "news.livedoor.com",
   "news.shoninsha.co.jp",
@@ -206,7 +206,6 @@
   "バスケットボールキング",
   "ファッションプレス",
   "フードウイークリーWEB",
-  "マイナビニュース",
   "マイライフニュース",
   "ママテナ",
   "モデルプレス",
@@ -244,8 +243,72 @@
   "鉄道ファン・railf.jp"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 233,
  "items": [
+  {
+   "id": "a7fc7755e1535422",
+   "url": "https://mi-mollet.com/articles/-/61051?layout=b",
+   "title_original": "人気のダウンがリバーシブルに！ユニクロ2026年秋冬、定番アイテムがさらに進化",
+   "source": "mi-mollet（ミモレ）",
+   "image": "https://mi-mollet.ismcdn.jp/mwimgs/7/c/-/img_7ce12189b79f3c501258f201388c3a0c1145880.jpg?rd=202608181246",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-06T03:00:00+00:00",
+   "title_ja": "ユニクロが2026年秋冬の新作発表！人気ダウンがリバーシブルに進化",
+   "summary_ja": "ユニクロの2026年秋冬コレクションにて、定番のアウターアイテムがアップデートされました。人気のダウンがリバーシブル仕様へと進化し、着こなしの幅が広がる注目の新作となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a39086f41a6e0b58",
+   "url": "https://hochi.news/articles/pub_mic_246438.html",
+   "title_original": "【2026年秋冬】ユニクロユー新作バッグは2型！収納力・カラー・素材を展示会で徹底チェック",
+   "source": "スポーツ報知",
+   "image": "https://hochi.news/images/publisher/pub_mic_01/2026/09/06/pub_mic_246438/cover.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-06T02:00:00+00:00",
+   "title_ja": "ユニクロ ユー2026年秋冬新作！2型のバッグを展示会で徹底チェック",
+   "summary_ja": "「ユニクロ ユー」の2026年秋冬コレクションから、新作バッグ2型が発表されました。展示会にて、日常使いに嬉しい収納力やカラー、素材の質感などが紹介されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8534c48454f44b74",
+   "url": "https://www.webuomo.jp/fashion/topic/s_w71g",
+   "title_original": "【ユニクロ ユーのハリントンジャケット】10周年のノスタルブルゾン",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/b4/b4b4c6c0-0db3-48eb-b9bc-776ebe4df764-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-06T02:00:00+00:00",
+   "title_ja": "ユニクロ ユーの10周年アイテム！ハリントンジャケットの魅力を紹介",
+   "summary_ja": "「ユニクロ ユー」の10周年を飾る新作としてハリントンジャケットが登場。どこか懐かしさを感じさせるノスタルジックなデザインが魅力で、秋冬のコーディネートを彩る1着となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "1648bc5c774f4b29",
+   "url": "https://www.sanyonews.jp/article/1955056?rct=oricon_news&kw=2024%3Cbr+%2F%3E",
+   "title_original": "【ユニクロ2026秋冬】新作「ラウンジ＆インナーウェア」コレクションで自分だけのリラックスタイム",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/6/e/d/86ed9ec6e289bd44edb3a0c31e9835f9_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T22:20:46+00:00",
+   "title_ja": "ユニクロが2026年秋冬の「ラウンジ＆インナーウェア」新作を発表",
+   "summary_ja": "ユニクロが2026年秋冬の「ラウンジ＆インナーウェア」新作コレクションを発表しました。自分だけのリラックスタイムを過ごすための新しいアイテム群が展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "0c091b8874eb0b51",
    "url": "https://oceans.tokyo.jp/article/detail/55476?module=toppage_new",
@@ -292,7 +355,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "62a37c0d63b8530c",
@@ -487,6 +550,22 @@
    "has_detail": true
   },
   {
+   "id": "215315bdd1568c5e",
+   "url": "https://love-spo.com/article/miti20260904-16",
+   "title_original": "ユニクロの期間限定セールが超太っ腹♡秋から長～く着回せる！今週のお買い得アイテムリスト",
+   "source": "ラブすぽ",
+   "image": "https://love-spo.com/wp-content/uploads/2026/08/0-352.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T13:30:00+00:00",
+   "title_ja": "ユニクロが秋まで長く着回せるアイテムの期間限定セールを実施",
+   "summary_ja": "ユニクロが秋シーズンを通して長期間着回せるお買い得アイテムを揃えた期間限定セールを実施しています。今週の特別価格になっている注目商品をリスト形式でまとめています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "8cbd29345e7db0d8",
    "url": "https://news.yahoo.co.jp/articles/1f0f0cf26f8af0a3c355743bb32342d76cd5a5a2/images/000",
    "title_original": "東日本で豪雨、不安定な気候でユニクロ1.3％減 国内アパレル関連大手26年8月度 (FASHIONSNAP)",
@@ -615,6 +694,22 @@
    "detail_tries": 2
   },
   {
+   "id": "57fef97504a7e6e9",
+   "url": "https://youtu.be/_C017c417Ys?si=yiXEZZr_ShBLU5JM",
+   "title_original": "ユニクロに“何度も返品”男逮捕 “返金要求”もその商品は…【スーパーJチャンネル】(2026年9月4日)",
+   "source": "YouTube",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T10:03:34+00:00",
+   "title_ja": "ユニクロで繰り返し不正な返品や返金要求を行っていた男が逮捕される",
+   "summary_ja": "ユニクロの店舗で何度も商品を返品し、返金を要求していた男が逮捕されたことが報道されました。不当な商品持ち込みや繰り返される返金要求の悪質な実態が明らかになっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
    "id": "8be8d86f4d80ad63",
    "url": "https://www.qab.co.jp/quebee/video/000531116",
    "title_original": "ユニクロに“何度も返品”男逮捕 “返金要求”もその商品は… – Quebee キュエビー",
@@ -660,7 +755,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c2ea8d36e925d148",
@@ -6549,102 +6644,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "3d92a8531cba1e4c",
-   "url": "https://www.rli.uk.com/uniqlo-to-launch-kyoto-flagship-unit",
-   "title_original": "Uniqlo to Launch Kyoto Flagship Unit",
-   "source": "Retail & Leisure International",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-18T08:00:00+00:00",
-   "title_ja": "ユニクロが京都に新たな旗艦店を開設へ",
-   "summary_ja": "ユニクロが京都府内に新たな旗艦店（フラッグシップストア）を開設することが明らかになった。地域の中心的な店舗として、同ブランドの魅力を広く発信する拠点となる予定。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "33d809a233412bc2",
-   "url": "https://news.yahoo.co.jp/articles/bb92722fa7a7599242f522aa494c437de55f4fc5/images/001",
-   "title_original": "「1000円もしないのに上質」【ユニクロ】の定番Tシャツが990円に！「私の制服」「骨スト大優勝」「洗濯してもヨレない」とリピーター続出 (婦人公論.jp)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYzxA08I-BbxO8xuSYG42l2golhp8WgF8CrBJudiHW3s5zp-EB0cza47YhY1JC10A33ruocy_VkW1dCfQNrjLiTSjtUIEBHKqh0xUS-H7x2Fk",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T03:30:35+00:00",
-   "title_ja": "ユニクロの定番Tシャツが990円に値下げ　上質な生地と耐久性で高評価",
-   "summary_ja": "ユニクロの定番Tシャツが990円に値下げされた。1,000円未満の価格でありながら品質が高く、洗濯してもヨレにくい耐久性を備えており、リピート購入する顧客が多く見られる。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "592fa5fd701fcd94",
-   "url": "https://36kr.jp/500454",
-   "title_original": "ユニクロ、中国・京東物流と世界物流網を強化 AI・ロボットも活用",
-   "source": "36Kr Japan",
-   "image": "https://36kr.jp/uploads/2026/08/20260817184156dd2f-ef3137d1d5a92ab1d47821bfc284a62c435.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T03:30:34+00:00",
-   "title_ja": "ユニクロが中国の京東物流と連携強化、AIを活用し世界物流網を構築",
-   "summary_ja": "ユニクロが中国の京東物流との連携を強め、世界的な物流ネットワークの強化に乗り出す。AIやロボットなどの先進技術を積極的に活用し、サプライチェーンの効率化を進める方針だ。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "62a0c94d65e7cc7c",
-   "url": "https://www.vietnam.vn/en/xu-huong-capsule-wardrobe-thanh-thi-trong-bst-lifewear-thu-dong-2026",
-   "title_original": "The urban Capsule Wardrobe trend in the LifeWear Fall/Winter 2026 collection.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/18/1787022366609_img_4922.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-18T03:00:28.527000+00:00",
-   "title_ja": "ユニクロの2026年秋冬LifeWearは都市型カプセルワードローブに注目",
-   "summary_ja": "ユニクロの2026年秋冬LifeWearコレクションにおいて、都市型の「カプセルワードローブ」のトレンドを取り入れた展開が注目を集めている。効率的で洗練された装いを提案する内容となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "59b0541c9c105ebd",
-   "url": "https://www.vietnam.vn/ja/uniqlo-thoi-nhip-song-moi-vao-thoi-trang-thu-dong-2026",
-   "title_original": "ユニクロは2026年秋冬ファッションに新たな息吹を吹き込む。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/18/1787024461162_dong-trang-phuc-det-kim-trong-bst-lifewear-thu-dong-2026-so-huu-cac-sac-do-noi-bat-nhu-do-xanh-va-nau-jpg.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T02:56:11.815000+00:00",
-   "title_ja": "ユニクロが2026年秋冬コレクションで新たなスタイルを提案",
-   "summary_ja": "ユニクロが2026年秋冬シーズンに向けた新たなファッションの取り組みを開始しました。新しいスタイルの提案を通じて、秋冬の装いに新しい風を吹き込みます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4142b3aeb8d0fabc",
-   "url": "https://news.mynavi.jp/techplus/article/20260818-4833834",
-   "title_original": "ファーストリテイリング財団事務局長・石田吉生「日本と世界をつなぐ次世代リーダーの育成を」",
-   "source": "マイナビニュース",
-   "image": "https://news.mynavi.jp/techplus/article/20260818-4833834/index_images/index.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T02:30:00+00:00",
-   "title_ja": "ファーストリテイリング財団が日本と世界をつなぐ人材育成に注力",
-   "summary_ja": "一般財団法人ファーストリテイリング財団の石田吉生事務局長が、人材育成事業への取り組みを語った。日本と世界を繋ぐ次世代のリーダーを育てるため、教育支援や育成プログラムに注力していく。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
