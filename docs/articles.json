@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T18:51:43.009423+09:00",
+ "updated_at": "2026-09-06T23:33:47.982466+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -158,7 +158,6 @@
   "fastretailing.com",
   "fuelcarmagazine",
   "full-count.jp",
-  "houseofheat.co",
   "hype.my",
   "illustrated Daily News",
   "jbasket.jp",
@@ -243,8 +242,40 @@
   "鉄道ファン・railf.jp"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 235,
  "items": [
+  {
+   "id": "b1b44fba3eba596a",
+   "url": "https://news.yahoo.co.jp/articles/02d055a89496aeefd500a33f1ec37aa927f63830",
+   "title_original": "18歳以下シングルスは小野倫太郎（東海／四日市工業高校）と駒田唯衣（関西／ノア・テニスアカデミー神戸垂水）が優勝 [ユニクロ全日本ジュニアテニス選手権]（テニスマガジンONLINE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00035338-tennismagv-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-06T13:30:00+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス18歳以下は小野倫太郎と駒田唯衣が優勝",
+   "summary_ja": "ユニクロ全日本ジュニアテニス選手権の18歳以下シングルスで、男子は四日市工業高校の小野倫太郎、女子はノア・テニスアカデミー神戸垂水の駒田唯衣がそれぞれ優勝を果たした。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e28c5872a3965f06",
+   "url": "https://news.yahoo.co.jp/articles/6c9793096e8d55b0c4cd560b56d3aa8b51cc3b4f",
+   "title_original": "16歳以下シングルスは川村准椰（関東／桜田倶楽部）と関戸心咲（関東／ITM TEAM）が優勝 [ユニクロ全日本ジュニアテニス選手権]（テニスマガジンONLINE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00035337-tennismagv-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-06T10:30:00+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス16歳以下は川村准椰と関戸心咲が優勝",
+   "summary_ja": "ユニクロ全日本ジュニアテニス選手権の16歳以下シングルスで、男子は関東・桜田倶楽部の川村准椰、女子は関東・ITM TEAMの関戸心咲がそれぞれ優勝を果たした。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "a7fc7755e1535422",
    "url": "https://mi-mollet.com/articles/-/61051?layout=b",
@@ -291,7 +322,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1648bc5c774f4b29",
@@ -307,7 +338,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0c091b8874eb0b51",
@@ -707,7 +738,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8be8d86f4d80ad63",
@@ -6612,38 +6643,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "ff96cf12d0770eb7",
-   "url": "https://mshale.com/f710db22/47b30419_Tc09UUAkYY",
-   "title_original": "綾瀬はるか、エプロン姿のお花屋さんに ユニクロ新CM「エアリズムインナー篇」 楽曲は桑田佳祐「遠い街角（The Wanderin' Street）」 Tess Daly (oAcUnssMEZ)",
-   "source": "Mshale",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T08:54:09+00:00",
-   "title_ja": "綾瀬はるかが出演するユニクロ「エアリズムインナー」新CMが公開",
-   "summary_ja": "綾瀬はるかが出演するユニクロの「エアリズムインナー」新CMが公開された。エプロン姿で花屋の店員を演じる内容で、テーマ曲には桑田佳祐の楽曲「遠い街角」が採用されている。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a36ef3efa4cab2bf",
-   "url": "https://houseofheat.co/yu-gi-oh-x-uniqlo-ut-collection-august-2026",
-   "title_original": "Yu-Gi-Oh! x Uniqlo UT Collection Drops This August",
-   "source": "houseofheat.co",
-   "image": "https://cdn.sanity.io/images/pu5wtzfc/production/72e791a411b5e0ad3d8831ca3d55d14628c7fa34-2646x1492.png?rect=0,52,2646,1389&w=1200&h=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-18T08:50:25+00:00",
-   "title_ja": "ユニクロUTと「遊戯王」のコラボコレクションが8月に発売へ",
-   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」と人気作品「遊戯王」によるコラボレーションコレクションが、8月に発売されることが判明した。両者のコラボアイテムが展開される予定。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
