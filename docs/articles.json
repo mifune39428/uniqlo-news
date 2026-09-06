@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T04:40:09.745522+09:00",
+ "updated_at": "2026-09-06T10:46:18.462429+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -123,6 +123,7 @@
   "Sustainable Japan",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
+  "TRILL",
   "TRP | The Rakyat Post",
   "The Business Journals",
   "The Cool Down",
@@ -168,6 +169,7 @@
   "marketscreener.com",
   "mshale.com",
   "news.livedoor.com",
+  "news.shoninsha.co.jp",
   "nikkei.com",
   "qab.co.jp",
   "riemiyata.com",
@@ -211,7 +213,6 @@
   "ヨムーノ",
   "ラブすぽ",
   "リンネル.jp",
-  "中日BIZナビ",
   "千葉テレビ放送",
   "号外NET 奈良市",
   "四季報オンライン",
@@ -260,6 +261,38 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "647fb0fb9c1f5d3e",
+   "url": "https://trilltrill.jp/articles/5004417",
+   "title_original": "【ユニクロ】2026秋冬展示会リポート！50代が買うべきアイテムとは？",
+   "source": "TRILL",
+   "image": "https://media.trilltrill.jp/articles/5004417/featured-image.976689dcc6a64e8788f581213a2d0803?w=1200",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T10:24:28+00:00",
+   "title_ja": "ユニクロの2026年秋冬展示会リポート 50代向けおすすめ商品も紹介",
+   "summary_ja": "TRILLにて、ユニクロの2026年秋冬展示会の取材リポートが公開されました。展示会で発表された最新コレクションの中から、50代の女性に向けたおすすめアイテムや注目ポイントを紹介しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "654cb8c7326750fd",
+   "url": "https://news.yahoo.co.jp/articles/6467bb8f6066fb8d6c1d8c85418fc63f33be876c/images/000",
+   "title_original": "「50代には若すぎると思ったら…」ユニクロの《スタイル爆盛れTシャツ》が1500→990円 「高見えすごい」「本当にいい丈感！」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNA4xLCUZboTnxfqJNb6U_ZvN6U1Q5wE7PX7CkOsfXvphBOn_mqi-z9IzrsvnHIjtsHLtkt05iC9N_WtPOZF9hnz9gK_fsN5lQzuD8a1t3KKbSGhNOqAjX33rM2rSTVVLg==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-05T10:15:00+00:00",
+   "title_ja": "ユニクロのTシャツが990円に値下げ ネットでスタイル映えと話題",
+   "summary_ja": "ユニクロのTシャツが1500円から990円に値下げされ注目を集めています。SNSなどでは着心地や丈感、スタイルの見映えの良さが高く評価されており、幅広い年代から支持されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "62a37c0d63b8530c",
@@ -371,7 +404,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "deb776c8c2f39fd0",
@@ -419,7 +452,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7b8102d7109f87b4",
@@ -563,7 +596,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5202178f2f3b134f",
@@ -612,6 +645,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "ff45eed281e80d1a",
+   "url": "https://news.shoninsha.co.jp/store/317508",
+   "title_original": "ユニクロnews｜｢アルカキット錦糸町店｣を増床し9/25オープン",
+   "source": "news.shoninsha.co.jp",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T09:26:31+00:00",
+   "title_ja": "ユニクロのアルカキット錦糸町店が増床オープンへ",
+   "summary_ja": "ユニクロの「アルカキット錦糸町店」が増床され、9月25日にオープンすることが発表されました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "c2ea8d36e925d148",
@@ -883,7 +932,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "40b5dbd1698dc32a",
@@ -1139,7 +1188,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "de37235ea928d440",
@@ -1347,7 +1396,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9ce6d44930401d8e",
@@ -6596,54 +6645,6 @@
    "brand": "グループ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "3d7d1c5319e14765",
-   "url": "https://www.ryutsuu.biz/sales/s081842.html",
-   "title_original": "カジュアル衣料4社／7月の既存店売上高はユニクロ4.3％増、しまむら5.1％減",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T01:40:10+00:00",
-   "title_ja": "カジュアル衣料4社の7月既存店売上高、ユニクロは4.3％増を記録",
-   "summary_ja": "カジュアル衣料大手4社の7月における既存店売上高が発表され、ユニクロは前年同月比4.3％増と好調を維持しました。一方で、競合のしまむらは5.1％減となるなど、各社の明暗が分かれる結果となっています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e9fe0d3f88b1864c",
-   "url": "https://mshale.com/12ceb477/0c809dc7juQatrnVsGE",
-   "title_original": "【木村さ〜〜ん！】木村拓哉セレクト「ユニクロ７日間コーデ」披露！！ Brad Gushue Usa Curling Role (abGfPLNZoY)",
-   "source": "Mshale",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-18T00:28:33+00:00",
-   "title_ja": "木村拓哉が「ユニクロ」のアイテムを用いた7日間コーデを披露",
-   "summary_ja": "タレントの木村拓哉さんが、自身がセレクトしたユニクロのアイテムを使った「7日間コーディネート」を披露しました。どのような着こなしを提案しているのか、ファンやファッション好きの間で注目を集めそうです。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "4ab902d0dd1d6f9a",
-   "url": "https://biz.chunichi.co.jp/news/article/10/129348/60",
-   "title_original": "米関税返金へ日本企業提訴 トヨタ、ユニクロの購入者 還付金巡り新たな混乱：ニュース",
-   "source": "中日BIZナビ",
-   "image": "https://biz.chunichi.co.jp/pic/10/p1/129348_0_10.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-17T22:59:07+00:00",
-   "title_ja": "米関税返金を巡り購入者が日本企業を提訴、トヨタやユニクロも対象に",
-   "summary_ja": "アメリカでの関税返金を巡り、トヨタやユニクロなどの購入者が還付金の支払いを求めて日本企業を提訴したことが判明した。関税の還付手続きや権利の所在を巡り、現地で新たな混乱が生じている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
