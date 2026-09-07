@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T01:48:07.764085+09:00",
+ "updated_at": "2026-09-08T05:53:19.334800+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -109,7 +109,6 @@
   "SEVENTIE TWO",
   "SPUR（シュプール）",
   "Sirabee",
-  "Skratch Golf",
   "Social News XYZ",
   "Social Samosa",
   "SoraNews24",
@@ -167,6 +166,7 @@
   "news.livedoor.com",
   "news.shoninsha.co.jp",
   "nikkei.com",
+  "pokde.net",
   "qab.co.jp",
   "riemiyata.com",
   "simplywall.st",
@@ -197,7 +197,6 @@
   "テレ朝NEWS",
   "テレ東BIZ",
   "トラベル Watch",
-  "ネットショップ担当者フォーラム",
   "ハワイに住むネット",
   "バスケットボールキング",
   "ファッションプレス",
@@ -239,7 +238,7 @@
   "아시아경제"
  ],
  "count": 400,
- "detail_count": 232,
+ "detail_count": 235,
  "items": [
   {
    "id": "693d887ba38eb4f6",
@@ -255,6 +254,70 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "11e75dfe70c97a9d",
+   "url": "https://pokde.net/lifestyle/shopping/uniqlo-u-2026-fall-winter-collection",
+   "title_original": "UNIQLO U 2026 Fall/Winter Collection Marks 10th Anniversary And Final Season From Christophe Lemaire",
+   "source": "pokde.net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/08020018/uniqloufw2026cover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T18:00:48+00:00",
+   "title_ja": "ユニクロUが10周年、ルメール最後の2026年秋冬コレクション発表",
+   "summary_ja": "ユニクロは「Uniqlo U」の2026年秋冬コレクションを発表しました。ブランド立ち上げ10周年を迎える今期は、アーティスティックディレクターのクリストフ・ルメール氏が手がける最後のシーズンとなります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "11d9557168cbf47f",
+   "url": "https://tennis.jp/news/archives/348521",
+   "title_original": "車いすテニスは15歳の橋本旬平が初出場で初優勝！【ユニクロ全日本ジュニアテニス選手権 2026】",
+   "source": "tennis.jp",
+   "image": "https://tennis.jp/wp-content/uploads/2026/09/kuruma2nin-1024x683.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-07T14:54:45+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス、車いす部門で15歳橋本旬平が初出場初優勝",
+   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026の車いすテニス部門において、15歳の橋本旬平選手が初出場で初優勝を飾りました。次世代を担う若手選手による白熱した戦いが繰り広げられました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "c1615582f25c0783",
+   "url": "https://tennis.jp/news/archives/348496",
+   "title_original": "U18は16歳の駒田唯衣が制覇。小野倫太郎がインターハイとの2冠を達成【ユニクロ全日本ジュニアテニス選手権 2026】",
+   "source": "tennis.jp",
+   "image": "https://tennis.jp/wp-content/uploads/2026/09/18-4nin-1024x682.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-07T14:49:10+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニスU18、駒田唯衣が制覇し小野倫太郎は2冠達成",
+   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026の18歳以下（U18）部門において、16歳の駒田唯衣選手が女子を制覇しました。男子では小野倫太郎選手がインターハイとの2冠を達成しています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a51b3bdcea982b0d",
+   "url": "https://news.yahoo.co.jp/articles/97c7fd243a2b1056b7865c6783085e0d31a502e1/images/000",
+   "title_original": "「色違いで2着GET」 ユニクロの“1990円フード付きT”に反響 「華奢見えする」「秋の制服になる予感」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKlFbAyC03YtLKs07w_3VRRqg_UwyA47OrjCrxf1nOFJUyf07WuTM6dEHMPY-LbWHJDduTpq8glhcT2Y4fYfg-rRj86UZo0UbcDwXQBVTGriKZWj9yT4-5WvVlQZTnArbQ==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-07T13:10:00+00:00",
+   "title_ja": "ユニクロ1990円フード付きTが話題　色違いで2着購入も増加",
+   "summary_ja": "ユニクロの1990円のフード付きTシャツが、華奢に見えると好評で、色違いで2枚購入する人が増えていると報じられた。秋の制服感が期待されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
    "detail_tries": 1
   },
   {
@@ -303,7 +366,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5086fc00e7007fda",
@@ -319,7 +382,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "be1688f35224e39b",
@@ -383,7 +446,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "b123892b4d641697",
@@ -6576,70 +6639,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "b6a508c7066c757d",
-   "url": "https://skratch.golf/style/mens-style/uniqlo-pleated-wide-pant-herringbone",
-   "title_original": "Uniqlo's Perfect, $50 Pleated Pants Just Got a Fall Golf Upgrade",
-   "source": "Skratch Golf",
-   "image": "https://media.skratch.golf/large_Screenshot_2026_08_20_at_10_54_11_AM_fec7e2f75e/large_Screenshot_2026_08_20_at_10_54_11_AM_fec7e2f75e.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-20T00:00:00+00:00",
-   "title_ja": "ユニクロの50ドルプリーツパンツが秋のゴルフ向けにアップデート",
-   "summary_ja": "ユニクロが販売する50ドルのプリーツパンツが、秋のゴルフ向けにアップデートされました。秋のゴルフシーズンに適した仕様に改良された同商品は、ゴルフファンにとって使い勝手の良いアイテムとして展開されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "26cebb07876b6ba7",
-   "url": "https://netshop.impress.co.jp/n/2026/08/20/16578",
-   "title_original": "「ユニクロ」の法人向けサービス「UNIQLO UNIFORM」を活用しポロシャツを夏季用ユニフォームに採用、OKIクロステック",
-   "source": "ネットショップ担当者フォーラム",
-   "image": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16578-ogp.jpeg?itok=ghu9Tq2E",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-20T00:00:00+00:00",
-   "title_ja": "OKIクロステックがユニクロの法人サービスで夏の制服を採用",
-   "summary_ja": "OKIクロステックが、ユニクロの法人向けサービス「UNIQLO UNIFORM」を活用し、ポロシャツを夏季用ユニフォームとして導入した。企業の導入事例として伝えられている。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d08533edb7d10535",
-   "url": "https://www.staradvertiser.com/2026/08/19/breaking-news/uniqlo-founder-donates-3m-clothing-to-lala-relief-efforts",
-   "title_original": "Uniqlo founder donates $3M, clothing to Lala relief efforts",
-   "source": "Honolulu Star-Advertiser",
-   "image": "https://www.staradvertiser.com/wp-content/uploads/2026/08/web1_20260819_brk_uni01.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-19T21:20:00+00:00",
-   "title_ja": "ユニクロ創業者がLala救援活動へ300万ドルと衣料品を寄付",
-   "summary_ja": "ユニクロの創業者が、Lalaでの救援・支援活動に対して300万ドルの資金援助と衣料品の支援を行うことが発表されました。被災地や支援を必要とする地域に向けた迅速な物資および資金提供が実施されます。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "652e0891527bb6fd",
-   "url": "https://www.sanyonews.jp/article/1895086?kw=%E7%A6%8F%25",
-   "title_original": "ドジャース×ユニクロ、歴史的パートナーシップを締結 『UNIQLO Field at Dodger Stadium』誕生 柳井正氏「大変光栄に思います」【全文】",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/c/e/5/d/ce5db58b600ec205e636d44136682fa9_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-19T19:06:19+00:00",
-   "title_ja": "ユニクロが米ドジャースとパートナーシップ締結、スタジアムに冠施設も誕生",
-   "summary_ja": "ユニクロが米MLBのロサンゼルス・ドジャースと歴史的なパートナーシップ契約を締結しました。ドジャー・スタジアム内に「UNIQLO Field」が誕生し、柳井正氏もコメントを発表しています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
