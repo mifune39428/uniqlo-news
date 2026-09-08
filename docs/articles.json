@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T19:14:33.118178+09:00",
+ "updated_at": "2026-09-09T00:35:50.997219+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -65,7 +65,6 @@
   "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
   "JFA",
   "KED Global",
-  "KITV",
   "Krepšinio žinios",
   "L'Officiel Malaysia",
   "L'Officiel Philippines",
@@ -236,8 +235,24 @@
   "아시아경제"
  ],
  "count": 400,
- "detail_count": 231,
+ "detail_count": 232,
  "items": [
+  {
+   "id": "8dfd1c9da1e4ba8a",
+   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-09-07-dVtopQ",
+   "title_original": "【大人のユニクロ】「ユニクロ ユー」は定番の大人ブラウンがやっぱりいい。セットアップのスーツが買い！【Uniqlo U 2026年秋冬最速試着】",
+   "source": "webuomo.jp",
+   "image": "https://img.webuomo.jp/article/sns/image/b4/b4234083-9a25-401c-aa5b-11c8f5143256-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-08T11:00:00+00:00",
+   "title_ja": "Uniqlo U 2026年秋冬コレクション最速試着、セットアップなどに注目",
+   "summary_ja": "ユニクロの人気ライン「Uniqlo U」2026年秋冬コレクションの最速試着レポート。定番であるブラウンカラーのセットアップスーツなど、大人におすすめのアイテムを紹介している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "286ada63b7509dc6",
    "url": "https://news.yahoo.co.jp/articles/0b9fd68a75e31c467ed7098ab4ec8625ef069d30",
@@ -268,7 +283,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8ac76ff08be3e11a",
@@ -284,7 +299,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a9bc2575cab669b0",
@@ -300,7 +315,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "071bb63cfc96ea72",
@@ -316,6 +331,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "60c4a1aeeeb8135c",
+   "url": "https://news.yahoo.co.jp/articles/be3587ebcddc52b7ecec01dbed224d7baae1db6f",
+   "title_original": "すぐ褒められた＞ユニクロ×JW ANDERSON「オックスフォードシャツ」が期間限定で2990円に！「真面目すぎないシルエットが素敵」「ワイドパンツと相性抜群」（婦人公論.jp）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00023906-fujinjp-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-08T03:30:33+00:00",
+   "title_ja": "ユニクロ×JW ANDERSON「オックスフォードシャツ」が期間限定で2990円に",
+   "summary_ja": "ユニクロとJW ANDERSONのコラボレーションアイテム「オックスフォードシャツ」が、期間限定で2,990円に値下げされます。真面目すぎないシルエットが特徴で、ワイドパンツとの相性も抜群と評判の商品です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -348,7 +379,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "28631936d978ef2c",
@@ -6601,38 +6632,6 @@
    "published": "2026-08-21T00:06:09+00:00",
    "title_ja": "ファーストリテイリングがハリケーン被害に対し300万ドルと衣料5万点を支援",
    "summary_ja": "ファーストリテイリングは、ハリケーン「ララ」の被災地支援として、300万ドルの寄付と5万点の衣料品提供を行うことを発表しました。被災地の復興や避難者への生活支援を目的とした支援活動の一環として実施されます。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "45445e2bdc779bcf",
-   "url": "https://www.seventietwo.com/ja/business/GlobalBrand_StockMarket_20260821",
-   "title_original": "グローバルブランド株に売り広がる アシックス5％超、ファーストリテイリング4％超、良品計画3％超下落",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2022/08/0f9c3fecbcf7937e5f3f58f0e2fa2036.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-21T00:00:00+00:00",
-   "title_ja": "ファーストリテイリングなどグローバルブランド株が下落、売り広がる",
-   "summary_ja": "株式市場にてグローバルブランド関連株に売りが広がり、ファーストリテイリングの株価が4％超下落した。アシックスや良品計画などの関連銘柄も揃って値を下げる展開となっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "2c2d4333a6034c31",
-   "url": "https://www.kitv.com/island-life/island-life-live/uniqlo-founder-donates-3-million-to-lala-relief/video_2663bbf6-43ed-5e6d-abc3-869fead50855.html",
-   "title_original": "UNIQLO founder donates $3 million to Lala relief",
-   "source": "KITV",
-   "image": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/2/66/2663bbf6-43ed-5e6d-abc3-869fead50855/6a87906c37fee.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-20T23:39:00+00:00",
-   "title_ja": "ユニクロ創業者がハリケーン「ララ」の被災地支援へ300万ドルを寄付",
-   "summary_ja": "ユニクロの創業者が、ハリケーン「ララ」による被災地の救援活動のために300万ドルを寄付したことが明らかになりました。現地での復興支援や被災者の生活再建に役立てられます。",
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
