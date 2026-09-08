@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T05:53:19.334800+09:00",
+ "updated_at": "2026-09-08T10:54:52.551934+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -20,9 +20,7 @@
   "A1 Retail Magazine",
   "ABEMA",
   "AERA DIGITAL",
-  "AFPBB News",
   "AMP[アンプ]",
-  "Access Winnipeg",
   "All About ニュース",
   "Alvinology",
   "Apparel Resources",
@@ -64,6 +62,7 @@
   "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
+  "InsiderPH",
   "Investing.com",
   "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
   "JFA",
@@ -164,6 +163,7 @@
   "mi-mollet（ミモレ）",
   "mshale.com",
   "news.livedoor.com",
+  "news.nicovideo.jp",
   "news.shoninsha.co.jp",
   "nikkei.com",
   "pokde.net",
@@ -207,6 +207,7 @@
   "ラブすぽ",
   "リンネル.jp",
   "千葉テレビ放送",
+  "千葉テレビ放送株式会社",
   "号外NET 奈良市",
   "四季報オンライン",
   "地域ニュースサイト号外NET",
@@ -238,8 +239,40 @@
   "아시아경제"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 233,
  "items": [
+  {
+   "id": "28631936d978ef2c",
+   "url": "https://insiderph.com/uniqlo-tailors-ph-store-network-to-where-filipinos-shop",
+   "title_original": "UNIQLO tailors PH store network to where Filipinos shop",
+   "source": "InsiderPH",
+   "image": "https://insiderph.com/uploads/articles/thumb_1788825473366_mx4zkp7jbifscht5yve8-800x600.webp?v=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-08T00:04:24+00:00",
+   "title_ja": "ユニクロがフィリピンでの店舗網を現地の購買行動に合わせて最適化",
+   "summary_ja": "ユニクロがフィリピン市場において、現地の消費者が日常的に利用する商業拠点やエリアに合わせて店舗ネットワークの最適化を進めている。地域の購買行動に応じた展開を行うことで、同国での市場基盤の強化を目指す。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "104870ccca72a920",
+   "url": "https://timesofindia.indiatimes.com/sports/international-sports/he-wont-retire-from-life-inside-roger-federers-300m-uniqlo-deal-and-the-billionaire-twist-behind-his-fortune/articleshow/133897544.cms",
+   "title_original": "“He won’t retire from life”: Inside Roger Federer’s $300M Uniqlo deal and the ‘billionaire’ twist behind",
+   "source": "The Times of India",
+   "image": "https://static.toiimg.com/thumb/msid-133897552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-07T22:40:00+00:00",
+   "title_ja": "フェデラーのユニクロ3億ドル契約の舞台裏を報道",
+   "summary_ja": "ロジャー・フェデラー選手とユニクロの3億ドル規模に及ぶ大型スポンサー契約の背景が報じられています。コート上の活動だけでなく、引退後も続く長期的なパートナーシップの裏側について焦点を当てています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "693d887ba38eb4f6",
    "url": "https://www.gmanetwork.com/lifestyle/shopping/138076/this-global-retail-brand-is-opening-at-naia-terminal-3/story",
@@ -318,7 +351,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c45592301b49071d",
@@ -383,6 +416,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "eb5c554dfd75b39c",
+   "url": "https://www.chiba-tv.com/plus/detail/2026091985091",
+   "title_original": "【ユニクロ】期間限定で1000円OFF！「バレルレッグジーンズ」でつくる40代の秋コーデ3選",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1469659346112545803/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-07T11:41:37+00:00",
+   "title_ja": "ユニクロ「バレルレッグジーンズ」が期間限定1000円引き、秋コーデも紹介",
+   "summary_ja": "ユニクロの「バレルレッグジーンズ」が期間限定で1000円引きのセール価格となっています。記事では、本アイテムを活用した40代向けの秋コーディネート3選が紹介されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "be1688f35224e39b",
@@ -1023,6 +1072,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "e8502af222838523",
+   "url": "https://news.nicovideo.jp/watch/nw19740821?news_ref=20_20",
+   "title_original": "【ギンビス】「たべっ子どうぶつ」や「アスパラくん」が勢揃い！ギンビスオールスターズが『ユニクロ",
+   "source": "news.nicovideo.jp",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-04T12:48:23+00:00",
+   "title_ja": "ギンビス「たべっ子どうぶつ」などのキャラクターがユニクロとコラボ",
+   "summary_ja": "ギンビスの「たべっ子どうぶつ」や「アスパラくん」といった人気お菓子のキャラクターたちが、ユニクロとコラボレーションを展開します。おなじみのキャラクターが集結した注目ラインナップが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "85716131694c53b0",
@@ -6574,70 +6639,6 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9b0b42c52f75a0d8",
-   "url": "https://news.yahoo.co.jp/articles/ac671dee0d6d6977af26b9d7c0729e90c9cacb29/images/000",
-   "title_original": "ユニクロのフリースが多彩に進化！2026年秋冬の注目アイテムをチェック (ウォーカープラス)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYzNgGBIJdY4e4TKNSgSw2bFyWzrEZ1Q1w5lm6LhsOw8hw6pfBRYUsOwgNBLjr_QukUPvbiK7Qq2YzWMIdW3z-LKulhvXf2zKbyHSt7hDRK2Yaa6KHtl--196gv2DKFAfHA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-20T06:30:00+00:00",
-   "title_ja": "ユニクロが2026年秋冬フリースを発表 多彩に進化した注目アイテムが登場",
-   "summary_ja": "ユニクロの2026年秋冬コレクションにて、フリースアイテムが多彩なラインナップで進化を遂げました。機能性やデザイン性をアップデートした注目商品が揃っており、これからの季節に向けたラインナップを公開しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "19913fd6cb9a019a",
-   "url": "https://www.afpbb.com/articles/-/3648709",
-   "title_original": "中国の京東物流と日本のファストリが世界戦略で提携",
-   "source": "AFPBB News",
-   "image": "https://afpbb.ismcdn.jp/mwimgs/e/4/1000x/img_e41a7c7658be0d8643a2ad54ad23329f82503.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-20T06:00:00+00:00",
-   "title_ja": "ファーストリテイリングが中国の京東物流と世界戦略で提携",
-   "summary_ja": "ファーストリテイリングが中国の物流大手である京東物流とグローバル戦略で提携した。世界規模での事業展開を見据え、サプライチェーンや物流体制の効率化を図る取り組みとみられる。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7476259d25eeeed4",
-   "url": "https://accesswinnipeg.com/2026/08/uniqlo-st-vital-centre-grand-opening-august-21-hours-deals-and-opening-weekend-events",
-   "title_original": "UNIQLO St. Vital Centre Grand Opening August 21: Hours, Deals and Opening Weekend Events",
-   "source": "Access Winnipeg",
-   "image": "https://accesswinnipeg.com/wp-content/uploads/2026/07/uniqlo-winnipeg-st-v.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-20T01:01:59+00:00",
-   "title_ja": "ユニクロ セント・バイタル・センター店が8月21日にグランドオープン",
-   "summary_ja": "カナダのユニクロ セント・バイタル・センター店が8月21日にグランドオープンします。オープンに合わせて、営業時間や限定のセール、週末のオープニングイベントなどが予定されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6dcef4984729243a",
-   "url": "https://nlab.itmedia.co.jp/cont/articles/3982096",
-   "title_original": "仲里依紗、ユニクロ2990円アイテムを「やっと買えた」「かわいくない？」 妹購入の3990円パンツに「すごい上質」と驚く（1/3） | エンタメ ねとらぼ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/08/1787183108_ogp.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-20T00:38:26+00:00",
-   "title_ja": "仲里依紗がユニクロのアイテムを購入、妹のパンツの上質さに驚く",
-   "summary_ja": "俳優の仲里依紗さんが、ユニクロの2990円のアイテムを購入したことを報告しました。また、妹が購入した3990円のパンツについても、非常に上質であると驚きをもって評価しています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   }
  ]
