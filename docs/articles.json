@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T00:25:10.902698+09:00",
+ "updated_at": "2026-09-11T05:11:46.245051+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -100,6 +100,7 @@
   "PR EDGE",
   "PR TIMES",
   "Passionate In Marketing",
+  "Philstar.com",
   "PoPville",
   "Pokde.Net",
   "Rediff MoneyWiz",
@@ -171,6 +172,7 @@
   "marketscreener.com",
   "mi-mollet（ミモレ）",
   "mshale.com",
+  "news.infoseek.co.jp",
   "news.livedoor.com",
   "news.nicovideo.jp",
   "news.shoninsha.co.jp",
@@ -207,7 +209,6 @@
   "テレ東BIZ",
   "トラベル Watch",
   "バスケットボールキング",
-  "ファッションプレス",
   "フードウイークリーWEB",
   "マイライフニュース",
   "モデルプレス",
@@ -249,6 +250,22 @@
  "detail_count": 239,
  "items": [
   {
+   "id": "661698b46a82daec",
+   "url": "https://www.philstar.com/business/2026/09/11/2555360/uniqlo-opening-3-new-stores-philippines",
+   "title_original": "Uniqlo opening 3 new stores in Philippines",
+   "source": "Philstar.com",
+   "image": "https://media.philstar.com/images/filler/business-logo-filler-thumbnail.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-10T16:00:00+00:00",
+   "title_ja": "ユニクロがフィリピンで新たに3店舗をオープンへ",
+   "summary_ja": "ユニクロがフィリピン国内において、新たに3つの店舗をオープンすることが分かりました。東南アジア市場でのブランド展開を一層強化し、現地での店舗網拡大を図る取り組みです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "7cdc2a55e8ac340b",
    "url": "https://www.jakartashimbun.com/free/detail/73092.html",
    "title_original": "ＵＩとユニクロが提携 小売業の実務学ぶ",
@@ -262,7 +279,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e71996e119f9193f",
@@ -278,7 +295,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7bee20d31c32074f",
@@ -326,7 +343,7 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5a94c1ad73c744bb",
@@ -502,7 +519,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "64c049feb08c8030",
@@ -889,6 +906,22 @@
    "detail_tries": 2
   },
   {
+   "id": "e9bf0d23724c8702",
+   "url": "https://news.infoseek.co.jp/article/halmek_article_16903",
+   "title_original": "【GU】2026秋冬展示会で発見！50代が旬顔になれるプチプラ注目アイテム",
+   "source": "news.infoseek.co.jp",
+   "image": "https://media.image.infoseek.co.jp/isnews/photos/halmek/halmek_article_16903_0.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-08T22:00:00+00:00",
+   "title_ja": "GUの2026年秋冬展示会から50代におすすめのプチプラ注目商品を紹介",
+   "summary_ja": "GUの2026年秋冬向け展示会が開催され、50代のファッションに取り入れやすい注目のトレンドアイテムが披露された。手頃な価格で旬の装いを楽しめる新作ラインナップがそろっている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "8bf25709bf16cac3",
    "url": "https://mshale.com/de550711/8625dc52LiDCcKVDYk",
    "title_original": "ユニクロUは終わらない【ユニクロU】2026AWの発売が決定！デザインチームの続投が決定！？公式情報から徹底調査！マストバイはバッグで確定！？【忖度なし】 When Is Father's Day (wphIw6pBBg)",
@@ -998,7 +1031,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "686f0f92f804f8a6",
@@ -6611,38 +6644,6 @@
    "published": "2026-08-24T04:51:02.791000+00:00",
    "title_ja": "「Uniqlo U」2026年秋冬コレクションが9月11日発売、全ルック公開",
    "summary_ja": "「Uniqlo U」の2026年秋冬コレクションが2026年9月11日に発売されます。発売に先立ち全ルックが公開され、注目の新作アイテムのラインナップが明らかになりました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "73ddd1b5fdcc632b",
-   "url": "http://www.jfa.jp/grass_roots/festival/kidsfestival-usk/news/00036651",
-   "title_original": "JFAユニクロサッカーキッズ in 東京 10月25日(日)開催 8月24日(月)から参加者募集開始",
-   "source": "JFA",
-   "image": "https://www.jfa.jp/img/cache/6a8bb6fb-c7e8-4759-88b4-5b91d3093d95.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-24T04:25:54+00:00",
-   "title_ja": "「JFAユニクロサッカーキッズ in 東京」が10月に開催、参加募集を開始",
-   "summary_ja": "日本サッカー協会は、10月25日に東京で開催する「JFAユニクロサッカーキッズ」の参加者募集を8月24日より開始します。本イベントは、子どもたちがサッカーを通じて体を動かす楽しさを体験できる場を提供します。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "19a8c14662a02cac",
-   "url": "https://www.fashion-press.net/news/148659",
-   "title_original": "ユニクロ ユー26年秋冬メンズ、ワークの要素を反映した短丈コートやきれいめワイドパンツ",
-   "source": "ファッションプレス",
-   "image": "https://www.fashion-press.net/img/news/148659/top.jpg?1784028186",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-24T03:50:00+00:00",
-   "title_ja": "ユニクロ ユー26年秋冬メンズ、短丈コートやワイドパンツ",
-   "summary_ja": "「ユニクロ ユー」の2026年秋冬メンズコレクションが発表されました。ワークウェアの要素を取り入れたショート丈のコートや、上品なシルエットのワイドパンツなどが展開されます。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
