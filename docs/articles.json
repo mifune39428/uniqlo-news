@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T00:27:34.237882+09:00",
+ "updated_at": "2026-09-12T05:11:03.750692+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -47,6 +47,7 @@
   "Excite エキサイト",
   "FASHION Magazine",
   "FZINE Singapore",
+  "Fashion Times UK",
   "Fibre2Fashion",
   "GMA Network",
   "GQ Japan",
@@ -80,6 +81,7 @@
   "London Daily News",
   "London Now",
   "MEN'S NON-NO WEB",
+  "Magzter",
   "Manila Standard",
   "Mantan Web",
   "MarkeZine",
@@ -242,8 +244,40 @@
   "아시아경제"
  ],
  "count": 400,
- "detail_count": 241,
+ "detail_count": 240,
  "items": [
+  {
+   "id": "95d35d4748017d03",
+   "url": "https://www.magzter.com/stories/newspaper/Manila-Bulletin/UNIQLO-PHILIPPINES-MARKS-PHJAPAN-MILESTONE-WITH-SUSTAINABLE-ART",
+   "title_original": "UNIQLO Philippines marks PH-Japan milestone with sustainable art | Manila Bulletin - newspaper",
+   "source": "Magzter",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T14:59:08+00:00",
+   "title_ja": "ユニクロフィリピンが日本との節目を祝うサステナブルアートを展開",
+   "summary_ja": "ユニクロフィリピンが、フィリピンと日本の友好や歴史的な節目を記念し、持続可能性をテーマにしたアートの取り組みを実施。両国のパートナーシップを称えるとともに、環境に配慮したブランド施策を現地で展開している。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "42aa3bcb1b74e094",
+   "url": "https://www.fashiontimes.co.uk/uniqlo-jw-anderson-ss26-collection-australia-1763884",
+   "title_original": "Shoppers Revolt Over 'Boring' New Uniqlo and JW Anderson Water Sports Collection: 'A Bit Bland for Him'",
+   "source": "Fashion Times UK",
+   "image": "https://d.fashiontimes.co.uk/en/full/1781208/uniqlo-x-jw-anderson-prep-meets-play.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-11T14:12:49+00:00",
+   "title_ja": "ユニクロとJWアンダーソンの新作コラボに寄せられた消費者の反響",
+   "summary_ja": "ユニクロとJWアンダーソンが手掛けるウォータースポーツをテーマにした最新コレクションに対し、一部の購買客からデザインが地味で退屈だという声が上がっている。新コラボ商品のデザイン傾向に対する様々な評価を報じている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1d17cde7130d30d0",
    "url": "https://www.trendingonweibo.com/hotwords/toilet-breaks-labor-flashpoint",
@@ -338,7 +372,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b98699064fee8215",
@@ -1202,7 +1236,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "78310b961a91c77f",
@@ -6610,38 +6644,6 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b61d89a667ef29e3",
-   "url": "https://travel.watch.impress.co.jp/docs/news/2135279.html",
-   "title_original": "ユニクロ、秋冬はじまる一週間「LifeWear Week」8月28日から。ノベルティは全6色オリジナルエコバッグ",
-   "source": "トラベル Watch",
-   "image": "https://travel.watch.impress.co.jp/img/trw/list/2135/279/02.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-25T03:11:24+00:00",
-   "title_ja": "ユニクロ、8月28日から「LifeWear Week」開催！エコバッグのプレゼントも",
-   "summary_ja": "ユニクロは、秋冬シーズンの始まりを記念したイベント「LifeWear Week」を8月28日から開催します。期間中のノベルティとして、全6色のオリジナルエコバッグが用意されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c45d99a9fcd5d3cb",
-   "url": "https://news.yahoo.co.jp/articles/26541fd21bbe5ab52fc25e73612360cff74af1b8",
-   "title_original": "「5着目の購入」ユニクロで値下げ中ショートパンツが好評「ポケットがたくさん」「サラッとして気持ちいい」（Fav-Log by ITmedia）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-10165392-it_favlog-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-25T02:45:00+00:00",
-   "title_ja": "ユニクロで値下げ中のショートパンツが好評！複数購入する愛用者も",
-   "summary_ja": "ユニクロで値下げ販売されているショートパンツが、購入者の間で高い評価を得ています。豊富なポケットやサラサラとした快適な肌触りが人気を集めており、色違いなどで複数買いするリピーターも登場しています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   }
  ]
