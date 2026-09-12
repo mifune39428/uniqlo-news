@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T18:44:09.034691+09:00",
+ "updated_at": "2026-09-12T23:35:05.469618+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -87,6 +87,7 @@
   "Modaes",
   "MoneyDigest",
   "Moomoo",
+  "MorungExpress",
   "Mshale",
   "MySA",
   "NDTV Profit",
@@ -104,7 +105,6 @@
   "PoPville",
   "Pokde.Net",
   "Rediff MoneyWiz",
-  "Retail Gazette",
   "Retail Insight Network",
   "Retail News Asia",
   "Retail Sector",
@@ -242,8 +242,24 @@
   "아시아경제"
  ],
  "count": 400,
- "detail_count": 239,
+ "detail_count": 240,
  "items": [
+  {
+   "id": "461e1b59c22d3314",
+   "url": "https://morungexpress.com/uniqlo-selects-41-youths-from-nagaland-for-retail-roles-1",
+   "title_original": "UNIQLO selects 41 youths from Nagaland for retail roles",
+   "source": "MorungExpress",
+   "image": "https://morungexpress.com/uploads/2026/09/71579134_1789221095_Abu.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-12T13:55:34+00:00",
+   "title_ja": "ユニクロがインドのナガランド州で若者41名を店舗スタッフ等に選出",
+   "summary_ja": "ユニクロがインド・ナガランド州にて、小売の役割を担う若者41名を選出したことが報じられました。現地での人材育成や店舗運営に向けた採用の動きとして注目されます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b5095f5fb972a6b9",
    "url": "https://www.vietnam.vn/ja/dong-san-pham-uniqlo-u-noi-loi-chia-tay-2-nha-thiet-ke-sang-lap",
@@ -274,7 +290,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "81a3b81cefb1069b",
@@ -290,7 +306,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e01985a4f8f745d7",
@@ -6627,22 +6643,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "72782001933ee4d7",
-   "url": "https://www.retailgazette.co.uk/blog/2026/08/uniqlo-ramps-up-uk-expansion-with-new-openings",
-   "title_original": "Uniqlo ramps up UK expansion with new openings",
-   "source": "Retail Gazette",
-   "image": "https://www.retailgazette.co.uk/wp-content/uploads/2024/04/uniqlo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T07:22:43+00:00",
-   "title_ja": "ユニクロが英国での出店を加速、新規店舗の開設で事業を拡大",
-   "summary_ja": "ユニクロがイギリス市場における店舗網の拡大を一層強化している。新たな店舗を相次いで開設することにより、同国内でのブランド展開と顧客へのアプローチをより一層推し進める狙いがある。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
