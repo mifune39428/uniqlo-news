@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T05:11:03.750692+09:00",
+ "updated_at": "2026-09-12T11:00:04.510301+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -174,6 +174,7 @@
   "pokde.net",
   "qab.co.jp",
   "riemiyata.com",
+  "rikujyokyogi.co.jp",
   "selecta bisso",
   "simplywall.st",
   "smart-flash.jp",
@@ -193,7 +194,6 @@
   "ww.fashionnetwork.com",
   "じゃかるた新聞",
   "すみだ経済新聞",
-  "とよすと",
   "ねとらぼ",
   "ほんみや宮崎",
   "オトナンサー",
@@ -247,6 +247,54 @@
  "detail_count": 240,
  "items": [
   {
+   "id": "e91936296edc1168",
+   "url": "https://news.yahoo.co.jp/articles/c4f102388c5c3213b85f2dc858e5907cd21d460b?source=rss",
+   "title_original": "柳井正の人生を好転させた〈たった一言〉、「仕事ができる人」と「できない人」の決定的な違いとは（ダイヤモンド・オンライン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260912-00399049-diamond-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-12T00:00:34+00:00",
+   "title_ja": "ファーストリテイリング柳井正氏の仕事論と「仕事ができる人」の違い",
+   "summary_ja": "ファーストリテイリング会長兼社長の柳井正氏の人生や仕事観について解説したコラム。柳井氏の人生を好転させた言葉や、仕事ができる人とできない人の決定的な違いについて紹介している。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5ee013d8ca0b222e",
+   "url": "https://www.rikujyokyogi.co.jp/archives/216020",
+   "title_original": "5000m川口桃佳が日本人トップ4位 ユニクロ3選手が全員入賞 男子4継アジア大会代表38秒97／全日本実業団",
+   "source": "rikujyokyogi.co.jp",
+   "image": "https://www.rikujyokyogi.co.jp/wp-content/uploads/2026/09/953e6d5b92667dda9ac7c7e22c878e24.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-11T21:55:38+00:00",
+   "title_ja": "全日本実業団陸上の女子5000mでユニクロ所属の3選手全員が入賞",
+   "summary_ja": "全日本実業団対抗陸上競技選手権大会の女子5000mにおいて、ユニクロの川口桃佳選手が日本人トップとなる4位に入るなど、出場した同社所属の3選手全員が入賞を果たした。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "08a6e691fda40c00",
+   "url": "https://news.yahoo.co.jp/articles/71dbc6e5af87dcbc6b31e5dde1a67bb9cbb631b2/images/000",
+   "title_original": "第1章の集大成となる「ユニクロ ユー」2026年秋冬新作を試着＆本音レビュー！[Uniqlo U］ (MEN’S NON-NO WEB)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgCOKOo6M1sgz6n42_2fBYk4s56wx5XT1akdQf-UqLo2RClZSLcroTBjPn8jVdGnyPYpoTduBt-T8Xfz2qsRNbpldYHFVCs3pyNI8kE46hD-GiYerIa3p_eFgaDuD1FaA7A==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-11T21:00:23+00:00",
+   "title_ja": "「Uniqlo U」2026年秋冬新作をメンノン編集部が試着レビュー",
+   "summary_ja": "「Uniqlo U」の2026年秋冬新作コレクションの発表に伴い、MEN'S NON-NO WEBが試着レポートを公開。第1章の集大成とされる注目のラインナップを実際に着用しレビューしている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "95d35d4748017d03",
    "url": "https://www.magzter.com/stories/newspaper/Manila-Bulletin/UNIQLO-PHILIPPINES-MARKS-PHJAPAN-MILESTONE-WITH-SUSTAINABLE-ART",
    "title_original": "UNIQLO Philippines marks PH-Japan milestone with sustainable art | Manila Bulletin - newspaper",
@@ -260,7 +308,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "42aa3bcb1b74e094",
@@ -6596,54 +6644,6 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6f25b2bd9fb7a617",
-   "url": "https://travel.watch.impress.co.jp/docs/news/2135302.html",
-   "title_original": "ユニクロ、秋冬ボトムス全52本。トレンドのワイド＆バレルが豊作、ラクにはけるイージーパンツにも注目！",
-   "source": "トラベル Watch",
-   "image": "https://travel.watch.impress.co.jp/img/trw/list/2135/302/01.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-25T03:58:29+00:00",
-   "title_ja": "ユニクロが秋冬ボトムス全52本を展開、ワイドやバレル型など豊富にラインナップ",
-   "summary_ja": "ユニクロが秋冬シーズンのボトムス全52本をラインナップする。トレンドのワイドパンツやバレルパンツをはじめ、快適にはけるイージーパンツなど、多様なスタイルの商品を揃えている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f37bfb6af990c3ba",
-   "url": "https://www.fastretailing.com/eng/group/news/2608251000.html",
-   "title_original": "UNIQLO AND THE DODGERS LAUNCH COMMUNITY AND FAN PROGRAM SERIES AT UNIQLO FIELD AT DODGER STADIUM | FAST RETAILING CO., LTD.",
-   "source": "fastretailing.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-25T03:34:27+00:00",
-   "title_ja": "ユニクロがドジャースと提携、ドジャースタジアムでファン向けプログラムを開始",
-   "summary_ja": "ユニクロは、大リーグのロサンゼルス・ドジャースと共同で、ドジャースタジアム内の「ユニクロ・フィールド」においてコミュニティおよびファン向けのプログラムシリーズを開始することを発表しました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "da26a098318cb38d",
-   "url": "https://toyosu.tokyo/open-close/uniqlo-gu-plst-lalaporttoyosu-open-info",
-   "title_original": "なんと、3店が同じ日に！ららぽーと豊洲に「ユニクロ」「GU」「PLST」が一斉オープン",
-   "source": "とよすと",
-   "image": "https://toyosu.tokyo/wp-content/uploads/2026/08/toyosu-20260823-gu-9b.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-25T03:20:57+00:00",
-   "title_ja": "ららぽーと豊洲に「ユニクロ」「GU」「PLST」が同日一斉オープンへ",
-   "summary_ja": "東京・江東区の商業施設「ららぽーと豊洲」に、ファーストリテイリング傘下の「ユニクロ」「GU（ジーユー）」「PLST（プラステ）」の3店舗が同じ日に一斉オープンすることが分かりました。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 4,
    "has_detail": true
   }
  ]
