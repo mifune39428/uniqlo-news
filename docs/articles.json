@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-14T00:14:32.109310+09:00",
+ "updated_at": "2026-09-14T04:58:09.742265+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -139,6 +139,7 @@
   "Vietnam.vn",
   "WWDJAPAN",
   "Whalesbook",
+  "Wharf Life",
   "Yahoo!ニュース",
   "Yorkshire Evening Post",
   "YouTube",
@@ -217,7 +218,6 @@
   "千葉テレビ放送株式会社",
   "四季報オンライン",
   "地域ニュースサイト号外NET",
-  "地球の歩き方",
   "宇都宮ブレックス",
   "山陽新聞",
   "推し楽",
@@ -248,6 +248,22 @@
  "count": 400,
  "detail_count": 238,
  "items": [
+  {
+   "id": "33308d2a018784d5",
+   "url": "https://wharf-life.com/interviews/canary-wharf-unveils-uniqlo-letting-and-looks-to-the-future-of-retail",
+   "title_original": "Canary Wharf unveils Uniqlo letting and looks to the future of retail",
+   "source": "Wharf Life",
+   "image": "https://wharf-life.com/wp-content/uploads/2026/09/UNIQLO-Canary-WharfWEB.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-13T15:11:47+00:00",
+   "title_ja": "ロンドンのカナリー・ワーフがユニクロの出店契約を発表",
+   "summary_ja": "ロンドンの複合開発地区カナリー・ワーフが、ユニクロとの店舗賃貸契約を発表しました。商業エリアの再編と小売事業の将来像を見据える中で、新たなテナントとしてユニクロを迎え入れ、エリアの活性化を目指しています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "23f740eae43a84aa",
    "url": "https://www.crank-in.net/trend/report/191227",
@@ -6630,22 +6646,6 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "f55f0f57df991af4",
-   "url": "https://www.arukikata.co.jp/tokuhain/393144",
-   "title_original": "【米国】SFにユニクロ復活！ダウンタウンに再び赤い看板",
-   "source": "地球の歩き方",
-   "image": "https://www.arukikata.co.jp/wp-content/uploads/IMG_4323-2_2026_0826_0852.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-26T00:06:26+00:00",
-   "title_ja": "米国サンフランシスコのダウンタウンにユニクロが再出店",
-   "summary_ja": "アメリカ・サンフランシスコのダウンタウン地区に、ユニクロの店舗が再びオープンすることが分かりました。かつて撤退したエリアへの復活となり、街に再びおなじみの赤い看板が戻ってきます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
