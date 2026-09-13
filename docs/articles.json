@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T19:45:32.166358+09:00",
+ "updated_at": "2026-09-14T00:14:32.109310+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -97,6 +97,7 @@
   "Nottingham Post",
   "OCEANS オーシャンズ",
   "Oggi.jp",
+  "Oui Speak Fashion (OSF)",
   "PAUSE Online",
   "PR EDGE",
   "PR TIMES",
@@ -261,7 +262,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "17671297ff7cb9d5",
@@ -277,7 +278,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f8622b830f575dfa",
@@ -357,7 +358,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "461e1b59c22d3314",
@@ -373,6 +374,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "979b6d2ed47c3dcf",
+   "url": "https://ouispeakfashion.com/jp/uniqlo-world-trade-center-store-new-york",
+   "title_original": "ユニクロ（UNIQLO）、ニューヨークのワールドトレードセンターに新店舗を9月25日オープン",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/jp/wp-content/uploads/2026/09/OSF-main-image-3-4.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-12T10:44:50+00:00",
+   "title_ja": "ユニクロがNYのワールドトレードセンターに新店舗を9月25日開店",
+   "summary_ja": "ユニクロは、アメリカ・ニューヨークのワールドトレードセンターに新たな店舗を9月25日にオープンする。象徴的な立地への出店を通じ、現地でのブランド展開を推し進めていく。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -885,7 +902,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94d1ab10d03704d9",
@@ -6629,22 +6646,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "834e61d618d3d42d",
-   "url": "https://news.yahoo.co.jp/articles/6da8da866c5c125a65ac74d1bbe3eaf830f94ddd?source=rss",
-   "title_original": "「なぜ脱がすの？」綾瀬はるかのユニクロ“上半身裸”CMに賛否の声…「高好感度の女優」が出演も、何度も物議を醸したワケ",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00955773-toyo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-25T22:00:44+00:00",
-   "title_ja": "綾瀬はるかが出演するユニクロのCM演出に対する反響と賛否の声",
-   "summary_ja": "女優の綾瀬はるかが出演するユニクロのテレビCM演出について、視聴者から賛否両論の声が上がっています。高好感度なタレントの起用と特徴的な演出がネット上で話題を集め、その背景について考察されています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   }
  ]
