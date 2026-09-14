@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15T02:11:39.935841+09:00",
+ "updated_at": "2026-09-15T06:08:42.538422+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -32,9 +32,9 @@
   "BusinessMirror",
   "BusinessWorld - BusinessWorld Online",
   "BuzzFeed",
-  "CNBC TV18",
   "CREA WEB",
   "Cate Blanchett Fan",
+  "Chain Store Age",
   "Confirm Good",
   "Daily Tribune",
   "Dtimes",
@@ -247,6 +247,22 @@
  "detail_count": 240,
  "items": [
   {
+   "id": "a3d3f703f68e43a7",
+   "url": "https://chainstoreage.com/uniqlo-return-san-francisco-flagship-partnerships",
+   "title_original": "Uniqlo to return to San Francisco with flagship, partnerships",
+   "source": "Chain Store Age",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-14T17:36:18+00:00",
+   "title_ja": "ユニクロが米サンフランシスコに旗艦店を開設し再進出へ",
+   "summary_ja": "ユニクロが米サンフランシスコ市場へ復帰し、現地でのパートナーシップ提携とともに新たな旗艦店を出店することが判明しました。地域社会との連携を図りながら展開を推進します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "e74b4b878287d6b7",
    "url": "https://nagalandtribune.in/idan-uniqlo-initiative-selects-41-nagaland-youth-for-retail-jobs",
    "title_original": "IDAN-UNIQLO initiative selects 41 Nagaland youth for retail jobs",
@@ -292,7 +308,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "351873639883142a",
@@ -308,7 +324,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f595e9a9384e1dba",
@@ -6629,22 +6645,6 @@
    "brand": "グループ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "3cfde6351fdabbbc",
-   "url": "https://www.cnbctv18.com/economy/uniqlo-other-japanese-textile-majors-looking-to-source-more-from-india-for-global-markets-piyush-goyal-19977866.htm",
-   "title_original": "Uniqlo, other Japanese textile majors looking to source more from India for global markets: Piyush Goyal",
-   "source": "CNBC TV18",
-   "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-bed22375bf27a9b30767709b5980d7c9.jpg?im=FitAndFill,width=1200,height=675",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-26T16:33:31+00:00",
-   "title_ja": "ユニクロなど日本の繊維大手、世界市場向けにインドからの調達増を計画",
-   "summary_ja": "ユニクロを含む日本の主要な繊維・アパレル企業が、世界市場に向けた製品調達をインドから増やす計画を進めています。政府高官の発言により、今後のサプライチェーンにおけるインドの重要性が高まる見通しです。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
