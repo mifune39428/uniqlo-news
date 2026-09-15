@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-15T19:38:11.568106+09:00",
+ "updated_at": "2026-09-16T00:51:55.052682+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -132,6 +132,7 @@
   "UOMO",
   "UQライフ",
   "Vietnam.vn",
+  "Vogue Japan",
   "WWDJAPAN",
   "Whalesbook",
   "Wharf Life",
@@ -240,7 +241,7 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 242,
+ "detail_count": 240,
  "items": [
   {
    "id": "8d2009e2cb9bb28c",
@@ -288,7 +289,39 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "aa532a226a36dbf6",
+   "url": "https://news.shoninsha.co.jp/merchandising/318597",
+   "title_original": "ユニクロnews｜｢Uniqlo:C 2026秋冬コレクション｣9/25発売",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-15T08:27:47+00:00",
+   "title_ja": "「Uniqlo:C」2026年秋冬コレクションが9月25日に発売へ",
+   "summary_ja": "ユニクロから「Uniqlo:C」の2026年秋冬コレクションが9月25日に発売される。同ラインの2026年秋冬シーズン向けアイテムが展開される予定となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "detail_tries": 1
+  },
+  {
+   "id": "d5c784f4c00c77fa",
+   "url": "https://www.vogue.co.jp/article/2026-09-15-uniqlo-c",
+   "title_original": "【全ルック公開！】ユニクロ「UNIQLO : C」2026年秋冬コレクションは9月25日（金）発売！",
+   "source": "Vogue Japan",
+   "image": "https://media.vogue.co.jp/photos/6aa8dc6704fd7d54c3812432/16:9/w_1280,c_limit/260607_UNIQLO_CPJ_FW26_LOOK_06_DOUBLE_0322_4x5_LR.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-15T06:25:14.342000+00:00",
+   "title_ja": "ユニクロ「UNIQLO : C」2026秋冬の全ルック公開、9月25日発売",
+   "summary_ja": "ユニクロの「UNIQLO : C」2026年秋冬コレクションについて、発売に先立ち全ルックが公開された。同コレクションは9月25日に発売される予定となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "bffca7917564d88d",
@@ -320,7 +353,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cea879c7198cda83",
@@ -337,6 +370,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "6a0fe7d11acde75c",
+   "url": "https://www.wwdjapan.com/articles/2497977",
+   "title_original": "「ユニクロ：シー」が2026-27年秋冬コレクションを発売 フラッフィカシミヤニットやコーデュロイパンツが登場",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-15T03:09:47+00:00",
+   "title_ja": "「ユニクロ：シー」2026-27年秋冬発表、ニットやパンツ登場",
+   "summary_ja": "「ユニクロ：シー」が2026-27年秋冬コレクションを発売する。今回のコレクションには、フラッフィカシミヤニットやコーデュロイパンツなどがラインアップされている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "d574fb0e3f0ffbb2",
@@ -6589,54 +6638,6 @@
    "published": "2026-08-27T04:00:55+00:00",
    "title_ja": "「ユニクロ ユー」ルメールによる最終コレクション全品公開",
    "summary_ja": "クリストフ・ルメールが手掛ける「ユニクロ ユー」の最終コレクションとなる全アイテムが公開された。10年間の集大成として制作された注目のラインナップとなっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9d2d110b5e4a07f5",
-   "url": "https://news.yahoo.co.jp/articles/9d0feb20422b804bedf1dde63495adb53d988b16",
-   "title_original": "【ユニクロ ユー】ルメールのラストコレクション 10年間の集大成を一覧で紹介（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00527664-fashions-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-27T04:00:55+00:00",
-   "title_ja": "ユニクロ ユーがルメールとのラストコレクションを発表　10年間の集大成アイテムを公開",
-   "summary_ja": "ユニクロは、クリストフ・ルメール率いるデザインチームとの「Uniqlo U（ユニクロ ユー）」においてラストコレクションを発表した。10年間の集大成となるコレクションのアイテム一覧が公開され、注目を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "903938560f73b180",
-   "url": "https://www.whalesbook.com/news/English/consumer-products/Uniqlo-Targets-100-India-Stores-by-2031-to-Boost-Sourcing/6a8fb20d7326c262a169f137",
-   "title_original": "Uniqlo Targets 100 India Stores by 2031 to Boost Sourcing",
-   "source": "Whalesbook",
-   "image": "https://images.whalesbook.com/images/images/mtaz8l0z33db.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-27T03:42:05.591000+00:00",
-   "title_ja": "ユニクロが2031年までにインドで100店舗体制を目指す　調達の拡大も推進",
-   "summary_ja": "ユニクロは2031年までにインド国内の店舗数を100店にまで増やす目標を掲げている。調達体制の強化・拡大も同時に推し進め、同国市場での成長と現地調達の拡大を目指す構えだ。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "6cfa3afd9ddde338",
-   "url": "https://www.fashionsnap.com/article/2026-08-27/uniqlo-u-continue",
-   "title_original": "ユニクロ ユー、来春以降はパリのデザインチームが継承へ",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/08/f184297c-6146-4562-9f74-5bd277564445.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-27T02:00:45+00:00",
-   "title_ja": "ユニクロ ユー、来春以降はパリのデザインチームが継承へ",
-   "summary_ja": "人気のコラボライン「ユニクロ ユー（Uniqlo U）」について、来春以降はパリのデザインチームがその役割や開発を継承していく方針であることが明らかになった。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
