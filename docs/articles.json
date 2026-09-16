@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T19:26:24.424694+09:00",
+ "updated_at": "2026-09-17T00:43:17.856722+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -256,6 +256,38 @@
    "has_detail": true
   },
   {
+   "id": "5aa93508f33c0b2f",
+   "url": "https://limo.media/articles/-/138181",
+   "title_original": "GUポケモン新作は森で暮らすトレーナー気分！イーブイの4990円ニットやキッズ服に7881いいね突破で事前チェック必至 10月23日発売！自然な色合いのアウトドアテイストで大人からキッズまで秋冬の着こなしに大活躍 | LIMO | くらしとお金の経済メディア",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/4/6/1200w/img_46cdcdad8224db4f116f000771ba689864142.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-16T11:45:00+00:00",
+   "title_ja": "GUがポケモンとの新作コラボを10月23日に発売、アウトドアテイストの秋冬服",
+   "summary_ja": "ジーユーは、人気キャラクター「ポケットモンスター」との新作コラボレーション商品を10月23日に発売する。「森で暮らすトレーナー」をテーマに、イーブイがデザインされた4,990円のニットやキッズ服など、アウトドアテイストを取り入れた秋冬アイテムを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "88e155eb97e285f0",
+   "url": "https://news.yahoo.co.jp/articles/1beb9be1275a3e313f85488436288e7f4b1ba6e3/images/000",
+   "title_original": "「UNIQLO：C」秋冬新作42アイテムが9月25日発売 心地よさと個性をあわせ持つ服 (オトナンサー)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgFyfeFKg9is11mjEdTruViIzj69PUueKx5s4WokrMi9HYZzRhP7Y48A1qkDGUnb1pCA8e5hKEnEjGMN2j2ge2of9Z6YZy4yo1a4iLmGxpVjDBio_VkDotkc84GqTQXILVQ==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-16T10:15:00+00:00",
+   "title_ja": "ユニクロ「UNIQLO : C」秋冬新作42アイテムが9月25日発売",
+   "summary_ja": "ユニクロは、デザイナーのクレア・ワイト・ケラーによるコレクション「UNIQLO : C」の秋冬新作42アイテムを9月25日に発売します。心地よさと個性を兼ね備えたアイテムが揃います。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "e0612634667b78c4",
    "url": "https://thesmartlocal.com/read/kaws-uniqlo-universe-collection/amp",
    "title_original": "There’s A New KAWS x Uniqlo Collection That’s Inspired By The Universe, Has Kids’ Sizes Too",
@@ -464,6 +496,22 @@
    "has_detail": true
   },
   {
+   "id": "bbec6f97e0de8d9d",
+   "url": "https://www.stylerave.com/uniqlo-c-fall-winter-2026-collection",
+   "title_original": "Clare Waight Keller Brings Precision and Softness to UNIQLO C Fall/Winter 2026 Collection",
+   "source": "Style Rave",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-15T17:07:05+00:00",
+   "title_ja": "「UNIQLO : C」2026年秋冬コレクション、クレア・ワイト・ケラーが手がける",
+   "summary_ja": "ユニクロは、デザイナーのクレア・ワイト・ケラーによるコレクション「UNIQLO : C」の2026年秋冬ラインナップを発表しました。緻密な仕立てと柔らかさを融合したデザインが特徴です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "8c1ddfdb2c4344fb",
    "url": "https://uptodate.tokyo/uniqlo-c-2026fw",
    "title_original": "UNIQLO : C 2026年秋冬コレクションが国内9月25日より発売",
@@ -493,7 +541,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8d2009e2cb9bb28c",
@@ -6590,54 +6638,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "0e5c98db9ed215d1",
-   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
-   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
-   "source": "uptodate.tokyo",
-   "image": "https://uptodate.tokyo/wp-content/uploads/2026/08/IMG_1509-910x1024.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T04:22:50+00:00",
-   "title_ja": "GUがポケモンテーマの新作コラボを10月23日より発売",
-   "summary_ja": "GUは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを、10月23日より国内で発売する予定です。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b3f86267590cb69d",
-   "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/cosy-uniqlo-fleeces-back-autumn-34528676",
-   "title_original": "'Cosy' Uniqlo fleeces are back for autumn and prices start from £25",
-   "source": "Liverpool Echo",
-   "image": "https://i2-prod.liverpoolecho.co.uk/article34187104.ece/ALTERNATES/s1200d/1_Uniqlo-store-sign-in-Regent-Street.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-28T04:00:00+00:00",
-   "title_ja": "英ユニクロで秋向けフリースが再登場、価格は25ポンドから",
-   "summary_ja": "イギリスのユニクロで、秋の定番アイテムであるフリースが再び販売開始となった。価格は25ポンドからとなっており、これからの季節に最適な暖かく心地よい着心地を提供する商品として注目を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c02e9de9249f8626",
-   "url": "https://news.yahoo.co.jp/articles/1be1b3b0f26e3f9ba61f3b8d1fa85bb76c70aa6b",
-   "title_original": "ユニクロ、中国・上海旗艦店を移転リニューアルオープン（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00528325-fashions-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T03:04:52+00:00",
-   "title_ja": "ユニクロ、中国・上海の旗艦店を移転リニューアル",
-   "summary_ja": "ユニクロは、中国にある上海の旗艦店を移転し、新しくリニューアルオープンすることを発表しました。現地でのさらなる展開に向けた取り組みとなります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
