@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17T00:43:17.856722+09:00",
+ "updated_at": "2026-09-17T05:35:20.390687+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -29,6 +29,7 @@
   "BusinessMirror",
   "BusinessWorld - BusinessWorld Online",
   "BuzzFeed",
+  "CINEMA Life! シネマライフ",
   "CREA WEB",
   "Chain Store Age",
   "CoStar",
@@ -93,6 +94,7 @@
   "Nottingham Post",
   "OCEANS オーシャンズ",
   "Oui Speak Fashion (OSF)",
+  "PR Newswire Canada",
   "PR TIMES",
   "Passionate In Marketing",
   "Philstar.com",
@@ -111,7 +113,6 @@
   "Stylist",
   "Sustainable Japan",
   "TBS NEWS DIG",
-  "THE FIRST TIMES",
   "TRILL",
   "TRP | The Rakyat Post",
   "The Business of Fashion",
@@ -221,7 +222,6 @@
   "時事ドットコム",
   "朝日新聞",
   "東京バーゲンマニア",
-  "東奥日報社",
   "東洋経済オンライン",
   "毎日新聞",
   "水戸経済新聞",
@@ -239,6 +239,38 @@
  "count": 400,
  "detail_count": 243,
  "items": [
+  {
+   "id": "e0110473560e2676",
+   "url": "https://www.newswire.ca/news-releases/uniqlo-unveils-newly-renovated-quebec-flagship-at-montreal-eaton-centre-839391396.html",
+   "title_original": "UNIQLO Unveils Newly Renovated Quebec Flagship at Montreal Eaton Centre",
+   "source": "PR Newswire Canada",
+   "image": "https://mmx.prnewswire.com/media/MS1141115/UNIQLO-UNIQLO-Unveils-Newly-Renovated-Quebec-Flagship-at-Montrea.jpg?id=OA2953028&p=twitter",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T15:42:00+00:00",
+   "title_ja": "ユニクロ、モントリオールのケベック旗艦店を改装リニューアル",
+   "summary_ja": "ユニクロは、モントリオールのイートン・センターにあるケベック州の旗艦店を新たに改装し、リニューアルオープンすることを発表しました。現地の店舗展開における重要な情報となります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "57bb88b8f89726c5",
+   "url": "https://www.gmanetwork.com/lifestyle/shopping/138460/global-retail-brand-uniqlo-releases-final-collection-christophe-lemaire-and-sarah-linh-tran/story",
+   "title_original": "Global retail brand releases final collection from Christophe Lemaire and Sarah-Linh Tran",
+   "source": "GMA Network",
+   "image": "https://aphrodite.gmanetwork.com/entertainment/articles/900_675_10_16-09-2026-1443_-20260916144354.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-16T14:43:55+00:00",
+   "title_ja": "ユニクロ、ルメール氏ら手がけるコラボのラストコレクションを発表・発売",
+   "summary_ja": "ユニクロが、クリストフ・ルメールとサラ＝リン・トランによる最後のコレクションをリリースする。これまで展開してきた人気デザイナーコンビとのコラボレーションの締めくくりとなるラインナップとなる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "bfcbd292b25b26dc",
    "url": "https://prtimes.jp/main/html/rd/p/000000156.000068741.html",
@@ -272,6 +304,22 @@
    "has_detail": true
   },
   {
+   "id": "01f44806cb28b810",
+   "url": "http://www.cinema-life.net/p260916_tfpr",
+   "title_original": "ケイト・ブランシェット、東京国際映画祭に初参加 ユニクロ支援「ディスプレイスメント・フィルム・ファンド」日本初上映に合わせて来日",
+   "source": "CINEMA Life! シネマライフ",
+   "image": "http://www.cinema-life.net/wp-content/uploads/326d66b9c1f373d6111731bc100e8d8b.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-16T11:00:14+00:00",
+   "title_ja": "ケイト・ブランシェット氏が来日へ ユニクロ支援映画ファンド上映で東京国際映画祭に初参加",
+   "summary_ja": "俳優のケイト・ブランシェット氏が東京国際映画祭に初参加するため来日することが決定した。ユニクロが支援する「ディスプレイスメント・フィルム・ファンド」作品の日本初上映に合わせたもので、支援活動の発信などに注目が集まる。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "88e155eb97e285f0",
    "url": "https://news.yahoo.co.jp/articles/1beb9be1275a3e313f85488436288e7f4b1ba6e3/images/000",
    "title_original": "「UNIQLO：C」秋冬新作42アイテムが9月25日発売 心地よさと個性をあわせ持つ服 (オトナンサー)",
@@ -285,7 +333,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e0612634667b78c4",
@@ -1005,6 +1053,22 @@
    "category": "海外展開",
    "brand": "GU",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0e5c98db9ed215d1",
+   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
+   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
+   "source": "uptodate.tokyo",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/08/IMG_1509-910x1024.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-14T03:22:50+00:00",
+   "title_ja": "GU、ポケモンとの新作コラボコレクションを10月23日発売",
+   "summary_ja": "GUは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを国内10月23日より発売します。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6574,70 +6638,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "1cb5b55d56c1df6c",
-   "url": "https://www.toonippo.co.jp/articles/-/2350366",
-   "title_original": "“初期装備ニキ”M!LK塩﨑太智、季節を先取り「秋冬フル装備になれました！」【着用アイテム掲載】",
-   "source": "東奥日報社",
-   "image": "https://toonippo.ismcdn.jp/mwimgs/8/b/1200wm/img_8bfac8378066ee389f853099578e61a893556.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T09:02:38+00:00",
-   "title_ja": "M!LK塩﨑太智がユニクロの新作で「秋冬フル装備」の着こなしを披露",
-   "summary_ja": "ボーカルダンスグループ「M!LK」の塩﨑太智が、ユニクロのイベントで秋冬アイテムを着用して登場しました。「秋冬フル装備になれました」と語り、季節を先取りしたスタイリングと着用アイテムが紹介されています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "797364551a9be718",
-   "url": "https://news.yahoo.co.jp/articles/d1638fc96abc0e864eb607b46a7af4b3ed53ee1e",
-   "title_original": "ユニクロとドジャースの社会貢献活動がスタート スポンサーの枠に収まらない異例の取り組みと広がる可能性（VICTORY）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00010000-victory-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T08:02:28+00:00",
-   "title_ja": "ユニクロとドジャースが社会貢献活動を開始！スポンサー枠を超えた新たな取り組み",
-   "summary_ja": "ユニクロが米大リーグ of ドジャースと共同で、新たな社会貢献活動をスタートさせました。単なるスポンサーシップにとどまらない異例のパートナーシップとして、地域社会への貢献や今後の活動がもたらす新たな可能性について伝えています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f745d8e8f960b315",
-   "url": "https://news.shoninsha.co.jp/merchandising/316750",
-   "title_original": "大創産業news｜｢Standard Products｣ユニクロとのコラボ第2弾",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T06:35:43+00:00",
-   "title_ja": "大創産業の「Standard Products」がユニクロとのコラボ第2弾を発表",
-   "summary_ja": "大創産業が展開するブランド「Standard Products」が、ユニクロとのコラボレーション第2弾を実施します。詳細な内容は明かされていませんが、両ブランドによる新たな共同施策に注目が集まります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "43af09083c2e4516",
-   "url": "https://www.thefirsttimes.jp/report/0000872287",
-   "title_original": "【レポート】綾瀬はるか、松下洸平、M!LK塩﨑太智ら登場！ユニクロ2026年秋冬コレクション披露",
-   "source": "THE FIRST TIMES",
-   "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/5026/08/20260828-ty-141301-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-28T06:22:35+00:00",
-   "title_ja": "綾瀬はるかや松下洸平らが登場　ユニクロが2026年秋冬コレクションを披露",
-   "summary_ja": "ユニクロが開催した2026年秋冬コレクションの発表会に、女優の綾瀬はるかや俳優の松下洸平、M!LKの塩﨑太智ら豪華ゲストが登場。最新の秋冬アイテムを身にまとった姿を披露しました。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
