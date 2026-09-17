@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T00:49:44.317071+09:00",
+ "updated_at": "2026-09-18T05:42:23.215117+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -68,7 +68,6 @@
   "Le Monde.fr",
   "LionhearTV",
   "Livemint",
-  "Liverpool Echo",
   "Lmaga.jp",
   "London Now",
   "MEN'S NON-NO WEB",
@@ -93,9 +92,9 @@
   "Oui Speak Fashion (OSF)",
   "PR Newswire Canada",
   "PR TIMES",
+  "Paris Select Book",
   "Passionate In Marketing",
   "Philstar.com",
-  "Pokde.Net",
   "Retail Insight Network",
   "Retail News Asia",
   "SEVENTIE TWO",
@@ -205,6 +204,7 @@
   "ファッションプレス",
   "フードウイークリーWEB",
   "マイナビニュース",
+  "マイライフニュース",
   "モデルプレス",
   "ヨムーノ",
   "ラブすぽ",
@@ -239,7 +239,7 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 246,
+ "detail_count": 247,
  "items": [
   {
    "id": "42ef06017acb2b42",
@@ -255,7 +255,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1c9cdaa4c70e8525",
@@ -271,7 +271,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a3e5898101ff48a8",
@@ -310,7 +310,7 @@
    "url": "https://otonanswer.jp/post/393968",
    "title_original": "「UNIQLO：C（ユニクロ：シー）」秋冬新作に2.4万いいねの反響 SNS「ブーツかわいい～」「ダッフルコート欲しい」",
    "source": "オトナンサー",
-   "image": "",
+   "image": "https://otonanswer.jp/wp-content/uploads/2027/09/20260917uniqlo001.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-17T10:04:18+00:00",
@@ -319,7 +319,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "243a9410d50bb0e5",
@@ -338,6 +338,22 @@
    "detail_tries": 2
   },
   {
+   "id": "76dcfc37d1f47467",
+   "url": "https://www.parisselectbook.com/en/2026/09/17/uniqlo-u-iconic-pieces-under-100",
+   "title_original": "Uniqlo U bows out with 24 iconic pieces, almost all under €100",
+   "source": "Paris Select Book",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-17T09:24:25+00:00",
+   "title_ja": "Uniqlo Uがほぼ100ユーロ未満の24アイテムを展開",
+   "summary_ja": "ユニクロのコレクション「Uniqlo U」から、象徴的な24個のアイテムが登場しました。展開される商品のほぼすべてが100ユーロ未満の価格設定となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "84b9613e43436fae",
    "url": "https://senken.co.jp/posts/uniqlo-260917",
    "title_original": "ユニクロ、オーダースーツを購入客に直送 最短5日で手元に",
@@ -352,6 +368,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "a244cb566e6f034d",
+   "url": "https://news.shoninsha.co.jp/merchandising/318861",
+   "title_original": "ユニクロnews｜｢カスタムオーダースーツ｣工場から直送開始/最短5日で納品",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-17T07:04:14+00:00",
+   "title_ja": "ユニクロ、カスタムオーダースーツを工場直送し最短5日で納品へ",
+   "summary_ja": "ユニクロは、カスタムオーダースーツの配送体制を強化し、工場から顧客へ直接配送する取り組みを開始した。これにより納期が短縮され、注文から最短5日での納品が可能となる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "6e6ef7d93ff4ae38",
@@ -384,6 +416,22 @@
    "brand": "GU",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "94650bb90cf3acae",
+   "url": "https://www.mylifenews.net/fashion-style/128782",
+   "title_original": "ユニクロ、気温変化に寄り添う今年秋冬シーズンに向け「カジュアルアウター」コレクションを販売",
+   "source": "マイライフニュース",
+   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20260917_uniq00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-17T04:12:25+00:00",
+   "title_ja": "ユニクロが気温変化に対応する秋冬「カジュアルアウター」コレクションを販売",
+   "summary_ja": "ユニクロは、気温の変化に対応しやすい今年秋冬シーズンに向けた「カジュアルアウター」コレクションを発売します。多様な気候に合わせて快適に過ごせるアウターを展開し、秋冬の着こなしを提案します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "71ea9aca416c1095",
@@ -976,6 +1024,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "90f74636b7b88b52",
+   "url": "https://www.nikkei.com/article/DGXZQOUC155Z10V10C26A9000000",
+   "title_original": "GU、韓国出身デザイナー「ロク」とコラボ 10月5日から",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3600436015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5bcbb2d18d1dc71c6df18186823fd2d7",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-15T07:14:00+00:00",
+   "title_ja": "GU、韓国出身デザイナー「ロク」とのコラボコレクションを10月5日発売",
+   "summary_ja": "GUは韓国出身のデザイナー「ロク（rokh）」とのコラボレーションを発表しました。注目を集める新コレクションは10月5日より発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "d5c784f4c00c77fa",
@@ -6576,70 +6640,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "6000ce8a1f9aba14",
-   "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/uniqlos-reduced-24-packable-parka-34534842.amp",
-   "title_original": "Uniqlo's reduced £24 'packable parka' is perfect for rainy weather",
-   "source": "Liverpool Echo",
-   "image": "https://i2-prod.glasgowlive.co.uk/whats-on/shopping/article34411181.ece/ALTERNATES/s1200/1_GettyImages-458709201.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T17:30:00+00:00",
-   "title_ja": "英メディアが紹介するユニクロの値下げパッカブルパーカ",
-   "summary_ja": "イギリスの現地メディアが、24ポンドに値下げされたユニクロのパッカブルパーカを紹介。小さく折りたたんで持ち運ぶことができ、雨の日の外出や天候の変化に対応しやすいアイテムとして注目されている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "69a191350cb5b4ee",
-   "url": "https://pokde.net/lifestyle/shopping/uniqlo-lifewear-magazine-issue-15",
-   "title_original": "UNIQLO Launches LifeWear Magazine Issue 15 With Modern City Feelings Theme",
-   "source": "Pokde.Net",
-   "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/01000610/uniqlolifewearmagn15cover.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-08-29T11:58:00+00:00",
-   "title_ja": "ユニクロが『LifeWear magazine』第15号を発行、「モダンな都市」がテーマ",
-   "summary_ja": "ユニクロが自社発行誌『LifeWear magazine』の第15号を発刊しました。今号は「モダンな都市の空気感」をテーマに掲げ、現代の都市生活に馴染むスタイリングやライフスタイルを提案しています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d70af7bb800fdf93",
-   "url": "https://spur.hpplus.jp/fashion/news/2026-08-29-bylXtg",
-   "title_original": "【ユニクロ ユー】2026年秋冬コレクション〈全アイテム掲載〉。第1章の集大成！日常で活躍できるアウターやニットが登場",
-   "source": "SPUR（シュプール）",
-   "image": "https://img-spur.hpplus.jp/image/75/7526bad8-d2c3-4a95-8016-788eb56a8669-4781x2510.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-29T08:00:00+00:00",
-   "title_ja": "ユニクロ ユーの2026年秋冬コレクションが公開　アウターやニットなど登場",
-   "summary_ja": "ユニクロ ユーの2026年秋冬コレクション全アイテムが発表されました。日常の装いで活躍するアウターやニットなどが登場し、第1章の集大成となるラインナップが披露されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b09ca2173cc02b64",
-   "url": "https://mainichi.jp/graphs/20260829/hpj/00m/050/005000g",
-   "title_original": "U12・U14シングルス準決勝を写真で見る ユニクロ全日本ジュニアテニス2026 [写真特集1/32]",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/08/29/20260829hpj00m050132000q/0c10.jpg?1",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-08-29T03:00:00+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス2026のU12・U14準決勝写真特集",
-   "summary_ja": "ユニクロ全日本ジュニアテニス2026における、12歳以下および14歳以下の男女シングルス準決勝の模様を伝える写真特集。若手選手たちが繰り広げた熱戦の様子を多数の写真とともに掲載している。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }
