@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T19:51:21.964882+09:00",
+ "updated_at": "2026-09-19T19:56:37.667741+09:00",
  "criteria": {
   "title": "BuZZの判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -23,8 +23,33 @@
  "count": 44,
  "items": [
   {
-   "key": "UQ:E488298-000",
+   "key": "UQ:E488459-000",
    "rank": 1,
+   "brand": "ユニクロ",
+   "name": "フーデッドロングコート",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 9990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488459/item/jpgoods_33_488459_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488459-000/00?colorDisplayCode=33",
+   "rating": 4.5,
+   "reviews": 81,
+   "reviews7": 53,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 122,
+   "momentum": 2.31,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488298-000",
+   "rank": 2,
    "brand": "ユニクロ",
    "name": "フーデッドリブT",
    "genders": [
@@ -54,7 +79,7 @@
   },
   {
    "key": "UQ:E489108-000",
-   "rank": 2,
+   "rank": 3,
    "brand": "ユニクロ",
    "name": "ジャージーテーラードジャケット",
    "genders": [
@@ -79,7 +104,7 @@
   },
   {
    "key": "UQ:E488801-000",
-   "rank": 3,
+   "rank": 4,
    "brand": "ユニクロ",
    "name": "ドレープシャツ",
    "genders": [
@@ -104,7 +129,7 @@
   },
   {
    "key": "UQ:E475344-000",
-   "rank": 4,
+   "rank": 5,
    "brand": "ユニクロ",
    "name": "ジャージーバレルレッグパンツ",
    "genders": [
@@ -129,7 +154,7 @@
   },
   {
    "key": "UQ:E465185-000",
-   "rank": 5,
+   "rank": 6,
    "brand": "ユニクロ",
    "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
    "genders": [
@@ -154,7 +179,7 @@
   },
   {
    "key": "GU:E362202-000",
-   "rank": 6,
+   "rank": 7,
    "brand": "GU",
    "name": "シアードットT(長袖) PF",
    "genders": [
@@ -178,7 +203,7 @@
   },
   {
    "key": "UQ:E492123-000",
-   "rank": 7,
+   "rank": 8,
    "brand": "ユニクロ",
    "name": "デニムリラックスシャツジャケット",
    "genders": [
@@ -203,7 +228,7 @@
   },
   {
    "key": "UQ:E447780-000",
-   "rank": 8,
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "感動パンツ",
    "genders": [
@@ -227,7 +252,7 @@
   },
   {
    "key": "UQ:E488773-000",
-   "rank": 9,
+   "rank": 10,
    "brand": "ユニクロ",
    "name": "モッズコート",
    "genders": [
@@ -252,7 +277,7 @@
   },
   {
    "key": "UQ:E487883-000",
-   "rank": 10,
+   "rank": 11,
    "brand": "ユニクロ",
    "name": "コーティングブルゾン",
    "genders": [
@@ -282,7 +307,7 @@
   },
   {
    "key": "UQ:E491700-000",
-   "rank": 11,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "エアリズム3Dマスク/2枚組",
    "genders": [
@@ -308,7 +333,7 @@
   },
   {
    "key": "GU:E361376-000",
-   "rank": 12,
+   "rank": 13,
    "brand": "GU",
    "name": "ファインゲージニットカーディガン MN",
    "genders": [
@@ -332,7 +357,7 @@
   },
   {
    "key": "UQ:E491087-000",
-   "rank": 13,
+   "rank": 14,
    "brand": "ユニクロ",
    "name": "タックバレルレッグパンツ",
    "genders": [
@@ -356,7 +381,7 @@
   },
   {
    "key": "UQ:E422992-000",
-   "rank": 14,
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "クルーネックTシャツ",
    "genders": [
@@ -381,7 +406,7 @@
   },
   {
    "key": "UQ:E488743-000",
-   "rank": 15,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "バレルジーンズ",
    "genders": [
@@ -412,7 +437,7 @@
   },
   {
    "key": "UQ:E479000-000",
-   "rank": 16,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "バギーバレルレッグジーンズ",
    "genders": [
@@ -432,31 +457,6 @@
    "mention_titles": [],
    "score": 48,
    "momentum": 1.03,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E474481-000",
-   "rank": 17,
-   "brand": "ユニクロ",
-   "name": "ウルトラストレッチアクティブワイドパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1990,
-   "promo": 1990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474481/item/jpgoods_08_474481_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E474481-000/00?colorDisplayCode=08",
-   "rating": 4.4,
-   "reviews": 5644,
-   "reviews7": 47,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 48,
-   "momentum": 1.02,
    "new": false,
    "rising": false
   },
