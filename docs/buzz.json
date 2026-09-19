@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T19:56:37.667741+09:00",
+ "updated_at": "2026-09-20T00:03:56.174100+09:00",
  "criteria": {
   "title": "BuZZの判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -18,32 +18,32 @@
   "キッズ"
  ],
  "history_since": "2026-09-19",
- "history_days": 2,
- "catalog_size": 3025,
+ "history_days": 4,
+ "catalog_size": 3012,
  "count": 44,
  "items": [
   {
-   "key": "UQ:E488459-000",
+   "key": "UQ:E488141-000",
    "rank": 1,
    "brand": "ユニクロ",
-   "name": "フーデッドロングコート",
+   "name": "コーテッドコットンショルダーバッグ",
    "genders": [
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 9990,
+   "price": 2990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488459/item/jpgoods_33_488459_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488459-000/00?colorDisplayCode=33",
-   "rating": 4.5,
-   "reviews": 81,
-   "reviews7": 53,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488141/item/goods_06_488141_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488141-000/00?colorDisplayCode=39",
+   "rating": 4.4,
+   "reviews": 88,
+   "reviews7": 63,
    "capped": false,
    "prev7": null,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 122,
-   "momentum": 2.31,
+   "score": 153,
+   "momentum": 2.43,
    "new": false,
    "rising": false
   },
@@ -332,8 +332,32 @@
    "rising": false
   },
   {
-   "key": "GU:E361376-000",
+   "key": "UQ:E488288-000",
    "rank": 13,
+   "brand": "ユニクロ",
+   "name": "ミニケーブルクルーネックカーディガン",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488288/item/jpgoods_17_488288_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488288-000/00?colorDisplayCode=17",
+   "rating": 4.5,
+   "reviews": 82,
+   "reviews7": 32,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 57,
+   "momentum": 1.78,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E361376-000",
+   "rank": 14,
    "brand": "GU",
    "name": "ファインゲージニットカーディガン MN",
    "genders": [
@@ -356,32 +380,44 @@
    "rising": false
   },
   {
-   "key": "UQ:E491087-000",
-   "rank": 14,
+   "key": "UQ:E488743-000",
+   "rank": 15,
    "brand": "ユニクロ",
-   "name": "タックバレルレッグパンツ",
+   "name": "バレルジーンズ",
    "genders": [
-    "ウィメンズ"
+    "ウィメンズ",
+    "メンズ"
    ],
    "price": 4990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/491087/item/jpgoods_38_491087_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E491087-000/00?colorDisplayCode=38",
-   "rating": 4.4,
-   "reviews": 35,
-   "reviews7": 23,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488743/item/jpgoods_09_488743_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488743-000/00?colorDisplayCode=09",
+   "rating": 4.5,
+   "reviews": 168,
+   "reviews7": 32,
    "capped": false,
    "prev7": null,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 53,
-   "momentum": 2.31,
-   "new": true,
+   "mentions7": 2,
+   "mention_titles": [
+    {
+     "t": "「ユニクロ」のコラボじゃないほうで優秀ジーンズを発見！[UNIQLO EZYバレルジーンズ]【新作デニム図鑑_2026AW】",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/2ebf63117d399b54244b78f47c36fcf02ed5bab8"
+    },
+    {
+     "t": "[Gallery]「ユニクロ」のコラボじゃないほうで、優秀ジーンズを発見！[UNIQLO EZYバレルジーンズ]【新作デニム図鑑_2026AW】",
+     "s": "MEN'S NON-NO WEB",
+     "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGb3B4V3B1eXJZem1Fa0JkT0RxejBKb3cwNDVkRElSaThFNFlfSlNkcTgtYmNDdThFZEdqRmFieW9wM0U3c1JfZnRUaEN6ZC00WG5YcF9rdGt6VkVvcG1yOA?oc=5"
+    }
+   ],
+   "score": 54,
+   "momentum": 1.38,
+   "new": false,
    "rising": false
   },
   {
    "key": "UQ:E422992-000",
-   "rank": 15,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "クルーネックTシャツ",
    "genders": [
@@ -401,37 +437,6 @@
    "mention_titles": [],
    "score": 49,
    "momentum": 1.01,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E488743-000",
-   "rank": 16,
-   "brand": "ユニクロ",
-   "name": "バレルジーンズ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488743/item/jpgoods_09_488743_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488743-000/00?colorDisplayCode=09",
-   "rating": 4.5,
-   "reviews": 168,
-   "reviews7": 32,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "[Gallery]「ユニクロ」のコラボじゃないほうで、優秀ジーンズを発見！[UNIQLO EZYバレルジーンズ]【新作デニム図鑑_2026AW】",
-     "s": "MEN'S NON-NO WEB",
-     "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGb3B4V3B1eXJZem1Fa0JkT0RxejBKb3cwNDVkRElSaThFNFlfSlNkcTgtYmNDdThFZEdqRmFieW9wM0U3c1JfZnRUaEN6ZC00WG5YcF9rdGt6VkVvcG1yOA?oc=5"
-    }
-   ],
-   "score": 49,
-   "momentum": 1.38,
    "new": false,
    "rising": false
   },
@@ -509,8 +514,32 @@
    "rising": false
   },
   {
-   "key": "GU:E356410-000",
+   "key": "GU:E361196-000",
    "rank": 20,
+   "brand": "GU",
+   "name": "ストラップバレエパンプス MN",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 2990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesgoods/361196/item/goods_18_361196_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E361196-000/00?colorDisplayCode=18",
+   "rating": 3.8,
+   "reviews": 92,
+   "reviews7": 25,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 38,
+   "momentum": 1.54,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E356410-000",
+   "rank": 21,
    "brand": "GU",
    "name": "ドライウエストタックT",
    "genders": [
@@ -534,7 +563,7 @@
   },
   {
    "key": "GU:E360647-000",
-   "rank": 21,
+   "rank": 22,
    "brand": "GU",
    "name": "3Dバレルジーンズ UL",
    "genders": [
@@ -559,7 +588,7 @@
   },
   {
    "key": "GU:E361181-000",
-   "rank": 22,
+   "rank": 23,
    "brand": "GU",
    "name": "ソフトシアーカーディガン",
    "genders": [
@@ -583,7 +612,7 @@
   },
   {
    "key": "GU:E356276-000",
-   "rank": 23,
+   "rank": 24,
    "brand": "GU",
    "name": "コットンスムースクルーネックT",
    "genders": [
@@ -607,7 +636,7 @@
   },
   {
    "key": "GU:E358176-000",
-   "rank": 24,
+   "rank": 25,
    "brand": "GU",
    "name": "ソフトシアークルーネックT(長袖)PF",
    "genders": [
@@ -631,7 +660,7 @@
   },
   {
    "key": "GU:E358737-000",
-   "rank": 25,
+   "rank": 26,
    "brand": "GU",
    "name": "ドレープフレアシャツ(半袖)",
    "genders": [
@@ -655,7 +684,7 @@
   },
   {
    "key": "GU:E359459-000",
-   "rank": 26,
+   "rank": 27,
    "brand": "GU",
    "name": "バレルアンクルパンツ",
    "genders": [
@@ -674,30 +703,6 @@
    "mention_titles": [],
    "score": 25,
    "momentum": 1.04,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "GU:E360325-000",
-   "rank": 27,
-   "brand": "GU",
-   "name": "ブラフィールリブタンクトップ(A)",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 1490,
-   "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360325/item/jpgoods_01_360325_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E360325-000/00?colorDisplayCode=01",
-   "rating": 4.3,
-   "reviews": 890,
-   "reviews7": 24,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 25,
-   "momentum": 1.05,
    "new": false,
    "rising": false
   },

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T19:55:05.836137+09:00",
+ "updated_at": "2026-09-19T23:59:04.525415+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -29,6 +29,7 @@
   "British Vogue",
   "BusinessMirror",
   "BusinessWorld - BusinessWorld Online",
+  "BusinessWorld Online",
   "BuzzFeed",
   "CINEMA Life! シネマライフ",
   "Chain Store Age",
@@ -72,7 +73,6 @@
   "MEN'S NON-NO WEB",
   "Magzter",
   "Manila Standard",
-  "Mantan Web",
   "MarkeZine",
   "Modaes",
   "MokokchungTimes.com",
@@ -93,7 +93,7 @@
   "Paris Select Book",
   "Passionate In Marketing",
   "Philstar.com",
-  "Retail Insight Network",
+  "QAB 琉球朝日放送",
   "Retail News Asia",
   "SFGATE",
   "SFist",
@@ -135,12 +135,11 @@
   "asahi.com",
   "baila.hpplus.jp",
   "biz-journal.jp",
-  "bleague.jp",
-  "chiba-tv.com",
   "fashion-press.net",
   "fashionsnap.com",
   "fashionunited.uk",
   "fastretailing.com",
+  "formula-web.jp",
   "fuelcarmagazine",
   "gata21.jp",
   "glossy.co",
@@ -166,6 +165,7 @@
   "qab.co.jp",
   "realsound.jp",
   "rikujyokyogi.co.jp",
+  "sanyonews.jp",
   "selecta bisso",
   "simplywall.st",
   "smartmag.jp",
@@ -237,55 +237,105 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 246,
  "digest": {
-  "headline": "ユニクロとGUの新作コラボ続々、カスタムオーダースーツのダイレクト配送も開始",
+  "headline": "ファストリ業績動向、ユニクロ・GU新作コラボや海外出店が話題",
   "points": [
    {
-    "text": "ファーストリテイリングの株価は堅調な2026年度通期業績の発表を受けて目標価格付近を維持し、柳井正氏が経営の本質について語った。",
+    "text": "ファーストリテイリングは堅調な業績を受け株価が目標付近を維持し、柳井会長は鈴木敏文氏のお別れの会に参列した。",
     "ids": [
      "372de5a7611de32a",
-     "a7b08c1a34ef5677"
+     "b269963f923a45c5"
     ]
    },
    {
-    "text": "ユニクロはKAWSとの新作コラボ「KAWS UNIVERSE」や、カシミヤやコーデュロイを使用した「UNIQLO : C」の秋冬コレクションを発表した。",
+    "text": "ユニクロがKAWSとの新作コラボを発表したほか、UNIQLO : Cの秋冬コレクション発売が決定した。",
     "ids": [
      "3ddaad89b0f456cf",
-     "e365af55c337a0f2"
+     "eba285c1a7dce742"
     ]
    },
    {
-    "text": "ユニクロは約700店舗で行うカスタムオーダースーツのダイレクト配送を開始し、注文から最短5日での工場直送が可能になった。",
+    "text": "ユニクロはオーダースーツの工場直送を開始したほか、英ブライトン出店や米サンフランシスコでの再オープンを進める。",
     "ids": [
-     "931880b9c6b6d716"
+     "931880b9c6b6d716",
+     "ee2d643d98aa1e68",
+     "b76cef3738a16e0a"
     ]
    },
    {
-    "text": "GUは人気キャラクター「ちいかわ」とのコラボレーションによる防寒アイテムや、ファッションブランド「rokh」との最新作を発表した。",
+    "text": "GUはちいかわとの秋冬コラボ商品やrokhとの最新作の発売を発表した。",
     "ids": [
-     "f3b950a55a3912ed",
+     "2517f9817128c509",
      "b213239619d11fea"
     ]
    },
    {
-    "text": "いま話題のユニクロ「ジャージーバレルレッグパンツ」は、レビューが7日で100件増えました。",
+    "text": "話題の商品では、ジャージーバレルレッグパンツのレビューが直近7日で100件増えた。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-16T19:56:37.671417+09:00",
-  "generated_at": "2026-09-19T19:56:39.754479+09:00",
+  "from": "2026-09-17T00:03:56.177749+09:00",
+  "generated_at": "2026-09-20T00:04:14.842547+09:00",
   "article_count": 24,
-  "sig": "fa65926ca60b"
+  "sig": "eb5a855e628c"
  },
  "items": [
+  {
+   "id": "8ad434fd3181efcc",
+   "url": "https://www.chiba-tv.com/plus/detail/2026092026728",
+   "title_original": "2990円→1990円でお得なの！ユニクロの『1週間限定セール商品』3選。キムタクが着用したデニムも、1000円オフで買えちゃう！",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1474022070524119026/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T12:38:00+00:00",
+   "title_ja": "ユニクロが1週間限定セールを実施、対象のデニムなどが1000円引きに",
+   "summary_ja": "ユニクロが1週間限定のセールを実施し、対象商品が通常価格から1000円引きの1990円で販売されています。著名人が着用したことで話題となったデニムなど、注目のアイテムがお得な価格で提供されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "9a3e3bfeb0e437f0",
+   "url": "https://www.buzzfeed.com/jp/buzzfeedjapanlife/uniqlo-saleitem-918",
+   "title_original": "ユニクロの「期間限定セールアイテム」3選！「EZYジーンズ」は伸縮性ばつぐんで、はき心地がいいんです！",
+   "source": "BuzzFeed",
+   "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/18/01/thumb/OCOKtqdh1.jpg?crop=1412:941;646,548&resize=1250:830",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T12:01:02+00:00",
+   "title_ja": "ユニクロの期間限定セールから、伸縮性に優れた「EZYジーンズ」などを紹介",
+   "summary_ja": "ユニクロで実施されている期間限定セールの対象商品を紹介しています。高い伸縮性と快適な履き心地が特徴の「EZYジーンズ」をはじめ、今お得に購入できるおすすめのセールアイテム3選が取り上げられています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4eb497427f0cf25b",
+   "url": "http://www.formula-web.jp/f1news/38530.html",
+   "title_original": "海外ユニクロ、日本未発売の「ディズニー F1 Tシャツ」好評発売中",
+   "source": "formula-web.jp",
+   "image": "http://www.formula-web.jp/archives/002/202609/large-35df82e1f0f64ad3736012bc063baab8.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T11:44:58+00:00",
+   "title_ja": "海外のユニクロで日本未発売の「ディズニー F1 Tシャツ」が販売中",
+   "summary_ja": "海外のユニクロにおいて、ディズニーとF1がコラボレーションしたTシャツが販売されています。日本国内では未発売の限定デザインとなっており、海外の店頭で好評を博していることが報じられています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "372de5a7611de32a",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-holds-near-analysts-targets-after-solid-fy-2026/70131038",
    "title_original": "Fast Retailing stock holds near analysts’ targets after solid FY 2026 figures",
    "source": "AD HOC NEWS",
-   "image": "",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405034_1920_1080.webp",
    "lang": "en",
    "region": "global",
    "published": "2026-09-19T10:31:10+00:00",
@@ -345,6 +395,22 @@
    "detail_tries": 2
   },
   {
+   "id": "3896c44c502de763",
+   "url": "https://news.yahoo.co.jp/articles/deb4db5d1f70f2caff9c7b634457c96d2050e3c1/images/000",
+   "title_original": "【ユニクロ ユー】オンオフ映える美脚デニムを着回し！いよいよ新作が発売｜CLASSY. (magacol)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgBsRVA0XTKlP0d4f3lw6zCB6g6I7Fq7CwUFusd7FgK5v3IylA9ZFrZZFSuGI-NpeS8RPvnRdwfnkUHA4Re1VsEVh4wH13SiOV5xu2c9IcSps-NKAWv7lgyb_cFDLK1mmmw==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T07:00:50+00:00",
+   "title_ja": "ユニクロ ユーの美脚デニム新作がいよいよ発売",
+   "summary_ja": "オンオフ問わず活躍するユニクロ ユーの美脚デニムの着回し術と、新作アイテムの発売情報を伝えています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "3ddaad89b0f456cf",
    "url": "https://monomax.jp/archives/362815",
    "title_original": "【ユニクロ×KAWS】新作「KAWS UNIVERSE」が発売！初登場の限定チャームからスエードパフ仕様のUTまで完売必至の全16アイテムを一挙紹介",
@@ -359,6 +425,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "6b723b2acc14a1a6",
+   "url": "https://www.sanyonews.jp/article/1869126?kw=4",
+   "title_original": "【きょうから】ユニクロ、英デザイナーの春夏コレクション2・6発売 「都会的な洗練さ」アクセサリーが充実",
+   "source": "sanyonews.jp",
+   "image": "https://static.sanyonews.jp/image/article/size1/c/7/b/1/c7b1918a4e4241e868d8d8767dc4bc3c_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T05:14:09+00:00",
+   "title_ja": "ユニクロ、英デザイナーとの春夏コレクションを発売",
+   "summary_ja": "ユニクロはイギリス人デザイナーによる春夏コレクションを発売します。都会的な洗練されたデザインに加え、充実したアクセサリー類も展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "8cd25768a5577175",
@@ -455,6 +537,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "eb8355878c805d49",
+   "url": "https://bworldonline.com/uniqlo-core-t-collection",
+   "title_original": "UNIQLO-Core-T-Collection",
+   "source": "BusinessWorld Online",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-18T22:16:22+00:00",
+   "title_ja": "ユニクロのTシャツコレクションについて",
+   "summary_ja": "ユニクロが展開するコアなTシャツコレクションに関する記事です。定番商品の魅力や特徴について伝えています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "c8b15f994f731bc2",
@@ -601,6 +699,22 @@
    "detail_tries": 2
   },
   {
+   "id": "b269963f923a45c5",
+   "url": "https://www.qab.co.jp/quebee/video/000534355",
+   "title_original": "「コンビニの父」セブン鈴木敏文氏お別れの会 ユニクロ柳井氏「先生以上の存在」｜Quebee キュエビー",
+   "source": "QAB 琉球朝日放送",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-18T07:36:42+00:00",
+   "title_ja": "ファストリ柳井氏が鈴木敏文氏お別れの会で「先生以上の存在」と偲ぶ",
+   "summary_ja": "セブン＆アイ・ホールディングス名誉顧問の鈴木敏文氏のお別れの会が営まれ、ファーストリテイリングの柳井正会長兼社長が参列しました。",
+   "category": "その他",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "7a382418d0291f5d",
    "url": "https://news.tv-asahi.co.jp/news_economy/articles/000534355.html",
    "title_original": "「コンビニの父」セブン鈴木敏文氏お別れの会 ユニクロ柳井氏「先生以上の存在」",
@@ -711,6 +825,22 @@
    "brand": "グループ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "6409f4ee9e3290a2",
+   "url": "https://news.yahoo.co.jp/articles/8f9083c4042988b52f107ba1a4512924c52ac303",
+   "title_original": "セブン鈴木敏文氏のお別れ会 ファストリ柳井氏「流通の常識を根底から変えた」（TBS NEWS DIG Powered by JNN）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-07327521-jnn-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-18T05:33:24+00:00",
+   "title_ja": "ファストリ柳井氏、鈴木敏文氏お別れ会で「流通の常識を根底から変えた」",
+   "summary_ja": "セブン鈴木敏文氏のお別れの会が開かれ、ファーストリテイリングの柳井氏が参列して故人の功績を称え、その影響力の大きさを語りました。",
+   "category": "その他",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "a2fa27584a5abfef",
@@ -967,6 +1097,38 @@
    "brand": "グループ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "7d66be80995d7272",
+   "url": "https://news.livedoor.com/article/image_detail/32355511/?img_id=56457064",
+   "title_original": "【画像】「コンビニの神様」が与えた影響…ファーストリテイリング・柳井正氏が回想 1/3",
+   "source": "news.livedoor.com",
+   "image": "https://image.news.livedoor.com/newsimage/stf/8/7/8784b_1238_938ce39d556330795c4ddd3c99a4bc33.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-17T21:15:00+00:00",
+   "title_ja": "ファーストリテイリング柳井氏が影響を受けた存在を回想",
+   "summary_ja": "ファーストリテイリングの柳井正氏が、「コンビニの神様」から受けた影響について振り返り、当時のエピソードを語っています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "38dd4df553d39aa6",
+   "url": "https://news.livedoor.com/topics/detail/32355511",
+   "title_original": "「コンビニの神様」が与えた影響…ファーストリテイリング・柳井正氏が回想 (2026年9月18日掲載)",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-17T21:15:00+00:00",
+   "title_ja": "柳井正氏が回想、「コンビニの神様」が与えた大きな影響",
+   "summary_ja": "ファーストリテイリングの柳井正会長が、流通業界に多大な影響を与えた「コンビニの神様」との思い出や、自身が受けた影響について振り返った。経営者としての歩みにおける重要な出会いや教訓を語っている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e2e9685b5aa5ad8d",
@@ -6518,166 +6680,6 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "661e17d622e6aeaf",
-   "url": "https://mantan-web.jp/prtimes/article/20260902prt00m200000837a.html",
-   "title_original": "「UNIQLO LifeWear Day Tokyo 2026 with Kei Nishikori」2026年10月11日（日）に有明コロシアムで開催",
-   "source": "Mantan Web",
-   "image": "https://prtimes.jp/img/68741/153/resize/d68741-153-ba1c4a0e1af468b5b6fb-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T00:00:00+00:00",
-   "title_ja": "ユニクロが錦織圭選手とのイベントを10月に有明で開催予定",
-   "summary_ja": "ユニクロは2026年10月11日に有明コロシアムにて、錦織圭選手を招いたイベント「UNIQLO LifeWear Day Tokyo 2026 with Kei Nishikori」を開催することを発表しました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0b0b3c9bd53f5d41",
-   "url": "https://www.asahi.com/articles/ASV914466V91UTQP01CM.html",
-   "title_original": "ユニクロがBリーグに「参戦」 地域密着のファン層に見いだす商機",
-   "source": "朝日新聞",
-   "image": "https://imgopt.asahi.com/ogp/AS20260901004621_comm.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T21:30:00+00:00",
-   "title_ja": "ユニクロがプロバスケ「Bリーグ」に参入へ、地域密着のファン層に商機",
-   "summary_ja": "ユニクロがプロバスケットボール「Bリーグ」に関連した取り組みを開始することが報じられました。地域に密着した熱心なファン層に注目し、新たな顧客層の開拓や地域社会への貢献を目指す狙いがあるとみられます。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e5e54f1426a7c194",
-   "url": "https://www.vietnam.vn/ja/loi-tam-biet-cua-lemaire-va-sarah-linh-tran",
-   "title_original": "ルメールとサラ＝リン・トランからの別れのメッセージ",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/01/1788273124191_112-jpg.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T14:30:43.109000+00:00",
-   "title_ja": "クリストフ・ルメールとサラ＝リン・トランによるメッセージ公開",
-   "summary_ja": "ファッションブランド「ルメール」を手掛けるクリストフ・ルメールとサラ＝リン・トランからのメッセージが公開されました。ユニクロの「Uniqlo U」も手掛ける両氏の今後の動向に関心が集まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bcaf6510aa879446",
-   "url": "https://topics.smt.docomo.ne.jp/article/mainichi/sports/mainichi-20260901k0000m050099000c?page=1",
-   "title_original": "U12、U14シングルスで王者決まる ユニクロ全日本ジュニアテニス",
-   "source": "topics.smt.docomo.ne.jp",
-   "image": "https://img.topics.smt.news.goo.ne.jp/picture/mainichi/m_mainichi-20260901k0000m050099000c.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T13:00:07+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス、U12・U14の王者決定",
-   "summary_ja": "ユニクロが特別協賛する全日本ジュニアテニス選手権において、U12およびU14のシングルス部門でそれぞれの王者が決定しました。国内の若手トップジュニアたちが熱戦を繰り広げました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "81f1a484c7f46fa6",
-   "url": "https://www.buzzfeed.com/jp/buzzfeedjapanlife/gu-sweatshirt-t-shirt-photo",
-   "title_original": "GUの「スウェT」が990円に値下げ！着用レビューを公開します！",
-   "source": "BuzzFeed",
-   "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/26/06/thumb/gKQbVZBKV.jpg?crop=1216:811;0,1&resize=1250:830",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T12:00:02+00:00",
-   "title_ja": "GUの「スウェT」が990円に値下げ、着用レビューが公開",
-   "summary_ja": "GU（ジーユー）の人気アイテム「スウェT」が990円に値下げされたことを受け、実際の着用感やコーディネートのレビューを紹介しています。お得に購入できる機会に合わせた商品の魅力や着こなしのポイントを解説する内容です。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a1e824806fa3532e",
-   "url": "https://www.bleague.jp/news_detail/id=620721",
-   "title_original": "株式会社ユニクロのB.LEAGUEパートナー就任のお知らせ",
-   "source": "bleague.jp",
-   "image": "https://www.bleague.jp/files/user/img/ogp_blg.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T11:31:54+00:00",
-   "title_ja": "ユニクロがプロバスケットボール「B.LEAGUE」のパートナーに就任",
-   "summary_ja": "ユニクロがプロバスケットボールリーグ「B.LEAGUE」のパートナーに就任したことが発表されました。地域社会への貢献やスポーツの振興を目指し、パートナーとしてリーグの活動をサポートしていきます。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1d917be665f52d70",
-   "url": "https://news.yahoo.co.jp/articles/e09f09e6d4fac24e4374138f7e9f98fe9e0afb15",
-   "title_original": "【Bリーグ】ユニクロとパートーナシップ契約 島田チェアマン「地域の皆さんが喜ぶ世界観を」（スポニチアネックス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00000274-spnannex-000-6-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T10:46:20+00:00",
-   "title_ja": "ユニクロがBリーグとパートナー契約締結、島田チェアマンも期待寄せる",
-   "summary_ja": "ユニクロがプロバスケットボールのBリーグとパートナーシップ契約を締結しました。Bリーグの島田チェアマンは、地域の人々に喜んでもらえるような取り組みを共に展開していくことへの期待を語っています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "dc12d7a0fa48f4d6",
-   "url": "https://www.chiba-tv.com/plus/detail/2026091965293",
-   "title_original": "ユニクロがB.LEAGUEとパートナーシップ契約を締結！「地域密着」で共鳴、初のバスケユニフォーム提供も",
-   "source": "chiba-tv.com",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1467468379116242235/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T10:35:28+00:00",
-   "title_ja": "ユニクロがBリーグとパートナー契約、初のバスケユニフォーム提供へ",
-   "summary_ja": "ユニクロがプロバスケットボール「B.LEAGUE」とパートナーシップ契約を締結しました。「地域密着」をテーマに掲げ、ユニクロとしては初となるバスケットボール用のユニフォーム提供も行う予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "dc11b1f2c9ebbc27",
-   "url": "https://www.retail-insight-network.com/news/uniqlo-double-japanese-flagship-footprint",
-   "title_original": "Uniqlo to double Japanese flagship footprint over next decade – report",
-   "source": "Retail Insight Network",
-   "image": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2026/09/shutterstock_2565565643.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-01T09:51:27+00:00",
-   "title_ja": "ユニクロが今後10年で日本国内の旗艦店規模を倍増させる計画",
-   "summary_ja": "ユニクロが今後10年間で、日本国内における旗艦店の展開規模（フットプリント）を倍増させる方針であることが報道により明らかになった。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "50a154e4128b7982",
-   "url": "https://www.fashionsnap.com/article/2026-09-01/b-league-uniqlo",
-   "title_original": "ユニクロがB.LEAGUEとのパートナーシップ契約を発表 バスケユニフォーム製作",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/dab1370f-7c07-4381-9d1c-e17536644a84.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T09:41:53+00:00",
-   "title_ja": "ユニクロ、B.LEAGUEとパートナーシップ契約",
-   "summary_ja": "ユニクロは、男子プロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。選手や審判が着用する新しいユニホームの制作を手がけます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
