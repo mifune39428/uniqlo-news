@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T23:59:04.525415+09:00",
+ "updated_at": "2026-09-20T04:44:00.265937+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -237,7 +237,7 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 246,
+ "detail_count": 245,
  "digest": {
   "headline": "ファストリ業績動向、ユニクロ・GU新作コラボや海外出店が話題",
   "points": [
@@ -296,7 +296,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9a3e3bfeb0e437f0",
@@ -312,7 +312,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4eb497427f0cf25b",
@@ -328,7 +328,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "372de5a7611de32a",
@@ -408,7 +408,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3ddaad89b0f456cf",
@@ -440,7 +440,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8cd25768a5577175",
@@ -507,6 +507,22 @@
    "has_detail": true
   },
   {
+   "id": "805c3224810867ba",
+   "url": "https://www.chiba-tv.com/plus/detail/2026092024741",
+   "title_original": "2026年秋冬！UNIQLO : C（ユニクロ：シー）の新作シューズは3型！全種レポ大公開",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1473823211560961721/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-18T23:27:49+00:00",
+   "title_ja": "2026年秋冬「UNIQLO : C」から新作シューズ3型が登場",
+   "summary_ja": "2026年秋冬コレクションの「UNIQLO : C（ユニクロ：シー）」から、新作のシューズ3型が登場しました。注目のコラボラインから登場した新しいフットウェアの魅力を、詳細なレポートとともに紹介しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "e365af55c337a0f2",
    "url": "https://smartmag.jp/archives/134442",
    "title_original": "【ユニクロ：シー】秋冬の本命服がきた！カシミヤ、コーデュロイ…“柔らかさ”を極めた新作が登場",
@@ -552,7 +568,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c8b15f994f731bc2",
@@ -712,7 +728,7 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7a382418d0291f5d",
@@ -840,7 +856,7 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a2fa27584a5abfef",
@@ -1112,7 +1128,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "38dd4df553d39aa6",
@@ -1128,7 +1144,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e2e9685b5aa5ad8d",
@@ -6664,22 +6680,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f392a9018f264478",
-   "url": "https://baila.hpplus.jp/fashion/bag-shoes-sneakers/82641",
-   "title_original": "【UNIQLO（ユニクロ）】世界全店で「LifeWear Week」を開催中！ 秋冬コレクションの世界観を楽しんで",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/ba/ba61626d-4111-4ecc-9378-fa34dc97d5fb-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T00:00:00+00:00",
-   "title_ja": "ユニクロが世界全店で「LifeWear Week」を開催！秋冬の世界観を展開",
-   "summary_ja": "ユニクロが世界中の全店舗において「LifeWear Week」を開催しています。秋冬コレクションのテーマや世界観を体験できる取り組みとなっており、ブランドの魅力を体感できる機会を提供しています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
