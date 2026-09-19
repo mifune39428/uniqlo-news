@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T18:53:43.065192+09:00",
+ "updated_at": "2026-09-19T19:45:17.456941+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,6 +19,7 @@
   "7news.com.au",
   "@DIME アットダイム",
   "ABEMA",
+  "AD HOC NEWS",
   "AERA DIGITAL",
   "AMP[アンプ]",
   "Alvinology",
@@ -237,7 +238,83 @@
  ],
  "count": 400,
  "detail_count": 252,
+ "digest": {
+  "headline": "秋冬コラボや海外展開、堅調な決算など最新動向まとめ",
+  "points": [
+   {
+    "text": "ファーストリテイリングの2026年度決算が堅調で、株価は目標付近を維持しています。",
+    "ids": [
+     "372de5a7611de32a"
+    ]
+   },
+   {
+    "text": "「UNIQLO : C」の新作や「KAWS」とのコラボが発表されたほか、オーダースーツの工場直送サービスも開始されました。",
+    "ids": [
+     "eba285c1a7dce742",
+     "3ddaad89b0f456cf",
+     "931880b9c6b6d716"
+    ]
+   },
+   {
+    "text": "ジーユーは「ちいかわ」とのコラボ防寒アイテムの発売を発表したほか、「rokh」とのコラボ最新作も10月5日より発売します。",
+    "ids": [
+     "b213239619d11fea",
+     "2517f9817128c509",
+     "f3b950a55a3912ed"
+    ]
+   },
+   {
+    "text": "イギリスやサンフランシスコでの新店舗開設や営業再開、モントリオールでの旗艦店リニューアルなど海外展開も進んでいます。",
+    "ids": [
+     "ee2d643d98aa1e68",
+     "b76cef3738a16e0a",
+     "e0110473560e2676"
+    ]
+   },
+   {
+    "text": "「ユニクロ ジャージーバレルレッグパンツ」のレビューが直近7日で100件増え、注目を集めています。",
+    "ids": []
+   }
+  ],
+  "days": 3,
+  "from": "2026-09-16T19:48:49.863728+09:00",
+  "generated_at": "2026-09-19T19:49:26.707893+09:00",
+  "article_count": 24,
+  "sig": "6da1df1aee48"
+ },
  "items": [
+  {
+   "id": "372de5a7611de32a",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-holds-near-analysts-targets-after-solid-fy-2026/70131038",
+   "title_original": "Fast Retailing stock holds near analysts’ targets after solid FY 2026 figures",
+   "source": "AD HOC NEWS",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-19T10:31:10+00:00",
+   "title_ja": "ファーストリテイリング、堅調な2026年度決算を受け株価が目標付近を維持",
+   "summary_ja": "ファーストリテイリングの株価が、堅調な2026年度通期業績の発表を受けて、アナリストの目標価格に近い水準を維持しています。これまでの堅調な業績を背景に、市場関係者からも安定した評価を得ていることが示されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "cc97026866a0b0c1",
+   "url": "https://otonanswer.jp/post/394500",
+   "title_original": "「色違いで5色買いました」GUの《シアーカーディガン》が1290→990円 「洗濯してもヨレないの最高」「高見え」",
+   "source": "オトナンサー",
+   "image": "https://otonanswer.jp/wp-content/uploads/2027/09/20260918gu001.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-19T09:00:00+00:00",
+   "title_ja": "GUのシアーカーディガンが990円に値下げ、洗濯してもヨレないと好評",
+   "summary_ja": "ジーユー（GU）の「シアーカーディガン」が、1290円から990円に値下げされました。購入者からは、洗濯してもヨレにくい高い耐久性やデザイン性が評価されており、色違いで複数購入する動きも見られます。",
+   "category": "キャンペーン・セール",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "bf2802e3a6c19142",
    "url": "https://trilltrill.jp/articles/4974413",
@@ -268,7 +345,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3ddaad89b0f456cf",
@@ -963,7 +1040,7 @@
    "url": "https://news.nicovideo.jp/watch/nw19784735",
    "title_original": "スーツに、新しい選択肢。 「カスタムオーダースーツ」のダイレクト配送を開始",
    "source": "news.nicovideo.jp",
-   "image": "",
+   "image": "https://news.cdn.nimg.jp/articles/images/19784735/3a041e389e45bd9ecfdbddf2045b0ddf3cc1a52ad8a51bf729c9ceb121fd0717afa36d71014ce9f676019d895cdec3d3e0935e06c85a53f073dfe444fc5c352b",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-17T11:45:27+00:00",
@@ -2435,7 +2512,7 @@
    "url": "https://kabu-ir.com/article/521530629.html",
    "title_original": "ユニクロ、錦織圭の現役最終大会モデルを９月１８日発売、オンライン限定で２９９０円",
    "source": "kabu-ir.com",
-   "image": "",
+   "image": "https://syoukenn.up.seesaa.net/image/yunikuro11.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-13T02:00:00+00:00",
@@ -3555,7 +3632,7 @@
    "url": "https://alvinology.com/2026/09/10/kaws-and-uniqlo-reunite-for-new-kaws-universe-ut-collection",
    "title_original": "KAWS and UNIQLO Reunite for New KAWS UNIVERSE UT Collection",
    "source": "Alvinology",
-   "image": "",
+   "image": "https://alvinology.com/wp-content/uploads/2026/09/KV-KAWS-UNIVERSE_5.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-09T23:00:00+00:00",
@@ -3747,7 +3824,7 @@
    "url": "https://news.nicovideo.jp/watch/nw19754788?news_ref=watch_20_nw19715087",
    "title_original": "KAWSの新たなキャラクターとCOMPANIONが描くつながり 「KAWS UNIVERSE」UTコレクション 2026年9月14日（月）発売",
    "source": "news.nicovideo.jp",
-   "image": "",
+   "image": "https://news.cdn.nimg.jp/articles/images/19754788/e5f7fc30f56db3f857f21962a77c3281f8dd504464472f55f5fdea08d813a7b2eb05a7a6ec55434522c7dba9fbce0be787c8899004369eb0778c1ab36617969d",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-09T08:21:29+00:00",
@@ -3795,7 +3872,7 @@
    "url": "https://news.nicovideo.jp/watch/nw19754262",
    "title_original": "「Dialogues on the Future」未来への対話 11月開催",
    "source": "news.nicovideo.jp",
-   "image": "",
+   "image": "https://news.cdn.nimg.jp/articles/images/19754262/6f351c72ba132dc0e801d85be0a823db67328472aa10222107d18c095c22ecbcd38557d94e5caac2ab59f804eee15f0cf8b48719c7b0abbd892e17952135d42b",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-09T06:15:25+00:00",
@@ -3827,7 +3904,7 @@
    "url": "https://www.businessoffashion.com/news/retail/theory-appoints-james-kelly-global-ceo",
    "title_original": "Theory Appoints James Kelly Global CEO",
    "source": "The Business of Fashion",
-   "image": "",
+   "image": "https://img.businessoffashion.com/resizer/v2/AZY3U2TJL5AHRLDCBRBSPLJXA4.jpg?smart=true&auth=00535eef9718195f38391a2b92c9d896f6434581d40c633012745d047f25641a&width=1200&height=630",
    "lang": "en",
    "region": "global",
    "published": "2026-09-09T04:24:00+00:00",
@@ -4035,7 +4112,7 @@
    "url": "https://businessmirror.com.ph/2026/09/09/uniqlo-opens-stores-in-s-luzon-mindanao",
    "title_original": "Uniqlo opens stores in S. Luzon, Mindanao",
    "source": "BusinessMirror",
-   "image": "",
+   "image": "https://businessmirror.com.ph/wp-content/uploads/2024/07/BusinessMirror-KnowMore-2.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-08T16:19:55+00:00",
@@ -5139,7 +5216,7 @@
    "url": "https://news.nicovideo.jp/watch/nw19740821?news_ref=20_20",
    "title_original": "【ギンビス】「たべっ子どうぶつ」や「アスパラくん」が勢揃い！ギンビスオールスターズが『ユニクロ",
    "source": "news.nicovideo.jp",
-   "image": "",
+   "image": "https://news.cdn.nimg.jp/articles/images/19740821/efffe3a14ffc2cf555a67e800fefb8b0b663bc29e72e82eb08e722f6924bc6b21ed696396376305819e3462f088df2a90b307414b860aa2c800847b8bb4a37bf",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-04T12:48:23+00:00",
@@ -6604,38 +6681,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e7a34454a6db6ba8",
-   "url": "https://www.wwdjapan.com/articles/2485950",
-   "title_original": "「ユニクロ」が男子プロバスケ「Bリーグ」のパートナーに 選手・審判の新ユニホームを制作",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T09:36:24+00:00",
-   "title_ja": "ユニクロがBリーグとパートナー契約締結。選手・審判の新ユニホームを制作",
-   "summary_ja": "ユニクロが男子プロバスケットボールのBリーグとパートナーシップを締結しました。本連携に伴い、Bリーグの選手や審判が着用する新しいユニホームの制作を手掛けます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9b461a2a13d74780",
-   "url": "https://news.yahoo.co.jp/articles/63e59f7eb170e71b115abe16c1335beab2e0c602",
-   "title_original": "ユニクロUTme!にBリーグ全55クラブ登場 ロゴ・マスコットで自作グッズ（スポーティングニュース日本版）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00010024-sporting-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-01T09:36:19+00:00",
-   "title_ja": "ユニクロ「UTme!」にBリーグ全55クラブが登場。自作グッズの制作が可能に",
-   "summary_ja": "ユニクロのオリジナルデザイン制作サービス「UTme!」に、Bリーグ所属の全55クラブが追加されました。各クラブのロゴやマスコットを使った自作グッズの作成が楽しめます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]

@@ -137,6 +137,67 @@
   p.summary { margin: 0 0 10px; font-size: 14px; color: var(--text); opacity: .85; }
   .src { font-size: 12.5px; color: var(--accent); font-weight: 600; }
 
+  /* ここ数日のまとめ。一覧の先頭に置く。 */
+  #digest {
+    background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--accent);
+    border-radius: 12px; padding: 14px 17px 12px; margin-bottom: 14px;
+  }
+  #digest .dg-head { display: flex; align-items: baseline; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  #digest .dg-head b { color: var(--accent); font-size: 12.5px; }
+  #digest .dg-head span { margin-left: auto; white-space: nowrap; }
+  #digest h3 { font-size: 16.5px; margin: 0 0 8px; line-height: 1.45; letter-spacing: -.01em; }
+  #digest ul { margin: 0; padding-left: 19px; }
+  #digest li { font-size: 14px; margin-bottom: 6px; }
+  #digest li a { font-size: 11.5px; color: var(--accent); font-weight: 600; margin-left: 4px; white-space: nowrap; }
+  #digest .dg-note { font-size: 11px; color: var(--muted); margin: 6px 0 0; }
+  body.ui-favmode #digest { display: none !important; }
+
+  /* BuZZ（話題の商品） */
+  .bz-tabs { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin-bottom: 10px; }
+  .bz-tabs::-webkit-scrollbar { display: none; }
+  .bz-criteria {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 11px 15px; margin-bottom: 12px; font-size: 13px;
+  }
+  .bz-criteria summary { cursor: pointer; font-weight: 700; }
+  .bz-criteria .formula {
+    background: var(--chip); border-radius: 8px; padding: 8px 10px; margin: 10px 0 8px;
+    font-weight: 600; font-size: 13px;
+  }
+  .bz-criteria ul { margin: 0; padding-left: 18px; }
+  .bz-criteria li { margin-bottom: 5px; }
+  .bz-criteria .since { color: var(--muted); font-size: 11.5px; margin: 8px 0 0; }
+  .bz {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 13px 15px; margin-bottom: 11px;
+  }
+  .bz-main { display: flex; gap: 12px; align-items: flex-start; }
+  .bz-rank {
+    flex: 0 0 26px; font-size: 20px; font-weight: 800; line-height: 1.2;
+    color: var(--muted); text-align: center; padding-top: 2px;
+  }
+  .bz-rank.top { color: var(--accent); }
+  .bz-img {
+    flex: 0 0 92px; width: 92px; height: 122px; object-fit: cover;
+    border-radius: 8px; background: var(--chip); display: block;
+  }
+  .bz-body { flex: 1 1 auto; min-width: 0; }
+  .bz-body h2 { font-size: 15.5px; margin: 0 0 4px; }
+  .bz-price { font-size: 13.5px; font-weight: 700; margin-bottom: 6px; }
+  .bz-price s { color: var(--muted); font-weight: 500; margin-right: 5px; }
+  .bz-price .sale { color: var(--accent); }
+  .bz-stats { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 12px; color: var(--muted); }
+  .bz-stats b { color: var(--text); font-size: 15px; }
+  .bz-bar { height: 5px; border-radius: 3px; background: var(--chip); margin-top: 8px; overflow: hidden; }
+  .bz-bar i { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
+  .bz-flag { border-radius: 4px; padding: 1px 6px; font-weight: 700; font-size: 11px; }
+  .bz-flag.hot { background: var(--accent); color: #fff; }
+  .bz-flag.new { border: 1px solid var(--accent); color: var(--accent); }
+  .bz-news { margin: 10px 0 0 38px; padding: 8px 0 0; border-top: 1px dashed var(--line); font-size: 12px; }
+  .bz-news div { color: var(--muted); margin-bottom: 3px; }
+  .bz-news a { display: block; color: var(--text); margin-bottom: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .bz-news a span { color: var(--muted); }
+
   .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
   #more {
     display: block; width: 100%; margin-top: 8px; padding: 13px;
@@ -164,6 +225,7 @@
 </header>
 
 <main>
+  <section id="digest" hidden></section>
   <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: エアリズム、コラボ、決算）" autocomplete="off">
   <div id="list"><p class="loading">読み込み中…</p></div>
   <button id="more" hidden>もっと見る</button>
@@ -173,6 +235,8 @@
   <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
   <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
   <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
+  <p>「🔥 BuZZ」は、ユニクロ・GU公式サイトで公開されている商品のレビュー件数と、ニュース・ブログの見出しで取り上げられた回数から自動で順位を付けています。売上の順位ではありません。価格・在庫は公式サイトでご確認ください。</p>
+  <p>「ここ3日のまとめ」は、掲載した記事の見出しと要約をもとにAIが自動で作成しています。</p>
   <p>このサイトは個人が運営する非公式のニュースまとめで、株式会社ファーストリテイリングおよびユニクロとは関係ありません。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
   <p id="sources"></p>
 </footer>
@@ -181,6 +245,10 @@
 const PAGE_SIZE = 30;
 let all = [], filtered = [], shown = 0;
 let region = "all", brand = "all", category = "all", query = "";
+// BuZZ（話題の商品）は記事とは別のファイル（buzz.json）から読む。
+const BUZZ = "BUZZ";
+let buzzData = null, buzzGender = "all", criteriaOpen = false;
+let digestData = null;
 
 const fmt = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
@@ -217,6 +285,11 @@ function escapeHtml(s) {
 
 function apply() {
   const q = query.trim().toLowerCase();
+  renderDigest();
+  if (category === BUZZ) {
+    renderBuzz(q);
+    return;
+  }
   filtered = all.filter(item => {
     if (region !== "all" && item.region !== region) return false;
     if (brand !== "all" && (item.brand || "ユニクロ") !== brand) return false;
@@ -278,6 +351,112 @@ function render() {
   document.getElementById("more").hidden = shown >= filtered.length;
 }
 
+// ---- ここ数日のまとめ --------------------------------------------------
+// 絞り込みをしていない「すべて」の一覧のときだけ先頭に出す。
+function renderDigest() {
+  const box = document.getElementById("digest");
+  const d = digestData;
+  const plain = region === "all" && brand === "all" && category === "all" && !query.trim();
+  if (!d || !plain || !(d.points || []).length) { box.hidden = true; return; }
+  const byId = new Map(all.map(i => [i.id, i]));
+  const links = ids => (ids || []).map(id => byId.get(id)).filter(Boolean).map((item, n) => {
+    const t = linkTarget(item);
+    return `<a href="${escapeHtml(t.href)}"${t.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}
+      title="${escapeHtml(item.title_ja)}">記事${n + 1}</a>`;
+  }).join("");
+  const since = d.from ? fmt.format(new Date(d.from)).split(" ")[0] : "";
+  box.innerHTML = `
+    <div class="dg-head"><b>📝 ここ${d.days || 3}日のまとめ</b>${since ? `（${since}〜）` : ""}
+      <span>${d.generated_at ? relative(d.generated_at) + "に作成" : ""}</span></div>
+    <h3>${escapeHtml(d.headline)}</h3>
+    <ul>${d.points.map(p => `<li>${escapeHtml(p.text)}${links(p.ids)}</li>`).join("")}</ul>
+    <p class="dg-note">掲載した${d.article_count || ""}件の記事と話題の商品から、AIが自動でまとめています。</p>`;
+  box.hidden = false;
+}
+
+// ---- BuZZ（話題の商品） -----------------------------------------------
+const yen = n => n == null ? "" : "¥" + Number(n).toLocaleString("ja-JP");
+
+function renderBuzz(q) {
+  const list = document.getElementById("list");
+  document.getElementById("more").hidden = true;
+  const data = buzzData || { items: [], criteria: {}, genders: [] };
+  const genders = ["all"].concat(data.genders || []);
+  const items = (data.items || []).filter(p => {
+    if (brand !== "all" && p.brand !== brand) return false;
+    if (buzzGender !== "all" && !p.genders.includes(buzzGender)) return false;
+    if (q && !`${p.name} ${p.brand} ${p.genders.join(" ")}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  const top = Math.max(1, ...items.map(p => p.score));
+  const c = data.criteria || {};
+  // 控えが7日分たまるまでは、全商品ではなく一部だけを数えていることを正直に書く。
+  const warming = (data.history_days || 0) < 8
+    ? `集計は${escapeHtml(data.history_since || "")}から。7日分の記録がたまるまでは、定番品・新作・見出しに出た商品を中心に一部だけを数えています。`
+    : `公式サイトの${(data.catalog_size || 0).toLocaleString("ja-JP")}商品を毎回確認しています。`;
+
+  const tabs = `<div class="bz-tabs">${genders.map(g =>
+    `<button class="chip" data-bzgender="${escapeHtml(g)}" aria-pressed="${g === buzzGender}">${g === "all" ? "すべて" : escapeHtml(g)}</button>`
+  ).join("")}</div>`;
+  const criteria = `
+    <details class="bz-criteria"${criteriaOpen ? " open" : ""}>
+      <summary>🔥 ${escapeHtml(c.title || "BuZZの判断基準")}</summary>
+      <div class="formula">${escapeHtml(c.formula || "")}</div>
+      <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
+      <p class="since">${warming}${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}</p>
+    </details>`;
+
+  const cards = items.map((p, i) => {
+    const price = p.promo != null && p.promo < p.price
+      ? `<s>${yen(p.price)}</s><span class="sale">${yen(p.promo)}</span>`
+      : yen(p.price);
+    const news = (p.mention_titles || []).length ? `
+      <div class="bz-news"><div>📰 取り上げた見出し（7日で${p.mentions7}回）</div>
+        ${p.mention_titles.map(m => `<a href="${escapeHtml(m.u)}" target="_blank" rel="noopener noreferrer">${escapeHtml(m.t)} <span>— ${escapeHtml(m.s)}</span></a>`).join("")}
+      </div>` : "";
+    return `
+    <div class="bz">
+      <a class="bz-main" href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer">
+        <div class="bz-rank ${i < 3 ? "top" : ""}">${i + 1}</div>
+        <img class="bz-img" src="${escapeHtml(p.image)}" alt="" loading="lazy" decoding="async"
+             referrerpolicy="no-referrer" data-ph="${p.brand === "GU" ? "🛍" : "👕"}">
+        <div class="bz-body">
+          <div class="meta">
+            ${p.rising ? '<span class="bz-flag hot">🔥急上昇</span>' : ""}
+            ${p.new ? '<span class="bz-flag new">NEW</span>' : ""}
+            <span class="brand">${escapeHtml(p.brand)}</span>
+            ${p.genders.map(g => `<span class="tag">${escapeHtml(g)}</span>`).join("")}
+          </div>
+          <h2>${escapeHtml(p.name)}</h2>
+          <div class="bz-price">${price}</div>
+          <div class="bz-stats">
+            <span>レビュー <b>+${p.reviews7}${p.capped ? "以上" : ""}</b>件/7日</span>
+            ${p.mentions7 ? `<span>見出し <b>${p.mentions7}</b>回</span>` : ""}
+            <span>★${Number(p.rating || 0).toFixed(1)}（${Number(p.reviews).toLocaleString("ja-JP")}件）</span>
+          </div>
+          <div class="bz-bar" title="点数 ${p.score}"><i style="width:${Math.max(4, Math.round(p.score / top * 100))}%"></i></div>
+        </div>
+      </a>
+      ${news}
+    </div>`;
+  }).join("");
+
+  list.innerHTML = tabs + criteria + (cards || '<p class="empty">該当する商品がありません</p>');
+}
+
+// タブを切り替えると一覧を描き直すので、判断基準を開いたままにしておく。
+document.getElementById("list").addEventListener("toggle", e => {
+  if (e.target.classList && e.target.classList.contains("bz-criteria")) criteriaOpen = e.target.open;
+}, true);
+
+// 性別のタブは一覧の中に描くので、クリックは一覧側で受ける。
+document.getElementById("list").addEventListener("click", e => {
+  const btn = e.target.closest("[data-bzgender]");
+  if (!btn) return;
+  buzzGender = btn.dataset.bzgender;
+  apply();
+});
+
 // 該当0件のチップは押しても空になるだけなので、そもそも出さない。
 function buildChips(boxId, attr, current, defs) {
   document.getElementById(boxId).innerHTML = defs
@@ -288,7 +467,8 @@ function buildChips(boxId, attr, current, defs) {
 
 function buildAll(categories, brands) {
   const used = new Set(all.map(i => i.category));
-  if (category !== "all" && !used.has(category)) category = "all";
+  const hasBuzz = !!(buzzData && (buzzData.items || []).length);
+  if (category === BUZZ ? !hasBuzz : (category !== "all" && !used.has(category))) category = "all";
   buildChips("regionFilters", "region", region, [
     { key: "all", label: "すべて", match: () => true },
     { key: "jp", label: "🇯🇵 国内", match: i => i.region === "jp" },
@@ -296,8 +476,10 @@ function buildAll(categories, brands) {
   ]);
   buildChips("brandFilters", "brand", brand, [{ key: "all", label: "全ブランド", match: () => true }]
     .concat(brands.map(b => ({ key: b, label: b, match: i => (i.brand || "ユニクロ") === b }))));
-  buildChips("categoryFilters", "category", category, [{ key: "all", label: "全カテゴリ", match: () => true }]
-    .concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
+  buildChips("categoryFilters", "category", category, [
+    { key: "all", label: "全カテゴリ", match: () => true },
+    { key: BUZZ, label: "🔥 BuZZ", match: () => hasBuzz },
+  ].concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
 }
 
 // チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
@@ -347,8 +529,14 @@ document.getElementById("search").addEventListener("input", e => {
 
 async function load() {
   try {
-    const res = await fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" });
+    const [res, buzzRes] = await Promise.all([
+      fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" }),
+      // BuZZが読めなくてもニュースは出す。
+      fetch(`buzz.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
+    ]);
     const data = await res.json();
+    buzzData = buzzRes && buzzRes.ok ? await buzzRes.json().catch(() => null) : null;
+    digestData = data.digest || null;
     all = window.NEWS_ITEMS = data.items || [];
     document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
     document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");

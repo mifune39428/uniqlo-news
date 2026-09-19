@@ -28,6 +28,7 @@ from difflib import SequenceMatcher
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
 
+import buzz  # noqa: E402
 import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キーは呼び出し時に参照される）
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
@@ -1028,6 +1029,115 @@ def cleanup_details(kept_ids: set[str]) -> None:
 
 
 # --------------------------------------------------------------------------
+# ここ数日のまとめ（一覧の先頭に出す）
+# --------------------------------------------------------------------------
+
+DIGEST_DAYS = 3
+DIGEST_MAX_ITEMS = 24
+
+DIGEST_PROMPT = """あなたはユニクロ（ファーストリテイリング）を追う日本語ニュースサイトの編集者です。
+ここ{days}日に載せた記事と、いま話題の商品（BuZZ）を渡すので、サイトの一番上に出す
+「ここ{days}日のまとめ」を書いてください。今日は{today}です（日本時間）。
+
+厳守すること:
+- 渡した記事とBuZZに書かれていることだけを使う。数字・日付・価格を足さない。
+- headline は全体を一言で表す30文字以内の見出し。
+- points は3〜5個。1つ70文字以内の日本語の文。似た話題はまとめて1つにする。
+  重要度（importance）の高い記事を優先し、国内・海外、ユニクロ・GU・グループに偏り過ぎないようにする。
+- BuZZ があれば、最後の1つで話題の商品に触れる（商品名と「レビューが7日で◯件増えた」など）。
+- 各 point の ids には、その文の根拠にした記事の id を1〜3個入れる（BuZZだけの文は空配列）。
+- 出力はJSONオブジェクトのみ。前置き・説明・コードフェンスを付けない。
+
+出力形式:
+{{"headline": "...", "points": [{{"text": "...", "ids": ["..."]}}]}}
+
+記事（id / 公開日 / ブランド / カテゴリ / 重要度 / 見出し / 要約）:
+{articles}
+
+BuZZ（商品名 / 対象 / 直近7日のレビュー増加 / 見出しに出た回数）:
+{buzz}
+"""
+
+
+def parse_digest_json(text: str, known_ids: set[str]) -> dict:
+    cleaned = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip(), flags=re.MULTILINE).strip()
+    start, end = cleaned.find("{"), cleaned.rfind("}")
+    if start == -1 or end == -1:
+        raise llm_providers.ResponseInvalid("JSONオブジェクトが見つかりません")
+    try:
+        data = json.loads(cleaned[start : end + 1])
+    except json.JSONDecodeError as exc:
+        raise llm_providers.ResponseInvalid(f"JSONとして読めません: {exc}") from exc
+    headline = str(data.get("headline", "")).strip()
+    points = data.get("points")
+    if not headline or not isinstance(points, list) or not 2 <= len(points) <= 6:
+        raise llm_providers.ResponseInvalid("headline / points（3〜5個）が揃っていません")
+    cleaned_points = []
+    for point in points:
+        if not isinstance(point, dict) or not str(point.get("text", "")).strip():
+            raise llm_providers.ResponseInvalid("point に text がありません")
+        ids = [str(i) for i in (point.get("ids") or []) if str(i) in known_ids][:3]
+        cleaned_points.append({"text": str(point["text"]).strip(), "ids": ids})
+    return {"headline": headline[:40], "points": cleaned_points}
+
+
+def build_digest(items: list[dict], buzz_payload: dict | None, previous: dict | None) -> dict | None:
+    """ここ数日の記事とBuZZから、一覧の先頭に出す短いまとめを作る。
+
+    材料（記事とBuZZの顔ぶれ）が前回と同じならLLMを呼ばずに前回のものを使う。
+    失敗したときも前回のものを残す（まとめが古くても、空欄よりは役に立つ）。
+    """
+    now = dt.datetime.now(dt.timezone.utc)
+    cutoff = now - dt.timedelta(days=DIGEST_DAYS)
+    recent = [i for i in items if (parse_date(i.get("published", "")) or now) >= cutoff]
+    recent.sort(key=lambda i: (i.get("importance", 3), i.get("published", "")), reverse=True)
+    recent = recent[:DIGEST_MAX_ITEMS]
+    buzz_top = (buzz_payload or {}).get("items", [])[:5]
+    if len(recent) < 2:
+        return previous
+
+    signature = hashlib.sha1(
+        json.dumps([sorted(i["id"] for i in recent), [b["key"] for b in buzz_top]]).encode()
+    ).hexdigest()[:12]
+    if previous and previous.get("sig") == signature:
+        return previous
+
+    articles = "\n".join(
+        f"{i['id']} / {parse_date(i['published']).astimezone(JST):%-m月%-d日} / {i.get('brand', '')} / "
+        f"{i.get('category', '')} / {i.get('importance', 3)} / {i['title_ja']} / {i['summary_ja']}"
+        for i in recent
+    )
+    buzz_lines = "\n".join(
+        f"{b['brand']} {b['name']} / {'・'.join(b['genders'])} / "
+        f"+{b['reviews7']}件{'以上' if b.get('capped') else ''} / {b['mentions7']}回"
+        for b in buzz_top
+    ) or "（なし）"
+    prompt = DIGEST_PROMPT.format(
+        days=DIGEST_DAYS,
+        today=dt.datetime.now(JST).strftime("%Y年%-m月%-d日"),
+        articles=articles,
+        buzz=buzz_lines,
+    )
+    known = {i["id"] for i in recent}
+    print(f"■ ここ{DIGEST_DAYS}日のまとめを作成（記事{len(recent)}件・BuZZ{len(buzz_top)}件）")
+    try:
+        raw = llm_providers.generate_text(prompt, validate=lambda t: parse_digest_json(t, known))
+    except llm_providers.LLMError as exc:
+        print(f"  × まとめの作成に失敗（前回のものを残します）: {exc}")
+        return previous
+    digest = parse_digest_json(raw, known)
+    digest.update({
+        "days": DIGEST_DAYS,
+        "from": cutoff.astimezone(JST).isoformat(),
+        "generated_at": dt.datetime.now(JST).isoformat(),
+        "article_count": len(recent),
+        "sig": signature,
+    })
+    print(f"  ○ {digest['headline']}（{len(digest['points'])}項目）")
+    return digest
+
+
+# --------------------------------------------------------------------------
 # 保存
 # --------------------------------------------------------------------------
 
@@ -1179,7 +1289,21 @@ def main() -> int:
     generate_details(enriched, merged)
     cleanup_details({item["id"] for item in merged})
 
+    # 話題の商品。公式サイトの商品一覧が読めない回は前回の buzz.json をそのまま使う。
+    try:
+        buzz_payload = buzz.build_buzz(fetched)
+    except Exception as exc:  # noqa: BLE001  BuZZが落ちてもニュースは出す
+        print(f"  × BuZZの集計に失敗（前回のものを残します）: {type(exc).__name__}: {exc}")
+        buzz_payload = None
+    if buzz_payload is None:
+        try:
+            with open(buzz.OUTPUT_PATH, encoding="utf-8") as f:
+                buzz_payload = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            buzz_payload = None
+
     merged = [to_public(item) for item in merged]
+    digest = build_digest(merged, buzz_payload, existing.get("digest"))
 
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),
@@ -1188,6 +1312,7 @@ def main() -> int:
         "sources": sorted({item["source"] for item in merged}),
         "count": len(merged),
         "detail_count": sum(1 for item in merged if item.get("has_detail")),
+        "digest": digest,
         "items": merged,
     }
 
