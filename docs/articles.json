@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T04:44:00.265937+09:00",
+ "updated_at": "2026-09-20T11:11:57.457907+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -237,7 +237,7 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 246,
  "digest": {
   "headline": "ファストリ業績動向、ユニクロ・GU新作コラボや海外出店が話題",
   "points": [
@@ -282,6 +282,38 @@
   "sig": "eb5a855e628c"
  },
  "items": [
+  {
+   "id": "24d79fc293f1f844",
+   "url": "https://news.yahoo.co.jp/articles/2a1e3b2aae59f641dfd658fb1794c8d86f4b1e11",
+   "title_original": "「とりあえず色違いで3着購入しました」ユニクロの「エアリズムコットンT」 9月24日まで期間限定1290円",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-11788949-maidonans-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T01:45:13+00:00",
+   "title_ja": "ユニクロ「エアリズムコットンT」が9月24日まで限定1290円に",
+   "summary_ja": "ユニクロの「エアリズムコットンT」が、9月24日までの期間限定で1290円の特別価格で販売されている。複数色をまとめて購入する人も見られる。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f3c1fa3293cdfd9d",
+   "url": "https://news.yahoo.co.jp/articles/f2d3e93dc1003457937e1f3440423785c888f3a6",
+   "title_original": "「思わず三色買いました」ユニクロ「EZYワイドストレートジーンズ」が9月24日まで期間限定価格3990円",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-11788930-maidonans-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T00:02:13+00:00",
+   "title_ja": "ユニクロ「EZYワイドストレートジーンズ」が9/24まで限定3990円",
+   "summary_ja": "ユニクロの「EZYワイドストレートジーンズ」が、9月24日までの期間限定で3990円の特別価格にて販売されている。複数色を買い揃える購入者も出ている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "8ad434fd3181efcc",
    "url": "https://www.chiba-tv.com/plus/detail/2026092026728",
@@ -520,7 +552,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e365af55c337a0f2",
@@ -6649,38 +6681,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "bf8089398f824a35",
-   "url": "https://news.yahoo.co.jp/articles/06abc5b355377de04692780a1c0a07e2a29292b8/images/000",
-   "title_original": "ユニクロとBリーグがパートナーシップ契約を締結、『UTme!』サービスに全55クラブのオリジナルスタンプが9月3日より新登場",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKpyh88d2li0X5GKZFPJDO3eTE4GSdphQGlBblNlwpr6Y1f0TAY55cM6hGAQZXre57bOd7D1vUXMvMV5cg_FeUszOx2DOpJhct5vHWiVY5lG",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T00:40:13+00:00",
-   "title_ja": "ユニクロがBリーグとパートナーシップ契約、全55クラブのUTme!スタンプ登場",
-   "summary_ja": "ユニクロがBリーグとのパートナーシップ契約締結を発表した。9月3日よりオリジナルTシャツ作成サービス「UTme!」にて、全55クラブのスタンプが新登場する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "07dd81719fa306ed",
-   "url": "https://baila.hpplus.jp/fashion/petitprice/82648",
-   "title_original": "【ユニクロ アンド コントワー・デ・コトニエ】2026年秋冬コレクション登場！ 自然体で楽しむ、現代的なフレンチエレガンス",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/c9/c90c26dd-dced-4ee3-bfb9-484b8e473037-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T00:00:00+00:00",
-   "title_ja": "ユニクロとコントワー・デ・コトニエの2026年秋冬コラボコレクションが登場",
-   "summary_ja": "ユニクロと「コントワー・デ・コトニエ」のコラボレーションによる2026年秋冬コレクションが発表されました。自然体で楽しめる現代的なフレンチエレガンスをテーマにしたアイテムが展開され、新たなコレクションとして注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
