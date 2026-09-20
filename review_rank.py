@@ -1,6 +1,9 @@
-"""ユニクロ・GUで「いま話題になっている商品」（BuZZ）を数字で選ぶ。
+"""ユニクロ・GUで「買った人の反応が多い商品」（⭐レビュー人気）を数字で選ぶ。
 
-BuZZ の判断基準は2つの数字の合計:
+もとは「BuZZ」として作ったが、中身は公式レビューの伸びなので「レビュー人気」に改めた。
+SNSでの急上昇・継続人気は sns_buzz.py（🔥BuZZ）が受け持つ。
+
+レビュー人気の判断基準は2つの数字の合計:
 
   1. 投稿数 … 公式サイトのレビューが直近7日で何件増えたか（買った人の反応）
   2. 反応数 … 同じ7日間に、ニュース・ブログの見出しで何回取り上げられたか（世の中の反応）
@@ -17,7 +20,7 @@ X（旧Twitter）やInstagramの「いいね」数は、公式APIが有料・非
 
 数え方:
 - 商品一覧（公式サイトが画面の裏で使っている商品API）を性別ごとに全件読み、
-  商品ごとのレビュー総数を日付つきで docs/buzz_history.json に控える。
+  商品ごとのレビュー総数を日付つきで docs/review_history.json に控える。
 - 7日前の控えとの差がそのまま「直近7日のレビュー数」になる。追加の問い合わせは要らない。
 - 控えが7日分たまっていないあいだ（動かし始めの1週間）は、上位の商品だけ
   レビューの投稿日時を読みに行って直近7日の件数を数え、7日前の控えを後から作る。
@@ -35,9 +38,9 @@ import urllib.parse
 import urllib.request
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-HISTORY_PATH = os.path.join(BASE_DIR, "docs", "buzz_history.json")
-MENTIONS_PATH = os.path.join(BASE_DIR, "docs", "buzz_mentions.json")
-OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "buzz.json")
+HISTORY_PATH = os.path.join(BASE_DIR, "docs", "review_history.json")
+MENTIONS_PATH = os.path.join(BASE_DIR, "docs", "review_mentions.json")
+OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "review_rank.json")
 
 # 商品APIは素のUAだと弾かれることがあるので、ブラウザと同じものを名乗る。
 USER_AGENT = (
@@ -68,17 +71,20 @@ REVIEW_PAGE = 20         # レビュー一覧の1ページ（APIの上限が20�
 REVIEW_MAX_PAGES = 5     # 動かし始めの数え直しは100件まで。超えたら「100件以上」とみなす
 # 数え直しをする商品数（ブランド×性別ごと）。レビュー総数の多い定番品と、
 # 商品番号の新しい（＝最近出た）商品の両方から選ぶ。定番品だけにすると、
-# 急に話題になった新作がいつまでも数えられず、BuZZが定番品で埋まった。
+# 急に話題になった新作がいつまでも数えられず、順位が定番品で埋まった。
 BOOTSTRAP_TOP_REVIEWED = 10
 BOOTSTRAP_NEWEST = 20
 HISTORY_KEEP_DAYS = 16   # 前の週との比較（急上昇の判定）に14日ぶん要る
 MENTION_WEIGHT = 5       # 見出し1回 ＝ レビュー5件ぶんとして数える
-# これ未満の商品はBuZZに載せない。キッズは大人物よりレビューが一桁少ないので低くする
+# これ未満の商品は載せない。キッズは大人物よりレビューが一桁少ないので低くする
 # （同じ線を引くとキッズが数件しか残らなかった）。
 MIN_SCORE = {"ウィメンズ": 20, "メンズ": 20, "キッズ": 6}
 MIN_REVIEWS_TO_TRACK = 1  # レビュー0件の商品は控えに残さない（ファイルを小さくするため）
 TOP_PER_GROUP = 12       # ブランド×性別ごとに載せる上限
 MENTION_DAYS = 7
+# 商品一覧の読み取りにかける時間の上限。公式サイトが重い日に、更新そのものを止めないための蓋
+# （手元で繰り返し読んだ日に、1回の読み取りが数時間かかったことがある）。
+CATALOG_BUDGET = 10 * 60
 
 # 見出しの照合に使う商品名の「芯」。色・丈・年度などの枝葉を落とす。
 NAME_NOISE_RE = re.compile(r"[\(（][^)）]*[\)）]|\s+(MN|WN|WM|KIDS|BABY)$", re.I)
@@ -118,13 +124,18 @@ def core_name(name: str) -> str:
 # 商品一覧
 # --------------------------------------------------------------------------
 
-def fetch_catalog() -> dict[str, dict]:
-    """全商品を読み、「ブランド:商品ID」をキーにした辞書を返す。"""
+def fetch_catalog() -> tuple[dict[str, dict], bool]:
+    """全商品を読み、「ブランド:商品ID」をキーにした辞書と、最後まで読めたかどうかを返す。"""
     products: dict[str, dict] = {}
+    deadline = time.time() + CATALOG_BUDGET
+    complete = True
     for store in STORES:
         for gender_id, gender in store["genders"]:
             offset, total = 0, None
             while total is None or offset < total:
+                if time.time() > deadline:
+                    print("  ・時間切れのため商品一覧の読み取りを打ち切りました")
+                    return products, False
                 url = (
                     f"{store['base']}/api/commerce/v5/ja/products"
                     f"?path={gender_id}&limit={PAGE_SIZE}&offset={offset}&httpFailure=true"
@@ -138,8 +149,10 @@ def fetch_catalog() -> dict[str, dict]:
                     add_product(products, store, gender, item)
                 offset += len(items)
                 time.sleep(0.3)  # 公式サイトに負荷をかけない
+            if total and offset < total:
+                complete = False
             print(f"  ○ {store['brand']} {gender}（{gender_id}）: {total}件")
-    return products
+    return products, complete
 
 
 def add_product(products: dict, store: dict, gender: str, item: dict) -> None:
@@ -396,15 +409,15 @@ def match_mentions(products: list[dict], mentions: list[dict]) -> None:
 # --------------------------------------------------------------------------
 
 CRITERIA = {
-    "title": "BuZZの判断基準",
+    "title": "レビュー人気の判断基準",
     "formula": f"点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × {MENTION_WEIGHT}",
     "points": [
+        "SNSでの話題ではなく、実際に買った人の反応を数えた順位です（SNSでの急上昇・継続人気は「🔥 BuZZ」）。",
         "投稿数：ユニクロ・GU公式サイトの商品レビューが、直近7日で何件増えたか。実際に買った人しか書けないので、いちばん確かな「反応」として使っています。",
         f"反応数：同じ7日間に、ニュースやブログの見出しでその商品が何回取り上げられたか。1回をレビュー{MENTION_WEIGHT}件ぶんとして足します。",
         "勢い：レビュー総数のうち、この7日間に付いた割合が大きいほど点数を上げます（最大3倍）。定番品が毎週たくさんレビューされるだけで上位を占めないようにするためです。",
         f"ウィメンズ・メンズは{MIN_SCORE['ウィメンズ']}点以上、キッズ（ベビーを含む）はレビューが少ないので{MIN_SCORE['キッズ']}点以上の商品を載せています。",
         "🔥急上昇は、前の週よりレビューの増え方が2倍以上になった商品。NEWは公式サイトで「新作」の表示が付いている商品です。",
-        "X（旧Twitter）やInstagramの「いいね」数は、公式に取得できる手段が無いため使っていません。",
     ],
 }
 
@@ -431,18 +444,35 @@ def score_products(products: dict[str, dict], history: dict, day: str) -> list[d
     return scored
 
 
-def build_buzz(fetched: list[dict]) -> dict | None:
-    """BuZZ を計算して docs/buzz.json に書き出す。取れなければ None（前回の結果を残す）。"""
-    day = today_jst()
-    print("■ BuZZ（話題の商品）")
+def load_catalog() -> tuple[dict[str, dict] | None, bool]:
+    """公式サイトの商品一覧。レビュー人気とBuZZ（商品名の照合・画像）の両方で使う。
+
+    最後まで読めなかったときも、途中まで読めた分はBuZZの商品名の照合に使える。
+    ただしレビュー人気の記録は歪むので、そちらには渡さない（第2の戻り値で知らせる）。
+    """
+    print("■ 公式サイトの商品一覧")
     try:
-        products = fetch_catalog()
+        products, complete = fetch_catalog()
     except Exception as exc:  # noqa: BLE001  商品一覧が取れない回は前回のまま
-        print(f"  × 商品一覧を取得できませんでした（前回のBuZZを残します）: {type(exc).__name__}: {exc}")
-        return None
+        print(f"  × 商品一覧を取得できませんでした: {type(exc).__name__}: {exc}")
+        return None, False
     if len(products) < 200:
-        print(f"  × 商品が{len(products)}件しか取れませんでした（前回のBuZZを残します）")
+        print(f"  × 商品が{len(products)}件しか取れませんでした")
+        return None, False
+    if not complete:
+        print(f"  ・{len(products)}件まで読めました（最後までは読めていません）")
+    return products, complete
+
+
+def build_review_rank(fetched: list[dict], products: dict[str, dict] | None) -> dict | None:
+    """レビュー人気を計算して docs/review_rank.json に書き出す。取れなければ None（前回の結果を残す）。"""
+    day = today_jst()
+    print("■ ⭐レビュー人気")
+    if not products:
+        print("  × 商品一覧が無いので前回のものを残します")
         return None
+    # 下で数字を書き込むので、BuZZ側と共有している商品一覧を汚さないよう写しを使う。
+    products = {key: dict(value, genders=list(value["genders"])) for key, value in products.items()}
 
     # 見出しの照合を先に済ませておく。見出しに出た商品は、下の逆算の対象に必ず入れる。
     mentions = update_mentions(fetched)
@@ -526,5 +556,5 @@ def build_buzz(fetched: list[dict]) -> dict | None:
         json.dump(payload, f, ensure_ascii=False, indent=1)
         f.write("\n")
     by_gender = {g: sum(1 for i in items if g in i["genders"]) for g in GENDERS}
-    print(f"  商品 {len(products)}件を確認 / BuZZ {len(items)}件 {by_gender}")
+    print(f"  レビュー人気 {len(items)}件 {by_gender}")
     return payload

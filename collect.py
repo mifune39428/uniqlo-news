@@ -28,8 +28,9 @@ from difflib import SequenceMatcher
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE_DIR)
 
-import buzz  # noqa: E402
 import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キーは呼び出し時に参照される）
+import review_rank  # noqa: E402
+import sns_buzz  # noqa: E402
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "articles.json")
@@ -1036,7 +1037,7 @@ DIGEST_DAYS = 3
 DIGEST_MAX_ITEMS = 24
 
 DIGEST_PROMPT = """あなたはユニクロ（ファーストリテイリング）を追う日本語ニュースサイトの編集者です。
-ここ{days}日に載せた記事と、いま話題の商品（BuZZ）を渡すので、サイトの一番上に出す
+ここ{days}日に載せた記事と、SNSで話題の商品（BuZZ）・レビューが伸びている商品を渡すので、サイトの一番上に出す
 「ここ{days}日のまとめ」を書いてください。今日は{today}です（日本時間）。
 
 厳守すること:
@@ -1044,8 +1045,9 @@ DIGEST_PROMPT = """あなたはユニクロ（ファーストリテイリング�
 - headline は全体を一言で表す30文字以内の見出し。
 - points は3〜5個。1つ70文字以内の日本語の文。似た話題はまとめて1つにする。
   重要度（importance）の高い記事を優先し、国内・海外、ユニクロ・GU・グループに偏り過ぎないようにする。
-- BuZZ があれば、最後の1つで話題の商品に触れる（商品名と「レビューが7日で◯件増えた」など）。
-- 各 point の ids には、その文の根拠にした記事の id を1〜3個入れる（BuZZだけの文は空配列）。
+- SNSで話題の商品があれば、最後の1つで触れる（商品名と「Xで3日に◯件投稿」など、渡した数字だけを使う）。
+  無ければレビューが伸びている商品に触れる（「レビューが7日で◯件増えた」など）。
+- 各 point の ids には、その文の根拠にした記事の id を1〜3個入れる（商品だけの文は空配列）。
 - 出力はJSONオブジェクトのみ。前置き・説明・コードフェンスを付けない。
 
 出力形式:
@@ -1054,8 +1056,11 @@ DIGEST_PROMPT = """あなたはユニクロ（ファーストリテイリング�
 記事（id / 公開日 / ブランド / カテゴリ / 重要度 / 見出し / 要約）:
 {articles}
 
-BuZZ（商品名 / 対象 / 直近7日のレビュー増加 / 見出しに出た回数）:
+SNSで話題の商品（BuZZ。商品名 / 種類 / 直近3日のXの投稿数 / 直近3日の反応数）:
 {buzz}
+
+レビューが伸びている商品（商品名 / 対象 / 直近7日のレビュー増加）:
+{reviews}
 """
 
 
@@ -1081,7 +1086,9 @@ def parse_digest_json(text: str, known_ids: set[str]) -> dict:
     return {"headline": headline[:40], "points": cleaned_points}
 
 
-def build_digest(items: list[dict], buzz_payload: dict | None, previous: dict | None) -> dict | None:
+def build_digest(
+    items: list[dict], buzz_payload: dict | None, review_payload: dict | None, previous: dict | None
+) -> dict | None:
     """ここ数日の記事とBuZZから、一覧の先頭に出す短いまとめを作る。
 
     材料（記事とBuZZの顔ぶれ）が前回と同じならLLMを呼ばずに前回のものを使う。
@@ -1092,12 +1099,16 @@ def build_digest(items: list[dict], buzz_payload: dict | None, previous: dict | 
     recent = [i for i in items if (parse_date(i.get("published", "")) or now) >= cutoff]
     recent.sort(key=lambda i: (i.get("importance", 3), i.get("published", "")), reverse=True)
     recent = recent[:DIGEST_MAX_ITEMS]
-    buzz_top = (buzz_payload or {}).get("items", [])[:5]
+    buzz_top = ((buzz_payload or {}).get("rising", [])[:3]
+                + [s for s in (buzz_payload or {}).get("steady", [])[:3]
+                   if s["key"] not in {r["key"] for r in (buzz_payload or {}).get("rising", [])[:3]}][:2])
+    review_top = (review_payload or {}).get("items", [])[:3]
     if len(recent) < 2:
         return previous
 
     signature = hashlib.sha1(
-        json.dumps([sorted(i["id"] for i in recent), [b["key"] for b in buzz_top]]).encode()
+        json.dumps([sorted(i["id"] for i in recent), [b["key"] for b in buzz_top],
+                    [r["key"] for r in review_top]]).encode()
     ).hexdigest()[:12]
     if previous and previous.get("sig") == signature:
         return previous
@@ -1108,18 +1119,24 @@ def build_digest(items: list[dict], buzz_payload: dict | None, previous: dict | 
         for i in recent
     )
     buzz_lines = "\n".join(
-        f"{b['brand']} {b['name']} / {'・'.join(b['genders'])} / "
-        f"+{b['reviews7']}件{'以上' if b.get('capped') else ''} / {b['mentions7']}回"
+        f"{b['brand']} {b['name']} / {'急上昇' if b.get('is_rising') else '継続人気'} / "
+        f"{b['recent_posts']}件 / {b['recent_reactions']}"
         for b in buzz_top
+    ) or "（なし）"
+    review_lines = "\n".join(
+        f"{r['brand']} {r['name']} / {'・'.join(r['genders'])} / "
+        f"+{r['reviews7']}件{'以上' if r.get('capped') else ''}"
+        for r in review_top
     ) or "（なし）"
     prompt = DIGEST_PROMPT.format(
         days=DIGEST_DAYS,
         today=dt.datetime.now(JST).strftime("%Y年%-m月%-d日"),
         articles=articles,
         buzz=buzz_lines,
+        reviews=review_lines,
     )
     known = {i["id"] for i in recent}
-    print(f"■ ここ{DIGEST_DAYS}日のまとめを作成（記事{len(recent)}件・BuZZ{len(buzz_top)}件）")
+    print(f"■ ここ{DIGEST_DAYS}日のまとめを作成（記事{len(recent)}件・BuZZ{len(buzz_top)}件・レビュー{len(review_top)}件）")
     try:
         raw = llm_providers.generate_text(prompt, validate=lambda t: parse_digest_json(t, known))
     except llm_providers.LLMError as exc:
@@ -1140,6 +1157,22 @@ def build_digest(items: list[dict], buzz_payload: dict | None, previous: dict | 
 # --------------------------------------------------------------------------
 # 保存
 # --------------------------------------------------------------------------
+
+def run_ranking(label: str, path: str, build) -> dict | None:
+    """商品の順位を作る。落ちたときや取れなかったときは前回のファイルを読んで返す。"""
+    try:
+        payload = build()
+    except Exception as exc:  # noqa: BLE001  順位が作れなくてもニュースは出す
+        print(f"  × {label}の集計に失敗（前回のものを残します）: {type(exc).__name__}: {exc}")
+        payload = None
+    if payload is None:
+        try:
+            with open(path, encoding="utf-8") as f:
+                payload = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            payload = None
+    return payload
+
 
 def load_skipped() -> dict[str, str]:
     """前回までに見送った記事のID。値は見送った日時（古いものは捨てる）。"""
@@ -1289,21 +1322,18 @@ def main() -> int:
     generate_details(enriched, merged)
     cleanup_details({item["id"] for item in merged})
 
-    # 話題の商品。公式サイトの商品一覧が読めない回は前回の buzz.json をそのまま使う。
-    try:
-        buzz_payload = buzz.build_buzz(fetched)
-    except Exception as exc:  # noqa: BLE001  BuZZが落ちてもニュースは出す
-        print(f"  × BuZZの集計に失敗（前回のものを残します）: {type(exc).__name__}: {exc}")
-        buzz_payload = None
-    if buzz_payload is None:
-        try:
-            with open(buzz.OUTPUT_PATH, encoding="utf-8") as f:
-                buzz_payload = json.load(f)
-        except (OSError, json.JSONDecodeError):
-            buzz_payload = None
+    # 話題の商品。公式サイトの商品一覧は1回だけ読み、レビュー人気とBuZZで使い回す。
+    # どちらも取れない回は、前回のファイルをそのまま使う（ニュースの更新は止めない）。
+    catalog, catalog_complete = review_rank.load_catalog()
+    # 途中までしか読めなかった一覧でレビューの記録を更新すると、読めなかった商品が
+    # 「消えた」ことになってしまう。その回は前回のレビュー人気をそのまま使う。
+    review_payload = run_ranking("⭐レビュー人気", review_rank.OUTPUT_PATH,
+                                 lambda: review_rank.build_review_rank(
+                                     fetched, catalog if catalog_complete else None))
+    buzz_payload = run_ranking("🔥BuZZ", sns_buzz.OUTPUT_PATH, lambda: sns_buzz.build_sns_buzz(catalog))
 
     merged = [to_public(item) for item in merged]
-    digest = build_digest(merged, buzz_payload, existing.get("digest"))
+    digest = build_digest(merged, buzz_payload, review_payload, existing.get("digest"))
 
     payload = {
         "updated_at": now.astimezone(JST).isoformat(),

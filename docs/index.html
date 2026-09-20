@@ -193,6 +193,15 @@
   .bz-flag { border-radius: 4px; padding: 1px 6px; font-weight: 700; font-size: 11px; }
   .bz-flag.hot { background: var(--accent); color: #fff; }
   .bz-flag.new { border: 1px solid var(--accent); color: var(--accent); }
+  /* SNSのBuZZ */
+  .bz-sub { font-size: 12px; color: var(--muted); margin: 0 0 4px; }
+  .bz-spark { display: flex; align-items: flex-end; gap: 2px; height: 26px; margin-top: 8px; }
+  .bz-spark i {
+    flex: 1 1 0; background: var(--chip); border-radius: 2px 2px 0 0; min-height: 2px;
+  }
+  .bz-spark i.on { background: var(--accent); }
+  .bz-links { display: flex; flex-wrap: wrap; gap: 12px; margin: 9px 0 0 38px; font-size: 12.5px; font-weight: 600; }
+  .bz-links a { color: var(--accent); }
   .bz-news { margin: 10px 0 0 38px; padding: 8px 0 0; border-top: 1px dashed var(--line); font-size: 12px; }
   .bz-news div { color: var(--muted); margin-bottom: 3px; }
   .bz-news a { display: block; color: var(--text); margin-bottom: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -204,6 +213,8 @@
     background: var(--card); color: var(--accent); border: 1px solid var(--line);
     border-radius: 10px; font: inherit; font-size: 15px; cursor: pointer;
   }
+  /* #more の display 指定が hidden 属性に勝ってしまうので、消えるように戻す。 */
+  #more[hidden] { display: none; }
   footer {
     max-width: 760px; margin: 0 auto; padding: 24px 16px 40px;
     font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line);
@@ -235,7 +246,7 @@
   <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
   <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
   <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
-  <p>「🔥 BuZZ」は、ユニクロ・GU公式サイトで公開されている商品のレビュー件数と、ニュース・ブログの見出しで取り上げられた回数から自動で順位を付けています。売上の順位ではありません。価格・在庫は公式サイトでご確認ください。</p>
+  <p>「🔥 BuZZ」は、Yahoo!リアルタイム検索で読めるX（旧Twitter）の投稿数と反応数から、急に伸びている商品と、話題が続いている商品を自動で選んでいます。「⭐ レビュー」は、ユニクロ・GU公式サイトの商品レビュー件数の伸びから順位を付けています。どちらも売上の順位ではありません。価格・在庫は公式サイトでご確認ください。</p>
   <p>「ここ3日のまとめ」は、掲載した記事の見出しと要約をもとにAIが自動で作成しています。</p>
   <p>このサイトは個人が運営する非公式のニュースまとめで、株式会社ファーストリテイリングおよびユニクロとは関係ありません。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
   <p id="sources"></p>
@@ -246,8 +257,9 @@ const PAGE_SIZE = 30;
 let all = [], filtered = [], shown = 0;
 let region = "all", brand = "all", category = "all", query = "";
 // BuZZ（話題の商品）は記事とは別のファイル（buzz.json）から読む。
-const BUZZ = "BUZZ";
-let buzzData = null, buzzGender = "all", criteriaOpen = false;
+const BUZZ = "BUZZ", REVIEW = "REVIEW";
+let buzzData = null, reviewData = null;
+let buzzGender = "all", buzzKind = "rising", criteriaOpen = false;
 let digestData = null;
 
 const fmt = new Intl.DateTimeFormat("ja-JP", {
@@ -286,10 +298,8 @@ function escapeHtml(s) {
 function apply() {
   const q = query.trim().toLowerCase();
   renderDigest();
-  if (category === BUZZ) {
-    renderBuzz(q);
-    return;
-  }
+  if (category === BUZZ) { renderSnsBuzz(q); return; }
+  if (category === REVIEW) { renderReviewRank(q); return; }
   filtered = all.filter(item => {
     if (region !== "all" && item.region !== region) return false;
     if (brand !== "all" && (item.brand || "ユニクロ") !== brand) return false;
@@ -377,10 +387,10 @@ function renderDigest() {
 // ---- BuZZ（話題の商品） -----------------------------------------------
 const yen = n => n == null ? "" : "¥" + Number(n).toLocaleString("ja-JP");
 
-function renderBuzz(q) {
+function renderReviewRank(q) {
   const list = document.getElementById("list");
   document.getElementById("more").hidden = true;
-  const data = buzzData || { items: [], criteria: {}, genders: [] };
+  const data = reviewData || { items: [], criteria: {}, genders: [] };
   const genders = ["all"].concat(data.genders || []);
   const items = (data.items || []).filter(p => {
     if (brand !== "all" && p.brand !== brand) return false;
@@ -400,7 +410,7 @@ function renderBuzz(q) {
   ).join("")}</div>`;
   const criteria = `
     <details class="bz-criteria"${criteriaOpen ? " open" : ""}>
-      <summary>🔥 ${escapeHtml(c.title || "BuZZの判断基準")}</summary>
+      <summary>⭐ ${escapeHtml(c.title || "レビュー人気の判断基準")}</summary>
       <div class="formula">${escapeHtml(c.formula || "")}</div>
       <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
       <p class="since">${warming}${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}</p>
@@ -444,6 +454,84 @@ function renderBuzz(q) {
   list.innerHTML = tabs + criteria + (cards || '<p class="empty">該当する商品がありません</p>');
 }
 
+function renderSnsBuzz(q) {
+  const list = document.getElementById("list");
+  document.getElementById("more").hidden = true;
+  const data = buzzData || { rising: [], steady: [], criteria: {}, genders: [] };
+  const genders = ["all"].concat(data.genders || []);
+  const source = (data[buzzKind] || []).filter(p => {
+    if (brand !== "all" && p.brand !== brand) return false;
+    if (buzzGender !== "all" && !(p.genders || []).includes(buzzGender)) return false;
+    if (q && !`${p.name} ${p.official_name || ""} ${p.brand}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  const c = data.criteria || {};
+
+  const kinds = [["rising", "🚀 SNS急上昇"], ["steady", "🔁 継続人気"]];
+  const tabs = `
+    <div class="bz-tabs">${kinds.map(([k, label]) =>
+      `<button class="chip" data-bzkind="${k}" aria-pressed="${k === buzzKind}">${label}</button>`).join("")}</div>
+    <div class="bz-tabs">${genders.map(g =>
+      `<button class="chip" data-bzgender="${escapeHtml(g)}" aria-pressed="${g === buzzGender}">${g === "all" ? "すべて" : escapeHtml(g)}</button>`
+    ).join("")}</div>`;
+  const criteria = `
+    <details class="bz-criteria"${criteriaOpen ? " open" : ""}>
+      <summary>🔥 ${escapeHtml(c.title || "BuZZの判断基準")}</summary>
+      <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
+      <p class="since">${escapeHtml(data.source || "")}の投稿から、${data.tracked || 0}商品を数えました${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}。</p>
+    </details>`;
+
+  const cards = source.map((p, i) => {
+    const top = Math.max(1, ...(p.daily || [1]));
+    const spark = (p.daily || []).map(n =>
+      `<i class="${n ? "on" : ""}" style="height:${Math.max(6, Math.round(n / top * 100))}%" title="${n}件"></i>`).join("");
+    const stats = buzzKind === "rising"
+      ? `<span>3日で <b>${p.recent_posts}</b>件 投稿</span>
+         <span>反応 <b>${Number(p.recent_reactions).toLocaleString("ja-JP")}</b></span>
+         ${p.growth ? `<span>伸び <b>${p.growth}</b>倍</span>` : ""}`
+      // 「≧」は、読み取れるページの上限に達した（実際はもっと多い）という印。
+      : `<span>1日 <b>${p.capped ? "≧" : ""}${p.posts_per_day}</b>件 投稿</span>
+         <span>1日の反応 <b>${p.capped ? "≧" : ""}${Number(p.reactions_per_day).toLocaleString("ja-JP")}</b></span>
+         <span>${p.covered_days}日中 <b>${p.active_days}</b>日</span>`;
+    const price = p.price == null ? "" :
+      (p.promo != null && p.promo < p.price
+        ? `<div class="bz-price"><s>${yen(p.price)}</s><span class="sale">${yen(p.promo)}</span></div>`
+        : `<div class="bz-price">${yen(p.price)}</div>`);
+    const img = p.image
+      ? `<img class="bz-img" src="${escapeHtml(p.image)}" alt="" loading="lazy" decoding="async"
+             referrerpolicy="no-referrer" data-ph="${p.brand === "GU" ? "🛍" : "👕"}">`
+      : `<div class="bz-img ph">${p.brand === "GU" ? "🛍" : "👕"}</div>`;
+    return `
+    <div class="bz">
+      <div class="bz-main">
+        <div class="bz-rank ${i < 3 ? "top" : ""}">${i + 1}</div>
+        ${img}
+        <div class="bz-body">
+          <div class="meta">
+            <span class="bz-flag hot">${buzzKind === "rising" ? "🚀急上昇" : "🔁継続人気"}</span>
+            <span class="brand">${escapeHtml(p.brand)}</span>
+            ${(p.genders || []).map(g => `<span class="tag">${escapeHtml(g)}</span>`).join("")}
+          </div>
+          <h2>${escapeHtml(p.name)}</h2>
+          ${p.official_name && p.official_name !== p.name ? `<p class="bz-sub">公式名: ${escapeHtml(p.official_name)}</p>` : ""}
+          ${price}
+          <div class="bz-stats">${stats}</div>
+          <div class="bz-spark" title="この14日の1日ごとの投稿数">${spark}</div>
+        </div>
+      </div>
+      <div class="bz-links">
+        <a href="${escapeHtml(p.search_url)}" target="_blank" rel="noopener noreferrer">Xの投稿を見る →</a>
+        ${p.url ? `<a href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer">商品ページ →</a>` : ""}
+      </div>
+    </div>`;
+  }).join("");
+
+  const empty = buzzKind === "rising"
+    ? "いま急に伸びている商品はありません"
+    : "続けて話題になっている商品はまだありません（数日ぶん集まると出ます）";
+  list.innerHTML = tabs + criteria + (cards || `<p class="empty">${empty}</p>`);
+}
+
 // タブを切り替えると一覧を描き直すので、判断基準を開いたままにしておく。
 document.getElementById("list").addEventListener("toggle", e => {
   if (e.target.classList && e.target.classList.contains("bz-criteria")) criteriaOpen = e.target.open;
@@ -451,9 +539,11 @@ document.getElementById("list").addEventListener("toggle", e => {
 
 // 性別のタブは一覧の中に描くので、クリックは一覧側で受ける。
 document.getElementById("list").addEventListener("click", e => {
-  const btn = e.target.closest("[data-bzgender]");
-  if (!btn) return;
-  buzzGender = btn.dataset.bzgender;
+  const gender = e.target.closest("[data-bzgender]");
+  const kind = e.target.closest("[data-bzkind]");
+  if (!gender && !kind) return;
+  if (gender) buzzGender = gender.dataset.bzgender;
+  if (kind) buzzKind = kind.dataset.bzkind;
   apply();
 });
 
@@ -467,8 +557,10 @@ function buildChips(boxId, attr, current, defs) {
 
 function buildAll(categories, brands) {
   const used = new Set(all.map(i => i.category));
-  const hasBuzz = !!(buzzData && (buzzData.items || []).length);
-  if (category === BUZZ ? !hasBuzz : (category !== "all" && !used.has(category))) category = "all";
+  const hasBuzz = !!(buzzData && ((buzzData.rising || []).length || (buzzData.steady || []).length));
+  const hasReview = !!(reviewData && (reviewData.items || []).length);
+  const special = { [BUZZ]: hasBuzz, [REVIEW]: hasReview };
+  if (category in special ? !special[category] : (category !== "all" && !used.has(category))) category = "all";
   buildChips("regionFilters", "region", region, [
     { key: "all", label: "すべて", match: () => true },
     { key: "jp", label: "🇯🇵 国内", match: i => i.region === "jp" },
@@ -479,6 +571,7 @@ function buildAll(categories, brands) {
   buildChips("categoryFilters", "category", category, [
     { key: "all", label: "全カテゴリ", match: () => true },
     { key: BUZZ, label: "🔥 BuZZ", match: () => hasBuzz },
+    { key: REVIEW, label: "⭐ レビュー", match: () => hasReview },
   ].concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
 }
 
@@ -529,13 +622,15 @@ document.getElementById("search").addEventListener("input", e => {
 
 async function load() {
   try {
-    const [res, buzzRes] = await Promise.all([
+    const [res, buzzRes, reviewRes] = await Promise.all([
       fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" }),
-      // BuZZが読めなくてもニュースは出す。
+      // 商品の順位が読めなくてもニュースは出す。
       fetch(`buzz.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
+      fetch(`review_rank.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
     ]);
     const data = await res.json();
     buzzData = buzzRes && buzzRes.ok ? await buzzRes.json().catch(() => null) : null;
+    reviewData = reviewRes && reviewRes.ok ? await reviewRes.json().catch(() => null) : null;
     digestData = data.digest || null;
     all = window.NEWS_ITEMS = data.items || [];
     document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
