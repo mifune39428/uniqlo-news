@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T11:11:57.457907+09:00",
+ "updated_at": "2026-09-20T18:24:16.141904+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -108,7 +108,6 @@
   "TRAICY Global",
   "TRAICY（トライシー）",
   "TRILL",
-  "TRP | The Rakyat Post",
   "The Business of Fashion",
   "The Georgetowner",
   "The Hoya",
@@ -188,6 +187,7 @@
   "ねとらぼ",
   "ふくおかナビ",
   "ほんみや宮崎",
+  "まいどなニュース",
   "オトナンサー",
   "オリコンニュース",
   "クランクイン！",
@@ -239,49 +239,75 @@
  "count": 400,
  "detail_count": 246,
  "digest": {
-  "headline": "ファストリ業績動向、ユニクロ・GU新作コラボや海外出店が話題",
+  "headline": "ファストリ業績堅調、ユニクロ・GUの新作コラボや海外出店が相次ぐ",
   "points": [
    {
-    "text": "ファーストリテイリングは堅調な業績を受け株価が目標付近を維持し、柳井会長は鈴木敏文氏のお別れの会に参列した。",
+    "text": "ファーストリテイリングは堅調な2026年度通期業績の発表を受け株価を維持し、柳井正会長が経営の本質について語った。",
     "ids": [
      "372de5a7611de32a",
-     "b269963f923a45c5"
+     "a7b08c1a34ef5677"
     ]
    },
    {
-    "text": "ユニクロがKAWSとの新作コラボを発表したほか、UNIQLO : Cの秋冬コレクション発売が決定した。",
+    "text": "ユニクロはKAWSとのコラボやUNIQLO : Cの秋冬新作などを発表し、カスタムオーダースーツの最短5日ダイレクト配送も開始した。",
     "ids": [
      "3ddaad89b0f456cf",
-     "eba285c1a7dce742"
+     "e365af55c337a0f2",
+     "931880b9c6b6d716"
     ]
    },
    {
-    "text": "ユニクロはオーダースーツの工場直送を開始したほか、英ブライトン出店や米サンフランシスコでの再オープンを進める。",
+    "text": "海外ではサンフランシスコでの再オープンや英ブライトン出店が進むほか、GUはrokhとのコラボ最新作の発売を発表した。",
     "ids": [
-     "931880b9c6b6d716",
+     "b76cef3738a16e0a",
      "ee2d643d98aa1e68",
-     "b76cef3738a16e0a"
-    ]
-   },
-   {
-    "text": "GUはちいかわとの秋冬コラボ商品やrokhとの最新作の発売を発表した。",
-    "ids": [
-     "2517f9817128c509",
      "b213239619d11fea"
     ]
    },
    {
-    "text": "話題の商品では、ジャージーバレルレッグパンツのレビューが直近7日で100件増えた。",
+    "text": "SNSでは「ユニクロ ちいかわ」が話題を集めており、Xで3日に41件投稿されている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-17T00:03:56.177749+09:00",
-  "generated_at": "2026-09-20T00:04:14.842547+09:00",
+  "from": "2026-09-17T18:32:54.285186+09:00",
+  "generated_at": "2026-09-20T18:33:11.011845+09:00",
   "article_count": 24,
-  "sig": "eb5a855e628c"
+  "sig": "8be1263a1cc5"
  },
  "items": [
+  {
+   "id": "45543aa3494b5470",
+   "url": "https://maidonanews.jp/article/16905429",
+   "title_original": "9月24日まで期間限定3990円 ユニクロのポケッタブルUVカットパーカ「軽くて小さくなる」旅行や急な雨にも重宝",
+   "source": "まいどなニュース",
+   "image": "https://p.potaufeu.asahi.com/de58-p/picture/31196358/529ecc144ef309580f017dfc25f9a2cc.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T05:50:00+00:00",
+   "title_ja": "ユニクロのポケッタブルUVカットパーカが9月24日まで限定価格3990円",
+   "summary_ja": "ユニクロの「ポケッタブルUVカットパーカ」が9月24日までの期間限定で3990円に値下げされています。軽量で小さく折りたためる仕様となっており、旅行や急な雨の備えとして重宝されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5ecb1ee8af9097f0",
+   "url": "https://news.yahoo.co.jp/articles/da4faa7be354803a774a46ad06e657c9cfd9f511/images/000",
+   "title_original": "「赤ちゃんの頃から何度もリピしてます」保育園や公園遊びに重宝するユニクロの「リブレギンス」 9月24日まで期間限定価格590円",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKZwyk1dcXk2ggYGTeNidKqOwxTmqj3iKGj2enuHjO0TlzX3JT1IXwd8QlYzFO0zx1h8mnkN_5hQdgQjzrVwr6YP11aduHQr1vUTAhjCaF0Z",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T02:40:20+00:00",
+   "title_ja": "ユニクロが乳幼児向け「リブレギンス」を期間限定価格590円で販売　9月24日まで",
+   "summary_ja": "ユニクロは乳幼児向けの「リブレギンス」を、9月24日までの期間限定価格として590円で販売しています。保育園通いや公園遊びなどで繰り返し購入される人気商品が対象となっています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "24d79fc293f1f844",
    "url": "https://news.yahoo.co.jp/articles/2a1e3b2aae59f641dfd658fb1794c8d86f4b1e11",
@@ -312,6 +338,22 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c2249370e1cac643",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/83186",
+   "title_original": "【UNIQLO（ユニクロ）】「KAWS UNIVERSE」UTコレクション発売！｜＠BAILA（バイラ）",
+   "source": "baila.hpplus.jp",
+   "image": "https://img-baila.hpplus.jp/ogp/image/2f/2fdff872-beca-4451-8611-a0aaca8a8bdd-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T00:00:00+00:00",
+   "title_ja": "ユニクロが「KAWS UNIVERSE」UTコレクションを発売",
+   "summary_ja": "ユニクロから「KAWS UNIVERSE」UTコレクションが発売されます。世界的な人気を誇る現代アーティストKAWSとのコラボレーションによる新作グラフィックTシャツが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6633,54 +6675,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "9313afb0adbb2ed2",
-   "url": "https://news.yahoo.co.jp/articles/4b6581f5d51702e688febb29bfbc1800533acb52",
-   "title_original": "「ユニクロ ユー」、いよいよ新章へ。2026年秋冬コレクションをチェック──GQエディターのベストバイ",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00010002-gqjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T02:10:27+00:00",
-   "title_ja": "ユニクロ ユーが2026年秋冬コレクションを発表、注目アイテムを解説",
-   "summary_ja": "ユニクロの「ユニクロ ユー」から2026年秋冬コレクションが登場しました。新たな展開を迎える今シーズンのラインナップの中から、GQエディターが特におすすめする注目アイテムやコレクションの魅力が解説されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "95b906fee2eaacb5",
-   "url": "https://www.therakyatpost.com/living/2026/09/02/uniqlo-launches-fall-winter-2026-in-malaysia-as-uniqlo-u-marks-10th-and-final-collection-under-lemaire-and-tran",
-   "title_original": "Uniqlo Launches Fall/Winter 2026 In Malaysia As Uniqlo U Marks 10th - And Final - Collection Under Lemaire And Tran",
-   "source": "TRP | The Rakyat Post",
-   "image": "https://www.therakyatpost.com/wp-content/uploads/2026/09/uniqlofeatimg.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T01:41:14+00:00",
-   "title_ja": "ユニクロがマレーシアで2026年秋冬を開始　「Uniqlo U」最後作も",
-   "summary_ja": "ユニクロがマレーシアで2026年秋冬コレクションを立ち上げました。ルメールとトランによる「Uniqlo U」は今回が10回目であり、同体制としては最後のコレクションとなります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "69de76e88c33bc8d",
-   "url": "https://www.nikkei.com/article/DGXZQOCD310140R30C26A8000000",
-   "title_original": "「服を売る前にユニクロを売れ」 日本で旗艦店シフト、AIに備え",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3531434001092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.22&fp-y=0.37&h=630&w=1200&s=991696c550d435728d5d851c40167d42",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T01:00:00+00:00",
-   "title_ja": "ユニクロが国内で旗艦店シフトを推進、AI時代を見据えたブランド戦略",
-   "summary_ja": "ユニクロが日本国内において大型の旗艦店へのシフトを進めている。AI時代を見据え、個々の衣服を販売するだけでなくブランド自体の価値を高める取り組みを強化する方針だ。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
