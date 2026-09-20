@@ -274,7 +274,9 @@ def merge_names(mentions: list[dict], history: dict) -> list[dict]:
             if group["brand"] != brand:
                 continue
             other = review_rank.normalize(group["name"])
-            if norm == other or (min(len(norm), len(other)) >= 5 and (norm in other or other in norm)):
+            # 4文字まで下げているのは「ちいかわ」と「ちいかわ UT」を1つにまとめるため
+            # （別々に出ていた）。短すぎる一般名詞は GENERIC_NAMES で先に落としてある。
+            if norm == other or (min(len(norm), len(other)) >= 4 and (norm in other or other in norm)):
                 return key
         return None
 
