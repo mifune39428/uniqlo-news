@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T18:24:16.141904+09:00",
+ "updated_at": "2026-09-20T19:14:38.555109+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -110,7 +110,6 @@
   "TRILL",
   "The Business of Fashion",
   "The Georgetowner",
-  "The Hoya",
   "The Manc",
   "The Sole Supplier",
   "The Straits Times",
@@ -151,7 +150,6 @@
   "lasisa.net",
   "lee.hpplus.jp",
   "limo.media",
-  "marketscreener.com",
   "metromode.se",
   "mi-mollet（ミモレ）",
   "mshale.com",
@@ -237,45 +235,83 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 246,
+ "detail_count": 248,
  "digest": {
-  "headline": "ファストリ業績堅調、ユニクロ・GUの新作コラボや海外出店が相次ぐ",
+  "headline": "KAWSやちいかわコラボ、柳井氏の回想などファストリ最新動向",
   "points": [
    {
-    "text": "ファーストリテイリングは堅調な2026年度通期業績の発表を受け株価を維持し、柳井正会長が経営の本質について語った。",
-    "ids": [
-     "372de5a7611de32a",
-     "a7b08c1a34ef5677"
-    ]
-   },
-   {
-    "text": "ユニクロはKAWSとのコラボやUNIQLO : Cの秋冬新作などを発表し、カスタムオーダースーツの最短5日ダイレクト配送も開始した。",
+    "text": "ユニクロは現代アーティストKAWSとのコラボ「KAWS UNIVERSE」や「UNIQLO : C」秋冬新作の発売を発表しました。",
     "ids": [
      "3ddaad89b0f456cf",
-     "e365af55c337a0f2",
-     "931880b9c6b6d716"
+     "eba285c1a7dce742"
     ]
    },
    {
-    "text": "海外ではサンフランシスコでの再オープンや英ブライトン出店が進むほか、GUはrokhとのコラボ最新作の発売を発表した。",
+    "text": "ユニクロは英ブライトンへの新規出店計画を進めるほか、米サンフランシスコのダウンタウン店舗を1か月以内に再オープンする予定です。",
     "ids": [
-     "b76cef3738a16e0a",
      "ee2d643d98aa1e68",
+     "b76cef3738a16e0a"
+    ]
+   },
+   {
+    "text": "ファストリ柳井会長が鈴木敏文氏のお別れの会に参列し、流通の常識を変えた「コンビニの神様」から受けた影響や経営の本質を語りました。",
+    "ids": [
+     "6409f4ee9e3290a2",
+     "a7b08c1a34ef5677",
+     "38dd4df553d39aa6"
+    ]
+   },
+   {
+    "text": "ジーユーは「ちいかわ」とのコラボアイテムの発売を発表しSNSで大反響を呼んだほか、「rokh」とのコラボ最新作を発売します。",
+    "ids": [
+     "f3b950a55a3912ed",
      "b213239619d11fea"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ ちいかわ」が話題を集めており、Xで3日に41件投稿されている。",
+    "text": "SNSでは「ユニクロ ちいかわ」が急上昇し、Xで3日に41件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-17T18:32:54.285186+09:00",
-  "generated_at": "2026-09-20T18:33:11.011845+09:00",
+  "from": "2026-09-17T19:21:59.245206+09:00",
+  "generated_at": "2026-09-20T19:22:28.512917+09:00",
   "article_count": 24,
-  "sig": "8be1263a1cc5"
+  "sig": "b87c4e83dcdd"
  },
  "items": [
+  {
+   "id": "c52ffa8da15a3e80",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/maidonanews/trend/maidonanews-16905331",
+   "title_original": "「好きすぎて3色購入」「全色買いました！」ユニクロのウルトラストレッチアクティブワイドパンツ 9月24日まで期間限定価格1990円",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/maidonanews/m_maidonanews-16905331.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T13:20:00+00:00",
+   "title_ja": "ユニクロの「ウルトラストレッチアクティブワイドパンツ」が9月24日まで1,990円に",
+   "summary_ja": "ユニクロの「ウルトラストレッチアクティブワイドパンツ」が、9月24日までの期間限定で1,990円に値下げされています。複数色を購入する愛用者も多い人気のアイテムを期間限定価格で提供しています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b181a88c6667e5e8",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/ftnews/trend/ftnews-b5f1b1099a4de5000c4699f524db74e35dcd70a8",
+   "title_original": "「秋まで使えてこの価格は魅力！」【ユニクロ値下げ】1,290円で見つけた『秋色カーディガン』",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/ftnews/m_ftnews-b5f1b1099a4de5000c4699f524db74e35dcd70a8.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T10:00:00+00:00",
+   "title_ja": "ユニクロの「秋色カーディガン」が1,290円に値下げ中 秋まで使える注目アイテム",
+   "summary_ja": "ユニクロは、秋のコーディネートで活躍する「秋色カーディガン」を1,290円の値下げ価格で販売しています。手頃な価格帯で秋先まで長く着用できるお得なアイテムとして注目を集めています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "45543aa3494b5470",
    "url": "https://maidonanews.jp/article/16905429",
@@ -306,7 +342,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "24d79fc293f1f844",
@@ -335,6 +371,22 @@
    "published": "2026-09-20T00:02:13+00:00",
    "title_ja": "ユニクロ「EZYワイドストレートジーンズ」が9/24まで限定3990円",
    "summary_ja": "ユニクロの「EZYワイドストレートジーンズ」が、9月24日までの期間限定で3990円の特別価格にて販売されている。複数色を買い揃える購入者も出ている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "458df142865d8ce2",
+   "url": "https://baila.hpplus.jp/blogs/inoue_yuka/83285",
+   "title_original": "【9/24まで1,990円】ユニクロのベストセラーベルトが半年ぶりのセール！オンオフ使える優秀アイテム",
+   "source": "baila.hpplus.jp",
+   "image": "https://img-baila.hpplus.jp/ogp/image/4f/4f27f21a-9da3-42ae-a1e4-b8c1305c5935-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T00:00:00+00:00",
+   "title_ja": "ユニクロの人気ベルトが9月24日まで1,990円の期間限定セールを実施",
+   "summary_ja": "ユニクロは、オンオフ問わず活躍する人気のベストセラーベルトを、9月24日までの期間限定で1,990円の特別価格にて販売しています。約半年ぶりとなるセールを実施しており、お得に購入できる機会となっています。",
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
@@ -1219,6 +1271,22 @@
    "brand": "グループ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "cbadabb6911646af",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/tokkhankyu/trend/tokkhankyu-281102",
+   "title_original": "10/4で一時閉店、11/6リニューアルオープン！グローバル旗艦店「ユニクロ 京都」オープン",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/tokkhankyu/m_tokkhankyu-281102.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-17T18:25:28+00:00",
+   "title_ja": "「ユニクロ 京都」が10月4日に一時閉店、11月6日に改装開業へ",
+   "summary_ja": "グローバル旗艦店である「ユニクロ 京都」が、店舗リニューアルに向けて2026年10月4日に一時閉店します。その後、同年11月6日に新たにリニューアルオープンすることが決定しました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "e2e9685b5aa5ad8d",
@@ -6608,70 +6676,6 @@
    "title_ja": "ユニクロがB.LEAGUEとコラボ、選手らが「UTme!」を体験",
    "summary_ja": "ユニクロとB.LEAGUEのコラボ企画として、篠山竜青選手や齋藤拓実選手、女優の桜井日奈子さんがオリジナルTシャツが作れる「UTme!」を体験しました。田臥勇太選手との撮影などの模様が紹介されています。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4a9e8fb382014075",
-   "url": "https://www.marketscreener.com/news/fast-retailing-uniqlo-monthly-sales-information-of-japan-august-2026-ce7858d2dc8bf12d",
-   "title_original": "Fast Retailing : UNIQLO Monthly Sales Information of Japan (August 2026)",
-   "source": "marketscreener.com",
-   "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T06:43:15+00:00",
-   "title_ja": "ファーストリテイリングが国内ユニクロの2026年8月度売上を発表",
-   "summary_ja": "ファーストリテイリングは、2026年8月における日本国内ユニクロの月次売上情報を開示しました。国内の店舗における最新の売上推移や動向を伝える開示情報となっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "10681bd2ef41fda9",
-   "url": "https://www.ryutsuu.biz/sales/s090215.html",
-   "title_original": "ユニクロ／8月既存店売上1.3％減、天候不順で夏物低調",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T05:10:53+00:00",
-   "title_ja": "ユニクロの8月既存店売上高は1.3％減、天候不順により夏物販売が低調",
-   "summary_ja": "ユニクロが発表した8月の国内既存店売上高は、前年同月比で1.3％減少しました。天候不順の影響により、夏物商品の販売が振るわなかったことが主な要因とみられます。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "e102ebb2e788da21",
-   "url": "https://basketballking.jp/news/japan/20260902/630401.html",
-   "title_original": "ユニクロがBリーグのパートナーに就任…レフェリーウェアの提供や全55クラブのコラボも",
-   "source": "バスケットボールキング",
-   "image": "https://basketballking.jp/wp-content/uploads/2026/09/0902_uniqlo_01.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T04:25:44+00:00",
-   "title_ja": "ユニクロがBリーグのパートナーに就任！全55クラブコラボや審判ウェア提供を実施",
-   "summary_ja": "ユニクロが男子プロバスケットボール「Bリーグ」のパートナーに就任しました。審判用ウェアの提供をはじめ、全55クラブとのコラボレーションなどを実施していく予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "246b4c060f9c123a",
-   "url": "https://thehoya.com/news/city-news/uniqlo-opens-georgetown-location",
-   "title_original": "Uniqlo Opens Georgetown Location",
-   "source": "The Hoya",
-   "image": "https://thehoya.com/wp-content/uploads/2026/09/37E253A7-B314-45B1-952A-1427782631C9_1_105_c.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T03:45:06+00:00",
-   "title_ja": "ユニクロが米ジョージタウンに新店舗をオープン",
-   "summary_ja": "ユニクロがアメリカのジョージタウンに新たな店舗を開店しました。海外市場での店舗ネットワークをさらに拡大し、地域のお客さまに向けた展開を強化しています。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true

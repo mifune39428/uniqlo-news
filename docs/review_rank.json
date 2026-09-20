@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T18:27:34.975285+09:00",
+ "updated_at": "2026-09-20T19:18:24.773458+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -489,8 +489,39 @@
    "rising": false
   },
   {
-   "key": "GU:E361784-000",
+   "key": "UQ:E474481-000",
    "rank": 19,
+   "brand": "ユニクロ",
+   "name": "ウルトラストレッチアクティブワイドパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 1990,
+   "promo": 1990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474481/item/jpgoods_08_474481_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E474481-000/00?colorDisplayCode=08",
+   "rating": 4.4,
+   "reviews": 5648,
+   "reviews7": 51,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "「好きすぎて3色購入」「全色買いました！」ユニクロのウルトラストレッチアクティブワイドパンツ 9月24日まで期間限定価格1990円",
+     "s": "topics.smt.docomo.ne.jp",
+     "u": "https://topics.smt.docomo.ne.jp/amp/article/maidonanews/trend/maidonanews-16905331"
+    }
+   ],
+   "score": 57,
+   "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E361784-000",
+   "rank": 20,
    "brand": "GU",
    "name": "スウェットバルーンスリーブフルジップパーカ UL（スーパーオーバーサイズフィット）",
    "genders": [
@@ -509,31 +540,6 @@
    "mention_titles": [],
    "score": 55,
    "momentum": 1.52,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E474481-000",
-   "rank": 20,
-   "brand": "ユニクロ",
-   "name": "ウルトラストレッチアクティブワイドパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1990,
-   "promo": 1990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/474481/item/jpgoods_08_474481_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E474481-000/00?colorDisplayCode=08",
-   "rating": 4.4,
-   "reviews": 5648,
-   "reviews7": 51,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 52,
-   "momentum": 1.02,
    "new": false,
    "rising": false
   },
