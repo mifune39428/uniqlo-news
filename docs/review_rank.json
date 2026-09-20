@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T00:06:42.157902+09:00",
+ "updated_at": "2026-09-21T04:58:31.347479+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 6,
- "catalog_size": 3000,
+ "catalog_size": 2999,
  "count": 48,
  "items": [
   {
@@ -78,33 +78,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E488459-000",
-   "rank": 3,
-   "brand": "ユニクロ",
-   "name": "フーデッドロングコート",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 9990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488459/item/jpgoods_08_488459_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488459-000/00?colorDisplayCode=33",
-   "rating": 4.4,
-   "reviews": 87,
-   "reviews7": 59,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 139,
-   "momentum": 2.36,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E489108-000",
-   "rank": 4,
+   "rank": 3,
    "brand": "ユニクロ",
    "name": "ジャージーテーラードジャケット",
    "genders": [
@@ -129,7 +104,7 @@
   },
   {
    "key": "UQ:E475344-000",
-   "rank": 5,
+   "rank": 4,
    "brand": "ユニクロ",
    "name": "ジャージーバレルレッグパンツ",
    "genders": [
@@ -154,7 +129,7 @@
   },
   {
    "key": "UQ:E488801-000",
-   "rank": 6,
+   "rank": 5,
    "brand": "ユニクロ",
    "name": "ドレープシャツ",
    "genders": [
@@ -179,7 +154,7 @@
   },
   {
    "key": "UQ:E488191-000",
-   "rank": 7,
+   "rank": 6,
    "brand": "ユニクロ",
    "name": "ラムスタンドカラーカーディガン",
    "genders": [
@@ -203,7 +178,7 @@
   },
   {
    "key": "UQ:E488185-000",
-   "rank": 8,
+   "rank": 7,
    "brand": "ユニクロ",
    "name": "サテンコンビネーションワンピース",
    "genders": [
@@ -227,7 +202,7 @@
   },
   {
    "key": "UQ:E465185-000",
-   "rank": 9,
+   "rank": 8,
    "brand": "ユニクロ",
    "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
    "genders": [
@@ -252,7 +227,7 @@
   },
   {
    "key": "UQ:E492123-000",
-   "rank": 10,
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "デニムリラックスシャツジャケット",
    "genders": [
@@ -277,7 +252,7 @@
   },
   {
    "key": "GU:E362202-000",
-   "rank": 11,
+   "rank": 10,
    "brand": "GU",
    "name": "シアードットT(長袖) PF",
    "genders": [
@@ -301,7 +276,7 @@
   },
   {
    "key": "GU:E360850-000",
-   "rank": 12,
+   "rank": 11,
    "brand": "GU",
    "name": "コインローファーCL",
    "genders": [
@@ -325,7 +300,7 @@
   },
   {
    "key": "UQ:E447780-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "感動パンツ",
    "genders": [
@@ -349,7 +324,7 @@
   },
   {
    "key": "UQ:E487883-000",
-   "rank": 14,
+   "rank": 13,
    "brand": "ユニクロ",
    "name": "コーティングブルゾン",
    "genders": [
@@ -379,7 +354,7 @@
   },
   {
    "key": "UQ:E488773-000",
-   "rank": 15,
+   "rank": 14,
    "brand": "ユニクロ",
    "name": "モッズコート",
    "genders": [
@@ -404,7 +379,7 @@
   },
   {
    "key": "UQ:E474481-000",
-   "rank": 16,
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "ウルトラストレッチアクティブワイドパンツ",
    "genders": [
@@ -435,7 +410,7 @@
   },
   {
    "key": "UQ:E491700-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "エアリズム3Dマスク/2枚組",
    "genders": [
@@ -461,7 +436,7 @@
   },
   {
    "key": "UQ:E488743-000",
-   "rank": 18,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "バレルジーンズ",
    "genders": [
@@ -497,7 +472,7 @@
   },
   {
    "key": "GU:E361376-000",
-   "rank": 19,
+   "rank": 18,
    "brand": "GU",
    "name": "ファインゲージニットカーディガン MN",
    "genders": [
@@ -516,6 +491,31 @@
    "mention_titles": [],
    "score": 59,
    "momentum": 2.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488758-000",
+   "rank": 19,
+   "brand": "ユニクロ",
+   "name": "ダブルフェイスクルーネックセーター",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488758/item/jpgoods_04_488758_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488758-000/00?colorDisplayCode=04",
+   "rating": 4.8,
+   "reviews": 26,
+   "reviews7": 22,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 59,
+   "momentum": 2.69,
    "new": false,
    "rising": false
   },
