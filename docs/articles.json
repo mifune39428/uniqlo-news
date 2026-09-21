@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T20:21:18.816529+09:00",
+ "updated_at": "2026-09-22T02:20:56.391109+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -73,6 +73,7 @@
   "London On The Inside",
   "MEN'S NON-NO WEB",
   "Magzter",
+  "Manchester Evening News",
   "Manila Standard",
   "MarkeZine",
   "Modaes",
@@ -84,7 +85,6 @@
   "Nagaland Post",
   "Nagaland Tribune",
   "New Statesman",
-  "News.com.au",
   "Newswav",
   "Nikkei Asia",
   "OCEANS オーシャンズ",
@@ -93,6 +93,7 @@
   "PR TIMES",
   "Paris Select Book",
   "Passionate In Marketing",
+  "Patch",
   "Philstar.com",
   "QAB 琉球朝日放送",
   "Ragtrader.com.au",
@@ -134,6 +135,7 @@
   "asahi.com",
   "baila.hpplus.jp",
   "biz-journal.jp",
+  "ellecanada.com",
   "fashion-press.net",
   "fashionsnap.com",
   "fashionunited.uk",
@@ -144,7 +146,6 @@
   "glossy.co",
   "gq.com",
   "hype.my",
-  "illustrated Daily News",
   "jimoharu.net",
   "jp.fashionnetwork.com",
   "kabu-ir.com",
@@ -237,26 +238,33 @@
  "count": 400,
  "detail_count": 250,
  "digest": {
-  "headline": "ユニクロの秋冬新作や期間限定セール、国内外の展開まとめ",
+  "headline": "ユニクロ秋冬新作やコラボ、期間限定セール情報まとめ",
   "points": [
    {
-    "text": "ユニクロは、カシミヤやコーデュロイ素材を用いた2026年秋冬の「UNIQLO : C」コレクションや、「KAWS UNIVERSE」UTコレクションなどを発売しました。",
+    "text": "ユニクロの2026年秋冬コレクションや「UNIQLO : C」の新作が登場し、カシミヤやコーデュロイ素材のアイテムが展開されています。",
     "ids": [
+     "3eab64284c8b2711",
      "78eb5b1bb1860990",
-     "3ddaad89b0f456cf",
      "e365af55c337a0f2"
     ]
    },
    {
-    "text": "ファーストリテイリングの株価が堅調な通期業績を受けて目標付近を維持しているほか、イギリスやオーストラリアなど海外での店舗展開も進められています。",
+    "text": "「ドラゴンクエスト」との初コラボや、現代アーティストKAWSとの新作「KAWS UNIVERSE」UTコレクションが発表・発売されました。",
     "ids": [
-     "372de5a7611de32a",
-     "ee2d643d98aa1e68",
+     "1becd3a9b209ea77",
+     "c2249370e1cac643",
+     "3ddaad89b0f456cf"
+    ]
+   },
+   {
+    "text": "ニューヨークのワールドトレードセンターへの新店舗オープンや、オーストラリア・クイーンズランド州での展開強化など海外出店が続いています。",
+    "ids": [
+     "edb22a21545baf60",
      "a49db9e2f12295cc"
     ]
    },
    {
-    "text": "ユニクロでは、エアリズム長袖Tやウルトラストレッチアクティブワイドパンツ、ビジネスシャツなどを対象とした期間限定セールが9月24日まで実施されています。",
+    "text": "エアリズム長袖Tやウルトラストレッチアクティブワイドパンツ、ビジネスシャツなど、多数のアイテムが期間限定価格で販売されています。",
     "ids": [
      "ab792873b283f216",
      "c52ffa8da15a3e80",
@@ -264,17 +272,81 @@
     ]
    },
    {
-    "text": "SNSでは「ユニクロ リブヘンリーネックT」が注目を集め、Xで3日に7件投稿されました。",
+    "text": "SNSでは、GUの「GU rokh コラボ」がXで22件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-18T20:28:22.002603+09:00",
-  "generated_at": "2026-09-21T20:28:23.750652+09:00",
+  "from": "2026-09-19T02:31:30.783638+09:00",
+  "generated_at": "2026-09-22T02:31:32.649676+09:00",
   "article_count": 24,
-  "sig": "bbf71032771b"
+  "sig": "4cf7ced36e53"
  },
  "items": [
+  {
+   "id": "edb22a21545baf60",
+   "url": "https://patch.com/new-york/downtown-nyc/uniqlo-open-newest-location-world-trade-center",
+   "title_original": "UNIQLO To Open Newest Location At World Trade Center",
+   "source": "Patch",
+   "image": "https://patch.com/img/cdn20/shutterstock/26844973/20260921/010911/styles/patch_image/public/shutterstock-2504746979___21130831993.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T17:09:12+00:00",
+   "title_ja": "ユニクロがワールドトレードセンターに新店舗をオープンへ",
+   "summary_ja": "ユニクロが、ニューヨークのワールドトレードセンターに新たな店舗をオープンすることが分かりました。詳細な日程などの言及はありませんが、現地でのさらなるブランド展開が期待されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c5ecc6ad3dd070b5",
+   "url": "https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/trafford-centre-confirms-opening-dates-34649349",
+   "title_original": "Trafford Centre confirms opening dates for Uniqlo and Garage stores as huge names arrive",
+   "source": "Manchester Evening News",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/article34650443.ece/ALTERNATES/s1200d/0_DBR_MEN_170426Uni_02jpeg.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T15:32:13+00:00",
+   "title_ja": "英トラフォード・センター、ユニクロ新店舗のオープン日を決定",
+   "summary_ja": "イギリスの大型ショッピングモール「トラフォード・センター」が、ユニクロおよびアパレルブランド「Garage」の新店舗のオープン日を決定したと発表しました。現地での注目が高まっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "37513cdc24a03c43",
+   "url": "https://woman.nikkei.com/atcl/column/21/20210409/091500122/?i_cid=nbpnxw_new_top_01",
+   "title_original": "相手の話を聴いているようで…ユニクロ部長が変えたこと 職場のコミュ術",
+   "source": "日本経済新聞",
+   "image": "https://woman.nikkei.com/atcl/column/21/20210409/091500122/top_m.jpg?20260401",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T15:01:00+00:00",
+   "title_ja": "ユニクロの部長が職場で実践するコミュニケーション術",
+   "summary_ja": "ユニクロの部長が職場のコミュニケーションにおいて変えたことや、話し方についての取り組みが紹介されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "3eab64284c8b2711",
+   "url": "https://www.ellecanada.com/fashion/heres-your-first-look-at-uniqlo-fall-winter-2026",
+   "title_original": "Here's Your First Look at Uniqlo Fall/Winter 2026",
+   "source": "ellecanada.com",
+   "image": "https://api.ellecanada.com/app/uploads/2026/09/uniqlo-automne-hiver-2026.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T13:27:58+00:00",
+   "title_ja": "ユニクロ、2026年秋冬コレクションの全貌を公開",
+   "summary_ja": "ユニクロの2026年秋冬コレクションの様子がいち早く公開され、新作アイテムの全貌が明らかになりました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "a5e11b7e46366f78",
    "url": "https://londontheinside.com/get-a-limited-edition-roger-federer-cap-at-the-uniqlo-laver-cup-pop-up",
@@ -6610,70 +6682,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "2c8e0d6c41b04abb",
-   "url": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
-   "title_original": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
-   "source": "Nikkei Asia",
-   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F1%2F5%2F4%2F13044513-1-eng-GB%2Fed979489e0f3-20260902N-Uniqlo-Yanai.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T21:32:43+00:00",
-   "title_ja": "ユニクロが国内で旗艦店主軸にシフトしブランドイメージ再構築へ",
-   "summary_ja": "ユニクロは日本国内で大型旗艦店を中心とした店舗展開へ舵を切り、ブランドイメージの再構築を図っている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e0adc90aa882daf7",
-   "url": "https://www.illustrateddailynews.com/india/from-uniqlo-to-banks-japans-capital-is-pouring-into-india-870092",
-   "title_original": "From Uniqlo To Banks: Japan's Capital Is Pouring Into India",
-   "source": "illustrated Daily News",
-   "image": "https://www.illustrateddailynews.com/h-upload/2026/09/02/1101602-screenshot-2026-09-02-235045.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T18:27:34+00:00",
-   "title_ja": "ユニクロなど日本企業のインド投資が拡大",
-   "summary_ja": "ユニクロの進出をはじめ、銀行など日本からの資本がインド市場へ急速に流入している動向を伝えています。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "e18643ebaa12fac3",
-   "url": "https://mdpr.jp/other/4838392",
-   "title_original": "ユニクロ、8月の既存店売上高 夏物が失速し1.3％減",
-   "source": "モデルプレス",
-   "image": "https://img-mdpr.freetls.fastly.net/common/noimage.png?width=700&disable=upscale&auto=webp&quality=80",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T16:00:00+00:00",
-   "title_ja": "ユニクロ、8月既存店売上高は1.3%減 夏物失速",
-   "summary_ja": "ユニクロの8月既存店売上高は、夏物の販売が失速した影響を受けて前年同月比1.3%減となったことが明らかになった。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f0225c2bbf64d668",
-   "url": "https://www.news.com.au/checkout/fashion-and-accessories/clothing/best-affordable-fashion-brands/news-story/d866f42399b97ebe604fe8d952da3690",
-   "title_original": "‘Dior for less’: Uniqlo collab has fans hyped",
-   "source": "News.com.au",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T15:19:16+00:00",
-   "title_ja": "ディオール風と話題に、海外でユニクロの新作コラボコレクションに注目集まる",
-   "summary_ja": "ユニクロが手掛ける最新のコラボレーションコレクションが海外のファンの間で大きな話題となっています。高級ブランド「ディオール」を思わせるデザインを低価格で楽しめるアイテムとして、多くの期待が寄せられています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
