@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T11:12:05.549818+09:00",
+ "updated_at": "2026-09-21T20:21:18.816529+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -70,6 +70,7 @@
   "Liverpool Echo",
   "Lmaga.jp",
   "London Now",
+  "London On The Inside",
   "MEN'S NON-NO WEB",
   "Magzter",
   "Manila Standard",
@@ -236,47 +237,76 @@
  "count": 400,
  "detail_count": 250,
  "digest": {
-  "headline": "ユニクロ秋冬新作やコラボ情報が続々登場",
+  "headline": "ユニクロの秋冬新作や期間限定セール、国内外の展開まとめ",
   "points": [
    {
-    "text": "ユニクロは「UNIQLO : C」の2026年秋冬コレクションを発売し、カシミヤやコーデュロイを使用したアイテムを展開しています。",
+    "text": "ユニクロは、カシミヤやコーデュロイ素材を用いた2026年秋冬の「UNIQLO : C」コレクションや、「KAWS UNIVERSE」UTコレクションなどを発売しました。",
     "ids": [
      "78eb5b1bb1860990",
-     "e365af55c337a0f2",
-     "eba285c1a7dce742"
+     "3ddaad89b0f456cf",
+     "e365af55c337a0f2"
     ]
    },
    {
-    "text": "現代アーティストKAWSとの新作コレクション「KAWS UNIVERSE」が発売され、全16アイテムの多彩なラインナップが登場しました。",
+    "text": "ファーストリテイリングの株価が堅調な通期業績を受けて目標付近を維持しているほか、イギリスやオーストラリアなど海外での店舗展開も進められています。",
     "ids": [
-     "c2249370e1cac643",
-     "3ddaad89b0f456cf"
+     "372de5a7611de32a",
+     "ee2d643d98aa1e68",
+     "a49db9e2f12295cc"
     ]
    },
    {
-    "text": "ファーストリテイリングは堅調な2026年度通期業績を発表し、株価は目標付近を維持しています。",
+    "text": "ユニクロでは、エアリズム長袖Tやウルトラストレッチアクティブワイドパンツ、ビジネスシャツなどを対象とした期間限定セールが9月24日まで実施されています。",
     "ids": [
-     "372de5a7611de32a"
+     "ab792873b283f216",
+     "c52ffa8da15a3e80",
+     "f8e1c42989522841"
     ]
    },
    {
-    "text": "ジーユーと「ちいかわ」のコラボアイテム発売が決定し、SNSで14万件以上の「いいね」を集めるなど大きな話題となっています。",
-    "ids": [
-     "f3b950a55a3912ed"
-    ]
-   },
-   {
-    "text": "ユニクロのリブヘンリーネックTが話題となり、Xで3日に6件投稿されました。",
+    "text": "SNSでは「ユニクロ リブヘンリーネックT」が注目を集め、Xで3日に7件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-18T11:20:35.905159+09:00",
-  "generated_at": "2026-09-21T11:20:37.624708+09:00",
+  "from": "2026-09-18T20:28:22.002603+09:00",
+  "generated_at": "2026-09-21T20:28:23.750652+09:00",
   "article_count": 24,
-  "sig": "c32f20e6d842"
+  "sig": "bbf71032771b"
  },
  "items": [
+  {
+   "id": "a5e11b7e46366f78",
+   "url": "https://londontheinside.com/get-a-limited-edition-roger-federer-cap-at-the-uniqlo-laver-cup-pop-up",
+   "title_original": "Get A Limited Edition Roger Federer Cap At The UNIQLO Laver Cup Pop-Up",
+   "source": "London On The Inside",
+   "image": "https://loti.b-cdn.net/wp-content/uploads/2026/09/Laver-Cup.jpg?x58778",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T08:33:28+00:00",
+   "title_ja": "ユニクロがレーバー・カップで限定フェデラーキャップを販売",
+   "summary_ja": "ユニクロがテニス大会「レーバー・カップ」のポップアップストアにて、ロジャー・フェデラー選手の限定キャップを展開することが取り上げられています。会場での限定展開としてファンから注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ab792873b283f216",
+   "url": "https://news.yahoo.co.jp/articles/863a90c0735c3678854daeabb44e2f818a792342",
+   "title_original": "【ユニクロ】期間限定価格1290円の「エアリズム長袖T」が「この時期何着ればいいの！？」を解決！ さらっと冬まで着られる万能トップス（Fav-Log by ITmedia）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-10169599-it_favlog-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T06:05:00+00:00",
+   "title_ja": "ユニクロの「エアリズム長袖T」が期間限定で1290円に、秋から冬まで使える万能トップス",
+   "summary_ja": "ユニクロは、秋から冬にかけて活躍する「エアリズム長袖T」を期間限定価格の1290円で販売しています。さらっとした着心地で、季節の変わり目の衣服選びの悩みを解決してくれる万能なトップスとして注目されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a49db9e2f12295cc",
    "url": "https://www.ragtrader.com.au/news/uniqlo-doubles-down-in-queensland",
@@ -387,7 +417,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "39ad534a0407576f",
@@ -6644,38 +6674,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "a1597dded844fdd0",
-   "url": "https://www.indianretailer.com/interview/retail-people/fashion/how-uniqlo-integrating-style-comfort-and-tech-winter-clothing",
-   "title_original": "How UNIQLO is integrating style, comfort, and tech in winter clothing",
-   "source": "Indian Retailer",
-   "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-09/NIDHI.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-02T13:20:23+00:00",
-   "title_ja": "ユニクロが冬服で追求するスタイル、快適さ、技術の融合",
-   "summary_ja": "ユニクロが冬向けの衣類において、デザイン性と快適さ、そしてテクノロジーをどのように融合させているかを紹介する記事です。防寒性だけでなく、着心地やスタイルを両立させる同社の製品開発へのアプローチについて取り上げています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9dada97f06bb8930",
-   "url": "https://news.yahoo.co.jp/articles/017795ef680bdf5e04dae5bd7429120849a4dbf1",
-   "title_original": "バスケ歴13年の桜井日奈子、地元・岡山愛にあふれたオリジナルTシャツを作成 篠山竜青選手＆齋藤拓実選手とともにユニクロ『UTme!』を体験（デビュー）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00000537-devi-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T12:10:16+00:00",
-   "title_ja": "桜井日奈子らがユニクロ「UTme!」を体験、地元・岡山愛を込めたTシャツ制作",
-   "summary_ja": "女優の桜井日奈子さんが、プロバスケットボールの篠山竜青選手、齋藤拓実選手とともにユニクロのオリジナルTシャツ作成サービス「UTme!」を体験しました。桜井さんは地元である岡山への愛を表現したデザインを制作しました。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
