@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T02:20:56.391109+09:00",
+ "updated_at": "2026-09-22T06:20:50.285089+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -33,6 +33,7 @@
   "BuzzFeed",
   "CINEMA Life! シネマライフ",
   "Chain Store Age",
+  "Chosunbiz",
   "CoStar",
   "Confirm Good",
   "Daily Tribune",
@@ -47,6 +48,7 @@
   "Gear Patrol",
   "Great Deals Singapore",
   "Green Retail World",
+  "Hashtag Legend Hong Kong",
   "Hoodline",
   "House of Heat°",
   "Hypebeast",
@@ -107,6 +109,7 @@
   "Storm.mg",
   "Style Rave",
   "Stylist",
+  "Sunshine Coast News",
   "TBS NEWS DIG",
   "TRAICY Global",
   "TRAICY（トライシー）",
@@ -175,6 +178,7 @@
   "thehootleeds.com",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
+  "trilltrill.jp",
   "ultrasports.jp",
   "uptodate.tokyo",
   "vietnam.vn",
@@ -236,53 +240,94 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 250,
+ "detail_count": 251,
  "digest": {
-  "headline": "ユニクロ秋冬新作やコラボ、期間限定セール情報まとめ",
+  "headline": "ユニクロの秋冬新作発表や海外展開が話題",
   "points": [
    {
-    "text": "ユニクロの2026年秋冬コレクションや「UNIQLO : C」の新作が登場し、カシミヤやコーデュロイ素材のアイテムが展開されています。",
+    "text": "ユニクロは2026年秋冬コレクションやクレア・ワイト・ケラーによる「UNIQLO : C」の新作を発表し、注目を集めています。",
     "ids": [
      "3eab64284c8b2711",
-     "78eb5b1bb1860990",
+     "61b2b00302897312",
      "e365af55c337a0f2"
     ]
    },
    {
-    "text": "「ドラゴンクエスト」との初コラボや、現代アーティストKAWSとの新作「KAWS UNIVERSE」UTコレクションが発表・発売されました。",
+    "text": "ファーストリテイリングの堅調な決算が評価される中、ユニクロとZARAが大型店戦略を強化し、海外での店舗展開や出店が活発化しています。",
     "ids": [
-     "1becd3a9b209ea77",
-     "c2249370e1cac643",
-     "3ddaad89b0f456cf"
+     "372de5a7611de32a",
+     "c77f15207ced827f",
+     "a59b5139699abcaf"
     ]
    },
    {
-    "text": "ニューヨークのワールドトレードセンターへの新店舗オープンや、オーストラリア・クイーンズランド州での展開強化など海外出店が続いています。",
+    "text": "ユニクロやGUでは、秋物トップスやパンツなどを対象とした期間限定の値下げやキャンペーンが実施されています。",
     "ids": [
-     "edb22a21545baf60",
-     "a49db9e2f12295cc"
+     "b7e0557dca8095f4",
+     "c12d38b29256bf20",
+     "ab792873b283f216"
     ]
    },
    {
-    "text": "エアリズム長袖Tやウルトラストレッチアクティブワイドパンツ、ビジネスシャツなど、多数のアイテムが期間限定価格で販売されています。",
-    "ids": [
-     "ab792873b283f216",
-     "c52ffa8da15a3e80",
-     "f8e1c42989522841"
-    ]
-   },
-   {
-    "text": "SNSでは、GUの「GU rokh コラボ」がXで22件投稿されるなど話題を集めています。",
+    "text": "SNSでは「GU オーバーサイズテーラードジャケット CL」が急上昇し、Xで3件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-19T02:31:30.783638+09:00",
-  "generated_at": "2026-09-22T02:31:32.649676+09:00",
+  "from": "2026-09-19T06:29:12.946358+09:00",
+  "generated_at": "2026-09-22T06:29:14.790425+09:00",
   "article_count": 24,
-  "sig": "4cf7ced36e53"
+  "sig": "d038cffeb683"
  },
  "items": [
+  {
+   "id": "c77f15207ced827f",
+   "url": "https://biz.chosun.com/jp/jp-retail/2026/09/22/6RRR2L2Z6RFDXPIMOOUYANPB7Q",
+   "title_original": "ZARAとユニクロが大型店集中 百貨店も誘致加速 - CHOSUNBIZ",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/MFRDONDDGA4WGODGG5RTQMRRGU.jpg?auth=1ba2b43f223d6e8a69436ea26845940d3a1b8d62a84575b89a45dbfbb412e32d&width=1200&height=630&smart=true",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T21:01:00.422000+00:00",
+   "title_ja": "ユニクロとZARAが大型店戦略を強化、百貨店も誘致を活発化",
+   "summary_ja": "ユニクロとZARAが店舗の大型化と集約を進める中、百貨店側でもこれらグローバルSPAブランドの大型店舗を誘致する動きが加速している。効率的な運営とブランド発信力の強化を狙う両社の戦略に対応した動きとみられる。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a59b5139699abcaf",
+   "url": "https://biz.chosun.com/en/en-retail/2026/09/22/QQWOFKS23NGI5DEHKRIHE37B64",
+   "title_original": "Global SPA brands shift Korea strategy to fewer, larger flagship stores - CHOSUNBIZ",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/MFRDONDDGA4WGODGG5RTQMRRGU.jpg?auth=1ba2b43f223d6e8a69436ea26845940d3a1b8d62a84575b89a45dbfbb412e32d&width=1200&height=630&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T21:00:39.136000+00:00",
+   "title_ja": "グローバルSPAブランド、韓国での戦略を大型旗艦店へシフト",
+   "summary_ja": "グローバルSPAブランドが韓国での展開戦略を見直し、店舗数を絞り込みながらも大型の旗艦店へ投資を集中させる方針を強めている。これにより、効率的なブランド運営と顧客体験の向上を目指す。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "bb1dc9a6fea88bad",
+   "url": "https://www.sunshinecoastnews.com.au/2026/09/22/global-clothing-brand-confirms-coast-arrival",
+   "title_original": "Global clothing brand reveals store open date",
+   "source": "Sunshine Coast News",
+   "image": "https://www.sunshinecoastnews.com.au/wp-content/uploads/2026/09/SCN210926-A-uniqlo-store-opening-in-Adelaide.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T17:56:45+00:00",
+   "title_ja": "グローバル衣料ブランドが新店舗のオープン日を公開",
+   "summary_ja": "世界的な衣料品ブランドが、オーストラリアのサンシャインコーストにおける新店舗のオープン予定日を発表した。地域における新たな店舗展開として、現地での注目が集まっている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "edb22a21545baf60",
    "url": "https://patch.com/new-york/downtown-nyc/uniqlo-open-newest-location-world-trade-center",
@@ -329,7 +374,23 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "b7e0557dca8095f4",
+   "url": "https://trilltrill.jp/articles/5045182",
+   "title_original": "これ、590円でいいの！？【GU値下げ】今買い足したい「秋も使えるトップス」",
+   "source": "trilltrill.jp",
+   "image": "https://media.trilltrill.jp/articles/5045182/featured-image.acc965656e26a953909723f8114eaa8d?w=1200",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T13:35:00+00:00",
+   "title_ja": "GU、秋物トップスを590円に値下げして販売",
+   "summary_ja": "GUが秋も使えるトップスを590円に値下げして販売していると報じられています。今すぐ買い足したいお得なアイテムとして注目を集めています。",
+   "category": "キャンペーン・セール",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "3eab64284c8b2711",
@@ -345,7 +406,39 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "c12d38b29256bf20",
+   "url": "https://news.yahoo.co.jp/articles/3ce63c1887d3b338da4648c71766e86becfb6cc2/images/000",
+   "title_original": "「全色購入」 3990円→1990円！ ユニクロの“秋に使えるパンツ”が便利「雨の日に裾が濡れない」「オールシーズン活躍しそう」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgPAYnMewSloOwGtAD9_b77XbeeFQ7-SPtoSImlc4-zTqtPvTu_RczmwvxwjEWQCEYKq4MJSobH7f8KAIm3GtES0nxWbiJgOjxcWFjBsKM5ay9uGM4HEwIFBDOfjxOFzU5A==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T11:20:00+00:00",
+   "title_ja": "ユニクロの秋向けパンツが1990円に値下げ",
+   "summary_ja": "ユニクロの秋に使えるパンツが、3990円から1990円へと期間限定で値下げされています。雨の日に裾が濡れにくく、オールシーズン活躍すると好評です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
    "detail_tries": 1
+  },
+  {
+   "id": "61b2b00302897312",
+   "url": "https://hashtaglegend.com/th/post/uniqlo-c-fall-winter-2026-collection",
+   "title_original": "UNIQLO : C FW26: Reimagining Softness Through Urban Design by Clare Waight Keller",
+   "source": "Hashtag Legend Hong Kong",
+   "image": "http://localhost:3000/th/api/media/file/uniqlo%20c%20fw26%20cover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-21T11:01:08+00:00",
+   "title_ja": "ユニクロ、クレア・ワイト・ケラーによる「UNIQLO : C」2026年秋冬コレクションを発表",
+   "summary_ja": "ユニクロは、デザイナーのクレア・ワイト・ケラーが手掛ける「UNIQLO : C」の2026年秋冬コレクションを発表しました。都市のデザインを通じて柔らかな質感を再解釈しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "a5e11b7e46366f78",
@@ -6586,102 +6679,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "5f661823b4bc9fee",
-   "url": "https://news.yahoo.co.jp/articles/0970973c8fbeff3d0ef58978f2537719e58f46eb/images/000",
-   "title_original": "「軽く薄くて快適」ユニクロの値下げ中ポロシャツが人気「汗をかいてもサラサラ」「暑くても爽やか」 (Fav-Log by ITmedia)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgHARoB_08HTBGDt1nairqbQlmB14tc3oYWDL-t8ztkl8q8bmW9kh_JeusfiDmReNAN_cmE2nwGEmtPwcBDQLWu-ZG0leHNOL3ZlhQ5YpNBg_",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T02:45:00+00:00",
-   "title_ja": "ユニクロの値下げ中ポロシャツが人気　薄手で汗をかいても快適な着心地",
-   "summary_ja": "ユニクロで値下げ販売されているポロシャツが好評を得ています。生地が軽く薄いため、汗をかいてもサラサラとした爽やかな着心地が持続し、暑い日でも快適に過ごせると評価されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "182cf7334216c700",
-   "url": "https://www.nikkei.com/article/DGXZQOFL031DY0T00C26A9000000",
-   "title_original": "ファーストリテイリング株価5カ月ぶり安値 既存店減収、チャートも弱気",
-   "source": "nikkei.com",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3544690003092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.57&h=630&w=1200&s=e7153fcd248dad56d201546da6880e24",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T02:43:06+00:00",
-   "title_ja": "ファーストリテイリング株価が5カ月ぶり安値、既存店の減収などが影響",
-   "summary_ja": "ファーストリテイリングの株価が約5カ月ぶりの安値を記録しました。国内既存店の減収や、テクニカルチャートにおける弱気なシグナルなどが背景にあり、市場での売り材料視につながったとみられます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "03fba9a4c749e466",
-   "url": "https://jp.investing.com/news/stock-market-news/article-1668934",
-   "title_original": "ファーストリテ---大幅続落、8月既存店は2カ月ぶりマイナスに 執筆： Fisco",
-   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T02:30:00+00:00",
-   "title_ja": "ファーストリテイリングが大幅続落、8月既存店売上高は2カ月ぶりマイナスに",
-   "summary_ja": "ファーストリテイリングの株価が大幅に続落しました。8月の国内ユニクロ既存店売上高が2カ月ぶりのマイナスとなったことが背景にあります。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "448d7755b5d658fd",
-   "url": "https://news.yahoo.co.jp/articles/e0f1ac57ab8e864afa2140c9dd7dcb03359104c4",
-   "title_original": "【ヤフコメで話題】「ユニクロ主催の錦織圭引退イベントにフェデラー来日」「無料観戦の応募条件やブランド戦略に意見」 - テニス界とユニクロの関係性に注目集まる（Yahoo!ニュース オリジナル THE PAGE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00000010-wordleafai-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T00:24:50+00:00",
-   "title_ja": "錦織圭引退イベントにフェデラー来日、ユニクロ戦略に注目",
-   "summary_ja": "ユニクロが主催する錦織圭の引退イベントにロジャー・フェデラーが来日することが話題となり、無料観戦の条件や同社のブランド戦略に様々な意見が寄せられています。（※抜粋なし）",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "ca9bfee0d9dc6f33",
-   "url": "https://news.livedoor.com/topics/detail/32228771",
-   "title_original": "ファストリが冴えない、８月国内ユニクロ既存店売上高が２カ月ぶり前年割れ (2026年9月3日掲載)",
-   "source": "news.livedoor.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T00:04:25+00:00",
-   "title_ja": "ファーストリテイリングの8月国内ユニクロ既存店売上高、2カ月ぶりに前年実績を下回る",
-   "summary_ja": "ファーストリテイリングが発表した2026年8月の国内ユニクロ既存店売上高は、前年同月の実績を2カ月ぶりに下回った。この業績発表を受けて、株式市場における同社の株価も冴えない展開となっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "9ce6d44930401d8e",
-   "url": "https://baila.hpplus.jp/fashion/petitprice/82644",
-   "title_original": "【Uniqlo U（ユニクロ ユー）】2026年秋冬コレクションが9月11日（金）発売！ 大人が狙うならこのアイテム",
-   "source": "baila.hpplus.jp",
-   "image": "https://img-baila.hpplus.jp/ogp/image/43/43030b5b-3c1c-422e-8451-3b34bcd65501-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T00:00:00+00:00",
-   "title_ja": "Uniqlo Uの2026年秋冬コレクションが9月11日に発売決定",
-   "summary_ja": "ユニクロの人気ライン「Uniqlo U」の2026年秋冬コレクションが9月11日に発売される。大人のファッションに取り入れたい注目の新作アイテムが順次展開される予定だ。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
