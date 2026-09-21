@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T04:55:31.899184+09:00",
+ "updated_at": "2026-09-21T11:12:05.549818+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -94,6 +94,7 @@
   "Passionate In Marketing",
   "Philstar.com",
   "QAB 琉球朝日放送",
+  "Ragtrader.com.au",
   "Retail News Asia",
   "SFGATE",
   "SFist",
@@ -207,7 +208,6 @@
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "号外NET 奈良市",
-  "四季報オンライン",
   "地域ニュースサイト号外NET",
   "地球の歩き方",
   "宇都宮ブレックス",
@@ -234,52 +234,65 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 249,
+ "detail_count": 250,
  "digest": {
-  "headline": "ユニクロ：シーやKAWSコラボの新作情報が続々と到着",
+  "headline": "ユニクロ秋冬新作やコラボ情報が続々登場",
   "points": [
    {
-    "text": "ユニクロの人気ライン「UNIQLO : C」の2026年秋冬コレクションがスタートし、カシミヤやコーデュロイなどを使用した新作アイテムの発売や発表が控えています。",
+    "text": "ユニクロは「UNIQLO : C」の2026年秋冬コレクションを発売し、カシミヤやコーデュロイを使用したアイテムを展開しています。",
     "ids": [
      "78eb5b1bb1860990",
-     "9f9991c251cc8661",
-     "e365af55c337a0f2"
+     "e365af55c337a0f2",
+     "eba285c1a7dce742"
     ]
    },
    {
-    "text": "現代アーティストKAWSとの新作コラボレーション「KAWS UNIVERSE」UTコレクションや限定カプセルコレクションが発売され、全16アイテムが展開されます。",
+    "text": "現代アーティストKAWSとの新作コレクション「KAWS UNIVERSE」が発売され、全16アイテムの多彩なラインナップが登場しました。",
     "ids": [
      "c2249370e1cac643",
-     "3ddaad89b0f456cf",
-     "f20899370c85d391"
+     "3ddaad89b0f456cf"
     ]
    },
    {
-    "text": "ファーストリテイリングの堅調な2026年度通期業績の発表を受け、株価が目標価格に近い水準を維持しているほか、柳井正会長が鈴木敏文氏のお別れの会に参列しました。",
+    "text": "ファーストリテイリングは堅調な2026年度通期業績を発表し、株価は目標付近を維持しています。",
     "ids": [
-     "372de5a7611de32a",
-     "b269963f923a45c5",
-     "6409f4ee9e3290a2"
+     "372de5a7611de32a"
     ]
    },
    {
-    "text": "GUと「ちいかわ」のコラボアイテム発売がSNSで14万件以上の「いいね」を集めるなど大きな話題となっています。",
+    "text": "ジーユーと「ちいかわ」のコラボアイテム発売が決定し、SNSで14万件以上の「いいね」を集めるなど大きな話題となっています。",
     "ids": [
      "f3b950a55a3912ed"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ リブヘンリーネックT」が話題となり、Xで6件の投稿と2983件の反応を記録しています。",
+    "text": "ユニクロのリブヘンリーネックTが話題となり、Xで3日に6件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-18T05:01:47.139204+09:00",
-  "generated_at": "2026-09-21T05:01:49.135446+09:00",
+  "from": "2026-09-18T11:20:35.905159+09:00",
+  "generated_at": "2026-09-21T11:20:37.624708+09:00",
   "article_count": 24,
-  "sig": "c39e9d9fcc4a"
+  "sig": "c32f20e6d842"
  },
  "items": [
+  {
+   "id": "a49db9e2f12295cc",
+   "url": "https://www.ragtrader.com.au/news/uniqlo-doubles-down-in-queensland",
+   "title_original": "Uniqlo doubles down in Queensland",
+   "source": "Ragtrader.com.au",
+   "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/uniqlo-store-2---mar-22.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-20T23:29:26+00:00",
+   "title_ja": "ユニクロが豪クイーンズランド州での展開を強化",
+   "summary_ja": "ユニクロがオーストラリアのクイーンズランド州における店舗展開や事業を強化していることが分かりました。同地域での存在感をさらに高めるため、積極的な取り組みを進めています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "c52ffa8da15a3e80",
    "url": "https://topics.smt.docomo.ne.jp/amp/article/maidonanews/trend/maidonanews-16905331",
@@ -359,6 +372,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "1becd3a9b209ea77",
+   "url": "https://www.sanyonews.jp/article/1870815",
+   "title_original": "ユニクロ、“ドラクエ”との初コラボを発表「守備力＋5くらいありそう」「ゲーム内にもこのTシャツ実装して欲しい」",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/e/b/6/6/eb661a876489bfff780c61f2cb4e9809_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-20T08:55:35+00:00",
+   "title_ja": "ユニクロが「ドラクエ」との初コラボを発表",
+   "summary_ja": "ユニクロが人気ゲーム「ドラゴンクエスト」との初めてのコラボレーションを発表し、ファンから期待や歓迎の声が寄せられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "39ad534a0407576f",
@@ -3238,6 +3267,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "adda757ee40dd60a",
+   "url": "https://ultrasports.jp/uniqlo-announces-a-partnership-with-bleague-utme",
+   "title_original": "桜井日奈子さん、篠山竜青選手、齋藤拓実選手が新たなスポーツ体験を発信！ユニクロがB.LEAGUEとのパートナーシップ締結を発表！",
+   "source": "ultrasports.jp",
+   "image": "https://ultrasports.jp/wp-content/uploads/2026/09/image-6.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-11T08:00:00+00:00",
+   "title_ja": "ユニクロがB.LEAGUEとパートナーシップを締結！桜井日奈子さんらが魅力を発信",
+   "summary_ja": "ユニクロがプロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。女優の桜井日奈子さんや、篠山竜青選手、齋藤拓実選手らが起用され、新たなスポーツ体験や魅力を発信していく予定です。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6631,54 +6676,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "219ce4e50b6ef588",
-   "url": "https://news.yahoo.co.jp/articles/c0a4fad253f2183b920bf89b76b1054294f697b2/images/000",
-   "title_original": "【ユニクロ ユー】ルメールのラストコレクションはどれを買う？ (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgIk99y5yerAqR1NEK2RA0Rb9SEHNuAsbUljgq2za8Q5N1pFDY6wVJgfhyjpsf8fUcoJtDmjKqEj5E_UxEdZoor3VbaajcdU-2jNy26xCPhBdDtgdBGSSDdFq6ao8cFL_UQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T09:28:13+00:00",
-   "title_ja": "ユニクロ ユー、ルメールのラストコレクション",
-   "summary_ja": "ユニクロ ユーにおけるクリエイティブ・ディレクター、クリストフ・ルメールの最後のコレクションについて、どれを購入すべきか注目アイテムが紹介されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "bc5f9601f0e7602a",
-   "url": "https://senken.co.jp/posts/uniqlo-bleague-260902",
-   "title_original": "ユニクロ Bリーグとパートナーシップ契約",
-   "source": "繊研新聞",
-   "image": "https://senken.co.jp/production/uploads/file_content/file/421865/facebook_760570__27_.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T09:00:00+00:00",
-   "title_ja": "ユニクロ、男子プロバスケットボール「B.LEAGUE」と契約",
-   "summary_ja": "ユニクロが男子プロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ契約締結を発表しました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6621258b32798fce",
-   "url": "https://shikiho.toyokeizai.net/news/0/956665",
-   "title_original": "ファーストリテイリ（9983）8月度 国内ユニクロ売上推移速報を発表いたしました",
-   "source": "四季報オンライン",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-02T08:40:00+00:00",
-   "title_ja": "ファーストリテイリングが8月度の国内ユニクロ売上推移速報を発表",
-   "summary_ja": "ファーストリテイリングは、8月度の国内ユニクロ売上推移速報を発表しました。同社が公表した最新の売上データにより、国内におけるユニクロ事業の直近の業績動向が明らかになっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }

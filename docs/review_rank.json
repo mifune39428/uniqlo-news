@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T04:58:31.347479+09:00",
+ "updated_at": "2026-09-21T11:15:27.086540+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,8 +19,8 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 6,
- "catalog_size": 2999,
- "count": 48,
+ "catalog_size": 3019,
+ "count": 49,
  "items": [
   {
    "key": "UQ:E488141-000",
@@ -113,8 +113,8 @@
    ],
    "price": 4990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_39_475344_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=39",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
    "rating": 4.6,
    "reviews": 5476,
    "reviews7": 120,
@@ -860,8 +860,32 @@
    "rising": false
   },
   {
-   "key": "GU:E361187-000",
+   "key": "GU:E360244-000",
    "rank": 34,
+   "brand": "GU",
+   "name": "KIDSドライストレッチジョガーパンツ",
+   "genders": [
+    "キッズ"
+   ],
+   "price": 790,
+   "promo": 790,
+   "image": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesgoods/360244/item/goods_08_360244_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360244-000/00?colorDisplayCode=65",
+   "rating": 4.5,
+   "reviews": 231,
+   "reviews7": 13,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 14,
+   "momentum": 1.11,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E361187-000",
+   "rank": 35,
    "brand": "GU",
    "name": "GIRLSパフィータッチニットカーディガン(アニマル)CZ",
    "genders": [
@@ -885,7 +909,7 @@
   },
   {
    "key": "UQ:E487272-000",
-   "rank": 35,
+   "rank": 36,
    "brand": "ユニクロ",
    "name": "GIRLS ちいかわ スウェットシャツ",
    "genders": [
@@ -909,7 +933,7 @@
   },
   {
    "key": "UQ:E482006-000",
-   "rank": 36,
+   "rank": 37,
    "brand": "ユニクロ",
    "name": "GIRLS エアリズムファーストブラ",
    "genders": [
@@ -933,7 +957,7 @@
   },
   {
    "key": "UQ:E481780-000",
-   "rank": 37,
+   "rank": 38,
    "brand": "ユニクロ",
    "name": "エアリズムリブレギンス/7分丈/リラックスフィット",
    "genders": [
@@ -957,7 +981,7 @@
   },
   {
    "key": "UQ:E474816-000",
-   "rank": 38,
+   "rank": 39,
    "brand": "ユニクロ",
    "name": "GIRLS エアリズムコットンブラキャミ",
    "genders": [
@@ -981,7 +1005,7 @@
   },
   {
    "key": "UQ:E491279-000",
-   "rank": 39,
+   "rank": 40,
    "brand": "ユニクロ",
    "name": "GIRLS ちいかわ UT",
    "genders": [
@@ -1005,7 +1029,7 @@
   },
   {
    "key": "UQ:E482016-000",
-   "rank": 40,
+   "rank": 41,
    "brand": "ユニクロ",
    "name": "GIRLS エアリズムシームレスショーツ/3枚組",
    "genders": [
@@ -1029,7 +1053,7 @@
   },
   {
    "key": "UQ:E465163-000",
-   "rank": 41,
+   "rank": 42,
    "brand": "ユニクロ",
    "name": "ウルトラストレッチアクティブジョガーパンツ",
    "genders": [
@@ -1053,7 +1077,7 @@
   },
   {
    "key": "UQ:E483327-000",
-   "rank": 42,
+   "rank": 43,
    "brand": "ユニクロ",
    "name": "GIRLS デニムショートパンツ",
    "genders": [
@@ -1077,7 +1101,7 @@
   },
   {
    "key": "GU:E358828-000",
-   "rank": 43,
+   "rank": 44,
    "brand": "GU",
    "name": "GIRLSドライリボンカーゴパンツ",
    "genders": [
@@ -1101,7 +1125,7 @@
   },
   {
    "key": "GU:E358826-000",
-   "rank": 44,
+   "rank": 45,
    "brand": "GU",
    "name": "GIRLSリブプルオンワイドフレアパンツ",
    "genders": [
@@ -1125,7 +1149,7 @@
   },
   {
    "key": "GU:E361117-000",
-   "rank": 45,
+   "rank": 46,
    "brand": "GU",
    "name": "GIRLS3ピースラウンジセット CZ",
    "genders": [
@@ -1149,7 +1173,7 @@
   },
   {
    "key": "UQ:E492993-000",
-   "rank": 46,
+   "rank": 47,
    "brand": "ユニクロ",
    "name": "カウズ ユニバース スウェットシャツ",
    "genders": [
@@ -1173,7 +1197,7 @@
   },
   {
    "key": "GU:E360603-000",
-   "rank": 47,
+   "rank": 48,
    "brand": "GU",
    "name": "BOYSボクサーパンツ2P CZ",
    "genders": [
@@ -1197,7 +1221,7 @@
   },
   {
    "key": "GU:E360495-000",
-   "rank": 48,
+   "rank": 49,
    "brand": "GU",
    "name": "GIRLSスムーススウェットフルジップパーカ CZ",
    "genders": [
