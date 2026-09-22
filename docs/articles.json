@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T19:30:57.858112+09:00",
+ "updated_at": "2026-09-23T00:54:15.052380+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -63,7 +63,6 @@
   "JustFreshKicks",
   "KED Global",
   "Kompas.com",
-  "Krepšinio žinios",
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
   "Lewistown - Sentinel",
@@ -167,6 +166,7 @@
   "pokde.net",
   "qab.co.jp",
   "realsound.jp",
+  "retail-insider.com",
   "rikujyokyogi.co.jp",
   "sanyonews.jp",
   "selecta bisso",
@@ -233,7 +233,6 @@
   "玩具人 TOY PEOPLE",
   "繊研新聞",
   "週刊女性PRIME",
-  "鉄道ファン・railf.jp",
   "電撃オンライン",
   "風傳媒",
   "매일경제",
@@ -241,35 +240,28 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 248,
+ "detail_count": 250,
  "digest": {
-  "headline": "ユニクロが国内外で新店舗展開や新コレクションを発表",
+  "headline": "ユニクロの海外展開加速と注目新作・コラボの最新動向まとめ",
   "points": [
    {
-    "text": "ユニクロは米国ニューヨークのワールドトレードセンターに新店舗を出店し、2026年同市内で4店舗目となるなど出店戦略を加速させています。",
+    "text": "ユニクロはカナダや米国、シンガポール、オーストラリアなどで店舗網の拡大やフラッグシップ店の改装、イベントを積極的に進めています。",
     "ids": [
-     "b05d6b7f1e41a2a5",
-     "3c6fd6d2e644e104",
-     "edb22a21545baf60"
+     "3783a1365add7905",
+     "d425e5dae9c9192f",
+     "b05d6b7f1e41a2a5"
     ]
    },
    {
-    "text": "2026年秋冬コレクションの全貌や、デザイナーのクレア・ワイト・ケラーによる「UNIQLO : C」の新作が発表されました。",
+    "text": "2026年秋冬コレクションや「UNIQLO : C」、ドラクエやKAWSとのコラボUTなどの新作発表が相次いで話題となっています。",
     "ids": [
      "3eab64284c8b2711",
      "61b2b00302897312",
-     "78eb5b1bb1860990"
+     "1becd3a9b209ea77"
     ]
    },
    {
-    "text": "「ドラゴンクエスト」や「KAWS UNIVERSE」との初コラボ・新コレクションをはじめ、多彩な新企画が次々と公開されています。",
-    "ids": [
-     "1becd3a9b209ea77",
-     "c2249370e1cac643"
-    ]
-   },
-   {
-    "text": "GUが秋物トップスを590円に値下げして販売しているほか、ユニクロでもパンツやエアリズム長袖Tなどの期間限定セールが実施されています。",
+    "text": "秋向けパンツの期間限定値下げやGUの秋物トップスの値下げなど、お得なセール情報も注目を集めています。",
     "ids": [
      "b7e0557dca8095f4",
      "c12d38b29256bf20",
@@ -277,17 +269,81 @@
     ]
    },
    {
-    "text": "GU rokh コラボがXで3日に27件投稿されるなどSNSで話題となっています。",
+    "text": "SNSではGU rokh コラボが話題となり、Xで3日に27件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-19T19:41:13.755135+09:00",
-  "generated_at": "2026-09-22T19:41:44.838896+09:00",
+  "from": "2026-09-20T01:31:15.631093+09:00",
+  "generated_at": "2026-09-23T01:32:00.176459+09:00",
   "article_count": 24,
-  "sig": "2c161aef1aa4"
+  "sig": "46f0370df7b9"
  },
  "items": [
+  {
+   "id": "3783a1365add7905",
+   "url": "https://retail-insider.com/retail-insider/2026/09/uniqlo-expands-canadian-footprint-while-reworking-montreal-flagship",
+   "title_original": "UNIQLO Expands Canadian Footprint While Reworking Montreal Flagship",
+   "source": "retail-insider.com",
+   "image": "https://retail-insider.com/wp-content/uploads/2021/02/uniqlo-ste-catherine-2-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T11:48:00+00:00",
+   "title_ja": "ユニクロがカナダで店舗拡大と旗艦店改装を実施",
+   "summary_ja": "ユニクロはカナダ国内での出店をさらに拡大させるとともに、モントリオールにあるフラッグシップ店舗の大規模な改装工事を進めています。北米市場でのプレゼンス強化を図る動きです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d425e5dae9c9192f",
+   "url": "https://www.fibre2fashion.com/news/prime-content/retail-marketi-intelligence-news/uniqlo-gains-share-with-gen-z-millennial-as-it-expands-in-the-us-313671-newsdetails.htm?amp=true",
+   "title_original": "| UNIQLO gains share with Gen Z, millennial as it expands in the US",
+   "source": "Fibre2Fashion",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T10:37:33+00:00",
+   "title_ja": "ユニクロ、米国でZ世代・ミレニアル世代のシェア拡大、事業展開を加速",
+   "summary_ja": "ユニクロが米国市場において、Z世代とミレニアル世代からの支持を広げ、市場シェアを着実に獲得していると報じられた。これは、同社が米国での事業展開を積極的に拡大している戦略の成果とみられる。若年層へのアプローチが成長を後押ししている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "dbe1237903d46821",
+   "url": "https://news.yahoo.co.jp/articles/a905c4e68a0ebcf4ddecd3d67d700810ae38b2d4",
+   "title_original": "「ユニクロって思わんかも」 【発売間近】7990円 《シャツジャケット》、前評判が上々…？ 「色使い良いな」「古着好きに刺さりそう」",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-10161225-lasisa-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T10:15:00+00:00",
+   "title_ja": "ユニクロの新作シャツジャケット、発売間近で前評判上々",
+   "summary_ja": "ユニクロの新作「シャツジャケット」が、7990円で発売間近と報じられています。見出しによると、そのデザインや色使いについて「ユニクロとは思えない」「古着好きに刺さりそう」など、発売前からネット上で高い評価を得ているようです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c9c08e71a1e83bcc",
+   "url": "https://news.yahoo.co.jp/articles/d00925c381deab29a29eacc2b1155f7f863a7375/images/000",
+   "title_original": "「ユニクロCの中でもトップに入るレベル」 ユニクロの“シャツジャケット”が好評！ 「女性らしさも感じられるカッコよさ」「発売前から気になってた」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKFFIeC4rMdU4zNd0lFaBacZTiSJ835vEdQbDTai3XidCoL3ZYcMMvveVRRLa1Rz_5mdVQeSg7Cnf-_sf5q1Rj1XTBKx4gO7PZ_qarIq6prWvNdwoSXnztI0K6RwDYT0cA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T10:10:00+00:00",
+   "title_ja": "ユニクロのシャツジャケット、発売前から「トップレベル」と好評",
+   "summary_ja": "ユニクロの「シャツジャケット」が、発売前から「ユニクロのアイテムの中でもトップレベル」と高い評価を得ています。女性らしさも感じられるデザインが注目され、ネット上では早くも話題となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "94c1afdb9c3f9c30",
    "url": "https://shoppingcentrenews.com.au/shopping-centre-news/retail-outlook/uniqlo-to-open-first-sunshine-coast-store-at-sunshine-plaza",
@@ -302,7 +358,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b05d6b7f1e41a2a5",
@@ -318,7 +374,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3c6fd6d2e644e104",
@@ -334,7 +390,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "85ecefe7ccf225f7",
@@ -357,7 +413,7 @@
    "url": "https://go.kompas.com/read/2026/09/22/124743274/asias-top-10-richest-people-september-2026-featuring-bytedance-and-uniqlo",
    "title_original": "Asia's Top 10 Richest People September 2026: Featuring ByteDance and Uniqlo Founders",
    "source": "Kompas.com",
-   "image": "",
+   "image": "https://asset.kompas.com/crops/n5LAkxXjco_SAAZ1YBG4AMuTxGI=/0x6:1185x796/1200x675/data/photo/2026/08/15/6a7ffd09cc4fe.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-22T05:58:23+00:00",
@@ -366,7 +422,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "97d8903d428d3863",
@@ -398,7 +454,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c77f15207ced827f",
@@ -590,7 +646,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ab792873b283f216",
@@ -6623,70 +6679,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "72f786159207ae47",
-   "url": "https://krepsiniozinios.lt/?h=n0e1o3l3a9m6a9r5c9k9i8s5m",
-   "title_original": "Uniqlo Anime Collabs Cars Are Parked On The Street In Front Of Tall Buildings And A Large Bridge Over It",
-   "source": "Krepšinio žinios",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-03T12:49:48+00:00",
-   "title_ja": "ユニクロのアニメコラボ車両が街中に停車",
-   "summary_ja": "高層ビルや大きな橋の前にある通りの路上に、ユニクロのアニメコラボレーションデザインの車両が停車しています。見出しでは、ビル群と大きな橋を背景にした街中の道路上にアニメコラボ車両が置かれている状況が伝えられています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 1,
-   "detail_tries": 2
-  },
-  {
-   "id": "af3749ef09017f6d",
-   "url": "https://www.fibre2fashion.com/news/fashion-news/uniqlo-set-to-open-new-store-at-lake-shore-in-mumbai-s-thane--313203-newsdetails.htm",
-   "title_original": "UNIQLO set to open new store at Lake Shore in Mumbai's Thane",
-   "source": "Fibre2Fashion",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-03T12:44:58+00:00",
-   "title_ja": "ユニクロがインド・ムンバイのセイン地区に新店舗をオープンへ",
-   "summary_ja": "ユニクロが、インドのムンバイ近郊にあるセイン地区の商業施設「レイク・ショア」に新店舗を出店することが分かりました。成長を続けるインド市場において、さらなる店舗網の拡大とブランドの認知度向上を図ります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "43dd024ea923f15d",
-   "url": "https://news.yahoo.co.jp/articles/f213da004a4fd00d164089515a388c93c4b1646c",
-   "title_original": "第1章の集大成!!! Uniqlo U 2026秋冬コレクション「Confidence in Form」（FORZA STYLE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00079528-forza-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T11:00:38+00:00",
-   "title_ja": "Uniqlo Uが2026年秋冬コレクション「Confidence in Form」を発表",
-   "summary_ja": "ユニクロは、Uniqlo Uの2026年秋冬コレクション「Confidence in Form」を発表しました。「第1章の集大成」と位置づけられた本コレクションは、洗練されたデザインと機能性を兼ね備えたアイテムが展開される予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b7bdd229cb3159af",
-   "url": "https://railf.jp/news/2026/09/03/184500.html",
-   "title_original": "ユニクロ×JR西日本グループ，コラボレーションTシャツの新デザインを発売",
-   "source": "鉄道ファン・railf.jp",
-   "image": "https://cfi.railf.jp/cdn-cgi/image/format=jpeg/thm/2026/09/sq260904_jrw_uniqlo.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T09:45:00+00:00",
-   "title_ja": "ユニクロとJR西日本グループがコラボレーションしたUTの新デザインが発売",
-   "summary_ja": "ユニクロは、JR西日本グループとのコラボレーションによるグラフィックTシャツ（UT）の新しいデザインを発売した。鉄道ファンや地域の方々に向け、JR西日本の車両などをモチーフにしたユニークなデザインが展開される。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
