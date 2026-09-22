@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T00:54:15.052380+09:00",
+ "updated_at": "2026-09-23T05:37:15.424763+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -179,13 +179,13 @@
   "thehootleeds.com",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
+  "tribecacitizen.com",
   "trilltrill.jp",
   "ultrasports.jp",
   "uptodate.tokyo",
   "vietnam.vn",
   "webuomo.jp",
   "whatnow.com",
-  "woman.nikkei.com",
   "ww.fashionnetwork.com",
   "じゃかるた新聞",
   "すみだ経済新聞",
@@ -226,6 +226,7 @@
   "朝日新聞",
   "東京バーゲンマニア",
   "東洋経済オンライン",
+  "毎日キレイ",
   "毎日新聞",
   "水戸経済新聞",
   "流通スーパーニュース",
@@ -242,44 +243,81 @@
  "count": 400,
  "detail_count": 250,
  "digest": {
-  "headline": "ユニクロの海外展開加速と注目新作・コラボの最新動向まとめ",
+  "headline": "ユニクロ、世界各地で新店舗オープンや新作発表が続々",
   "points": [
    {
-    "text": "ユニクロはカナダや米国、シンガポール、オーストラリアなどで店舗網の拡大やフラッグシップ店の改装、イベントを積極的に進めています。",
+    "text": "ユニクロは米ニューヨークのワールドトレードセンターに新店舗をオープンし、北米市場での店舗網拡大を進めています。",
     "ids": [
-     "3783a1365add7905",
-     "d425e5dae9c9192f",
-     "b05d6b7f1e41a2a5"
+     "069793503be6a371",
+     "b05d6b7f1e41a2a5",
+     "edb22a21545baf60"
     ]
    },
    {
-    "text": "2026年秋冬コレクションや「UNIQLO : C」、ドラクエやKAWSとのコラボUTなどの新作発表が相次いで話題となっています。",
+    "text": "デザイナーのクレア・ワイト・ケラーが手掛ける「UNIQLO : C」の2026年秋冬コレクションが発表・発売されました。",
     "ids": [
-     "3eab64284c8b2711",
      "61b2b00302897312",
-     "1becd3a9b209ea77"
+     "78eb5b1bb1860990"
     ]
    },
    {
-    "text": "秋向けパンツの期間限定値下げやGUの秋物トップスの値下げなど、お得なセール情報も注目を集めています。",
+    "text": "「ドラクエ」との初コラボや「KAWS UNIVERSE」UTコレクションなど、新たなコラボレーション企画が次々と発表されています。",
+    "ids": [
+     "1becd3a9b209ea77",
+     "c2249370e1cac643"
+    ]
+   },
+   {
+    "text": "GUが秋も使えるトップスを590円に値下げして販売しているほか、ユニクロでも秋向けパンツの期間限定値下げが行われています。",
     "ids": [
      "b7e0557dca8095f4",
-     "c12d38b29256bf20",
-     "ab792873b283f216"
+     "c12d38b29256bf20"
     ]
    },
    {
-    "text": "SNSではGU rokh コラボが話題となり、Xで3日に27件の投稿が確認されています。",
+    "text": "SNSではGU rokh コラボがXで3日に28件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-20T01:31:15.631093+09:00",
-  "generated_at": "2026-09-23T01:32:00.176459+09:00",
+  "from": "2026-09-20T05:46:23.322976+09:00",
+  "generated_at": "2026-09-23T05:46:25.328582+09:00",
   "article_count": 24,
-  "sig": "46f0370df7b9"
+  "sig": "27a6d834680b"
  },
  "items": [
+  {
+   "id": "58867137b8fd8bd6",
+   "url": "https://mainichi.jp/articles/20260923/ddm/010/050/019000c",
+   "title_original": "ユニクロ全日本ジュニアテニス 熱戦終え閉幕 レジェンド・国枝慎吾さん 次世代への思い",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/23/20260923ddm010050126000p/0c10.jpg?2",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T17:02:30+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニス選手権が熱戦の末に閉幕",
+   "summary_ja": "ユニクロが特別協賛する全日本ジュニアテニス選手権が熱戦を終えて閉幕し、レジェンドの国枝慎吾さんが次世代へ思いを語りました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "069793503be6a371",
+   "url": "https://tribecacitizen.com/2026/09/22/uniqlo-will-open-friday-at-the-world-trade-center",
+   "title_original": "UNIQLO will open Friday at the World Trade Center",
+   "source": "tribecacitizen.com",
+   "image": "https://tribecacitizen.com/wp-content/uploads/2026/09/Uniqlo-WTC-420x336.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-22T13:23:29+00:00",
+   "title_ja": "ワールド・トレード・センターにユニクロが金曜オープン",
+   "summary_ja": "ワールド・トレード・センターにユニクロの新しい店舗が金曜日にオープンする予定です。ニューヨークの主要な商業エリアでの新たな展開として注目を集めています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "3783a1365add7905",
    "url": "https://retail-insider.com/retail-insider/2026/09/uniqlo-expands-canadian-footprint-while-reworking-montreal-flagship",
@@ -310,7 +348,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dbe1237903d46821",
@@ -342,7 +380,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94c1afdb9c3f9c30",
@@ -1639,6 +1677,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "eca613a7075ade2c",
+   "url": "https://mainichikirei.jp/prtimes/article/20260918prt00m100000234a.html",
+   "title_original": "ユニクロ ゆめタウンはません店 9月19日（土）より営業再開",
+   "source": "毎日キレイ",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-18T00:00:00+00:00",
+   "title_ja": "ユニクロゆめタウンはません店が営業を再開",
+   "summary_ja": "ユニクロゆめタウンはません店が、9月19日（土）より営業を再開することが明らかになりました。店舗の営業状況に関するお知らせです。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "4a5b64fe766754cc",
@@ -6631,54 +6685,6 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "a35773dba4b695f8",
-   "url": "https://www.chiba-tv.com/plus/detail/2026091973440",
-   "title_original": "「ユニクロJR新大阪店」とJR西日本グループのコラボレーションTシャツにJR西日本で活躍する車両のをデザインした新柄が登場！",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1468281803401232518/origin_1.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T16:29:33+00:00",
-   "title_ja": "ユニクロJR新大阪店とJR西日本がコラボ、実在の車両をデザインした新柄Tシャツが登場",
-   "summary_ja": "「ユニクロJR新大阪店」とJR西日本グループのコラボレーションTシャツに、JR西日本で活躍する車両をデザインした新しい柄が登場。地域の魅力を伝える限定デザインとなっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "487394bb6314d272",
-   "url": "http://www.excite.co.jp/news/article/BestTimes_04326988",
-   "title_original": "桜井日奈子がユニクロ✕Bリーグイベントに登場。オリジナルバスケTシャツづくりに挑戦",
-   "source": "Excite エキサイト",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T15:30:00+00:00",
-   "title_ja": "桜井日奈子がユニクロとBリーグのイベントに登場、オリジナルTシャツ作りに挑戦",
-   "summary_ja": "女優の桜井日奈子が、ユニクロとBリーグがコラボレーションしたイベントに登場しました。イベント内では、自身でデザインするオリジナルのバスケットボールTシャツ作りに挑戦しました。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "49a83111f30371ea",
-   "url": "https://woman.nikkei.com/atcl/column/23/030200403/081000007/?i_cid=nbpnxw_new_top_03",
-   "title_original": "ユニクロ部長、柳井社長へのプレゼンは毎回ド緊張 攻略のカギは「紙1枚」",
-   "source": "woman.nikkei.com",
-   "image": "https://woman.nikkei.com/atcl/column/23/030200403/081000007/top_m.jpg?20260401",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T15:01:00+00:00",
-   "title_ja": "柳井社長へのプレゼンに挑むユニクロ部長が明かす資料作成のコツ",
-   "summary_ja": "ユニクロの部長が、柳井正社長へのプレゼンにおける緊張感と、その攻略法について語る記事です。提案を通すためのカギは「紙1枚」にまとめることであり、社内での迅速な意思決定を支えるコミュニケーションの実態が明かされています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
