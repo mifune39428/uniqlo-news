@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T06:24:38.777736+09:00",
+ "updated_at": "2026-09-22T11:19:21.529559+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 8,
- "catalog_size": 3019,
+ "catalog_size": 3017,
  "count": 50,
  "items": [
   {
@@ -365,8 +365,43 @@
    "rising": false
   },
   {
-   "key": "UQ:E488773-000",
+   "key": "UQ:E487883-000",
    "rank": 14,
+   "brand": "ユニクロ",
+   "name": "コーティングブルゾン",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 8990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487883/item/jpgoods_39_487883_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E487883-000/00?colorDisplayCode=39",
+   "rating": 4.6,
+   "reviews": 38,
+   "reviews7": 27,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 2,
+   "mention_titles": [
+    {
+     "t": "【ユニクロ ユー】8990円に見えない！「コーティングブルゾン」をパンツ＆スカート着回し｜CLASSY. (magacol)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/5067d5d1e6f5f4f15ee129a99a92fcee92f565dd/images/003"
+    },
+    {
+     "t": "【ユニクロ ユー】8990円に見えない！「コーティングブルゾン」をパンツ＆スカート着回し",
+     "s": "CLASSY.[クラッシィ]",
+     "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIMVM3Slo3WW5IUWJfSHVpckZsaXkwUFdIbEs5WlJ0R2piazEtU3djd1B0T1RBMmhjMzVsZmNXWlJnUnV2amVPTUFmLUR4b2NrSlE?oc=5"
+    }
+   ],
+   "score": 75,
+   "momentum": 2.42,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488773-000",
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "モッズコート",
    "genders": [
@@ -387,41 +422,6 @@
    "score": 72,
    "momentum": 2.49,
    "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E491087-000",
-   "rank": 15,
-   "brand": "ユニクロ",
-   "name": "タックバレルレッグパンツ",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/491087/item/jpgoods_38_491087_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E491087-000/00?colorDisplayCode=38",
-   "rating": 4.3,
-   "reviews": 38,
-   "reviews7": 26,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 2,
-   "mention_titles": [
-    {
-     "t": "【Uniqlo U（ユニクロ ユー）】新作「タックバレルレッグパンツ」を試着レビュー！楽ちん＆きれい見えが叶う美脚パンツは新名品の予感【2026年9月11日発売】（LEE）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93dFgyby1UMGJMcHBiemhyaUxmRnNmOXplUDhXakdudXlKb3VVNUpfMzJFaThta1V5NlBzZGNCZ3dBR1ItYlBfQm9PaU1qeW40M1hmUmY3VXo5ZkhySXpqVlNsVUl3UTJET0ZKUGxVOElEWTY5SGNUbjFETjMxUU0?oc=5"
-    },
-    {
-     "t": "【ユニクロ ユー新作】この秋必見！「タックバレルレッグパンツ」をオンオフ着回し｜CLASSY. (magacol)",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/f9f2e1835f2784aae478646dbfa16dcf7e7843c1/images/001"
-    }
-   ],
-   "score": 72,
-   "momentum": 2.37,
-   "new": true,
    "rising": false
   },
   {
