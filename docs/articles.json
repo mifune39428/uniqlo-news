@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T11:16:59.443684+09:00",
+ "updated_at": "2026-09-23T19:25:22.363286+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -47,6 +47,7 @@
   "GMA Network",
   "GQ Japan",
   "Gear Patrol",
+  "Good On You",
   "Great Deals Singapore",
   "Green Retail World",
   "Hashtag Legend Hong Kong",
@@ -76,6 +77,7 @@
   "Manchester Evening News",
   "Manila Standard",
   "MarkeZine",
+  "Mindanao Times",
   "Modaes",
   "MokokchungTimes.com",
   "MoneyDigest",
@@ -106,7 +108,6 @@
   "Smartkarma",
   "Sole Retriever",
   "SoraNews24",
-  "Storm.mg",
   "Style Rave",
   "Stylist",
   "Sunshine Coast News",
@@ -203,6 +204,7 @@
   "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
+  "テレ東BIZ",
   "ハフポスト",
   "ファッションプレス",
   "ファミ通",
@@ -218,7 +220,6 @@
   "号外NET 奈良市",
   "地域ニュースサイト号外NET",
   "地球の歩き方",
-  "宇都宮ブレックス",
   "寝屋川つーしん",
   "山陽新聞",
   "日テレNEWS NNN",
@@ -241,44 +242,152 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 251,
+ "detail_count": 254,
  "digest": {
-  "headline": "ユニクロ秋冬新作やNY新店、海外展開が続々発表",
+  "headline": "ユニクロが国内外で新店舗を続々オープン、26年秋冬新作も続報",
   "points": [
    {
-    "text": "ユニクロは2026年秋冬コレクションや「UNIQLO：C」、初の「ドラクエ」コラボを発表しました。",
-    "ids": [
-     "3eab64284c8b2711",
-     "61b2b00302897312",
-     "1becd3a9b209ea77"
-    ]
-   },
-   {
-    "text": "ニューヨークのワールドトレードセンターへの出店や、カナダ、シンガポールでの展開が話題です。",
+    "text": "ユニクロはニューヨークのワールドトレードセンター店など、北米をはじめベトナムやフィリピン、オーストラリアで店舗網の拡大を進めています。",
     "ids": [
      "069793503be6a371",
      "3783a1365add7905",
-     "85ecefe7ccf225f7"
+     "60fd7e2bd210d382"
     ]
    },
    {
-    "text": "GUが秋物トップスを590円に値下げして販売し、注目を集めています。",
+    "text": "クレア・ワイト・ケラーが手掛ける「UNIQLO : C」の2026年秋冬コレクションが発売され、アウターやジャケットなどの新作情報が公開されています。",
     "ids": [
-     "b7e0557dca8095f4"
+     "78eb5b1bb1860990",
+     "e2903832837ec897",
+     "69a23b8bc5e856b2"
     ]
    },
    {
-    "text": "GU rokh コラボがXで28件投稿されるなどSNSで話題となっています。",
-    "ids": []
+    "text": "GUとrokhによるコラボレーション新作が10月に発売予定。また、SNSではユニクロのPEACE FOR ALL TシャツがXで3日に6件投稿されています。",
+    "ids": [
+     "b413d70cd533e97a"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-09-20T11:25:44.775405+09:00",
-  "generated_at": "2026-09-23T11:25:46.408192+09:00",
+  "from": "2026-09-20T19:42:43.997669+09:00",
+  "generated_at": "2026-09-23T19:42:45.598642+09:00",
   "article_count": 24,
-  "sig": "e28a05c86c42"
+  "sig": "17ed67cbb4f7"
  },
  "items": [
+  {
+   "id": "2bec942abcee6ddf",
+   "url": "https://news.yahoo.co.jp/articles/fae8f64dd35b2c6e709efa329a3a77d30bc361dc",
+   "title_original": "『おさるのジョージ』×ユニクロ「UT」がコラボ！ あたたかいキルトの“パジャマセット”登場へ（クランクイン！）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00191472-crankinn-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-23T09:00:00+00:00",
+   "title_ja": "『おさるのジョージ』とユニクロ「UT」がコラボ パジャマ登場へ",
+   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」から、『おさるのジョージ』とコラボレーションしたキルト素材のあたたかいパジャマセットが展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "60fd7e2bd210d382",
+   "url": "https://www.vietnam.vn/ja/uniqlo-chinh-thuc-khai-truong-cua-hang-dau-tien-tai-thanh-hoa-vao-thang-10-2026",
+   "title_original": "ユニクロは2026年10月にタインホア省に初の店舗を正式にオープンした。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/23/1790154319350_uniqlo-chinh-th-w720t0-di2638d180d3151229t11200l1-cua-hang-uniqlo9.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-23T08:16:00.870000+00:00",
+   "title_ja": "ユニクロがベトナムのタインホア省に初出店へ 2026年10月オープン",
+   "summary_ja": "ユニクロが2026年10月にベトナムのタインホア省へ初となる店舗をオープンする。現地における店舗網の拡大とブランド展開を進める動きとなっている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c760c443bd6fe6b5",
+   "url": "https://www.mindanaotimes.com.ph/uniqlo-sm-city-zamboanga-opens-on-september-25-with-special-opening-week-promotions",
+   "title_original": "UNIQLO SM City Zamboanga Opens on September 25 with Special Opening Week Promotions",
+   "source": "Mindanao Times",
+   "image": "https://www.mindanaotimes.com.ph/wp-content/uploads/2026/09/UNIQLO-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T06:23:34+00:00",
+   "title_ja": "ユニクロがフィリピンのSMシティ・サンボアンガに9月25日出店",
+   "summary_ja": "ユニクロは、フィリピンの商業施設「SMシティ・サンボアンガ」に9月25日に新店舗をオープンします。オープンを記念して、開業後1週間にわたり特別なプロモーションを実施する予定です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a13bfa1a1f5b5000",
+   "url": "https://retailnews.asia/uniqlo-expands-in-queensland-with-777-square-metre-sunshine-plaza-store",
+   "title_original": "Uniqlo Expands in Queensland with 777-Square-Metre Sunshine Plaza Store",
+   "source": "Retail News Asia",
+   "image": "https://i0.wp.com/crm.retailnews.asia/wp-content/uploads/2018/07/uniqlo.jpg?w=1600&quality=72&strip=all&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T06:01:08+00:00",
+   "title_ja": "ユニクロが豪クイーンズランド州のサンシャイン・プラザに新店舗を出店",
+   "summary_ja": "ユニクロがオーストラリアのクイーンズランド州にある商業施設「サンシャイン・プラザ」に、売り場面積777平方メートルの新店舗を出店し、同地域での事業展開を強化します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b413d70cd533e97a",
+   "url": "https://trilltrill.jp/articles/5047269",
+   "title_original": "大人気のGU×rokhの新作がレベル高すぎ…♡今のうちにチェック！10月発売の注目商品6選",
+   "source": "trilltrill.jp",
+   "image": "https://media.trilltrill.jp/articles/5047269/featured-image.574c06a9f27612a8cd34ba2948a0b26c?w=1200",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-23T00:50:00+00:00",
+   "title_ja": "GUとrokhのコラボ新作が10月に発売予定、注目の6アイテムを紹介",
+   "summary_ja": "GUとファッションブランド「rokh」とのコラボレーションによる新作アイテムが10月に発売される。これに先立ち、ラインナップの中から注目の6商品をピックアップして紹介。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1eb7a89c5c1fbe41",
+   "url": "https://goodonyou.eco/how-ethical-is-uniqlo",
+   "title_original": "How Ethical Is Uniqlo?",
+   "source": "Good On You",
+   "image": "https://goodonyou.eco/wp-content/uploads/2023/04/uniqlo-storefront-lit-up-at-night-1200x630.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-23T00:00:17+00:00",
+   "title_ja": "ユニクロのエシカル度や持続可能性への取り組みを専門サイトが評価",
+   "summary_ja": "エシカルブランド評価サイトの「Good On You」が、ユニクロの環境配慮や労働環境における倫理的な取り組みについて独自の基準に基づき検証・評価している。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e2903832837ec897",
+   "url": "https://news.yahoo.co.jp/articles/1c11a19ac37c802b8859058454e5289516187510",
+   "title_original": "まもなく発売【ユニクロ:C】必見の “美シルエット”… 8990円 《テーラードジャケット》 は「100％買い」？ 「ダークブラウンすてき」",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-10161454-lasisa-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T23:15:00+00:00",
+   "title_ja": "ユニクロ：Cから美しいシルエットのテーラードジャケットが8990円で間もなく発売",
+   "summary_ja": "ユニクロの「UNIQLO : C」コレクションから、8,990円のテーラードジャケットが間もなく発売されます。美しいシルエットやダークブラウンの色味が注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "69a23b8bc5e856b2",
    "url": "https://spur.hpplus.jp/fashion/news/SWHcZw",
@@ -309,7 +418,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "58867137b8fd8bd6",
@@ -518,6 +627,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "045922ca0598f825",
+   "url": "https://txbiz.tv-tokyo.co.jp/readings/1811",
+   "title_original": "＜追跡＞「ユニクロ」VS「SHEIN」裁判の行方 職人は型紙が同じ可能性を指摘【WBS】",
+   "source": "テレ東BIZ",
+   "image": "https://txbiz.tv-tokyo.co.jp/static/images/fblogo.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-21T23:41:45+00:00",
+   "title_ja": "ユニクロとSHEINの裁判を追跡、職人が型紙の同一性を指摘",
+   "summary_ja": "ユニクロとSHEINによる訴訟の行方を追跡したニュース。専門の職人が型紙が同じ可能性を指摘するなど、模倣品を巡る争いの詳細や今後の展開について報じている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "c77f15207ced827f",
@@ -6547,134 +6672,6 @@
    "title_ja": "ユニクロで商品を盗み別店舗で返品して現金詐取を図った男を逮捕",
    "summary_ja": "ユニクロでズボンを盗み、別の店舗で返品を申し出て現金などをだまし取ろうとしたとして、38歳の男が警察に逮捕されました。",
    "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "0c7a6f1c63ef868d",
-   "url": "https://news.livedoor.com/topics/detail/32238908",
-   "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に (2026年9月4日掲載)",
-   "source": "news.livedoor.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T03:09:57+00:00",
-   "title_ja": "ユニクロ、ベビー用品の取り扱い店舗で「ベビー肌着」の全商品を販売開始",
-   "summary_ja": "ユニクロは、ベビー用品を取り扱う全店舗において、ベビー肌着の全ラインナップを購入できるようにした。これにより、利用者は最寄りのベビー取り扱い店舗で、必要なベビー肌着をより手軽に比較・選択して購入することが可能になる。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "40b5dbd1698dc32a",
-   "url": "https://www.sanyonews.jp/article/1983635?rct=oricon_news",
-   "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/3/e/f/4/3ef41262f25317220eb95e050d7e70bf_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T03:09:00+00:00",
-   "title_ja": "ユニクロがベビー取り扱い店舗で肌着全ラインナップを販売へ",
-   "summary_ja": "ユニクロは、ベビー用品を展開する店舗において、ベビー肌着の全ラインナップを購入できるよう取り扱い体制を拡充します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9710c11ac571542d",
-   "url": "https://ampmedia.jp/2026/09/04/uniqlo-arcakit",
-   "title_original": "ユニクロ、アルカキット錦糸町店を増床リニューアル キッズ＆ベビー売場を約3倍に拡大",
-   "source": "AMP[アンプ]",
-   "image": "https://ampmedia.jp/wp-content/uploads/2026/09/68741-154-9ca359f199e33c5a82f8186c5d451afc-1000x571-2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T02:56:44+00:00",
-   "title_ja": "ユニクロのアルカキット錦糸町店がリニューアル、キッズ＆ベビー売り場を3倍に拡大",
-   "summary_ja": "ユニクロがアルカキット錦糸町店を増床リニューアルします。今回の改装により、キッズおよびベビー商品の売り場面積が従来の約3倍に拡大され、ファミリー層にとってより買い物がしやすい店舗へと生まれ変わります。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8115a9a0b5450301",
-   "url": "https://abema.tv/video/episode/89-93_s10_p60116",
-   "title_original": "「ユニクロ」で万引き繰り返し 返品して現金詐取未遂か 38歳男を逮捕 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
-   "source": "ABEMA",
-   "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-93_s10_p60116/thumb001.png?height=720&quality=75&version=1788487597&width=1280",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T02:51:49+00:00",
-   "title_ja": "ユニクロで万引きと返品詐取未遂、38歳男逮捕",
-   "summary_ja": "ユニクロの店舗において万引きを繰り返し、さらに返品を装って現金をだまし取ろうとした疑いで、38歳の男が警察に逮捕されたと報じられています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "00c6a86fefce5189",
-   "url": "https://www.ryutsuu.biz/store/s090442.html",
-   "title_original": "ユニクロ／東京・錦糸町の「アルカキット錦糸町店」9月25日リニューアルオープン",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/09/20260904uniqlo.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T01:24:48+00:00",
-   "title_ja": "ユニクロ「アルカキット錦糸町店」が9月25日にリニューアルオープン",
-   "summary_ja": "東京・錦糸町にあるユニクロ「アルカキット錦糸町店」が、9月25日にリニューアルオープンすることが分かりました。店舗装いを新たにし、来店客が訪れるたびに楽しみを感じられるような店舗を目指します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f4f4d97fe7cb7ad5",
-   "url": "https://japan.storm.mg/articles/1161112",
-   "title_original": "ユニクロがB.LEAGUEとパートナーシップ締結 初となる選手用ユニフォームや審判ウェア提供へ | 黃信維（コウ・シンイ） | ニュース",
-   "source": "Storm.mg",
-   "image": "https://images.storm.mg/cloud/da6c2742d32a5399882e0007bf7b9ddf19d80aea.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2208432%2FF7v8XsVpL9bz7tJBdbBasMX4RTU5QhYXo3klDJ7x.png&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T01:18:00+00:00",
-   "title_ja": "ユニクロがB.LEAGUEとパートナーシップ締結　選手・審判用ウェアを初提供",
-   "summary_ja": "ユニクロはプロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。本提携を通じて、同社としては初となる選手用ユニフォームや審判用ウェアの提供を行う予定です。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "eb3a1c1644a66196",
-   "url": "https://news.yahoo.co.jp/articles/8b0da1a96fdbd70d64b569bd54f43afa8f05e0a1",
-   "title_original": "ユニクロで万引きした商品の返品を要求か 38歳男逮捕 ユニクロは男の人着を共有（テレビ朝日系（ANN））",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00010001-annd-000-2-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T00:42:09+00:00",
-   "title_ja": "ユニクロで盗んだ商品の返品を要求か　38歳男を逮捕",
-   "summary_ja": "ユニクロの店舗で万引きした商品を店舗に持ち込み、不正に返品を要求したとして38歳の男が逮捕されました。被害を受けたユニクロ側は、容疑者の特徴などの情報を共有して警戒を行っていたと伝えられています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "da5c0ae642bfaca1",
-   "url": "https://www.utsunomiyabrex.com/news/detail/id=26963",
-   "title_original": "【イベント】9/4(金) #0 田臥選手 UNIQLO LIVE STATION生出演",
-   "source": "宇都宮ブレックス",
-   "image": "https://www.utsunomiyabrex.com/files/user/images/players/2026-27/0_square.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T00:00:00+00:00",
-   "title_ja": "宇都宮ブレックスの田臥勇太選手がユニクロの「LIVE STATION」に生出演",
-   "summary_ja": "プロバスケットボールチーム・宇都宮ブレックスの田臥勇太選手が、ユニクロの動画配信サービス「UNIQLO LIVE STATION」に生出演し、トークや商品紹介を行う。",
-   "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
