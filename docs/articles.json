@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T05:37:15.424763+09:00",
+ "updated_at": "2026-09-23T11:16:59.443684+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -100,6 +100,7 @@
   "Retail News Asia",
   "SFGATE",
   "SFist",
+  "SPUR（シュプール）",
   "San Francisco Chronicle",
   "Shopping Centre News",
   "Smartkarma",
@@ -225,7 +226,6 @@
   "時事ドットコム",
   "朝日新聞",
   "東京バーゲンマニア",
-  "東洋経済オンライン",
   "毎日キレイ",
   "毎日新聞",
   "水戸経済新聞",
@@ -241,51 +241,76 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 250,
+ "detail_count": 251,
  "digest": {
-  "headline": "ユニクロ、世界各地で新店舗オープンや新作発表が続々",
+  "headline": "ユニクロ秋冬新作やNY新店、海外展開が続々発表",
   "points": [
    {
-    "text": "ユニクロは米ニューヨークのワールドトレードセンターに新店舗をオープンし、北米市場での店舗網拡大を進めています。",
+    "text": "ユニクロは2026年秋冬コレクションや「UNIQLO：C」、初の「ドラクエ」コラボを発表しました。",
+    "ids": [
+     "3eab64284c8b2711",
+     "61b2b00302897312",
+     "1becd3a9b209ea77"
+    ]
+   },
+   {
+    "text": "ニューヨークのワールドトレードセンターへの出店や、カナダ、シンガポールでの展開が話題です。",
     "ids": [
      "069793503be6a371",
-     "b05d6b7f1e41a2a5",
-     "edb22a21545baf60"
+     "3783a1365add7905",
+     "85ecefe7ccf225f7"
     ]
    },
    {
-    "text": "デザイナーのクレア・ワイト・ケラーが手掛ける「UNIQLO : C」の2026年秋冬コレクションが発表・発売されました。",
+    "text": "GUが秋物トップスを590円に値下げして販売し、注目を集めています。",
     "ids": [
-     "61b2b00302897312",
-     "78eb5b1bb1860990"
+     "b7e0557dca8095f4"
     ]
    },
    {
-    "text": "「ドラクエ」との初コラボや「KAWS UNIVERSE」UTコレクションなど、新たなコラボレーション企画が次々と発表されています。",
-    "ids": [
-     "1becd3a9b209ea77",
-     "c2249370e1cac643"
-    ]
-   },
-   {
-    "text": "GUが秋も使えるトップスを590円に値下げして販売しているほか、ユニクロでも秋向けパンツの期間限定値下げが行われています。",
-    "ids": [
-     "b7e0557dca8095f4",
-     "c12d38b29256bf20"
-    ]
-   },
-   {
-    "text": "SNSではGU rokh コラボがXで3日に28件投稿されています。",
+    "text": "GU rokh コラボがXで28件投稿されるなどSNSで話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-20T05:46:23.322976+09:00",
-  "generated_at": "2026-09-23T05:46:25.328582+09:00",
+  "from": "2026-09-20T11:25:44.775405+09:00",
+  "generated_at": "2026-09-23T11:25:46.408192+09:00",
   "article_count": 24,
-  "sig": "27a6d834680b"
+  "sig": "e28a05c86c42"
  },
  "items": [
+  {
+   "id": "69a23b8bc5e856b2",
+   "url": "https://spur.hpplus.jp/fashion/news/SWHcZw",
+   "title_original": "【ユニクロ】で今季注目すべきアウターとは？ 2026年秋冬アウターコレクション登場",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/d8/d82833db-97a3-4fb2-b69e-bbcc3c11d445-1915x1005.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T23:00:00+00:00",
+   "title_ja": "ユニクロの2026年秋冬アウターコレクションが登場、注目作を展開",
+   "summary_ja": "ユニクロが2026年秋冬アウターコレクションを発表した。今季注目すべきアウター類がラインナップされており、これからの季節に向けた新作コレクションの展開が始まっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "25daa11289e0653e",
+   "url": "https://mainichi.jp/articles/20260923/ddm/010/050/018000c",
+   "title_original": "ユニクロ全日本ジュニアテニス 熱戦終え閉幕 各部門の優勝者 喜びの声",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/23/20260923ddm010050131000p/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-22T17:02:36+00:00",
+   "title_ja": "ユニクロ全日本ジュニアテニスが閉幕、各部門の優勝者が喜び語る",
+   "summary_ja": "ジュニアテニスの大会『ユニクロ全日本ジュニアテニス選手権』が熱戦を終えて閉幕しました。各部門で優勝を飾った選手たちが、大会を終えてそれぞれの喜びの声を寄せています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "58867137b8fd8bd6",
    "url": "https://mainichi.jp/articles/20260923/ddm/010/050/019000c",
@@ -300,7 +325,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "069793503be6a371",
@@ -1692,7 +1717,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4a5b64fe766754cc",
@@ -6652,38 +6677,6 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "c72add5494f6e9d7",
-   "url": "https://daitoshijonawate.goguynet.jp/2026/09/04/plst",
-   "title_original": "【四條畷市】イオンモール四條畷1階の水のコート横に超大型店舗「PLST（プラステ）」がオープンするようです。ユニクロもリニューアル！",
-   "source": "地域ニュースサイト号外NET",
-   "image": "https://daitoshijonawate.goguynet.jp/wp-content/uploads/sites/4/2026/09/IMG_7640.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T22:21:25+00:00",
-   "title_ja": "イオンモール四條畷に「PLST」超大型店がオープンへ ユニクロも改装",
-   "summary_ja": "イオンモール四條畷の1階に、ファーストリテイリング傘下のブランド「PLST（プラステ）」の超大型店舗がオープンすることが分かりました。これに伴い、同施設内にある「ユニクロ」もリニューアルオープンする予定です。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "2b4c1838433dbe76",
-   "url": "https://toyokeizai.net/articles/-/956639",
-   "title_original": "｢障害者雇用率｣が高い企業ランキング！ 10位ファーストリテイリング､9位Trailhead Global Holdings､8位しまむら､さらに上位に入ったのは？",
-   "source": "東洋経済オンライン",
-   "image": "https://tk.ismcdn.jp/mwimgs/4/0/1200xm/img_40a81e7a703307d0ef5671f29f13d604119151.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-03T20:00:00+00:00",
-   "title_ja": "障害者雇用率が高い企業ランキングでファーストリテイリングが10位に",
-   "summary_ja": "東洋経済オンラインが発表した「障害者雇用率が高い企業ランキング」にて、ファーストリテイリングが10位にランクインした。同社の多様な人材の雇用に対する取り組みが示されている。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
