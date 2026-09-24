@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T01:04:43.808682+09:00",
+ "updated_at": "2026-09-25T05:54:04.125970+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,6 +18,7 @@
  "sources": [
   "7news.com.au",
   "@DIME アットダイム",
+  "A1 Retail Magazine",
   "AD HOC NEWS",
   "AERA DIGITAL",
   "AMP[アンプ]",
@@ -166,6 +167,7 @@
   "news.infoseek.co.jp",
   "news.livedoor.com",
   "news.nicovideo.jp",
+  "newswav.com",
   "nikkei.com",
   "pokde.net",
   "propertyweek.com",
@@ -242,51 +244,70 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 266,
+ "detail_count": 268,
  "digest": {
-  "headline": "国内外の出店加速とUNIQLO : C新作",
+  "headline": "ユニクロが国内外で出店を加速、新作コラボも続々登場",
   "points": [
    {
-    "text": "ユニクロは海外展開を加速し、米ニューヨークのワールドトレードセンター店など北米での店舗網を拡大しています。",
+    "text": "ユニクロは英マンチェスター、ケンブリッジ、バースなどでの新規出店やオープン日を発表し、英国での成長を加速させています。",
     "ids": [
-     "b05d6b7f1e41a2a5",
-     "3783a1365add7905"
-    ]
-   },
-   {
-    "text": "イギリスのマンチェスターやケンブリッジ、バースなど各地で新規出店や開店日の決定が発表されています。",
-    "ids": [
+     "62d15616134afd9b",
      "8e65acc07a0c6b98",
-     "f92b4dd88ebdfba8",
-     "2f83e50eeb5c3e75"
+     "f92b4dd88ebdfba8"
     ]
    },
    {
-    "text": "注目を集める「UNIQLO : C」の秋冬コレクションが解禁され、ヒートテックとカシミヤを組み合わせたアイテムなどが登場しています。",
+    "text": "米国ではニューヨークのワールドトレードセンター店など出店を進め、Z世代やミレニアル世代のシェア拡大を図っています。",
+    "ids": [
+     "a8f718b1ce32febd",
+     "d425e5dae9c9192f",
+     "b05d6b7f1e41a2a5"
+    ]
+   },
+   {
+    "text": "ベトナムやカナダでも事業拡大や店舗改装が行われ、GUもニューヨークに初の旗艦店をオープンするなど海外展開が活発です。",
+    "ids": [
+     "e53f59524282da1b",
+     "3783a1365add7905",
+     "27a8cb06c7f73d89"
+    ]
+   },
+   {
+    "text": "「UNIQLO : C」の秋冬コレクションをはじめ、KAWSとの新作UTや「ディズニー・レーシング」など新商品も多数発表されました。",
     "ids": [
      "e8c540701116c3c4",
-     "d536deaf373b5b43"
+     "b4600e736ff51b4a",
+     "7edf2a3e623339c0"
     ]
    },
    {
-    "text": "国内ではユニクロ錦糸町店が増床リニューアルオープンし、地域企業とコラボした限定商品を販売しています。",
-    "ids": [
-     "7f0244f58c2ea0f0",
-     "c92210bef0efabce"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ ボリュームパンツ」がXで5件投稿されています。",
+    "text": "SNSでは、ユニクロのボリュームパンツがXで5件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-22T01:22:31.293065+09:00",
-  "generated_at": "2026-09-25T01:23:04.395945+09:00",
+  "from": "2026-09-22T06:01:33.786774+09:00",
+  "generated_at": "2026-09-25T06:01:37.952500+09:00",
   "article_count": 24,
-  "sig": "b437809dc150"
+  "sig": "9ce8923230d8"
  },
  "items": [
+  {
+   "id": "62d15616134afd9b",
+   "url": "https://fashionunited.uk/press/retail/uniqlo-to-open-second-manchester-store-prepares-biggest-year-of-uk-growth-for-2027/2026092490521",
+   "title_original": "UNIQLO to open second Manchester store, prepares biggest year of UK growth for 2027",
+   "source": "Fashion United",
+   "image": "https://r.fashionunited.com/3aMhYDlTfLn9ycKcXgshqvzP8-zb5s1nk_IYWI2THTw/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMjQvdW5pcWxvLW1hbmNoZXN0ZXItdHJhZmZvcmQtY2VudHJlLXpsZnhnZXZiLTIwMjYtMDktMjQuanBlZw.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T13:06:57.870403+00:00",
+   "title_ja": "ユニクロ、英マンチェスターに2号店を出店へ　2027年に向け英国での成長加速",
+   "summary_ja": "ユニクロは、英国マンチェスターに2店舗目となる新店をオープンすることを明らかにしました。同ブランドは2027年に向けて、英国における過去最大規模の成長への準備を進めています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e8c540701116c3c4",
    "url": "https://monomax.jp/archives/362870",
@@ -336,6 +357,22 @@
    "has_detail": true
   },
   {
+   "id": "e5b3767cb2001a15",
+   "url": "https://www.a1retailmagazine.com/latest-news/global-fashion-brand-uniqlo-to-join-british-lands-southgate-bath",
+   "title_original": "Global fashion brand UNIQLO to join British Land’s Southgate, Bath",
+   "source": "A1 Retail Magazine",
+   "image": "https://www.a1retailmagazine.com/wp-content/uploads/2026/09/UNIQLO-Bath-Store-Render.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T12:15:03+00:00",
+   "title_ja": "ユニクロ、英国バースの商業施設「サウスゲート」に新店舗をオープンへ",
+   "summary_ja": "グローバルファッションブランドのユニクロが、英国バースにあるブリティッシュ・ランド社の商業施設「サウスゲート」に出店することが分かりました。海外での店舗網をさらに拡大していきます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "2f83e50eeb5c3e75",
    "url": "https://retailtimes.co.uk/uniqlo-to-open-at-southgate-bath",
    "title_original": "UNIQLO to open at SouthGate Bath",
@@ -349,7 +386,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d558f329e50960c8",
@@ -541,6 +578,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b4600e736ff51b4a",
+   "url": "https://newswav.com/article/mickey-mouse-meets-formula-1-in-uniqlo-s-new-disney-racing-collection-A2609_7kPqbb",
+   "title_original": "Mickey Mouse Meets Formula 1 In UNIQLO’s New Disney Racing Collection",
+   "source": "newswav.com",
+   "image": "https://thestoly.com/wp-content/uploads/2026/09/Main-Key-Visual.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T03:06:21+00:00",
+   "title_ja": "ユニクロが「ディズニー・レーシング」コレクションを発表",
+   "summary_ja": "ユニクロの新しいディズニーコレクションとして、ミッキーマウスとF1フォーミュラ1が融合した「ディズニー・レーシング」が登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6634,54 +6687,6 @@
    "published": "2026-09-04T13:30:00+00:00",
    "title_ja": "ユニクロが秋まで長く着回せるアイテムの期間限定セールを実施",
    "summary_ja": "ユニクロが秋シーズンを通して長期間着回せるお買い得アイテムを揃えた期間限定セールを実施しています。今週の特別価格になっている注目商品をリスト形式でまとめています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "8cbd29345e7db0d8",
-   "url": "https://news.yahoo.co.jp/articles/1f0f0cf26f8af0a3c355743bb32342d76cd5a5a2/images/000",
-   "title_original": "東日本で豪雨、不安定な気候でユニクロ1.3％減 国内アパレル関連大手26年8月度 (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgO6riVrmvaFe_vamtuUfiiRbNB27blrugOs0MQRksKftiNUvZcm4tns44NQWJ5xF3_Rqqe7jK4i_heCKmN2pDHTJLBZ9-Yxql-FCmXO4fVIh6sP0TXWoqWeHnLH__-56-g==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T12:48:31+00:00",
-   "title_ja": "不安定な天候の影響でユニクロの2026年8月度売上高は1.3％減",
-   "summary_ja": "2026年8月度の国内アパレル大手の動向において、東日本を中心とした豪雨や不安定な天候が響き、ユニクロの売上高が前年同月比1.3％減少したことが公表されました。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e8502af222838523",
-   "url": "https://news.nicovideo.jp/watch/nw19740821?news_ref=20_20",
-   "title_original": "【ギンビス】「たべっ子どうぶつ」や「アスパラくん」が勢揃い！ギンビスオールスターズが『ユニクロ",
-   "source": "news.nicovideo.jp",
-   "image": "https://news.cdn.nimg.jp/articles/images/19740821/efffe3a14ffc2cf555a67e800fefb8b0b663bc29e72e82eb08e722f6924bc6b21ed696396376305819e3462f088df2a90b307414b860aa2c800847b8bb4a37bf",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T12:48:23+00:00",
-   "title_ja": "ギンビス「たべっ子どうぶつ」などのキャラクターがユニクロとコラボ",
-   "summary_ja": "ギンビスの「たべっ子どうぶつ」や「アスパラくん」といった人気お菓子のキャラクターたちが、ユニクロとコラボレーションを展開します。おなじみのキャラクターが集結した注目ラインナップが登場します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "85716131694c53b0",
-   "url": "https://nlab.itmedia.co.jp/research/articles/4003195",
-   "title_original": "「8枚買いました」 ユニクロの“大ヒットTシャツ”が1990円→1290円に 「他のは着れないくらい気持ちいい」「エアリズムから乗り換えました」（1/2） | ウェア ねとらぼリサーチ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/06/1749447054_ae893cf31188d906210e595c4055854f.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T12:00:00+00:00",
-   "title_ja": "ユニクロのTシャツが1990円から1290円に値下げされ話題に",
-   "summary_ja": "ユニクロの「大ヒットTシャツ」が1990円から1290円へと値下げされ注目を集めている。着心地の良さから複数枚まとめ買いする人や、他のインナーから乗り換える人が続出するなど人気となっている。",
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
