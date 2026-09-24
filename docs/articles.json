@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T19:42:05.599688+09:00",
+ "updated_at": "2026-09-25T01:04:43.808682+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -75,6 +75,7 @@
   "MEN'S NON-NO WEB",
   "Magzter",
   "Manchester Evening News",
+  "Manchester Wire",
   "Manila Standard",
   "MarkeZine",
   "Mindanao Times",
@@ -100,6 +101,7 @@
   "QAB 琉球朝日放送",
   "Ragtrader.com.au",
   "Retail News Asia",
+  "Retail Times",
   "SFGATE",
   "SFist",
   "SPUR（シュプール）",
@@ -166,6 +168,7 @@
   "news.nicovideo.jp",
   "nikkei.com",
   "pokde.net",
+  "propertyweek.com",
   "realsound.jp",
   "retail-insider.com",
   "rikujyokyogi.co.jp",
@@ -239,45 +242,115 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 263,
+ "detail_count": 266,
  "digest": {
-  "headline": "国内外での店舗展開加速と秋冬新作やコラボ商品の発表",
+  "headline": "国内外の出店加速とUNIQLO : C新作",
   "points": [
    {
-    "text": "GUがニューヨークに初の旗艦店をオープンしたほか、ユニクロも同市内の世界貿易センターに出店するなど、米国等での展開を強化しています。",
+    "text": "ユニクロは海外展開を加速し、米ニューヨークのワールドトレードセンター店など北米での店舗網を拡大しています。",
     "ids": [
-     "27a8cb06c7f73d89",
      "b05d6b7f1e41a2a5",
-     "d425e5dae9c9192f"
+     "3783a1365add7905"
     ]
    },
    {
-    "text": "ユニクロは２０２６年秋冬コレクションを発表したほか、現代アーティストＫＡＷＳとの新作コラボＵＴの発売を明らかにしました。",
+    "text": "イギリスのマンチェスターやケンブリッジ、バースなど各地で新規出店や開店日の決定が発表されています。",
     "ids": [
-     "261c5cf71f63733f",
-     "7edf2a3e623339c0"
+     "8e65acc07a0c6b98",
+     "f92b4dd88ebdfba8",
+     "2f83e50eeb5c3e75"
     ]
    },
    {
-    "text": "国内ではユニクロ錦糸町店が増床リニューアルし、子供服売り場を３倍に拡大したほか、お菓子メーカーとの限定商品を販売しています。",
+    "text": "注目を集める「UNIQLO : C」の秋冬コレクションが解禁され、ヒートテックとカシミヤを組み合わせたアイテムなどが登場しています。",
     "ids": [
-     "fe5a81b37a07df5b",
-     "34bef4448b425566",
+     "e8c540701116c3c4",
+     "d536deaf373b5b43"
+    ]
+   },
+   {
+    "text": "国内ではユニクロ錦糸町店が増床リニューアルオープンし、地域企業とコラボした限定商品を販売しています。",
+    "ids": [
+     "7f0244f58c2ea0f0",
      "c92210bef0efabce"
     ]
    },
    {
-    "text": "GU rokh コラボがXで3日に15件投稿され、話題となっています。",
+    "text": "SNSでは「ユニクロ ボリュームパンツ」がXで5件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-21T19:55:08.025124+09:00",
-  "generated_at": "2026-09-24T19:55:22.069289+09:00",
+  "from": "2026-09-22T01:22:31.293065+09:00",
+  "generated_at": "2026-09-25T01:23:04.395945+09:00",
   "article_count": 24,
-  "sig": "c09320ae69b7"
+  "sig": "b437809dc150"
  },
  "items": [
+  {
+   "id": "e8c540701116c3c4",
+   "url": "https://monomax.jp/archives/362870",
+   "title_original": "【ユニクロ秋冬の絶対的大本命】ヒートテック×カシミヤが叶える極上の着心地！「UNIQLO : C」の最新コレクションが解禁",
+   "source": "MonoMax web",
+   "image": "https://monomax.jp/official/wp-content/uploads/2026/09/260607_UNIQLO_CPJ_FW26_LOOK_06_DOUBLE_2_0106_3x2_LR.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-24T13:00:16+00:00",
+   "title_ja": "UNIQLO : C、ヒートテック×カシミヤの秋冬新作コレクション解禁",
+   "summary_ja": "ユニクロのコラボレーションライン「UNIQLO : C」より、2026年秋冬の最新コレクションが解禁されました。今回のコレクションでは、ヒートテック素材とカシミヤを組み合わせた、極上の着心地を追求したアイテムが多数登場。秋冬のファッションを彩る注目アイテムとして期待されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "55b6adf5d6827879",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-reports-august-sales-decline/70177693",
+   "title_original": "Fast Retailing stock reports August sales decline",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405036_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T12:44:36+00:00",
+   "title_ja": "ファーストリテイリング、8月売上高が減少",
+   "summary_ja": "ファーストリテイリングの8月売上高に関する報告が見出しで伝えられました。具体的な数値は不明ですが、売上高が減少したことが示唆されており、企業の業績動向として注目されます。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "782ecc8a81fa7d8c",
+   "url": "https://www.vietnam.vn/ja/uniqlo-chinh-thuc-khai-truong-cua-hang-dau-tien-tai-thanh-hoa",
+   "title_original": "ユニクロがタインホア省に初の店舗を正式にオープンしました。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/24/1790253211325_p1-17902473903651144844587-60-0-1132-2048-crop-1790247424900399693179.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-24T12:30:00.500000+00:00",
+   "title_ja": "ユニクロ、ベトナム・タインホア省に初の店舗を正式オープン",
+   "summary_ja": "ユニクロがベトナムのタインホア省に初めての店舗を正式にオープンしました。これにより、同地域におけるユニクロのプレゼンスが確立され、より多くの顧客に商品を提供できるようになります。今回の出店は、ユニクロのベトナム市場での事業拡大戦略の一環です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2f83e50eeb5c3e75",
+   "url": "https://retailtimes.co.uk/uniqlo-to-open-at-southgate-bath",
+   "title_original": "UNIQLO to open at SouthGate Bath",
+   "source": "Retail Times",
+   "image": "https://retailtimes.co.uk/wp-content/uploads/2026/09/UNIQLO-Bath-Store-Render.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T10:16:27+00:00",
+   "title_ja": "ユニクロ、イギリスのサウスゲイト・バースに出店へ",
+   "summary_ja": "イギリスのショッピングセンター「サウスゲイト・バース」に、ユニクロの新しい店舗がオープンすることが明らかになりました。今後の出店に向けた動きが進められています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "d558f329e50960c8",
    "url": "https://news.yahoo.co.jp/articles/a90d1c24d3946a7c51207bf49e2962e808f039b3",
@@ -340,7 +413,23 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "56dc709ff41f53f6",
+   "url": "https://www.propertyweek.com/news/uniqlo-to-set-up-shop-at-southgate-bath",
+   "title_original": "UNIQLO to set up shop at SouthGate Bath",
+   "source": "propertyweek.com",
+   "image": "https://wp-eris.s3.eu-west-1.amazonaws.com/wp-content/uploads/sites/2/2026/09/UNIQLO-Bath-Store-Render-1024x683.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T08:32:48+00:00",
+   "title_ja": "ユニクロ、英バースのSouthGateに出店へ",
+   "summary_ja": "ユニクロがイギリスのバース市にある商業施設「SouthGate」に新規店舗を開設する予定であることが報道されました。具体的な出店時期や店舗規模は不明ですが、ユニクロの海外展開戦略の一環として注目されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "d536deaf373b5b43",
@@ -359,6 +448,22 @@
    "has_detail": true
   },
   {
+   "id": "7f0244f58c2ea0f0",
+   "url": "https://sumida.keizai.biz/mapnews/1984",
+   "title_original": "ユニクロ錦糸町店がリニューアル ギンビス・やおきんなどと限定商品（ニュース地図）",
+   "source": "すみだ経済新聞",
+   "image": "https://images.keizai.biz/sumida_keizai/headline/1790233322_photo.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-24T08:12:27+00:00",
+   "title_ja": "ユニクロ錦糸町店がリニューアル、地域限定商品を発売",
+   "summary_ja": "ユニクロ錦糸町店がリニューアルオープンし、地元にちなんだ企業であるギンビスやおきんなどとコラボレーションした限定商品を販売します。地域の魅力を取り入れた特別なラインナップが買い物を盛り上げます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "c92210bef0efabce",
    "url": "https://senken.co.jp/posts/uniqlo-260924",
    "title_original": "ユニクロ錦糸町店が増床リニューアル ファミリー、インバウンドも買いやすく",
@@ -372,6 +477,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8e65acc07a0c6b98",
+   "url": "https://manchesterwire.co.uk/uniqlo-confirms-opening-date-for-brand-new-manchester-store",
+   "title_original": "UNIQLO confirms opening date for brand-new Manchester store",
+   "source": "Manchester Wire",
+   "image": "https://static.manchesterwire.co.uk/app/uploads/2026/04/calvision-uniqlo-617616.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-24T07:44:01+00:00",
+   "title_ja": "ユニクロ、イギリス・マンチェスターの新店オープン日決定",
+   "summary_ja": "イギリスのマンチェスターにオープン予定の新しいユニクロ店舗について、正式な開店日が決定しました。現地での新たな出店計画の具体的なスケジュールが発表されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -436,7 +557,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f92b4dd88ebdfba8",
@@ -1044,7 +1165,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c12d38b29256bf20",
@@ -6565,118 +6686,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "bbd842198c926159",
-   "url": "https://news.ntv.co.jp/category/society/a2ee24ef88d74a988bf6132fd59151a5",
-   "title_original": "「ギフトを返品…」ユニクロの試着室で商品盗み別店舗で返品か 男を逮捕（2026年9月4日掲載）｜日テレNEWS NNN",
-   "source": "日テレNEWS NNN",
-   "image": "https://news.ntv.co.jp/gimage/n24/articles/0a19762734724d45aed3c92ad90fa617/ea8a8247faf2b3a64933265ed5612d80ec2d2b13a35f4e7c81d95aa11586999b.jpg?w=1200",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T11:55:00+00:00",
-   "title_ja": "ユニクロ店舗の試着室で商品を盗み別店で返品を試みた男が逮捕される",
-   "summary_ja": "ユニクロの試着室で商品を盗み、別の店舗でギフトとして返品を行おうとした男が警察に逮捕されました。商品を持ち出して不正に返金を受けようとしたとみられています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "c64f50fa47586fc5",
-   "url": "https://news.yahoo.co.jp/articles/bd7ec432efa2c4fc312d36d82993ab9d2dac81c1",
-   "title_original": "「ギフトを返品…」ユニクロの試着室で商品盗み別店舗で返品か 男を逮捕（日テレNEWS NNN）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-09619978-nnn-000-2-thumb.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T11:55:00+00:00",
-   "title_ja": "ユニクロの試着室で商品を盗み別店舗で返金を騙し取った疑いで男を逮捕",
-   "summary_ja": "ユニクロの店舗内にある試着室で商品を盗んだあと、別の店舗を訪れてギフトを返品する振りをして返金を騙し取ろうとした事件で、警察は容疑者の男を逮捕しました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a752c0de3fd7df7a",
-   "url": "https://news.yahoo.co.jp/articles/7b7f98b626e204b04b47d0401f29c22af9fc888c",
-   "title_original": "店員に怪しまれた原因は「NY帽」 ユニクロで「万引き→返品」詐欺 試着室でリュックに入れ別の店舗で返品要求",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-01208246-fnn-000-1-thumb.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T10:40:31+00:00",
-   "title_ja": "ユニクロ店舗で「万引きした商品を別店舗で返品」する詐欺事件が発生",
-   "summary_ja": "ユニクロの店舗において、試着室で商品をリュックに隠して万引きし、それを別の店舗に持ち込んで返品・返金を要求する詐欺事件が発生した。犯行時に着用していた特徴的な帽子などが、店員に不審がられるきっかけとなった。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "25f9e1d1f2c53f10",
-   "url": "https://mshale.com/1b6e91f4/5b62df3bP1ECtjrLvcw",
-   "title_original": "ユニクロU 第2章来春開幕！パリデザインチーム引き継ぐ、ルメールとの10年間！UNIQLO AND LEMAIRE、旧ロゴからラストコレクション！ユニクロユーの歴史と最新情報 2026FW秋冬 Chace Crawford (ZOEjaLZeoQ)",
-   "source": "mshale.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T10:40:29+00:00",
-   "title_ja": "ユニクロユーが来春に新章へ　ルメールとの歴史振り返りと最新情報を解説",
-   "summary_ja": "ルメールとの取り組みから10年間を迎えた「ユニクロユー」の歴史や、パリのデザインチームが引き継ぐ来春からの新展開、2026年秋冬の最新情報について伝えています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "093b4bbc37c011bc",
-   "url": "https://news.livedoor.com/topics/detail/32243638",
-   "title_original": "ユニクロで「万引き→返品」詐欺 別の店舗で返品要求か 男を逮捕 (2026年9月4日掲載)",
-   "source": "news.livedoor.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T10:32:00+00:00",
-   "title_ja": "ユニクロで商品を万引きし別店舗で返品を要求した疑いで男を逮捕",
-   "summary_ja": "ユニクロで商品を盗んだあと、別の店舗へ持ち込んで返品を要求し現金をだまし取ろうとした詐欺の疑いで男が逮捕されました。盗んだ商品を別店舗で返金させる手口が判明しています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "5202178f2f3b134f",
-   "url": "https://news.yahoo.co.jp/articles/fda2406b20854b577ff10e5f57bfcae38e7355f7/images/000",
-   "title_original": "「スタイルいいねって褒められる」ユニクロの《バズりデニム》が1000円オフ 「若く見える」「中年太りでもいい感じ」 (オトナンサー)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgECQ-pnizcSJtZVgvnBwz9NbWOf9AT4DOkfCuKuphaeaMxcV-f7T5XsTDgtyXqMD7YEP-kNNDLUmI97e4umCy2ojSZVdqN5J3UkvcT190-wy",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T10:15:00+00:00",
-   "title_ja": "ユニクロの人気デニムが1000円引きに　スタイル補正効果などで評判",
-   "summary_ja": "ユニクロで話題を集めているデニムパンツが1000円引きの特別価格で販売されています。着用時のシルエットの良さや若見え効果など、購入者からの好評な声もあわせて紹介されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "57fef97504a7e6e9",
-   "url": "https://youtu.be/_C017c417Ys?si=yiXEZZr_ShBLU5JM",
-   "title_original": "ユニクロに“何度も返品”男逮捕 “返金要求”もその商品は…【スーパーJチャンネル】(2026年9月4日)",
-   "source": "YouTube",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T10:03:34+00:00",
-   "title_ja": "ユニクロで繰り返し不正な返品や返金要求を行っていた男が逮捕される",
-   "summary_ja": "ユニクロの店舗で何度も商品を返品し、返金を要求していた男が逮捕されたことが報道されました。不当な商品持ち込みや繰り返される返金要求の悪質な実態が明らかになっています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }

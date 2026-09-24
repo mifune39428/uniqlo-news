@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T19:51:05.744535+09:00",
+ "updated_at": "2026-09-25T01:16:03.418903+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -18,8 +18,8 @@
   "キッズ"
  ],
  "history_since": "2026-09-19",
- "history_days": 12,
- "catalog_size": 2998,
+ "history_days": 13,
+ "catalog_size": 2987,
  "count": 61,
  "items": [
   {
@@ -64,15 +64,20 @@
    "reviews7": 151,
    "capped": false,
    "prev7": null,
-   "mentions7": 1,
+   "mentions7": 2,
    "mention_titles": [
+    {
+     "t": "【着こなし紹介】バズったユニクロの1990円「フーデッドリブT」は着回し力がスゴかった！ 今から冬まで着倒せる万能トップス",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/aa126c4238192120e94e33e1e114967791a020ac"
+    },
     {
      "t": "バズった【ユニクロ】の1990円「フーデッドリブT」はサイズ選びが超重要だった！ ワンサイズ違うと印象けっこう変わるかも",
      "s": "Yahoo!ニュース",
      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxSHJodUtBUjZCLVhCdGpSRWJRLVJqdmxYcDQyWjA1N0RBclZIcmJ3dVAwMVlLRTU0bjVEVy1IRWMtaEJ4UG9rUW9pNEYyYXhCckJRYVp3NVBDRUszbm1fMmhKTWl3OHB5cXg2NHZkblFTN3RpZTh2b0F2RkNvQlE?oc=5"
     }
    ],
-   "score": 286,
+   "score": 291,
    "momentum": 1.86,
    "new": false,
    "rising": false
@@ -249,39 +254,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E488459-000",
-   "rank": 9,
-   "brand": "ユニクロ",
-   "name": "フーデッドロングコート",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 9990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488459/item/jpgoods_08_488459_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488459-000/00?colorDisplayCode=33",
-   "rating": 4.5,
-   "reviews": 97,
-   "reviews7": 69,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【ユニクロ ユー】第1章の集大成は「コレが買い」！完売必至の「フーデッドロングコート」などおすすめアイテムを試着レビュー【2026秋冬】（LEE）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/b7e26e9730605345fc1625c95ab3136aee7ac80d"
-    }
-   ],
-   "score": 172,
-   "momentum": 2.42,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E492123-000",
-   "rank": 10,
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "デニムリラックスシャツジャケット",
    "genders": [
@@ -306,7 +280,7 @@
   },
   {
    "key": "UQ:E488185-000",
-   "rank": 11,
+   "rank": 10,
    "brand": "ユニクロ",
    "name": "サテンコンビネーションワンピース",
    "genders": [
@@ -330,7 +304,7 @@
   },
   {
    "key": "UQ:E447780-000",
-   "rank": 12,
+   "rank": 11,
    "brand": "ユニクロ",
    "name": "感動パンツ",
    "genders": [
@@ -354,7 +328,7 @@
   },
   {
    "key": "UQ:E488191-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "ラムスタンドカラーカーディガン",
    "genders": [
@@ -378,7 +352,7 @@
   },
   {
    "key": "GU:E362202-000",
-   "rank": 14,
+   "rank": 13,
    "brand": "GU",
    "name": "シアードットT(長袖) PF",
    "genders": [
@@ -402,7 +376,7 @@
   },
   {
    "key": "UQ:E487908-000",
-   "rank": 15,
+   "rank": 14,
    "brand": "ユニクロ",
    "name": "リブヘンリーネックT",
    "genders": [
@@ -426,7 +400,7 @@
   },
   {
    "key": "UQ:E491700-000",
-   "rank": 16,
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "エアリズム3Dマスク/2枚組",
    "genders": [
@@ -452,7 +426,7 @@
   },
   {
    "key": "GU:E360850-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "GU",
    "name": "コインローファーCL",
    "genders": [
@@ -476,7 +450,7 @@
   },
   {
    "key": "UQ:E488773-000",
-   "rank": 18,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "モッズコート",
    "genders": [
@@ -501,7 +475,7 @@
   },
   {
    "key": "UQ:E488743-000",
-   "rank": 19,
+   "rank": 18,
    "brand": "ユニクロ",
    "name": "バレルジーンズ",
    "genders": [
@@ -537,7 +511,7 @@
   },
   {
    "key": "GU:E362871-000",
-   "rank": 20,
+   "rank": 19,
    "brand": "GU",
    "name": "ドレープバルーンパンツ",
    "genders": [
@@ -556,6 +530,31 @@
    "mention_titles": [],
    "score": 93,
    "momentum": 1.46,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E486610-000",
+   "rank": 20,
+   "brand": "ユニクロ",
+   "name": "ブラッシュドコットンシャツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486610/item/jpgoods_15_486610_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486610-000/00?colorDisplayCode=15",
+   "rating": 4.6,
+   "reviews": 52,
+   "reviews7": 38,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 93,
+   "momentum": 2.46,
    "new": false,
    "rising": false
   },
