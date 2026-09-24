@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T05:53:30.280602+09:00",
+ "updated_at": "2026-09-24T11:07:15.113874+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 12,
- "catalog_size": 2999,
+ "catalog_size": 3001,
  "count": 57,
  "items": [
   {
@@ -95,8 +95,13 @@
    "reviews7": 192,
    "capped": false,
    "prev7": null,
-   "mentions7": 2,
+   "mentions7": 3,
    "mention_titles": [
+    {
+     "t": "ユニクロ『ジャージーバレルレッグパンツ』4990円 残暑から秋、コーデに迷う人の救世主アイテムだった！",
+     "s": "grapee.jp",
+     "u": "https://grapee.jp/2335652"
+    },
     {
      "t": "【ユニクロ】ラクなのにキレイにはける！新作「ジャージーバレルレッグパンツ」を試着レビュー（＠BAILA）",
      "s": "Yahoo!ニュース",
@@ -108,7 +113,7 @@
      "u": "https://baila.hpplus.jp/fashion/petitprice/82712"
     }
    ],
-   "score": 215,
+   "score": 220,
    "momentum": 1.07,
    "new": false,
    "rising": false
