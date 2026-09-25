@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T01:05:31.460233+09:00",
+ "updated_at": "2026-09-26T05:50:50.625643+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -118,6 +118,7 @@
   "Sunshine Coast News",
   "SussexWorld",
   "TBS NEWS DIG",
+  "THE MAGIC RAIN",
   "TRAICY Global",
   "TRAICY（トライシー）",
   "TRILL",
@@ -177,6 +178,7 @@
   "sanyonews.jp",
   "selecta bisso",
   "smartmag.jp",
+  "soyacincau.com",
   "sportschosun.com",
   "stupidDOPE",
   "tennis.jp",
@@ -243,19 +245,19 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 267,
+ "detail_count": 266,
  "digest": {
-  "headline": "ユニクロ、秋冬新作「UNIQLO：C」発売や英国など海外出店が続々発表",
+  "headline": "ユニクロ新作UNIQLO：C発売や英国出店が話題に",
   "points": [
    {
-    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによる「UNIQLO：C」の秋冬新作を発売し、SNSで期待の声が上がっています。",
+    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによるコレクション「UNIQLO : C」の秋冬新作を発売しました。",
     "ids": [
      "00f7bb5042ad878c",
      "ca163c479f5fb134"
     ]
    },
    {
-    "text": "イギリスではマンチェスターやケンブリッジ、バースなど各地で新店舗の出店計画や開店日が続々と発表され、英国での成長を加速させています。",
+    "text": "ユニクロはイギリスのマンチェスターやバース、ケンブリッジなどでの新規出店計画やオープンを発表しました。",
     "ids": [
      "62d15616134afd9b",
      "8e65acc07a0c6b98",
@@ -263,30 +265,55 @@
     ]
    },
    {
-    "text": "ベトナムのタインホア省への初店舗オープンやクアンニン省での事業拡大に向けた支援など、海外での事業展開も活発に行われています。",
+    "text": "ファーストリテイリンググループでは、ミーナ津田沼が10月16日にリニューアルオープンする予定です。",
     "ids": [
-     "e53f59524282da1b",
-     "782ecc8a81fa7d8c"
+     "1b47e4ac6627a880"
     ]
    },
    {
-    "text": "10月1日までフランネルシャツやジップパーカなどの秋の即戦力服をお得に購入できる期間限定セールが実施されています。",
-    "ids": [
-     "5ac03a2690ac4efc"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に70件投稿されています。",
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」がXで3日に70件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-23T01:19:15.934179+09:00",
-  "generated_at": "2026-09-26T01:19:17.927653+09:00",
+  "from": "2026-09-23T05:55:58.394082+09:00",
+  "generated_at": "2026-09-26T05:56:00.081096+09:00",
   "article_count": 24,
-  "sig": "d6d696e4dfc7"
+  "sig": "d26300bb7196"
  },
  "items": [
+  {
+   "id": "cc6532df509c9d9a",
+   "url": "https://soyacincau.com/2026/09/25/uniqlo-proton-collection-emas7-s70-x50-satrianeor3-saga",
+   "title_original": "Uniqlo UTme! Proton Collection coming soon: Featuring e.MAS 7, S70, X50, Satria Neo R3, and 1985 Saga",
+   "source": "soyacincau.com",
+   "image": "https://soyacincau.com/wp-content/uploads/2026/09/uniqlo-proton-01.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T17:28:47+00:00",
+   "title_ja": "ユニクロの「UTme!」にプロトンのコレクションが近日登場へ",
+   "summary_ja": "ユニクロのオリジナルTシャツが作れる「UTme!」に、自動車メーカーのプロトンとのコラボコレクションが近日追加されます。1985年サガやe.MAS 7などのモデルがデザインされる予定です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "46a005d28bc30a6b",
+   "url": "https://themagicrain.com/2026/09/disney-x-formula-1-ut-collection-releases-across-uniqlo-outlets-nationwide",
+   "title_original": "Disney x Formula 1 UT Collection Releases Across UNIQLO Outlets Nationwide",
+   "source": "THE MAGIC RAIN",
+   "image": "https://themagicrain.com/wp-content/uploads/2026/09/image-10.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T17:25:18+00:00",
+   "title_ja": "ユニクロがディズニーとF1のコラボ「UT」コレクションを発売",
+   "summary_ja": "ユニクロは、ディズニーとF1（フォーミュラ1）がコラボレーションしたグラフィックTシャツ「UT」コレクションを全国の店舗で発売しました。両者の世界観を取り入れたデザインが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "cb856e6029c2fd0d",
    "url": "https://otonanswer.jp/post/395970",
@@ -324,7 +351,7 @@
    "url": "https://www.retailgazette.co.uk/blog/2026/09/uniqlo-southgate-bath",
    "title_original": "Uniqlo set to open second Bath store next spring",
    "source": "Retail Gazette",
-   "image": "",
+   "image": "https://www.retailgazette.co.uk/wp-content/uploads/2026/09/UNIQLO-Bath-Store-Render.png",
    "lang": "en",
    "region": "global",
    "published": "2026-09-25T09:31:13+00:00",
@@ -6652,38 +6679,6 @@
    "summary_ja": "TRILLにて、ユニクロの2026年秋冬展示会の取材リポートが公開されました。展示会で発表された最新コレクションの中から、50代の女性に向けたおすすめアイテムや注目ポイントを紹介しています。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "654cb8c7326750fd",
-   "url": "https://news.yahoo.co.jp/articles/6467bb8f6066fb8d6c1d8c85418fc63f33be876c/images/000",
-   "title_original": "「50代には若すぎると思ったら…」ユニクロの《スタイル爆盛れTシャツ》が1500→990円 「高見えすごい」「本当にいい丈感！」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNA4xLCUZboTnxfqJNb6U_ZvN6U1Q5wE7PX7CkOsfXvphBOn_mqi-z9IzrsvnHIjtsHLtkt05iC9N_WtPOZF9hnz9gK_fsN5lQzuD8a1t3KKbSGhNOqAjX33rM2rSTVVLg==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T10:15:00+00:00",
-   "title_ja": "ユニクロのTシャツが990円に値下げ ネットでスタイル映えと話題",
-   "summary_ja": "ユニクロのTシャツが1500円から990円に値下げされ注目を集めています。SNSなどでは着心地や丈感、スタイルの見映えの良さが高く評価されており、幅広い年代から支持されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "62a37c0d63b8530c",
-   "url": "https://ampmedia.jp/2026/09/05/aeon-yachiyo-2609",
-   "title_original": "千葉県八千代市の「イオンモール八千代緑が丘」が9月18日リニューアルオープン ユニクロやGUなど5店舗が新規出店",
-   "source": "AMP[アンプ]",
-   "image": "https://ampmedia.jp/wp-content/uploads/2026/09/7505-6063-e8622a909f698edb64bac11788668877-1014x716-1.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T09:06:51+00:00",
-   "title_ja": "イオンモール八千代緑が丘が9月18日リニューアル、ユニクロやGUが出店",
-   "summary_ja": "千葉県八千代市にあるイオンモール八千代緑が丘が、9月18日にリニューアルオープンします。これに伴い、施設内にはユニクロやGUを含む計5店舗が新たにオープンすることが決定しました。",
-   "category": "店舗・出店",
-   "brand": "グループ",
    "importance": 3,
    "has_detail": true
   }
