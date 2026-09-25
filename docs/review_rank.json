@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T05:58:08.275691+09:00",
+ "updated_at": "2026-09-25T11:23:32.028328+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 14,
- "catalog_size": 2988,
+ "catalog_size": 2989,
  "count": 61,
  "items": [
   {
@@ -347,7 +347,7 @@
    "mention_titles": [],
    "score": 148,
    "momentum": 2.74,
-   "new": true,
+   "new": false,
    "rising": false
   },
   {
@@ -642,8 +642,8 @@
    ],
    "price": 3990,
    "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360454/item/jpgoods_64_360454_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E360454-000/00?colorDisplayCode=64",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360454/item/jpgoods_02_360454_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360454-000/00?colorDisplayCode=02",
    "rating": 4.3,
    "reviews": 34,
    "reviews7": 27,
@@ -714,8 +714,8 @@
    ],
    "price": 790,
    "promo": 790,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/358176/item/jpgoods_18_358176_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E358176-000/00?colorDisplayCode=18",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/358176/item/jpgoods_30_358176_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E358176-000/00?colorDisplayCode=30",
    "rating": 4.5,
    "reviews": 4419,
    "reviews7": 54,

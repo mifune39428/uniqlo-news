@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T05:54:04.125970+09:00",
+ "updated_at": "2026-09-25T11:20:58.574493+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -215,7 +215,6 @@
   "マイライフニュース",
   "モデルプレス",
   "ヨムーノ",
-  "ラブすぽ",
   "レスポンス（Response.jp）",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
@@ -244,54 +243,84 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 268,
+ "detail_count": 267,
  "digest": {
-  "headline": "ユニクロが国内外で出店を加速、新作コラボも続々登場",
+  "headline": "ユニクロ：C秋冬新作が発売開始、国内外での新店舗オープンも続々",
   "points": [
    {
-    "text": "ユニクロは英マンチェスター、ケンブリッジ、バースなどでの新規出店やオープン日を発表し、英国での成長を加速させています。",
+    "text": "デザイナーのクレア・ワイト・ケラーによる「UNIQLO : C」の秋冬新作42アイテムが本日発売され、SNSでも期待の声が上がっています。",
     "ids": [
-     "62d15616134afd9b",
-     "8e65acc07a0c6b98",
-     "f92b4dd88ebdfba8"
+     "00f7bb5042ad878c",
+     "e8c540701116c3c4"
     ]
    },
    {
-    "text": "米国ではニューヨークのワールドトレードセンター店など出店を進め、Z世代やミレニアル世代のシェア拡大を図っています。",
+    "text": "ユニクロはイギリスのマンチェスターやケンブリッジ、バースなどで新店舗の出店計画やオープンを発表し、英国での成長を加速させています。",
+    "ids": [
+     "62d15616134afd9b",
+     "f92b4dd88ebdfba8",
+     "e5b3767cb2001a15"
+    ]
+   },
+   {
+    "text": "ニューヨークのワールド・トレード・センターへの新店舗オープンや、カナダでの店舗拡大など、北米市場でのプレゼンス強化も進んでいます。",
     "ids": [
      "a8f718b1ce32febd",
-     "d425e5dae9c9192f",
+     "3783a1365add7905",
      "b05d6b7f1e41a2a5"
     ]
    },
    {
-    "text": "ベトナムやカナダでも事業拡大や店舗改装が行われ、GUもニューヨークに初の旗艦店をオープンするなど海外展開が活発です。",
+    "text": "ベトナムのタインホア省への初店舗オープンやクアンニン省での事業拡大支援など、アジア地域での展開も活発に行われています。",
     "ids": [
      "e53f59524282da1b",
-     "3783a1365add7905",
-     "27a8cb06c7f73d89"
+     "782ecc8a81fa7d8c"
     ]
    },
    {
-    "text": "「UNIQLO : C」の秋冬コレクションをはじめ、KAWSとの新作UTや「ディズニー・レーシング」など新商品も多数発表されました。",
-    "ids": [
-     "e8c540701116c3c4",
-     "b4600e736ff51b4a",
-     "7edf2a3e623339c0"
-    ]
-   },
-   {
-    "text": "SNSでは、ユニクロのボリュームパンツがXで5件投稿されています。",
+    "text": "SNSでは「ユニクロ ボリュームパンツ」が注目を集め、Xで7件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-22T06:01:33.786774+09:00",
-  "generated_at": "2026-09-25T06:01:37.952500+09:00",
+  "from": "2026-09-22T11:27:28.063045+09:00",
+  "generated_at": "2026-09-25T11:27:30.119419+09:00",
   "article_count": 24,
-  "sig": "9ce8923230d8"
+  "sig": "c0d68341d35b"
  },
  "items": [
+  {
+   "id": "651c2ae607dafbac",
+   "url": "https://www.webuomo.jp/fashion/special/a01_uniqlo2609",
+   "title_original": "松下洸平とユニクロ「ニュージーランドの港町、デボンポートの冬」 - FASHION",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/62/62ee09a0-f095-4983-8390-3709de96d2f1-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-25T01:00:00+00:00",
+   "title_ja": "俳優の松下洸平がニュージーランドを舞台にユニクロの冬ファッションを披露",
+   "summary_ja": "俳優の松下洸平が出演するユニクロのファッション企画が公開されました。ニュージーランドの港町デボンポートを舞台に、冬のユニクロアイテムを取り入れたスタイリングと世界観を表現したビジュアルが披露されています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "00f7bb5042ad878c",
+   "url": "https://news.yahoo.co.jp/articles/9039c183bbe9f6bcde96681f675596dcd5436c94/images/000",
+   "title_original": "【今日から】「UNIQLO：C」秋冬新作42アイテム発売 SNS「ロングブーツが！」「パンツかわいい」期待の声 (オトナンサー)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgFL7oNIZ937LmOGhlskLiihTpsYEU52gies0D_-KfT8YOizpJoFtLjlFxtXmkvrdyhtM4MVgWHTN01AppIK2oOmZEvcHe-ei74XMQXH8Y4EQgpwLPZy4PoX3eU8PvtO6lw==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-24T21:45:00+00:00",
+   "title_ja": "「UNIQLO：C」秋冬新作42アイテムが本日発売開始、SNSでも期待の声",
+   "summary_ja": "ユニクロは、デザイナーのクレア・ワイト・ケラーによるコレクション「UNIQLO : C」の秋冬新作42アイテムを発売しました。SNS上ではロングブーツやパンツなどに対して、発売前から高い期待を寄せる声が上がっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "62d15616134afd9b",
    "url": "https://fashionunited.uk/press/retail/uniqlo-to-open-second-manchester-store-prepares-biggest-year-of-uk-growth-for-2027/2026092490521",
@@ -6658,38 +6687,6 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b57cd3eb9dd9697f",
-   "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703077",
-   "title_original": "【ユニクロ最新チラシ】大人気の「バギーバレルレッグジーンズ」が3990円！シャツやポロカーディガンなど秋の注目作が特別価格で登場《9月10日まで》（東京バーゲンマニア）",
-   "source": "topics.smt.docomo.ne.jp",
-   "image": "https://img.topics.smt.news.goo.ne.jp/picture/bgmania/m_bgmania-703077.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T17:02:00+00:00",
-   "title_ja": "ユニクロがジーンズや秋物新作を特別価格で提供する限定セールを開始",
-   "summary_ja": "ユニクロは9月10日までの期間限定で、人気のジーンズを特別価格の3,990円で販売するほか、シャツやポロカーディガンなど秋の注目作を値下げする最新チラシ情報を公開しました。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "215315bdd1568c5e",
-   "url": "https://love-spo.com/article/miti20260904-16",
-   "title_original": "ユニクロの期間限定セールが超太っ腹♡秋から長～く着回せる！今週のお買い得アイテムリスト",
-   "source": "ラブすぽ",
-   "image": "https://love-spo.com/wp-content/uploads/2026/08/0-352.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-04T13:30:00+00:00",
-   "title_ja": "ユニクロが秋まで長く着回せるアイテムの期間限定セールを実施",
-   "summary_ja": "ユニクロが秋シーズンを通して長期間着回せるお買い得アイテムを揃えた期間限定セールを実施しています。今週の特別価格になっている注目商品をリスト形式でまとめています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   }
  ]
