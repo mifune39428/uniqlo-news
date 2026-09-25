@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T19:45:41.067265+09:00",
+ "updated_at": "2026-09-26T01:05:31.460233+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -245,18 +245,17 @@
  "count": 400,
  "detail_count": 267,
  "digest": {
-  "headline": "「UNIQLO : C」秋冬新作発売や英米での出店加速など",
+  "headline": "ユニクロ、秋冬新作「UNIQLO：C」発売や英国など海外出店が続々発表",
   "points": [
    {
-    "text": "「UNIQLO : C」の2026年秋冬コレクションが9月25日に発売。ヒートテックとカシミヤを組み合わせた新作など42アイテムが登場。",
+    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによる「UNIQLO：C」の秋冬新作を発売し、SNSで期待の声が上がっています。",
     "ids": [
      "00f7bb5042ad878c",
-     "e8c540701116c3c4",
      "ca163c479f5fb134"
     ]
    },
    {
-    "text": "ユニクロは英マンチェスターでの2号店やケンブリッジへの初出店を決定するなど、英国での成長に向けて店舗網の拡大を進めています。",
+    "text": "イギリスではマンチェスターやケンブリッジ、バースなど各地で新店舗の出店計画や開店日が続々と発表され、英国での成長を加速させています。",
     "ids": [
      "62d15616134afd9b",
      "8e65acc07a0c6b98",
@@ -264,21 +263,28 @@
     ]
    },
    {
-    "text": "GUがニューヨークに初となる旗艦店をオープン。オープンまでの舞台裏に密着した様子が紹介されています。",
+    "text": "ベトナムのタインホア省への初店舗オープンやクアンニン省での事業拡大に向けた支援など、海外での事業展開も活発に行われています。",
     "ids": [
-     "27a8cb06c7f73d89"
+     "e53f59524282da1b",
+     "782ecc8a81fa7d8c"
     ]
    },
    {
-    "text": "「ユニクロ UNIQLO : C ベルト」は直近3日のXの投稿数が61件となり、SNSで話題を集めています。",
+    "text": "10月1日までフランネルシャツやジップパーカなどの秋の即戦力服をお得に購入できる期間限定セールが実施されています。",
+    "ids": [
+     "5ac03a2690ac4efc"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に70件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-22T19:57:56.627568+09:00",
-  "generated_at": "2026-09-25T19:58:17.876746+09:00",
+  "from": "2026-09-23T01:19:15.934179+09:00",
+  "generated_at": "2026-09-26T01:19:17.927653+09:00",
   "article_count": 24,
-  "sig": "679ae87b5ab4"
+  "sig": "d6d696e4dfc7"
  },
  "items": [
   {
@@ -311,7 +317,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "32edd5193bfc8475",
@@ -327,7 +333,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "45a976e0172e9713",
@@ -378,6 +384,22 @@
    "has_detail": true
   },
   {
+   "id": "b7bfc130a507967a",
+   "url": "https://www.theindustry.fashion/uniqlo-bath-store-southwest-expansion",
+   "title_original": "Uniqlo signs for 8,000 sq ft Bath store as South West expansion continues",
+   "source": "TheIndustry.fashion",
+   "image": "https://www.theindustry.fashion/wp-content/uploads/2026/09/UNIQLO_Bath_Store_Render_cropped-1024x575.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T07:43:18+00:00",
+   "title_ja": "ユニクロ、イギリス・バースに新店舗を出店へ",
+   "summary_ja": "ユニクロがイギリス南西部の事業拡大を進める中、バースに約8000平方メートルの新しい店舗をオープンすることが明らかになりました。同地域における店舗網のさらなる強化を図ります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "1b47e4ac6627a880",
    "url": "https://news.shoninsha.co.jp/store/319388",
    "title_original": "ファストリnews｜千葉･習志野市｢ミーナ津田沼｣10/16刷新､飲食ゾーン新設",
@@ -391,7 +413,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ca163c479f5fb134",
@@ -423,7 +445,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "651c2ae607dafbac",
@@ -6662,22 +6684,6 @@
    "summary_ja": "千葉県八千代市にあるイオンモール八千代緑が丘が、9月18日にリニューアルオープンします。これに伴い、施設内にはユニクロやGUを含む計5店舗が新たにオープンすることが決定しました。",
    "category": "店舗・出店",
    "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a78b4c9b198897f0",
-   "url": "https://news.yahoo.co.jp/articles/fdc844f229fe65ea43d2291079fb76fd26c0dcf4",
-   "title_original": "「本当に着心地がいい」ユニクロで値下げ中の快適Tシャツが好評「肌触りサラサラ」「洗濯してもよく乾く」（Fav-Log by ITmedia）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-10167039-it_favlog-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T02:45:00+00:00",
-   "title_ja": "ユニクロで値下げ中の快適Tシャツが好評！サラサラな肌触りと高い速乾性が魅力",
-   "summary_ja": "ユニクロで現在値下げ中の快適なTシャツが、ユーザーの間で好評を得ています。サラサラとした心地よい肌触りや、洗濯してもすぐに乾く高い速乾性を備えており、着心地の良さと実用性の高さが評価されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
   }
