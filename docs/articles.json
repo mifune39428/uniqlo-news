@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T00:19:23.381767+09:00",
+ "updated_at": "2026-09-27T05:19:10.883675+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -101,6 +101,7 @@
   "Passionate In Marketing",
   "Patch",
   "Philstar.com",
+  "PressReader",
   "QAB 琉球朝日放送",
   "Ragtrader.com.au",
   "Retail Gazette",
@@ -124,6 +125,7 @@
   "TRAICY Global",
   "TRAICY（トライシー）",
   "TRILL",
+  "The Argus",
   "The Business of Fashion",
   "The Georgetowner",
   "The Manc",
@@ -243,30 +245,30 @@
   "風傳媒",
   "鳥取マガジン",
   "매일경제",
-  "아시아경제",
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 267,
+ "detail_count": 264,
  "digest": {
-  "headline": "ユニクロの秋冬新作発売や国内外の出店計画が続々発表",
+  "headline": "ユニクロ秋冬新作の発売や国内外の出店、GUの新コレクション発表まとめ",
   "points": [
    {
-    "text": "京都の大型店舗が改装のため一時閉店し、グローバル旗艦店としてリニューアルオープンする予定です。",
+    "text": "ユニクロは「UNIQLO : C」の2026年秋冬コレクションを発売し、ヒートテックとカシミヤを組み合わせたアイテムなどが注目を集めています。",
     "ids": [
+     "9182bdf2db84de4c",
+     "00f7bb5042ad878c",
+     "e8c540701116c3c4"
+    ]
+   },
+   {
+    "text": "GUはフランチェスコ・リッソ監修の2026年秋冬コレクションを発表しました。また、京都の大型ユニクロ店舗がグローバル旗艦店へリニューアルするため一時閉店します。",
+    "ids": [
+     "27037bd502e51187",
      "285a8b3fefa64080"
     ]
    },
    {
-    "text": "クレア・ワイト・ケラーによる「UNIQLO : C」2026年秋冬コレクションが9月25日に発売されました。",
-    "ids": [
-     "9182bdf2db84de4c",
-     "00f7bb5042ad878c",
-     "ca163c479f5fb134"
-    ]
-   },
-   {
-    "text": "ユニクロはイギリスのマンチェスターやバースなど各地での新店出店や、ベトナムでの事業拡大を進めています。",
+    "text": "ユニクロはイギリスのマンチェスターやバースなどでの新規出店計画を相次いで発表したほか、ベトナム・タインホア省への出店で国内33店舗を達成しました。",
     "ids": [
      "62d15616134afd9b",
      "154c6ec96b6abfbe",
@@ -274,24 +276,73 @@
     ]
    },
    {
-    "text": "グループが運営する千葉の商業施設「ミーナ津田沼」が10月16日にリニューアルし、新飲食街が開業します。",
+    "text": "ディズニーとF1が融合した「ディズニー・レーシング」コレクションのUTが発売されたほか、マレーシアでのPROTONコラボや錦糸町ゆかりの企業とのUTme!も展開されています。",
     "ids": [
-     "639452067934fa86",
-     "1b47e4ac6627a880"
+     "b4600e736ff51b4a",
+     "a905053163c9016c",
+     "d647a7e1da609802"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に89件の投稿が確認されています。",
+    "text": "SNSではユニクロのイタリアンレザーロングベルトが話題となり、Xで3日に20件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-24T00:25:27.055685+09:00",
-  "generated_at": "2026-09-27T00:26:05.020722+09:00",
+  "from": "2026-09-24T05:25:57.834992+09:00",
+  "generated_at": "2026-09-27T05:26:00.266991+09:00",
   "article_count": 24,
-  "sig": "fd30e67ab653"
+  "sig": "115c37097d8a"
  },
  "items": [
+  {
+   "id": "aebf4c22f726a8cc",
+   "url": "https://www.theargus.co.uk/news/26583151.uniqlo-reveals-details-brighton-churchill-square-store",
+   "title_original": "Major retailer reveals more details after announcing return to Brighton",
+   "source": "The Argus",
+   "image": "https://www.theargus.co.uk/resources/images/16904589/",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T17:00:00+00:00",
+   "title_ja": "イギリス・ブライトンへの再出店を発表した大手小売企業が詳細を公開",
+   "summary_ja": "ブライトンへの再出店を発表していた大手小売企業が、店舗に関するさらなる詳細を明らかにしました。地域での出店に向けた取り組みの具体像が公表されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a905053163c9016c",
+   "url": "https://themagicrain.com/2026/09/uniqlo-malaysia-unveils-exclusive-proton-utme-collection",
+   "title_original": "UNIQLO Malaysia Unveils Exclusive PROTON UTme! Collection Celebrating Malaysian Journeys",
+   "source": "themagicrain.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T16:35:58+00:00",
+   "title_ja": "ユニクロマレーシア、現地自動車メーカー「PROTON」コラボUTme!を発表",
+   "summary_ja": "ユニクロマレーシアは、現地の自動車メーカーであるPROTONとコラボレーションした限定UTme!コレクションを発表しました。マレーシアの人々の旅路を祝うデザインとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "27037bd502e51187",
+   "url": "https://www.sanyonews.jp/article/1955730?rct=oricon_news",
+   "title_original": "GU、フランチェスコ・リッソ監修の2026年秋冬コレクションを発表 多様なライフスタイルに寄り添う6つのコンセプト",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/1/0/5/a/105a4051309093d24c9b7d4e50aab201_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T15:41:16+00:00",
+   "title_ja": "GUがフランチェスコ・リッソ監修の2026年秋冬コレクションを発表",
+   "summary_ja": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表しました。多様なライフスタイルに寄り添う6つのコンセプトを軸に、新作アイテムを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "d647a7e1da609802",
    "url": "https://news.yahoo.co.jp/articles/274507d5a9216b3c3658650fd74dd9a2668781ef",
@@ -419,6 +470,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "ea93ed399119b0b2",
+   "url": "https://www.pressreader.com/uk/cambridge-news/20260925/281556592744910",
+   "title_original": "Arcade opening for Japanese clothing store",
+   "source": "PressReader",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-25T15:19:56+00:00",
+   "title_ja": "日本の衣料品店がアーケード内に新店舗をオープン",
+   "summary_ja": "海外のニュースによると、日本の衣料品ブランドが商業施設のアーケード内に新店舗をオープンすることが明らかになった。現地での出店を通じて、さらなる顧客の獲得を目指すものとみられる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "cb856e6029c2fd0d",
@@ -643,6 +710,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "54f0c097389fd694",
+   "url": "https://www.nikkei.com/article/DGKKZO98925360U6A920C2TB1000",
+   "title_original": "ユニクロ、錦糸町店を刷新",
+   "source": "日本経済新聞",
+   "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-24T17:00:00+00:00",
+   "title_ja": "ユニクロ、錦糸町店を刷新",
+   "summary_ja": "ユニクロは錦糸町店のリニューアルを実施する。売場環境やサービスを新たに整え、利用者の利便性を高める。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "62d15616134afd9b",
@@ -6610,86 +6693,6 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "3a016c5c6e81e6e2",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-09-02-FQffaA",
-   "title_original": "【大人のユニクロ】「ユニクロ ユー」新作は、10周年記念カラーの「オトナな赤」を狙え！【Uniqlo U 2026年秋冬最速試着】",
-   "source": "webuomo.jp",
-   "image": "https://img.webuomo.jp/article/sns/image/ae/aef08858-f9d3-4c57-8c56-4051c80f7342-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T02:00:00+00:00",
-   "title_ja": "ユニクロ ユーの2026年秋冬新作　10周年記念の特別な赤が話題に",
-   "summary_ja": "ユニクロ ユーの2026年秋冬コレクションが登場し、ブランド10周年を記念した上品な赤色の新作アイテムが注目されている。落ち着いた色合いが特徴で、大人のコーディネートに適した注目商品となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d0b84fb99e2f18b2",
-   "url": "https://www.asiae.co.kr/en/article/2026090708482322323",
-   "title_original": "UNIQLO to Recruit Entry-Level 'Management Candidates'... Starting Salary KRW 53 Million",
-   "source": "아시아경제",
-   "image": "https://cphoto.asiae.co.kr/listimglink/1/2026090708473417724_1788738454.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T00:15:06+00:00",
-   "title_ja": "ユニクロが韓国で管理職候補の新卒採用を開始、初任給は5,300万ウォン",
-   "summary_ja": "ユニクロが韓国で未経験の管理職候補者を募集することが分かった。初任給は5,300万ウォンに設定されている。優秀な人材の確保を目指し、新卒レベルからの採用を実施する。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6ec9736337fb64c8",
-   "url": "https://hochi.news/articles/pub_mic_246443.html",
-   "title_original": "ユニクロユーの新作デニムがあまりにも可愛すぎる…♡発売前のアイテムをひと足お先に大公開！",
-   "source": "スポーツ報知",
-   "image": "https://hochi.news/images/publisher/pub_mic_01/2026/09/07/pub_mic_246443/cover.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T23:00:00+00:00",
-   "title_ja": "ユニクロユーが発売前の新作デニムアイテムを先行公開",
-   "summary_ja": "ユニクロの人気ライン「Uniqlo U」から、正式発売に先駆けて事前にお披露目された注目の新作デニム情報を紹介している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4a5bb642034a0afc",
-   "url": "https://news.yahoo.co.jp/articles/07350c3af88aa004536d9210f02498b9568ab267",
-   "title_original": "国内スポーツで存在感が増すユニクロ Bリーグとの提携で目指すべきものとは（VICTORY）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00010000-victory-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T22:03:18+00:00",
-   "title_ja": "ユニクロがBリーグとの提携で目指す国内スポーツでの存在感向上",
-   "summary_ja": "国内のスポーツ分野で存在感を高めているユニクロが、男子プロバスケットボールのBリーグと提携を行いました。スポーツを通じたブランド価値の向上や、提携によって目指すべき今後の展開や役割について考察されています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "71cf57470206e1b1",
-   "url": "https://www.chiba-tv.com/plus/detail/2026091982111",
-   "title_original": "ユニクロの旗艦店戦略が招く空白商圏争奪戦",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1469431520782271504/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T20:36:18+00:00",
-   "title_ja": "ユニクロの旗艦店戦略がもたらす空白商圏の獲得競争",
-   "summary_ja": "ユニクロが進める大型の旗艦店を中心とした出店戦略が、競合他社などを巻き込んだ空白商圏の争奪戦を引き起こしています。店舗網の再編や旗艦店への集約が地域市場や競合に与える影響について取り上げられています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
