@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T11:25:21.221306+09:00",
+ "updated_at": "2026-09-26T19:27:46.067854+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -134,6 +134,7 @@
   "TheIndustry.fashion",
   "TheSmartLocal",
   "TipRanks",
+  "Toronto.com",
   "Trend Hunter",
   "Trending on Weibo",
   "UOMO",
@@ -165,7 +166,6 @@
   "lee.hpplus.jp",
   "limo.media",
   "metromode.se",
-  "mi-mollet（ミモレ）",
   "mshale.com",
   "news.infoseek.co.jp",
   "news.livedoor.com",
@@ -249,49 +249,75 @@
  "count": 400,
  "detail_count": 267,
  "digest": {
-  "headline": "ユニクロの秋冬新作発売やイギリスでの店舗網拡大の動きが活発",
+  "headline": "UNIQLO:C秋冬発売や国内外の出店拡大、SNS話題商品も",
   "points": [
    {
-    "text": "ユニクロの2026年秋冬コレクションや、クレア・ワイト・ケラーによる「UNIQLO : C」の新作が9月25日に発売された。",
+    "text": "「UNIQLO : C」の2026年秋冬コレクションが9月25日に発売。ヒートテックとカシミヤを組み合わせた新作など42アイテムが登場。",
     "ids": [
      "9182bdf2db84de4c",
      "00f7bb5042ad878c",
-     "ca163c479f5fb134"
+     "e8c540701116c3c4"
     ]
    },
    {
-    "text": "イギリスのマンチェスターやバースなどでの新規出店が次々と発表され、英国における事業拡大が急速に進められている。",
+    "text": "京都の大型店舗がグローバル旗艦店へリニューアルするため一時閉店。また千葉の「ミーナ津田沼」が10月16日に刷新されます。",
     "ids": [
-     "62d15616134afd9b",
-     "8e65acc07a0c6b98",
-     "32edd5193bfc8475"
-    ]
-   },
-   {
-    "text": "京都の大型ユニクロ店舗が一時閉店し、グローバル旗艦店としてリニューアルオープンすることが明らかにされた。",
-    "ids": [
-     "285a8b3fefa64080"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングが運営する商業施設「ミーナ津田沼」が10月16日にリニューアルし、新飲食街が開業する。",
-    "ids": [
-     "639452067934fa86",
+     "285a8b3fefa64080",
      "1b47e4ac6627a880"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ イタリアンレザーロングベルト」がXで18件投稿されるなど話題を集めている。",
+    "text": "英国マンチェスターやカナダでの出店計画が進行するほか、ベトナムではタインホア省への新店舗オープンにより国内合計33店舗に達しました。",
+    "ids": [
+     "62d15616134afd9b",
+     "154c6ec96b6abfbe",
+     "7aed02cfdd612a9d"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ イタリアンレザーロングベルト」が注目され、直近3日のXの投稿数が19件にのぼるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-23T11:31:31.933184+09:00",
-  "generated_at": "2026-09-26T11:31:33.792191+09:00",
+  "from": "2026-09-23T19:36:44.247166+09:00",
+  "generated_at": "2026-09-26T19:37:09.643351+09:00",
   "article_count": 24,
-  "sig": "ae73f1ce37e4"
+  "sig": "1499df6ac64c"
  },
  "items": [
+  {
+   "id": "7aed02cfdd612a9d",
+   "url": "https://www.toronto.com/life/uniqlo-hillcrest-mall-richmond-hill-opening-date/article_2d999903-e42c-575c-8f22-ce0b7c24a617.html",
+   "title_original": "Uniqlo’s newest store is launching in the GTA with exclusive grand opening freebies",
+   "source": "Toronto.com",
+   "image": "https://bloximages.newyork1.vip.townnews.com/toronto.com/content/tncms/assets/v3/editorial/d/fa/dfa10e4c-8c48-5c00-b3a2-ec2bdf5a6528/6ab6859924f78.image.jpg?crop=1930%2C1013%2C0%2C30&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T09:45:00+00:00",
+   "title_ja": "カナダのトロント都市圏にユニクロの新店舗がオープンへ　開店記念ノベルティも用意",
+   "summary_ja": "カナダのトロント都市圏（GTA）にてユニクロの最新店舗が開業を迎えます。オープンを記念して、現地店舗限定のオープン記念特典やプレゼントが用意されていることが伝えられています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "154c6ec96b6abfbe",
+   "url": "https://www.vietnam.vn/ja/co-mat-tai-thanh-hoa-uniqlo-cham-moc-33-cua-hang-tren-toan-quoc",
+   "title_original": "ユニクロはタインホア省に店舗をオープンしたことで、全国で33店舗という節目を迎えた。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/26/1790391765211_cua_hang_uniqlo_aeon_mall_thanh_hoa_se_don_khach_tu_ngay_15_10_2026_hinh_phoi_canh_.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T03:00:28.873000+00:00",
+   "title_ja": "ユニクロがベトナム・タインホア省に新店舗を出店し国内33店舗を達成",
+   "summary_ja": "ユニクロがベトナムのタインホア省に新店舗をオープンしました。今回の出店により、ベトナム国内におけるユニクロの店舗数は合計33店舗に達し、同国での展開における新たな節目を迎えました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "639452067934fa86",
    "url": "https://dtimes.jp/post-1394736",
@@ -322,7 +348,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7eed55ae28e6efe0",
@@ -402,7 +428,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5ac03a2690ac4efc",
@@ -561,6 +587,22 @@
    "summary_ja": "俳優の松下洸平が出演するユニクロのファッション企画が公開されました。ニュージーランドの港町デボンポートを舞台に、冬のユニクロアイテムを取り入れたスタイリングと世界観を表現したビジュアルが披露されています。",
    "category": "広告・タレント",
    "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "98b2446c6debb5d8",
+   "url": "https://txbiz.tv-tokyo.co.jp/readings/1310",
+   "title_original": "ファーストリテイリングの株が3分の1に 「株式分割」が相次ぐ理由【WBS】",
+   "source": "テレ東BIZ",
+   "image": "https://txbiz.tv-tokyo.co.jp/static/images/fblogo.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-25T00:42:57+00:00",
+   "title_ja": "ファーストリテイリング株が3分の1に、株式分割が相次ぐ理由を解説",
+   "summary_ja": "ファーストリテイリングなど大手企業で相次ぐ株式分割の背景を解説。投資単位が実質3分の1になることで、個人の投資しやすさ向上などが図られている事情に迫る。",
+   "category": "業績・経営",
+   "brand": "グループ",
    "importance": 3,
    "has_detail": true
   },
@@ -6642,54 +6684,6 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "e28c5872a3965f06",
-   "url": "https://news.yahoo.co.jp/articles/6c9793096e8d55b0c4cd560b56d3aa8b51cc3b4f",
-   "title_original": "16歳以下シングルスは川村准椰（関東／桜田倶楽部）と関戸心咲（関東／ITM TEAM）が優勝 [ユニクロ全日本ジュニアテニス選手権]（テニスマガジンONLINE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00035337-tennismagv-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T10:30:00+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス16歳以下は川村准椰と関戸心咲が優勝",
-   "summary_ja": "ユニクロ全日本ジュニアテニス選手権の16歳以下シングルスで、男子は関東・桜田倶楽部の川村准椰、女子は関東・ITM TEAMの関戸心咲がそれぞれ優勝を果たした。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a7fc7755e1535422",
-   "url": "https://mi-mollet.com/articles/-/61051?layout=b",
-   "title_original": "人気のダウンがリバーシブルに！ユニクロ2026年秋冬、定番アイテムがさらに進化",
-   "source": "mi-mollet（ミモレ）",
-   "image": "https://mi-mollet.ismcdn.jp/mwimgs/7/c/-/img_7ce12189b79f3c501258f201388c3a0c1145880.jpg?rd=202608181246",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T03:00:00+00:00",
-   "title_ja": "ユニクロが2026年秋冬の新作発表！人気ダウンがリバーシブルに進化",
-   "summary_ja": "ユニクロの2026年秋冬コレクションにて、定番のアウターアイテムがアップデートされました。人気のダウンがリバーシブル仕様へと進化し、着こなしの幅が広がる注目の新作となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a39086f41a6e0b58",
-   "url": "https://hochi.news/articles/pub_mic_246438.html",
-   "title_original": "【2026年秋冬】ユニクロユー新作バッグは2型！収納力・カラー・素材を展示会で徹底チェック",
-   "source": "スポーツ報知",
-   "image": "https://hochi.news/images/publisher/pub_mic_01/2026/09/06/pub_mic_246438/cover.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T02:00:00+00:00",
-   "title_ja": "ユニクロ ユー2026年秋冬新作！2型のバッグを展示会で徹底チェック",
-   "summary_ja": "「ユニクロ ユー」の2026年秋冬コレクションから、新作バッグ2型が発表されました。展示会にて、日常使いに嬉しい収納力やカラー、素材の質感などが紹介されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
