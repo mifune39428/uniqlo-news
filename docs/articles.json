@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T05:50:50.625643+09:00",
+ "updated_at": "2026-09-26T11:25:21.221306+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -38,6 +38,7 @@
   "Completely Retail News",
   "Confirm Good",
   "Daily Tribune",
+  "Dtimes",
   "ELLE Canada Magazine",
   "Ely Standard",
   "Excite エキサイト",
@@ -71,6 +72,7 @@
   "Lewistown - Sentinel",
   "LionhearTV",
   "Liverpool Echo",
+  "Lmaga.jp",
   "London Now",
   "London On The Inside",
   "MEN'S NON-NO WEB",
@@ -245,43 +247,99 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 266,
+ "detail_count": 267,
  "digest": {
-  "headline": "ユニクロ新作UNIQLO：C発売や英国出店が話題に",
+  "headline": "ユニクロの秋冬新作発売やイギリスでの店舗網拡大の動きが活発",
   "points": [
    {
-    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによるコレクション「UNIQLO : C」の秋冬新作を発売しました。",
+    "text": "ユニクロの2026年秋冬コレクションや、クレア・ワイト・ケラーによる「UNIQLO : C」の新作が9月25日に発売された。",
     "ids": [
+     "9182bdf2db84de4c",
      "00f7bb5042ad878c",
      "ca163c479f5fb134"
     ]
    },
    {
-    "text": "ユニクロはイギリスのマンチェスターやバース、ケンブリッジなどでの新規出店計画やオープンを発表しました。",
+    "text": "イギリスのマンチェスターやバースなどでの新規出店が次々と発表され、英国における事業拡大が急速に進められている。",
     "ids": [
      "62d15616134afd9b",
      "8e65acc07a0c6b98",
-     "f92b4dd88ebdfba8"
+     "32edd5193bfc8475"
     ]
    },
    {
-    "text": "ファーストリテイリンググループでは、ミーナ津田沼が10月16日にリニューアルオープンする予定です。",
+    "text": "京都の大型ユニクロ店舗が一時閉店し、グローバル旗艦店としてリニューアルオープンすることが明らかにされた。",
     "ids": [
+     "285a8b3fefa64080"
+    ]
+   },
+   {
+    "text": "ファーストリテイリングが運営する商業施設「ミーナ津田沼」が10月16日にリニューアルし、新飲食街が開業する。",
+    "ids": [
+     "639452067934fa86",
      "1b47e4ac6627a880"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」がXで3日に70件投稿されています。",
+    "text": "SNSでは「ユニクロ イタリアンレザーロングベルト」がXで18件投稿されるなど話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-23T05:55:58.394082+09:00",
-  "generated_at": "2026-09-26T05:56:00.081096+09:00",
+  "from": "2026-09-23T11:31:31.933184+09:00",
+  "generated_at": "2026-09-26T11:31:33.792191+09:00",
   "article_count": 24,
-  "sig": "d26300bb7196"
+  "sig": "ae73f1ce37e4"
  },
  "items": [
+  {
+   "id": "639452067934fa86",
+   "url": "https://dtimes.jp/post-1394736",
+   "title_original": "10月16日開業！1Fに飲食店が並ぶ「しんつだぬま食堂」が誕生！ミーナ津田沼",
+   "source": "Dtimes",
+   "image": "https://dtimes.jp/wp-content/uploads/2026/09/dtimes-engine-7f561bc2c0ff93c964885b6d197f9ae2-20260926-bb23cc.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T00:59:52+00:00",
+   "title_ja": "千葉の商業施設「ミーナ津田沼」に新飲食街「しんつだぬま食堂」が10月16日開業",
+   "summary_ja": "ファーストリテイリングが運営する商業施設「ミーナ津田沼」の1階に、新たな飲食街「しんつだぬま食堂」が2026年10月16日に開業します。複数の飲食店が並び、施設全体の魅力向上と利便性の強化が図られます。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "285a8b3fefa64080",
+   "url": "https://www.lmaga.jp/news/2026/09/1103424",
+   "title_original": "京都の「巨大ユニクロ」が一時閉店、“グローバル旗艦店”としてリニューアルオープン",
+   "source": "Lmaga.jp",
+   "image": "https://www.lmaga.jp/wp-content/uploads/2026/09/kyotoyunikurorinyu20260925_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T00:30:00+00:00",
+   "title_ja": "京都の大型ユニクロ店舗が一時閉店へ、グローバル旗艦店としてリニューアル",
+   "summary_ja": "京都にある大型のユニクロ店舗が改装のため一時閉店し、今後は「グローバル旗艦店」としてリニューアルオープンすることが分かりました。より魅力を高めた大規模店舗へと生まれ変わり、新たな装いで営業を再開する予定です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "7eed55ae28e6efe0",
+   "url": "https://sumida.keizai.biz/photoflash/5937",
+   "title_original": "ユニクロキッズは3倍の大きさに",
+   "source": "すみだ経済新聞",
+   "image": "https://images.keizai.biz/sumida_keizai/photonews/1790379583_b.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-25T23:43:36+00:00",
+   "title_ja": "ユニクロのキッズコーナーが従来の3倍規模に拡大",
+   "summary_ja": "特定のユニクロ店舗において、キッズ向け商品の売り場スペースが従来の3倍の大きさに拡大されたことが分かりました。ファミリー層の利便性向上や、子ども向け商品のラインナップ充実を図るための施策とみられます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "cc6532df509c9d9a",
    "url": "https://soyacincau.com/2026/09/25/uniqlo-proton-collection-emas7-s70-x50-satrianeor3-saga",
@@ -296,7 +354,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "46a005d28bc30a6b",
@@ -312,7 +370,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cb856e6029c2fd0d",
@@ -329,6 +387,22 @@
    "brand": "GU",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "9182bdf2db84de4c",
+   "url": "https://news.yahoo.co.jp/articles/99d833f7764fbcacd7aa7a8e37b063f37500fae2",
+   "title_original": "【ユニクロ ： シー】2026年9月25日（金）発売！2026年秋冬コレクションから大人女性におすすめのラインナップ（＠BAILA）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010001-baila-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-25T09:50:01+00:00",
+   "title_ja": "「UNIQLO : C」2026年秋冬コレクションが発売",
+   "summary_ja": "ユニクロの「UNIQLO : C」2026年秋冬コレクションが2026年9月25日に発売された。大人の女性に向けた洗練されたラインナップを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "5ac03a2690ac4efc",
@@ -6613,70 +6687,6 @@
    "published": "2026-09-06T02:00:00+00:00",
    "title_ja": "ユニクロ ユー2026年秋冬新作！2型のバッグを展示会で徹底チェック",
    "summary_ja": "「ユニクロ ユー」の2026年秋冬コレクションから、新作バッグ2型が発表されました。展示会にて、日常使いに嬉しい収納力やカラー、素材の質感などが紹介されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8534c48454f44b74",
-   "url": "https://www.webuomo.jp/fashion/topic/s_w71g",
-   "title_original": "【ユニクロ ユーのハリントンジャケット】10周年のノスタルブルゾン",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/b4/b4b4c6c0-0db3-48eb-b9bc-776ebe4df764-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-06T02:00:00+00:00",
-   "title_ja": "ユニクロ ユーの10周年アイテム！ハリントンジャケットの魅力を紹介",
-   "summary_ja": "「ユニクロ ユー」の10周年を飾る新作としてハリントンジャケットが登場。どこか懐かしさを感じさせるノスタルジックなデザインが魅力で、秋冬のコーディネートを彩る1着となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1648bc5c774f4b29",
-   "url": "https://www.sanyonews.jp/article/1955056?rct=oricon_news&kw=2024%3Cbr+%2F%3E",
-   "title_original": "【ユニクロ2026秋冬】新作「ラウンジ＆インナーウェア」コレクションで自分だけのリラックスタイム",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/8/6/e/d/86ed9ec6e289bd44edb3a0c31e9835f9_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T22:20:46+00:00",
-   "title_ja": "ユニクロが2026年秋冬の「ラウンジ＆インナーウェア」新作を発表",
-   "summary_ja": "ユニクロが2026年秋冬の「ラウンジ＆インナーウェア」新作コレクションを発表しました。自分だけのリラックスタイムを過ごすための新しいアイテム群が展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0c091b8874eb0b51",
-   "url": "https://oceans.tokyo.jp/article/detail/55476?module=toppage_new",
-   "title_original": "【全て5000円以下】「ユニクロ ユー」の“新作パンツ”全3種を編集部員が履き比べ！9月11日、いよいよ発売",
-   "source": "OCEANS オーシャンズ",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T12:02:02+00:00",
-   "title_ja": "「ユニクロ ユー」の新作パンツ3種が9月11日に発売開始",
-   "summary_ja": "ユニクロ ユーの新作パンツ全3種が9月11日に発売される。価格はいずれも5000円以下に抑えられており、編集部員による履き比べとともにアイテムの魅力が紹介されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "647fb0fb9c1f5d3e",
-   "url": "https://trilltrill.jp/articles/5004417",
-   "title_original": "【ユニクロ】2026秋冬展示会リポート！50代が買うべきアイテムとは？",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5004417/featured-image.976689dcc6a64e8788f581213a2d0803?w=1200",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-05T10:24:28+00:00",
-   "title_ja": "ユニクロの2026年秋冬展示会リポート 50代向けおすすめ商品も紹介",
-   "summary_ja": "TRILLにて、ユニクロの2026年秋冬展示会の取材リポートが公開されました。展示会で発表された最新コレクションの中から、50代の女性に向けたおすすめアイテムや注目ポイントを紹介しています。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
