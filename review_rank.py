@@ -433,7 +433,11 @@ def score_products(products: dict[str, dict], history: dict, day: str) -> list[d
         if base is None:
             if not history_is_old_enough:
                 continue  # まだ比べる材料が無い
-            base = 0      # 7日前の一覧に無かった新しい商品
+            # 7日前の一覧に無かった商品は、初めて見かけたときの件数を基準にする。
+            # 「新商品だから7日前は0件」とみなすと、番号が変わって既存のレビューを
+            # 引き継いだ商品（セット商品など）の数千件が、全部「今週の分」に数えられてしまう
+            # （2026-09-28 に総2,311件・3日間増加0件の商品が+2,311件で1位になっていた）。
+            base = points[min(points)] if points else product["reviews"]
         reviews7 = max(0, product["reviews"] - base)
         prev_base = count_at(points, two_weeks_ago)
         prev7 = base - prev_base if prev_base is not None else None

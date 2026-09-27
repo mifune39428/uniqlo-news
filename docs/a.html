@@ -5,30 +5,36 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>ユニクロ ニュース</title>
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#0b0b0c" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <script src="ui.js" data-site="uniqlo-news"></script>
 <style>
+  /* 色は一覧（index.html）と同じ。 */
   :root {
-    --bg: #f2f2f2; --card: #ffffff; --text: #111111; --muted: #767676;
-    --line: rgba(0,0,0,.1); --accent: #ff0000; --chip: rgba(0,0,0,.05);
-    --badge: #ff0000; --header: rgba(242,242,242,.88); --quote: rgba(255,0,0,.05);
+    --bg: #f4f4f5; --card: #ffffff; --text: #0c0c0d; --muted: #6b6b73;
+    --line: rgba(0,0,0,.08); --accent: #e60012; --chip: rgba(0,0,0,.05);
+    --badge: #e60012; --header: rgba(255,255,255,.86); --quote: rgba(230,0,18,.06);
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.05);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0d0d0d; --card: #1a1a1a; --text: #f2f2f2; --muted: #9b9b9b;
-      --line: rgba(255,255,255,.12); --accent: #ff3b30; --chip: rgba(255,255,255,.1);
-      --badge: #ff3b30; --header: rgba(13,13,13,.82); --quote: rgba(255,59,48,.1);
+      --bg: #0b0b0c; --card: #161618; --text: #f3f3f4; --muted: #9d9da6;
+      --line: rgba(255,255,255,.08); --accent: #ff3b3b; --chip: rgba(255,255,255,.07);
+      --badge: #ff3b3b; --header: rgba(11,11,12,.82); --quote: rgba(255,59,59,.1);
+      --shadow: 0 0 0 1px rgba(255,255,255,.05);
     }
   }
   * { box-sizing: border-box; }
   body {
     margin: 0; background: var(--bg); color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
-    line-height: 1.8; -webkit-font-smoothing: antialiased;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Segoe UI", sans-serif;
+    font-feature-settings: "palt"; letter-spacing: .02em;
+    line-height: 1.85; -webkit-font-smoothing: antialiased;
     padding-bottom: env(safe-area-inset-bottom);
   }
   a { color: var(--accent); text-decoration: none; }
@@ -36,30 +42,34 @@
     position: sticky; top: 0; z-index: 10; background: var(--header);
     -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid var(--line);
-    padding: max(env(safe-area-inset-top), 10px) 16px 10px;
+    padding-top: env(safe-area-inset-top);
   }
-  .bar { max-width: 720px; margin: 0 auto; display: flex; align-items: center; gap: 10px; }
-  .back { font-size: 14px; font-weight: 600; }
+  .bar { max-width: 720px; height: 52px; margin: 0 auto; padding: 0 16px; display: flex; align-items: center; gap: 10px; }
+  .back { font-size: 14px; font-weight: 700; color: var(--text); display: flex; align-items: center; gap: 4px; }
+  .brandmark { margin-left: auto; display: flex; align-items: center; gap: 7px; color: var(--text); }
+  .logo { background: var(--accent); color: #fff; border-radius: 3px; font-size: 9px; font-weight: 800; letter-spacing: .1em; line-height: 1; padding: 5px 5px 5px 6px; }
+  .wordmark { font-size: 16px; font-weight: 900; letter-spacing: .12em; line-height: 1; }
   main { max-width: 720px; margin: 0 auto; padding: 18px 16px 40px; }
   .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 10px; }
   .tag { background: var(--chip); border-radius: 4px; padding: 2px 8px; color: var(--text); }
   .brand { border: 1px solid var(--line); border-radius: 4px; padding: 1px 8px; color: var(--text); font-weight: 600; }
   .badge { background: var(--badge); color: #fff; border-radius: 4px; padding: 2px 8px; font-weight: 600; }
-  h1 { font-size: 25px; line-height: 1.45; letter-spacing: -.01em; margin: 0 0 14px; }
-  .cover { width: 100%; aspect-ratio: 16 / 9; max-height: 340px; object-fit: cover; border-radius: 12px; background: var(--chip); display: block; margin-bottom: 18px; }
+  h1 { font-size: 25px; font-weight: 800; line-height: 1.5; letter-spacing: .02em; margin: 0 0 16px; }
+  .cover { width: 100%; aspect-ratio: 16 / 9; max-height: 380px; object-fit: cover; border-radius: 16px; background: var(--chip); display: block; margin-bottom: 20px; box-shadow: var(--shadow); }
   .points {
-    background: var(--quote); border: 1px solid var(--line); border-radius: 12px;
-    padding: 15px 18px 15px 16px; margin: 0 0 22px;
+    position: relative; overflow: hidden; background: var(--card); border-radius: 16px; box-shadow: var(--shadow);
+    padding: 16px 18px 16px 22px; margin: 0 0 24px;
   }
-  .points h2 { font-size: 13px; color: var(--muted); margin: 0 0 8px; letter-spacing: .04em; font-weight: 600; }
+  .points::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--accent); }
+  .points h2 { font-size: 12px; color: var(--accent); margin: 0 0 8px; letter-spacing: .08em; font-weight: 800; }
   .points ul { margin: 0; padding-left: 20px; }
   .points li { font-size: 14.5px; margin-bottom: 5px; }
   .points li:last-child { margin-bottom: 0; }
   .body p { font-size: 16px; margin: 0 0 18px; }
   .actions { display: flex; flex-direction: column; gap: 9px; margin: 26px 0 20px; }
   .btn {
-    display: block; text-align: center; padding: 13px; border-radius: 10px;
-    font-size: 15px; font-weight: 600; border: 1px solid var(--line);
+    display: block; text-align: center; padding: 14px; border-radius: 999px;
+    font-size: 15px; font-weight: 700; border: 1px solid var(--line);
   }
   .btn.primary { background: var(--accent); color: #fff; border-color: transparent; }
   .btn.sub { background: var(--card); color: var(--accent); }
@@ -71,7 +81,10 @@
 <body>
 
 <header>
-  <div class="bar"><a class="back" href="./">← 一覧へ戻る</a></div>
+  <div class="bar">
+    <a class="back" href="./">‹ 一覧へ戻る</a>
+    <a class="brandmark" href="./" aria-label="ユニクロ ニュース トップへ"><span class="logo">UNIQLO</span><span class="wordmark">NEWS</span></a>
+  </div>
 </header>
 
 <main id="main"><p class="loading">読み込み中…</p></main>

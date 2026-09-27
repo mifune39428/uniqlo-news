@@ -4,263 +4,411 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>ユニクロ ニュース</title>
-<meta name="description" content="ユニクロ・GU・ファーストリテイリング関連のニュースを国内外から自動で集め、日本語の見出し・要約・解説付きでまとめています。6時間ごとに更新。">
+<meta name="description" content="ユニクロ・GU・ファーストリテイリング関連のニュースを国内外から自動で集め、日本語の見出し・要約・解説付きでまとめています。SNSで話題の商品、レビューが伸びている商品も。6時間ごとに更新。">
+<meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#0b0b0c" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="ユニクロニュース">
 <meta property="og:title" content="ユニクロ ニュース">
-<meta property="og:description" content="ユニクロ・GU・ファーストリテイリングの最新ニュースを、海外の記事も日本語で。6時間ごとに自動更新。">
+<meta property="og:description" content="ユニクロ・GUの最新ニュースと、いまSNSで話題の商品。海外の記事も日本語で。6時間ごとに自動更新。">
 <meta property="og:type" content="website">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <script src="ui.js" data-site="uniqlo-news"></script>
 <style>
+  /* ---------------------------------------------------------------- 色と基本 */
   :root {
-    --bg: #f2f2f2;
+    --bg: #f4f4f5;
     --card: #ffffff;
-    --text: #111111;
-    --muted: #767676;
-    --line: rgba(0,0,0,.1);
-    --accent: #ff0000;
+    --text: #0c0c0d;
+    --muted: #6b6b73;
+    --line: rgba(0,0,0,.08);
+    --accent: #e60012;
+    --soft: rgba(230,0,18,.08);
     --chip: rgba(0,0,0,.05);
-    --chip-on: #111111;
-    --chip-on-text: #ffffff;
-    --badge: #ff0000;
-    --global: #0b5fbe;
-    --header: rgba(242,242,242,.88);
+    --seg-on: #ffffff;
+    --header: rgba(255,255,255,.86);
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.05);
+    --radius: 16px;
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0d0d0d;
-      --card: #1a1a1a;
-      --text: #f2f2f2;
-      --muted: #9b9b9b;
-      --line: rgba(255,255,255,.12);
-      --accent: #ff3b30;
-      --chip: rgba(255,255,255,.1);
-      --chip-on: #ff3b30;
-      --chip-on-text: #ffffff;
-      --badge: #ff3b30;
-      --global: #62a8ff;
-      --header: rgba(13,13,13,.82);
+      --bg: #0b0b0c;
+      --card: #161618;
+      --text: #f3f3f4;
+      --muted: #9d9da6;
+      --line: rgba(255,255,255,.08);
+      --accent: #ff3b3b;
+      --soft: rgba(255,59,59,.14);
+      --chip: rgba(255,255,255,.07);
+      --seg-on: #2c2c30;
+      --header: rgba(11,11,12,.82);
+      --shadow: 0 0 0 1px rgba(255,255,255,.05);
     }
   }
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans", "Noto Sans JP", sans-serif;
-    line-height: 1.65;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Segoe UI", sans-serif;
+    /* 和文の字間を詰めて、見出しを引き締める。 */
+    font-feature-settings: "palt";
+    letter-spacing: .02em;
+    line-height: 1.7;
     -webkit-font-smoothing: antialiased;
     padding-bottom: env(safe-area-inset-bottom);
   }
   a { color: inherit; text-decoration: none; }
+  button { -webkit-tap-highlight-color: transparent; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .clamp2, .clamp3 { display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+  .clamp2 { -webkit-line-clamp: 2; }
+  .clamp3 { -webkit-line-clamp: 3; }
 
+  /* ---------------------------------------------------------------- 上のメニュー */
   header {
     position: sticky; top: 0; z-index: 10;
     background: var(--header);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 1px solid var(--line);
-    padding: max(env(safe-area-inset-top), 10px) 16px 0;
+    padding-top: env(safe-area-inset-top);
   }
-  .bar { max-width: 760px; margin: 0 auto; display: flex; align-items: center; gap: 9px; }
-  /* ロゴは赤い四角。ユニクロの店頭タグの雰囲気に寄せる。 */
+  .bar {
+    max-width: 1080px; margin: 0 auto; height: 52px; padding: 0 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .brandmark { display: flex; align-items: center; gap: 8px; }
   .logo {
-    flex: 0 0 auto; background: var(--accent); color: #fff;
-    font-size: 11px; font-weight: 700; letter-spacing: .06em;
-    padding: 4px 7px; border-radius: 2px; line-height: 1.2;
+    background: var(--accent); color: #fff; border-radius: 3px;
+    font-size: 9.5px; font-weight: 800; letter-spacing: .1em; line-height: 1;
+    padding: 5px 5px 5px 6px;
   }
-  h1 { font-size: 18px; font-weight: 700; letter-spacing: -.01em; margin: 0; }
-  .updated { font-size: 11px; color: var(--muted); margin-left: auto; white-space: nowrap; }
-  .filters {
-    max-width: 760px; margin: 0 auto;
-    display: flex; gap: 6px; overflow-x: auto; padding: 10px 0 0;
-    scrollbar-width: none;
+  .wordmark { font-size: 19px; font-weight: 900; letter-spacing: .12em; line-height: 1; }
+  .updated { margin-left: auto; font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .icon-btn {
+    flex: 0 0 auto; width: 36px; height: 36px; border-radius: 50%; border: 0;
+    background: var(--chip); color: var(--text); cursor: pointer;
+    display: grid; place-items: center;
   }
-  .filters:last-of-type { padding-bottom: 10px; }
-  .filters::-webkit-scrollbar { display: none; }
-  .chip {
-    flex: 0 0 auto; border: 0; cursor: pointer;
-    background: var(--chip); color: var(--text);
-    font: inherit; font-size: 13px; line-height: 1.4;
-    padding: 6px 13px; border-radius: 999px;
-  }
-  .chip[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-text); }
+  .icon-btn[aria-expanded="true"] { background: var(--text); color: var(--bg); }
 
-  main { max-width: 760px; margin: 0 auto; padding: 16px 16px 56px; }
-  .search {
-    width: 100%; margin-bottom: 14px;
-    background: var(--card); color: var(--text);
-    border: 1px solid var(--line); border-radius: 10px;
-    padding: 11px 14px; font: inherit; font-size: 16px;
+  /* カテゴリはタブ1列。選んでいるものに赤い下線。右端は薄くしてスクロールできると分かるように。 */
+  .tabs {
+    max-width: 1080px; margin: 0 auto;
+    display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none;
+    padding: 0 36px 0 8px;
+    -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 36px), transparent);
+            mask-image: linear-gradient(90deg, #000 calc(100% - 36px), transparent);
   }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs .chip {
+    flex: 0 0 auto; position: relative; border: 0; background: none; cursor: pointer;
+    color: var(--muted); font: inherit; font-size: 14.5px; font-weight: 700; letter-spacing: .03em;
+    padding: 9px 9px 12px; white-space: nowrap;
+  }
+  .tabs .chip[aria-pressed="true"] { color: var(--text); }
+  .tabs .chip[aria-pressed="true"]::after {
+    content: ""; position: absolute; left: 9px; right: 9px; bottom: 0; height: 3px;
+    border-radius: 3px 3px 0 0; background: var(--accent);
+  }
+  /* お気に入りのタブ（ui.js が差し込む）は最後尾に回す。 */
+  #ui-favChip { order: 99; }
+  body.ui-favmode .tabs .chip[aria-pressed="true"]:not(#ui-favChip) { color: var(--muted); }
+  body.ui-favmode .tabs .chip[aria-pressed="true"]:not(#ui-favChip)::after { display: none; }
+
+  /* ---------------------------------------------------------------- 本文の枠 */
+  main { max-width: 1080px; margin: 0 auto; padding: 14px 16px 64px; }
+
+  .searchbar { position: relative; margin: 0 0 14px; }
+  .searchbar[hidden] { display: none; }
+  .searchbar svg { position: absolute; left: 14px; top: 13px; color: var(--muted); pointer-events: none; }
+  .search {
+    width: 100%; height: 46px; border-radius: 14px;
+    background: var(--card); color: var(--text); border: 1px solid var(--line);
+    padding: 0 14px 0 42px; font: inherit; font-size: 16px; box-shadow: var(--shadow);
+  }
+  .search:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
   .search::placeholder { color: var(--muted); }
 
-  article {
-    background: var(--card); border-radius: 12px;
-    padding: 15px 17px; margin-bottom: 11px;
-    border: 1px solid var(--line);
-    transition: transform .15s ease;
+  /* タブごとの小さな切り替え（ブランド・国内外・性別など） */
+  #subFilters { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin: 0 -16px 14px; padding: 0 16px; }
+  #subFilters::-webkit-scrollbar { display: none; }
+  #subFilters:empty { display: none; }
+  body.ui-favmode #subFilters { display: none; }
+  .seg { flex: 0 0 auto; display: inline-flex; background: var(--chip); border-radius: 999px; padding: 3px; }
+  .seg button {
+    border: 0; background: none; cursor: pointer; white-space: nowrap;
+    font: inherit; font-size: 12.5px; font-weight: 700; color: var(--muted);
+    padding: 5px 12px; border-radius: 999px; letter-spacing: .02em;
   }
-  article:active { transform: scale(.99); }
-  .row { display: flex; gap: 12px; align-items: flex-start; }
-  .row .body { flex: 1 1 auto; min-width: 0; }
-  .thumb {
-    flex: 0 0 100px; width: 100px; height: 100px;
-    object-fit: cover; border-radius: 8px;
-    background: var(--chip); display: block;
+  .seg button[aria-pressed="true"] { background: var(--seg-on); color: var(--text); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+
+  /* タブや切り替えを押したときだけ、ふわっと出す。
+     （読み込みのたびに動かすと、アプリに戻るたびに一覧全体がちらつく） */
+  #list.anim > * { animation: rise .28s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { #list.anim > * { animation: none; } }
+
+  /* ---------------------------------------------------------------- 先頭の大きな記事 */
+  .lead {
+    position: relative; overflow: hidden; border-radius: var(--radius);
+    background: #111; box-shadow: var(--shadow); margin: 0 0 16px;
   }
-  .hero {
-    /* 幅の広い画面で主役の画像が伸びすぎないように上限を付ける。 */
-    width: 100%; aspect-ratio: 16 / 9; max-height: 300px; object-fit: cover;
-    border-radius: 10px; background: var(--chip);
-    display: block; margin-bottom: 11px;
+  .lead > a { display: block; color: #fff; }
+  .lead-img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+  .lead-txt {
+    position: absolute; left: 0; right: 0; bottom: 0; padding: 64px 18px 16px;
+    background: linear-gradient(180deg, transparent, rgba(0,0,0,.6) 38%, rgba(0,0,0,.88));
   }
-  /* 画像が取れなかった記事のための代わりの絵。カードに穴を空けない。 */
-  .ph {
+  .lead h2 { font-size: 21px; font-weight: 800; line-height: 1.45; margin: 6px 0 6px; letter-spacing: .02em; }
+  .lead .dek { font-size: 13.5px; line-height: 1.65; margin: 0 0 8px; color: rgba(255,255,255,.86); }
+  .lead .kicker .cat { color: #fff; background: var(--accent); padding: 2px 7px; border-radius: 4px; }
+  .lead .byline { color: rgba(255,255,255,.72); }
+  @media (min-width: 760px) {
+    .lead-img { aspect-ratio: 21 / 9; }
+    .lead-txt { padding: 90px 28px 24px; }
+    .lead h2 { font-size: 28px; max-width: 820px; }
+    .lead .dek { max-width: 760px; font-size: 14.5px; }
+  }
+
+  /* 記事の見出しの上の小さな行（カテゴリ・注目） */
+  .kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 11px; line-height: 1.4; }
+  .cat { color: var(--accent); font-weight: 800; letter-spacing: .06em; }
+  .hot { background: var(--accent); color: #fff; font-weight: 800; padding: 1px 6px; border-radius: 4px; letter-spacing: .04em; }
+  .byline { font-size: 11.5px; color: var(--muted); letter-spacing: .01em; }
+  .byline .dot { margin: 0 4px; opacity: .6; }
+
+  /* ---------------------------------------------------------------- 記事の一覧 */
+  /* スマホは1枚の面に行を並べる（区切りは細線）。広い画面では写真が上のカードを並べる。 */
+  .news { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+  .news:empty { display: none; }
+  .post { position: relative; }
+  .post + .post { border-top: 1px solid var(--line); }
+  .post > a { display: grid; grid-template-columns: 1fr 96px; gap: 14px; padding: 15px 16px; align-items: start; }
+  .post > a:active { background: var(--chip); }
+  .post-img { grid-column: 2; grid-row: 1; }
+  .post-txt { grid-column: 1; grid-row: 1; min-width: 0; }
+  .post .thumb { display: block; width: 96px; height: 96px; object-fit: cover; border-radius: 12px; background: var(--chip); }
+  .post h2 { font-size: 15.5px; font-weight: 700; line-height: 1.55; margin: 5px 0 4px; letter-spacing: .02em; }
+  .post .dek { font-size: 13px; line-height: 1.65; color: var(--muted); margin: 0 0 6px; }
+  @media (min-width: 760px) {
+    .news { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; background: none; box-shadow: none; overflow: visible; border-radius: 0; }
+    .post { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+    .post + .post { border-top: 0; }
+    .post > a { grid-template-columns: 1fr; gap: 0; padding: 0; height: 100%; align-content: start; }
+    .post-img { grid-column: 1; grid-row: 1; }
+    .post-txt { grid-column: 1; grid-row: 2; padding: 13px 17px 17px; }
+    .post .thumb { width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: 0; }
+    .post > a:hover h2 { color: var(--accent); }
+  }
+  @media (min-width: 1060px) { .news { grid-template-columns: repeat(3, 1fr); } }
+
+  /* 画像が取れなかった記事の代わりの絵。空白にしない。
+     写真用の display:block に負けないよう、組み合わせで指定する。 */
+  .ph, .thumb.ph, .lead-img.ph, .pc-photo.ph {
     display: flex; align-items: center; justify-content: center;
-    background: linear-gradient(135deg, #ff0000, #b00000);
-    color: #fff; font-size: 34px; line-height: 1;
+    background: radial-gradient(120% 90% at 30% 20%, #ff4d5a 0%, #d10014 45%, #7a000a 100%);
+    color: #fff; font-size: 30px; line-height: 1;
   }
-  .hero.ph { font-size: 56px; }
+  .lead-img.ph { font-size: 64px; }
+  .pc-photo.ph { font-size: 44px; }
 
-  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 11.5px; color: var(--muted); margin-bottom: 7px; }
-  .tag { background: var(--chip); border-radius: 4px; padding: 2px 7px; color: var(--text); }
-  .brand { border: 1px solid var(--line); border-radius: 4px; padding: 1px 7px; color: var(--text); font-weight: 600; }
-  .badge { background: var(--badge); color: #fff; border-radius: 4px; padding: 2px 7px; font-weight: 600; }
-  .flag { font-size: 12px; }
-  h2 { font-size: 17px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.01em; line-height: 1.45; }
-  p.summary { margin: 0 0 10px; font-size: 14px; color: var(--text); opacity: .85; }
-  .src { font-size: 12.5px; color: var(--accent); font-weight: 600; }
+  /* ---------------------------------------------------------------- 見出し（セクション） */
+  .sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 26px 2px 11px; }
+  .sec-head h3 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: .04em; }
+  .sec-head h3 small { font-size: 11.5px; color: var(--muted); font-weight: 600; margin-left: 8px; letter-spacing: .02em; }
+  .sec-link { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; font-size: 13px; font-weight: 700; color: var(--accent); white-space: nowrap; }
 
-  /* ここ数日のまとめ。一覧の先頭に置く。 */
-  #digest {
-    background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--accent);
-    border-radius: 12px; padding: 14px 17px 12px; margin-bottom: 14px;
+  /* ---------------------------------------------------------------- ここ数日のまとめ */
+  .digest {
+    position: relative; overflow: hidden; background: var(--card); border-radius: var(--radius);
+    box-shadow: var(--shadow); padding: 16px 18px 14px 20px; margin: 0 0 4px;
   }
-  #digest .dg-head { display: flex; align-items: baseline; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
-  #digest .dg-head b { color: var(--accent); font-size: 12.5px; }
-  #digest .dg-head span { margin-left: auto; white-space: nowrap; }
-  #digest h3 { font-size: 16.5px; margin: 0 0 8px; line-height: 1.45; letter-spacing: -.01em; }
-  #digest ul { margin: 0; padding-left: 19px; }
-  #digest li { font-size: 14px; margin-bottom: 6px; }
-  #digest li a { font-size: 11.5px; color: var(--accent); font-weight: 600; margin-left: 4px; white-space: nowrap; }
-  #digest .dg-note { font-size: 11px; color: var(--muted); margin: 6px 0 0; }
-  body.ui-favmode #digest { display: none !important; }
+  .digest::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--accent); }
+  .dg-label { font-size: 11.5px; font-weight: 800; color: var(--accent); letter-spacing: .08em; }
+  .dg-label span { color: var(--muted); font-weight: 600; letter-spacing: .02em; margin-left: 6px; }
+  .digest h3 { font-size: 17px; font-weight: 800; line-height: 1.5; margin: 6px 0 10px; }
+  .digest ol { list-style: none; margin: 0; padding: 0; counter-reset: dg; }
+  .digest li { position: relative; padding-left: 28px; font-size: 14px; line-height: 1.75; margin-bottom: 9px; }
+  .digest li::before {
+    counter-increment: dg; content: counter(dg);
+    position: absolute; left: 0; top: 3px; width: 19px; height: 19px; border-radius: 50%;
+    background: var(--soft); color: var(--accent); font-size: 11px; font-weight: 800;
+    display: grid; place-items: center; letter-spacing: 0;
+  }
+  .digest li a { margin-left: 3px; font-size: 16px; line-height: 1; font-weight: 700; color: var(--accent); letter-spacing: 0; vertical-align: -1px; }
+  .digest li a:first-of-type { margin-left: 6px; }
+  .digest li.more { display: none; }
+  .digest.open li.more { display: list-item; }
+  .dg-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 2px; }
+  .dg-note { font-size: 11px; color: var(--muted); }
+  .dg-toggle { border: 0; background: none; padding: 0; cursor: pointer; font: inherit; font-size: 13px; font-weight: 700; color: var(--accent); white-space: nowrap; }
 
-  /* BuZZ（話題の商品） */
-  .bz-tabs { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin-bottom: 10px; }
-  .bz-tabs::-webkit-scrollbar { display: none; }
-  .bz-criteria {
-    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
-    padding: 11px 15px; margin-bottom: 12px; font-size: 13px;
+  /* ---------------------------------------------------------------- 商品カード（BuZZ・レビュー） */
+  .pgrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  @media (min-width: 640px) { .pgrid { grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 960px) { .pgrid { grid-template-columns: repeat(4, 1fr); gap: 16px; } }
+  /* トップ画面では横に流す。 */
+  .rail {
+    display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none;
+    margin: 0 -16px; padding: 2px 16px 8px; scroll-padding: 0 16px;
   }
-  .bz-criteria summary { cursor: pointer; font-weight: 700; }
-  .bz-criteria .formula {
-    background: var(--chip); border-radius: 8px; padding: 8px 10px; margin: 10px 0 8px;
-    font-weight: 600; font-size: 13px;
-  }
-  .bz-criteria ul { margin: 0; padding-left: 18px; }
-  .bz-criteria li { margin-bottom: 5px; }
-  .bz-criteria .since { color: var(--muted); font-size: 11.5px; margin: 8px 0 0; }
-  .bz {
-    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
-    padding: 13px 15px; margin-bottom: 11px;
-  }
-  .bz-main { display: flex; gap: 12px; align-items: flex-start; }
-  .bz-rank {
-    flex: 0 0 26px; font-size: 20px; font-weight: 800; line-height: 1.2;
-    color: var(--muted); text-align: center; padding-top: 2px;
-  }
-  .bz-rank.top { color: var(--accent); }
-  .bz-img {
-    flex: 0 0 92px; width: 92px; height: 122px; object-fit: cover;
-    border-radius: 8px; background: var(--chip); display: block;
-  }
-  .bz-body { flex: 1 1 auto; min-width: 0; }
-  .bz-body h2 { font-size: 15.5px; margin: 0 0 4px; }
-  .bz-price { font-size: 13.5px; font-weight: 700; margin-bottom: 6px; }
-  .bz-price s { color: var(--muted); font-weight: 500; margin-right: 5px; }
-  .bz-price .sale { color: var(--accent); }
-  .bz-stats { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 12px; color: var(--muted); }
-  .bz-stats b { color: var(--text); font-size: 15px; }
-  .bz-bar { height: 5px; border-radius: 3px; background: var(--chip); margin-top: 8px; overflow: hidden; }
-  .bz-bar i { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
-  .bz-flag { border-radius: 4px; padding: 1px 6px; font-weight: 700; font-size: 11px; }
-  .bz-flag.hot { background: var(--accent); color: #fff; }
-  .bz-flag.new { border: 1px solid var(--accent); color: var(--accent); }
-  /* SNSのBuZZ */
-  .bz-sub { font-size: 12px; color: var(--muted); margin: 0 0 4px; }
-  .bz-spark { display: flex; align-items: flex-end; gap: 2px; height: 26px; margin-top: 8px; }
-  .bz-spark i {
-    flex: 1 1 0; background: var(--chip); border-radius: 2px 2px 0 0; min-height: 2px;
-  }
-  .bz-spark i.on { background: var(--accent); }
-  .bz-links { display: flex; flex-wrap: wrap; gap: 12px; margin: 9px 0 0 38px; font-size: 12.5px; font-weight: 600; }
-  .bz-links a { color: var(--accent); }
-  .bz-news { margin: 10px 0 0 38px; padding: 8px 0 0; border-top: 1px dashed var(--line); font-size: 12px; }
-  .bz-news div { color: var(--muted); margin-bottom: 3px; }
-  .bz-news a { display: block; color: var(--text); margin-bottom: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .bz-news a span { color: var(--muted); }
+  .rail::-webkit-scrollbar { display: none; }
+  .rail .pcard { flex: 0 0 150px; scroll-snap-align: start; }
+  @media (min-width: 760px) { .rail .pcard { flex-basis: 180px; } }
 
-  .empty, .loading { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
+  .pcard {
+    display: flex; flex-direction: column; min-width: 0; overflow: hidden;
+    background: var(--card); border-radius: 14px; box-shadow: var(--shadow);
+  }
+  .pc-img { position: relative; display: block; aspect-ratio: 3 / 4; background: var(--chip); overflow: hidden; }
+  .pc-photo { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
+  .pcard:hover .pc-photo { transform: scale(1.03); }
+  .pc-rank {
+    position: absolute; left: 8px; top: 8px; min-width: 28px; height: 28px; padding: 0 7px;
+    border-radius: 9px; background: rgba(0,0,0,.72); color: #fff;
+    font-size: 15px; font-weight: 900; line-height: 28px; text-align: center; letter-spacing: 0;
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  }
+  .pc-rank.top { background: var(--accent); }
+  .pc-flags { position: absolute; left: 8px; bottom: 8px; right: 8px; display: flex; flex-wrap: wrap; gap: 4px; }
+  .pc-flag {
+    background: rgba(255,255,255,.94); color: #111; border-radius: 999px;
+    font-size: 10.5px; font-weight: 800; padding: 2px 8px; line-height: 1.5; letter-spacing: .02em;
+  }
+  .pc-flag.red { background: var(--accent); color: #fff; }
+  .pc-body { flex: 1; display: flex; flex-direction: column; gap: 2px; padding: 10px 11px 12px; }
+  .pc-brand { font-size: 10.5px; font-weight: 700; color: var(--muted); letter-spacing: .04em; }
+  .pc-name { font-size: 13.5px; font-weight: 700; line-height: 1.5; letter-spacing: .02em; }
+  .pc-price { font-size: 12.5px; font-weight: 700; }
+  .pc-price s { color: var(--muted); font-weight: 500; margin-right: 4px; }
+  .pc-price .sale { color: var(--accent); }
+  .pc-stat { display: flex; align-items: baseline; gap: 3px; margin-top: 4px; font-variant-numeric: tabular-nums; }
+  .pc-stat b { font-size: 21px; font-weight: 900; color: var(--accent); letter-spacing: 0; line-height: 1.1; }
+  .pc-stat span { font-size: 11px; color: var(--muted); font-weight: 600; }
+  .pc-sub { font-size: 11px; color: var(--muted); letter-spacing: .01em; }
+  .pc-spark { display: flex; align-items: flex-end; gap: 2px; height: 22px; margin-top: 6px; }
+  .pc-spark i { flex: 1 1 0; min-height: 2px; background: var(--chip); border-radius: 2px 2px 0 0; }
+  .pc-spark i.on { background: var(--accent); opacity: .85; }
+  .pc-x { margin-top: auto; padding-top: 9px; font-size: 11.5px; font-weight: 800; color: var(--text); opacity: .75; }
+  .pc-x:hover { opacity: 1; color: var(--accent); }
+
+  /* BuZZ・レビューの画面の頭 */
+  .view-head { margin: 2px 2px 14px; }
+  .view-head h2 { margin: 0; font-size: 22px; font-weight: 900; letter-spacing: .04em; }
+  .view-head p { margin: 2px 0 0; font-size: 12.5px; color: var(--muted); }
+  .info {
+    background: var(--card); border-radius: 14px; box-shadow: var(--shadow);
+    padding: 11px 16px; margin: 0 0 16px; font-size: 13px;
+  }
+  .info summary { cursor: pointer; font-weight: 800; list-style: none; display: flex; align-items: center; gap: 6px; }
+  .info summary::-webkit-details-marker { display: none; }
+  .info summary::after { content: "＋"; margin-left: auto; color: var(--muted); font-weight: 700; }
+  .info[open] summary::after { content: "－"; }
+  .info .formula { background: var(--chip); border-radius: 10px; padding: 9px 12px; margin: 10px 0 8px; font-weight: 700; }
+  .info ul { margin: 8px 0 0; padding-left: 18px; }
+  .info li { margin-bottom: 5px; line-height: 1.7; }
+  .info .since { color: var(--muted); font-size: 11.5px; margin: 8px 0 0; }
+
+  /* ---------------------------------------------------------------- そのほか */
+  .empty, .loading { text-align: center; color: var(--muted); padding: 56px 0; font-size: 14px; }
+  .sk { border-radius: 12px; background: var(--chip); background-image: linear-gradient(90deg, transparent, rgba(255,255,255,.35), transparent);
+        background-size: 200% 100%; animation: sk 1.3s ease-in-out infinite; }
+  @keyframes sk { from { background-position: 150% 0; } to { background-position: -50% 0; } }
+  .sk-lead { aspect-ratio: 4 / 3; border-radius: var(--radius); margin-bottom: 16px; }
+  .sk-row { height: 96px; margin-bottom: 10px; }
+
   #more {
-    display: block; width: 100%; margin-top: 8px; padding: 13px;
-    background: var(--card); color: var(--accent); border: 1px solid var(--line);
-    border-radius: 10px; font: inherit; font-size: 15px; cursor: pointer;
+    display: block; margin: 18px auto 0; padding: 11px 28px; cursor: pointer;
+    background: var(--card); color: var(--text); border: 1px solid var(--line); border-radius: 999px;
+    font: inherit; font-size: 14px; font-weight: 700; box-shadow: var(--shadow);
   }
   /* #more の display 指定が hidden 属性に勝ってしまうので、消えるように戻す。 */
   #more[hidden] { display: none; }
-  footer {
-    max-width: 760px; margin: 0 auto; padding: 24px 16px 40px;
-    font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line);
-  }
-  footer p { margin: 0 0 7px; }
+
+  /* お気に入りの一覧（ui.js が描く）の見た目 */
+  #ui-favs article { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 14px 16px; margin-bottom: 10px; }
+  #ui-favs .meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: 11.5px; color: var(--muted); margin-bottom: 4px; }
+  #ui-favs .tag { color: var(--accent); font-weight: 800; }
+  #ui-favs .row { display: flex; gap: 12px; align-items: flex-start; }
+  #ui-favs .row .body { flex: 1; min-width: 0; }
+  #ui-favs .thumb { width: 84px; height: 84px; object-fit: cover; border-radius: 10px; }
+  #ui-favs h2 { font-size: 15.5px; line-height: 1.55; margin: 0 0 6px; }
+  #ui-favs .src { font-size: 12.5px; font-weight: 700; color: var(--accent); }
+
+  footer { max-width: 1080px; margin: 0 auto; padding: 8px 16px 44px; font-size: 11.5px; color: var(--muted); }
+  footer details { border-top: 1px solid var(--line); padding-top: 14px; }
+  footer summary { cursor: pointer; font-weight: 700; color: var(--text); font-size: 12.5px; }
+  footer p { margin: 8px 0 0; line-height: 1.8; }
+  footer .copy { margin-top: 14px; text-align: center; letter-spacing: .06em; }
 </style>
 </head>
 <body>
 
 <header>
   <div class="bar">
-    <span class="logo">UNIQLO</span>
-    <h1>ニュース</h1>
+    <a class="brandmark" href="./" aria-label="ユニクロ ニュース トップへ">
+      <span class="logo">UNIQLO</span><span class="wordmark">NEWS</span>
+    </a>
+    <h1 class="sr-only">ユニクロ ニュース</h1>
     <span class="updated" id="updated"></span>
+    <button class="icon-btn" id="searchToggle" type="button" aria-label="キーワードで探す" aria-expanded="false">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    </button>
   </div>
-  <div class="filters" id="regionFilters"></div>
-  <div class="filters" id="brandFilters"></div>
-  <div class="filters" id="categoryFilters"></div>
+  <!-- 先頭の .filters に ui.js がお気に入りのタブを差し込む。 -->
+  <nav class="filters tabs" id="categoryFilters" aria-label="カテゴリ"></nav>
 </header>
 
 <main>
-  <section id="digest" hidden></section>
-  <input class="search" id="search" type="search" placeholder="キーワードで絞り込む（例: エアリズム、コラボ、決算）" autocomplete="off">
-  <div id="list"><p class="loading">読み込み中…</p></div>
-  <button id="more" hidden>もっと見る</button>
+  <div class="searchbar" id="searchBar" hidden>
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg>
+    <input class="search" id="search" type="search" placeholder="エアリズム、コラボ、決算…" autocomplete="off" enterkeyhint="search">
+  </div>
+  <div id="subFilters"></div>
+  <div id="list">
+    <div class="sk sk-lead"></div><div class="sk sk-row"></div><div class="sk sk-row"></div><div class="sk sk-row"></div>
+  </div>
+  <button id="more" type="button" hidden>もっと見る</button>
 </main>
 
 <footer>
-  <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
-  <p>価格・発売日・在庫は変わることがあります。購入の前にユニクロ公式サイトおよび各店舗の告知をご確認ください。</p>
-  <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。</p>
-  <p>「🔥 BuZZ」は、Yahoo!リアルタイム検索で読めるX（旧Twitter）の投稿数と反応数から、急に伸びている商品と、話題が続いている商品を自動で選んでいます。「⭐ レビュー」は、ユニクロ・GU公式サイトの商品レビュー件数の伸びから順位を付けています。どちらも売上の順位ではありません。価格・在庫は公式サイトでご確認ください。</p>
-  <p>「ここ3日のまとめ」は、掲載した記事の見出しと要約をもとにAIが自動で作成しています。</p>
-  <p>このサイトは個人が運営する非公式のニュースまとめで、株式会社ファーストリテイリングおよびユニクロとは関係ありません。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
-  <p id="sources"></p>
+  <details>
+    <summary>このサイトについて・出典</summary>
+    <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
+    <p>「🔥 BuZZ」は、Yahoo!リアルタイム検索で読めるX（旧Twitter）の投稿数と反応数から、急に伸びている商品と、話題が続いている商品を自動で選んでいます。「⭐ レビュー」は、ユニクロ・GU公式サイトの商品レビュー件数の伸びから順位を付けています。どちらも売上の順位ではありません。価格・発売日・在庫は変わることがあるので、購入の前に公式サイトおよび各店舗の告知をご確認ください。</p>
+    <p>「ここ3日のまとめ」は、掲載した記事の見出しと要約をもとにAIが自動で作成しています。</p>
+    <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
+    <p id="sources"></p>
+  </details>
+  <p class="copy">個人が運営する非公式のニュースまとめです（株式会社ファーストリテイリングおよびユニクロとは関係ありません）・6時間ごとに自動更新</p>
 </footer>
 
 <script>
 const PAGE_SIZE = 30;
 let all = [], filtered = [], shown = 0;
 let region = "all", brand = "all", category = "all", query = "";
-// BuZZ（話題の商品）は記事とは別のファイル（buzz.json）から読む。
+// BuZZ（SNSで話題）とレビュー人気は、記事とは別のファイルから読む。
 const BUZZ = "BUZZ", REVIEW = "REVIEW";
-let buzzData = null, reviewData = null;
-let buzzGender = "all", buzzKind = "rising", criteriaOpen = false;
-let digestData = null;
+let buzzData = null, reviewData = null, digestData = null;
+let buzzGender = "all", buzzKind = "rising", criteriaOpen = false, digestOpen = false;
+
+// タブの並び。読む人の関心が高い順（話題・新作・お得・お店）に置き、会社の話はうしろへ。
+// データ側のカテゴリ名はそのままで、タブには短い名前を出す。
+const CAT_ORDER = ["新商品・コラボ", "キャンペーン・セール", "店舗・出店", "広告・タレント",
+                   "海外展開", "業績・経営", "サステナビリティ", "その他"];
+const CAT_LABEL = {
+  "新商品・コラボ": "新作・コラボ", "キャンペーン・セール": "セール", "店舗・出店": "店舗",
+  "広告・タレント": "CM・タレント", "海外展開": "海外展開", "業績・経営": "決算・経営",
+  "サステナビリティ": "サステナ", "その他": "その他",
+};
+const catLabel = c => CAT_LABEL[c] || c;
 
 const fmt = new Intl.DateTimeFormat("ja-JP", {
   month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "Asia/Tokyo"
@@ -292,14 +440,34 @@ function linkTarget(item) {
 window.NEWS_LINK = linkTarget;
 
 function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
+const yen = n => n == null ? "" : "¥" + Number(n).toLocaleString("ja-JP");
+const num = n => Number(n || 0).toLocaleString("ja-JP");
+const linkAttrs = t => `href="${escapeHtml(t.href)}"${t.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}`;
+const mark = item => item.brand === "GU" ? "🛍" : "👕";
+
+// 押して切り替えたときだけ動きを付ける（CSS の #list.anim）。
+function animateNext() {
+  const list = document.getElementById("list");
+  list.classList.remove("anim");
+  void list.offsetWidth;   // 付け直しても動くように、一度描き直させる
+  list.classList.add("anim");
+  clearTimeout(animateNext.timer);
+  animateNext.timer = setTimeout(() => list.classList.remove("anim"), 500);
+}
+
+// 絞り込みをしていない「トップ」の状態か。
+const isHome = () => category === "all" && region === "all" && brand === "all" && !query.trim();
+
+// ================================================================ 画面の組み立て
 
 function apply() {
   const q = query.trim().toLowerCase();
-  renderDigest();
+  renderSubFilters();
   if (category === BUZZ) { renderSnsBuzz(q); return; }
   if (category === REVIEW) { renderReviewRank(q); return; }
+
   filtered = all.filter(item => {
     if (region !== "all" && item.region !== region) return false;
     if (brand !== "all" && (item.brand || "ユニクロ") !== brand) return false;
@@ -311,286 +479,380 @@ function apply() {
     return true;
   });
   shown = 0;
-  document.getElementById("list").innerHTML = "";
-  render();
-}
-
-function render() {
   const list = document.getElementById("list");
-  const slice = filtered.slice(shown, shown + PAGE_SIZE);
   if (!filtered.length) {
     list.innerHTML = '<p class="empty">該当する記事がありません</p>';
     document.getElementById("more").hidden = true;
     return;
   }
-  list.insertAdjacentHTML("beforeend", slice.map((item, i) => {
-    // 先頭と「重要」な記事だけ大きい画像にして、一覧に緩急をつける。
-    const hero = shown + i === 0 || item.importance >= 4;
-    const meta = `
-        <div class="meta">
-          ${item.importance >= 4 ? '<span class="badge">注目</span>' : ""}
-          <span class="brand">${escapeHtml(item.brand || "ユニクロ")}</span>
-          <span class="tag">${escapeHtml(item.category)}</span>
-          <span class="flag">${item.region === "jp" ? "🇯🇵" : "🌍"}</span>
-          <span>${escapeHtml(item.source)}</span>
-          <span>・${relative(item.published)}</span>
-        </div>`;
-    const title = `<h2>${escapeHtml(item.title_ja)}</h2>`;
-    // 画像が無い記事、読み込みに失敗した記事は同じ大きさの代替の絵に差し替える。
-    // 失敗したときの差し替えは下の error ハンドラが受け持つ（data-ph が代わりの絵）。
-    const mark = item.brand === "GU" ? "🛍" : "👕";
-    const img = cls => item.image
-      ? `<img class="${cls}" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async"
-             referrerpolicy="no-referrer" data-ph="${mark}">`
-      : `<div class="${cls} ph">${mark}</div>`;
-    const head = hero
-      ? `${img("hero")}${meta}${title}`
-      // 出典と時刻は幅いっぱいに置き、見出しだけサムネイルと並べる。
-      : `${meta}<div class="row"><div class="body">${title}</div>${img("thumb")}</div>`;
-    const target = linkTarget(item);
-    return `
-    <article data-id="${escapeHtml(item.id)}">
-      <a href="${escapeHtml(target.href)}"${target.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}>
-        ${head}
-        <p class="summary">${escapeHtml(item.summary_ja)}</p>
-        <span class="src">${target.label}</span>
-      </a>
-    </article>`;
-  }).join(""));
+  // トップでは「先頭の記事 → まとめ → 話題の商品 → レビュー人気 → 最新ニュース」の順に並べる。
+  const home = isHome();
+  list.innerHTML = `<div id="leadSlot"></div>`
+    + (home ? digestHtml() + buzzRailHtml() + reviewRailHtml()
+              + `<div class="sec-head"><h3>最新ニュース</h3></div>` : "")
+    + `<div class="news" id="news"></div>`;
+  render();
+}
+
+function kickerHtml(item) {
+  return `<div class="kicker">
+      <span class="cat">${escapeHtml(catLabel(item.category))}</span>
+      ${item.importance >= 4 ? '<span class="hot">注目</span>' : ""}
+    </div>`;
+}
+
+function bylineHtml(item) {
+  const brandName = item.brand && item.brand !== "ユニクロ" ? `${escapeHtml(item.brand)}<span class="dot">·</span>` : "";
+  return `<div class="byline">${brandName}${item.region === "jp" ? "" : "🌍 "}${escapeHtml(item.source)}<span class="dot">·</span>${relative(item.published)}</div>`;
+}
+
+function leadHtml(item) {
+  const img = item.image
+    ? `<img class="lead-img" src="${escapeHtml(item.image)}" alt="" decoding="async" referrerpolicy="no-referrer" data-ph="${mark(item)}">`
+    : `<div class="lead-img ph">${mark(item)}</div>`;
+  return `
+  <article class="lead" data-id="${escapeHtml(item.id)}">
+    <a ${linkAttrs(linkTarget(item))}>
+      ${img}
+      <div class="lead-txt">
+        ${kickerHtml(item)}
+        <h2>${escapeHtml(item.title_ja)}</h2>
+        <p class="dek clamp2">${escapeHtml(item.summary_ja)}</p>
+        ${bylineHtml(item)}
+      </div>
+    </a>
+  </article>`;
+}
+
+function postHtml(item) {
+  const img = item.image
+    ? `<img class="thumb" src="${escapeHtml(item.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-ph="${mark(item)}">`
+    : `<div class="thumb ph">${mark(item)}</div>`;
+  return `
+  <article class="post" data-id="${escapeHtml(item.id)}">
+    <a ${linkAttrs(linkTarget(item))}>
+      <div class="post-img">${img}</div>
+      <div class="post-txt">
+        ${kickerHtml(item)}
+        <h2 class="clamp3">${escapeHtml(item.title_ja)}</h2>
+        <p class="dek clamp2">${escapeHtml(item.summary_ja)}</p>
+        ${bylineHtml(item)}
+      </div>
+    </a>
+  </article>`;
+}
+
+function render() {
+  const news = document.getElementById("news");
+  const lead = document.getElementById("leadSlot");
+  if (!news) return;
+  const slice = filtered.slice(shown, shown + PAGE_SIZE);
+  // いちばん新しい記事だけ大きく。あとは同じ大きさで並べて、見やすさを揃える。
+  if (shown === 0 && slice.length && lead) {
+    lead.outerHTML = leadHtml(slice[0]);
+    news.insertAdjacentHTML("beforeend", slice.slice(1).map(postHtml).join(""));
+  } else {
+    news.insertAdjacentHTML("beforeend", slice.map(postHtml).join(""));
+  }
   shown += slice.length;
   document.getElementById("more").hidden = shown >= filtered.length;
 }
 
-// ---- ここ数日のまとめ --------------------------------------------------
-// 絞り込みをしていない「すべて」の一覧のときだけ先頭に出す。
-function renderDigest() {
-  const box = document.getElementById("digest");
-  const d = digestData;
-  const plain = region === "all" && brand === "all" && category === "all" && !query.trim();
-  if (!d || !plain || !(d.points || []).length) { box.hidden = true; return; }
-  const byId = new Map(all.map(i => [i.id, i]));
-  const links = ids => (ids || []).map(id => byId.get(id)).filter(Boolean).map((item, n) => {
-    const t = linkTarget(item);
-    return `<a href="${escapeHtml(t.href)}"${t.blank ? ' target="_blank" rel="noopener noreferrer"' : ""}
-      title="${escapeHtml(item.title_ja)}">記事${n + 1}</a>`;
-  }).join("");
-  const since = d.from ? fmt.format(new Date(d.from)).split(" ")[0] : "";
-  box.innerHTML = `
-    <div class="dg-head"><b>📝 ここ${d.days || 3}日のまとめ</b>${since ? `（${since}〜）` : ""}
-      <span>${d.generated_at ? relative(d.generated_at) + "に作成" : ""}</span></div>
-    <h3>${escapeHtml(d.headline)}</h3>
-    <ul>${d.points.map(p => `<li>${escapeHtml(p.text)}${links(p.ids)}</li>`).join("")}</ul>
-    <p class="dg-note">掲載した${d.article_count || ""}件の記事と話題の商品から、AIが自動でまとめています。</p>`;
-  box.hidden = false;
+// ================================================================ タブの下の切り替え
+
+function segHtml(name, current, options) {
+  return `<div class="seg" role="group">${options.map(([value, label]) =>
+    `<button type="button" data-seg="${name}" data-val="${escapeHtml(value)}" aria-pressed="${value === current}">${label}</button>`
+  ).join("")}</div>`;
 }
 
-// ---- BuZZ（話題の商品） -----------------------------------------------
-const yen = n => n == null ? "" : "¥" + Number(n).toLocaleString("ja-JP");
+function renderSubFilters() {
+  const box = document.getElementById("subFilters");
+  const genders = [["all", "すべて"], ["ウィメンズ", "ウィメンズ"], ["メンズ", "メンズ"], ["キッズ", "キッズ"]];
+  const productBrands = [["all", "全ブランド"], ["ユニクロ", "ユニクロ"], ["GU", "GU"]];
+  if (category === BUZZ) {
+    box.innerHTML = segHtml("kind", buzzKind, [["rising", "🚀 急上昇"], ["steady", "🔁 継続人気"]])
+      + segHtml("gender", buzzGender, genders) + segHtml("brand", brand === "グループ" ? "all" : brand, productBrands);
+    return;
+  }
+  if (category === REVIEW) {
+    box.innerHTML = segHtml("gender", buzzGender, genders) + segHtml("brand", brand === "グループ" ? "all" : brand, productBrands);
+    return;
+  }
+  const brands = ["ユニクロ", "GU", "グループ"].filter(b => all.some(i => (i.brand || "ユニクロ") === b));
+  box.innerHTML = segHtml("brand", brand, [["all", "全ブランド"]].concat(brands.map(b => [b, b])))
+    + segHtml("region", region, [["all", "国内・海外"], ["jp", "🇯🇵 国内の報道"], ["global", "🌍 海外の報道"]]);
+}
 
-function renderReviewRank(q) {
-  const list = document.getElementById("list");
-  document.getElementById("more").hidden = true;
-  const data = reviewData || { items: [], criteria: {}, genders: [] };
-  const genders = ["all"].concat(data.genders || []);
-  const items = (data.items || []).filter(p => {
-    if (brand !== "all" && p.brand !== brand) return false;
-    if (buzzGender !== "all" && !p.genders.includes(buzzGender)) return false;
-    if (q && !`${p.name} ${p.brand} ${p.genders.join(" ")}`.toLowerCase().includes(q)) return false;
-    return true;
-  });
-  const top = Math.max(1, ...items.map(p => p.score));
-  const c = data.criteria || {};
-  // 控えが7日分たまるまでは、全商品ではなく一部だけを数えていることを正直に書く。
-  const warming = (data.history_days || 0) < 8
-    ? `集計は${escapeHtml(data.history_since || "")}から。7日分の記録がたまるまでは、定番品・新作・見出しに出た商品を中心に一部だけを数えています。`
-    : `公式サイトの${(data.catalog_size || 0).toLocaleString("ja-JP")}商品を毎回確認しています。`;
+document.getElementById("subFilters").addEventListener("click", e => {
+  const btn = e.target.closest("[data-seg]");
+  if (!btn) return;
+  const value = btn.dataset.val;
+  ({ brand: () => { brand = value; }, region: () => { region = value; },
+     gender: () => { buzzGender = value; }, kind: () => { buzzKind = value; } })[btn.dataset.seg]();
+  animateNext();
+  apply();
+});
 
-  const tabs = `<div class="bz-tabs">${genders.map(g =>
-    `<button class="chip" data-bzgender="${escapeHtml(g)}" aria-pressed="${g === buzzGender}">${g === "all" ? "すべて" : escapeHtml(g)}</button>`
-  ).join("")}</div>`;
-  const criteria = `
-    <details class="bz-criteria"${criteriaOpen ? " open" : ""}>
-      <summary>⭐ ${escapeHtml(c.title || "レビュー人気の判断基準")}</summary>
-      <div class="formula">${escapeHtml(c.formula || "")}</div>
-      <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
-      <p class="since">${warming}${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}</p>
-    </details>`;
+// ================================================================ ここ数日のまとめ
 
-  const cards = items.map((p, i) => {
-    const price = p.promo != null && p.promo < p.price
-      ? `<s>${yen(p.price)}</s><span class="sale">${yen(p.promo)}</span>`
-      : yen(p.price);
-    const news = (p.mention_titles || []).length ? `
-      <div class="bz-news"><div>📰 取り上げた見出し（7日で${p.mentions7}回）</div>
-        ${p.mention_titles.map(m => `<a href="${escapeHtml(m.u)}" target="_blank" rel="noopener noreferrer">${escapeHtml(m.t)} <span>— ${escapeHtml(m.s)}</span></a>`).join("")}
-      </div>` : "";
-    return `
-    <div class="bz">
-      <a class="bz-main" href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer">
-        <div class="bz-rank ${i < 3 ? "top" : ""}">${i + 1}</div>
-        <img class="bz-img" src="${escapeHtml(p.image)}" alt="" loading="lazy" decoding="async"
-             referrerpolicy="no-referrer" data-ph="${p.brand === "GU" ? "🛍" : "👕"}">
-        <div class="bz-body">
-          <div class="meta">
-            ${p.rising ? '<span class="bz-flag hot">🔥急上昇</span>' : ""}
-            ${p.new ? '<span class="bz-flag new">NEW</span>' : ""}
-            <span class="brand">${escapeHtml(p.brand)}</span>
-            ${p.genders.map(g => `<span class="tag">${escapeHtml(g)}</span>`).join("")}
-          </div>
-          <h2>${escapeHtml(p.name)}</h2>
-          <div class="bz-price">${price}</div>
-          <div class="bz-stats">
-            <span>レビュー <b>+${p.reviews7}${p.capped ? "以上" : ""}</b>件/7日</span>
-            ${p.mentions7 ? `<span>見出し <b>${p.mentions7}</b>回</span>` : ""}
-            <span>★${Number(p.rating || 0).toFixed(1)}（${Number(p.reviews).toLocaleString("ja-JP")}件）</span>
-          </div>
-          <div class="bz-bar" title="点数 ${p.score}"><i style="width:${Math.max(4, Math.round(p.score / top * 100))}%"></i></div>
-        </div>
-      </a>
-      ${news}
-    </div>`;
-  }).join("");
+function digestHtml() {
+  const d = digestData;
+  if (!d || !(d.points || []).length) return "";
+  const byId = new Map(all.map(i => [i.id, i]));
+  const CIRCLED = "①②③④⑤";
+  const links = ids => (ids || []).map(id => byId.get(id)).filter(Boolean).map((item, n) =>
+    `<a ${linkAttrs(linkTarget(item))} title="${escapeHtml(item.title_ja)}" aria-label="根拠の記事${n + 1}">${CIRCLED[n] || n + 1}</a>`).join("");
+  const since = d.from ? fmt.format(new Date(d.from)).split(" ")[0] : "";
+  // スマホで1画面目を埋めないよう、最初は2つだけ見せて残りは「続きを読む」で開く。
+  const FIRST = 2;
+  const extra = d.points.length > FIRST;
+  return `
+  <section class="digest${digestOpen ? " open" : ""}" id="digest">
+    <div class="dg-label">ここ${d.days || 3}日のまとめ<span>${since ? `${since}〜 · ` : ""}AIが要約</span></div>
+    <h3>${escapeHtml(d.headline)}</h3>
+    <ol>${d.points.map((p, n) => `<li class="${n >= FIRST ? "more" : ""}">${escapeHtml(p.text)}${links(p.ids)}</li>`).join("")}</ol>
+    <div class="dg-foot">
+      <span class="dg-note">${d.generated_at ? relative(d.generated_at) + "に作成" : ""}</span>
+      ${extra ? `<button class="dg-toggle" type="button" data-digest>${digestOpen ? "閉じる" : `続きを読む（あと${d.points.length - FIRST}件）`}</button>` : ""}
+    </div>
+  </section>`;
+}
 
-  list.innerHTML = tabs + criteria + (cards || '<p class="empty">該当する商品がありません</p>');
+// ================================================================ 商品カード（BuZZ・レビュー共通）
+
+function productCard(p, { rank, flags = [], stat, sub, spark, xUrl, href }) {
+  const img = p.image
+    ? `<img class="pc-photo" src="${escapeHtml(p.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-ph="${mark(p)}">`
+    : `<div class="pc-photo ph">${mark(p)}</div>`;
+  const link = href ? `href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer"` : "";
+  const price = p.price == null ? "" : (p.promo != null && p.promo < p.price
+    ? `<div class="pc-price"><s>${yen(p.price)}</s><span class="sale">${yen(p.promo)}</span></div>`
+    : `<div class="pc-price">${yen(p.price)}</div>`);
+  const who = [p.brand].concat(p.genders || []).map(escapeHtml).join(" · ");
+  return `
+  <div class="pcard">
+    <a class="pc-img" ${link}>
+      ${img}
+      ${rank ? `<span class="pc-rank${rank <= 3 ? " top" : ""}">${rank}</span>` : ""}
+      ${flags.length ? `<span class="pc-flags">${flags.map(f => `<span class="pc-flag${f.red ? " red" : ""}">${f.text}</span>`).join("")}</span>` : ""}
+    </a>
+    <div class="pc-body">
+      <div class="pc-brand">${who}</div>
+      <a class="pc-name clamp2" ${link}>${escapeHtml(p.name)}</a>
+      ${price}
+      <div class="pc-stat">${stat}</div>
+      ${sub ? `<div class="pc-sub">${sub}</div>` : ""}
+      ${spark || ""}
+      ${xUrl ? `<a class="pc-x" href="${escapeHtml(xUrl)}" target="_blank" rel="noopener noreferrer">𝕏 投稿を見る ›</a>` : ""}
+    </div>
+  </div>`;
+}
+
+function sparkHtml(daily) {
+  const values = daily || [];
+  const top = Math.max(1, ...values);
+  return `<div class="pc-spark" title="この14日の1日ごとの投稿数">${values.map(n =>
+    `<i class="${n ? "on" : ""}" style="height:${Math.max(8, Math.round(n / top * 100))}%"></i>`).join("")}</div>`;
+}
+
+function buzzCard(p, kind, rank, showKind = false) {
+  const rising = kind === "rising";
+  // 「≧」は、読み取れるページの上限に達した（実際はもっと多い）という印。
+  const stat = rising
+    ? `<b>+${num(p.recent_posts)}</b><span>件 / 3日</span>`
+    : `<b>${p.capped ? "≧" : ""}${p.posts_per_day}</b><span>件 / 日</span>`;
+  const sub = rising
+    ? `反応 ${num(p.recent_reactions)}${p.growth ? ` · 伸び ×${p.growth}` : ""}`
+    : `${p.covered_days}日中${p.active_days}日 投稿 · 反応${p.capped ? "≧" : ""}${num(p.reactions_per_day)}/日`;
+  // 急上昇と継続人気が混ざるトップの列でだけ、どちらなのかを写真に重ねる。
+  const flags = showKind ? [{ text: rising ? "🚀 急上昇" : "🔁 継続人気", red: rising }] : [];
+  return productCard(p, { rank, flags, stat, sub, spark: sparkHtml(p.daily), xUrl: p.search_url, href: p.url || p.search_url });
+}
+
+function reviewCard(p, rank) {
+  const flags = [];
+  if (p.rising) flags.push({ text: "🔥 急上昇", red: true });
+  if (p.new) flags.push({ text: "NEW" });
+  const stat = `<b>+${num(p.reviews7)}${p.capped ? "↑" : ""}</b><span>件 / 7日</span>`;
+  const sub = `★${Number(p.rating || 0).toFixed(1)}（${num(p.reviews)}件）${p.mentions7 ? ` · 📰 記事${p.mentions7}回` : ""}`;
+  return productCard(p, { rank, flags, stat, sub, href: p.url });
+}
+
+// トップ画面の横に流れる列。
+function buzzRailHtml() {
+  if (!buzzData) return "";
+  const seen = new Set();
+  const picks = [];
+  for (const [kind, rows] of [["rising", buzzData.rising || []], ["steady", buzzData.steady || []]]) {
+    for (const p of rows) {
+      if (seen.has(p.key)) continue;
+      seen.add(p.key);
+      picks.push([p, kind]);
+    }
+  }
+  if (!picks.length) return "";
+  return `
+  <div class="sec-head"><h3>🔥 いまSNSで話題<small>Xの投稿から</small></h3>
+    <button class="sec-link" type="button" data-goto="${BUZZ}">すべて見る ›</button></div>
+  <div class="rail">${picks.slice(0, 10).map(([p, kind], n) => buzzCard(p, kind, n + 1, true)).join("")}</div>`;
+}
+
+function reviewRailHtml() {
+  const items = (reviewData && reviewData.items) || [];
+  if (!items.length) return "";
+  return `
+  <div class="sec-head"><h3>⭐ レビューで人気<small>公式レビューの伸び</small></h3>
+    <button class="sec-link" type="button" data-goto="${REVIEW}">すべて見る ›</button></div>
+  <div class="rail">${items.slice(0, 10).map((p, n) => reviewCard(p, n + 1)).join("")}</div>`;
+}
+
+// ================================================================ BuZZ・レビューの画面
+
+function infoHtml(title, c, since) {
+  return `
+  <details class="info"${criteriaOpen ? " open" : ""}>
+    <summary>ⓘ ${escapeHtml(title)}</summary>
+    ${c.formula ? `<div class="formula">${escapeHtml(c.formula)}</div>` : ""}
+    <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
+    <p class="since">${since}</p>
+  </details>`;
 }
 
 function renderSnsBuzz(q) {
   const list = document.getElementById("list");
   document.getElementById("more").hidden = true;
-  const data = buzzData || { rising: [], steady: [], criteria: {}, genders: [] };
-  const genders = ["all"].concat(data.genders || []);
-  const source = (data[buzzKind] || []).filter(p => {
-    if (brand !== "all" && p.brand !== brand) return false;
+  const data = buzzData || { rising: [], steady: [], criteria: {} };
+  const rows = (data[buzzKind] || []).filter(p => {
+    if (brand !== "all" && brand !== "グループ" && p.brand !== brand) return false;
     if (buzzGender !== "all" && !(p.genders || []).includes(buzzGender)) return false;
     if (q && !`${p.name} ${p.official_name || ""} ${p.brand}`.toLowerCase().includes(q)) return false;
     return true;
   });
-  const c = data.criteria || {};
-
-  const kinds = [["rising", "🚀 SNS急上昇"], ["steady", "🔁 継続人気"]];
-  const tabs = `
-    <div class="bz-tabs">${kinds.map(([k, label]) =>
-      `<button class="chip" data-bzkind="${k}" aria-pressed="${k === buzzKind}">${label}</button>`).join("")}</div>
-    <div class="bz-tabs">${genders.map(g =>
-      `<button class="chip" data-bzgender="${escapeHtml(g)}" aria-pressed="${g === buzzGender}">${g === "all" ? "すべて" : escapeHtml(g)}</button>`
-    ).join("")}</div>`;
-  const criteria = `
-    <details class="bz-criteria"${criteriaOpen ? " open" : ""}>
-      <summary>🔥 ${escapeHtml(c.title || "BuZZの判断基準")}</summary>
-      <ul>${(c.points || []).map(t => `<li>${escapeHtml(t)}</li>`).join("")}</ul>
-      <p class="since">${escapeHtml(data.source || "")}の投稿から、${data.tracked || 0}商品を数えました${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}。</p>
-    </details>`;
-
-  const cards = source.map((p, i) => {
-    const top = Math.max(1, ...(p.daily || [1]));
-    const spark = (p.daily || []).map(n =>
-      `<i class="${n ? "on" : ""}" style="height:${Math.max(6, Math.round(n / top * 100))}%" title="${n}件"></i>`).join("");
-    const stats = buzzKind === "rising"
-      ? `<span>3日で <b>${p.recent_posts}</b>件 投稿</span>
-         <span>反応 <b>${Number(p.recent_reactions).toLocaleString("ja-JP")}</b></span>
-         ${p.growth ? `<span>伸び <b>${p.growth}</b>倍</span>` : ""}`
-      // 「≧」は、読み取れるページの上限に達した（実際はもっと多い）という印。
-      : `<span>1日 <b>${p.capped ? "≧" : ""}${p.posts_per_day}</b>件 投稿</span>
-         <span>1日の反応 <b>${p.capped ? "≧" : ""}${Number(p.reactions_per_day).toLocaleString("ja-JP")}</b></span>
-         <span>${p.covered_days}日中 <b>${p.active_days}</b>日</span>`;
-    const price = p.price == null ? "" :
-      (p.promo != null && p.promo < p.price
-        ? `<div class="bz-price"><s>${yen(p.price)}</s><span class="sale">${yen(p.promo)}</span></div>`
-        : `<div class="bz-price">${yen(p.price)}</div>`);
-    const img = p.image
-      ? `<img class="bz-img" src="${escapeHtml(p.image)}" alt="" loading="lazy" decoding="async"
-             referrerpolicy="no-referrer" data-ph="${p.brand === "GU" ? "🛍" : "👕"}">`
-      : `<div class="bz-img ph">${p.brand === "GU" ? "🛍" : "👕"}</div>`;
-    return `
-    <div class="bz">
-      <div class="bz-main">
-        <div class="bz-rank ${i < 3 ? "top" : ""}">${i + 1}</div>
-        ${img}
-        <div class="bz-body">
-          <div class="meta">
-            <span class="bz-flag hot">${buzzKind === "rising" ? "🚀急上昇" : "🔁継続人気"}</span>
-            <span class="brand">${escapeHtml(p.brand)}</span>
-            ${(p.genders || []).map(g => `<span class="tag">${escapeHtml(g)}</span>`).join("")}
-          </div>
-          <h2>${escapeHtml(p.name)}</h2>
-          ${p.official_name && p.official_name !== p.name ? `<p class="bz-sub">公式名: ${escapeHtml(p.official_name)}</p>` : ""}
-          ${price}
-          <div class="bz-stats">${stats}</div>
-          <div class="bz-spark" title="この14日の1日ごとの投稿数">${spark}</div>
-        </div>
-      </div>
-      <div class="bz-links">
-        <a href="${escapeHtml(p.search_url)}" target="_blank" rel="noopener noreferrer">Xの投稿を見る →</a>
-        ${p.url ? `<a href="${escapeHtml(p.url)}" target="_blank" rel="noopener noreferrer">商品ページ →</a>` : ""}
-      </div>
-    </div>`;
-  }).join("");
-
+  const since = `${escapeHtml(data.source || "")}の投稿から、${data.tracked || 0}商品を数えました${data.updated_at ? `（${relative(data.updated_at)}に更新）` : ""}。`;
   const empty = buzzKind === "rising"
     ? "いま急に伸びている商品はありません"
     : "続けて話題になっている商品はまだありません（数日ぶん集まると出ます）";
-  list.innerHTML = tabs + criteria + (cards || `<p class="empty">${empty}</p>`);
+  list.innerHTML = `
+    <div class="view-head"><h2>🔥 BuZZ</h2>
+      <p>${buzzKind === "rising" ? "ここ3日で、Xの投稿が急に増えている商品" : "ここ2週間、Xで話題が続いている商品"}</p></div>
+    ${infoHtml((data.criteria || {}).title || "BuZZの判断基準", data.criteria || {}, since)}
+    ${rows.length ? `<div class="pgrid">${rows.map((p, n) => buzzCard(p, buzzKind, n + 1)).join("")}</div>` : `<p class="empty">${empty}</p>`}`;
 }
 
-// タブを切り替えると一覧を描き直すので、判断基準を開いたままにしておく。
-document.getElementById("list").addEventListener("toggle", e => {
-  if (e.target.classList && e.target.classList.contains("bz-criteria")) criteriaOpen = e.target.open;
-}, true);
-
-// 性別のタブは一覧の中に描くので、クリックは一覧側で受ける。
-document.getElementById("list").addEventListener("click", e => {
-  const gender = e.target.closest("[data-bzgender]");
-  const kind = e.target.closest("[data-bzkind]");
-  if (!gender && !kind) return;
-  if (gender) buzzGender = gender.dataset.bzgender;
-  if (kind) buzzKind = kind.dataset.bzkind;
-  apply();
-});
-
-// 該当0件のチップは押しても空になるだけなので、そもそも出さない。
-function buildChips(boxId, attr, current, defs) {
-  document.getElementById(boxId).innerHTML = defs
-    .filter(d => d.key === "all" || all.some(d.match))
-    .map(d => `<button class="chip" data-${attr}="${escapeHtml(d.key)}" aria-pressed="${d.key === current}">${d.label}</button>`)
-    .join("");
+function renderReviewRank(q) {
+  const list = document.getElementById("list");
+  document.getElementById("more").hidden = true;
+  const data = reviewData || { items: [], criteria: {} };
+  const rows = (data.items || []).filter(p => {
+    if (brand !== "all" && brand !== "グループ" && p.brand !== brand) return false;
+    if (buzzGender !== "all" && !p.genders.includes(buzzGender)) return false;
+    if (q && !`${p.name} ${p.brand} ${p.genders.join(" ")}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+  // 控えが7日分たまるまでは、全商品ではなく一部だけを数えていることを正直に書く。
+  const since = ((data.history_days || 0) < 8
+    ? `集計は${escapeHtml(data.history_since || "")}から。7日分の記録がたまるまでは、定番品・新作・見出しに出た商品を中心に一部だけを数えています。`
+    : `公式サイトの${num(data.catalog_size)}商品を毎回確認しています。`)
+    + (data.updated_at ? `（${relative(data.updated_at)}に更新）` : "");
+  list.innerHTML = `
+    <div class="view-head"><h2>⭐ レビュー</h2><p>買った人のレビューが、この1週間で伸びている商品</p></div>
+    ${infoHtml((data.criteria || {}).title || "レビュー人気の判断基準", data.criteria || {}, since)}
+    ${rows.length ? `<div class="pgrid">${rows.map((p, n) => reviewCard(p, n + 1)).join("")}</div>` : '<p class="empty">該当する商品がありません</p>'}`;
 }
 
-function buildAll(categories, brands) {
+// ================================================================ タブ
+
+function buildTabs(categories) {
   const used = new Set(all.map(i => i.category));
   const hasBuzz = !!(buzzData && ((buzzData.rising || []).length || (buzzData.steady || []).length));
   const hasReview = !!(reviewData && (reviewData.items || []).length);
-  const special = { [BUZZ]: hasBuzz, [REVIEW]: hasReview };
-  if (category in special ? !special[category] : (category !== "all" && !used.has(category))) category = "all";
-  buildChips("regionFilters", "region", region, [
-    { key: "all", label: "すべて", match: () => true },
-    { key: "jp", label: "🇯🇵 国内", match: i => i.region === "jp" },
-    { key: "global", label: "🌍 海外", match: i => i.region === "global" },
-  ]);
-  buildChips("brandFilters", "brand", brand, [{ key: "all", label: "全ブランド", match: () => true }]
-    .concat(brands.map(b => ({ key: b, label: b, match: i => (i.brand || "ユニクロ") === b }))));
-  buildChips("categoryFilters", "category", category, [
-    { key: "all", label: "全カテゴリ", match: () => true },
-    { key: BUZZ, label: "🔥 BuZZ", match: () => hasBuzz },
-    { key: REVIEW, label: "⭐ レビュー", match: () => hasReview },
-  ].concat(categories.map(c => ({ key: c, label: c, match: i => i.category === c }))));
+  const cats = CAT_ORDER.concat(categories.filter(c => !CAT_ORDER.includes(c))).filter(c => used.has(c));
+  const tabs = [["all", "トップ"]]
+    .concat(hasBuzz ? [[BUZZ, "🔥 BuZZ"]] : [])
+    .concat(hasReview ? [[REVIEW, "⭐ レビュー"]] : [])
+    .concat(cats.map(c => [c, catLabel(c)]));
+  if (!tabs.some(([key]) => key === category)) category = "all";
+  const box = document.getElementById("categoryFilters");
+  // お気に入りのタブ（ui.js が足したもの）は残したまま、ほかを作り直す。
+  box.querySelectorAll(".chip:not(#ui-favChip)").forEach(el => el.remove());
+  const fav = box.querySelector("#ui-favChip");
+  box.insertAdjacentHTML("afterbegin", tabs.map(([key, label]) =>
+    `<button type="button" class="chip" data-category="${escapeHtml(key)}" aria-pressed="${key === category}">${label}</button>`).join(""));
+  // ui.js は「先頭の次」にお気に入りを置くので、作り直したあとも同じ場所に戻しておく。
+  if (fav) box.insertBefore(fav, box.children[1] || null);
 }
 
-// チップは読み込みのたびに作り直すので、クリックは親側で1度だけ受ける。
-function chipHandler(attr, setValue) {
-  return e => {
-    const btn = e.target.closest(`[data-${attr}]`);
-    if (!btn) return;
-    setValue(btn.dataset[attr]);
-    e.currentTarget.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", String(c === btn)));
+function goTo(key) {
+  category = key;
+  document.querySelectorAll("#categoryFilters .chip[data-category]").forEach(c =>
+    c.setAttribute("aria-pressed", String(c.dataset.category === key)));
+  const tab = document.querySelector(`#categoryFilters .chip[data-category="${key}"]`);
+  if (tab) tab.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
+  animateNext();
+  apply();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+document.getElementById("categoryFilters").addEventListener("click", e => {
+  const btn = e.target.closest("[data-category]");
+  if (!btn) return;
+  goTo(btn.dataset.category);
+});
+
+// 一覧の中のボタン（「すべて見る」「続きを読む」）と、判断基準の開け閉め。
+document.getElementById("list").addEventListener("click", e => {
+  const go = e.target.closest("[data-goto]");
+  if (go) { goTo(go.dataset.goto); return; }
+  if (e.target.closest("[data-digest]")) {
+    digestOpen = !digestOpen;
+    const box = document.getElementById("digest");
+    if (box) box.outerHTML = digestHtml();
+  }
+});
+document.getElementById("list").addEventListener("toggle", e => {
+  if (e.target.classList && e.target.classList.contains("info")) criteriaOpen = e.target.open;
+}, true);
+
+// ================================================================ 検索
+
+const searchToggle = document.getElementById("searchToggle");
+const searchBar = document.getElementById("searchBar");
+const searchInput = document.getElementById("search");
+searchToggle.addEventListener("click", () => {
+  const open = searchBar.hidden;
+  searchBar.hidden = !open;
+  searchToggle.setAttribute("aria-expanded", String(open));
+  if (open) {
+    searchInput.focus();
+  } else if (searchInput.value) {
+    // 閉じたら絞り込みも外す（見えないところで絞り込まれたままにしない）。
+    searchInput.value = "";
+    query = "";
+    searchInput.dispatchEvent(new Event("input"));
     apply();
-  };
-}
+  }
+});
 
-document.getElementById("regionFilters").addEventListener("click", chipHandler("region", v => { region = v; }));
-document.getElementById("brandFilters").addEventListener("click", chipHandler("brand", v => { brand = v; }));
-document.getElementById("categoryFilters").addEventListener("click", chipHandler("category", v => { category = v; }));
+let timer;
+searchInput.addEventListener("input", e => {
+  clearTimeout(timer);
+  query = e.target.value;
+  timer = setTimeout(apply, 180);
+});
+
+// ================================================================ もっと見る
 
 document.getElementById("more").addEventListener("click", render);
+// ボタンが見えてきたら、押さなくても続きを出す。
+if ("IntersectionObserver" in window) {
+  new IntersectionObserver(entries => {
+    const more = document.getElementById("more");
+    if (entries.some(en => en.isIntersecting) && !more.hidden && !document.body.classList.contains("ui-favmode")) render();
+  }, { rootMargin: "400px 0px" }).observe(document.getElementById("more"));
+}
+
+// ================================================================ 画像
 
 // 画像のURLが切れていたら、同じ大きさの代わりの絵に置き換える（穴を空けない）。
 // 読み込めても極端に小さい画像は「いいね」ボタンなどの部品なので同じ扱いにする。
@@ -601,24 +863,16 @@ function replaceWithPlaceholder(img) {
   box.textContent = img.dataset.ph || "👕";
   img.replaceWith(box);
 }
-
 const listBox = document.getElementById("list");
 listBox.addEventListener("error", e => {
   if (e.target instanceof HTMLImageElement) replaceWithPlaceholder(e.target);
 }, true);
 listBox.addEventListener("load", e => {
   const img = e.target;
-  if (img instanceof HTMLImageElement && img.naturalWidth && img.naturalWidth < 200) {
-    replaceWithPlaceholder(img);
-  }
+  if (img instanceof HTMLImageElement && img.naturalWidth && img.naturalWidth < 200) replaceWithPlaceholder(img);
 }, true);
 
-let timer;
-document.getElementById("search").addEventListener("input", e => {
-  clearTimeout(timer);
-  query = e.target.value;
-  timer = setTimeout(apply, 180);
-});
+// ================================================================ 読み込み
 
 async function load() {
   try {
@@ -633,9 +887,9 @@ async function load() {
     reviewData = reviewRes && reviewRes.ok ? await reviewRes.json().catch(() => null) : null;
     digestData = data.digest || null;
     all = window.NEWS_ITEMS = data.items || [];
-    document.getElementById("updated").textContent = data.updated_at ? `更新 ${relative(data.updated_at)}` : "";
+    document.getElementById("updated").textContent = data.updated_at ? `${relative(data.updated_at)}に更新` : "";
     document.getElementById("sources").textContent = "収集元: " + (data.sources || []).join("、");
-    buildAll(data.categories || [], data.brands || []);
+    buildTabs(data.categories || []);
     apply();
   } catch (err) {
     document.getElementById("list").innerHTML = '<p class="empty">記事を読み込めませんでした。時間をおいて再読み込みしてください。</p>';
