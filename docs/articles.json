@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T00:57:09.228963+09:00",
+ "updated_at": "2026-09-28T05:33:32.889546+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -20,7 +20,6 @@
   "@DIME アットダイム",
   "A1 Retail Magazine",
   "AD HOC NEWS",
-  "AERA DIGITAL",
   "AMP[アンプ]",
   "Alvinology",
   "BAILA（バイラ）",
@@ -57,6 +56,7 @@
   "Hoodline",
   "House of Heat°",
   "Hypebeast",
+  "ITmedia",
   "Impress Watch",
   "Indian Retailer",
   "Inside Retail Asia",
@@ -219,6 +219,7 @@
   "モデルプレス",
   "ヨムーノ",
   "レスポンス（Response.jp）",
+  "北國新聞",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "号外NET 奈良市",
@@ -247,48 +248,76 @@
  "count": 400,
  "detail_count": 261,
  "digest": {
-  "headline": "ユニクロ「UNIQLO : C」秋冬コレクション発売と国内外の店舗展開ニュース",
+  "headline": "ユニクロ：C秋冬コレクション発売や国内外の出店戦略が活発に",
   "points": [
    {
-    "text": "ユニクロのデザイナーコラボレーションライン「UNIQLO : C」から、2026年秋冬コレクションが発売されました。",
+    "text": "ユニクロとGUの2026年秋冬コレクションがそれぞれ発表され、ユニクロでは「UNIQLO : C」の新作アイテムが発売開始となりました。",
     "ids": [
      "8fa734289d58eb9b",
-     "9182bdf2db84de4c",
-     "00f7bb5042ad878c"
+     "27037bd502e51187",
+     "9182bdf2db84de4c"
     ]
    },
    {
-    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表し、新作アイテムを展開します。",
+    "text": "京都の大型ユニクロ店舗が一時閉店してグローバル旗艦店としてリニューアルされるほか、国内外での新店舗出店やリニューアルが相次いで発表されています。",
     "ids": [
-     "27037bd502e51187"
-    ]
-   },
-   {
-    "text": "京都の大型ユニクロ店舗が改装のため一時閉店し、グローバル旗艦店としてリニューアルオープンすることが分かりました。",
-    "ids": [
-     "285a8b3fefa64080"
-    ]
-   },
-   {
-    "text": "ユニクロはイギリスのバースに新店舗を出店するほか、ベトナムやカナダなど国内外で店舗網の拡大やリニューアルを進めています。",
-    "ids": [
+     "285a8b3fefa64080",
      "1c945ab0ba53cd8c",
-     "7aed02cfdd612a9d",
      "154c6ec96b6abfbe"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで51件投稿されています。",
+    "text": "マレーシアでの現地メーカーとのコラボUTme!や、ディズニーとF1がコラボしたグラフィックTシャツなど、多彩な新商品企画が展開されています。",
+    "ids": [
+     "a905053163c9016c",
+     "46a005d28bc30a6b",
+     "cc6532df509c9d9a"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に52件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-25T01:07:19.666257+09:00",
-  "generated_at": "2026-09-28T01:07:21.463706+09:00",
+  "from": "2026-09-25T05:41:38.951493+09:00",
+  "generated_at": "2026-09-28T05:41:40.540017+09:00",
   "article_count": 24,
-  "sig": "9b1f528d32dc"
+  "sig": "9b09096220e4"
  },
  "items": [
+  {
+   "id": "67e167842e47d76b",
+   "url": "https://www.itmedia.co.jp/business/articles/2609/28/news014.html",
+   "title_original": "ユニクロは絶好調なのに、なぜ国内の店舗数は減っているのか ロードサイドや商業施設内の「標準店」からシフトするワケ",
+   "source": "ITmedia",
+   "image": "https://image.itmedia.co.jp/business/articles/2609/28/cover_news014.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-28T05:00:00+00:00",
+   "title_ja": "国内ユニクロで店舗数が減少する背景とは　標準店からのシフト戦略を解説",
+   "summary_ja": "ユニクロの業績が絶好調であるにもかかわらず、国内店舗数が減少傾向にある理由について分析する記事です。従来のロードサイド店舗や商業施設内の「標準店」から、新たな店舗形態へと出店戦略をシフトさせている背景や狙いについて解説しています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4cd4a327ff6e2c3",
+   "url": "https://www.hokkoku.co.jp/articles/-/2241860",
+   "title_original": "未就学児５５０人楽しむ 金沢でユニクロサッカー 元日本代表の森脇さん指導｜スポーツ｜石川のニュース",
+   "source": "北國新聞",
+   "image": "https://hokkoku.ismcdn.jp/mwimgs/8/8/1200wm/img_88e6e7e5edef5951a505071c81b9c28c221152.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T20:00:00+00:00",
+   "title_ja": "金沢で「ユニクロサッカー」開催　元日本代表・森脇氏の指導で未就学児550人が参加",
+   "summary_ja": "石川県金沢市で未就学児を対象とした「ユニクロサッカー」イベントが開催され、約550人の子供たちが参加しました。イベントには元サッカー日本代表の森脇良太さんが登場し、参加した子供たちへサッカーの指導を行い、スポーツを楽しむ機会を提供しました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "1c945ab0ba53cd8c",
    "url": "https://www.sanyonews.jp/article/1887543",
@@ -367,7 +396,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d49b3baa940763f1",
@@ -431,7 +460,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "27037bd502e51187",
@@ -6653,38 +6682,6 @@
    "title_ja": "ユニクロ ユーの新作が9月11日に発売、10周年記念カラーも登場",
    "summary_ja": "ユニクロの「ユニクロ ユー」新作が9月11日に発売される。今回のラインナップでは、ブランド10周年を記念した大人向けの赤をはじめとする注目カラーが展開されている。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "133026d7318242d3",
-   "url": "https://dot.asahi.com/articles/-/292054",
-   "title_original": "〈ネプリーグきょう出演〉ユニクロCMにも「ダイアン津田」 イジられキャラのベテラン芸人がCMに引っ張りだこなワケ",
-   "source": "AERA DIGITAL",
-   "image": "https://aeradot.ismcdn.jp/mwimgs/6/1/1200xm/img_61e5704f5166ede6306baf5f8584fc0d112662.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T10:00:00+00:00",
-   "title_ja": "ユニクロのCMに出演するお笑いコンビ・ダイアン津田の起用背景",
-   "summary_ja": "ユニクロのCMをはじめ多数のコマーシャルに起用されているお笑いコンビ「ダイアン」の津田篤宏について、バラエティ番組でのキャラクターや企業CMで重宝される理由が解説されている。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "41f20af1cd024810",
-   "url": "https://sumida.keizai.biz/mapnews/1948",
-   "title_original": "アルカキット錦糸町「ユニクロ」がリニューアル 国内最大級子ども売り場も（ニュース地図）",
-   "source": "すみだ経済新聞",
-   "image": "https://images.keizai.biz/sumida_keizai/headline/1788770220_photo.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T09:14:59+00:00",
-   "title_ja": "アルカキット錦糸町のユニクロがリニューアル",
-   "summary_ja": "アルカキット錦糸町店にあるユニクロがリニューアルを実施し、国内最大級の大きさを誇る子ども向け売り場が新設されました。",
-   "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
