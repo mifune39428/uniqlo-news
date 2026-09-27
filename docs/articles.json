@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T11:21:36.597509+09:00",
+ "updated_at": "2026-09-27T19:58:47.675603+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -65,7 +65,6 @@
   "JBpress",
   "JFA",
   "JustFreshKicks",
-  "KED Global",
   "Kompas.com",
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
@@ -115,7 +114,6 @@
   "Shopping Centre News",
   "Smartkarma",
   "Sole Retriever",
-  "SoraNews24",
   "Style Rave",
   "Stylist",
   "Sunshine Coast News",
@@ -248,49 +246,130 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 264,
+ "detail_count": 262,
  "digest": {
-  "headline": "ユニクロ・GUの秋冬新作発表や店舗刷新、海外展開が加速",
+  "headline": "UNIQLO : C発売やGU新作発表、国内外の店舗展開に注目",
   "points": [
    {
-    "text": "「UNIQLO : C」2026年秋冬コレクションや、ディズニーとF1が融合したコラボ「UT」が発売された。",
+    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによる「UNIQLO : C」の2026年秋冬コレクションを発売しました。",
     "ids": [
      "9182bdf2db84de4c",
-     "46a005d28bc30a6b"
+     "00f7bb5042ad878c",
+     "e8c540701116c3c4"
     ]
    },
    {
-    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表した。",
+    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表し、多様なライフスタイルに寄り添う新作を展開します。",
     "ids": [
      "27037bd502e51187"
     ]
    },
    {
-    "text": "京都の大型ユニクロ店舗がグローバル旗艦店への改装で一時閉店するほか、ミーナ津田沼のリニューアルも決定した。",
+    "text": "京都の大型ユニクロ店舗が改装のため一時閉店し、今後はグローバル旗艦店としてリニューアルオープンすることが分かりました。",
     "ids": [
-     "285a8b3fefa64080",
-     "1b47e4ac6627a880"
+     "285a8b3fefa64080"
     ]
    },
    {
-    "text": "イギリス・マンチェスターの新店開店日が決定したほか、ベトナムでも事業拡大に向けた環境整備が進む。",
+    "text": "ユニクロは英マンチェスター2号店やバースなど、2027年に向けて英国における店舗網の拡充と成長加速を進めています。",
     "ids": [
-     "8e65acc07a0c6b98",
-     "e53f59524282da1b"
+     "62d15616134afd9b",
+     "32edd5193bfc8475",
+     "45a976e0172e9713"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ イタリアンレザーロングベルト」がXで3日に20件投稿され話題となっている。",
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となっており、Xで3日に100件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-24T11:27:18.038517+09:00",
-  "generated_at": "2026-09-27T11:27:32.840693+09:00",
+  "from": "2026-09-24T20:09:55.677546+09:00",
+  "generated_at": "2026-09-27T20:10:14.260643+09:00",
   "article_count": 24,
-  "sig": "9ca32d3eec65"
+  "sig": "e8c7e5fcbaac"
  },
  "items": [
+  {
+   "id": "1c945ab0ba53cd8c",
+   "url": "https://www.sanyonews.jp/article/1887543",
+   "title_original": "ららぽーと豊洲、大規模リニューアルで「31店舗」順次オープン 江東区初のスーパーマーケットやゴディパン、ユニクロ拡大など【一覧】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/7/8/0/8780faad541889a858107f94325ccf5e_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T08:21:33+00:00",
+   "title_ja": "ららぽーと豊洲がリニューアル、ユニクロの拡大など31店順次オープン",
+   "summary_ja": "ららぽーと豊洲が大規模リニューアルを実施し、31店舗が順次オープンする。江東区初となるスーパーマーケットやゴディパンの出店に加え、ユニクロの店舗拡大なども行われる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2f0a5155bbf4281c",
+   "url": "https://www.sanyonews.jp/article/1966180",
+   "title_original": "熊本駅直結「アミュプラザくまもと」きょうから通常営業 ユニクロ「お客様と従業員の安全を最優先」 マクドナルドなど一部店舗は臨時休業中【令和8年熊本地震】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/d/4/b/6/d4b683bfa9489f1194f50beacc476001_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T06:55:01+00:00",
+   "title_ja": "アミュプラザくまもと営業再開、ユニクロは安全優先で対応",
+   "summary_ja": "熊本地震の影響を受けていたアミュプラザくまもとが通常営業を再開した。ユニクロは顧客と従業員の安全確保を最優先として対応しているが、施設内では一部店舗の臨時休業が継続している。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "0cb797c024e91d47",
+   "url": "https://news.yahoo.co.jp/articles/e5a8126c3eb501f1930698097ea8bc8a4e608357/images/000",
+   "title_original": "「このシリーズは毎年購入しています」ユニクロのフランネルシャツが期間限定で2990円「羽織りにもインナーにも」「色違いで数枚買いました」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEi9ZcoQ_Kc0yxl7v1eKNr-ItFEBtjzOr1zH2d9FUrO7Gt-ylIqWK_Edwbp-GNJWrPaOvG_iMXH7RbE-tT8ktztE1nDdDfXFYaXBHVjLTbot",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T05:50:16+00:00",
+   "title_ja": "ユニクロのフランネルシャツが期間限定で2990円に。インナーや羽織りとして人気",
+   "summary_ja": "ユニクロは定番のフランネルシャツを期間限定で2990円にて販売している。羽織りとしてもインナーとしても活用できる使い勝手の良さから、色違いで複数枚購入するユーザーも多く好評を得ている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "2fe2a4dc7894418d",
+   "url": "https://news.yahoo.co.jp/articles/b95649ff37f8871c791d747b25f1427102aaba4e/images/000",
+   "title_original": "「涼しくなってから毎日着ちゃう」「着やすく合わせやすいので色違いで買いました」ユニクロのワッフルTが期間限定で1290円",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgLewJCvAcYYLi14LDMe3a6UMHATcTaBmEmg3Gl4Hk_xbkL1SFhcERwUCir13Co_PTGUu_0Bi2jmb83aRz5WADJZV6h4u7sRY24vlhNTASIxj",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T05:20:19+00:00",
+   "title_ja": "ユニクロのワッフルTが期間限定1290円に。着回しやすい秋の重宝アイテム",
+   "summary_ja": "ユニクロのワッフルTが期間限定で1290円の特別価格で販売されている。肌寒くなる季節に合わせやすく着心地が良いことから、普段使い用として色違いで購入するユーザーもみられる。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "d49b3baa940763f1",
+   "url": "https://maidonanews.jp/article/16917684",
+   "title_original": "「色違いで3枚購入」「シーズンごとに買い足してます」ユニクロの7分袖ブラウスが値下げで1990円 「仕事用で何年も愛用」の声も",
+   "source": "まいどなニュース",
+   "image": "https://p.potaufeu.asahi.com/de58-p/picture/31196358/529ecc144ef309580f017dfc25f9a2cc.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T21:30:00+00:00",
+   "title_ja": "ユニクロの7分袖ブラウスが1990円に値下げ、愛用者の間で買い足しが拡大",
+   "summary_ja": "仕事用として長年愛用されているユニクロの7分袖ブラウスが1990円に値下げされました。複数枚を色違いで購入したり、シーズンごとに買い足したりするユーザーの声が集まっています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "aebf4c22f726a8cc",
    "url": "https://www.theargus.co.uk/news/26583151.uniqlo-reveals-details-brighton-churchill-square-store",
@@ -367,6 +446,22 @@
    "title_ja": "カナダのトロント都市圏にユニクロの新店舗がオープンへ　開店記念ノベルティも用意",
    "summary_ja": "カナダのトロント都市圏（GTA）にてユニクロの最新店舗が開業を迎えます。オープンを記念して、現地店舗限定のオープン記念特典やプレゼントが用意されていることが伝えられています。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6bac732bd760eafc",
+   "url": "https://newswav.com/article/uniqlo-and-proton-celebrate-malaysian-automotive-icons-with-exclusive-utme-A2609_VqLnFF",
+   "title_original": "UNIQLO and PROTON Celebrate Malaysian Automotive Icons with Exclusive UTme! Collection",
+   "source": "newswav.com",
+   "image": "https://imgproxy.newswav.com/1000x0,q50=/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4tREscFlkEoT6BsDbFOwaUL8ulkbMKiOxVcmlgBocZ3W-e4gMvdglnJorp5oiE-8QfBvQSIETERisxB-Of7w1HhIk65zOzsoQsu5j9GaonX2SUNoBg6DWG2CeY4zJGQrkvzzuDhpJPEhxMiarLlsGiYLqel3NzTKvLW3TNQMS8hZ7v8H0NcGteHYNDOaj/s16000/3.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T08:14:05+00:00",
+   "title_ja": "ユニクロがマレーシアの自動車メーカー「プロトン」限定UTme!を発表",
+   "summary_ja": "ユニクロがマレーシアの自動車メーカー「プロトン」とコラボレーションし、現地を代表する自動車を題材にした限定の「UTme!」コレクションを発表した。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -6593,102 +6688,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c9388f1de451aacf",
-   "url": "https://news.yahoo.co.jp/articles/f257f8eb00c3b8de748324b4c09e4a5abbec795c",
-   "title_original": "アルカキット錦糸町「ユニクロ」がリニューアル 国内最大級子ども売り場も（みんなの経済新聞ネットワーク）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00000061-minkei-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T08:36:56+00:00",
-   "title_ja": "ユニクロアルカキット錦糸町店が刷新、国内最大級のキッズ売り場を併設",
-   "summary_ja": "アルカキット錦糸町内のユニクロ店舗がリニューアルオープンを迎えた。店内には国内最大級となる子ども向け商品の売り場が設けられ、ファミリー層に向けた品揃えやサービスが強化されている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3fe44937f07c6e72",
-   "url": "https://ultrasports.jp/uniqlo-dodgers-community-support-lifewear-day-2026",
-   "title_original": "ユニクロとドジャースの地域貢献活動！２度目となる冠イベント「UNIQLO LifeWear Day at Dodger Stadium」も開催",
-   "source": "ultrasports.jp",
-   "image": "https://ultrasports.jp/wp-content/uploads/2026/09/image.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T07:08:11+00:00",
-   "title_ja": "ユニクロがドジャースと地域貢献、「LifeWear Day」冠イベント開催",
-   "summary_ja": "ユニクロがロサンゼルス・ドジャースと共同で地域貢献活動を実施し、2度目となる冠イベント「UNIQLO LifeWear Day at Dodger Stadium」を開催することが発表されました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "31424731e48770ca",
-   "url": "https://www.ryutsuu.biz/store/s090782.html",
-   "title_original": "イオン／「イオンモール八千代緑が丘」9月18日リニューアル、ユニクロなど新規オープン",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/09/20260907aeonmm.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T05:40:48+00:00",
-   "title_ja": "イオンモール八千代緑が丘、9月18日にリニューアルオープン",
-   "summary_ja": "千葉県のイオンモール八千代緑が丘が9月18日にリニューアルオープン。館内にはユニクロなどの新規店舗がオープンする予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8e252d700edd877a",
-   "url": "https://soranews24.com/2026/09/07/uniqlos-sister-brand-will-be-waiting-with-pokemon-sweaters-and-parkas-this-fall-pics",
-   "title_original": "Uniqlo’s sister brand will be waiting with Pokémon sweaters and parkas this fall [Pics]",
-   "source": "SoraNews24",
-   "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/08/0-1.jpg?w=1000&h=462&crop=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T05:00:09+00:00",
-   "title_ja": "ユニクロの姉妹ブランド、秋向けにポケモンのセーターやパーカーを展開",
-   "summary_ja": "ユニクロの姉妹ブランドから、この秋に向けてポケモンのセーターやパーカーなどの新作コレクションが登場することが分かりました。秋の装いにぴったりなデザインが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1b8016b2f4e70017",
-   "url": "https://www.kedglobal.com/fashion/newsView/ked202609070004",
-   "title_original": "SPA retailers enjoy revival as Uniqlo, Zara post record consumer card spending in Korea",
-   "source": "KED Global",
-   "image": "https://www.kedglobal.com/data/ked/image/2026/09/07/ked202609070014.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T02:27:55+00:00",
-   "title_ja": "韓国でユニクロやザラなどSPAブランドのカード消費額が過去最高を更新",
-   "summary_ja": "韓国市場でユニクロやザラなどのSPAブランドが好調を見せています。消費者のクレジットカード利用額が過去最高を記録するなど、アパレル大手各社の消費が活発化している様子が報じられています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "4cdb1f0b7b2df46e",
-   "url": "https://news.laodong.vn/kinh-doanh/tai-san-5-ti-phu-giau-nhat-nhat-ban-tang-manh-1762639.ldo",
-   "title_original": "Assets of the 5 richest billionaires in Japan increase sharply",
-   "source": "Laodong.vn",
-   "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/9/7/1762639/Anh-Man-Hinh-2026-09.jpg?w=800&h=420&crop=auto&scale=both",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T02:12:18+00:00",
-   "title_ja": "日本の富豪上位5人の保有資産が大幅増加　資産額の拡大が顕著に",
-   "summary_ja": "日本の富豪上位5人の保有資産が急速に増加していることが判明した。主要企業の創業者や経営者の資産拡大が続いており、国内における長者の資産規模が大きく膨らんでいる。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
    "detail_tries": 2
   }
  ]
