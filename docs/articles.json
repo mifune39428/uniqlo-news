@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T05:19:10.883675+09:00",
+ "updated_at": "2026-09-27T11:21:36.597509+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -250,49 +250,45 @@
  "count": 400,
  "detail_count": 264,
  "digest": {
-  "headline": "ユニクロ秋冬新作の発売や国内外の出店、GUの新コレクション発表まとめ",
+  "headline": "ユニクロ・GUの秋冬新作発表や店舗刷新、海外展開が加速",
   "points": [
    {
-    "text": "ユニクロは「UNIQLO : C」の2026年秋冬コレクションを発売し、ヒートテックとカシミヤを組み合わせたアイテムなどが注目を集めています。",
+    "text": "「UNIQLO : C」2026年秋冬コレクションや、ディズニーとF1が融合したコラボ「UT」が発売された。",
     "ids": [
      "9182bdf2db84de4c",
-     "00f7bb5042ad878c",
-     "e8c540701116c3c4"
+     "46a005d28bc30a6b"
     ]
    },
    {
-    "text": "GUはフランチェスコ・リッソ監修の2026年秋冬コレクションを発表しました。また、京都の大型ユニクロ店舗がグローバル旗艦店へリニューアルするため一時閉店します。",
+    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表した。",
     "ids": [
-     "27037bd502e51187",
-     "285a8b3fefa64080"
+     "27037bd502e51187"
     ]
    },
    {
-    "text": "ユニクロはイギリスのマンチェスターやバースなどでの新規出店計画を相次いで発表したほか、ベトナム・タインホア省への出店で国内33店舗を達成しました。",
+    "text": "京都の大型ユニクロ店舗がグローバル旗艦店への改装で一時閉店するほか、ミーナ津田沼のリニューアルも決定した。",
     "ids": [
-     "62d15616134afd9b",
-     "154c6ec96b6abfbe",
-     "32edd5193bfc8475"
+     "285a8b3fefa64080",
+     "1b47e4ac6627a880"
     ]
    },
    {
-    "text": "ディズニーとF1が融合した「ディズニー・レーシング」コレクションのUTが発売されたほか、マレーシアでのPROTONコラボや錦糸町ゆかりの企業とのUTme!も展開されています。",
+    "text": "イギリス・マンチェスターの新店開店日が決定したほか、ベトナムでも事業拡大に向けた環境整備が進む。",
     "ids": [
-     "b4600e736ff51b4a",
-     "a905053163c9016c",
-     "d647a7e1da609802"
+     "8e65acc07a0c6b98",
+     "e53f59524282da1b"
     ]
    },
    {
-    "text": "SNSではユニクロのイタリアンレザーロングベルトが話題となり、Xで3日に20件投稿されました。",
+    "text": "SNSでは「ユニクロ イタリアンレザーロングベルト」がXで3日に20件投稿され話題となっている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-24T05:25:57.834992+09:00",
-  "generated_at": "2026-09-27T05:26:00.266991+09:00",
+  "from": "2026-09-24T11:27:18.038517+09:00",
+  "generated_at": "2026-09-27T11:27:32.840693+09:00",
   "article_count": 24,
-  "sig": "115c37097d8a"
+  "sig": "9ca32d3eec65"
  },
  "items": [
   {
@@ -316,7 +312,7 @@
    "url": "https://themagicrain.com/2026/09/uniqlo-malaysia-unveils-exclusive-proton-utme-collection",
    "title_original": "UNIQLO Malaysia Unveils Exclusive PROTON UTme! Collection Celebrating Malaysian Journeys",
    "source": "themagicrain.com",
-   "image": "",
+   "image": "https://themagicrain.com/wp-content/uploads/2026/09/content.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-26T16:35:58+00:00",
@@ -325,7 +321,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "27037bd502e51187",
@@ -341,7 +337,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d647a7e1da609802",
@@ -485,7 +481,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cb856e6029c2fd0d",
@@ -725,7 +721,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "62d15616134afd9b",
