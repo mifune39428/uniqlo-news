@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T19:58:47.675603+09:00",
+ "updated_at": "2026-09-28T00:57:09.228963+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -79,7 +79,6 @@
   "Manchester Evening News",
   "Manchester Wire",
   "Manila Standard",
-  "MarkeZine",
   "Mindanao Times",
   "Modaes",
   "MokokchungTimes.com",
@@ -246,48 +245,48 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 262,
+ "detail_count": 261,
  "digest": {
-  "headline": "UNIQLO : C発売やGU新作発表、国内外の店舗展開に注目",
+  "headline": "ユニクロ「UNIQLO : C」秋冬コレクション発売と国内外の店舗展開ニュース",
   "points": [
    {
-    "text": "ユニクロはデザイナーのクレア・ワイト・ケラーによる「UNIQLO : C」の2026年秋冬コレクションを発売しました。",
+    "text": "ユニクロのデザイナーコラボレーションライン「UNIQLO : C」から、2026年秋冬コレクションが発売されました。",
     "ids": [
+     "8fa734289d58eb9b",
      "9182bdf2db84de4c",
-     "00f7bb5042ad878c",
-     "e8c540701116c3c4"
+     "00f7bb5042ad878c"
     ]
    },
    {
-    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表し、多様なライフスタイルに寄り添う新作を展開します。",
+    "text": "GUは、フランチェスコ・リッソが監修する2026年秋冬コレクションを発表し、新作アイテムを展開します。",
     "ids": [
      "27037bd502e51187"
     ]
    },
    {
-    "text": "京都の大型ユニクロ店舗が改装のため一時閉店し、今後はグローバル旗艦店としてリニューアルオープンすることが分かりました。",
+    "text": "京都の大型ユニクロ店舗が改装のため一時閉店し、グローバル旗艦店としてリニューアルオープンすることが分かりました。",
     "ids": [
      "285a8b3fefa64080"
     ]
    },
    {
-    "text": "ユニクロは英マンチェスター2号店やバースなど、2027年に向けて英国における店舗網の拡充と成長加速を進めています。",
+    "text": "ユニクロはイギリスのバースに新店舗を出店するほか、ベトナムやカナダなど国内外で店舗網の拡大やリニューアルを進めています。",
     "ids": [
-     "62d15616134afd9b",
-     "32edd5193bfc8475",
-     "45a976e0172e9713"
+     "1c945ab0ba53cd8c",
+     "7aed02cfdd612a9d",
+     "154c6ec96b6abfbe"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となっており、Xで3日に100件投稿されています。",
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで51件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-24T20:09:55.677546+09:00",
-  "generated_at": "2026-09-27T20:10:14.260643+09:00",
+  "from": "2026-09-25T01:07:19.666257+09:00",
+  "generated_at": "2026-09-28T01:07:21.463706+09:00",
   "article_count": 24,
-  "sig": "e8c7e5fcbaac"
+  "sig": "9b1f528d32dc"
  },
  "items": [
   {
@@ -304,7 +303,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2f0a5155bbf4281c",
@@ -320,7 +319,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0cb797c024e91d47",
@@ -336,7 +335,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2fe2a4dc7894418d",
@@ -352,6 +351,22 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
+   "detail_tries": 2
+  },
+  {
+   "id": "5d04148198c8908f",
+   "url": "https://www.sanyonews.jp/article/1955056?kw=4",
+   "title_original": "【ユニクロ2026秋冬】新作「ラウンジ＆インナーウェア」コレクションで自分だけのリラックスタイム",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/6/e/d/86ed9ec6e289bd44edb3a0c31e9835f9_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-26T23:10:50+00:00",
+   "title_ja": "ユニクロが2026年秋冬の新作「ラウンジ＆インナーウェア」コレクションを発表",
+   "summary_ja": "ユニクロが2026年秋冬シーズンの新作となる「ラウンジ＆インナーウェア」コレクションを展開します。おうち時間を快適に過ごすためのリラックス感のあるインナーやルームウェアがラインナップされており、自分好みのリラックスタイムを演出できます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "detail_tries": 1
   },
   {
@@ -401,6 +416,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "8fa734289d58eb9b",
+   "url": "https://businessmirror.com.ph/2026/09/27/uniqlo-c-2026-fall-winter-collection-presents-precision-in-softness",
+   "title_original": "UNIQLO : C 2026 Fall/Winter Collection presents ‘Precision in Softness’",
+   "source": "BusinessMirror",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-26T16:00:00+00:00",
+   "title_ja": "「UNIQLO : C」2026年秋冬コレクション「Precision in Softness」を発表",
+   "summary_ja": "ユニクロのデザイナーコラボレーションライン「UNIQLO : C」から、2026年秋冬コレクションが発表されました。「Precision in Softness（柔らかな緻密さ）」をテーマに、洗練されたデザインと着心地の良さを両立したアイテムを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "27037bd502e51187",
@@ -6657,38 +6688,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "b123892b4d641697",
-   "url": "https://news.yahoo.co.jp/articles/67c9f5f23d4fa83c6847b54b1c282d7974f4d968",
-   "title_original": "【ユニクロ】9/10までの特別価格！オックスフォードシャツ2,990円・BABYサロペット1,290円など秋アイテムがお得",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00000010-manetatsun-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T09:00:03+00:00",
-   "title_ja": "ユニクロが9月10日まで秋の特別価格を実施、シャツやベビー服などが値下げ",
-   "summary_ja": "ユニクロが9月10日までの期間限定で特別価格セールを実施している。オックスフォードシャツが2,990円、ベビー用サロペットが1,290円になるなど、これからの季節に活躍する秋向けアイテムがお得な価格で提供されている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1b348f7ebb6b67a5",
-   "url": "https://markezine.jp/news/detail/77568",
-   "title_original": "ユニクロ、B.LEAGUEとパートナー契約締結 UTme!で全55クラブのロゴやマスコットが使用可能：commercezine",
-   "source": "MarkeZine",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T08:37:30+00:00",
-   "title_ja": "ユニクロがB.LEAGUEと契約、UTme!で全55クラブのロゴが作成可能に",
-   "summary_ja": "ユニクロがプロバスケットボールリーグ「B.LEAGUE」とパートナー契約を締結した。今回の提携により、オリジナルTシャツ等を作れる「UTme!」サービスにおいて、全55クラブのロゴや公式マスコットのデザインが使用可能となる。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
