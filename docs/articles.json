@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T11:25:40.142077+09:00",
+ "updated_at": "2026-09-28T21:16:26.209592+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -45,6 +45,7 @@
   "FZINE Singapore",
   "Fashion Times UK",
   "Fashion United",
+  "FashionNetwork France",
   "Fibre2Fashion",
   "GMA Network",
   "GQ Japan",
@@ -92,17 +93,18 @@
   "New Statesman",
   "New York Family",
   "Newswav",
-  "OCEANS オーシャンズ",
   "Oui Speak Fashion (OSF)",
   "PR Newswire Canada",
   "PR TIMES",
   "Paris Select Book",
   "Passionate In Marketing",
   "Patch",
+  "Paul Tan's Automotive News",
   "Philstar.com",
   "PressReader",
   "QAB 琉球朝日放送",
   "Ragtrader.com.au",
+  "Retail Bulletin",
   "Retail Gazette",
   "Retail News Asia",
   "Retail Times",
@@ -172,6 +174,7 @@
   "news.nicovideo.jp",
   "newswav.com",
   "nikkei.com",
+  "nylon.com.sg",
   "pokde.net",
   "propertyweek.com",
   "realsound.jp",
@@ -247,45 +250,134 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 262,
+ "detail_count": 263,
  "digest": {
-  "headline": "ユニクロの海外展開や国内外の店舗戦略、新作コレクションの動き",
+  "headline": "ユニクロとGUの秋冬新作や国内外の店舗展開の動き",
   "points": [
    {
-    "text": "ユニクロは米国市場で200店舗体制を目指し、これまで未開拓だった中央部への出店を進めています。",
+    "text": "ユニクロの「UNIQLO : C」2026年秋冬コレクションが発表され、順次発売が開始されたほか、GUからもフランチェスコ・リッソ監修の秋冬コレクションが発表されました。",
     "ids": [
-     "a1aa2444a8bb4533",
-     "d749ec8c6d659402"
+     "8fa734289d58eb9b",
+     "27037bd502e51187",
+     "0b1f0dfd2ccaac73"
     ]
    },
    {
-    "text": "好調を維持する国内ユニクロでは、標準店から新たな店舗形態へのシフトや旗艦店へのリニューアルが行われています。",
+    "text": "ユニクロは米国で200店舗体制を目指し中央部への出店を強化するほか、英国ケンブリッジやベトナム、カナダなど国内外で新店舗のオープンや店舗拡大を進めています。",
     "ids": [
-     "429bfbf9229616ff",
+     "a1aa2444a8bb4533",
+     "eae7795fd3b4e32f",
+     "154c6ec96b6abfbe"
+    ]
+   },
+   {
+    "text": "京都の大型店舗がグローバル旗艦店としてリニューアルするため一時閉店する一方、好調を維持する国内では店舗数が減少する背景や標準店からのシフト戦略が解説されています。",
+    "ids": [
      "285a8b3fefa64080",
+     "429bfbf9229616ff",
      "67e167842e47d76b"
     ]
    },
    {
-    "text": "「UNIQLO : C」の2026年秋冬コレクションが発表・発売され、GUでもフランチェスコ・リッソ監修の新作が登場しました。",
+    "text": "自動車メーカーのプロトンとコラボしたTシャツや限定UTme!が発売されたほか、錦糸町ゆかりの企業とのコラボ実施や、ラウンジ＆インナーウェアコレクションが発表されました。",
     "ids": [
-     "8fa734289d58eb9b",
-     "27037bd502e51187",
-     "9182bdf2db84de4c"
+     "fe5ba3238df4861c",
+     "a905053163c9016c",
+     "d647a7e1da609802"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に56件投稿されています。",
+    "text": "ユニクロ UNIQLO : C ベルトがSNSで話題となり、Xで61件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-25T11:32:01.839519+09:00",
-  "generated_at": "2026-09-28T11:32:03.577413+09:00",
+  "from": "2026-09-25T21:40:36.687000+09:00",
+  "generated_at": "2026-09-28T21:43:38.919103+09:00",
   "article_count": 24,
-  "sig": "5cd7a1c11491"
+  "sig": "0f885a66d1ab"
  },
  "items": [
+  {
+   "id": "0b1f0dfd2ccaac73",
+   "url": "https://nylon.com.sg/uniqlo-c-2026-fall-winter-collection-now-available",
+   "title_original": "UNIQLO : C 2026 Fall/Winter Collection now available",
+   "source": "nylon.com.sg",
+   "image": "https://nylon.com.sg/wp-content/uploads/2026/09/uniqlo-c-fw26-header.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T10:18:55+00:00",
+   "title_ja": "ユニクロの「UNIQLO : C」2026年秋冬コレクションが発売開始",
+   "summary_ja": "ユニクロのデザイナーコラボライン「UNIQLO : C（ユニクロ：シー）」から、2026年秋冬コレクションが発売となりました。今シーズンの新しいラインナップが順次店頭やオンラインで展開されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cabb38099740d49c",
+   "url": "https://otonanswer.jp/post/396728",
+   "title_original": "【ユニクロ】人気のデニムに秋冬カラーの新色登場 「お尻が大きく見えない」「脚が長く見える」",
+   "source": "オトナンサー",
+   "image": "https://otonanswer.jp/wp-content/uploads/2027/09/20260928uniqlo001.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-28T10:00:00+00:00",
+   "title_ja": "ユニクロの人気デニムに秋冬の新色が登場　スタイルを引き立てるカラー展開",
+   "summary_ja": "ユニクロで評判を集めている人気のデニムラインに、秋冬シーズンに向けた新色が加わりました。ヒップラインや脚のシルエットを美しく見せるデザイン性はそのままに、季節感のあるカラーバリエーションが拡充されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fe5ba3238df4861c",
+   "url": "https://paultan.org/2026/09/28/proton-partners-with-uniqlo-for-collection-of-t-shirts-tote-bags",
+   "title_original": "Proton partners with Uniqlo for collection of T-shirts, tote bags – OG Saga, Satria Neo, eMas 7; selected outlets",
+   "source": "Paul Tan's Automotive News",
+   "image": "https://paultan.org/image/2026/09/Proton-x-Uniqlo-feat-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T09:01:09+00:00",
+   "title_ja": "プロトンがユニクロとコラボ、Tシャツなどを発売",
+   "summary_ja": "自動車メーカーのプロトンがユニクロと提携し、往年の名車などをデザインしたTシャツやトートバッグを特定の店舗で発売します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "432ca13a5ec5f18b",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%8C%E3%82%B1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%81%AB%E6%96%B0%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-%E4%BB%8A%E5%BE%8C%E3%82%82%E9%A0%86%E6%AC%A1%E5%87%BA%E5%BA%97%E3%81%B8,1870845.html",
+   "title_original": "ユニクロがケンブリッジに新店オープン、今後も順次出店へ",
+   "source": "FashionNetwork France",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/f5fd/77bf/6e3e/00bf/a697/9146/dede/ebce/eb65/c911/c911.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-28T08:28:12+00:00",
+   "title_ja": "英ケンブリッジにユニクロが新店舗を開店、今後も出店を拡大へ",
+   "summary_ja": "ユニクロが英国のケンブリッジに新店舗をオープンしたことが分かった。同ブランドは今後も順次出店を進める方針を示しており、引き続き店舗網の拡大を推し進めていくとみられる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "eae7795fd3b4e32f",
+   "url": "https://uk.fashionnetwork.com/news/Uniqlo-opens-in-cambridge-more-to-follow,1869735.html",
+   "title_original": "Uniqlo opens in Cambridge, more to follow",
+   "source": "FashionNetwork France",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/f5fd/77bf/6e3e/00bf/a697/9146/dede/ebce/eb65/c911/c911.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T08:28:12+00:00",
+   "title_ja": "ユニクロがケンブリッジに新店舗をオープン",
+   "summary_ja": "ユニクロが新たにケンブリッジへ店舗をオープンしたことが伝えられており、今後もさらなる出店が予定されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "67e167842e47d76b",
    "url": "https://www.itmedia.co.jp/business/articles/2609/28/news014.html",
@@ -300,6 +392,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "130427791037b830",
+   "url": "https://www.theretailbulletin.com/fashion/uniqlo-to-open-8000-sq-ft-store-at-baths-southgate-28-09-2026",
+   "title_original": "Uniqlo to open 8,000 sq ft store at Bath’s SouthGate",
+   "source": "Retail Bulletin",
+   "image": "https://www.theretailbulletin.com/wp-content/uploads/2026/09/UNIQLO-Bath-Store-Render-PR.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T04:46:41+00:00",
+   "title_ja": "イギリス・バースの商業施設にユニクロが出店へ",
+   "summary_ja": "ユニクロがイギリス・バースの商業施設「サウスゲート」に、約8,000平方メートルの新店舗をオープンする予定であることが明らかになった。現地でのさらなる店舗網拡大が進められている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -348,7 +456,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "20a4998b9338f69f",
@@ -5619,7 +5727,7 @@
    "url": "https://ww.fashionnetwork.com/news/Theory-appoints-new-global-ceo,1865098.html",
    "title_original": "Theory appoints new global CEO",
    "source": "ww.fashionnetwork.com",
-   "image": "",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1cd8/aa27/9430/3b80/6058/32fc/6815/c44e/b672/8f9f/8f9f.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-09-10T04:11:42+00:00",
@@ -5635,7 +5743,7 @@
    "url": "https://jp.fashionnetwork.com/news/Theory-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%ABceo%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AB%E4%BB%BB%E5%91%BD,1865108.html",
    "title_original": "Theory、グローバルCEOを新たに任命",
    "source": "jp.fashionnetwork.com",
-   "image": "",
+   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1cd8/aa27/9430/3b80/6058/32fc/6815/c44e/b672/8f9f/8f9f.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-10T04:11:42+00:00",
@@ -6589,102 +6697,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "c1615582f25c0783",
-   "url": "https://tennis.jp/news/archives/348496",
-   "title_original": "U18は16歳の駒田唯衣が制覇。小野倫太郎がインターハイとの2冠を達成【ユニクロ全日本ジュニアテニス選手権 2026】",
-   "source": "tennis.jp",
-   "image": "https://tennis.jp/wp-content/uploads/2026/09/18-4nin-1024x682.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T14:49:10+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニスU18、駒田唯衣が制覇し小野倫太郎は2冠達成",
-   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026の18歳以下（U18）部門において、16歳の駒田唯衣選手が女子を制覇しました。男子では小野倫太郎選手がインターハイとの2冠を達成しています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "ba2aab9ce8dcc2cf",
-   "url": "https://tennis.jp/news/archives/348494",
-   "title_original": "U16は15歳の関戸心咲が全国初V。川村准椰が４年ぶりの全国優勝【ユニクロ全日本ジュニアテニス選手権 2026】",
-   "source": "tennis.jp",
-   "image": "https://tennis.jp/wp-content/uploads/2026/09/16-4nin-1024x683.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T14:39:05+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス2026、関戸心咲と川村准椰が優勝",
-   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026のU16部門にて、15歳の関戸心咲が全国初優勝を果たしました。また川村准椰が4年ぶりとなる全国優勝を達成しました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a51b3bdcea982b0d",
-   "url": "https://news.yahoo.co.jp/articles/97c7fd243a2b1056b7865c6783085e0d31a502e1/images/000",
-   "title_original": "「色違いで2着GET」 ユニクロの“1990円フード付きT”に反響 「華奢見えする」「秋の制服になる予感」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKlFbAyC03YtLKs07w_3VRRqg_UwyA47OrjCrxf1nOFJUyf07WuTM6dEHMPY-LbWHJDduTpq8glhcT2Y4fYfg-rRj86UZo0UbcDwXQBVTGriKZWj9yT4-5WvVlQZTnArbQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T13:10:00+00:00",
-   "title_ja": "ユニクロ1990円フード付きTが話題　色違いで2着購入も増加",
-   "summary_ja": "ユニクロの1990円のフード付きTシャツが、華奢に見えると好評で、色違いで2枚購入する人が増えていると報じられた。秋の制服感が期待されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "c45592301b49071d",
-   "url": "https://news.yahoo.co.jp/articles/0131b8f887c7774818727ab1115f9ee9d8cbe8dc",
-   "title_original": "【ユニクロ アンド コントワー・デ・コトニエ】新作は大人が自然体で楽しめる、現代的なフレンチエレガンス（＠BAILA）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00010004-baila-000-2-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T12:50:10+00:00",
-   "title_ja": "ユニクロとコントワー・デ・コトニエの新作、現代的フレンチエレガンスを提案",
-   "summary_ja": "ユニクロと「コントワー・デ・コトニエ」のコラボレーションによる新作コレクションが発表されました。大人が自然体で楽しめる、現代的で洗練されたフレンチエレガンスなデザインのアイテムが揃っています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f9e2845b21f3185d",
-   "url": "https://news.yahoo.co.jp/articles/d70b32e1839369da604ba79a7313ff4c38bd727c",
-   "title_original": "【ユニクロ×コントワー・デ・コトニエ】大人が狙うべき新作！コーデュロイジャケット・バレルレッグパンツに注目【2026秋冬】（LEE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00010003-lee-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T12:50:01+00:00",
-   "title_ja": "ユニクロ×コントワー・デ・コトニエの2026秋冬新作、ジャケットやパンツに注目",
-   "summary_ja": "ユニクロとコントワー・デ・コトニエの2026年秋冬コラボレーション新作が登場し、コーデュロイジャケットやバレルレッグパンツが注目を集めています。大人の日常に寄り添う魅力的なアイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "538e62dfbcce3809",
-   "url": "https://oceans.tokyo.jp/article/detail/55482?page=3",
-   "title_original": "今週発売！「ユニクロ ユー」新作アウターはどれが正解？ ブルゾン、コートetc.本音レビュー",
-   "source": "OCEANS オーシャンズ",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T12:01:43+00:00",
-   "title_ja": "今週発売の「ユニクロ ユー」新作アウターを本音レビュー",
-   "summary_ja": "今週発売される「ユニクロ ユー」の新作アウターに関するレビュー記事です。ブルゾンやコートなどの新作アウターの中から、どれを選ぶべきかについて実際の着用感をもとにした本音の評価を紹介しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
