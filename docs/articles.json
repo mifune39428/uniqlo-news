@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T05:33:32.889546+09:00",
+ "updated_at": "2026-09-28T11:25:40.142077+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -36,6 +36,7 @@
   "CoStar",
   "Completely Retail News",
   "Confirm Good",
+  "DIGIDAY［日本版］",
   "Daily Tribune",
   "Dtimes",
   "ELLE Canada Magazine",
@@ -184,7 +185,6 @@
   "stupidDOPE",
   "tennis.jp",
   "thecage.tokyo",
-  "thehootleeds.com",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
   "tribecacitizen.com",
@@ -219,6 +219,7 @@
   "モデルプレス",
   "ヨムーノ",
   "レスポンス（Response.jp）",
+  "中華IT最新事情",
   "北國新聞",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
@@ -246,12 +247,27 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 261,
+ "detail_count": 262,
  "digest": {
-  "headline": "ユニクロ：C秋冬コレクション発売や国内外の出店戦略が活発に",
+  "headline": "ユニクロの海外展開や国内外の店舗戦略、新作コレクションの動き",
   "points": [
    {
-    "text": "ユニクロとGUの2026年秋冬コレクションがそれぞれ発表され、ユニクロでは「UNIQLO : C」の新作アイテムが発売開始となりました。",
+    "text": "ユニクロは米国市場で200店舗体制を目指し、これまで未開拓だった中央部への出店を進めています。",
+    "ids": [
+     "a1aa2444a8bb4533",
+     "d749ec8c6d659402"
+    ]
+   },
+   {
+    "text": "好調を維持する国内ユニクロでは、標準店から新たな店舗形態へのシフトや旗艦店へのリニューアルが行われています。",
+    "ids": [
+     "429bfbf9229616ff",
+     "285a8b3fefa64080",
+     "67e167842e47d76b"
+    ]
+   },
+   {
+    "text": "「UNIQLO : C」の2026年秋冬コレクションが発表・発売され、GUでもフランチェスコ・リッソ監修の新作が登場しました。",
     "ids": [
      "8fa734289d58eb9b",
      "27037bd502e51187",
@@ -259,31 +275,15 @@
     ]
    },
    {
-    "text": "京都の大型ユニクロ店舗が一時閉店してグローバル旗艦店としてリニューアルされるほか、国内外での新店舗出店やリニューアルが相次いで発表されています。",
-    "ids": [
-     "285a8b3fefa64080",
-     "1c945ab0ba53cd8c",
-     "154c6ec96b6abfbe"
-    ]
-   },
-   {
-    "text": "マレーシアでの現地メーカーとのコラボUTme!や、ディズニーとF1がコラボしたグラフィックTシャツなど、多彩な新商品企画が展開されています。",
-    "ids": [
-     "a905053163c9016c",
-     "46a005d28bc30a6b",
-     "cc6532df509c9d9a"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に52件投稿されています。",
+    "text": "SNSでは「ユニクロ UNIQLO : C ベルト」が話題となり、Xで3日に56件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-25T05:41:38.951493+09:00",
-  "generated_at": "2026-09-28T05:41:40.540017+09:00",
+  "from": "2026-09-25T11:32:01.839519+09:00",
+  "generated_at": "2026-09-28T11:32:03.577413+09:00",
   "article_count": 24,
-  "sig": "9b09096220e4"
+  "sig": "5cd7a1c11491"
  },
  "items": [
   {
@@ -303,6 +303,70 @@
    "has_detail": true
   },
   {
+   "id": "a1aa2444a8bb4533",
+   "url": "https://news.yahoo.co.jp/articles/55c7367a34d95b66a598ad9c8ea471325a28ba4c",
+   "title_original": "ユニクロが米国で200店舗を目指す理由とは？ 未開拓の中央部出店に見るブランド成長劇（DIGIDAY［日本版］）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000001-digiday-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-28T01:11:01+00:00",
+   "title_ja": "ユニクロが米国で200店舗達成を目指す理由と中央部への出店戦略",
+   "summary_ja": "ユニクロが米国市場で200店舗体制を目指し、これまで未開拓だった中央部への出店を進めている。北米における事業拡大の背景とブランド成長の戦略を詳しく解説する。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d749ec8c6d659402",
+   "url": "https://digiday.jp/glossy/glossy-podcast-inside-uniqlos-us-expansion-strategy-with-head-of-marketing-nico-cessot",
+   "title_original": "ユニクロが米国で200店舗を目指す理由とは？ 未開拓の中央部出店に見るブランド成長劇",
+   "source": "DIGIDAY［日本版］",
+   "image": "https://digiday.jp/wp-content/uploads/2026/09/1c62c31d2e085c9622ca19274d1f5d0f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-28T01:00:43+00:00",
+   "title_ja": "米国200店舗を目指すユニクロの成長劇と未開拓エリアへの進出",
+   "summary_ja": "ユニクロがアメリカ国内で200店舗の開設を目指し、未開拓である中央部エリアへの出店を強化している。北米市場でのブランド成長と出店戦略について伝えている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "429bfbf9229616ff",
+   "url": "https://news.yahoo.co.jp/pickup/6596796",
+   "title_original": "ユニクロ好調も国内の店舗減 なぜ",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/28/059428da2fbafc3364d3ac8e390eb70df3475ef4e50926f11c723c1579569298.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T23:12:07+00:00",
+   "title_ja": "ユニクロ好調の陰で国内店舗数が減少している背景と理由を解説",
+   "summary_ja": "ユニクロの業績自体は全体として好調を維持しているものの、日本国内における店舗数が減少している状況について、その理由や背景を分析・解説しています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "20a4998b9338f69f",
+   "url": "https://tamakino.hatenablog.com/entry/2026/09/28/080000",
+   "title_original": "ユニクロは男尊女卑ですか？男女モデルで品質が異なることに不満の声があがる",
+   "source": "中華IT最新事情",
+   "image": "https://cdn.image.st-hatena.com/image/scale/af98fcf6f9f4890eb9893cf9cc2502253bc57ba9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftamakino%2F20260909%2F20260909083924.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-27T23:00:00+00:00",
+   "title_ja": "ユニクロの男女モデルで品質に差があるとの批判や不満の声が噴出",
+   "summary_ja": "ユニクロの男性向けと女性向けの商品において品質に差があるとして、消費者から不満の声が上がっている件や、それに伴う議論の状況について報じています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "a4cd4a327ff6e2c3",
    "url": "https://www.hokkoku.co.jp/articles/-/2241860",
    "title_original": "未就学児５５０人楽しむ 金沢でユニクロサッカー 元日本代表の森脇さん指導｜スポーツ｜石川のニュース",
@@ -316,7 +380,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1c945ab0ba53cd8c",
@@ -6621,70 +6685,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "5086fc00e7007fda",
-   "url": "https://www.buzzfeed.com/jp/buzzfeedjapanlife/uniqlo-frill-t-shirt-dress-photo",
-   "title_original": "ユニクロの「フリルTワンピース」が2700円オフ！着用レビューをお届けします！",
-   "source": "BuzzFeed",
-   "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/07/00/thumb/vdssxmwT1.jpg?crop=977:651;238,224&resize=1250:830",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T12:01:03+00:00",
-   "title_ja": "2700円オフになったユニクロ「フリルTワンピース」の着用レビュー",
-   "summary_ja": "ユニクロの「フリルTワンピース」が2,700円引きで販売されていることを受けて、実際の着用レビューを紹介する記事です。お得になった注目アイテムのデザインや着心地についての感想を伝えています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "eb5c554dfd75b39c",
-   "url": "https://www.chiba-tv.com/plus/detail/2026091985091",
-   "title_original": "【ユニクロ】期間限定で1000円OFF！「バレルレッグジーンズ」でつくる40代の秋コーデ3選",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1469659346112545803/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T11:41:37+00:00",
-   "title_ja": "ユニクロ「バレルレッグジーンズ」が期間限定1000円引き、秋コーデも紹介",
-   "summary_ja": "ユニクロの「バレルレッグジーンズ」が期間限定で1000円引きのセール価格となっています。記事では、本アイテムを活用した40代向けの秋コーディネート3選が紹介されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "be1688f35224e39b",
-   "url": "https://thehootleeds.com/leeds/retail-giant-uniqlo-confirm-opening-date-for-new-leeds-store",
-   "title_original": "Retail giant Uniqlo delays opening date for new Leeds store",
-   "source": "thehootleeds.com",
-   "image": "https://thehootleeds.com/wp-content/uploads/2026/01/Screenshot-2025-09-22-at-09.30.34-768x808.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T11:02:13+00:00",
-   "title_ja": "ユニクロ、リーズの新店舗オープン日を延期",
-   "summary_ja": "英リーズにオープン予定だったユニクロの新店舗について、開業日の延期が発表されました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "12787890823fe9e3",
-   "url": "https://news.yahoo.co.jp/articles/6c79067ffb72dd33247f6614c5d92f980e61a2e0",
-   "title_original": "【大人のユニクロ】「ユニクロ ユー」新作試着ルポ。10周年記念カラーの「オトナな赤」を狙え！【9月11日発売】（UOMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00010001-webuomo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T10:02:33+00:00",
-   "title_ja": "ユニクロ ユーの新作が9月11日に発売、10周年記念カラーも登場",
-   "summary_ja": "ユニクロの「ユニクロ ユー」新作が9月11日に発売される。今回のラインナップでは、ブランド10周年を記念した大人向けの赤をはじめとする注目カラーが展開されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
