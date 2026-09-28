@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T21:16:26.209592+09:00",
+ "updated_at": "2026-09-29T07:43:20.515145+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -62,6 +62,7 @@
   "Impress Watch",
   "Indian Retailer",
   "Inside Retail Asia",
+  "InsideHook",
   "InsiderPH",
   "Interaksyon",
   "JBpress",
@@ -175,7 +176,6 @@
   "newswav.com",
   "nikkei.com",
   "nylon.com.sg",
-  "pokde.net",
   "propertyweek.com",
   "realsound.jp",
   "retail-insider.com",
@@ -186,7 +186,6 @@
   "soyacincau.com",
   "sportschosun.com",
   "stupidDOPE",
-  "tennis.jp",
   "thecage.tokyo",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
@@ -195,6 +194,7 @@
   "ultrasports.jp",
   "uptodate.tokyo",
   "vietnam.vn",
+  "vooks.net",
   "webuomo.jp",
   "whatnow.com",
   "ww.fashionnetwork.com",
@@ -252,52 +252,97 @@
  "count": 400,
  "detail_count": 263,
  "digest": {
-  "headline": "ユニクロとGUの秋冬新作や国内外の店舗展開の動き",
+  "headline": "ユニクロの海外出店加速とCコレクション最新情報",
   "points": [
    {
-    "text": "ユニクロの「UNIQLO : C」2026年秋冬コレクションが発表され、順次発売が開始されたほか、GUからもフランチェスコ・リッソ監修の秋冬コレクションが発表されました。",
+    "text": "ユニクロはイギリスのケンブリッジやバースへの出店、アメリカでの中央部を含めた200店舗達成に向けた海外展開を加速させています。",
     "ids": [
+     "56ce12d5d5638521",
+     "130427791037b830",
+     "a1aa2444a8bb4533"
+    ]
+   },
+   {
+    "text": "「UNIQLO : C」の2026年秋冬コレクションが発売され、ビッグパンツなどの新作や洗練されたデザインのアイテムが展開されています。",
+    "ids": [
+     "786266436a7ddcc1",
      "8fa734289d58eb9b",
-     "27037bd502e51187",
-     "0b1f0dfd2ccaac73"
+     "e03d3d49a5f46f45"
     ]
    },
    {
-    "text": "ユニクロは米国で200店舗体制を目指し中央部への出店を強化するほか、英国ケンブリッジやベトナム、カナダなど国内外で新店舗のオープンや店舗拡大を進めています。",
-    "ids": [
-     "a1aa2444a8bb4533",
-     "eae7795fd3b4e32f",
-     "154c6ec96b6abfbe"
-    ]
-   },
-   {
-    "text": "京都の大型店舗がグローバル旗艦店としてリニューアルするため一時閉店する一方、好調を維持する国内では店舗数が減少する背景や標準店からのシフト戦略が解説されています。",
+    "text": "京都の大型店舗がグローバル旗艦店へのリニューアルに向けた一時閉店を発表したほか、国内では標準店から新たな店舗形態へのシフトが進んでいます。",
     "ids": [
      "285a8b3fefa64080",
-     "429bfbf9229616ff",
      "67e167842e47d76b"
     ]
    },
    {
-    "text": "自動車メーカーのプロトンとコラボしたTシャツや限定UTme!が発売されたほか、錦糸町ゆかりの企業とのコラボ実施や、ラウンジ＆インナーウェアコレクションが発表されました。",
+    "text": "GUはフランチェスコ・リッソ監修の2026年秋冬コレクションを発表し、多様なライフスタイルに寄り添う新作アイテムを展開しています。",
     "ids": [
-     "fe5ba3238df4861c",
-     "a905053163c9016c",
-     "d647a7e1da609802"
+     "27037bd502e51187"
     ]
    },
    {
-    "text": "ユニクロ UNIQLO : C ベルトがSNSで話題となり、Xで61件投稿されました。",
+    "text": "SNSでは「ユニクロ UNIQLO : C スウェット」が話題となり、Xで3日に12件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-25T21:40:36.687000+09:00",
-  "generated_at": "2026-09-28T21:43:38.919103+09:00",
+  "from": "2026-09-26T07:51:27.753338+09:00",
+  "generated_at": "2026-09-29T07:51:29.482222+09:00",
   "article_count": 24,
-  "sig": "0f885a66d1ab"
+  "sig": "78ab431e1d9f"
  },
  "items": [
+  {
+   "id": "e03d3d49a5f46f45",
+   "url": "https://www.insidehook.com/style-news/new-menswear-releases-9-28-26",
+   "title_original": "Uniqlo : C Bets on Big Pants With New Fall/Winter 2026 Collection",
+   "source": "InsideHook",
+   "image": "https://www.insidehook.com/wp-content/uploads/2026/09/Uniqlo-Hero-928.jpg?resize=1200,800",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T16:54:05+00:00",
+   "title_ja": "UNIQLO : Cの2026年秋冬新作でビッグパンツが登場",
+   "summary_ja": "ユニクロのライン「UNIQLO : C」の2026年秋冬コレクションにて、シルエットの大きいビッグパンツに注力した新作ラインナップが展開されることが報じられました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f188dd2d686c912c",
+   "url": "https://www.vooks.net/pokemon-and-mario-kart-world-uniqlo-gear-hitting-aussie-stores-this-october",
+   "title_original": "Pokémon and Mario Kart World Uniqlo gear hitting Aussie stores this October",
+   "source": "vooks.net",
+   "image": "https://cdn.vooks.net/vooks/img/2026/09/uniqlo-designs-2026-oct.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T13:47:05+00:00",
+   "title_ja": "オーストラリアのユニクロでポケモン等の新作を10月に発売",
+   "summary_ja": "オーストラリアのユニクロ店舗にて、10月にポケモンやマリオカート関連のコレクションが発売される予定であることが報じられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "56ce12d5d5638521",
+   "url": "https://www.retailgazette.co.uk/blog/2026/09/uniqlo-25th-uk-store",
+   "title_original": "Why Cambridge was ‘a natural choice’ for Uniqlo’s 25th UK store",
+   "source": "Retail Gazette",
+   "image": "https://www.retailgazette.co.uk/wp-content/uploads/2026/09/Uniqlo_Cambridge_Rush_20260923_008-edited-1024x683.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T12:12:40+00:00",
+   "title_ja": "ユニクロがイギリス国内25店舗目としてケンブリッジを選んだ理由",
+   "summary_ja": "ユニクロがイギリスで25店舗目となる新店舗をケンブリッジにオープンした背景や、出店地に選ばれた自然な理由について解説されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "0b1f0dfd2ccaac73",
    "url": "https://nylon.com.sg/uniqlo-c-2026-fall-winter-collection-now-available",
@@ -344,7 +389,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "432ca13a5ec5f18b",
@@ -374,6 +419,22 @@
    "title_ja": "ユニクロがケンブリッジに新店舗をオープン",
    "summary_ja": "ユニクロが新たにケンブリッジへ店舗をオープンしたことが伝えられており、今後もさらなる出店が予定されています。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "786266436a7ddcc1",
+   "url": "https://newswav.com/article/uniqlo-c-fw26-is-here-and-clare-waight-keller-just-mastered-the-ultimate-ef-A2609_2p5LbS",
+   "title_original": "Uniqlo : C FW26 Is Here, and Clare Waight Keller Just Mastered the Ultimate “Effortless” Aesthetic",
+   "source": "Newswav",
+   "image": "https://thestoly.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-3.34.57-PM.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T07:35:15+00:00",
+   "title_ja": "ユニクロ：C 26年秋冬コレクションが登場",
+   "summary_ja": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、エフォートレスな美しさを体現している。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -6633,70 +6694,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "693d887ba38eb4f6",
-   "url": "https://www.gmanetwork.com/lifestyle/shopping/138076/this-global-retail-brand-is-opening-at-naia-terminal-3/story",
-   "title_original": "This global retail brand is opening at NAIA Terminal 3",
-   "source": "GMA Network",
-   "image": "https://aphrodite.gmanetwork.com/entertainment/articles/900_675_Main2026-08_0907_07-09-2026-2201_-20260907220154.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T22:01:55+00:00",
-   "title_ja": "マニラ空港第3ターミナルにグローバル小売ブランドが出店へ",
-   "summary_ja": "フィリピンのマニラ・ニノイ・アキノ国際空港（NAIA）第3ターミナルに、世界的な小売ブランドが新店舗をオープンすることが分かりました。空港利用者にとって利便性の高い新たなショッピングスポットが誕生します。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "6fcaf0764da35ca1",
-   "url": "https://diamond-rm.net/market/accounting/556489/amp",
-   "title_original": "アパレル売上ランキング2026 ファストリ独走の下、新たに4社ランクイン！",
-   "source": "ダイヤモンド・チェーンストア",
-   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2025/01/20250109ds67_p.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T20:50:00+00:00",
-   "title_ja": "2026年アパレル売上ランキング、ファストリが独走",
-   "summary_ja": "2026年のアパレル売上ランキングが発表された。ファーストリテイリングが独走状態を維持する中、新たに4社がランクインを果たした。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "11e75dfe70c97a9d",
-   "url": "https://pokde.net/lifestyle/shopping/uniqlo-u-2026-fall-winter-collection",
-   "title_original": "UNIQLO U 2026 Fall/Winter Collection Marks 10th Anniversary And Final Season From Christophe Lemaire",
-   "source": "pokde.net",
-   "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/08020018/uniqloufw2026cover.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-07T18:00:48+00:00",
-   "title_ja": "ユニクロUが10周年、ルメール最後の2026年秋冬コレクション発表",
-   "summary_ja": "ユニクロは「Uniqlo U」の2026年秋冬コレクションを発表しました。ブランド立ち上げ10周年を迎える今期は、アーティスティックディレクターのクリストフ・ルメール氏が手がける最後のシーズンとなります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "11d9557168cbf47f",
-   "url": "https://tennis.jp/news/archives/348521",
-   "title_original": "車いすテニスは15歳の橋本旬平が初出場で初優勝！【ユニクロ全日本ジュニアテニス選手権 2026】",
-   "source": "tennis.jp",
-   "image": "https://tennis.jp/wp-content/uploads/2026/09/kuruma2nin-1024x683.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-07T14:54:45+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス、車いす部門で15歳橋本旬平が初出場初優勝",
-   "summary_ja": "ユニクロ全日本ジュニアテニス選手権2026の車いすテニス部門において、15歳の橋本旬平選手が初出場で初優勝を飾りました。次世代を担う若手選手による白熱した戦いが繰り広げられました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
