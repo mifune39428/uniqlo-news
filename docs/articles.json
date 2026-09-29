@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T02:12:13.944515+09:00",
+ "updated_at": "2026-09-30T06:37:14.807923+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -145,7 +145,6 @@
   "Web eclat",
   "Wharf Life",
   "Yahoo!ニュース",
-  "Yorkshire Evening Post",
   "YouTube",
   "asahi.com",
   "baila.hpplus.jp",
@@ -251,10 +250,10 @@
  "count": 400,
  "detail_count": 264,
  "digest": {
-  "headline": "ユニクロ国内外の出店拡大と26年秋冬コレクションが話題",
+  "headline": "ユニクロ、国内最大級のキッズ売り場リニューアルや海外展開を加速",
   "points": [
    {
-    "text": "ユニクロはイギリス・ケンブリッジでの新店舗オープンをはじめ、バースや米国中央部への出店など国内外で店舗網の拡大を進めています。",
+    "text": "ユニクロはイギリスのケンブリッジやバースへの出店に加え、米国市場で中央部への出店を進めて200店舗達成を目指しています。",
     "ids": [
      "56ce12d5d5638521",
      "130427791037b830",
@@ -262,38 +261,35 @@
     ]
    },
    {
-    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、ビッグパンツなどの新作が注目を集めています。",
+    "text": "アルカキット錦糸町店がリニューアルし、ファミリー層向けに国内最大級のキッズおよびベビー売り場へ拡張されました。",
     "ids": [
-     "786266436a7ddcc1",
-     "e03d3d49a5f46f45",
-     "0b1f0dfd2ccaac73"
-    ]
-   },
-   {
-    "text": "ケンブリッジ大学関連ブランドやプロトン、ディズニーとF1など、多彩なコラボレーションによる限定コレクションやカスタムサービスが発表されました。",
-    "ids": [
-     "fe5ba3238df4861c",
-     "e3cc523909d92bc3",
-     "c4ce851fe9214a3e"
-    ]
-   },
-   {
-    "text": "アルカキット錦糸町店が国内最大級のキッズ＆ベビー売り場へリニューアルしたほか、女性管理職比率45.5%達成などの取り組みも伝えられています。",
-    "ids": [
-     "90ffb0bf7166f944",
      "b6e61bb18de77648"
     ]
    },
    {
-    "text": "SNSではGU タックワイドパンツがXで10件投稿されるなど話題を集めています。",
+    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、新作のビッグパンツなどが展開されています。",
+    "ids": [
+     "786266436a7ddcc1",
+     "e03d3d49a5f46f45"
+    ]
+   },
+   {
+    "text": "ファーストリテイリングの女性管理職比率45.5%達成の仕組みが紹介されたほか、株価は成長持続を背景に上昇しました。",
+    "ids": [
+     "90ffb0bf7166f944",
+     "610f2981b7a2d028"
+    ]
+   },
+   {
+    "text": "SNSではGU タックワイドパンツが急上昇し、Xで11件の投稿を集めて話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-27T02:22:57.214074+09:00",
-  "generated_at": "2026-09-30T02:23:06.900211+09:00",
+  "from": "2026-09-27T06:44:08.235581+09:00",
+  "generated_at": "2026-09-30T06:44:10.386814+09:00",
   "article_count": 24,
-  "sig": "4ec4cf661f7d"
+  "sig": "598f0912aa90"
  },
  "items": [
   {
@@ -309,6 +305,22 @@
    "summary_ja": "ファーストリテイリングの株価が成長が持続しているとの見方から1.65％上昇した。業績好調が投資家心理を支えており、今後の動向が注目される。",
    "category": "業績・経営",
    "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e36ddeeb65a807f3",
+   "url": "https://pokde.net/lifestyle/shopping/uniqlo-utme-proton-collection-malaysia",
+   "title_original": "UNIQLO Malaysia Unveils Exclusive UTme! PROTON Collection Celebrating 43 Years Of Malaysian Automotive History",
+   "source": "Pokde.Net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/29192109/utmeprotoncover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T11:21:30+00:00",
+   "title_ja": "マレーシアのユニクロが自動車メーカー「プロトン」記念のUTme!発表",
+   "summary_ja": "マレーシアのユニクロが、現地自動車メーカーであるプロトンの設立43周年を記念した限定「UTme!」コレクションを発表しました。マレーシアの自動車の歴史を祝う特別なデザインとして提供されます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
   },
@@ -358,7 +370,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2e1b777ec34ed6cf",
@@ -6678,22 +6690,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "604b415d474b9c26",
-   "url": "https://www.yorkshireeveningpost.co.uk/news/uniqlo-leeds-opening-delayed-8989002",
-   "title_original": "UNIQLO Leeds opening delayed as fashion chain releases statement",
-   "source": "Yorkshire Evening Post",
-   "image": "https://www.yorkshireeveningpost.co.uk/jpim-static/image/2026/09/08/13/38/20260908_101348.jpg?width=1200&auto=webp&quality=75&trim=191,0,192,0&crop=",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T15:17:21+00:00",
-   "title_ja": "ユニクロの英国リーズ店のオープンが延期、公式声明が発表される",
-   "summary_ja": "イギリスのリーズにオープン予定だったユニクロの新店舗の開業が延期されたことが、同ブランドが発表した公式声明により明らかになりました。オープンを心待ちにしていた現地のファンに向けて、今後のスケジュールなどの情報が発信されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
