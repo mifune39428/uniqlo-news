@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T20:45:07.803522+09:00",
+ "updated_at": "2026-09-30T02:12:13.944515+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -72,6 +72,7 @@
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
   "Lewistown - Sentinel",
+  "License Global",
   "LionhearTV",
   "Liverpool Echo",
   "Lmaga.jp",
@@ -193,7 +194,6 @@
   "uptodate.tokyo",
   "vietnam.vn",
   "vooks.net",
-  "webuomo.jp",
   "whatnow.com",
   "ww.fashionnetwork.com",
   "じゃかるた新聞",
@@ -249,53 +249,69 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 265,
+ "detail_count": 264,
  "digest": {
-  "headline": "ユニクロとGUの最新コレクションや国内外の出店戦略を総覧",
+  "headline": "ユニクロ国内外の出店拡大と26年秋冬コレクションが話題",
   "points": [
    {
-    "text": "ユニクロは米国で200店舗達成を目指し中央部への出店を進めるほか、英国ケンブリッジやバースへの新規出店など国内外で店舗網を拡大しています。",
+    "text": "ユニクロはイギリス・ケンブリッジでの新店舗オープンをはじめ、バースや米国中央部への出店など国内外で店舗網の拡大を進めています。",
     "ids": [
      "56ce12d5d5638521",
      "130427791037b830",
-     "d749ec8c6d659402"
+     "a1aa2444a8bb4533"
     ]
    },
    {
-    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、フランチェスコ・リッソ監修のGU新作も発表されました。",
+    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、ビッグパンツなどの新作が注目を集めています。",
     "ids": [
      "786266436a7ddcc1",
-     "27037bd502e51187",
-     "8fa734289d58eb9b"
+     "e03d3d49a5f46f45",
+     "0b1f0dfd2ccaac73"
     ]
    },
    {
-    "text": "プロトンやキュレーティング・ケンブリッジとのコラボアイテム、ディズニーとF1を組み合わせたUTコレクションの展開が発表されています。",
+    "text": "ケンブリッジ大学関連ブランドやプロトン、ディズニーとF1など、多彩なコラボレーションによる限定コレクションやカスタムサービスが発表されました。",
     "ids": [
      "fe5ba3238df4861c",
      "e3cc523909d92bc3",
-     "2e1b777ec34ed6cf"
+     "c4ce851fe9214a3e"
     ]
    },
    {
-    "text": "アルカキット錦糸町店が国内最大級のキッズ＆ベビー売り場へリニューアルするほか、女性管理職比率45.5%を達成した取り組みが紹介されました。",
+    "text": "アルカキット錦糸町店が国内最大級のキッズ＆ベビー売り場へリニューアルしたほか、女性管理職比率45.5%達成などの取り組みも伝えられています。",
     "ids": [
      "90ffb0bf7166f944",
      "b6e61bb18de77648"
     ]
    },
    {
-    "text": "SNSではユニクロのUNIQLO : C スウェットがXで14件投稿されています。",
+    "text": "SNSではGU タックワイドパンツがXで10件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-26T21:04:08.094939+09:00",
-  "generated_at": "2026-09-29T21:04:10.339279+09:00",
+  "from": "2026-09-27T02:22:57.214074+09:00",
+  "generated_at": "2026-09-30T02:23:06.900211+09:00",
   "article_count": 24,
-  "sig": "f947d05fe059"
+  "sig": "4ec4cf661f7d"
  },
  "items": [
+  {
+   "id": "610f2981b7a2d028",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-gains-1-65-percent-as-growth-holds/70198055",
+   "title_original": "Fast Retailing stock gains 1.65 percent as growth holds",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2404997_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T11:47:22+00:00",
+   "title_ja": "ファーストリテイリング株、成長持続で1.65％上昇",
+   "summary_ja": "ファーストリテイリングの株価が成長が持続しているとの見方から1.65％上昇した。業績好調が投資家心理を支えており、今後の動向が注目される。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b6e61bb18de77648",
    "url": "https://gekiryu-online.jp/2026/09/256197",
@@ -327,6 +343,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "97100c9aec681b6e",
+   "url": "https://www.licenseglobal.com/heritage/cambridge-and-uniqlo-launch-exclusive-collection-at-new-store",
+   "title_original": "Cambridge and Uniqlo Launch Exclusive Collection at New Store",
+   "source": "License Global",
+   "image": "https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt63f2540584ebe623/6abb79f5ae28a3d1cc3a2dd6/University_of_Cambridge-inspired_clothing_Curating_Cambridge_Uniqlo.jpg?disable=upscale&width=1200&height=630&fit=crop",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T08:38:06+00:00",
+   "title_ja": "ケンブリッジとユニクロ、限定コレクションを新店で発売",
+   "summary_ja": "ユニクロはケンブリッジと提携し、新規オープンした店舗で限定コレクションを発表した。両ブランドのデザインが融合したアイテムが注目されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "2e1b777ec34ed6cf",
@@ -374,7 +406,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "956bf69de4c19fc3",
@@ -390,7 +422,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1eb95aeb8fb1d647",
@@ -454,7 +486,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e03d3d49a5f46f45",
@@ -6662,38 +6694,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8dfd1c9da1e4ba8a",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-09-07-dVtopQ",
-   "title_original": "【大人のユニクロ】「ユニクロ ユー」は定番の大人ブラウンがやっぱりいい。セットアップのスーツが買い！【Uniqlo U 2026年秋冬最速試着】",
-   "source": "webuomo.jp",
-   "image": "https://img.webuomo.jp/article/sns/image/b4/b4234083-9a25-401c-aa5b-11c8f5143256-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-08T11:00:00+00:00",
-   "title_ja": "Uniqlo U 2026年秋冬コレクション最速試着、セットアップなどに注目",
-   "summary_ja": "ユニクロの人気ライン「Uniqlo U」2026年秋冬コレクションの最速試着レポート。定番であるブラウンカラーのセットアップスーツなど、大人におすすめのアイテムを紹介している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "286ada63b7509dc6",
-   "url": "https://news.yahoo.co.jp/articles/0b9fd68a75e31c467ed7098ab4ec8625ef069d30",
-   "title_original": "【ユニクロ】過去最高益見込みで秋冬商戦スタート。「Uniqlo U」ラストシーズンも焦点に、株価は高値から調整局面",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00010035-huffpost-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-08T09:02:35+00:00",
-   "title_ja": "ユニクロが過去最高益の見込みで秋冬商戦へ、「Uniqlo U」のラストシーズンも注目",
-   "summary_ja": "ユニクロが過去最高益を見込むなかで秋冬商戦を開始しました。人気コレクション「Uniqlo U」がラストシーズンを迎える点などが注目される一方、同社の株価は高値圏からの調整局面に入っています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
