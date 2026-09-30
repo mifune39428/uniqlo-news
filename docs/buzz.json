@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T02:19:29.056964+09:00",
+ "updated_at": "2026-10-01T06:47:12.677136+09:00",
  "criteria": {
   "title": "BuZZの判断基準",
   "points": [
@@ -53,15 +53,15 @@
    "top_reactions": 9165,
    "capped": false,
    "recent_posts": 17,
-   "recent_reactions": 3699,
+   "recent_reactions": 3705,
    "growth": 2.01,
-   "rising_score": 8121,
+   "rising_score": 8133,
    "is_rising": true,
    "covered_days": 14,
    "active_days": 12,
    "posts_per_day": 3.4,
    "reactions_per_day": 1727,
-   "steady_score": 25132,
+   "steady_score": 25138,
    "is_steady": true
   }
  ],
@@ -184,15 +184,15 @@
    "top_reactions": 9165,
    "capped": false,
    "recent_posts": 17,
-   "recent_reactions": 3699,
+   "recent_reactions": 3705,
    "growth": 2.01,
-   "rising_score": 8121,
+   "rising_score": 8133,
    "is_rising": true,
    "covered_days": 14,
    "active_days": 12,
    "posts_per_day": 3.4,
    "reactions_per_day": 1727,
-   "steady_score": 25132,
+   "steady_score": 25138,
    "is_steady": true
   },
   {
@@ -239,6 +239,49 @@
    "is_steady": true
   },
   {
+   "key": "ユニクロ:uniqlo:cベルト",
+   "brand": "ユニクロ",
+   "name": "UNIQLO : C ベルト",
+   "official_name": "",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "image": "",
+   "url": "",
+   "price": null,
+   "promo": null,
+   "search_url": "https://search.yahoo.co.jp/realtime/search?p=%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD+UNIQLO+%3A+C+%E3%83%99%E3%83%AB%E3%83%88&ei=UTF-8&md=h",
+   "daily": [
+    3,
+    4,
+    4,
+    4,
+    1,
+    3,
+    8,
+    61,
+    28,
+    21,
+    12,
+    8,
+    7,
+    0
+   ],
+   "top_reactions": 1156,
+   "capped": true,
+   "recent_posts": 15,
+   "recent_reactions": 39,
+   "growth": 0.37,
+   "rising_score": 170,
+   "is_rising": false,
+   "covered_days": 14,
+   "active_days": 13,
+   "posts_per_day": 11.7,
+   "reactions_per_day": 580,
+   "steady_score": 11403,
+   "is_steady": true
+  },
+  {
    "key": "GU:トップス",
    "brand": "GU",
    "name": "トップス",
@@ -263,20 +306,20 @@
     9,
     5,
     7,
-    0
+    2
    ],
    "top_reactions": 3693,
    "capped": true,
-   "recent_posts": 12,
-   "recent_reactions": 67,
-   "growth": 0.57,
-   "rising_score": 175,
+   "recent_posts": 14,
+   "recent_reactions": 68,
+   "growth": 0.67,
+   "rising_score": 232,
    "is_rising": false,
    "covered_days": 14,
-   "active_days": 13,
-   "posts_per_day": 6.4,
+   "active_days": 14,
+   "posts_per_day": 6.5,
    "reactions_per_day": 625,
-   "steady_score": 10534,
+   "steady_score": 10575,
    "is_steady": true
   },
   {

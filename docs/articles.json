@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T02:10:22.177233+09:00",
+ "updated_at": "2026-10-01T06:37:47.704194+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,6 +24,7 @@
   "All About ニュース",
   "Alvinology",
   "BAILA（バイラ）",
+  "Brands Untapped",
   "Brighton and Hove News",
   "British GQ",
   "British Vogue",
@@ -94,7 +95,6 @@
   "PR Newswire Canada",
   "PR TIMES",
   "Paris Select Book",
-  "Passionate In Marketing",
   "Patch",
   "Paul Tan's Automotive News",
   "Philstar.com",
@@ -135,6 +135,7 @@
   "Trend Hunter",
   "Trending on Weibo",
   "UOMO",
+  "Unisba Media",
   "Vietnam.vn",
   "Vogue Japan",
   "WWDJAPAN",
@@ -146,6 +147,7 @@
   "autobuzz.my",
   "baila.hpplus.jp",
   "basketballking.jp",
+  "downtownny.com",
   "fashionsnap.com",
   "fashionunited.jp",
   "fashionunited.uk",
@@ -172,7 +174,6 @@
   "retail-insider.com",
   "rikujyokyogi.co.jp",
   "sanyonews.jp",
-  "selecta bisso",
   "senken.co.jp",
   "smartmag.jp",
   "soyacincau.com",
@@ -244,53 +245,65 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 262,
+ "detail_count": 263,
  "digest": {
-  "headline": "ユニクロの国内外での新店舗展開やコラボ、スポーツ支援の動き",
+  "headline": "車いすバスケ提携や英米での出店推進、多様なコラボ商品が話題",
   "points": [
    {
-    "text": "ユニクロは日本車いすバスケットボール連盟とパートナーシップを締結し、代表チームへの新ユニフォーム提供を発表しました。",
+    "text": "ユニクロが日本車いすバスケットボール連盟とパートナーシップを締結し、新ユニフォームのデザインや供給を行います。",
     "ids": [
      "e620e258caa02df0",
-     "6179801adf555e13",
-     "dc21784e631d0a71"
+     "c3b110685d0f5f9e"
     ]
    },
    {
-    "text": "イギリスのケンブリッジへの新店舗オープンや、アメリカ中央部への出店による200店舗体制を目指す海外展開が進められています。",
+    "text": "イギリス・ケンブリッジでの新店舗開業や、米国で200店舗を目指す中央部進出など海外展開が進んでいます。",
     "ids": [
-     "97100c9aec681b6e",
-     "130427791037b830",
+     "56ce12d5d5638521",
      "a1aa2444a8bb4533"
     ]
    },
    {
-    "text": "プロトンやディズニー、F1、アーティストのアート作品などとのコラボレーションによる限定Tシャツやコレクションが発表されています。",
+    "text": "ファーストリテイリングは個を活かす仕組みにより、ユニクロの女性管理職比率45.5%を達成した戦略を紹介しました。",
+    "ids": [
+     "90ffb0bf7166f944"
+    ]
+   },
+   {
+    "text": "自動車メーカーのプロトンとのコラボや、ウォーホルらのアート作品を採用したTシャツなどが登場しています。",
     "ids": [
      "bd97c9b486de821a",
-     "02120dca05f441d0",
-     "3fe15887f636b8d6"
+     "02120dca05f441d0"
     ]
    },
    {
-    "text": "奈良県生駒市へのユニクロとGUの同時出店や、京都中心部への出店戦略などが話題となっています。",
-    "ids": [
-     "9f9be66da286c438",
-     "e902fa25f8378645"
-    ]
-   },
-   {
-    "text": "SNSでは、GU タックワイドパンツがXで3日に17件投稿され話題となっています。",
+    "text": "SNSでは「GU タックワイドパンツ」が話題で、Xで3日に17件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-28T02:19:29.059113+09:00",
-  "generated_at": "2026-10-01T02:19:33.252786+09:00",
+  "from": "2026-09-28T06:47:12.678841+09:00",
+  "generated_at": "2026-10-01T06:47:26.863831+09:00",
   "article_count": 24,
-  "sig": "70e6fd4f7592"
+  "sig": "be890fb542c6"
  },
  "items": [
+  {
+   "id": "b928ff774b6fdec9",
+   "url": "https://www.brandsuntapped.com/curating-cambridge-and-uniqlo-partner-for-university-of-cambridge-inspired-designs",
+   "title_original": "Curating Cambridge and UNIQLO partner for University of Cambridge-inspired designs",
+   "source": "Brands Untapped",
+   "image": "https://www.brandsuntapped.com/files/2026/09/cambridge.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T20:49:30+00:00",
+   "title_ja": "ユニクロがケンブリッジ大学のライセンス会社と提携しコラボ商品を展開",
+   "summary_ja": "ユニクロがキュレーティング・ケンブリッジとパートナーシップを締結しました。名門ケンブリッジ大学からインスピレーションを受けたデザインを取り入れた、新たなコラボレーション商品が提供されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b749075596b6c4d7",
    "url": "https://prtimes.jp/main/html/rd/p/000000132.000076595.html",
@@ -321,7 +334,23 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "d73b97ed1065b298",
+   "url": "https://downtownny.com/news/uniqlo-downtown-nyc-wtc",
+   "title_original": "It’s a Basics Wonderland at Uniqlo’s Massive New WTC Store",
+   "source": "downtownny.com",
+   "image": "https://downtownny.com/wp-content/uploads/2026/09/093026_uniqlo_2400x1600.jpg?v=1790784476",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T16:08:33+00:00",
+   "title_ja": "ユニクロがニューヨークのWTCに大規模な新店舗をオープン",
+   "summary_ja": "ユニクロがニューヨークのワールドトレードセンター（WTC）に大規模な新店舗をオープンしました。定番のベーシックアイテムが豊富に揃う、広大な売り場が特徴となっています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "6179801adf555e13",
@@ -338,6 +367,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "81c723ddd2a9d0cc",
+   "url": "https://media.unisba.ac.id/c1b17815/fed9460fGzQRIhRCFxkGIwU/?share=linkedin&nb=1",
+   "title_original": "【最後のコラボ？】ユニクロU 2026/27秋冬新作！！ Interim Air Force One (osOoFRTeGt)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T10:58:19+00:00",
+   "title_ja": "ユニクロUの2026/27年秋冬新作とコラボ継続に関する話題",
+   "summary_ja": "ユニクロの人気ライン「ユニクロU（Uniqlo U）」の2026/27年秋冬新作コレクションに関する話題です。今回が最後のコラボレーションになるのではないかという説が注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b07131cbdfaab69e",
@@ -401,7 +446,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0a602a9afffd3ed4",
@@ -497,6 +542,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c3b110685d0f5f9e",
+   "url": "https://news.yahoo.co.jp/articles/94586d7b842d1568f58d249e3b539380c579166e",
+   "title_original": "「ユニクロ」が車いすバスケ連盟とパートナーシップ 男子プロバスケ「Bリーグ」に続き（WWDJAPAN.com）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-02510584-wwdjapan-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T04:05:00+00:00",
+   "title_ja": "ユニクロが車いすバスケ連盟とパートナーシップ",
+   "summary_ja": "ユニクロが日本車いすバスケットボール連盟とのパートナーシップ締結を発表しました。男子プロバスケットボールのBリーグに続くスポーツ支援の動きとなります。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6625,70 +6686,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "3119c31a56341ccd",
-   "url": "https://selectabisso.com/en/Kaws-x-Uniqlo%3A-Kaws-Universe-Earth--Moon--and-Sun-join-Companion-in-a-new-collection",
-   "title_original": "KAWS x UNIQLO “KAWS UNIVERSE”: Earth, Moon and Sun join COMPANION in a new collection",
-   "source": "selecta bisso",
-   "image": "https://selectabisso.com/wp-content/uploads/2026/09/A2ACF377-1EBF-4406-923D-964E2F4DCDD9-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T09:01:36+00:00",
-   "title_ja": "ユニクロが「カウズ ユニバース」コレクションを発表",
-   "summary_ja": "ユニクロとKAWSによる新たなコラボレーション「KAWS UNIVERSE」の展開が明らかに。地球や月、太陽がコンパニオンに加わる。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "78310b961a91c77f",
-   "url": "https://hypebeast.com/jp/2026/9/uniqlo-ut-kaws-universe-collection-release-info",
-   "title_original": "UNIQLO UT x KAWS の最新コレクション KAWS UNIVERSE がローンチ",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F09%2F09%2Funiqlo-ut-kaws-universe-collection-release-info-ft.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T08:44:28+00:00",
-   "title_ja": "UNIQLO UTとKAWSの最新コラボ「KAWS UNIVERSE」が発売",
-   "summary_ja": "ユニクロの「UT」が、現代アーティストのKAWSとタッグを組んだ最新コレクション「KAWS UNIVERSE」をローンチ。人気のアートワークが施された特別なTシャツなどのアイテムが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bfea646fb1add7e0",
-   "url": "https://news.nicovideo.jp/watch/nw19754788?news_ref=watch_20_nw19715087",
-   "title_original": "KAWSの新たなキャラクターとCOMPANIONが描くつながり 「KAWS UNIVERSE」UTコレクション 2026年9月14日（月）発売",
-   "source": "news.nicovideo.jp",
-   "image": "https://news.cdn.nimg.jp/articles/images/19754788/e5f7fc30f56db3f857f21962a77c3281f8dd504464472f55f5fdea08d813a7b2eb05a7a6ec55434522c7dba9fbce0be787c8899004369eb0778c1ab36617969d",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T08:21:29+00:00",
-   "title_ja": "KAWSの新作UT「KAWS UNIVERSE」が9月14日に発売",
-   "summary_ja": "ユニクロは、アーティストのKAWSとコラボレーションした「KAWS UNIVERSE」UTコレクションを2026年9月14日に発売します。新たなキャラクターや代表的な「COMPANION」が描かれたデザインが特徴です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "f144f78be99bf4fb",
-   "url": "https://www.passionateinmarketing.com/kaws-universe-expands-in-new-ut-collection",
-   "title_original": "KAWS UNIVERSE Expands in new UT Collection",
-   "source": "Passionate In Marketing",
-   "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/09/KAWS-UNIVERSE-Expands-in-new-UT-Collection.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T07:52:10+00:00",
-   "title_ja": "ユニクロ「UT」からKAWSの新作コラボコレクションが登場",
-   "summary_ja": "ユニクロのTシャツブランド「UT」から、世界的なアーティストKAWSの世界観を表現した新しいコレクションが登場する。人気コラボレーションの拡大として関心を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
