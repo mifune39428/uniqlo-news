@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T20:31:27.333809+09:00",
+ "updated_at": "2026-10-01T02:10:22.177233+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -84,6 +84,7 @@
   "MonoMax web",
   "MorungExpress",
   "MySA",
+  "NDTV Profit",
   "Nagaland Post",
   "Nagaland Tribune",
   "New Statesman",
@@ -122,7 +123,6 @@
   "TRAICY（トライシー）",
   "TRILL",
   "The Argus",
-  "The Business of Fashion",
   "The Georgetowner",
   "The Manc",
   "The Sole Supplier",
@@ -143,6 +143,7 @@
   "Yahoo!ニュース",
   "YouTube",
   "asahi.com",
+  "autobuzz.my",
   "baila.hpplus.jp",
   "basketballking.jp",
   "fashionsnap.com",
@@ -211,7 +212,6 @@
   "マイナビ子育て",
   "マイライフニュース",
   "モデルプレス",
-  "ヨムーノ",
   "ラブすぽ",
   "レスポンス（Response.jp）",
   "中華IT最新事情",
@@ -246,44 +246,99 @@
  "count": 400,
  "detail_count": 262,
  "digest": {
-  "headline": "英米での海外店舗拡大や国内の女性活躍、GU話題商品など注目",
+  "headline": "ユニクロの国内外での新店舗展開やコラボ、スポーツ支援の動き",
   "points": [
    {
-    "text": "英ケンブリッジに新店がオープンし限定コレクションを発売したほか、米国では未開拓の中央部へ進出し200店舗体制を目指しています。",
+    "text": "ユニクロは日本車いすバスケットボール連盟とパートナーシップを締結し、代表チームへの新ユニフォーム提供を発表しました。",
+    "ids": [
+     "e620e258caa02df0",
+     "6179801adf555e13",
+     "dc21784e631d0a71"
+    ]
+   },
+   {
+    "text": "イギリスのケンブリッジへの新店舗オープンや、アメリカ中央部への出店による200店舗体制を目指す海外展開が進められています。",
     "ids": [
      "97100c9aec681b6e",
-     "eae7795fd3b4e32f",
+     "130427791037b830",
      "a1aa2444a8bb4533"
     ]
    },
    {
-    "text": "国内店舗数が減少する中、女性管理職比率45.5%を達成。また、日本車いすバスケットボール連盟とパートナーシップ契約を締結しました。",
+    "text": "プロトンやディズニー、F1、アーティストのアート作品などとのコラボレーションによる限定Tシャツやコレクションが発表されています。",
     "ids": [
-     "90ffb0bf7166f944",
-     "429bfbf9229616ff",
-     "b07131cbdfaab69e"
+     "bd97c9b486de821a",
+     "02120dca05f441d0",
+     "3fe15887f636b8d6"
     ]
    },
    {
-    "text": "ユニクロとGUが奈良県に新店舗を同時出店するほか、ディズニーやF1、自動車メーカーのプロトンとのコラボ商品が発表されています。",
+    "text": "奈良県生駒市へのユニクロとGUの同時出店や、京都中心部への出店戦略などが話題となっています。",
     "ids": [
      "9f9be66da286c438",
-     "3fe15887f636b8d6",
-     "fe5ba3238df4861c"
+     "e902fa25f8378645"
     ]
    },
    {
-    "text": "SNSでは「GU タックワイドパンツ」がXで3日に22件投稿され、話題となっています。",
+    "text": "SNSでは、GU タックワイドパンツがXで3日に17件投稿され話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-27T20:43:53.286450+09:00",
-  "generated_at": "2026-09-30T20:44:17.680922+09:00",
+  "from": "2026-09-28T02:19:29.059113+09:00",
+  "generated_at": "2026-10-01T02:19:33.252786+09:00",
   "article_count": 24,
-  "sig": "9d67175bacff"
+  "sig": "70e6fd4f7592"
  },
  "items": [
+  {
+   "id": "b749075596b6c4d7",
+   "url": "https://prtimes.jp/main/html/rd/p/000000132.000076595.html",
+   "title_original": "「UNIQLO UNIFORM」サイトに南海バスの制服リニューアルの事例が掲載されました",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/76595/132/76595-132-39bfeefe7ce94adfe259654841d89b6e-1661x908.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T16:45:26+00:00",
+   "title_ja": "ユニクロの制服紹介サイトに南海バスの事例が掲載",
+   "summary_ja": "企業の制服導入を紹介する「UNIQLO UNIFORM」サイトに、南海バスの制服リニューアル事例が新たに掲載されました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5a8b3a04fab20715",
+   "url": "https://www.ndtvprofit.com/lifestyle/how-brand-japan-is-getting-india-hooked-from-anime-to-uniqlo-12121780",
+   "title_original": "How Brand Japan Is Getting India Hooked, From Anime To Uniqlo",
+   "source": "NDTV Profit",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T16:34:41+00:00",
+   "title_ja": "アニメからユニクロまで、インドで浸透する日本ブランドの魅力",
+   "summary_ja": "インドにおいて、アニメなどのポップカルチャーからユニクロといったアパレルブランドに至るまで、日本発のブランドやコンテンツが現地の人々を魅了し、浸透が進んでいる様子を報じている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "6179801adf555e13",
+   "url": "https://news.yahoo.co.jp/articles/4fa82fd0d16e8c64b91935004bd72b30577a601f",
+   "title_original": "ユニクロが車いすバスケ日本代表のユニホームを提供 国枝慎吾氏「世界での躍動がすごく楽しみ」（サンケイスポーツ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00000244-sanspo-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T12:04:45+00:00",
+   "title_ja": "ユニクロが車いすバスケ日本代表にユニフォーム提供、国枝慎吾氏も期待を語る",
+   "summary_ja": "ユニクロが車いすバスケットボール日本代表へのユニフォーム提供を決定。これに対し、車いすテニス元日本代表の国枝慎吾氏が、選手たちの世界での活躍に向けて期待を寄せるコメントを発表した。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "b07131cbdfaab69e",
    "url": "https://prtimes.jp/main/html/rd/p/000000158.000068741.html",
@@ -314,7 +369,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9f9be66da286c438",
@@ -330,6 +385,22 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "e620e258caa02df0",
+   "url": "https://news.yahoo.co.jp/articles/6c9ec91287a154d41fdcc0b5b999510b0bc8037b/images/002",
+   "title_original": "ユニクロが日本車いすバスケットボール連盟とタッグ 新ユニフォームをデザイン (FASHIONSNAP)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgBw_udruPb71Cr9ZkO3J5D8FBkn_k6XVdrBR4EUmcskC0pc9QSeI8Hkv7G8FnECkFOubt3J53YJf5n-rZ8h0R80Mi5I99TZsD_5lNb4iUWxvnMVQm6Oexqr9t4q36vwlYA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T08:48:32+00:00",
+   "title_ja": "ユニクロ、日本車いすバスケットボール連盟と提携",
+   "summary_ja": "ユニクロが日本車いすバスケットボール連盟とのパートナーシップ締結を発表しました。新ユニフォームのデザインを手がけています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -362,7 +433,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a2aa92d4e6ed4d78",
@@ -394,7 +465,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d1326357015c7966",
@@ -410,7 +481,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e902fa25f8378645",
@@ -442,7 +513,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "81f629ac38cd3bfd",
@@ -699,6 +770,38 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "bd97c9b486de821a",
+   "url": "https://autobuzz.my/2026/09/29/proton-and-uniqlo-drop-a-collection-of-t-shirts-and-tote-bags-only-available-at-selected-outlets",
+   "title_original": "Proton and Uniqlo drop a collection of T-shirts and tote bags, only available at selected outlets",
+   "source": "autobuzz.my",
+   "image": "https://assets.autobuzz.my/wp-content/uploads/2026/09/29082605/2026-Proton-Uniqlo-Collection-5.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-29T00:29:46+00:00",
+   "title_ja": "プロトンとユニクロが限定Tシャツとバッグを発売",
+   "summary_ja": "自動車メーカーのプロトンとユニクロがコラボレーションし、オリジナルのTシャツとトートバッグのコレクションを発表しました。一部の限定店舗でのみ販売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "02120dca05f441d0",
+   "url": "https://www.trendhunter.com/trends/pop-art-ut",
+   "title_original": "Artist Graphic Tees: UNIQLO Brings Warhol, Haring, And Basquiat To Its Graphic T-Shirts",
+   "source": "Trend Hunter",
+   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/637/637806/637806_1_1200.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-28T23:05:42+00:00",
+   "title_ja": "ユニクロ、ウォーホルらのアートTシャツを展開",
+   "summary_ja": "ユニクロのグラフィックTシャツブランドにおいて、アンディ・ウォーホル、キース・ヘリング、バスキアのアート作品を採用した商品を展開。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "e03d3d49a5f46f45",
@@ -6586,102 +6689,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3af621f50a6ba932",
-   "url": "https://hypebeast.com/2026/9/uniqlo-ut-kaws-universe-collection-release-info",
-   "title_original": "UNIQLO and KAWS Launch \"KAWS UNIVERSE,\" a UT Collection Introducing New Characters and Debut Plush Charms",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F09%2FUNIQLO-UT-KAWS-UNIVERSE-Collection-Release-Info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T07:15:33+00:00",
-   "title_ja": "ユニクロがKAWSとのコラボUT「KAWS UNIVERSE」発売、キーチェーンも登場",
-   "summary_ja": "ユニクロがアーティストのKAWSとの新作UTコレクション「KAWS UNIVERSE」を発売します。今作では新しいキャラクターがデザインされたTシャツなどに加え、初登場となるぬいぐるみのチャーム（キーチェーン）なども展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "197aa94d914c543a",
-   "url": "https://news.nicovideo.jp/watch/nw19754262",
-   "title_original": "「Dialogues on the Future」未来への対話 11月開催",
-   "source": "news.nicovideo.jp",
-   "image": "https://news.cdn.nimg.jp/articles/images/19754262/6f351c72ba132dc0e801d85be0a823db67328472aa10222107d18c095c22ecbcd38557d94e5caac2ab59f804eee15f0cf8b48719c7b0abbd892e17952135d42b",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T06:15:25+00:00",
-   "title_ja": "未来への対話イベント「Dialogues on the Future」が11月開催",
-   "summary_ja": "未来への対話を目指すイベント「Dialogues on the Future」が11月に開催されることが決定しました。未来の社会や課題について議論を交わす場として、多様な参加者による活発な意見交換が期待されます。",
-   "category": "その他",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "48e48c79c098b1f2",
-   "url": "https://www.fashionsnap.com/article/2026-09-09/uniqlo-kaws-universe",
-   "title_original": "ユニクロ、KAWSの新キャラクターを用いたUTコレクションを発売",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/28d6c1af-72d3-41af-81d0-3f32383f791e.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T04:33:05+00:00",
-   "title_ja": "ユニクロがKAWSの新キャラクターを起用した新作UTを発売",
-   "summary_ja": "ユニクロがアーティストのKAWSと再びコラボレーションを行い、新キャラクターをデザインにあしらった新作「UT」コレクションを発売します。注目を集めるアーティストとの新たなラインナップとなります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "33bbaa86a1db6749",
-   "url": "https://www.businessoffashion.com/news/retail/theory-appoints-james-kelly-global-ceo",
-   "title_original": "Theory Appoints James Kelly Global CEO",
-   "source": "The Business of Fashion",
-   "image": "https://img.businessoffashion.com/resizer/v2/AZY3U2TJL5AHRLDCBRBSPLJXA4.jpg?smart=true&auth=00535eef9718195f38391a2b92c9d896f6434581d40c633012745d047f25641a&width=1200&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-09T04:24:00+00:00",
-   "title_ja": "セオリーがグローバルCEOにジェームズ・ケリー氏を任命",
-   "summary_ja": "ファーストリテイリング傘下のブランド「セオリー」が、新たなグローバルCEOとしてジェームズ・ケリー氏を任命したことが発表されました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1183fb47217a8503",
-   "url": "https://yomuno.jp/posts/142064",
-   "title_original": "期間限定で\"無料\"でもらえる!?【ユニクロ】リニューアルオープンでコラボ企画も続々スタート！9月25日に走らなきゃ！",
-   "source": "ヨムーノ",
-   "image": "https://image.yomuno.jp/store/article/142064/header_image/large-6103942d5443b9441edae51183067d69.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T03:47:28+00:00",
-   "title_ja": "ユニクロが9月25日にリニューアルオープン、限定プレゼントやコラボを実施",
-   "summary_ja": "ユニクロ店舗の9月25日のリニューアルオープンを知らせる記事です。オープンを記念し、期間限定で無料プレゼントがもらえる企画や様々なコラボレーション企画が順次実施されます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b24fcd64de962fb4",
-   "url": "https://news.yahoo.co.jp/articles/d2d9b628972c57dc02136253a62e84d5a420edb4",
-   "title_original": "ユニクロ「UT」× KAWSが新作コレクションを発売 新キャラクター追加で人と人とのつながりを描く",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-02492052-wwdjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T03:15:00+00:00",
-   "title_ja": "ユニクロ「UT」がKAWSと新作発売、新キャラでつながりを表現",
-   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」が、現代アーティストのKAWSとコラボした新作コレクションを発売します。新キャラクターが追加され、人と人とのつながりを表現したデザインを展開します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
