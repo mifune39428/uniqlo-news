@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T06:41:03.708345+09:00",
+ "updated_at": "2026-09-30T11:54:48.032082+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2950,
+ "catalog_size": 2946,
  "count": 53,
  "items": [
   {
@@ -323,13 +323,13 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465185/item/jpgoods_18_465185_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E465185-000/00?colorDisplayCode=18",
    "rating": 4.5,
-   "reviews": 14926,
-   "reviews7": 65,
+   "reviews": 14925,
+   "reviews7": 64,
    "capped": false,
    "prev7": null,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 66,
+   "score": 65,
    "momentum": 1.01,
    "new": false,
    "rising": false

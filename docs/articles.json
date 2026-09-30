@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T06:37:14.807923+09:00",
+ "updated_at": "2026-09-30T11:51:10.537949+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -27,7 +27,6 @@
   "British GQ",
   "British Vogue",
   "BusinessMirror",
-  "BusinessWorld - BusinessWorld Online",
   "BusinessWorld Online",
   "BuzzFeed",
   "CINEMA Life! シネマライフ",
@@ -215,9 +214,11 @@
   "ファッションプレス",
   "ファミ通",
   "マイナビニュース",
+  "マイナビ子育て",
   "マイライフニュース",
   "モデルプレス",
   "ヨムーノ",
+  "ラブすぽ",
   "レスポンス（Response.jp）",
   "中華IT最新事情",
   "北國新聞",
@@ -248,50 +249,101 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 264,
+ "detail_count": 265,
  "digest": {
-  "headline": "ユニクロ、国内最大級のキッズ売り場リニューアルや海外展開を加速",
+  "headline": "ユニクロ国内外の出店拡大や新コラボ続々、国内店舗展開の動向も注目",
   "points": [
    {
-    "text": "ユニクロはイギリスのケンブリッジやバースへの出店に加え、米国市場で中央部への出店を進めて200店舗達成を目指しています。",
+    "text": "ユニクロはイギリスのケンブリッジやバースへの出店に加え、米国市場でも200店舗達成を目指し中央部への進出を強化しています。",
     "ids": [
      "56ce12d5d5638521",
      "130427791037b830",
-     "a1aa2444a8bb4533"
+     "d749ec8c6d659402"
     ]
    },
    {
-    "text": "アルカキット錦糸町店がリニューアルし、ファミリー層向けに国内最大級のキッズおよびベビー売り場へ拡張されました。",
-    "ids": [
-     "b6e61bb18de77648"
-    ]
-   },
-   {
-    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、新作のビッグパンツなどが展開されています。",
+    "text": "クレア・ワイト・ケラーによる「Uniqlo : C」の2026年秋冬コレクションが発売され、ビッグパンツなどの新作が登場しています。",
     "ids": [
      "786266436a7ddcc1",
      "e03d3d49a5f46f45"
     ]
    },
    {
-    "text": "ファーストリテイリングの女性管理職比率45.5%達成の仕組みが紹介されたほか、株価は成長持続を背景に上昇しました。",
+    "text": "ケンブリッジ大学関連ブランドやプロトン、ディズニーとF1のコラボなど、国内外で新たなコレクションやカスタムサービスが発表されました。",
     "ids": [
-     "90ffb0bf7166f944",
-     "610f2981b7a2d028"
+     "e3cc523909d92bc3",
+     "956bf69de4c19fc3",
+     "c4ce851fe9214a3e"
     ]
    },
    {
-    "text": "SNSではGU タックワイドパンツが急上昇し、Xで11件の投稿を集めて話題となっています。",
+    "text": "国内ではアルカキット錦糸町店が国内最大級のキッズ＆ベビー売り場へリニューアルしたほか、10月16日にはミーナ津田沼もリニューアルします。",
+    "ids": [
+     "81f629ac38cd3bfd",
+     "b6e61bb18de77648",
+     "749c2f2001bb5c07"
+    ]
+   },
+   {
+    "text": "SNSではGUのタックワイドパンツが急上昇し、Xで3日に12件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-27T06:44:08.235581+09:00",
-  "generated_at": "2026-09-30T06:44:10.386814+09:00",
+  "from": "2026-09-27T11:58:17.365965+09:00",
+  "generated_at": "2026-09-30T11:58:19.518705+09:00",
   "article_count": 24,
-  "sig": "598f0912aa90"
+  "sig": "4e96f8d4d819"
  },
  "items": [
+  {
+   "id": "b07131cbdfaab69e",
+   "url": "https://prtimes.jp/main/html/rd/p/000000158.000068741.html",
+   "title_original": "日本車いすバスケットボール連盟とパートナーシップ契約を締結",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/158/68741-158-ce6d73e4caeef93fc7675db5aa2a4ab4-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T10:00:02+00:00",
+   "title_ja": "日本車いすバスケットボール連盟とオフィシャルパートナーシップ契約を締結",
+   "summary_ja": "日本車いすバスケットボール連盟との間でパートナーシップ契約が締結されました。パラスポーツの普及や支援に向けた取り組みの一環として、今後の協力関係やサポート活動の展開が期待されています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "81f629ac38cd3bfd",
+   "url": "https://kosodate.mynavi.jp/articles/46146",
+   "title_original": "キッズ＆ベビー服エリアが大充実！ ユニクロ「アルカキット錦糸町店」がリニューアルオープン",
+   "source": "マイナビ子育て",
+   "image": "https://kosodate.mynavi.jp/uploads/article/image/46146/DSC08243.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T02:17:00+00:00",
+   "title_ja": "ユニクロ「アルカキット錦糸町店」がリニューアルオープン　キッズ＆ベビー服エリアを拡充",
+   "summary_ja": "ユニクロのアルカキット錦糸町店がリニューアルオープンしました。今回の改装によりキッズやベビー服のコーナーが大きく拡充されており、子育て世代にとってより買い物がしやすい売場へと生まれ変わっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "749c2f2001bb5c07",
+   "url": "https://love-spo.com/article/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%80%81%E3%82%B8%E3%83%BC%E3%83%A6%E3%83%BC%E3%81%AF%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%83%9F%E3%83%BC%E3%83%8A%E6%B4%A5%E7%94%B0",
+   "title_original": "ユニクロ、ジーユーはパワーアップ！ミーナ津田沼は１０月１６日（金）リニューアルオープン！",
+   "source": "ラブすぽ",
+   "image": "https://love-spo.com/wp-content/uploads/2026/09/68550-63-df43b06bb5368a94ce92682a3a455649-3741x2296-1-scaled.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-29T23:00:00+00:00",
+   "title_ja": "ミーナ津田沼が10月16日にリニューアルしユニクロやGUがパワーアップ",
+   "summary_ja": "千葉県の商業施設であるミーナ津田沼が10月16日にリニューアルオープンします。これに伴い、施設内に入居するユニクロとジーユーもより魅力的な店舗へとパワーアップして営業を開始します。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "610f2981b7a2d028",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-gains-1-65-percent-as-growth-holds/70198055",
@@ -6639,54 +6691,6 @@
    "published": "2026-09-08T17:00:27+00:00",
    "title_ja": "ユニクロ「KAWS Universe」コレクションが9月14日発売へ",
    "summary_ja": "ユニクロは、新作の「KAWS Universe」コレクションを9月14日に発売します。TシャツなどのUTやぬいぐるみチャームなどが展開される予定で、手頃な価格設定となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e6812fdb99f8c783",
-   "url": "https://businessmirror.com.ph/2026/09/09/uniqlo-opens-stores-in-s-luzon-mindanao",
-   "title_original": "Uniqlo opens stores in S. Luzon, Mindanao",
-   "source": "BusinessMirror",
-   "image": "https://businessmirror.com.ph/wp-content/uploads/2024/07/BusinessMirror-KnowMore-2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T16:19:55+00:00",
-   "title_ja": "ユニクロ、南ルソンとミンダナオに新店舗をオープン",
-   "summary_ja": "ユニクロが南ルソンおよびミンダナオ地域に新たな店舗をオープンした。現地での事業拡大に向けた出店の動きとなる。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "686f0f92f804f8a6",
-   "url": "https://bworldonline.com/corporate/2026/09/09/775419/uniqlo-opens-more-stores-in-philippines",
-   "title_original": "Uniqlo opens more stores in Philippines",
-   "source": "BusinessWorld - BusinessWorld Online",
-   "image": "https://bworldonline.com/wp-content/uploads/2025/02/UQ-Sierra-Valley-RS.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-08T16:07:34+00:00",
-   "title_ja": "ユニクロ、フィリピン国内でさらに店舗を拡大",
-   "summary_ja": "ユニクロは、フィリピン国内において新規店舗を順次オープンし、事業基盤をさらに拡大しています。現地での顧客ニーズに応えるため、出店を強化する方針です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "79d126ea4dc47984",
-   "url": "https://uptodate.tokyo/uniqlo-x-kaws-universe",
-   "title_original": "UNIQLO x KAWS UNIVERSE が9月14日より順次発売",
-   "source": "uptodate.tokyo",
-   "image": "https://uptodate.tokyo/wp-content/uploads/2026/09/IMG_5001-768x1024.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-08T15:29:58+00:00",
-   "title_ja": "ユニクロとKAWSのコラボ「KAWS UNIVERSE」が9月14日より順次発売",
-   "summary_ja": "ユニクロと人気アーティストKAWSによるコラボレーションコレクション「KAWS UNIVERSE」が、2026年9月14日より順次発売されることが決定しました。注目の新作ラインナップが展開される予定です。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
