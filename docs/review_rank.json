@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T06:42:57.264868+09:00",
+ "updated_at": "2026-10-01T12:00:42.636220+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2941,
+ "catalog_size": 2943,
  "count": 55,
  "items": [
   {
@@ -182,39 +182,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E475344-000",
-   "rank": 7,
-   "brand": "ユニクロ",
-   "name": "ジャージーバレルレッグパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
-   "rating": 4.5,
-   "reviews": 5640,
-   "reviews7": 87,
-   "capped": false,
-   "prev7": null,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "ユニクロ『ジャージーバレルレッグパンツ』4990円 残暑から秋、コーデに迷う人の救世主アイテムだった！",
-     "s": "grapee.jp",
-     "u": "https://grapee.jp/2335652"
-    }
-   ],
-   "score": 95,
-   "momentum": 1.03,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E482281-000",
-   "rank": 8,
+   "rank": 7,
    "brand": "ユニクロ",
    "name": "EZYワイドストレートジーンズ",
    "genders": [
@@ -233,6 +202,31 @@
    "mention_titles": [],
    "score": 94,
    "momentum": 1.2,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E475344-000",
+   "rank": 8,
+   "brand": "ユニクロ",
+   "name": "ジャージーバレルレッグパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
+   "rating": 4.5,
+   "reviews": 5640,
+   "reviews7": 87,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 90,
+   "momentum": 1.03,
    "new": false,
    "rising": false
   },
