@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T21:00:01.029688+09:00",
+ "updated_at": "2026-10-02T03:11:06.040940+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -16,7 +16,6 @@
   "グループ"
  ],
  "sources": [
-  "7news.com.au",
   "@DIME アットダイム",
   "A1 Retail Magazine",
   "AD HOC NEWS",
@@ -77,10 +76,12 @@
   "Magzter",
   "Manchester Evening News",
   "Manchester Wire",
+  "Miami New Times",
   "Mindanao Times",
   "Modaes",
   "MokokchungTimes.com",
   "MonoMax web",
+  "Moomoo",
   "MorungExpress",
   "MySA",
   "NDTV Profit",
@@ -164,6 +165,7 @@
   "lee.hpplus.jp",
   "limo.media",
   "metromode.se",
+  "miamiherald.com",
   "news.livedoor.com",
   "news.nicovideo.jp",
   "newswav.com",
@@ -200,6 +202,7 @@
   "クランクイン！",
   "クーリエ・ジャポン",
   "サンスポ",
+  "スポーツブル",
   "スポーツ報知",
   "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
@@ -244,46 +247,84 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 261,
+ "detail_count": 258,
  "digest": {
-  "headline": "ユニクロの国内外の出店ラッシュと車いすバスケ連盟との提携",
+  "headline": "ユニクロが国内外で新店舗展開やスポーツ支援を加速",
   "points": [
    {
-    "text": "ユニクロは日本車いすバスケットボール連盟とパートナーシップを締結し、新ユニフォームの提供を通じて代表チームをサポートします。",
+    "text": "ユニクロは米マイアミやニューヨークのWTCに新店舗をオープンするほか、国内でも熊本のゆめタウン光の森店を増床リニューアルするなど店舗戦略を強化しています。",
     "ids": [
+     "b128f3a97950cde0",
+     "b8a6ce07e11d31b0",
+     "ce69e81ebc274804"
+    ]
+   },
+   {
+    "text": "日本車いすバスケットボール連盟とのオフィシャルパートナーシップ締結を発表し、代表チームへのユニフォーム提供を行うなど、スポーツ支援の動きを広げています。",
+    "ids": [
+     "7a9396f6ca79e880",
      "e620e258caa02df0",
-     "6179801adf555e13",
-     "dc21784e631d0a71"
+     "c6cb57232193089a"
     ]
    },
    {
-    "text": "国内では、熊本県のゆめタウン光の森店が10月9日に最大規模へリニューアルするほか、奈良県生駒市では10月23日にユニクロとGUが同時出店します。",
+    "text": "ケンブリッジ大学やプロトンとの限定コレクション発売のほか、ユニクロUの新作や人気コラボ商品の期間限定値下げを実施し、多様な商品を展開しています。",
     "ids": [
-     "3daae5dfbba5b6b5",
-     "7606d8b992c63a32",
-     "9f9be66da286c438"
+     "97100c9aec681b6e",
+     "bd97c9b486de821a",
+     "02120dca05f441d0"
     ]
    },
    {
-    "text": "海外では、イギリスのケンブリッジに25店舗目がオープンしたほか、ニューヨークのWTCにも大規模な新店舗が開業しました。",
+    "text": "ファーストリテイリングが展開する女性活躍戦略において、個を活かす独自の仕組みにより女性管理職比率45.5%を達成した取り組みが紹介されました。",
     "ids": [
-     "56ce12d5d5638521",
-     "d73b97ed1065b298",
-     "a2aa92d4e6ed4d78"
+     "90ffb0bf7166f944"
     ]
    },
    {
-    "text": "SNSでは「GU タックワイドパンツ」が急上昇し、Xで22件の投稿と4559件の反応を集めて話題になっています。",
+    "text": "SNSでは「GU ドレープネックT」が急上昇し、Xで3日に3件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-28T21:11:38.659049+09:00",
-  "generated_at": "2026-10-01T21:11:40.742660+09:00",
+  "from": "2026-09-29T03:19:39.434767+09:00",
+  "generated_at": "2026-10-02T03:19:42.232745+09:00",
   "article_count": 24,
-  "sig": "1d1737485d1e"
+  "sig": "14ccd970a632"
  },
  "items": [
+  {
+   "id": "ce69e81ebc274804",
+   "url": "https://www.miaminewtimes.com/arts-culture/uniqlo-announces-opening-dates-for-two-miami-stores-40588930",
+   "title_original": "We finally know when Uniqlo’s two new Miami stores are opening",
+   "source": "Miami New Times",
+   "image": "https://www.miaminewtimes.com/wp-content/uploads/sites/4/2026/10/Uniqlo-store-AdobeStockColleenMichaels.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T17:00:00+00:00",
+   "title_ja": "ユニクロ、米マイアミに新オープンする2店舗の開業時期が判明",
+   "summary_ja": "米国マイアミに新しくオープン予定であるユニクロの2店舗について、具体的な開業時期が明らかになりました。現地市場でのさらなるブランド展開に向けて注目が集まっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b128f3a97950cde0",
+   "url": "https://www.miamiherald.com/news/business/article317424957.html",
+   "title_original": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
+   "source": "miamiherald.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T12:00:00+00:00",
+   "title_ja": "ユニクロ、マイアミエリアに新たに2店舗をオープンへ",
+   "summary_ja": "米マイアミ地域にユニクロが新たに2店舗をオープンすることが明らかになりました。開店日や地域に焦点を当てた展開の詳細が注目されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "a2783448c6dd044f",
    "url": "https://news.shoninsha.co.jp/store/319871",
@@ -298,7 +339,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3daae5dfbba5b6b5",
@@ -314,6 +355,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "7a9396f6ca79e880",
+   "url": "https://sportsbull.jp/p/2429364",
+   "title_original": "車いすバスケ日本代表のユニホームをユニクロが提供…国枝慎吾氏「世界での躍動がすごく楽しみ、応援しています」",
+   "source": "スポーツブル",
+   "image": "https://img.sportsbull.jp/raw/2026100116410955dd0d.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-01T07:20:00+00:00",
+   "title_ja": "ユニクロ、車いすバスケ日本代表ユニホームを提供",
+   "summary_ja": "ユニクロが車いすバスケットボール日本代表のユニホームを提供することが発表されました。国枝慎吾氏も世界での躍動に期待を寄せています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -378,7 +435,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7606d8b992c63a32",
@@ -653,6 +710,22 @@
    "detail_tries": 2
   },
   {
+   "id": "3e1db9a431db7f86",
+   "url": "https://www.moomoo.com/news/post/1000433366/shareholding-change-report-9983-fast-retailing-24-39-23-39",
+   "title_original": "Shareholding Change Report Fast Retailing (24.39% → 23.39%) TTY Management, etc.",
+   "source": "Moomoo",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-09-30T07:06:00+00:00",
+   "title_ja": "ファーストリテイリングの株式保有割合に変更",
+   "summary_ja": "ファーストリテイリングに関する株式保有割合の変動レポート。TTYマネジメント等の保有比率が24.39%から23.39%へ変化した。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "3d53e856b4f70c28",
    "url": "https://news.allabout.co.jp/articles/o/130105/?page=2",
    "title_original": "「待ってたよおおおお」ユニクロの“伝説のブランケット”が再販でファン歓喜。先輩ママたちも絶賛の触り心地(2/2)",
@@ -811,6 +884,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "a0902b0c561cc7e7",
+   "url": "https://news.yahoo.co.jp/articles/dba40f131c9cb351d41131ec9951d774214b44f3/images/006",
+   "title_original": "【GU×rokh】新作を一足先に試着レビュー！「これ欲しい！」大人も着やすかったのは？ (＠BAILA)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgOHvkVJUViXjUScEStIpsvuNHSc-pP3IOBdTeqNdb_5vOuvO305BdHhyp06qCA18j2mNS94qZFSpmnN_hLvC8TTnkJgAyfA0hyNr5FtfXIfM",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-29T10:50:10+00:00",
+   "title_ja": "【GU×rokh】新作コラボアイテムを試着レビュー",
+   "summary_ja": "GUと「rokh（ロク）」による注目の新作コラボレーションアイテムを、大人の女性に向けて一足先に試着しレビューする。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "b6e61bb18de77648",
@@ -6603,86 +6692,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "e5c10256c654200d",
-   "url": "https://7news.com.au/7you/fashion/jw-anderson-launches-new-uniqlo-springsummer-2026-collection-heres-everything-the-7you-team-are-adding-to-cart-c-22844628",
-   "title_original": "JW Anderson launches new UNIQLO Spring/Summer 2026 collection. Here’s everything the 7You team are adding to cart",
-   "source": "7news.com.au",
-   "image": "https://images.7news.com.au/publication/C-22844628/84c5afb005729451690191e7079382ed81e9edb9-16x9-x0y0w1280h720.jpg?imwidth=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T01:20:44+00:00",
-   "title_ja": "ユニクロがJWアンダーソンとの2026年春夏コレクションを発表",
-   "summary_ja": "ユニクロはデザイナーのJWアンダーソンとコラボレーションした2026年春夏の新作コレクションを発表した。注目のアイテムやラインナップが公開され、早くも話題を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bf968faad925a24b",
-   "url": "https://news.yahoo.co.jp/articles/66ea342f28888832773401ecc3ce0752b49c9a89",
-   "title_original": "ユニクロ「極暖」商標登録できない？ 過去にワコール・グンゼが出願も拒絶…特許庁が“1社の独占”認めなかった理由【弁理士解説】",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00010001-bengojp-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T01:20:01+00:00",
-   "title_ja": "ユニクロ「極暖」が商標登録されない理由とは弁理士が解説",
-   "summary_ja": "ユニクロの「極暖」が商標登録できない背景について、特許庁が特定の1社による独占を認めない判断基準や、過去に他社が出願した際の拒絶事例を交えて弁理士が解説している。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "385c75e30fd1eda3",
-   "url": "https://www.sanyonews.jp/article/1929689?rct=oricon_news&kw=2024%3Cbr+%2F%3E++++++%3C%2Fa%3E%3C%2Fp%3E%3Cp%3E++++++%3Ca+href%3D",
-   "title_original": "【ユニクロ】梅雨の2大悩み「生乾き臭」「ベタつき」を科学的に解決！メンズ・ウィメンズで異なる「エアリズム」のこだわりも",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/b/f/2/d/bf2d25d078a36e828e2c1a9c82872484_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T01:07:14+00:00",
-   "title_ja": "ユニクロ「エアリズム」が梅雨の生乾き臭やベタつきを科学的に解決",
-   "summary_ja": "ユニクロの機能性インナー「エアリズム」は、メンズとウィメンズで異なるこだわりを持ち、梅雨時期の悩みである衣服の「生乾き臭」や「ベタつき」を科学的に解決します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "64c049feb08c8030",
-   "url": "https://baila.hpplus.jp/blogs/kamiya_erena/82995",
-   "title_original": "【9/11発売ユニクロユー2026年秋冬コレクション】これ買い！ニット編｜＠BAILA（バイラ）",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/fd/fd80d7f2-31ae-488c-a8e5-dba3278bd741-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T00:00:00+00:00",
-   "title_ja": "9月11日発売の「ユニクロ ユー」2026年秋冬コレクションから注目のニットを紹介",
-   "summary_ja": "BAILAによる記事。2026年9月11日に発売される「ユニクロ ユー」2026年秋冬コレクションの中から、買うべき注目のニットアイテムを中心にコレクションの魅力を解説している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f5945f6a006bcecf",
-   "url": "https://news.yahoo.co.jp/articles/b4435d9f470fa622d05763159673e5f24b40d764",
-   "title_original": "人気のダウンがリバーシブルに！ユニクロ2026年秋冬、定番アイテムがさらに進化（webマガジン mi-mollet）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00061051-mimollet-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-09T23:03:16+00:00",
-   "title_ja": "ユニクロの2026年秋冬コレクションで定番ダウンがリバーシブル仕様に",
-   "summary_ja": "ユニクロの2026年秋冬コレクションにおいて、人気を集める定番のダウンジャケットがリバーシブル仕様にリニューアルされ、使い勝手がさらに進化して登場する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
