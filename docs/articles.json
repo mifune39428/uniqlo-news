@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T01:59:13.734423+09:00",
+ "updated_at": "2026-10-03T06:32:57.281816+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -61,6 +61,7 @@
   "InsideHook",
   "Interaksyon",
   "JFA",
+  "JGA 日本ゴルフ協会",
   "Japan Web Magazine",
   "Kompas.com",
   "LIMO | くらしとお金の経済メディア",
@@ -148,7 +149,6 @@
   "fashionunited.jp",
   "fastretailing.com",
   "formula-web.jp",
-  "fuelcarmagazine",
   "gata21.jp",
   "glossy.co",
   "hype.my",
@@ -157,6 +157,7 @@
   "lasisa.net",
   "lee.hpplus.jp",
   "limo.media",
+  "marketscreener.com",
   "metromode.se",
   "miamiherald.com",
   "news.livedoor.com",
@@ -207,6 +208,7 @@
   "マイライフニュース",
   "モダンリビング デジタル",
   "モデルプレス",
+  "ヨムーノ",
   "ラブすぽ",
   "レスポンス（Response.jp）",
   "中華IT最新事情",
@@ -238,27 +240,27 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 251,
  "digest": {
-  "headline": "ユニクロ9月国内売上高が好調、国内外の出店やスポーツ支援も活発",
+  "headline": "ユニクロの9月既存店売上高は10.8％増、秋冬物が好調",
   "points": [
    {
-    "text": "ユニクロの9月国内既存店売上高は、気温の低下に伴う秋冬物の好調により前年同月比10.8％増から11％増を記録した。",
+    "text": "ユニクロの9月国内既存店売上高は前年同月比10.8％増を記録しました。気温の低下に伴い防寒着などの秋冬物が好調に推移しています。",
     "ids": [
      "c5629d48f8b59bed",
-     "ce1f5a6403b469a5",
-     "0186c5603ea1d53d"
+     "0186c5603ea1d53d",
+     "657c0943019d23e6"
     ]
    },
    {
-    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープンし、西日本初のUNIQLO COFFEEなどが導入される。",
+    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープン決定。西日本初のUNIQLO COFFEEや地元コラボTシャツも登場します。",
     "ids": [
      "de46df81f663f328",
      "62f7f8041411ce20"
     ]
    },
    {
-    "text": "国内での超大型店舗の拡大やマイアミ、韓国など海外での新規出店や店舗の拡張・リニューアルが積極的に進められている。",
+    "text": "ユニクロは年間売上1兆円を達成し都心に超大型店舗を拡大する方針を示すほか、マイアミエリアへの新規出店など国内外で店舗網を再編・拡大しています。",
     "ids": [
      "b128f3a97950cde0",
      "57b885beee8be105",
@@ -266,7 +268,7 @@
     ]
    },
    {
-    "text": "ユニクロは日本車いすバスケットボール連盟とのパートナーシップ締結および日本代表ユニホームの提供を発表した。",
+    "text": "日本車いすバスケットボール連盟とのパートナーシップを締結し、日本代表へユニホームを提供するなどスポーツ支援の動きも見せています。",
     "ids": [
      "7a9396f6ca79e880",
      "e620e258caa02df0",
@@ -274,17 +276,33 @@
     ]
    },
    {
-    "text": "SNSではユニクロ スマートワイドストレートパンツが話題となり、Xで3日に10件投稿された。",
+    "text": "ユニクロ スマートワイドストレートパンツがXで3日に10件投稿され話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-30T02:04:27.843288+09:00",
-  "generated_at": "2026-10-03T02:04:29.914725+09:00",
+  "from": "2026-09-30T06:39:23.699383+09:00",
+  "generated_at": "2026-10-03T06:39:25.702324+09:00",
   "article_count": 24,
-  "sig": "7a27b7753a6e"
+  "sig": "a77b6595cc0f"
  },
  "items": [
+  {
+   "id": "615f596524cf6f11",
+   "url": "https://news.yahoo.co.jp/articles/146c05437fe8512e05df1f1f5a9e9c82c0424105/images/000",
+   "title_original": "「もう普通のスーツは要らない」 ユニクロのセール中“ジャケット”が大人気 「非常に着やすくて3枚買った」「カジュアルにもフォーマルにも使える」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTFdKRSLdOU7PErxYUYxUBccDnT6dF0s6eSzgT7MZQ_ET0w5gzk-fPabYfdXbnutTIDVXg4-khavrckH524s6MT2eUx7ARH00FEqKcE8GbTihFk8GiIn0Rl7pkrJq2PNRA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T12:55:00+00:00",
+   "title_ja": "ユニクロでセール中のジャケットが人気、フォーマルにも使えて着やすいと好評",
+   "summary_ja": "ユニクロでセール対象となっているジャケットが、着やすさやカジュアル・フォーマルの両方で使える汎用性の高さから人気を集めています。複数枚をまとめて購入する愛用者もおり、日常使いからビジネスシーンまで幅広く活躍するアイテムとして評価されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "c5629d48f8b59bed",
    "url": "https://www.moomoo.com/ja/news/post/1000543453",
@@ -299,7 +317,23 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "2fc70f00ab6ce603",
+   "url": "https://www.jga.or.jp/news/national_team_news/2026_1002_1900",
+   "title_original": "第10回ユニクロ日本ジュニアゴルフカップ2026/8地区対抗戦 大会情報",
+   "source": "JGA 日本ゴルフ協会",
+   "image": "https://www.jga.or.jp/data/wp-content/uploads/2025/11/プレゼンテーション3-1200x432.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T11:39:26+00:00",
+   "title_ja": "第10回ユニクロ日本ジュニアゴルフカップ地区対抗戦の大会情報が公開",
+   "summary_ja": "日本ゴルフ協会から「第10回ユニクロ日本ジュニアゴルフカップ2026/8地区対抗戦」の大会情報が公開されました。ユニクロがサポートするジュニア世代向けのゴルフ大会に関する情報となっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "de46df81f663f328",
@@ -379,7 +413,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0547170835bc0d0a",
@@ -460,6 +494,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "34c6e6f075081756",
+   "url": "https://www.marketscreener.com/news/fast-retailing-uniqlo-store-openings-closings-information-of-japan-september-2026-ce785ddadc8ef32d",
+   "title_original": "Fast Retailing : UNIQLO Store Openings / Closings Information of Japan (September 2026)",
+   "source": "marketscreener.com",
+   "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T06:38:09+00:00",
+   "title_ja": "ユニクロ、2026年9月の国内店舗の出退店情報を発表",
+   "summary_ja": "ファーストリテイリングが運営するユニクロの、2026年9月における日本国内の店舗のオープンおよびクローズに関する情報が発表されました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "6a780f6df97183c1",
@@ -683,7 +733,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a2783448c6dd044f",
@@ -732,6 +782,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "924b8caff210ee62",
+   "url": "https://yomuno.jp/posts/142938",
+   "title_original": "500円からでいいの!?【ユニクロ】「アノ店舗でしかできない！」「秋の衣替えで見つけた穴・シミのある服に…」",
+   "source": "ヨムーノ",
+   "image": "https://image.yomuno.jp/store/article/142938/header_image/large-9d8722d42abae5527250429270aa0cb4.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-01T07:16:14+00:00",
+   "title_ja": "ユニクロの特定店舗で提供されている衣類の補修・刺繍サービス",
+   "summary_ja": "ユニクロの一部店舗で提供されている、衣類の穴やシミを補修・リメイクできるサービスを紹介しています。500円からの手頃な価格で利用可能で、お気に入りの服を長く大切に着続けるための便利な取り組みとして注目を集めています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "48a95570c1eda635",
@@ -6616,70 +6682,6 @@
    "published": "2026-09-11T01:35:00+00:00",
    "title_ja": "本日発売のユニクロUの4990円ワンピースに高い注目",
    "summary_ja": "本日発売となったユニクロUの4990円のワンピースは、上品なシルエットや高見えするデザインで発売前から注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "377aa05442efde3d",
-   "url": "https://www.ryutsuu.biz/sales/s091142.html",
-   "title_original": "カジュアル衣料4社／8月の既存店売上高はユニクロ1.3％減、しまむら5.3％増",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T01:05:54+00:00",
-   "title_ja": "カジュアル衣料大手4社の8月既存店売上高、ユニクロは1.3％減",
-   "summary_ja": "カジュアル衣料大手4社の8月既存店売上高が発表され、ユニクロは前年同月比1.3％減となった。同業のしまむらが5.3％増を記録した一方で、ユニクロは前年実績を下回る結果となった。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d290a0c5163da474",
-   "url": "https://fuelcarmagazine.com/?x=40397998051270",
-   "title_original": "Jw Anderson Uniqlo Red Puffer Uniqlo Jw Anderson Reversible Down Puffer Jacket Jackets, Puffer",
-   "source": "fuelcarmagazine",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T00:42:19+00:00",
-   "title_ja": "ユニクロとJWアンダーソンによるリバーシブルダウンジャケット",
-   "summary_ja": "ユニクロとJWアンダーソンのコラボレーション商品であるリバーシブル仕様のダウンパファージャケット。赤を基調としたデザインと高い防寒性を備えたアイテムとして注目されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "94d1ab10d03704d9",
-   "url": "https://www.gqjapan.jp/feature/20260911/uniqlou",
-   "title_original": "トレンドではなく、残る形を作る。「ユニクロ ユー」10年、さらにその先へ",
-   "source": "GQ Japan",
-   "image": "https://www.gqjapan.jp/uploads/media/2026/09/07/UNIQLO-U-TN.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T00:00:00+00:00",
-   "title_ja": "「ユニクロ ユー」が10周年、トレンドに左右されない服作りと今後の展望",
-   "summary_ja": "「ユニクロ ユー」が10周年を迎えました。トレンドに左右されずに長く着られる服作りへのこだわりや、これまでの歩み、そしてブランドが目指すこれからの未来に向けた展望について取り上げています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4be9db38841b2971",
-   "url": "https://news.yahoo.co.jp/articles/e3bd15d5cbaa45f9e27d15ac042a4bebe43dc6e2",
-   "title_original": "【今日から】「Uniqlo U（ユニクロ ユー）」新作発売 ダウンジャケット、モッズコート、コーテッドブルゾン…33アイテム（オトナンサー）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00392044-otonans-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T22:45:00+00:00",
-   "title_ja": "「Uniqlo U」の新作コレクションが発売開始 アウターなど33点登場",
-   "summary_ja": "ユニクロの人気ライン「Uniqlo U」から新作コレクションの販売が開始されました。ダウンジャケットやモッズコート、コーテッドブルゾンをはじめとする全33アイテムがラインナップされています。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
