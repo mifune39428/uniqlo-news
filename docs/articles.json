@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T03:11:06.040940+09:00",
+ "updated_at": "2026-10-02T11:59:53.594332+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -22,6 +22,7 @@
   "AMP[アンプ]",
   "All About ニュース",
   "BAILA（バイラ）",
+  "Bloomberg.com",
   "Brands Untapped",
   "Brighton and Hove News",
   "British GQ",
@@ -78,7 +79,6 @@
   "Manchester Wire",
   "Miami New Times",
   "Mindanao Times",
-  "Modaes",
   "MokokchungTimes.com",
   "MonoMax web",
   "Moomoo",
@@ -126,7 +126,6 @@
   "The Georgetowner",
   "The Manc",
   "The Sole Supplier",
-  "The Straits Times",
   "TheIndustry.fashion",
   "TheSmartLocal",
   "TipRanks",
@@ -141,6 +140,7 @@
   "WWDJAPAN",
   "Web eclat",
   "Wharf Life",
+  "Yahoo",
   "Yahoo!ニュース",
   "YouTube",
   "asahi.com",
@@ -159,7 +159,6 @@
   "glossy.co",
   "hype.my",
   "jimoharu.net",
-  "jp.fashionnetwork.com",
   "kabu-ir.com",
   "lasisa.net",
   "lee.hpplus.jp",
@@ -174,6 +173,7 @@
   "realsound.jp",
   "retail-insider.com",
   "rikujyokyogi.co.jp",
+  "ryutsuu.biz",
   "sanyonews.jp",
   "senken.co.jp",
   "smartmag.jp",
@@ -190,7 +190,6 @@
   "vietnam.vn",
   "vooks.net",
   "whatnow.com",
-  "ww.fashionnetwork.com",
   "じゃかるた新聞",
   "すみだ経済新聞",
   "ねとらぼ",
@@ -214,6 +213,7 @@
   "マイナビニュース",
   "マイナビ子育て",
   "マイライフニュース",
+  "モダンリビング デジタル",
   "モデルプレス",
   "ラブすぽ",
   "レスポンス（Response.jp）",
@@ -249,18 +249,32 @@
  "count": 400,
  "detail_count": 258,
  "digest": {
-  "headline": "ユニクロが国内外で新店舗展開やスポーツ支援を加速",
+  "headline": "ユニクロ京都オープン決定や国内外の出店、スポーツ支援の動き",
   "points": [
    {
-    "text": "ユニクロは米マイアミやニューヨークのWTCに新店舗をオープンするほか、国内でも熊本のゆめタウン光の森店を増床リニューアルするなど店舗戦略を強化しています。",
+    "text": "11月6日にオープンするグローバル旗艦店「ユニクロ 京都」に、西日本初のUNIQLO COFFEEや地元コラボTシャツが登場します。",
     "ids": [
-     "b128f3a97950cde0",
-     "b8a6ce07e11d31b0",
-     "ce69e81ebc274804"
+     "de46df81f663f328",
+     "62f7f8041411ce20"
     ]
    },
    {
-    "text": "日本車いすバスケットボール連盟とのオフィシャルパートナーシップ締結を発表し、代表チームへのユニフォーム提供を行うなど、スポーツ支援の動きを広げています。",
+    "text": "米マイアミエリアへの2店舗の新規オープンや、ニューヨークWTCへの大規模新店舗オープンなど、海外展開のニュースが相次いでいます。",
+    "ids": [
+     "b128f3a97950cde0",
+     "ce69e81ebc274804",
+     "d73b97ed1065b298"
+    ]
+   },
+   {
+    "text": "熊本県の「ゆめタウン光の森店」が10月9日にリニューアルされ、県内最大規模の店舗としてオープンします。",
+    "ids": [
+     "a2783448c6dd044f",
+     "7606d8b992c63a32"
+    ]
+   },
+   {
+    "text": "ユニクロは日本車いすバスケットボール連盟とパートナーシップを締結し、代表チームへユニフォームを提供することを発表しました。",
     "ids": [
      "7a9396f6ca79e880",
      "e620e258caa02df0",
@@ -268,31 +282,113 @@
     ]
    },
    {
-    "text": "ケンブリッジ大学やプロトンとの限定コレクション発売のほか、ユニクロUの新作や人気コラボ商品の期間限定値下げを実施し、多様な商品を展開しています。",
-    "ids": [
-     "97100c9aec681b6e",
-     "bd97c9b486de821a",
-     "02120dca05f441d0"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングが展開する女性活躍戦略において、個を活かす独自の仕組みにより女性管理職比率45.5%を達成した取り組みが紹介されました。",
-    "ids": [
-     "90ffb0bf7166f944"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ドレープネックT」が急上昇し、Xで3日に3件投稿されました。",
+    "text": "SNSではGU ドレープネックTがXで4件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-29T03:19:39.434767+09:00",
-  "generated_at": "2026-10-02T03:19:42.232745+09:00",
+  "from": "2026-09-29T12:05:40.255732+09:00",
+  "generated_at": "2026-10-02T12:05:43.385040+09:00",
   "article_count": 24,
-  "sig": "14ccd970a632"
+  "sig": "850f7662e3e4"
  },
  "items": [
+  {
+   "id": "de46df81f663f328",
+   "url": "https://prtimes.jp/main/html/rd/p/000000161.000068741.html",
+   "title_original": "グローバル旗艦店「ユニクロ 京都」 11月6日（金）オープン",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/161/68741-161-1f999231c191b780cf9975a1d61b1109-3107x2602.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T11:00:02+00:00",
+   "title_ja": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープン決定",
+   "summary_ja": "グローバル旗艦店となる「ユニクロ 京都」が、11月6日の金曜日にオープンすることが発表された。京都の新たな情報発信拠点として、地元に密着した店舗展開が期待される。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f7c58a2fa694135e",
+   "url": "https://news.laodong.vn/tien-te-dau-tu/tai-san-ti-phu-giau-nhat-nhat-ban-vuot-80-ti-usd-1776262.ldo",
+   "title_original": "Japan's richest billionaire's assets exceed 80 billion USD",
+   "source": "Laodong.vn",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T02:31:25+00:00",
+   "title_ja": "ユニクロ率いる日本一の大富豪の総資産額が800億ドルを突破",
+   "summary_ja": "ユニクロなどを傘下に持つ日本一の大富豪の総資産額が、800億ドルを超過したことが報じられました。ファーストリテイリングの業績や価値の高まりが示されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "62f7f8041411ce20",
+   "url": "https://www.ryutsuu.biz/store/s100275.html",
+   "title_original": "ユニクロ京都／西日本初登場の「UNIQLO COFFEE」導入、地元コラボTシャツも登場",
+   "source": "ryutsuu.biz",
+   "image": "https://www.ryutsuu.biz/main/images/2026/10/20261002uni-e1790907834552.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T02:27:22+00:00",
+   "title_ja": "「ユニクロ 京都」に西日本初の「UNIQLO COFFEE」導入、地元コラボTシャツも登場",
+   "summary_ja": "京都にオープンする店舗において、西日本初となる「UNIQLO COFFEE」が導入される。あわせて、地元の企業や文化とコラボレーションした限定デザインのTシャツも登場し、京都ならではの魅力的なコンテンツが展開される。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "65dc2198cd126454",
+   "url": "https://www.modernliving.jp/architecture-design/design/a73934804/kengo-kuma-uniqlo-202610",
+   "title_original": "建築家・隈研吾の原点は「服」だった？ユニクロのTシャツに花束を描いた理由",
+   "source": "モダンリビング デジタル",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/d4a9fda1-33ef-49c0-ba5f-6967fb8c3df4.jpg?crop=1.00xw:0.753xh;0,0.125xh&resize=1200:*",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T02:00:04+00:00",
+   "title_ja": "建築家・隈研吾氏がユニクロのTシャツに花束を描いた理由と「服」への原点",
+   "summary_ja": "建築家の隈研吾氏がユニクロのTシャツデザインを手がけ、そこに花束を描いた理由が明かされる。自身の創作活動における「服」という存在の原点や、デザインに込められた想いについて語られている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b25a86cef8c89f47",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-02/uniqlo-7-eleven-check-japan-s-consumer-health-asia-earnings-week-ahead",
+   "title_original": "Uniqlo, 7-Eleven Check Japan’s Consumer Health: Asia Earnings Week Ahead",
+   "source": "Bloomberg.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T01:26:00+00:00",
+   "title_ja": "ユニクロとセブン＆アイの決算から日本の消費動向を探る、アジア決算週の展望",
+   "summary_ja": "ブルームバーグの報道によると、来週予定されているユニクロ（ファーストリテイリング）やセブン＆アイの決算発表は、日本の個人消費の動向や健全性を測る重要な指標として注目されている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1ffff05fb7f5c8d0",
+   "url": "https://www.yahoo.com/news/videos/viral-store-uniqlo-coming-miami-191749361.html",
+   "title_original": "Viral store Uniqlo coming to Miami",
+   "source": "Yahoo",
+   "image": "https://s.yimg.com/lo/mysterio/api/cf27828b3931b42a76b4c32a9b467bacc8159802600a14dc78421cef500b04f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmiami_herald_videos_350%2Fa9556bed82e301fa537d85cbb8f73ce4.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-01T19:17:49+00:00",
+   "title_ja": "人気のユニクロがマイアミへ出店へ",
+   "summary_ja": "世界的に話題を集めているユニクロが、新たにマイアミへの店舗展開を予定していることが報じられています。今後の出店計画に注目が集まります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "ce69e81ebc274804",
    "url": "https://www.miaminewtimes.com/arts-culture/uniqlo-announces-opening-dates-for-two-miami-stores-40588930",
@@ -323,7 +419,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a2783448c6dd044f",
@@ -371,7 +467,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "48a95570c1eda635",
@@ -723,7 +819,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3d53e856b4f70c28",
@@ -899,7 +995,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b6e61bb18de77648",
@@ -6595,102 +6691,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "29cf057468544534",
-   "url": "https://www.straitstimes.com/life/style/uniqlo-u-drops-final-collection-by-christophe-lemaire-and-sarah-linh-tran",
-   "title_original": "Uniqlo U drops final collection by Christophe Lemaire and Sarah-Linh Tran",
-   "source": "The Straits Times",
-   "image": "https://cassette.sphdigital.com.sg/image/straitstimes/54c0847267ecfbbbce8f6707a5c8173c68fb9a74f01d2c6a14095243e48ce767",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T04:25:00+00:00",
-   "title_ja": "「Uniqlo U」ルメールとサラ＝リン・トランによる最終コレクションが登場",
-   "summary_ja": "クリストフ・ルメールとサラ＝リン・トランが手がける「Uniqlo U」のラストコレクションが発表されました。長年ラインを率いてきたデザイナーユニットによる最後のラインナップとして注目されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "cb6c0e9417d56dff",
-   "url": "https://ww.fashionnetwork.com/news/Theory-appoints-new-global-ceo,1865098.html",
-   "title_original": "Theory appoints new global CEO",
-   "source": "ww.fashionnetwork.com",
-   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1cd8/aa27/9430/3b80/6058/32fc/6815/c44e/b672/8f9f/8f9f.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T04:11:42+00:00",
-   "title_ja": "ファッションブランド「セオリー」が新グローバルCEOの人事を発表",
-   "summary_ja": "ファーストリテイリング傘下のファッションブランド「セオリー」が、新しいグローバル最高経営責任者（CEO）を任命しました。新たな経営トップのもとでブランドのグローバル展開を進めます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "2d249cab93fefa68",
-   "url": "https://jp.fashionnetwork.com/news/Theory-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%ABceo%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AB%E4%BB%BB%E5%91%BD,1865108.html",
-   "title_original": "Theory、グローバルCEOを新たに任命",
-   "source": "jp.fashionnetwork.com",
-   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/1cd8/aa27/9430/3b80/6058/32fc/6815/c44e/b672/8f9f/8f9f.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T04:11:42+00:00",
-   "title_ja": "ファーストリテイリング傘下のセオリーが新たなグローバルCEOを任命",
-   "summary_ja": "ファーストリテイリング傘下のファッションブランド「セオリー」が、新たなグローバルCEOを任命したことが発表されました。グローバル市場における今後の事業拡大と経営体制の強化を図ります。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8977a5d466d1e8a2",
-   "url": "https://www.modaes.com/global/look/uniqlo-celebrates-the-100th-anniversary-of-antonio-gaudi-with-a-new-collection",
-   "title_original": "Uniqlo Pays Tribute to Antoni Gaudí With Centennial Collection",
-   "source": "Modaes",
-   "image": "https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3ODg5NjY5MDJ9/files/2026/20-redaccion-look/uniqlo---1200.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T04:00:00+00:00",
-   "title_ja": "ユニクロが建築家アントニ・ガウディの100周年記念コレクションを発表",
-   "summary_ja": "ユニクロは、建築家アントニ・ガウディのオマージュとして100周年記念コレクションを発表しました。ガウディの独創的な建築デザインや芸術性から着想を得たアイテムを展開します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "5d344a0baa74ab52",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-09-09-TqQgYQ",
-   "title_original": "【大人のユニクロ】現代アーティスト「カウズ」とのコラボは何度目？ 「KAWS UNIVERSE」UTコレクションを全型紹介！【9月14日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/a3/a36b1841-6bdd-4667-9916-eea0784d2425-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T02:00:00+00:00",
-   "title_ja": "ユニクロが現代アーティスト「カウズ」とのコラボUTを9月14日に発売",
-   "summary_ja": "ユニクロは、世界的な現代アーティストである「カウズ」とコラボレーションした「KAWS UNIVERSE」UTコレクションを、9月14日に発売します。全型が紹介されており注目が集まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "10e956defd514745",
-   "url": "https://mainichi.jp/junior-tennis2026/tournament/u18w",
-   "title_original": "U18女子｜ユニクロ全日本ジュニアテニス2026",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/07/28/20260728hrc00m050003000q/0c10.jpg?1",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T01:32:11+00:00",
-   "title_ja": "「ユニクロ全日本ジュニアテニス2026」U18女子の試合が開催",
-   "summary_ja": "ユニクロが冠協賛するテニス大会「ユニクロ全日本ジュニアテニス2026」のU18女子部門に関するニュースです。若手選手の育成やスポーツ振興を目的とした本大会の動向が報じられています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
    "detail_tries": 2
   }
  ]
