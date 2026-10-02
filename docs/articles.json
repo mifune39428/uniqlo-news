@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T20:31:41.415507+09:00",
+ "updated_at": "2026-10-03T01:59:13.734423+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -62,7 +62,6 @@
   "Interaksyon",
   "JFA",
   "Japan Web Magazine",
-  "JustFreshKicks",
   "Kompas.com",
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
@@ -94,6 +93,7 @@
   "Patch",
   "Paul Tan's Automotive News",
   "Pokde.Net",
+  "Press Start Australia",
   "PressReader",
   "QAB 琉球朝日放送",
   "Ragtrader.com.au",
@@ -174,7 +174,6 @@
   "smartmag.jp",
   "soyacincau.com",
   "sportschosun.com",
-  "thecage.tokyo",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
   "tribecacitizen.com",
@@ -216,7 +215,6 @@
   "千葉テレビ放送株式会社",
   "号外NET 奈良市",
   "四季報オンライン",
-  "地域ニュースサイト号外NET",
   "地球の歩き方",
   "奈良新聞",
   "寝屋川つーしん",
@@ -240,51 +238,69 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 255,
+ "detail_count": 252,
  "digest": {
-  "headline": "ユニクロの9月売上が好調、京都や海外での新店情報も続々",
+  "headline": "ユニクロ9月国内売上高が好調、国内外の出店やスポーツ支援も活発",
   "points": [
    {
-    "text": "気温の変化により秋冬物の需要が高まり、9月の国内ユニクロ売上高は前年同月比11%増、既存店売上高は10.8%増を記録しました。",
+    "text": "ユニクロの9月国内既存店売上高は、気温の低下に伴う秋冬物の好調により前年同月比10.8％増から11％増を記録した。",
     "ids": [
+     "c5629d48f8b59bed",
      "ce1f5a6403b469a5",
      "0186c5603ea1d53d"
     ]
    },
    {
-    "text": "11月6日にグローバル旗艦店「ユニクロ 京都」がオープン決定し、西日本初となるUNIQLO COFFEEや地元コラボTシャツが展開されます。",
+    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープンし、西日本初のUNIQLO COFFEEなどが導入される。",
     "ids": [
      "de46df81f663f328",
      "62f7f8041411ce20"
     ]
    },
    {
-    "text": "ユニクロは米マイアミエリアへ新たに2店舗をオープンするほか、韓国での店舗拡大や熊本のゆめタウン光の森店の増床オープンなど国内外で出店を進めています。",
+    "text": "国内での超大型店舗の拡大やマイアミ、韓国など海外での新規出店や店舗の拡張・リニューアルが積極的に進められている。",
     "ids": [
      "b128f3a97950cde0",
-     "56d491ee9ee7d3b6",
-     "a2783448c6dd044f"
+     "57b885beee8be105",
+     "56d491ee9ee7d3b6"
     ]
    },
    {
-    "text": "日本車いすバスケットボール連盟とのパートナーシップ締結を発表し、代表チームへのユニホーム提供を行うなどスポーツ支援の動きも見せています。",
+    "text": "ユニクロは日本車いすバスケットボール連盟とのパートナーシップ締結および日本代表ユニホームの提供を発表した。",
     "ids": [
      "7a9396f6ca79e880",
-     "e620e258caa02df0"
+     "e620e258caa02df0",
+     "c3b110685d0f5f9e"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ スマートワイドストレートパンツ」が注目を集め、Xで8件投稿されています。",
+    "text": "SNSではユニクロ スマートワイドストレートパンツが話題となり、Xで3日に10件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-29T20:42:51.985440+09:00",
-  "generated_at": "2026-10-02T20:42:54.049288+09:00",
+  "from": "2026-09-30T02:04:27.843288+09:00",
+  "generated_at": "2026-10-03T02:04:29.914725+09:00",
   "article_count": 24,
-  "sig": "676866949c4e"
+  "sig": "7a27b7753a6e"
  },
  "items": [
+  {
+   "id": "c5629d48f8b59bed",
+   "url": "https://www.moomoo.com/ja/news/post/1000543453",
+   "title_original": "採れたて株価材料 ファストリ 9月度の国内ユニクロ既存店売上高10.8％増",
+   "source": "Moomoo",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T12:08:00+00:00",
+   "title_ja": "ファーストリテイリング、9月度の国内ユニクロ既存店売上高が10.8％増",
+   "summary_ja": "ファーストリテイリングの9月度国内ユニクロ事業における既存店売上高が、前年同月比で10.8％増加したことが分かりました。主力の国内ユニクロ事業が好調な推移を示しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "de46df81f663f328",
    "url": "https://prtimes.jp/main/html/rd/p/000000161.000068741.html",
@@ -345,6 +361,22 @@
    "title_ja": "ファーストリテイリングが2026年9月度の国内ユニクロ出退店情報を更新",
    "summary_ja": "ファーストリテイリングは、2026年9月度における国内ユニクロ店舗の出退店情報を発表しました。同社は定期的な店舗網の開拓や見直しを進めており、最新の店舗数の動向が開示されています。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "8321390005e4c0e5",
+   "url": "https://press-start.com.au/news/nintendo/2026/10/02/uniqlos-30th-anniversary-pokemon-range-is-coming-to-australia-next-week",
+   "title_original": "Uniqlo’s 30th Anniversary Pokemon Range Is Coming To Australia Next Week",
+   "source": "Press Start Australia",
+   "image": "https://press-start.com.au/wp-content/uploads/2026/10/Pokemon-Uniqlooo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T08:36:34+00:00",
+   "title_ja": "ユニクロの「ポケモン」30周年記念コレクションが来週オーストラリアで発売へ",
+   "summary_ja": "ユニクロの「ポケモン」30周年記念コレクションが、来週オーストラリアで発売されます。人気キャラクターとのコラボレーションアイテムが現地でも展開される予定で、ファンの間で期待が高まっています。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -411,7 +443,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "657c0943019d23e6",
@@ -427,7 +459,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6a780f6df97183c1",
@@ -459,7 +491,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0726d73e51ed9797",
@@ -475,7 +507,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9978f4ffd511e072",
@@ -491,7 +523,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0186c5603ea1d53d",
@@ -507,7 +539,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f7c58a2fa694135e",
@@ -590,6 +622,22 @@
    "detail_tries": 2
   },
   {
+   "id": "f326324dce6752b0",
+   "url": "https://www.vietnam.vn/ja/pho-chu-tich-ubnd-tinh-cao-van-cuong-lam-viec-voi-uniqlo-viet-nam",
+   "title_original": "省人民委員会副委員長のカオ・ヴァン・クオン氏がユニクロ・ベトナムと協力関係にある。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790931023155_b4639265501398422073.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-01T17:00:00+00:00",
+   "title_ja": "ユニクロ・ベトナム、省人民委員会カオ・ヴァン・クオン副委員長と協力関係を構築",
+   "summary_ja": "ベトナムの省人民委員会で副委員長を務めるカオ・ヴァン・クオン氏が、ユニクロ・ベトナムと協力関係にあることが分かりました。自治体関係者との連携を示す動きとなっています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "ce69e81ebc274804",
    "url": "https://www.miaminewtimes.com/arts-culture/uniqlo-announces-opening-dates-for-two-miami-stores-40588930",
    "title_original": "We finally know when Uniqlo’s two new Miami stores are opening",
@@ -620,6 +668,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "57b885beee8be105",
+   "url": "https://news.livedoor.com/article/detail/32457198",
+   "title_original": "「アパレル初の1兆円」ユニクロが都心に「超巨大店舗」を増やすワケ",
+   "source": "news.livedoor.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-01T11:24:19+00:00",
+   "title_ja": "ユニクロ、1兆円突破で都心に超大型店舗を拡大",
+   "summary_ja": "ユニクロはアパレル業界初の年間売上1兆円を達成し、都心に超大型店舗を次々と出店する方針を発表した。大規模店で幅広い商品をワンストップで提供する狙いだ。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "a2783448c6dd044f",
@@ -3922,7 +3986,7 @@
    "url": "https://www.qab.co.jp/quebee/video/000534355",
    "title_original": "「コンビニの父」セブン鈴木敏文氏お別れの会 ユニクロ柳井氏「先生以上の存在」｜Quebee キュエビー",
    "source": "QAB 琉球朝日放送",
-   "image": "",
+   "image": "https://www.qab.co.jp/quebee/wp-content/uploads/default-ogp.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-09-18T07:36:42+00:00",
@@ -6616,70 +6680,6 @@
    "published": "2026-09-10T22:45:00+00:00",
    "title_ja": "「Uniqlo U」の新作コレクションが発売開始 アウターなど33点登場",
    "summary_ja": "ユニクロの人気ライン「Uniqlo U」から新作コレクションの販売が開始されました。ダウンジャケットやモッズコート、コーテッドブルゾンをはじめとする全33アイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e302b5e7173f5589",
-   "url": "https://thecage.tokyo/archives/19969",
-   "title_original": "ユニクロ×KAWS、新作「KAWS UNIVERSE」発売！地球・太陽・月から生まれた新キャラクターが登場",
-   "source": "thecage.tokyo",
-   "image": "https://thecage.tokyo/wp-content/uploads/2026/09/uniqlo-kaws-universe-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T22:00:35+00:00",
-   "title_ja": "ユニクロとKAWSの新作「KAWS UNIVERSE」が発売",
-   "summary_ja": "ユニクロがグラフィックデザイナーのKAWSとコラボした新作「KAWS UNIVERSE」を発売します。地球や太陽、月などをイメージした新しいキャラクターがプリントされたアイテムを展開します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7a819d111281b871",
-   "url": "https://neyagawa.goguynet.jp/2026/09/11/plst_uniqlo_nawate_aeon",
-   "title_original": "【寝屋川市】9月18日(金)、イオンモール四條畷1階「ユニクロ」リニューアルオープンで超大型店へ！ 店内にはグループブランド「PLST(プラステ)」も同時オープン",
-   "source": "地域ニュースサイト号外NET",
-   "image": "https://neyagawa.goguynet.jp/wp-content/uploads/sites/35/2026/09/yunikuro.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T21:21:27+00:00",
-   "title_ja": "イオンモール四條畷のユニクロが9月18日にリニューアルし超大型店へ",
-   "summary_ja": "イオンモール四條畷1階にあるユニクロが、9月18日に超大型店としてリニューアルオープンします。店舗内には、ファーストリテイリングのグループブランド「PLST」も同時に出店します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4d25b50f2d3ba7e1",
-   "url": "https://diamond.jp/articles/-/399049",
-   "title_original": "柳井正の人生を好転させた「たった一行」、「仕事ができる人」と「できない人」の決定的な違いとは",
-   "source": "ダイヤモンド・オンライン",
-   "image": "https://dol.ismcdn.jp/mwimgs/e/0/-/img_e0a189f7a8672fadb46decd372715d5e260231.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-10T21:00:00+00:00",
-   "title_ja": "ファーストリテイリング柳井正氏の人生を好転させた言葉と仕事術",
-   "summary_ja": "ファーストリテイリングの柳井正氏の人生を好転させた言葉や、仕事ができる人とできない人の決定的な違いについて迫る記事。柳井氏のこれまでの歩みや、ビジネスにおける考え方が紹介されている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "01b696cefb568b3c",
-   "url": "https://justfreshkicks.com/uniqlo-kaws-universe-ut-collection",
-   "title_original": "UNIQLO x KAWS Universe UT Collection Releases September 14th",
-   "source": "JustFreshKicks",
-   "image": "https://justfreshkicks.com/wp-content/uploads/2026/09/UNIQLO-x-KAWS-Universe-UT-Collection.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-10T19:26:34+00:00",
-   "title_ja": "ユニクロがKAWSとのコラボ「KAWS Universe UT」を9月14日に発売",
-   "summary_ja": "ユニクロが、現代アーティストのKAWSとコラボレーションした新たなUTコレクション「KAWS Universe UT」を、9月14日に発売することが明らかになりました。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
