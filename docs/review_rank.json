@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T00:25:45.247120+09:00",
+ "updated_at": "2026-10-04T05:21:04.965046+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2927,
+ "catalog_size": 2924,
  "count": 53,
  "items": [
   {

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T00:28:36.911908+09:00",
+ "updated_at": "2026-10-04T05:23:59.116608+09:00",
  "criteria": {
   "title": "BuZZの判断基準",
   "points": [
@@ -136,21 +136,21 @@
     5,
     5,
     1,
-    4,
+    5,
     1
    ],
    "top_reactions": 19093,
    "capped": true,
-   "recent_posts": 6,
+   "recent_posts": 7,
    "recent_reactions": 0,
-   "growth": 0.36,
-   "rising_score": 60,
+   "growth": 0.42,
+   "rising_score": 70,
    "is_rising": false,
    "covered_days": 14,
    "active_days": 14,
-   "posts_per_day": 4.8,
-   "reactions_per_day": 2034,
-   "steady_score": 29815,
+   "posts_per_day": 4.9,
+   "reactions_per_day": 2037,
+   "steady_score": 29879,
    "is_steady": true
   },
   {
@@ -226,15 +226,15 @@
    "top_reactions": 3693,
    "capped": true,
    "recent_posts": 24,
-   "recent_reactions": 2203,
+   "recent_reactions": 2556,
    "growth": 1.14,
-   "rising_score": 3066,
+   "rising_score": 3470,
    "is_rising": false,
    "covered_days": 14,
    "active_days": 13,
    "posts_per_day": 7.2,
-   "reactions_per_day": 783,
-   "steady_score": 12985,
+   "reactions_per_day": 808,
+   "steady_score": 13338,
    "is_steady": true
   },
   {
@@ -264,20 +264,20 @@
     2,
     4,
     3,
-    0
+    1
    ],
    "top_reactions": 15,
    "capped": false,
-   "recent_posts": 7,
-   "recent_reactions": 21,
-   "growth": 0.78,
-   "rising_score": 125,
+   "recent_posts": 8,
+   "recent_reactions": 22,
+   "growth": 0.89,
+   "rising_score": 162,
    "is_rising": false,
    "covered_days": 14,
-   "active_days": 13,
+   "active_days": 14,
    "posts_per_day": 2.9,
    "reactions_per_day": 835,
-   "steady_score": 12495,
+   "steady_score": 12516,
    "is_steady": true
   },
   {

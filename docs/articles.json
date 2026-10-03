@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T00:22:32.753305+09:00",
+ "updated_at": "2026-10-04T05:18:53.407880+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -155,6 +155,7 @@
   "gata21.jp",
   "hype.my",
   "jimoharu.net",
+  "jp.ajunews.com",
   "kabu-ir.com",
   "lasisa.net",
   "lee.hpplus.jp",
@@ -188,7 +189,6 @@
   "vooks.net",
   "whatnow.com",
   "すみだ経済新聞",
-  "ねとらぼ",
   "ふくおかナビ",
   "まいどなニュース",
   "イザ！",
@@ -246,7 +246,7 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 249,
+ "detail_count": 248,
  "digest": {
   "headline": "ユニクロ9月国内売上高は前年同月比11%増、国内外で店舗拡大へ",
   "points": [
@@ -677,6 +677,22 @@
    "detail_tries": 2
   },
   {
+   "id": "6b86abb117352ee4",
+   "url": "https://m.jp.ajunews.com/view/20261002144870092",
+   "title_original": "ユニクロ、現代百貨店目黒店を17年ぶりにリニューアルオープン",
+   "source": "jp.ajunews.com",
+   "image": "https://image.ajunews.com/content/image/2026/10/02/20261002144556361957.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T05:48:00+00:00",
+   "title_ja": "ユニクロが現代百貨店目黒店を17年ぶりにリニューアルオープン",
+   "summary_ja": "ユニクロが、現代百貨店目黒店を17年ぶりにリニューアルオープンしました。長きにわたり営業を続けてきた同店舗の内装などを刷新し、装いも新たに営業を再開しています。現地での新たな展開が期待されます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "0726d73e51ed9797",
    "url": "https://news.yahoo.co.jp/articles/a60d7bd661b0cfff0796265deedce973f659ff3b",
    "title_original": "ユニクロのスマートパンツのCMに出演している女性は？（CDJournal）",
@@ -786,7 +802,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b25a86cef8c89f47",
@@ -6675,22 +6691,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "233d9aa724e5f1d3",
-   "url": "https://nlab.itmedia.co.jp/research/articles/4011271",
-   "title_original": "「色違いで3色買いました」 ユニクロの“秋カーディガン”が3990円→2990円に 「柔らかさに驚き」「洗濯乾燥機でもきれい」「ボタンを開けても閉めても着れる」 | ウェア ねとらぼリサーチ",
-   "source": "ねとらぼ",
-   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748412916_ae893cf31188d906210e595c4055854f.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T05:30:00+00:00",
-   "title_ja": "ユニクロの秋カーディガンが3990円から2990円に値下げ、着回しやすさで話題",
-   "summary_ja": "ユニクロの秋カーディガンが、3,990円から2,990円に値下げして販売されています。生地の柔らかさや洗濯乾燥機での手入れのしやすさ、着回し力の高さなどから購入者から高く評価されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
