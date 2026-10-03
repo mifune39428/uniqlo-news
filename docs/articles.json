@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T11:45:57.078864+09:00",
+ "updated_at": "2026-10-03T19:46:26.125278+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -140,6 +140,7 @@
   "Yahoo",
   "Yahoo!ニュース",
   "YouTube",
+  "ad-hoc-news.de",
   "asahi.com",
   "autobuzz.my",
   "baila.hpplus.jp",
@@ -151,7 +152,6 @@
   "fastretailing.com",
   "formula-web.jp",
   "gata21.jp",
-  "glossy.co",
   "hype.my",
   "jimoharu.net",
   "kabu-ir.com",
@@ -195,7 +195,9 @@
   "オリコンニュース",
   "クランクイン！",
   "クーリエ・ジャポン",
+  "コラボカフェ",
   "サンスポ",
+  "ジモはる",
   "スポーツブル",
   "スポーツ報知",
   "ダイヤモンド・オンライン",
@@ -245,52 +247,97 @@
  "count": 400,
  "detail_count": 249,
  "digest": {
-  "headline": "9月の国内ユニクロ売上高が大幅増、国内外で店舗拡大も進行",
+  "headline": "9月売上好調のユニクロ、国内外で店舗拡大や代表ユニ提供も",
   "points": [
    {
-    "text": "ユニクロの9月度の国内既存店売上高は、気温低下による秋冬物商品の好調を受け、前年同月比10.8％増から11％増を記録した。",
+    "text": "気温の変化で秋冬物が好調となり、9月の国内ユニクロ既存店売上高は前年同月比10.8％増を記録しました。",
     "ids": [
      "c5629d48f8b59bed",
-     "ce1f5a6403b469a5",
-     "0186c5603ea1d53d"
+     "0186c5603ea1d53d",
+     "ce1f5a6403b469a5"
     ]
    },
    {
-    "text": "年間売上1兆円を達成したユニクロは、都心部への超大型・超巨大店舗の出店や拡大方針を打ち出しているほか、11月6日には「ユニクロ 京都」がオープンする。",
+    "text": "京都へのグローバル旗艦店出店や都心での超大型店拡大、韓国やマイアミなど国内外での積極的な出店を進めています。",
     "ids": [
      "de46df81f663f328",
      "57b885beee8be105",
-     "b8a6ce07e11d31b0"
+     "1382c625a4c6d575"
     ]
    },
    {
-    "text": "海外では、米マイアミおよびフロリダ州南部への新規出店に加え、韓国での木洞店の増床再オープンや義王市への初出店など店舗網の拡大を進めている。",
+    "text": "10月16日に刷新する商業施設ミーナ津田沼では、ユニクロとジーユーが駅直結階へ配置されることが発表されました。",
     "ids": [
-     "b128f3a97950cde0",
-     "1382c625a4c6d575",
-     "91ba1b51c9f5c04c"
+     "ea02172c1e9925cf"
     ]
    },
    {
-    "text": "ユニクロは日本車いすバスケットボール連盟とのパートナーシップ締結を発表し、日本代表へユニホームを提供するなどスポーツ支援の動きを見せている。",
+    "text": "ユニクロは車いすバスケットボール日本代表とパートナー契約を締結し、新しいユニフォームの提供を発表しました。",
     "ids": [
      "7a9396f6ca79e880",
-     "e620e258caa02df0",
-     "c3b110685d0f5f9e"
+     "b271b6d6ddd64b89"
     ]
    },
    {
-    "text": "SNSではユニクロ スマートワイドストレートパンツが話題となり、Xで3日に11件投稿された。",
+    "text": "SNSでは「ユニクロ スマートワイドストレートパンツ」が直近3日のXの投稿数13件を記録し話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-30T11:53:10.172856+09:00",
-  "generated_at": "2026-10-03T11:53:12.062483+09:00",
+  "from": "2026-09-30T19:57:57.380788+09:00",
+  "generated_at": "2026-10-03T19:58:46.175939+09:00",
   "article_count": 24,
-  "sig": "dbc4855c4ba2"
+  "sig": "c3a25a3d9453"
  },
  "items": [
+  {
+   "id": "088d21f8f0fd30ec",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-reports-september-uniqlo-sales-update-as-fast-retailing/70220428",
+   "title_original": "Fast Retailing reports September Uniqlo sales update as Fast Retailing stock trades EUR 412.15",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405032_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-03T09:46:52+00:00",
+   "title_ja": "ファーストリテイリングが9月度のユニクロ売上速報を発表",
+   "summary_ja": "ファーストリテイリングは、9月度におけるユニクロの売上動向に関する速報値を発表した。なお、同社株は欧州市場において412.15ユーロで取引されている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "b271b6d6ddd64b89",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102070216",
+   "title_original": "車いすバスケ日本代表とユニクロがパートナー契約締結…新ユニフォーム「ライジング・サン」お披露目",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1478965449545926302/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T04:00:43+00:00",
+   "title_ja": "ユニクロが車いすバスケ日本代表とパートナー契約！新ユニフォームをお披露目",
+   "summary_ja": "ユニクロが車いすバスケットボール日本代表との間でパートナー契約を締結したことが発表されました。あわせて「ライジング・サン」と名付けられた新しいユニフォームもお披露目されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "9586018cecd0e47f",
+   "url": "https://collabo-cafe.com/events/collabo/sanrio-characters-uniqlo-utme-sticker-mix2026",
+   "title_original": "サンリオ × ユニクロUTme! 10月2日よりコラボデザイン登場!",
+   "source": "コラボカフェ",
+   "image": "https://collabo-cafe.com/wp-content/uploads/sanrio-uniqlo-utme-sticker-mix-logo-visual.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T03:45:43+00:00",
+   "title_ja": "サンリオとユニクロ「UTme!」がコラボ！限定デザインが10月2日より登場",
+   "summary_ja": "サンリオとユニクロのオリジナルTシャツ作成サービス「UTme!」によるコラボレーションデザインが10月2日から公開されました。サンリオキャラクターがあしらわれた特別なデザインを楽しめます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1382c625a4c6d575",
    "url": "https://news.yahoo.co.jp/articles/4bcff75bc72873e3409cc0efcb8e1c37f05a5597",
@@ -306,6 +353,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "ea02172c1e9925cf",
+   "url": "https://jimoharu.net/mina-tsudanuma-renewal-20261016",
+   "title_original": "ミーナ津田沼は10/16(金)リニューアル開業｜ユニクロ・ジーユーは新津田沼駅直結の2・4階へ、1階に飲食ゾーン「しんつだぬま食堂」・駐車場800台",
+   "source": "ジモはる",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T23:26:22+00:00",
+   "title_ja": "ミーナ津田沼が10月16日に刷新　ユニクロとGUは駅直結階へ配置",
+   "summary_ja": "商業施設ミーナ津田沼が10月16日にリニューアル開業します。ユニクロとジーユーは新津田沼駅直結の2階および4階に入居し、施設内には飲食ゾーンなども新たに展開されます。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "56ec8876ea44c696",
@@ -337,7 +400,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "91ba1b51c9f5c04c",
@@ -353,7 +416,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "615f596524cf6f11",
@@ -6626,70 +6689,6 @@
    "brand": "グループ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "773e7da2d0179e74",
-   "url": "https://www.glossy.co/podcasts/glossy-podcast-inside-uniqlos-us-expansion-strategy-with-head-of-marketing-nico-cessot",
-   "title_original": "Inside Uniqlo's US expansion strategy with its head of marketing",
-   "source": "glossy.co",
-   "image": "https://www.glossy.co/wp-content/uploads/sites/4/2026/09/Portrait-glossy-brand-1140x520-0909-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T04:00:00+00:00",
-   "title_ja": "ユニクロのマーケティング責任者が語る米国展開戦略",
-   "summary_ja": "ファーストリテイリング傘下のユニクロにおける、アメリカ市場での展開戦略についてマーケティング責任者が明かしています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "26beaffef0ae0639",
-   "url": "https://www.fashionsnap.com/article/1bansan-uniqlou-26aw",
-   "title_original": "『今日の1番さん：ユニクロ ユー編』10年買い続けたYouTuberにインタビュー",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/e63a680e-e919-4a54-b3c5-abc1c428e2f8.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T03:50:45+00:00",
-   "title_ja": "ユニクロ ユー発売日に並んだ先頭客インタビュー、10年買うファンに取材",
-   "summary_ja": "ファッションメディアの企画記事において、ユニクロ ユーの発売当日に並んだ先頭購入者へのインタビューを実施。10年間同ラインを買い続けているファンに対し、購入したアイテムや選んだ理由について取材を行っている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "50ca8e0b87e254bb",
-   "url": "https://news.yahoo.co.jp/articles/7b51292be1b36e6e2e94ad442d2f716d33ab66dd/images/000",
-   "title_original": "『今日の1番さん：ユニクロ ユー ルメールラストコレクション編』 (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgLdAdtqxEQQAYUav0uvunafKx8PGd5CttGod1r7LUQqFTUW_DyLUkHM5HUtoXM_t6K_VcE8A0YmRQnCqWLd-7cCaT0BcmDcDYoHAtGa5wQxDncT62JLGmm7eZl6UYGghVA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T03:50:45+00:00",
-   "title_ja": "ユニクロ ユーのルメールラストコレクション発売で先頭購入者にインタビュー",
-   "summary_ja": "ファッションメディアの現地取材企画にて、ユニクロ ユーのルメールラストコレクション発売日に一番乗りした購入者へのインタビューを実施。店頭での反響や、実際に購入した注目のアイテムについて聞き取りを行っている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "960d7d4832b3fe74",
-   "url": "https://news.yahoo.co.jp/articles/98bbaa288a76db9a093ee051b6191f68e08013e0/images/000",
-   "title_original": "ユニクロの「パンどろぼう」のアパレルが9月14日発売！お茶目で憎めない姿がかわいい、キルトパジャマ2種類 (インサイド)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgO68K1FZeXfED771JbeUHmCXv7Kuqij5KVWQ0eYdNXuGt_BfENT0W7RN6MOgfuy8V0nVMhlaxLBaH6gPIfGz5ygS5DWdysTxs7lm2_Mv2edd",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T03:30:04+00:00",
-   "title_ja": "ユニクロから「パンどろぼう」のキルトパジャマ2種が9月14日に発売",
-   "summary_ja": "ユニクロから人気絵本「パンどろぼう」のアパレルアイテムが登場する。愛らしい姿をデザインに落とし込んだキルトパジャマ2種類が、9月14日より発売される予定だ。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
