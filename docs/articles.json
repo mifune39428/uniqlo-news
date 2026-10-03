@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T06:32:57.281816+09:00",
+ "updated_at": "2026-10-03T11:45:57.078864+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -75,6 +75,7 @@
   "Magzter",
   "Manchester Evening News",
   "Manchester Wire",
+  "Miami Herald",
   "Miami New Times",
   "Mindanao Times",
   "MokokchungTimes.com",
@@ -175,6 +176,7 @@
   "smartmag.jp",
   "soyacincau.com",
   "sportschosun.com",
+  "t.co",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
   "tribecacitizen.com",
@@ -225,6 +227,7 @@
   "日本経済新聞",
   "時事ドットコム",
   "朝日新聞",
+  "朝鮮日報",
   "東京バーゲンマニア",
   "毎日キレイ",
   "毎日新聞",
@@ -240,35 +243,36 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 251,
+ "detail_count": 249,
  "digest": {
-  "headline": "ユニクロの9月既存店売上高は10.8％増、秋冬物が好調",
+  "headline": "9月の国内ユニクロ売上高が大幅増、国内外で店舗拡大も進行",
   "points": [
    {
-    "text": "ユニクロの9月国内既存店売上高は前年同月比10.8％増を記録しました。気温の低下に伴い防寒着などの秋冬物が好調に推移しています。",
+    "text": "ユニクロの9月度の国内既存店売上高は、気温低下による秋冬物商品の好調を受け、前年同月比10.8％増から11％増を記録した。",
     "ids": [
      "c5629d48f8b59bed",
-     "0186c5603ea1d53d",
-     "657c0943019d23e6"
+     "ce1f5a6403b469a5",
+     "0186c5603ea1d53d"
     ]
    },
    {
-    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープン決定。西日本初のUNIQLO COFFEEや地元コラボTシャツも登場します。",
+    "text": "年間売上1兆円を達成したユニクロは、都心部への超大型・超巨大店舗の出店や拡大方針を打ち出しているほか、11月6日には「ユニクロ 京都」がオープンする。",
     "ids": [
      "de46df81f663f328",
-     "62f7f8041411ce20"
+     "57b885beee8be105",
+     "b8a6ce07e11d31b0"
     ]
    },
    {
-    "text": "ユニクロは年間売上1兆円を達成し都心に超大型店舗を拡大する方針を示すほか、マイアミエリアへの新規出店など国内外で店舗網を再編・拡大しています。",
+    "text": "海外では、米マイアミおよびフロリダ州南部への新規出店に加え、韓国での木洞店の増床再オープンや義王市への初出店など店舗網の拡大を進めている。",
     "ids": [
      "b128f3a97950cde0",
-     "57b885beee8be105",
-     "56d491ee9ee7d3b6"
+     "1382c625a4c6d575",
+     "91ba1b51c9f5c04c"
     ]
    },
    {
-    "text": "日本車いすバスケットボール連盟とのパートナーシップを締結し、日本代表へユニホームを提供するなどスポーツ支援の動きも見せています。",
+    "text": "ユニクロは日本車いすバスケットボール連盟とのパートナーシップ締結を発表し、日本代表へユニホームを提供するなどスポーツ支援の動きを見せている。",
     "ids": [
      "7a9396f6ca79e880",
      "e620e258caa02df0",
@@ -276,17 +280,81 @@
     ]
    },
    {
-    "text": "ユニクロ スマートワイドストレートパンツがXで3日に10件投稿され話題となっています。",
+    "text": "SNSではユニクロ スマートワイドストレートパンツが話題となり、Xで3日に11件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-09-30T06:39:23.699383+09:00",
-  "generated_at": "2026-10-03T06:39:25.702324+09:00",
+  "from": "2026-09-30T11:53:10.172856+09:00",
+  "generated_at": "2026-10-03T11:53:12.062483+09:00",
   "article_count": 24,
-  "sig": "a77b6595cc0f"
+  "sig": "dbc4855c4ba2"
  },
  "items": [
+  {
+   "id": "1382c625a4c6d575",
+   "url": "https://news.yahoo.co.jp/articles/4bcff75bc72873e3409cc0efcb8e1c37f05a5597",
+   "title_original": "ユニクロ、木洞店2倍に拡張し再開業…義王にも初出店（朝鮮日報日本語版）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00080007-chosun-000-7-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T01:15:00+00:00",
+   "title_ja": "ユニクロが韓国の木洞店を増床再オープン、義王市への初出店も発表",
+   "summary_ja": "ユニクロが韓国の木洞店を従来の2倍の広さに拡張してリニューアルオープンする。あわせて同国の義王市へも初出店を果たし、現地での店舗網拡大と顧客利便性の向上を図る。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "56ec8876ea44c696",
+   "url": "https://www.chosunonline.com/m/svc/article.html?contid=2026100380007",
+   "title_original": "ユニクロ、木洞店2倍に拡張し再開業…義王にも初出店",
+   "source": "朝鮮日報",
+   "image": "https://www.chosunonline.com/site/data/img_dir/2026/10/03/2026100380007_thumb.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T22:55:00+00:00",
+   "title_ja": "ユニクロが韓国の木洞店を拡張し再開業、義王市にも初出店",
+   "summary_ja": "ユニクロが韓国ソウルの木洞店を従来の2倍の規模に拡張してリニューアルオープンした。あわせて、京畿道義王市にもブランド初となる新店舗を出店し、韓国国内での店舗展開をさらに強化している。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f9eee25c4966cde8",
+   "url": "https://t.co/vaEOAw6l91",
+   "title_original": "ユニクロ福島南沢又店が11月12日に閉店と公式ホームページで発表。",
+   "source": "t.co",
+   "image": "https://newsr.jp/img/news/photo/13890_72d20032b457f1cfb6f69f87645d5f2d46e22789.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T22:48:00+00:00",
+   "title_ja": "ユニクロ福島南沢又店が11月12日に閉店、公式ホームページで発表",
+   "summary_ja": "ユニクロ福島南沢又店が11月12日に閉店することが、ユニクロの公式ホームページにて発表された。同店における営業終了のスケジュールが明らかにされている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "91ba1b51c9f5c04c",
+   "url": "https://www.miamiherald.com/news/business/article317476179.html",
+   "title_original": "Uniqlo opening two South Florida stores (Video)",
+   "source": "Miami Herald",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-02T22:00:25+00:00",
+   "title_ja": "ユニクロが米フロリダ州南部に新たに2店舗をオープンへ",
+   "summary_ja": "ユニクロがアメリカ・フロリダ州南部に新たに2つの店舗を出店することが明らかになった。北米市場でのさらなる事業拡大に向け、地域顧客へのアプローチを強化する狙いがあるとみられる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "615f596524cf6f11",
    "url": "https://news.yahoo.co.jp/articles/146c05437fe8512e05df1f1f5a9e9c82c0424105/images/000",
@@ -301,7 +369,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c5629d48f8b59bed",
@@ -509,7 +577,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6a780f6df97183c1",
@@ -6622,70 +6690,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "d517189b7005784e",
-   "url": "https://www.trendhunter.com/trends/relaco-coming-soon",
-   "title_original": "Beach-Inspired Character Loungewear: UNIQLO's Sanrio Relaco is Cozy and Adorable",
-   "source": "Trend Hunter",
-   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/632/632600/632600_1_1200.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T03:08:06+00:00",
-   "title_ja": "ユニクロ、サンリオキャラクターズの新作リラコを発売",
-   "summary_ja": "ビーチにインスパイアされた可愛らしいサンリオキャラクターズのデザインを採用した、ユニクロの心地よいリラコが登場しました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8c68a1829a947fd5",
-   "url": "https://lee.hpplus.jp/column/3715824",
-   "title_original": "【Uniqlo U（ユニクロ ユー）】新作「タックバレルレッグパンツ」を試着レビュー！楽ちん＆きれい見えが叶う美脚パンツは新名品の予感【2026年9月11日発売】",
-   "source": "lee.hpplus.jp",
-   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/09/03/4-2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T02:55:24+00:00",
-   "title_ja": "ユニクロ ユーから新作「タックバレルレッグパンツ」が2026年9月11日に発売",
-   "summary_ja": "ユニクロ ユー（Uniqlo U）の新作アイテム「タックバレルレッグパンツ」が2026年9月11日に発売されました。履き心地が良く、脚のラインをきれいに見せられる美脚パンツとして注目を集める新商品を、実際に試着したレビューとともに紹介しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3813450ad49f159f",
-   "url": "https://newswav.com/article/kaws-introduces-new-characters-in-uniqlo-s-latest-ut-collection-A2609_jEsxG3",
-   "title_original": "KAWS introduces new characters in UNIQLO’s latest UT collection",
-   "source": "Newswav",
-   "image": "https://www.jetset.my/wp-content/uploads/2026/09/KV_13.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T02:21:40+00:00",
-   "title_ja": "ユニクロの最新UTコレクションにアーティスト「KAWS」の新キャラクターが登場",
-   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」の最新コレクションにおいて、世界的アーティストのKAWS（カウズ）が新しいキャラクターを導入しました。人気コラボレーションにおける新たなデザイン展開として注目が集まります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "50360b5a72fd1ac5",
-   "url": "https://news.yahoo.co.jp/articles/61d070d250f10901500d5e6e07a59a12632d3d28",
-   "title_original": "【きょう発売】「高見えスゴイ」「シルエットお上品」… ユニクロUの4990円ワンピ、発売前から注目集める 「着ると自然にメリハリ」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-10160171-lasisa-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T01:35:00+00:00",
-   "title_ja": "本日発売のユニクロUの4990円ワンピースに高い注目",
-   "summary_ja": "本日発売となったユニクロUの4990円のワンピースは、上品なシルエットや高見えするデザインで発売前から注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
