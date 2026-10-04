@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T20:28:33.837974+09:00",
+ "updated_at": "2026-10-05T01:06:51.384275+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -120,6 +120,7 @@
   "TRILL",
   "TRP | The Rakyat Post",
   "The Argus",
+  "The Business of Fashion",
   "The Georgetowner",
   "The Manc",
   "The Sole Supplier",
@@ -183,7 +184,6 @@
   "topics.smt.docomo.ne.jp",
   "tribecacitizen.com",
   "trilltrill.jp",
-  "ultrasports.jp",
   "uptodate.tokyo",
   "vietnam.vn",
   "vooks.net",
@@ -246,43 +246,67 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 247,
+ "detail_count": 246,
  "digest": {
-  "headline": "9月国内既存店売上10.8％増、安全協定や新店展開にも注目",
+  "headline": "国内売上10.8%増、国内外の出店や米国市場の動向に注目",
   "points": [
    {
-    "text": "9月の国内ユニクロ既存店売上高は前年同月比10.8％増を記録し、気温変化に伴う秋冬物商品の好調な販売が全体を牽引しました。",
+    "text": "9月の国内ユニクロ既存店売上高は前年同月比10.8％増を記録し、気温変化に伴う秋冬物の販売が好調に推移しました。",
     "ids": [
      "c5629d48f8b59bed",
      "0186c5603ea1d53d",
-     "088d21f8f0fd30ec"
+     "ce1f5a6403b469a5"
     ]
    },
    {
-    "text": "アパレル業界の労働安全に関する国際協定にファーストリテイリングなど日本企業も加盟し、署名企業数が300社を突破しました。",
+    "text": "ファーストリテイリングなどのアパレル大手は、米国市場において新たな試練や競争に直面しており、今後の北米戦略が注目されます。",
     "ids": [
-     "48e82f308bc9080b"
+     "49effef4c3cf2921"
     ]
    },
    {
-    "text": "「ユニクロ 京都」が11月6日に開業するほか、ミーナ津田沼のリニューアルに伴いユニクロとGUが駅直結階へ配置されます。",
+    "text": "ファーストリテイリングは労働安全協定に加盟したほか、商品を長持ちさせるケアの提案などサステナブルな取り組みを推進しています。",
+    "ids": [
+     "48e82f308bc9080b",
+     "67c7b27a6e0747e8"
+    ]
+   },
+   {
+    "text": "グローバル旗艦店「ユニクロ 京都」の11月オープンが決定したほか、韓国や米国フロリダでの新規出店など国内外で店舗網を拡大します。",
     "ids": [
      "de46df81f663f328",
-     "ea02172c1e9925cf"
+     "91ba1b51c9f5c04c",
+     "1382c625a4c6d575"
     ]
    },
    {
-    "text": "SNSでは「GU トップス」が話題を集めており、直近3日のXの投稿数は33件に達しています。",
+    "text": "SNSでは「GU rokh コラボ」が話題となっており、直近3日のXの投稿数は28件を記録しています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-01T20:39:01.156639+09:00",
-  "generated_at": "2026-10-04T20:39:46.601244+09:00",
+  "from": "2026-10-02T01:13:26.724677+09:00",
+  "generated_at": "2026-10-05T01:13:53.339876+09:00",
   "article_count": 24,
-  "sig": "70b1e0ad8978"
+  "sig": "02b9f311ec6e"
  },
  "items": [
+  {
+   "id": "49effef4c3cf2921",
+   "url": "https://www.businessoffashion.com/briefings/retail/uniqlo-owner-fast-retailing-levis-and-aritzia-face-us-test",
+   "title_original": "Uniqlo-Owner Fast Retailing, Levi’s and Aritzia Face US Test",
+   "source": "The Business of Fashion",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-04T13:00:21+00:00",
+   "title_ja": "ユニクロ親会社ファーストリテイリングなど、米国市場での試練に直面",
+   "summary_ja": "ユニクロを展開するファーストリテイリングや、リーバイス、アリツィアなどのアパレル大手が、米国市場において新たな試練や競争に直面している現状を伝えている。今後の北米事業における戦略や動向が注目される。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "cccaca9d535e051c",
    "url": "https://www.alba.co.jp/articles/category/tour/others/post/u66si24-2y0",
@@ -297,7 +321,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "67c7b27a6e0747e8",
@@ -6665,22 +6689,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "adda757ee40dd60a",
-   "url": "https://ultrasports.jp/uniqlo-announces-a-partnership-with-bleague-utme",
-   "title_original": "桜井日奈子さん、篠山竜青選手、齋藤拓実選手が新たなスポーツ体験を発信！ユニクロがB.LEAGUEとのパートナーシップ締結を発表！",
-   "source": "ultrasports.jp",
-   "image": "https://ultrasports.jp/wp-content/uploads/2026/09/image-6.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T08:00:00+00:00",
-   "title_ja": "ユニクロがB.LEAGUEとパートナーシップを締結！桜井日奈子さんらが魅力を発信",
-   "summary_ja": "ユニクロがプロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。女優の桜井日奈子さんや、篠山竜青選手、齋藤拓実選手らが起用され、新たなスポーツ体験や魅力を発信していく予定です。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
