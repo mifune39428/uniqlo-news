@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T05:18:53.407880+09:00",
+ "updated_at": "2026-10-04T12:16:46.642117+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -25,7 +25,6 @@
   "Bloomberg.com",
   "Brands Untapped",
   "Brighton and Hove News",
-  "British GQ",
   "British Vogue",
   "BusinessMirror",
   "BusinessWorld Online",
@@ -59,7 +58,6 @@
   "Impress Watch",
   "Inside Retail Asia",
   "InsideHook",
-  "Interaksyon",
   "JFA",
   "JGA 日本ゴルフ協会",
   "Japan Web Magazine",
@@ -114,6 +112,7 @@
   "Style Rave",
   "Sunshine Coast News",
   "SussexWorld",
+  "Sustainable Japan",
   "TBS NEWS DIG",
   "THE MAGIC RAIN",
   "TRAICY Global",
@@ -179,6 +178,7 @@
   "soyacincau.com",
   "sportschosun.com",
   "t.co",
+  "tbs.co.jp",
   "themagicrain.com",
   "topics.smt.docomo.ne.jp",
   "tribecacitizen.com",
@@ -248,10 +248,10 @@
  "count": 400,
  "detail_count": 248,
  "digest": {
-  "headline": "ユニクロ9月国内売上高は前年同月比11%増、国内外で店舗拡大へ",
+  "headline": "ユニクロの9月既存店売上高は10.8％増、国内外の出店や新コラボも発表",
   "points": [
    {
-    "text": "ファーストリテイリングが発表した9月度の国内ユニクロ既存店売上高は、秋冬物の販売が好調に推移し前年同月比10.8%増を記録しました。",
+    "text": "ファーストリテイリングが発表した9月度の国内ユニクロ既存店売上高は前年同月比10.8％増となり、気温の変化に伴い秋冬物が好調に推移しました。",
     "ids": [
      "088d21f8f0fd30ec",
      "c5629d48f8b59bed",
@@ -259,7 +259,7 @@
     ]
    },
    {
-    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、熊本の店舗のリニューアルやマイアミ、韓国での新規出店・拡張が発表されました。",
+    "text": "京都でのグローバル旗艦店オープンや熊本でのリニューアル、米マイアミおよび韓国での新規出店・拡張など、国内外の店舗展開が相次いで発表されています。",
     "ids": [
      "de46df81f663f328",
      "d06beee90ac3a113",
@@ -267,31 +267,96 @@
     ]
    },
    {
-    "text": "ユニクロはアパレル業界初の年間売上1兆円を達成し、都心部に超大型店舗を次々と出店する方針を示しています。",
+    "text": "ファーストリテイリングなど日本企業が参加するアパレル安全協定の署名が300社を突破したほか、車いすバスケ日本代表とのパートナー契約などが話題となっています。",
     "ids": [
-     "57b885beee8be105",
-     "b8a6ce07e11d31b0"
-    ]
-   },
-   {
-    "text": "ユニクロが車いすバスケットボール日本代表に新ユニフォーム「ライジング・サン」を提供し、パートナー契約を締結しました。",
-    "ids": [
+     "48e82f308bc9080b",
      "7a9396f6ca79e880",
      "b271b6d6ddd64b89"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ スマートワイドストレートパンツ」が話題となり、Xで3日に12件の投稿が確認されています。",
+    "text": "人気キャラクター「mofusand」柄Tシャツの展開や、サンリオと「UTme!」のコラボレーションなど、新たな商品やサービスも続々と登場しています。",
+    "ids": [
+     "d2b358ab55ebb5d0",
+     "9586018cecd0e47f"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ スマートワイドストレートパンツ」が話題となり、Xで3日に15件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-01T00:28:36.913763+09:00",
-  "generated_at": "2026-10-04T00:28:38.944481+09:00",
+  "from": "2026-10-01T12:23:01.930353+09:00",
+  "generated_at": "2026-10-04T12:23:04.039110+09:00",
   "article_count": 24,
-  "sig": "0b54440c021b"
+  "sig": "b3861eff1e2a"
  },
  "items": [
+  {
+   "id": "67c7b27a6e0747e8",
+   "url": "https://news.yahoo.co.jp/articles/3d831ab6903c08a79066501ca5d264bd542e23be",
+   "title_original": "ユニクロ・Levi’sが「服を買わない方法」を教える理由──“売って終わり”ではない小売の新潮流（AMP［アンプ］）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00010000-ampreview-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-04T03:04:11+00:00",
+   "title_ja": "服を売るだけに留まらない小売の潮流とユニクロなどの新たな取り組み",
+   "summary_ja": "ユニクロやリーバイスなどのアパレル企業が、消費者に商品を長持ちさせるケアや修理方法などを提案する取り組みについて伝えている。単に商品を販売して終わりにせず、服を長く愛用してもらうための小売業界の新たな挑戦を解説する。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d2b358ab55ebb5d0",
+   "url": "https://limo.media/articles/-/140070",
+   "title_original": "猫好きさん必見！ユニクロ「mofusand」Tシャツはモフモフ姿に癒される『サメにゃん』が可愛い。全4デザイン各1990円",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/3/4/1200w/img_34a76b94dfb76e99692b6cd8bf25b84c78872.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-04T00:30:00+00:00",
+   "title_ja": "ユニクロが「mofusand」柄Tシャツを展開 サメにゃん等全4種で各1990円",
+   "summary_ja": "ユニクロが人気キャラクター「mofusand」とコラボレーションしたTシャツを展開しています。「サメにゃん」をはじめとする可愛らしいデザインが特徴で、全4種類がそれぞれ1,990円で販売されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "48e82f308bc9080b",
+   "url": "https://sustainablejapan.jp/2026/10/04/international-accord/131091",
+   "title_original": "【国際】アパレル労働安全のインターナショナル・アコード、署名300社突破。日本はファストリ等5社 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs",
+   "source": "Sustainable Japan",
+   "image": "https://sustainablejapan.jp/wp-content/uploads/2026/10/apparel-worker.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T23:19:26+00:00",
+   "title_ja": "アパレル安全協定の署名が300社を突破 ファストリ等日本企業も参加",
+   "summary_ja": "アパレル業界の労働安全に関する国際協定「インターナショナル・アコード」の署名企業が300社を超えました。ファーストリテイリングをはじめとする日本企業5社も加盟し、安全な労働環境の整備に取り組んでいます。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "24cbabdc7659e7be",
+   "url": "https://www.tbs.co.jp/tv/20261011_C081.html",
+   "title_original": "坂上＆指原のつぶれない店 渋谷ＳＰ深夜ユニクロにSnow Man宮舘が世界初潜入 [字]",
+   "source": "tbs.co.jp",
+   "image": "https://www.tbs.co.jp/tv/img/tsuburenai-mise_main_hd.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T19:36:38+00:00",
+   "title_ja": "TBS「つぶれない店」渋谷SPでSnow Man宮舘が深夜のユニクロに世界初潜入",
+   "summary_ja": "TBSのバラエティ番組「坂上＆指原のつぶれない店 渋谷SP」にて、Snow Manの宮舘涼太が深夜のユニクロに世界初潜入します。普段は見られない深夜の店舗の様子が放送される予定です。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "088d21f8f0fd30ec",
    "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-reports-september-uniqlo-sales-update-as-fast-retailing/70220428",
@@ -613,6 +678,22 @@
    "detail_tries": 2
   },
   {
+   "id": "782a330173383747",
+   "url": "https://www.sanyonews.jp/article/1922422",
+   "title_original": "ユニクロ、夏の大型企画「感謝祭」開催へ 80商品超が特価“いざ夏支度”【5・22～5・28の7日間】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/b/e/9/a/be9a48f956ef82302389729d4bc421ba_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-02T07:00:00+00:00",
+   "title_ja": "ユニクロが大型企画「感謝祭」を5月22日から開催",
+   "summary_ja": "ユニクロは5月22日から28日までの7日間、夏の大型企画「感謝祭」の開催を予定しています。80商品以上が特別価格で販売され、夏の準備を応援する内容となっています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "657c0943019d23e6",
    "url": "https://news.yahoo.co.jp/articles/9ac6746f88d0d3a854a80c1d486f4d4e4019f883/images/000",
    "title_original": "ユニクロ、9月国内既存店売上高10.8％増 気温低く秋冬商品が好調 (ロイター)",
@@ -690,7 +771,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0726d73e51ed9797",
@@ -1171,6 +1252,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "c985a14655a41674",
+   "url": "https://media.unisba.ac.id/c614e5eb/e26710eaGyomCwNCTAEzABU/?share=telegram&nb=1",
+   "title_original": "【UNIQLO U・2025秋冬 新作】全品､星３評価でプレビュー‼️今週26日発売‼️ 76ers Vs Knicks (gKzA34Tocq)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-09-30T10:11:24+00:00",
+   "title_ja": "「ユニクロU」2025年秋冬新作が発売へ、全商品を星3つでプレビュー評価",
+   "summary_ja": "「Uniqlo U」の2025年秋冬新作コレクションが発売される。発売を控えた今週、全商品を対象に星3満点で事前評価を行うプレビュー。注目アイテムの仕上がりや購入のポイントを解説する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b07131cbdfaab69e",
@@ -6595,102 +6692,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "3e6142eef30f2a0e",
-   "url": "https://news.yahoo.co.jp/articles/4b5596752037e2db34bf5db19b03fd3841c7f079/images/000",
-   "title_original": "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「アイロン不要で何回も着まわせる」「旅行でも……バスルームで乾きます！」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgJ8iCum2STZLPKYLoKCyHt1ggQ0YsdYkEgdaZDNOmC-TLtIZb9lf6QiGLiob5C9RISzz3rzxqjwD-4Boblzei0NBZrXvThpMt3F3dRwESRM8XIM7bBWG38UQ5GeVxDMuGQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T06:40:00+00:00",
-   "title_ja": "ユニクロの人気パンツが3990円から1990円に値下げ",
-   "summary_ja": "ユニクロのお得なパンツが3990円から1990円に値下げされ、アイロン不要で速乾性もあると高評価を集めています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b98699064fee8215",
-   "url": "https://interaksyon.philstar.com/trends-spotlights/2026/09/11/319045/lemaire-tran-mark-10-years-with-final-collection-kaws-collab-follows",
-   "title_original": "Lemaire, Tran mark 10 years with final collection; KAWS collab follows",
-   "source": "Interaksyon",
-   "image": "https://media.interaksyon.com/wp-content/uploads/2026/09/uniqlo-u-kaws.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T06:35:30+00:00",
-   "title_ja": "ルメールとトランが10周年の最終コレクション発表、KAWSコラボも登場",
-   "summary_ja": "ルメールとサラ＝リン・トランが、10周年を締めくくる最後のコレクションを発表した。さらに、それに続く形でKAWS（カウズ）とのコラボレーションも展開される予定だ。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d50dde26aa42dd4c",
-   "url": "https://www.gq-magazine.co.uk/article/the-final-uniqlo-u-x-lemaire-collection-is-stacked-with-outerwear-all-timers",
-   "title_original": "The final Uniqlo U x Lemaire collection is stacked with outerwear all-timers",
-   "source": "British GQ",
-   "image": "https://media.gq-magazine.co.uk/photos/6aa2bfa490e15ad4800132aa/16:9/w_1280,c_limit/Uniqlo-hp.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T06:00:00+00:00",
-   "title_ja": "ユニクロ「Uniqlo U」とルメールの最終コレクション発表、アウターなど展開",
-   "summary_ja": "ユニクロとクリストフ・ルメールによる協業ライン「Uniqlo U」の最終コレクションが登場します。注目作として過去の名作に並ぶ完成度のアウターウェアなどがラインナップに並び、ファン必見のコレクションとなっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f588794642e81784",
-   "url": "https://news.yahoo.co.jp/articles/8f0c200cf5095238ed745f1f02e56164562fff6e",
-   "title_original": "ユニクロ、錦織圭が現役最後の大会で着用する新作ウェアを発売 空を表現（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00532133-fashions-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T05:55:55+00:00",
-   "title_ja": "ユニクロが錦織圭の現役最後となる大会着用ウェアを発売、「空」を表現",
-   "summary_ja": "ユニクロは、プロテニスプレイヤーの錦織圭選手が現役最後の大会で着用する新作テニスウェアを発売します。「空」を表現したデザインが特徴となっており、ファンの間で注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "608aa58a3a52ca3b",
-   "url": "https://www.fashionsnap.com/article/2026-09-11/uniqlo-nishikori-kei-sky-gradation",
-   "title_original": "錦織圭が現役最後の大会で着用するウェアをポロシャツに ユニクロが発売",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/27f51e93-1191-4858-88d6-c352803010e2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T05:55:55+00:00",
-   "title_ja": "錦織圭が現役最後の大会で着るウェアをポロシャツに、ユニクロが発売",
-   "summary_ja": "ユニクロは、錦織圭選手が現役最後の大会で着用するウェアのデザインを落とし込んだポロシャツを発売します。記念すべき現役ラストマッチのウェアアイテムとして関心が高まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a36908c302f8da7e",
-   "url": "https://bg-mania.jp/2026/09/11703174.html",
-   "title_original": "【ユニクロ最新チラシ】旬のシルエットを作るバレルバッグパンツが3990円！ 多彩なシャツ＆ニットなどスタイリングの幅を広げる注目の秋アイテムも見逃せない！《9月17日まで》",
-   "source": "東京バーゲンマニア",
-   "image": "https://cdn.bg-mania.jp/images/2026/09/tbm_20260911133423.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T05:47:56+00:00",
-   "title_ja": "ユニクロが最新チラシを公開、バレルバッグパンツが3990円など9月17日まで",
-   "summary_ja": "ユニクロが9月17日までの期間限定で最新チラシのアイテムを展開しています。旬のシルエットを作るバレルバッグパンツが3,990円で登場するほか、秋のスタイリングを彩る多彩なシャツやニット商品が揃っています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }

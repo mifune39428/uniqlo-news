@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T05:21:04.965046+09:00",
+ "updated_at": "2026-10-04T12:19:25.101606+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -769,28 +769,34 @@
    "rising": false
   },
   {
-   "key": "GU:E360870-000",
+   "key": "GU:E359632-000",
    "rank": 31,
    "brand": "GU",
-   "name": "ウルトラストレッチボリュームソールブーツ",
+   "name": "バルーンパンツ",
    "genders": [
     "ウィメンズ"
    ],
-   "price": 3990,
+   "price": 2990,
    "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesgoods/360870/item/goods_05_360870_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E360870-000/00?colorDisplayCode=05",
-   "rating": 4.3,
-   "reviews": 58,
-   "reviews7": 19,
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/359632/item/jpgoods_32_359632_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E359632-000/00?colorDisplayCode=32",
+   "rating": 4.5,
+   "reviews": 767,
+   "reviews7": 27,
    "capped": false,
-   "prev7": 19,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 32,
-   "momentum": 1.66,
+   "prev7": 11,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "ユニクロU最終章!? 気になるバッグ・ボトムス・GUパデッドジャケット・ コージーメルトン・スムーススウェットバルーンパンツ！期待の新作商品プレビュー UNIQLOジーユー2026FW秋冬 Pancreatic Cancer (FvtOrE3Juh)",
+     "s": "Unisba Media",
+     "u": "https://media.unisba.ac.id/7a9a596f/238d3a69nPJe7Yyee0U//?share=telegram&nb=1"
+    }
+   ],
+   "score": 34,
+   "momentum": 1.07,
    "new": false,
-   "rising": false
+   "rising": true
   },
   {
    "key": "GU:E359075-000",
