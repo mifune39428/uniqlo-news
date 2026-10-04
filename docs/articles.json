@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T12:16:46.642117+09:00",
+ "updated_at": "2026-10-04T20:28:33.837974+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,13 +19,13 @@
   "@DIME アットダイム",
   "A1 Retail Magazine",
   "AD HOC NEWS",
+  "ALBA Net",
   "AMP[アンプ]",
   "All About ニュース",
   "BAILA（バイラ）",
   "Bloomberg.com",
   "Brands Untapped",
   "Brighton and Hove News",
-  "British Vogue",
   "BusinessMirror",
   "BusinessWorld Online",
   "BuzzFeed",
@@ -246,53 +246,59 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 248,
+ "detail_count": 247,
  "digest": {
-  "headline": "ユニクロの9月既存店売上高は10.8％増、国内外の出店や新コラボも発表",
+  "headline": "9月国内既存店売上10.8％増、安全協定や新店展開にも注目",
   "points": [
    {
-    "text": "ファーストリテイリングが発表した9月度の国内ユニクロ既存店売上高は前年同月比10.8％増となり、気温の変化に伴い秋冬物が好調に推移しました。",
+    "text": "9月の国内ユニクロ既存店売上高は前年同月比10.8％増を記録し、気温変化に伴う秋冬物商品の好調な販売が全体を牽引しました。",
     "ids": [
-     "088d21f8f0fd30ec",
      "c5629d48f8b59bed",
-     "0186c5603ea1d53d"
+     "0186c5603ea1d53d",
+     "088d21f8f0fd30ec"
     ]
    },
    {
-    "text": "京都でのグローバル旗艦店オープンや熊本でのリニューアル、米マイアミおよび韓国での新規出店・拡張など、国内外の店舗展開が相次いで発表されています。",
+    "text": "アパレル業界の労働安全に関する国際協定にファーストリテイリングなど日本企業も加盟し、署名企業数が300社を突破しました。",
+    "ids": [
+     "48e82f308bc9080b"
+    ]
+   },
+   {
+    "text": "「ユニクロ 京都」が11月6日に開業するほか、ミーナ津田沼のリニューアルに伴いユニクロとGUが駅直結階へ配置されます。",
     "ids": [
      "de46df81f663f328",
-     "d06beee90ac3a113",
-     "b128f3a97950cde0"
+     "ea02172c1e9925cf"
     ]
    },
    {
-    "text": "ファーストリテイリングなど日本企業が参加するアパレル安全協定の署名が300社を突破したほか、車いすバスケ日本代表とのパートナー契約などが話題となっています。",
-    "ids": [
-     "48e82f308bc9080b",
-     "7a9396f6ca79e880",
-     "b271b6d6ddd64b89"
-    ]
-   },
-   {
-    "text": "人気キャラクター「mofusand」柄Tシャツの展開や、サンリオと「UTme!」のコラボレーションなど、新たな商品やサービスも続々と登場しています。",
-    "ids": [
-     "d2b358ab55ebb5d0",
-     "9586018cecd0e47f"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ スマートワイドストレートパンツ」が話題となり、Xで3日に15件投稿されています。",
+    "text": "SNSでは「GU トップス」が話題を集めており、直近3日のXの投稿数は33件に達しています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-01T12:23:01.930353+09:00",
-  "generated_at": "2026-10-04T12:23:04.039110+09:00",
+  "from": "2026-10-01T20:39:01.156639+09:00",
+  "generated_at": "2026-10-04T20:39:46.601244+09:00",
   "article_count": 24,
-  "sig": "b3861eff1e2a"
+  "sig": "70b1e0ad8978"
  },
  "items": [
+  {
+   "id": "cccaca9d535e051c",
+   "url": "https://www.alba.co.jp/articles/category/tour/others/post/u66si24-2y0",
+   "title_original": "アダム・スコットが茨城でユニクロのジュニア育成イベントに登場 『日本OPになんで出るの？』の質問に“名回答”",
+   "source": "ALBA Net",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-04T07:43:46+00:00",
+   "title_ja": "アダム・スコットが茨城でユニクロのジュニア育成イベントに登壇",
+   "summary_ja": "プロゴルファーのアダム・スコットが、茨城県で開催されたユニクロのジュニア育成イベントに登場した。参加者からの質問に答えるなど、子どもたちとの交流を深めた。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "67c7b27a6e0747e8",
    "url": "https://news.yahoo.co.jp/articles/3d831ab6903c08a79066501ca5d264bd542e23be",
@@ -691,7 +697,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "657c0943019d23e6",
@@ -1267,7 +1273,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b07131cbdfaab69e",
@@ -6673,22 +6679,6 @@
    "title_ja": "ユニクロがB.LEAGUEとパートナーシップを締結！桜井日奈子さんらが魅力を発信",
    "summary_ja": "ユニクロがプロバスケットボールリーグ「B.LEAGUE」とのパートナーシップ締結を発表しました。女優の桜井日奈子さんや、篠山竜青選手、齋藤拓実選手らが起用され、新たなスポーツ体験や魅力を発信していく予定です。",
    "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b5932dcc777e1fb8",
-   "url": "https://www.vogue.co.uk/article/uniqlo-u-aw26",
-   "title_original": "A First Look At Uniqlo U’s New Autumn Collection",
-   "source": "British Vogue",
-   "image": "https://media.vogue.co.uk/photos/6aa001ee1c0149fd2ecc85f9/16:9/w_1280,c_limit/PE_Uniqlo_U_FW26_SHOT_21_NAOMI_100_IB_F08_EXT05_4x5.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T07:00:00+00:00",
-   "title_ja": "「Uniqlo U」の新しい秋コレクションがお披露目",
-   "summary_ja": "ユニクロの人気ライン「Uniqlo U」から、最新の秋コレクションがお披露目された。洗練されたデザインと機能性を兼ね備えた、今季注目の新作アイテムが紹介されている。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
