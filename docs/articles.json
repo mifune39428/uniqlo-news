@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T01:06:51.384275+09:00",
+ "updated_at": "2026-10-05T05:36:52.474613+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -248,49 +248,75 @@
  "count": 400,
  "detail_count": 246,
  "digest": {
-  "headline": "国内売上10.8%増、国内外の出店や米国市場の動向に注目",
+  "headline": "ユニクロ9月国内売上は10.8％増、国内外で新規出店やリニューアルが相次ぐ",
   "points": [
    {
-    "text": "9月の国内ユニクロ既存店売上高は前年同月比10.8％増を記録し、気温変化に伴う秋冬物の販売が好調に推移しました。",
+    "text": "ファーストリテイリングが発表した9月の国内ユニクロ既存店売上高は、前年同月比10.8％増と好調な推移を見せました。",
     "ids": [
+     "c669740d3398954b",
      "c5629d48f8b59bed",
-     "0186c5603ea1d53d",
-     "ce1f5a6403b469a5"
+     "0186c5603ea1d53d"
     ]
    },
    {
-    "text": "ファーストリテイリングなどのアパレル大手は、米国市場において新たな試練や競争に直面しており、今後の北米戦略が注目されます。",
-    "ids": [
-     "49effef4c3cf2921"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングは労働安全協定に加盟したほか、商品を長持ちさせるケアの提案などサステナブルな取り組みを推進しています。",
-    "ids": [
-     "48e82f308bc9080b",
-     "67c7b27a6e0747e8"
-    ]
-   },
-   {
-    "text": "グローバル旗艦店「ユニクロ 京都」の11月オープンが決定したほか、韓国や米国フロリダでの新規出店など国内外で店舗網を拡大します。",
+    "text": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、国内外で店舗の新規出店やリニューアルが発表されています。",
     "ids": [
      "de46df81f663f328",
-     "91ba1b51c9f5c04c",
+     "d06beee90ac3a113",
      "1382c625a4c6d575"
     ]
    },
    {
-    "text": "SNSでは「GU rokh コラボ」が話題となっており、直近3日のXの投稿数は28件を記録しています。",
+    "text": "アプリやコラボでは、サンリオとの「UTme!」コラボデザインの公開や、車いすバスケットボール日本代表とのパートナー契約締結などが話題となりました。",
+    "ids": [
+     "b271b6d6ddd64b89",
+     "9586018cecd0e47f"
+    ]
+   },
+   {
+    "text": "SNSでは「GU rokh コラボ」が注目を集め、Xで3日に30件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-02T01:13:26.724677+09:00",
-  "generated_at": "2026-10-05T01:13:53.339876+09:00",
+  "from": "2026-10-02T05:43:46.767078+09:00",
+  "generated_at": "2026-10-05T05:43:48.437591+09:00",
   "article_count": 24,
-  "sig": "02b9f311ec6e"
+  "sig": "20396c8b163a"
  },
  "items": [
+  {
+   "id": "c669740d3398954b",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-lists-uniqlo-september-sales-as-fast-retailing-stock-sits-at-eur-412-15/70227109",
+   "title_original": "Fast Retailing lists Uniqlo September sales as Fast Retailing stock sits at EUR 412.15",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405024_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-04T16:34:58+00:00",
+   "title_ja": "ファーストリテイリングがユニクロの9月国内売上実績を公表",
+   "summary_ja": "ファーストリテイリングが国内ユニクロの9月売上実績を公表した。これに合わせて、海外市場における同社の株価推移や取引価格についても報じられており、企業の最新の業績動向に注目が集まっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bceb72639d8adb2f",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-fell-1-35-percent-on-october-2-as-sales-rose-10-8/70227092",
+   "title_original": "Fast Retailing stock fell 1.35 percent on October 2 as sales rose 10.8 percent",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405037_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-04T16:32:44+00:00",
+   "title_ja": "9月売上10.8％増もファーストリテイリング株価は1.35％下落",
+   "summary_ja": "ファーストリテイリングが発表した売上実績が10.8％増加した一方で、10月2日の同社株価は1.35％下落した。好調な売上推移を見せる一方で、株式市場での株価の動きについても報じられている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "49effef4c3cf2921",
    "url": "https://www.businessoffashion.com/briefings/retail/uniqlo-owner-fast-retailing-levis-and-aritzia-face-us-test",
@@ -305,7 +331,7 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cccaca9d535e051c",
@@ -6654,38 +6680,6 @@
    "published": "2026-09-11T11:00:02+00:00",
    "title_ja": "ユニクロ、錦織圭選手が現役最後の大会で着用する新作ウェアを9月18日に発売",
    "summary_ja": "ユニクロは、プロテニスプレーヤーの錦織圭選手が現役最後の大会で着用する新作ウェアを発表しました。同ウェアは9月18日より公式オンラインストアにて販売を開始する予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "0b2d0e05fd073898",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/WbMMww",
-   "title_original": "【大人のユニクロ】「ユニクロ ユー」新作試着ルポ。激売れバッグの最終進化版を詳細レビュー！【Uniqlo U 2026年秋冬】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/04/042772c2-7dcb-4945-9a18-08ed7df0502f-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-11T11:00:00+00:00",
-   "title_ja": "「Uniqlo U」2026年秋冬新作の試着ルポ、人気バッグを詳細レビュー",
-   "summary_ja": "「Uniqlo U」の2026年秋冬コレクションより、人気を集めるバッグの最新モデルを試着したレビューが公開され、デザインや機能面の進化について詳細に伝えられている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c907594ac74ddc76",
-   "url": "https://newswav.com/article/kaws-universe-brings-new-characters-to-uniqlo-ut-collection-A2609_zzKYYM",
-   "title_original": "KAWS UNIVERSE Brings New Characters to UNIQLO UT Collection",
-   "source": "Newswav",
-   "image": "https://thestoly.com/wp-content/uploads/2026/09/KV_1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-11T09:45:40+00:00",
-   "title_ja": "「KAWS UNIVERSE」のキャラクターがユニクロ「UT」に新登場",
-   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」から、人気アーティストのKAWSが描く「KAWS UNIVERSE」のキャラクターを採用した新コレクションが登場します。世界的に注目を集めるコラボレーションの新たな展開です。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
