@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T05:39:57.131860+09:00",
+ "updated_at": "2026-10-05T11:56:18.586202+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2931,
+ "catalog_size": 2935,
  "count": 56,
  "items": [
   {
@@ -118,8 +118,8 @@
    ],
    "price": 1990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487908/item/jpgoods_69_487908_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E487908-000/00?colorDisplayCode=69",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487908/item/jpgoods_79_487908_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E487908-000/00?colorDisplayCode=79",
    "rating": 4.2,
    "reviews": 1468,
    "reviews7": 117,
@@ -265,8 +265,8 @@
    ],
    "price": 1990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_16_465193_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=16",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_30_465193_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=30",
    "rating": 4.5,
    "reviews": 9744,
    "reviews7": 94,
