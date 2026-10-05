@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T21:56:22.248510+09:00",
+ "updated_at": "2026-10-06T08:26:50.887636+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -56,6 +56,7 @@
   "Hypebeast",
   "ITmedia",
   "Impress Watch",
+  "Indian Retailer",
   "Inside Retail Asia",
   "InsideHook",
   "JFA",
@@ -132,10 +133,8 @@
   "Vogue Japan",
   "WWDJAPAN",
   "Web eclat",
-  "Wharf Life",
   "Yahoo",
   "Yahoo!ニュース",
-  "YouTube",
   "ad-hoc-news.de",
   "autobuzz.my",
   "baila.hpplus.jp",
@@ -144,7 +143,6 @@
   "excite.co.jp",
   "fashionsnap.com",
   "fashionunited.jp",
-  "fastretailing.com",
   "formula-web.jp",
   "gata21.jp",
   "hype.my",
@@ -180,8 +178,8 @@
   "uptodate.tokyo",
   "vietnam.vn",
   "vooks.net",
-  "whatnow.com",
   "すみだ経済新聞",
+  "ねとらぼ",
   "ふくおかナビ",
   "まいどなニュース",
   "イザ！",
@@ -240,20 +238,28 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 244,
+ "detail_count": 245,
  "digest": {
-  "headline": "ファーストリテイリング、9月国内売上2桁増とヒートテック新色発表が話題",
+  "headline": "ファーストリテイリング9月売上好調、新店舗情報も",
   "points": [
    {
-    "text": "ファーストリテイリングが発表した9月の国内ユニクロ既存店売上高は前年同月比10.8%増となり、気温低下で秋物衣類が好調でした。",
+    "text": "ファーストリテイリングが発表した9月の国内ユニクロ既存店売上高は前年同月比10.8%増となり、気温低下で秋物が好調でした。",
     "ids": [
-     "786c8214289eefdc",
+     "7590de3ecd0c2156",
      "1a035dccb8244031",
      "2c1c19c7bbfa8887"
     ]
    },
    {
-    "text": "ユニクロは「極暖ヒートテックカシミヤブレンド」の展開商品を拡充し、新色発表や新テレビCMの放映を10月5日から開始しました。",
+    "text": "西日本初のUNIQLO COFFEEを併設する新グローバル旗艦店「ユニクロ 京都」が、11月6日にオープンします。",
+    "ids": [
+     "cfbcbaea447fe439",
+     "9845cbd1ba56db8b",
+     "4302b9a6062a8343"
+    ]
+   },
+   {
+    "text": "ユニクロは極暖ヒートテックカシミヤブレンドの新色や新作レギンスなどを発表し、10月5日から新CMの放映も開始しました。",
     "ids": [
      "c39898822547927c",
      "3da18d8cfbf10d5b",
@@ -261,24 +267,135 @@
     ]
    },
    {
-    "text": "京都に4フロア約960坪の新グローバル旗艦店「ユニクロ 京都」が11月6日にオープンし、西日本初となる店舗併設のカフェも登場します。",
+    "text": "アパレル安全協定のインターナショナル・アコードにファーストリテイリングなど日本企業5社が加盟し労働環境整備に取り組んでいます。",
     "ids": [
-     "9845cbd1ba56db8b",
-     "4302b9a6062a8343"
+     "48e82f308bc9080b"
     ]
    },
    {
-    "text": "SNSでは「GU rokh コラボ」が急上昇し、Xで99件投稿されています。",
+    "text": "GU rokh コラボが話題となり、Xで3日に100件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-02T22:12:36.979089+09:00",
-  "generated_at": "2026-10-05T22:12:38.953143+09:00",
+  "from": "2026-10-03T08:34:43.634803+09:00",
+  "generated_at": "2026-10-06T08:34:45.570910+09:00",
   "article_count": 24,
-  "sig": "f8276a3becca"
+  "sig": "6f61469ab98b"
  },
  "items": [
+  {
+   "id": "fbb1d73ff7c48b44",
+   "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703466",
+   "title_original": "【オーケー銀座店】ユニクロコーヒー引換券などがもらえるお得企画開催中！コラボイベントではサンプリング配布なども《10月25日まで》（東京バーゲンマニア）",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/bgmania/m_bgmania-703466.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-06T07:07:00+00:00",
+   "title_ja": "オーケー銀座店でユニクロコーヒー引換券がもらえる企画が開催中",
+   "summary_ja": "オーケー銀座店にて、ユニクロコーヒーの引換券プレゼントやサンプリング配布などを実施するお得なコラボイベントが開催されている。本企画は10月25日までの期間限定で実施中。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "64c311e631e5cffd",
+   "url": "https://www.seventietwo.com/ja/business/SVTglobal_Uniqlo_20261005",
+   "title_original": "ファストリ4.07％高で上昇率トップ エムバペ契約＆10億ドル自社株買いのオン・ホールディングスは3.34％高｜「SVT グローバル」10月5日",
+   "source": "SEVENTIE TWO",
+   "image": "https://www.seventietwo.com/uploads/2026/05/840-15.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-06T00:00:00+00:00",
+   "title_ja": "ファーストリテイリングが株価上昇率トップ、4.07％高を記録",
+   "summary_ja": "10月5日の株式市場において、ファーストリテイリングの株価が前日比4.07％高となり、上昇率トップを記録した。海外ブランドの自社株買いなどの動きが報じられる中、株価の好調さが際立っている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "221af954e4d86a55",
+   "url": "https://senken.co.jp/posts/uniqlo-u-261006",
+   "title_original": "「ユニクロU」10周年 パリで祝う",
+   "source": "senken.co.jp",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/425119/facebook_123.JPG",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T21:26:00+00:00",
+   "title_ja": "「ユニクロU」が誕生10周年、フランス・パリで記念イベントを開催",
+   "summary_ja": "ユニクロの人気コレクション「ユニクロU（Uniqlo U）」が誕生10周年を迎え、フランス・パリで記念イベントが開催されました。長年にわたり愛されてきた同ラインの節目を現地で華やかに祝いました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "88c3e40f1f663053",
+   "url": "https://senken.co.jp/posts/uniqlo-261006",
+   "title_original": "ファストリ 熊本県菊陽町のユニクロとジーユーを移転・拡張",
+   "source": "senken.co.jp",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T21:25:00+00:00",
+   "title_ja": "ファストリ、熊本県菊陽町のユニクロとジーユーを移転・拡張へ",
+   "summary_ja": "ファーストリテイリングが、熊本県菊陽町にある「ユニクロ」と「ジーユー」の店舗を移転し、売り場面積を拡張することが分かりました。地域におけるサービス向上と店舗網の強化を図ります。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "cfbcbaea447fe439",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/miyoca/trend/miyoca-4765",
+   "title_original": "【京都・河原町】西日本初の「UNIQLO COFFEE」も、新グローバル旗艦店「ユニクロ 京都」が11月6日にオープン",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/picture/miyoca/m_miyoca-4765.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T20:00:00+00:00",
+   "title_ja": "西日本初のUNIQLO COFFEE併設、「ユニクロ 京都」が11月6日オープン",
+   "summary_ja": "西日本初となる「UNIQLO COFFEE」を併設した新グローバル旗艦店「ユニクロ 京都」が、11月6日にオープンすることが明らかになりました。京都の新たな注目スポットとして展開されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "7590de3ecd0c2156",
+   "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261005047",
+   "title_original": "ファストリ---大幅反発、9月既存店は5月以来の2ケタ成長に",
+   "source": "topics.smt.docomo.ne.jp",
+   "image": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T14:24:08+00:00",
+   "title_ja": "ファストリが大幅反発、9月既存店売上高は2ケタ増",
+   "summary_ja": "ファーストリテイリングの株価が大幅に反発した。9月の既存店売上高が5月以来となる2ケタ成長を記録したことが好感されている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "8441569ca6340f77",
+   "url": "https://nlab.itmedia.co.jp/research/articles/4042106",
+   "title_original": "「上下で8セット購入しました」 ユニクロのセール中“ジャケット”が大好評 「長時間着ても疲れにくい」「高級感も抜群」「普通のスーツを着る機会が減るほどに楽」（1/2） | ウェア ねとらぼリサーチ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/05/1748412916_ae893cf31188d906210e595c4055854f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T12:40:00+00:00",
+   "title_ja": "セール中のユニクロのジャケットが好評「着ても疲れにくく楽」との声",
+   "summary_ja": "ユニクロでセール対象となっているジャケットが、ネット上で高い評価を得ている。購入者からは、長時間着用しても疲れにくく、着心地が楽でありながら高級感も備えているといった好評の声が寄せられている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "58f25c1744e23668",
    "url": "https://news.yahoo.co.jp/articles/9dd12714e85fa8442fccee8f8db8d2b1a8d05d94",
@@ -309,7 +426,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9f39c4d5b3ac1210",
@@ -357,6 +474,22 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "3cd0f1df3ee5fd7d",
+   "url": "https://t.co/TQDDI4hM5z",
+   "title_original": "GU(ジーユー) on Instagram: \"Puffy Touch Knit – Say hi, shake hands, and don't leave before feeling the softness.​ ​ Beats by @jairo_beatbox​ ​ #GU #FW26​\"",
+   "source": "t.co",
+   "image": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/839157871_18637407949020850_8273671981986607045_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=04lyuBCGl4oQ7kNvwE-I04d&_nc_oc=AdoIJ85_J7Opve15m6B_dBOC-FaI_YbhDFGrlzxpxiJF1St94jnxYsv-o5OfUUhy_gc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=UalE7XA3HKQ7h0mjojt0yQ&_nc_ss=7b60f&oh=00_AQPRyV2itZPT9ZUoztRAv75QrmoLI0b5j_k-YWOm2UrcyA&oe=6AC9FFE6",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-05T09:59:51+00:00",
+   "title_ja": "GUが新作「パフィタッチニット」のプロモーション動画を公開",
+   "summary_ja": "GUは公式Instagramにて、柔らかな肌触りが特徴の新作「パフィタッチニット」の紹介動画を公開しました。秋冬シーズンに向けた心地よい素材感をアピールしています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
    "detail_tries": 1
   },
   {
@@ -373,7 +506,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f7e422a8cfe98874",
@@ -408,6 +541,22 @@
    "has_detail": true
   },
   {
+   "id": "70f27360e481cdaf",
+   "url": "https://lasisa.net/post/163157",
+   "title_original": "【ユニクロ】「買えたー！！」\"伝説のベビーブランケット再販！ママ・パパ悲喜こもごも！？「エラーで買えない」「深夜の販売開始は助かる」",
+   "source": "lasisa.net",
+   "image": "https://lasisa.net/wp-content/uploads/2027/10/20261005_uniqlo_01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T08:53:00+00:00",
+   "title_ja": "ユニクロの「伝説のベビーブランケット」が再販、ネットで大きな反響",
+   "summary_ja": "ユニクロで人気を集めるベビーブランケットが再販され、購入を試みる人々の間で話題となっています。深夜の販売開始を喜ぶ声がある一方、アクセス集中によるエラーに悩む声も上がっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "1bc92a4b1215983e",
    "url": "https://news.yahoo.co.jp/articles/b70fc3735c6cf17814ec0b6700106169525fce53",
    "title_original": "【ユニクロ】「買えたー！！」“伝説のベビーブランケット”今日から再販！「エラーで買えない」「深夜の販売開始は助かる」ママ・パパ悲喜こもごも（LASISA）",
@@ -437,7 +586,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "70c258727f9fdbd9",
@@ -469,7 +618,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fdb3b8a73ee5f737",
@@ -485,7 +634,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "786c8214289eefdc",
@@ -501,7 +650,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "da27338ad2836637",
@@ -739,6 +888,22 @@
    "title_ja": "TBS「つぶれない店」渋谷SPでSnow Man宮舘が深夜のユニクロに世界初潜入",
    "summary_ja": "TBSのバラエティ番組「坂上＆指原のつぶれない店 渋谷SP」にて、Snow Manの宮舘涼太が深夜のユニクロに世界初潜入します。普段は見られない深夜の店舗の様子が放送される予定です。",
    "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8257e9af7e6bafcf",
+   "url": "https://indianretailer.com/news/uniqlo-expands-retail-presence-larger-store-gurugram",
+   "title_original": "UNIQLO Expands Retail Presence with Larger Store in Gurugram",
+   "source": "Indian Retailer",
+   "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Untitled%20design%20-%202026-10-03T165156.026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-03T11:16:44+00:00",
+   "title_ja": "ユニクロ、インド・グルグラムに大型店舗を開設",
+   "summary_ja": "ユニクロがインドのグルグラムに、より広い売り場を持つ大型店舗をオープンし、同国での小売展開をさらに拡大させています。",
+   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -6517,166 +6682,6 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e93ea102aeb6aaa6",
-   "url": "https://www.fastretailing.com/employment/ja/fastretailing/jp/graduate/topmessage/tsukagoshi.html",
-   "title_original": "塚越 大介 | TOP MESSAGE | ファーストリテイリング 新卒採用",
-   "source": "fastretailing.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T02:56:21+00:00",
-   "title_ja": "ファーストリテイリング新卒採用サイトで塚越大介氏のメッセージを公開",
-   "summary_ja": "ファーストリテイリングの新卒採用ページにて、塚越大介氏によるトップメッセージが掲載されました。就職活動生に向けてグループの姿勢や目指す方向性についての思いが語られています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8ac0efe43878fc8c",
-   "url": "https://www.fashion-press.net/news/151027",
-   "title_original": "GU×ロク、リボン付きふんわりキルティングジャケットやうさぎ柄ニットカーディガン",
-   "source": "ファッションプレス",
-   "image": "https://www.fashion-press.net/img/news/151027/top.jpg?1789352670",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T02:30:00+00:00",
-   "title_ja": "GUが「ロク」とコラボ！キルティングジャケットやうさぎ柄ニットを発表",
-   "summary_ja": "GUがファッションブランド「ロク」とのコラボレーションアイテムを発表しました。リボン付きのキルティングジャケットや、うさぎ柄のニットカーディガンなど注目の新作が登場します。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1013d3d7ff1f255e",
-   "url": "https://www.fashionsnap.com/article/2026-09-14/gu-rokh-26aw",
-   "title_original": "ジーユーとロクのコラボ新作 花柄のフリースジャケットなど発売",
-   "source": "fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/09/a4a10461-a251-4225-8b2d-21d800bdc720.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T02:02:59+00:00",
-   "title_ja": "ジーユーとロクのコラボ新作、花柄フリースなどを発売",
-   "summary_ja": "ジーユーが「ロク」とのコラボレーションによる新作コレクションを発表。花柄のフリースジャケットなどを展開する予定。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "af07c9642fd74dbe",
-   "url": "https://news.yahoo.co.jp/articles/f8c1a79a80afb1dae36d23832f024ffb28cd20dc",
-   "title_original": "ジーユーとロクのコラボ新作 花柄のフリースジャケットなど発売（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00532464-fashions-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T02:02:59+00:00",
-   "title_ja": "GUが「rokh」とのコラボ新作を発表、花柄フリースジャケットなどを発売",
-   "summary_ja": "ジーユーがファッションブランド「rokh（ロク）」とのコラボレーションによる新作アイテムを発売します。ラインナップには印象的な花柄をあしらったフリースジャケットなどが含まれており、注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "dd6a8e63b6889ffc",
-   "url": "https://youtu.be/WuDwp8R3PAs?si=EP386o2DlPmBMhx1",
-   "title_original": "2026 メリノ・カシミヤ LifeとWear/往復書簡 10秒",
-   "source": "YouTube",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T01:55:44+00:00",
-   "title_ja": "ユニクロが2026年秋のメリノ・カシミヤ新CM「往復書簡」編の動画を公開",
-   "summary_ja": "ユニクロが公式YouTubeチャンネルにて、メリノウールやカシミヤのアイテムを題材にした「LifeとWear/往復書簡」シリーズの2026年版10秒CM動画を公開した。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "a995fc85d788ece5",
-   "url": "https://senken.co.jp/posts/uniqlo-260914",
-   "title_original": "ユニクロがスポーツと協業する理由 Jリーグ、Bリーグ、ドジャース… 個店経営の深化へ",
-   "source": "繊研新聞",
-   "image": "https://senken.co.jp/production/uploads/file_content/file/422861/facebook_760570__50_.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-13T21:30:00+00:00",
-   "title_ja": "ユニクロがスポーツ界との協業を推進、個店経営のさらなる深化を目指す",
-   "summary_ja": "ユニクロがJリーグやBリーグ、ドジャースなどのスポーツチーム・団体と協業を進める理由を解説した記事です。スポーツとの取り組みを通じて地域に密着した個店経営を深化させ、顧客との関係強化を図る狙いを伝えています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "525645fc7626d816",
-   "url": "https://whatnow.com/uncategorized/restaurants/uniqlo-preparing-flagship-store-on-san-francisco-s-market-street",
-   "title_original": "UNIQLO Preparing Flagship Store On San Francisco s Market Street",
-   "source": "whatnow.com",
-   "image": "https://whatnow.com/wp-content/uploads/2026/09/uniqlo-1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T20:27:40+00:00",
-   "title_ja": "ユニクロが米サンフランシスコのマーケット通りに旗艦店をオープン準備中",
-   "summary_ja": "ユニクロが、米国サンフランシスコの主要な通りであるマーケットストリートに、新たな旗艦店の出店準備を進めていることが分かりました。現地でのブランド発信を強化する象徴的な店舗になるとみられます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "990c4a6a02f7ecf9",
-   "url": "https://news.yahoo.co.jp/articles/d05c3877bd4a4f4d68346f274088ea9b4265dd75?page=2",
-   "title_original": "ユニクロ〈キルトパジャマ／くまのがっこう〉2490円が9月14日発売予定！中綿入りで上下はボタン留め（LIMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00138183-toushin-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-13T19:41:14+00:00",
-   "title_ja": "ユニクロが「くまのがっこう」のキルトパジャマを9月14日に発売",
-   "summary_ja": "ユニクロは、人気絵本「くまのがっこう」とコラボレーションしたキルトパジャマを9月14日に発売します。価格は2490円で、温かい中綿入りの生地を使用し、上下がボタンで留められる実用的な仕様が特徴です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "33308d2a018784d5",
-   "url": "https://wharf-life.com/interviews/canary-wharf-unveils-uniqlo-letting-and-looks-to-the-future-of-retail",
-   "title_original": "Canary Wharf unveils Uniqlo letting and looks to the future of retail",
-   "source": "Wharf Life",
-   "image": "https://wharf-life.com/wp-content/uploads/2026/09/UNIQLO-Canary-WharfWEB.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T15:11:47+00:00",
-   "title_ja": "ロンドンのカナリー・ワーフがユニクロの出店契約を発表",
-   "summary_ja": "ロンドンの複合開発地区カナリー・ワーフが、ユニクロとの店舗賃貸契約を発表しました。商業エリアの再編と小売事業の将来像を見据える中で、新たなテナントとしてユニクロを迎え入れ、エリアの活性化を目指しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "eefd47bcd67d10f4",
-   "url": "https://www.tipranks.com/stocks/de:fr7/earnings/q3-2026-report?hash=earningsAudio",
-   "title_original": "FAST RETAILING CO LTD (FR7) Q3 2026 Earnings Report - Results, Call & Slides",
-   "source": "TipRanks",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-13T09:45:51+00:00",
-   "title_ja": "ファーストリテイリングが2026年第3四半期決算を発表",
-   "summary_ja": "ファーストリテイリングの2026年第3四半期決算に関するレポート。業績発表結果をはじめ、投資家向けのカンファレンスコール内容や説明用スライド資料が公開されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "detail_tries": 2
   }
  ]
