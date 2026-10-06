@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T08:26:50.887636+09:00",
+ "updated_at": "2026-10-06T12:42:47.751232+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -74,6 +74,7 @@
   "MEN'S NON-NO WEB",
   "Manchester Evening News",
   "Manchester Wire",
+  "Marketing-Interactive",
   "Miami Herald",
   "Miami New Times",
   "Mindanao Times",
@@ -82,7 +83,6 @@
   "Moomoo",
   "NDTV Profit",
   "Nagaland Tribune",
-  "New Statesman",
   "New York Family",
   "Newswav",
   "PR Newswire Canada",
@@ -148,6 +148,7 @@
   "hype.my",
   "jimoharu.net",
   "jp.ajunews.com",
+  "kumanichi.com",
   "lasisa.net",
   "lee.hpplus.jp",
   "limo.media",
@@ -184,7 +185,6 @@
   "まいどなニュース",
   "イザ！",
   "オトナンサー",
-  "オリコンニュース",
   "クランクイン！",
   "クーリエ・ジャポン",
   "コラボカフェ",
@@ -234,16 +234,15 @@
   "週刊女性PRIME",
   "電撃オンライン",
   "鳥取マガジン",
-  "매일경제",
-  "헤럴드경제"
+  "매일경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 244,
  "digest": {
-  "headline": "ファーストリテイリング9月売上好調、新店舗情報も",
+  "headline": "ファストリ9月売上2ケタ増、「ユニクロ 京都」11月開業へ",
   "points": [
    {
-    "text": "ファーストリテイリングが発表した9月の国内ユニクロ既存店売上高は前年同月比10.8%増となり、気温低下で秋物が好調でした。",
+    "text": "ファーストリテイリングの9月国内ユニクロ既存店売上高は、気温低下による秋物の好調により前年同月比で2ケタ増を記録しました。",
     "ids": [
      "7590de3ecd0c2156",
      "1a035dccb8244031",
@@ -251,15 +250,15 @@
     ]
    },
    {
-    "text": "西日本初のUNIQLO COFFEEを併設する新グローバル旗艦店「ユニクロ 京都」が、11月6日にオープンします。",
+    "text": "京都・河原町に新グローバル旗艦店「ユニクロ 京都」が11月6日にオープンし、西日本初となるUNIQLO COFFEEも併設されます。",
     "ids": [
+     "d7e2e4e73d43e547",
      "cfbcbaea447fe439",
-     "9845cbd1ba56db8b",
      "4302b9a6062a8343"
     ]
    },
    {
-    "text": "ユニクロは極暖ヒートテックカシミヤブレンドの新色や新作レギンスなどを発表し、10月5日から新CMの放映も開始しました。",
+    "text": "ユニクロは「極暖ヒートテックカシミヤブレンド」のラインナップを拡充し、新CMの放映やラッピング施策を順次スタートします。",
     "ids": [
      "c39898822547927c",
      "3da18d8cfbf10d5b",
@@ -267,21 +266,23 @@
     ]
    },
    {
-    "text": "アパレル安全協定のインターナショナル・アコードにファーストリテイリングなど日本企業5社が加盟し労働環境整備に取り組んでいます。",
+    "text": "熊本の「ゆめタウン光の森店」が9日に県内最大の売場面積へリニューアルするほか、ユニクロUがパリで10周年記念イベントを開催しました。",
     "ids": [
-     "48e82f308bc9080b"
+     "d465dd31d27b07f5",
+     "221af954e4d86a55",
+     "88c3e40f1f663053"
     ]
    },
    {
-    "text": "GU rokh コラボが話題となり、Xで3日に100件投稿されました。",
+    "text": "SNSでは「GU rokh コラボ」が話題を集め、Xで3日に109件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-03T08:34:43.634803+09:00",
-  "generated_at": "2026-10-06T08:34:45.570910+09:00",
+  "from": "2026-10-03T12:47:53.729852+09:00",
+  "generated_at": "2026-10-06T12:47:55.726243+09:00",
   "article_count": 24,
-  "sig": "6f61469ab98b"
+  "sig": "3d97438cede9"
  },
  "items": [
   {
@@ -296,6 +297,38 @@
    "title_ja": "オーケー銀座店でユニクロコーヒー引換券がもらえる企画が開催中",
    "summary_ja": "オーケー銀座店にて、ユニクロコーヒーの引換券プレゼントやサンプリング配布などを実施するお得なコラボイベントが開催されている。本企画は10月25日までの期間限定で実施中。",
    "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7d11ab2d882367fd",
+   "url": "https://www.marketing-interactive.com/uniqlo-takes-proton-for-a-spin-with-its-new-utme-collection",
+   "title_original": "UNIQLO takes PROTON for a spin with its new UTme! collection",
+   "source": "Marketing-Interactive",
+   "image": "https://marketing-interactive-assets.b-cdn.net/article_images/uniqlo-takes-proton-for-a-spin-with-its-new-utme-collection/1791190298_Uniqlo%20Malaysia%20PROTON.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T01:06:59+00:00",
+   "title_ja": "ユニクロが自動車大手プロトンとコラボ、UTme!で新作展開",
+   "summary_ja": "ユニクロが自動車メーカーのプロトン（PROTON）と提携し、「UTme!」シリーズで新たなコラボコレクションを展開することが分かりました。地域の話題を取り入れたデザインアイテムが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "d465dd31d27b07f5",
+   "url": "https://kumanichi.com/articles/2043232",
+   "title_original": "ユニクロ、菊陽町に熊本県内最大店 「ゆめタウン光の森店」9日リニューアル 売り場面積2割増",
+   "source": "kumanichi.com",
+   "image": "https://kumanichi.com/sites/default/files/styles/sns_share/public/2026-10/IP261005TAN000004000_02.jpg?itok=CNjf5vZK",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-06T01:00:00+00:00",
+   "title_ja": "「ユニクロ ゆめタウン光の森店」が9日にリニューアル、熊本県内最大の売り場面積に拡大",
+   "summary_ja": "熊本県菊陽町にあるユニクロ「ゆめタウン光の森店」が、10月9日にリニューアルオープンします。今回の改装により売り場面積が2割増加し、熊本県内におけるユニクロの店舗として最大の広さになります。",
+   "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -346,7 +379,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "cfbcbaea447fe439",
@@ -490,7 +523,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3da18d8cfbf10d5b",
@@ -637,6 +670,22 @@
    "detail_tries": 2
   },
   {
+   "id": "d7e2e4e73d43e547",
+   "url": "https://ampmedia.jp/2026/10/05/uniqlo-kyoto",
+   "title_original": "京都・河原町にグローバル旗艦店「ユニクロ 京都」11月6日オープン 西日本初「UNIQLO COFFEE」も",
+   "source": "AMP[アンプ]",
+   "image": "https://ampmedia.jp/wp-content/uploads/2026/10/2026100200_img1-jp-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T04:49:29+00:00",
+   "title_ja": "京都・河原町にユニクロ 京都が11月6日オープン",
+   "summary_ja": "京都・河原町にグローバル旗艦店として「ユニクロ 京都」が11月6日に開業します。西日本初となる「UNIQLO COFFEE」も併設されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
    "id": "786c8214289eefdc",
    "url": "https://shikiho.toyokeizai.net/news/0/960158",
    "title_original": "Fリテが大幅反発､9月既存店売上は前年比2桁増",
@@ -715,6 +764,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "85b86d66f452b819",
+   "url": "https://www.moomoo.com/ja/news/post/1000584793",
+   "title_original": "ファストリ－反発 9月度の国内ユニクロ既存店売上高11％増 秋冬販売が好調",
+   "source": "Moomoo",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-05T00:01:00+00:00",
+   "title_ja": "国内ユニクロの9月度既存店売上高は11％増と好調",
+   "summary_ja": "ファーストリテイリングの国内ユニクロ事業における9月度の既存店売上高は前年同月比11％増となり、秋冬物の販売が好調です。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e74eeec5691edf82",
@@ -923,6 +988,22 @@
    "brand": "グループ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "8fc3b83dd2b3c444",
+   "url": "https://www.sanyonews.jp/article/1983909",
+   "title_original": "【ネパール大規模洪水・土砂災害 緊急支援】 ファーストリテイリング支援により瓦礫撤去とコミュニティインフラの復旧支援が決定",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/35080/398/resize/d35080-398-ddfa61795218d89a55d1-0.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-03T07:00:00+00:00",
+   "title_ja": "ファーストリテイリング、ネパール水害でインフラ復旧支援",
+   "summary_ja": "ファーストリテイリングはネパールの大規模洪水および土砂災害に対し、瓦礫の撤去やコミュニティインフラの復旧に向けた緊急支援を実施することを決定した。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "b271b6d6ddd64b89",
@@ -6603,86 +6684,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "8c6086b1bcae1e66",
-   "url": "https://www.newstatesman.com/politics/society/2026/09/total-victory-uniqlo-jw-anderson-collaboration",
-   "title_original": "The total victory of Uniqlo’s JW Anderson collaboration",
-   "source": "New Statesman",
-   "image": "https://dl6pgk4f88hky.cloudfront.net/2026/09/11/z693_017-800x418.jpg?1789405904",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T06:09:04+00:00",
-   "title_ja": "ユニクロのJWアンダーソンコラボがもたらした完全な勝利",
-   "summary_ja": "ユニクロとJWアンダーソンのコラボレーションが、ファッション界においてどのような大きな成功を収めたのかを評価しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9a600f1f3ef37c16",
-   "url": "https://www.newstatesman.com/politics/society/2026/09/total-eclipse-of-the-arse-uniqlos-jw-anderson-collaboration-victory",
-   "title_original": "Total eclipse of the arse: Uniqlo’s JW Anderson collaboration victory",
-   "source": "New Statesman",
-   "image": "https://dl6pgk4f88hky.cloudfront.net/2026/09/11/z693_017-800x418.jpg?1789383145",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T06:09:04+00:00",
-   "title_ja": "ユニクロとJWアンダーソンのコラボレーションが評価を集める",
-   "summary_ja": "ユニクロとJWアンダーソン（JW Anderson）のコラボレーション商品が話題となり、高い評価を得ています。洗練されたデザインと日常着としての使いやすさが融合したコレクションとして支持されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ca7912c1e9aeb4e8",
-   "url": "https://mbiz.heraldcorp.com/article/10872376",
-   "title_original": "No trip to Japan needed: GU, Randorin, Yolu now available in Korea",
-   "source": "헤럴드경제",
-   "image": "https://wimg.heraldcorp.com/news/cms/2026/09/14/news-p.v1.20260914.9a679286707b476ea083a8e6ecd88cd1_T1.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-14T04:34:00+00:00",
-   "title_ja": "GUなどの日本ブランドが韓国で展開、日本に行かずに購入可能に",
-   "summary_ja": "GUをはじめとする日本のブランドが韓国市場で手に入るようになりました。これまで日本を訪れなければ購入できなかったアイテムが現地で購入可能となり、韓国の消費者の利便性が高まっています。",
-   "category": "海外展開",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0e5c98db9ed215d1",
-   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
-   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
-   "source": "uptodate.tokyo",
-   "image": "https://uptodate.tokyo/wp-content/uploads/2026/08/IMG_1509-910x1024.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T03:22:50+00:00",
-   "title_ja": "GU、ポケモンとの新作コラボコレクションを10月23日発売",
-   "summary_ja": "GUは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを国内10月23日より発売します。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "65667b59482b2630",
-   "url": "https://www.oricon.co.jp/news/2479878/full",
-   "title_original": "松下洸平、ユニクロ秋冬ファッションで爽やかな魅力 中島歩の“甘やかされた”表情も",
-   "source": "オリコンニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-14T03:00:00+00:00",
-   "title_ja": "松下洸平と中島歩がユニクロの秋冬ファッションを爽やかに着用",
-   "summary_ja": "俳優の松下洸平さんと中島歩さんがユニクロの秋冬ファッションを着用した姿が公開されました。松下さんは爽やかな魅力を披露し、中島さんの表情とともに秋冬のスタイリングをアピールしています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
