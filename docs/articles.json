@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T12:09:59.654946+09:00",
+ "updated_at": "2026-10-07T21:15:02.630532+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -127,7 +127,6 @@
   "UOMO",
   "Unisba Media",
   "Vietnam.vn",
-  "Vogue Japan",
   "WWDJAPAN",
   "Web eclat",
   "Yahoo",
@@ -232,12 +231,12 @@
   "매일경제"
  ],
  "count": 400,
- "detail_count": 243,
+ "detail_count": 244,
  "digest": {
-  "headline": "ファストリ9月売上好調、京都に新旗艦店オープンへ",
+  "headline": "ファストリ9月売上好調、京都への旗艦店出店や海外展開も加速",
   "points": [
    {
-    "text": "ファーストリテイリングの9月の国内ユニクロ既存店売上高は、気温低下による秋物商品の好調で前年同月比2桁増を記録し、株価も反発しました。",
+    "text": "ファーストリテイリングの9月国内既存店売上高は気温低下による秋物の好調で前年比2ケタ増を記録し、株価も大幅反発しました。",
     "ids": [
      "7590de3ecd0c2156",
      "dcca92854ef1e393",
@@ -245,7 +244,7 @@
     ]
    },
    {
-    "text": "京都・河原町に4フロア約960坪のグローバル旗艦店「ユニクロ 京都」が11月6日に開業し、西日本初のUNIQLO COFFEEも併設されます。",
+    "text": "11月6日に「ユニクロ 京都」がオープンし、西日本初となる「UNIQLO COFFEE」が併設される予定です。",
     "ids": [
      "d7e2e4e73d43e547",
      "08ccfb957a84b531",
@@ -253,32 +252,112 @@
     ]
    },
    {
-    "text": "ユニクロは米マイアミ初店舗のオープン日発表やベトナム・タインホアへの新規出店など、国内外での事業拡大を加速させています。",
+    "text": "ユニクロは米マイアミ初となる店舗のオープン日を発表したほか、インドやベトナムでも事業拡大を進めています。",
     "ids": [
+     "24b87dd96c6fd8f6",
      "a70537d87de3eab2",
      "886885a8fb5be2ea"
     ]
    },
    {
-    "text": "冬のヒートテックで極暖カシミヤブレンドの拡充や新色発表が行われたほか、メリノニット等の期間限定セールや地域限定企画も実施されています。",
+    "text": "冬のヒートテックでは「極暖カシミヤブレンド」の新色発表とラインナップ拡充が行われ、新CMも開始されました。",
     "ids": [
      "c39898822547927c",
-     "284ed42e90b9d35b",
-     "ab1955e6e2bb155e"
+     "3da18d8cfbf10d5b"
     ]
    },
    {
-    "text": "SNSではGU rokh コラボが継続人気を集め、Xで120件の投稿を記録しています。",
+    "text": "SNSではGU rokh コラボが急上昇し、Xで3日に141件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-04T12:17:11.907562+09:00",
-  "generated_at": "2026-10-07T12:17:29.260370+09:00",
+  "from": "2026-10-04T21:39:52.894418+09:00",
+  "generated_at": "2026-10-07T21:40:04.531346+09:00",
   "article_count": 24,
-  "sig": "eeead903d9a3"
+  "sig": "83da72b0ae5f"
  },
  "items": [
+  {
+   "id": "24b87dd96c6fd8f6",
+   "url": "https://www.fibre2fashion.com/news/fashion-store-openings/uniqlo-expands-gurugram-presence-with-large-ambience-mall-store-314035-newsdetails.htm?amp=true",
+   "title_original": "Uniqlo expands Gurugram presence with large Ambience Mall store",
+   "source": "Fibre2Fashion",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T09:23:40+00:00",
+   "title_ja": "ユニクロがグルガオンの大型モールに出店拡大",
+   "summary_ja": "ユニクロは、インドのグルガオンにあるアンビエンス・モールに大型店舗をオープンし、現地でのプレゼンスを拡大しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "4a12cc77bbdb587d",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-schedules-results-as-fast-retailing-stock-trades-below-eur/70254411",
+   "title_original": "Fast Retailing schedules results as Fast Retailing stock trades below EUR 423.55",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405009_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T08:46:06+00:00",
+   "title_ja": "ファーストリテイリングが決算発表を予定",
+   "summary_ja": "ファーストリテイリングが業績発表のスケジュールを控えていることを伝えるニュースです。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "eb453a4b930165ae",
+   "url": "https://news.yahoo.co.jp/articles/1969aa4cb03b357c3403705f7fced125c54ef7a8",
+   "title_original": "【ユニクロ】期間限定価格1990円「男女兼用ジョガーパンツ」ウルトラストレッチ機能＆ドライEXで動きやすい！（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00140871-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-07T08:31:10+00:00",
+   "title_ja": "ユニクロのジョガーパンツが期間限定価格に",
+   "summary_ja": "ウルトラストレッチ機能やドライEXを搭載したユニクロの男女兼用ジョガーパンツが、期間限定の特別価格で販売されています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f5091a6cd0d54bbc",
+   "url": "https://news.yahoo.co.jp/articles/6fdc8a3556db38333f206cb15da6a4ea7c13998a?source=rss",
+   "title_original": "【ヤフコメで話題】「ユニクロのフリース品質変化に賛否」「安価競合との比較も」 - リサイクル素材導入後の評価が分かれる",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000028-wordleafai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-07T08:20:15+00:00",
+   "title_ja": "ユニクロのフリース品質変化に賛否、リサイクル素材導入後の評価が分かれる",
+   "summary_ja": "ユニクロがフリース製品にリサイクル素材を導入したことによる品質の変化について、ネット上で賛否両論が起きています。安価な競合他社製品との比較も含め、ユーザーの間で評価が分かれている状況が注目されています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "80ca7ea31722bad7",
+   "url": "https://www.vietnam.vn/ja/uniqlo-va-nhung-no-luc-thuc-day-phat-trien-ben-vung",
+   "title_original": "ユニクロと、持続可能な開発を促進するための取り組み。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/07/1791338711243_uniqlo-va-nhung-w720t0-di2640d180d2223248t11200l1-a1.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-07T01:20:00.991000+00:00",
+   "title_ja": "ユニクロが推進する持続可能な開発とサステナビリティへの取り組み",
+   "summary_ja": "ユニクロが持続可能な開発を促進するために行っている、様々な取り組みについて紹介しています。環境に配慮した事業運営や社会貢献を目指し、ブランドとして具体的な施策を推進しています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "284ed42e90b9d35b",
    "url": "https://www.walkerplus.com/article/1444225/amp",
@@ -6598,86 +6677,6 @@
    "brand": "GU",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "d5c784f4c00c77fa",
-   "url": "https://www.vogue.co.jp/article/2026-09-15-uniqlo-c",
-   "title_original": "【全ルック公開！】ユニクロ「UNIQLO : C」2026年秋冬コレクションは9月25日（金）発売！",
-   "source": "Vogue Japan",
-   "image": "https://media.vogue.co.jp/photos/6aa8dc6704fd7d54c3812432/16:9/w_1280,c_limit/260607_UNIQLO_CPJ_FW26_LOOK_06_DOUBLE_0322_4x5_LR.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T06:25:14.342000+00:00",
-   "title_ja": "ユニクロ「UNIQLO : C」2026秋冬の全ルック公開、9月25日発売",
-   "summary_ja": "ユニクロの「UNIQLO : C」2026年秋冬コレクションについて、発売に先立ち全ルックが公開された。同コレクションは9月25日に発売される予定となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bffca7917564d88d",
-   "url": "https://newswav.com/article/zizan-razak-diana-danielle-more-malaysian-stars-show-off-their-denim-style-A2609_KDwZN4",
-   "title_original": "Zizan Razak, Diana Danielle & More Malaysian Stars Show Off Their Denim Style in UNIQLO’s Latest Collection",
-   "source": "Newswav",
-   "image": "https://thestoly.com/wp-content/uploads/2026/09/siakap-keli-article-cover-1789444216.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T04:16:04+00:00",
-   "title_ja": "マレーシアの著名人がユニクロの最新デニムコレクションを着こなす広告企画を展開",
-   "summary_ja": "マレーシアのタレントであるジザン・ラザック氏やダイアナ・ダニエル氏らが、ユニクロの最新デニムコレクションを着用したスタイルを披露。現地でのプロモーションとして、著名人を起用したデニムのスタイルを発信している。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "969f35337a4d67d8",
-   "url": "https://news.yahoo.co.jp/articles/979d221a62820c8ea233bf3d05615629889705ab",
-   "title_original": "綾瀬はるか＆松下洸平＆河合優実出演、ユニクロのCM「LifeとWear／往復書簡」篇で流れる曲は？（CDJournal）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260915-00000027-cdj-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T04:13:17+00:00",
-   "title_ja": "綾瀬はるかさん等が出演するユニクロ新CMの楽曲情報を紹介",
-   "summary_ja": "綾瀬はるかさん、松下洸平さん、河合優実さんが出演するユニクロのCM「LifeとWear／往復書簡」篇で使用されている楽曲についての情報が公開されています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "cea879c7198cda83",
-   "url": "https://news.yahoo.co.jp/articles/3ecda43067850b39a65429b415f303388adf770c",
-   "title_original": "赤に一目ぼれ！＞ユニクロの〈高見え〉カーディガンが期間限定で2990円に「ネイビーはめちゃくちゃ着痩せ」「ふわふわでもちっとした着心地」「冷え性民のヒーロー」（婦人公論.jp）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260915-00024012-fujinjp-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T03:30:37+00:00",
-   "title_ja": "ユニクロのカーディガンが期間限定で2990円に値下げ、評判集まる",
-   "summary_ja": "ユニクロのカーディガンが期間限定で2990円の価格で販売されています。着心地の良さや見た目の良さ、着痩せ効果などが評価され、ネット上で注目を集めています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "6a0fe7d11acde75c",
-   "url": "https://www.wwdjapan.com/articles/2497977",
-   "title_original": "「ユニクロ：シー」が2026-27年秋冬コレクションを発売 フラッフィカシミヤニットやコーデュロイパンツが登場",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T03:09:47+00:00",
-   "title_ja": "「ユニクロ：シー」2026-27年秋冬発表、ニットやパンツ登場",
-   "summary_ja": "「ユニクロ：シー」が2026-27年秋冬コレクションを発売する。今回のコレクションには、フラッフィカシミヤニットやコーデュロイパンツなどがラインアップされている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
