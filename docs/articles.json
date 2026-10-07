@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T21:15:02.630532+09:00",
+ "updated_at": "2026-10-08T07:24:09.773356+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -51,7 +51,6 @@
   "HRプロ",
   "Hashtag Legend Hong Kong",
   "Hindustan Times",
-  "Hypebeast",
   "ITmedia",
   "Impress Watch",
   "Indian Retailer",
@@ -103,6 +102,7 @@
   "Secret Miami",
   "Secret San Francisco",
   "Shopping Centre News",
+  "Smartkarma",
   "Style Rave",
   "Sunshine Coast News",
   "SussexWorld",
@@ -146,7 +146,6 @@
   "kumanichi.com",
   "lasisa.net",
   "lee.hpplus.jp",
-  "limo.media",
   "marketscreener.com",
   "metromode.se",
   "miamiherald.com",
@@ -213,6 +212,7 @@
   "日テレNEWS NNN",
   "日本経済新聞",
   "日本食糧新聞・電子版",
+  "日経クロストレンド",
   "時事ドットコム",
   "朝日新聞",
   "朝鮮日報",
@@ -233,18 +233,18 @@
  "count": 400,
  "detail_count": 244,
  "digest": {
-  "headline": "ファストリ9月売上好調、京都への旗艦店出店や海外展開も加速",
+  "headline": "ファストリ9月既存店売上高が2桁増、京都・河原町に新旗艦店オープンへ",
   "points": [
    {
-    "text": "ファーストリテイリングの9月国内既存店売上高は気温低下による秋物の好調で前年比2ケタ増を記録し、株価も大幅反発しました。",
+    "text": "ファーストリテイリングの9月国内既存店売上高は前年同月比で2桁増を記録し、気温低下による秋物好調が株価の反発につながった一方、第4四半期純利益の減益見通しも報じられた。",
     "ids": [
+     "64a005d3d1e4a2a3",
      "7590de3ecd0c2156",
-     "dcca92854ef1e393",
-     "786c8214289eefdc"
+     "dcca92854ef1e393"
     ]
    },
    {
-    "text": "11月6日に「ユニクロ 京都」がオープンし、西日本初となる「UNIQLO COFFEE」が併設される予定です。",
+    "text": "11月6日、京都・河原町に約960坪のグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初となる「UNIQLO COFFEE」が併設される。",
     "ids": [
      "d7e2e4e73d43e547",
      "08ccfb957a84b531",
@@ -252,7 +252,7 @@
     ]
    },
    {
-    "text": "ユニクロは米マイアミ初となる店舗のオープン日を発表したほか、インドやベトナムでも事業拡大を進めています。",
+    "text": "ユニクロはインド・グルガオンでの出店拡大や米マイアミ初店舗の発表、ベトナム・タインホアへの新規進出など海外展開を加速している。",
     "ids": [
      "24b87dd96c6fd8f6",
      "a70537d87de3eab2",
@@ -260,24 +260,56 @@
     ]
    },
    {
-    "text": "冬のヒートテックでは「極暖カシミヤブレンド」の新色発表とラインナップ拡充が行われ、新CMも開始されました。",
+    "text": "2026年冬シーズンに向け、防寒インナー「ヒートテック」で人気の極暖カシミヤブレンドの拡充や新色が発表され、新CMもスタートした。",
     "ids": [
      "c39898822547927c",
      "3da18d8cfbf10d5b"
     ]
    },
    {
-    "text": "SNSではGU rokh コラボが急上昇し、Xで3日に141件投稿されました。",
+    "text": "SNSでは「GU rokh コラボ」が急上昇し、Xで3日に76件の投稿が確認されている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-04T21:39:52.894418+09:00",
-  "generated_at": "2026-10-07T21:40:04.531346+09:00",
+  "from": "2026-10-05T07:29:31.814500+09:00",
+  "generated_at": "2026-10-08T07:29:33.968295+09:00",
   "article_count": 24,
-  "sig": "83da72b0ae5f"
+  "sig": "8b58e83d5a64"
  },
  "items": [
+  {
+   "id": "faefc7c9bfb89d4e",
+   "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01963",
+   "title_original": "ユニクロ、3年ぶりマスク再販 顧客の声で需要変化を捉える",
+   "source": "日経クロストレンド",
+   "image": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01963/nxr_m.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-07T15:00:00+00:00",
+   "title_ja": "ユニクロが3年ぶりにマスクを再販、顧客の声から需要の変化を捉える",
+   "summary_ja": "ユニクロが3年ぶりにマスクの販売を再開したことが明らかになりました。顧客から寄せられた要望や意見をもとに、感染対策や日常使いにおける需要の変化を的確に捉えた商品展開となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "64a005d3d1e4a2a3",
+   "url": "https://www.moomoo.com/news/post/1000676696/fast-retailing-expected-to-report-lower-fourth-quarter-net-profit",
+   "title_original": "Fast Retailing Expected to Report Lower Fourth-Quarter Net Profit -- Earnings Preview",
+   "source": "Moomoo",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-07T09:45:50+00:00",
+   "title_ja": "ファーストリテイリング、第4四半期純利益が減益の見通し",
+   "summary_ja": "ファーストリテイリングの第4四半期決算について、純利益の減益が予想されていることを伝える金融・市場ニュース。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
   {
    "id": "24b87dd96c6fd8f6",
    "url": "https://www.fibre2fashion.com/news/fashion-store-openings/uniqlo-expands-gurugram-presence-with-large-ambience-mall-store-314035-newsdetails.htm?amp=true",
@@ -292,7 +324,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4a12cc77bbdb587d",
@@ -455,6 +487,22 @@
    "has_detail": true
   },
   {
+   "id": "40b922acd2365330",
+   "url": "https://www.trendhunter.com/trends/nostalgic-graphic-tees",
+   "title_original": "Retro Graphic Tees: UNIQLO's Pokémon Anniversary Tees Bring Early-Game Artwork",
+   "source": "Trend Hunter",
+   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/640/640743/640743_1_1200.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T07:50:45+00:00",
+   "title_ja": "ユニクロ、ポケモン記念レトロTシャツを発売",
+   "summary_ja": "ユニクロはポケモンの記念コレクションとして、初期ゲームのイラストを使用したレトロデザインのグラフィックTシャツを新作として販売開始した。ファンの注目が集まっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "fbb1d73ff7c48b44",
    "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703466",
    "title_original": "【オーケー銀座店】ユニクロコーヒー引換券などがもらえるお得企画開催中！コラボイベントではサンプリング配布なども《10月25日まで》（東京バーゲンマニア）",
@@ -469,6 +517,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "a80893a37909b234",
+   "url": "https://www.smartkarma.com/insights/fast-retailing-9983-jp-synthetic-expert-call-transcript-06-oct-2026",
+   "title_original": "Fast Retailing (9983 JP): Synthetic Expert Call Transcript (06 Oct 2026)",
+   "source": "Smartkarma",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-06T07:00:00+00:00",
+   "title_ja": "ファーストリテイリング、10月6日エキスパート・コール文字起こし公開",
+   "summary_ja": "ファーストリテイリングは2026年10月6日に実施したエキスパート・コールの全文を公開し、同社の業績見通しや戦略が議論された。投資家の関心が高まっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "a70537d87de3eab2",
@@ -6612,70 +6676,6 @@
    "category": "キャンペーン・セール",
    "brand": "GU",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "27eea957c35409cb",
-   "url": "https://limo.media/articles/-/138545",
-   "title_original": "ファーストリテイリング、セグメント別の売上で過半を占めるのは海外ユニクロ事業。6月末を境に水準を切り下げた株価が問うもの セグメント別の売上収益と営業利益を並べると、海外ユニクロ事業が収益の重心を担っている姿が見えてくる | 概要 | LIMO | くらしとお金の経済メディ",
-   "source": "limo.media",
-   "image": "https://limo.ismcdn.jp/mwimgs/6/8/1200w/img_684bff82a615f557033d01fb477bd11c71724.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T09:40:00+00:00",
-   "title_ja": "ファーストリテイリング、海外ユニクロ事業が売上の過半を占める",
-   "summary_ja": "ファーストリテイリングのセグメント別業績において、海外ユニクロ事業が売上収益および営業利益の過半を占める柱となっている現状を分析。6月末以降の株価推移とともに、同社の収益構造における海外事業の重要性を指摘している。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "5f668f72507fef3c",
-   "url": "https://hypebeast.com/2026/9/uniqlo-c-fw26-precision-of-softness-collection-clare-waight-keller-release-info",
-   "title_original": "UNIQLO : C Unveils FW26 \"Precision of Softness\" Collection by Clare Waight Keller",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F09%2F15%2Funiqlo-c-fw26-precision-of-softness-collection-clare-waight-keller-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-15T09:04:13+00:00",
-   "title_ja": "UNIQLO : Cの2026年秋冬新作「Precision of Softness」が公開",
-   "summary_ja": "クレア・ウェイ・ケラー氏がデザインを手掛ける「UNIQLO : C」の2026年秋冬コレクション「Precision of Softness」がお披露目されました。素材感と美しいシルエットにこだわった新作アイテムが揃います。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "aa532a226a36dbf6",
-   "url": "https://news.shoninsha.co.jp/merchandising/318597",
-   "title_original": "ユニクロnews｜｢Uniqlo:C 2026秋冬コレクション｣9/25発売",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T08:27:47+00:00",
-   "title_ja": "「Uniqlo:C」2026年秋冬コレクションが9月25日に発売へ",
-   "summary_ja": "ユニクロから「Uniqlo:C」の2026年秋冬コレクションが9月25日に発売される。同ラインの2026年秋冬シーズン向けアイテムが展開される予定となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "90f74636b7b88b52",
-   "url": "https://www.nikkei.com/article/DGXZQOUC155Z10V10C26A9000000",
-   "title_original": "GU、韓国出身デザイナー「ロク」とコラボ 10月5日から",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3600436015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5bcbb2d18d1dc71c6df18186823fd2d7",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T07:14:00+00:00",
-   "title_ja": "GU、韓国出身デザイナー「ロク」とのコラボコレクションを10月5日発売",
-   "summary_ja": "GUは韓国出身のデザイナー「ロク（rokh）」とのコラボレーションを発表しました。注目を集める新コレクションは10月5日より発売されます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
    "has_detail": true
   }
  ]
