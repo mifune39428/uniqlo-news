@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T07:24:09.773356+09:00",
+ "updated_at": "2026-10-08T12:25:43.696566+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -125,6 +125,7 @@
   "Total Licensing",
   "Trend Hunter",
   "UOMO",
+  "UQライフ",
   "Unisba Media",
   "Vietnam.vn",
   "WWDJAPAN",
@@ -177,6 +178,7 @@
   "ねとらぼ",
   "ふくおかナビ",
   "まいどなニュース",
+  "みんなのゴルフダイジェスト",
   "イザ！",
   "ウォーカープラス",
   "オトナンサー",
@@ -231,28 +233,28 @@
   "매일경제"
  ],
  "count": 400,
- "detail_count": 244,
+ "detail_count": 243,
  "digest": {
-  "headline": "ファストリ9月既存店売上高が2桁増、京都・河原町に新旗艦店オープンへ",
+  "headline": "ファーストリテイリング好調な売上と国内外の出店加速",
   "points": [
    {
-    "text": "ファーストリテイリングの9月国内既存店売上高は前年同月比で2桁増を記録し、気温低下による秋物好調が株価の反発につながった一方、第4四半期純利益の減益見通しも報じられた。",
+    "text": "9月の国内ユニクロ既存店売上高は前年同月比2桁増を記録し、気温低下が秋物商品の販売を押し上げ株価反発につながりました。",
     "ids": [
-     "64a005d3d1e4a2a3",
      "7590de3ecd0c2156",
-     "dcca92854ef1e393"
+     "dcca92854ef1e393",
+     "786c8214289eefdc"
     ]
    },
    {
-    "text": "11月6日、京都・河原町に約960坪のグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初となる「UNIQLO COFFEE」が併設される。",
+    "text": "11月6日に京都・河原町へ西日本初のUNIQLO COFFEEを併設したグローバル旗艦店「ユニクロ 京都」がオープンします。",
     "ids": [
      "d7e2e4e73d43e547",
      "08ccfb957a84b531",
-     "4302b9a6062a8343"
+     "cfbcbaea447fe439"
     ]
    },
    {
-    "text": "ユニクロはインド・グルガオンでの出店拡大や米マイアミ初店舗の発表、ベトナム・タインホアへの新規進出など海外展開を加速している。",
+    "text": "米マイアミ初となる店舗のオープン日決定や、インド・グルガオン、ベトナム・タインホアへの出店拡大など海外展開が進んでいます。",
     "ids": [
      "24b87dd96c6fd8f6",
      "a70537d87de3eab2",
@@ -260,24 +262,57 @@
     ]
    },
    {
-    "text": "2026年冬シーズンに向け、防寒インナー「ヒートテック」で人気の極暖カシミヤブレンドの拡充や新色が発表され、新CMもスタートした。",
+    "text": "冬のヒートテックで極暖カシミヤブレンドの展開拡充が発表されたほか、3年ぶりのマスク再販やキッズ向けパジャマの発売も決定しました。",
     "ids": [
      "c39898822547927c",
-     "3da18d8cfbf10d5b"
+     "faefc7c9bfb89d4e",
+     "5cf2ae57d2199f23"
     ]
    },
    {
-    "text": "SNSでは「GU rokh コラボ」が急上昇し、Xで3日に76件の投稿が確認されている。",
+    "text": "SNSではGU rokh コラボが話題となりXで78件投稿されたほか、ウルトラストレッチアクティブワイドパンツのレビューが7日で203件増加しました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-05T07:29:31.814500+09:00",
-  "generated_at": "2026-10-08T07:29:33.968295+09:00",
+  "from": "2026-10-05T12:33:16.840770+09:00",
+  "generated_at": "2026-10-08T12:33:18.805906+09:00",
   "article_count": 24,
-  "sig": "8b58e83d5a64"
+  "sig": "64cb715c7db7"
  },
  "items": [
+  {
+   "id": "40f0183e1d3cdbb9",
+   "url": "https://www.golfdigest-minna.jp/_ct/17868678",
+   "title_original": "【アダム・スコットインタビュー#3】選手も認めるベストドレッサー！ 「ユニクロ」着こなしのこだわりとスタイル美学",
+   "source": "みんなのゴルフダイジェスト",
+   "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782728/rc/2026/10/07/03898906365c4c7272846919c6046bac692a1590_xlarge.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T03:00:00+00:00",
+   "title_ja": "アダム・スコットが語るユニクロの魅力と着こなしのこだわり",
+   "summary_ja": "プロゴルファーのアダム・スコットがインタビューで、ツアー選手からも評価される自身のファッションスタイルや、ユニクロウェアの着こなしに対するこだわりと美学について語った。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5fb4280c891a4123",
+   "url": "https://portal.uqmobile.jp/detail/1/3/6/10418_6_r_20261008_1791412711696444",
+   "title_original": "過去最高益も株価は調整…パリで目撃した想像以上の「ユニクロ人気」から探るファーストリテイリングの成長余地",
+   "source": "UQライフ",
+   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-07T23:28:42+00:00",
+   "title_ja": "パリでの「ユニクロ」人気から探る、ファーストリテイリングの今後の成長余地",
+   "summary_ja": "過去最高益を記録しながらも株価が調整局面にあるファーストリテイリングについて、フランス・パリ現地での想像以上のユニクロ人気をもとに、同社の今後のさらなる成長余地を分析しています。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "faefc7c9bfb89d4e",
    "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01963",
@@ -308,7 +343,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "24b87dd96c6fd8f6",
@@ -532,7 +567,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a70537d87de3eab2",
@@ -6644,38 +6679,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "8d2009e2cb9bb28c",
-   "url": "https://prtimes.jp/main/html/rd/p/000000123.000076227.html",
-   "title_original": "Precision of SoftnessUNIQLO : C 2026年 秋冬コレクション",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/76227/123/76227-123-bd92b4b3edd1d19e2a3a22b55a953c64-2016x1344.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T11:04:03+00:00",
-   "title_ja": "ユニクロが「UNIQLO : C」の2026年秋冬コレクションを発表",
-   "summary_ja": "ユニクロは「UNIQLO : C」の2026年秋冬コレクション情報を発表した。「Precision of Softness」をテーマとし、上質な素材感と洗練されたデザインを特徴とする新作アイテムを展開する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7dd07e2e1b3c64c4",
-   "url": "https://otonanswer.jp/post/393189",
-   "title_original": "「結局5色買いました」GUの《すっきり体形カバー》Tシャツが990→790円 「年配の私の二の腕も余裕」「何もしなくても形がよい」",
-   "source": "オトナンサー",
-   "image": "https://otonanswer.jp/wp-content/uploads/2027/09/20260915gu001.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-15T10:00:00+00:00",
-   "title_ja": "GUの体型カバーTシャツが790円に値下げ、着痩せ効果で人気",
-   "summary_ja": "GUの体型カバー効果があるTシャツが、990円から790円へ値下げされたことが話題を呼んでいる。二の腕をすっきり見せるシルエットや形の良さが評価され、複数色を購入する愛用者も出るなど注目を集めている。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 2,
    "has_detail": true
   }
  ]
