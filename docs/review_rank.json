@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T07:01:52.986388+09:00",
+ "updated_at": "2026-10-10T12:15:14.064068+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2925,
+ "catalog_size": 2927,
  "count": 62,
  "items": [
   {
@@ -588,33 +588,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E465185-000",
-   "rank": 24,
-   "brand": "ユニクロ",
-   "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465185/item/jpgoods_18_465185_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465185-000/00?colorDisplayCode=18",
-   "rating": 4.5,
-   "reviews": 15092,
-   "reviews7": 53,
-   "capped": false,
-   "prev7": 142,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 54,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E361784-000",
-   "rank": 25,
+   "rank": 24,
    "brand": "GU",
    "name": "スウェットバルーンスリーブフルジップパーカ(スーパーオーバーサイズフィット)",
    "genders": [
@@ -633,6 +608,31 @@
    "mention_titles": [],
    "score": 54,
    "momentum": 1.35,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E465185-000",
+   "rank": 25,
+   "brand": "ユニクロ",
+   "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 1990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465185/item/jpgoods_18_465185_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E465185-000/00?colorDisplayCode=18",
+   "rating": 4.5,
+   "reviews": 15091,
+   "reviews7": 52,
+   "capped": false,
+   "prev7": 142,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 53,
+   "momentum": 1.01,
    "new": false,
    "rising": false
   },
