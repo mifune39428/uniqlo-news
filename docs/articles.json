@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T20:32:01.719239+09:00",
+ "updated_at": "2026-10-11T01:32:19.155246+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -38,6 +38,7 @@
   "Chosunbiz",
   "Completely Retail News",
   "DIGIDAY［日本版］",
+  "Demócrata",
   "Distribuzione Moderna",
   "Drapers",
   "Dtimes",
@@ -68,6 +69,7 @@
   "InsideHook",
   "JFA",
   "JGA 日本ゴルフ協会",
+  "Jakarta Globe",
   "Japan Web Magazine",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
@@ -92,7 +94,6 @@
   "NDTV Profit",
   "NHKニュース",
   "Nation Thailand",
-  "New York Family",
   "Newswav",
   "Oui Speak Fashion (OSF)",
   "PR TIMES",
@@ -112,14 +113,13 @@
   "SEVENTIE TWO",
   "SFist",
   "SMEStreet",
-  "SPUR（シュプール）",
   "San Francisco Chronicle",
   "Secret Miami",
   "Secret San Francisco",
   "Seeking Alpha",
-  "Shopping Centre News",
   "Smartkarma",
   "South China Morning Post",
+  "SportsMint Media",
   "StoryBoard 18",
   "SussexWorld",
   "Sustainable Japan",
@@ -132,11 +132,13 @@
   "The Business of Fashion",
   "The Economic Times",
   "The Lufkin Daily News",
+  "The Manila Times",
   "The San Francisco Standard",
   "TheIndustry.fashion",
   "Toronto.com",
   "Total Licensing",
   "Traders Union",
+  "TradingView",
   "Trend Hunter",
   "ULTRA SPORTS（ウルトラスポーツ）",
   "UOMO",
@@ -169,7 +171,6 @@
   "newswav.com",
   "nylon.com.sg",
   "propertyweek.com",
-  "retail-insider.com",
   "ryutsuu.biz",
   "says.com",
   "senken.co.jp",
@@ -179,7 +180,6 @@
   "themagicrain.com",
   "therakyatpost.com",
   "topics.smt.docomo.ne.jp",
-  "tribecacitizen.com",
   "trilltrill.jp",
   "vooks.net",
   "www.marketscreener.com",
@@ -198,6 +198,7 @@
   "ジモはる",
   "スポーツブル",
   "テレ東BIZ",
+  "ネットショップ担当者フォーラム",
   "ファッションプレス",
   "マイナビ子育て",
   "モダンリビング デジタル",
@@ -221,7 +222,7 @@
   "朝日新聞",
   "朝鮮日報",
   "東京バーゲンマニア",
-  "毎日新聞",
+  "東京報道新聞",
   "流通スーパーニュース",
   "流通ニュース",
   "激流オンライン",
@@ -233,50 +234,118 @@
   "鳥取マガジン"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 237,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益、世界2位へ浮上見通し",
+  "headline": "ファーストリテイリング過去最高益、ユニクロ世界2位視野へ",
   "points": [
    {
-    "text": "ファーストリテイリングは5年連続で過去最高の売上高と利益を記録し、売上収益は3.96兆円となりました。",
+    "text": "ファーストリテイリングが過去最高益を達成し、5年連続で過去最高の売上高と利益を記録しました。",
     "ids": [
+     "84f0cf4f93378835",
      "326d9d62b05bcce6",
+     "9ed88cbed1b888d1"
+    ]
+   },
+   {
+    "text": "欧米や東南アジアなど海外市場におけるユニクロ事業の好調が、全体の業績拡大を大きく牽引しています。",
+    "ids": [
+     "84f0cf4f93378835",
+     "56397242662b442e",
      "a294cc4a096319ee"
     ]
    },
    {
-    "text": "欧米ユニクロの成長や国内外の好調を背景に、H&Mを抜いてアパレル世界2位へ浮上する見通しです。",
+    "text": "ユニクロが競合のH&Mを追い抜き、アパレル業界で世界第2位のポジションへ浮上する見通しが報じられました。",
     "ids": [
      "b063d7462f6ff3a5",
-     "a294cc4a096319ee",
-     "8d5bbbdfe038a64f"
+     "e5f8659a86c1f737",
+     "f7ec455560baff31"
     ]
    },
    {
-    "text": "柳井正会長兼社長は売上高10兆円の目標やGUの売上1兆円を目指す方針を示しました。",
+    "text": "柳井正会長兼社長は売上高10兆円の目標やGU事業の売上1兆円を目指す方針を明らかにしています。",
     "ids": [
      "608cc2d979d83da8",
-     "8b42cc8ca876b047"
+     "8b42cc8ca876b047",
+     "58d250bbc9affbc6"
     ]
    },
    {
-    "text": "ユニクロの北米・欧州における売上高が初めて中国市場を上回りました。",
-    "ids": [
-     "8d5bbbdfe038a64f"
-    ]
-   },
-   {
-    "text": "GU rokh コラボがSNSで話題となり、Xで56件投稿されました。",
+    "text": "SNSではGU rokh コラボが話題となり、Xで3日に39件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-07T20:42:07.923528+09:00",
-  "generated_at": "2026-10-10T20:42:09.865259+09:00",
+  "from": "2026-10-08T01:38:05.569478+09:00",
+  "generated_at": "2026-10-11T01:38:07.291062+09:00",
   "article_count": 24,
-  "sig": "f549216c2dc1"
+  "sig": "f8204fa8e8f1"
  },
  "items": [
+  {
+   "id": "84f0cf4f93378835",
+   "url": "https://jakartaglobe.id/business/uniqlo-owners-record-profit-fueled-by-southeast-asia-and-western-markets",
+   "title_original": "Uniqlo Owner's Record Profit Fueled by Southeast Asia and Western Markets",
+   "source": "Jakarta Globe",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T11:54:00+00:00",
+   "title_ja": "ファーストリテイリングが過去最高益、東南アジアや欧米が牽引",
+   "summary_ja": "ユニクロを展開するファーストリテイリングが、東南アジアや欧米などの海外市場での好調な業績に支えられ、過去最高益を達成したことが報じられています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "da3b436f3750d62c",
+   "url": "https://news.yahoo.co.jp/articles/eae78c45b3c2fb1a628f8146dd88bef0b58a0026",
+   "title_original": "「寒くなり始めにちょうど良い」ユニクロのショート丈ジャケットが10月15日まで3990円 「長すぎない丈が嬉しい」「足が長く見える」の声も",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-11796162-maidonans-000-42705867-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-10T11:25:15+00:00",
+   "title_ja": "ユニクロ、ショート丈ジャケットを期間限定価格で販売",
+   "summary_ja": "ユニクロはショート丈ジャケットを10月15日まで3990円の期間限定価格で販売している。絶妙な丈感が足長効果を生むとSNSでも好評を集めている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "aec10e0bd7d1980d",
+   "url": "https://news.yahoo.co.jp/articles/f91cf109831d4a4f7b9f6817f1c9694ac101db38/images/000",
+   "title_original": "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWyWBcxS-FBoYiQfwLi0_EODmkaq_tmTY4yCITRKqt4jyhYHWuv1HQItgFoAZbcjITfnfZqjaJqCTv-WR5VyiLAn-pHRY4Ks3p_owuGjP2a2gyorj0aRTNtIphhrfLbxEg==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-10T09:40:00+00:00",
+   "title_ja": "ユニクロ、対象パンツを値下げして1990円で販売",
+   "summary_ja": "ユニクロの一部パンツ商品が3990円から1990円へと値下げされ話題となっている。速乾性の高さや着回し力の面で高評価を得ている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "5b3e89741830fc1e",
+   "url": "https://news.yahoo.co.jp/articles/870d2855e8afda7d724b35fd4c5ad3a49de6ba90/images/000",
+   "title_original": "「復活を待ってました！」ユニクロのVネックブラキャミが《2490→1990円》 「これ以上のものはない」「全て理想通り」",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnf_CxybXNVNfTDt_65CfmHfd6Y0wWHg_DspRuFQytArQXl6eRSyoKENhDbHcX9dhQOWQ9dUfg-4MpqA7KIb67HzceXHOdjYS3N0V5u2nHf0z",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-10T09:15:00+00:00",
+   "title_ja": "ユニクロ、Vネックブラキャミソールを1990円に値下げ",
+   "summary_ja": "ユニクロのVネックブラキャミソールが2490円から1990円に値下げされた。その着心地の良さや使い勝手の高さから、再販売を喜ぶ声が上がっている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "c1313d852f2af33f",
    "url": "https://seekingalpha.com/article/4953211-fast-retailing-still-a-buy-after-full-year-earnings-beat",
@@ -291,7 +360,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5ad086bcabae21eb",
@@ -326,6 +395,22 @@
    "has_detail": true
   },
   {
+   "id": "ba78361f27cba275",
+   "url": "https://sportsmintmedia.com/uniqlo-unveils-new-fleece-collection-with-jasprit-bumrah-and-kriti-sanon",
+   "title_original": "UNIQLO unveils new fleece collection with Jasprit Bumrah and Kriti Sanon",
+   "source": "SportsMint Media",
+   "image": "https://sportsmintmedia.com/wp-content/uploads/2026/10/UNIQLO-unveils-new-fleece-collection-with-Jasprit-Bumrah-and-Kriti-Sanon.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T06:30:00+00:00",
+   "title_ja": "ユニクロ、ジャスプリット・ブムラらを起用した新フリース発表",
+   "summary_ja": "ユニクロは、クリケット選手のジャスプリット・ブムラと俳優のクリティ・サノンを起用した新しいフリースコレクションを発表した。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "29e1b29289da3ed7",
    "url": "https://news.yahoo.co.jp/articles/cd7907cb60e4183d7b92f3b4da911214e2771c59/images/000",
    "title_original": "「何着目かリピート買い」ユニクロの「メリノVネックカーディガン」が期間限定2990円 仕事着として5〜6年愛用する人も「実に使い勝手が良い」",
@@ -339,7 +424,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a25d968a1a1fa418",
@@ -355,7 +440,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c956c25f8adb501c",
@@ -371,7 +456,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "adb436a2eb25a5d8",
@@ -387,7 +472,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1c8dd12b1359999a",
@@ -419,7 +504,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c88a551a8fa968dd",
@@ -483,7 +568,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ff442d553a86145d",
@@ -1206,6 +1291,22 @@
    "has_detail": true
   },
   {
+   "id": "936e16d7b9263979",
+   "url": "https://limo.media/articles/-/141697",
+   "title_original": "【2026年8月期通期決算分析】ファーストリテイリング、ROE21.2%——デュポン分解でわかる「低レバレッジでも高ROE」の稼ぐ力",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/3/1/1200w/img_3124e95e344b6a4851ae5b134205faef163727.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-09T04:04:00+00:00",
+   "title_ja": "ファーストリテイリングの2026年8月期通期決算を分析",
+   "summary_ja": "ファーストリテイリングの2026年8月期通期決算を分析しています。デュポン分解を用いて、低いレバレッジでも高いROEを維持する同社の優れた稼ぐ力を読み解いています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
    "id": "79f7423d1a6b5986",
    "url": "https://www.modaes.com/global/companies/fast-retailing-takes-silver-uniqlos-parent-company-overtakes-hampm-and-closes-the-gap-with-inditex",
    "title_original": "Fast Retailing Takes Silver, Surpassing H&M and Closing In on Inditex",
@@ -1302,6 +1403,22 @@
    "detail_tries": 2
   },
   {
+   "id": "1be8cff2d9d97e04",
+   "url": "https://tokyonewsmedia.com/archives/28925",
+   "title_original": "ファーストリテイリング、最高益を更新 ユニクロ好調で世界2位が視野に",
+   "source": "東京報道新聞",
+   "image": "https://tokyonewsmedia.com/wp-content/uploads/2026/10/IMG_4484.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-09T03:00:00+00:00",
+   "title_ja": "ファーストリテイリングが最高益を更新、ユニクロが好調",
+   "summary_ja": "ファーストリテイリングが過去最高益を更新したことが報じられています。主力のユニクロ事業の好調が業績を牽引し、世界第2位への浮上も視野に入ってきています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
    "id": "319c47adc3ca420b",
    "url": "https://www.nikkei.com/article/DGXZRSP713667_Z01C26A0000000",
    "title_original": "ユニクロ、「UNIQLO and JW ANDERSON」2026年秋冬コレクションを発売",
@@ -1395,7 +1512,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "75ad56011dd2f585",
@@ -1475,7 +1592,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c274e1f2af8d5b2e",
@@ -1569,6 +1686,22 @@
    "title_ja": "米ユニクロ、マーケット・ストリートの新旗艦店が金曜にオープンへ",
    "summary_ja": "ユニクロがマーケット・ストリートに新たな旗艦店を開店します。オープン日となる金曜日には大規模なストリートフェスティバルが開催され、新店舗の誕生を華やかに彩ります。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "96cd63951aa30603",
+   "url": "https://netshop.impress.co.jp/n/2026/10/09/16847",
+   "title_original": "国内ユニクロ事業、2026年のEC売上高は1620億円で6.3%増、EC化率は15%",
+   "source": "ネットショップ担当者フォーラム",
+   "image": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16847-ogp.jpg?itok=d4bhHvpb",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T22:00:00+00:00",
+   "title_ja": "国内ユニクロの2026年EC売上高は1620億円、EC化率は15%に",
+   "summary_ja": "国内ユニクロ事業における2026年のEC売上高が1620億円となり、前年比6.3%の増加を記録した。EC化率は15%に達している。",
+   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -1747,7 +1880,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7f8e546eb283a843",
@@ -1776,6 +1909,22 @@
    "published": "2026-10-08T16:04:00+00:00",
    "title_ja": "ファーストリテイリング、過去最高の年間売上高を記録し今後の成長を予測",
    "summary_ja": "ファーストリテイリングは、年間の売上高が過去最高を記録したことを受け、さらなる成長を見込んでいると発表しました。国内外での好調な業績を背景に、今後も持続的な拡大路線を維持していく方針です。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "ed36356059081cec",
+   "url": "https://www.manilatimes.net/2026/10/09/business/top-business/uniqlo-operator-posts-32-rise-in-profit-beats-forecasts/2442199/amp",
+   "title_original": "Uniqlo operator posts 32% rise in profit, beats forecasts",
+   "source": "The Manila Times",
+   "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/09/1252444.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T16:01:00+00:00",
+   "title_ja": "ファーストリテイリング、市場予想を上回る32%の増益を達成",
+   "summary_ja": "ファーストリテイリングの業績において、利益が市場予想を上回る32%増を記録したことが報じられている。好調な業績が示された。",
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
@@ -1990,22 +2139,6 @@
    "has_detail": true
   },
   {
-   "id": "db0161e6a119d4c4",
-   "url": "https://www.moomoo.com/news/post/1000747603/stock-market-key-factors-for-tomorrow-fast-retailing-to-report",
-   "title_original": "Stock Market: Key Factors for Tomorrow = Fast Retailing to Report Higher Revenue and Profit for the Fiscal Year Ending August 2026",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T12:31:43+00:00",
-   "title_ja": "ファーストリテイリングの2026年8月期決算は増収増益の見通し",
-   "summary_ja": "株式市場の明日の注目点として、ファーストリテイリングが2026年8月期通期決算において増収増益を達成する見込みであることが報じられました。市場関係者の関心を集めています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 1
-  },
-  {
    "id": "a229c571b6c3e23b",
    "url": "https://jp.fashionnetwork.com/news/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95%E3%81%AE%E5%BD%B1%E9%9F%BF%E4%B8%8B%E3%81%A7%E3%82%82%E9%81%8E%E5%8E%BB%E6%9C%80%E9%AB%98%E7%9B%8A%E3%82%92%E6%9B%B4%E6%96%B0,1874220.html",
    "title_original": "ファーストリテイリング（ユニクロ）：気候変動の影響下でも過去最高益を更新",
@@ -2035,7 +2168,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6c63e43f9b836061",
@@ -2402,7 +2535,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ac3340df248b7fcc",
@@ -2468,6 +2601,38 @@
    "importance": 3
   },
   {
+   "id": "a303eac666bafb02",
+   "url": "https://www.modaes.com/global/companies/uniqlo-unstoppable-once-again-in-2026-sales-rise-166-and-profits-increase-272",
+   "title_original": "Uniqlo Powers Ahead Again in 2026, Lifting Sales 16.6% and Profit 27.2%",
+   "source": "Modaes",
+   "image": "https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3OTE0NDY1Nzh9/files/2026/15-redaccion-empresas/fast-retailing/uniqlo-fast-retailing-tienda-store-exterior-1200.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T08:58:00+00:00",
+   "title_ja": "ユニクロ、2026年も増収増益で売上高16.6%増・利益27.2%増を達成",
+   "summary_ja": "ユニクロは2026年も順調に業績を伸ばし、売上高が16.6%増、利益が27.2%増と大幅な増収増益を達成したことが伝えられている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "bd781fea9ba80905",
+   "url": "https://finance.biggo.com/news/cdcb2475-3c2e-4e51-91af-bbf9b2023aae",
+   "title_original": "Uniqlo Parent Fast Retailing Posts 25% Surge in Annual Net Profit, Marking Fifth Straight Record Year",
+   "source": "BigGo Finance",
+   "image": "https://img.biggo.com/KYg2FLWGbRRqNDNgTKihoGB6kor0wxMVi_ffQYqcmpA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2NkY2IyNDc1LTNjMmUtNGU1MS05MWFmLWJiZjliMjAyM2FhZV8xNzkxNDQ3MjcwX2RlZmF1bHQuanBn.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T08:05:40+00:00",
+   "title_ja": "ファーストリテイリングの年間純利益が25%増、5年連続の過去最高益",
+   "summary_ja": "ユニクロを展開するファーストリテイリングの年間純利益が25%増加し、5年連続で過去最高益を更新したことが報じられた。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
    "id": "63940780b518dcea",
    "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_350167",
    "title_original": "ファーストリテイリングが決算を発表 純利益5425億円で6年連続過去最高",
@@ -2478,6 +2643,38 @@
    "published": "2026-10-08T07:54:00+00:00",
    "title_ja": "ファーストリテイリングが最新決算を発表、純利益は5425億円で6年連続の過去最高を更新",
    "summary_ja": "ファーストリテイリングが最新の決算結果を発表しました。純利益は5425億円に達し、6年連続で過去最高を更新したことが明らかになりました。グループ全体の経営が好調を維持していることを示しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "bcc0f7cbc0ff20cd",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0GA:0",
+   "title_original": "Europa-Geschäft beschert Uniqlo-Mutter Fast Retailing Gewinnsprung",
+   "source": "TradingView",
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T07:45:57+00:00",
+   "title_ja": "欧州事業の好調が牽引、ファーストリテイリングが利益急増を達成",
+   "summary_ja": "ユニクロの親会社であるファーストリテイリングが、欧州事業の好調な展開を背景に大幅な利益増を記録したと報じられている。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "538cee8eefc8515a",
+   "url": "https://www.democrata.es/en/economy/the-owner-of-uniqlo-raises-his-profit-by-25-at-the-close-of-his-fiscal-year",
+   "title_original": "The owner of Uniqlo raises his profit by 25% at the close of his fiscal year",
+   "source": "Demócrata",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-08T07:34:49+00:00",
+   "title_ja": "ユニクロの親会社、期末決算で利益が25%増加",
+   "summary_ja": "ユニクロを展開するファーストリテイリングが、好調な決算により事業年度の利益を25%伸ばしたことが伝えられている。",
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
@@ -6482,198 +6679,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "e2903832837ec897",
-   "url": "https://news.yahoo.co.jp/articles/1c11a19ac37c802b8859058454e5289516187510",
-   "title_original": "まもなく発売【ユニクロ:C】必見の “美シルエット”… 8990円 《テーラードジャケット》 は「100％買い」？ 「ダークブラウンすてき」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-10161454-lasisa-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T23:15:00+00:00",
-   "title_ja": "ユニクロ：Cから美しいシルエットのテーラードジャケットが8990円で間もなく発売",
-   "summary_ja": "ユニクロの「UNIQLO : C」コレクションから、8,990円のテーラードジャケットが間もなく発売されます。美しいシルエットやダークブラウンの色味が注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "69a23b8bc5e856b2",
-   "url": "https://spur.hpplus.jp/fashion/news/SWHcZw",
-   "title_original": "【ユニクロ】で今季注目すべきアウターとは？ 2026年秋冬アウターコレクション登場",
-   "source": "SPUR（シュプール）",
-   "image": "https://img-spur.hpplus.jp/image/d8/d82833db-97a3-4fb2-b69e-bbcc3c11d445-1915x1005.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T23:00:00+00:00",
-   "title_ja": "ユニクロの2026年秋冬アウターコレクションが登場、注目作を展開",
-   "summary_ja": "ユニクロが2026年秋冬アウターコレクションを発表した。今季注目すべきアウター類がラインナップされており、これからの季節に向けた新作コレクションの展開が始まっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a8f718b1ce32febd",
-   "url": "https://www.newyorkfamily.com/uniqlo-opens-new-store-world-trade-center",
-   "title_original": "UNIQLO World Trade Center Store Opening With Freebies & More",
-   "source": "New York Family",
-   "image": "https://www.newyorkfamily.com/wp-content/uploads/2026/09/GettyImages-2198751580.jpg?quality=51&w=1200&p=q",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T17:10:55+00:00",
-   "title_ja": "ニューヨークの世界貿易センターにユニクロがオープン",
-   "summary_ja": "ワールド・トレード・センターにユニクロの新店舗がオープンし、来場者向けの無料特典などが用意されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "25daa11289e0653e",
-   "url": "https://mainichi.jp/articles/20260923/ddm/010/050/018000c",
-   "title_original": "ユニクロ全日本ジュニアテニス 熱戦終え閉幕 各部門の優勝者 喜びの声",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/23/20260923ddm010050131000p/0c10.jpg?1",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T17:02:36+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニスが閉幕、各部門の優勝者が喜び語る",
-   "summary_ja": "ジュニアテニスの大会『ユニクロ全日本ジュニアテニス選手権』が熱戦を終えて閉幕しました。各部門で優勝を飾った選手たちが、大会を終えてそれぞれの喜びの声を寄せています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "58867137b8fd8bd6",
-   "url": "https://mainichi.jp/articles/20260923/ddm/010/050/019000c",
-   "title_original": "ユニクロ全日本ジュニアテニス 熱戦終え閉幕 レジェンド・国枝慎吾さん 次世代への思い",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/23/20260923ddm010050126000p/0c10.jpg?2",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T17:02:30+00:00",
-   "title_ja": "ユニクロ全日本ジュニアテニス選手権が熱戦の末に閉幕",
-   "summary_ja": "ユニクロが特別協賛する全日本ジュニアテニス選手権が熱戦を終えて閉幕し、レジェンドの国枝慎吾さんが次世代へ思いを語りました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "069793503be6a371",
-   "url": "https://tribecacitizen.com/2026/09/22/uniqlo-will-open-friday-at-the-world-trade-center",
-   "title_original": "UNIQLO will open Friday at the World Trade Center",
-   "source": "tribecacitizen.com",
-   "image": "https://tribecacitizen.com/wp-content/uploads/2026/09/Uniqlo-WTC-420x336.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T13:23:29+00:00",
-   "title_ja": "ワールド・トレード・センターにユニクロが金曜オープン",
-   "summary_ja": "ワールド・トレード・センターにユニクロの新しい店舗が金曜日にオープンする予定です。ニューヨークの主要な商業エリアでの新たな展開として注目を集めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "3783a1365add7905",
-   "url": "https://retail-insider.com/retail-insider/2026/09/uniqlo-expands-canadian-footprint-while-reworking-montreal-flagship",
-   "title_original": "UNIQLO Expands Canadian Footprint While Reworking Montreal Flagship",
-   "source": "retail-insider.com",
-   "image": "https://retail-insider.com/wp-content/uploads/2021/02/uniqlo-ste-catherine-2-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T11:48:00+00:00",
-   "title_ja": "ユニクロがカナダで店舗拡大と旗艦店改装を実施",
-   "summary_ja": "ユニクロはカナダ国内での出店をさらに拡大させるとともに、モントリオールにあるフラッグシップ店舗の大規模な改装工事を進めています。北米市場でのプレゼンス強化を図る動きです。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "27a8cb06c7f73d89",
-   "url": "https://txbiz.tv-tokyo.co.jp/readings/2292",
-   "title_original": "GUがニューヨークに初の旗艦店 その舞台裏に密着【WBSクロス】",
-   "source": "テレ東BIZ",
-   "image": "https://txbiz.tv-tokyo.co.jp/static/images/fblogo.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T11:47:43+00:00",
-   "title_ja": "GUがニューヨークに初となる旗艦店をオープン、その舞台裏",
-   "summary_ja": "GUがニューヨークへ初出店を果たした旗艦店について、オープンまでの舞台裏に密着して紹介しています。",
-   "category": "海外展開",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d425e5dae9c9192f",
-   "url": "https://www.fibre2fashion.com/news/prime-content/retail-marketi-intelligence-news/uniqlo-gains-share-with-gen-z-millennial-as-it-expands-in-the-us-313671-newsdetails.htm?amp=true",
-   "title_original": "| UNIQLO gains share with Gen Z, millennial as it expands in the US",
-   "source": "Fibre2Fashion",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T10:37:33+00:00",
-   "title_ja": "ユニクロ、米国でZ世代・ミレニアル世代のシェア拡大、事業展開を加速",
-   "summary_ja": "ユニクロが米国市場において、Z世代とミレニアル世代からの支持を広げ、市場シェアを着実に獲得していると報じられた。これは、同社が米国での事業展開を積極的に拡大している戦略の成果とみられる。若年層へのアプローチが成長を後押ししている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "dbe1237903d46821",
-   "url": "https://news.yahoo.co.jp/articles/a905c4e68a0ebcf4ddecd3d67d700810ae38b2d4",
-   "title_original": "「ユニクロって思わんかも」 【発売間近】7990円 《シャツジャケット》、前評判が上々…？ 「色使い良いな」「古着好きに刺さりそう」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-10161225-lasisa-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T10:15:00+00:00",
-   "title_ja": "ユニクロの新作シャツジャケット、発売間近で前評判上々",
-   "summary_ja": "ユニクロの新作「シャツジャケット」が、7990円で発売間近と報じられています。見出しによると、そのデザインや色使いについて「ユニクロとは思えない」「古着好きに刺さりそう」など、発売前からネット上で高い評価を得ているようです。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c9c08e71a1e83bcc",
-   "url": "https://news.yahoo.co.jp/articles/d00925c381deab29a29eacc2b1155f7f863a7375/images/000",
-   "title_original": "「ユニクロCの中でもトップに入るレベル」 ユニクロの“シャツジャケット”が好評！ 「女性らしさも感じられるカッコよさ」「発売前から気になってた」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKFFIeC4rMdU4zNd0lFaBacZTiSJ835vEdQbDTai3XidCoL3ZYcMMvveVRRLa1Rz_5mdVQeSg7Cnf-_sf5q1Rj1XTBKx4gO7PZ_qarIq6prWvNdwoSXnztI0K6RwDYT0cA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-22T10:10:00+00:00",
-   "title_ja": "ユニクロのシャツジャケット、発売前から「トップレベル」と好評",
-   "summary_ja": "ユニクロの「シャツジャケット」が、発売前から「ユニクロのアイテムの中でもトップレベル」と高い評価を得ています。女性らしさも感じられるデザインが注目され、ネット上では早くも話題となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "94c1afdb9c3f9c30",
-   "url": "https://shoppingcentrenews.com.au/shopping-centre-news/retail-outlook/uniqlo-to-open-first-sunshine-coast-store-at-sunshine-plaza",
-   "title_original": "Uniqlo to open first Sunshine Coast store at Sunshine Plaza",
-   "source": "Shopping Centre News",
-   "image": "https://shoppingcentrenews.com.au/wp-content/uploads/2026/09/uniqlo_burnside_712_HDR_web-900.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-22T08:46:37+00:00",
-   "title_ja": "ユニクロがサンシャイン・プラザにサンシャイン・コースト初の店舗をオープンへ",
-   "summary_ja": "ユニクロが複合商業施設「サンシャイン・プラザ」に新店舗をオープンすることが決定した。サンシャイン・コースト地域においては初となるユニクロの店舗出店となる。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
