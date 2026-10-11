@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T01:57:10.958607+09:00",
+ "updated_at": "2026-10-12T06:11:20.675844+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -106,6 +106,7 @@
   "Retail Gazette",
   "Retail Week",
   "RetailDetail EU",
+  "SETHLUI.com",
   "SEVENTIE TWO",
   "SFist",
   "SMEStreet",
@@ -169,7 +170,6 @@
   "ryutsuu.biz",
   "says.com",
   "senken.co.jp",
-  "soyacincau.com",
   "t.co",
   "tbs.co.jp",
   "themagicrain.com",
@@ -178,7 +178,6 @@
   "vooks.net",
   "www.marketscreener.com",
   "www.nagoyatv.com",
-  "すみだ経済新聞",
   "ねとらぼ",
   "まいどなニュース",
   "みんなのゴルフダイジェスト",
@@ -232,46 +231,50 @@
  "count": 400,
  "detail_count": 234,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を達成し、アパレル世界2位へ浮上",
+  "headline": "ファーストリテイリング過去最高益、JWアンダーソンコラボ発表",
   "points": [
    {
-    "text": "ファーストリテイリングは5年連続で過去最高の売上高と利益を記録し、純利益が小売り業界で初めて5000億円を突破しました。",
-    "ids": [
-     "326d9d62b05bcce6",
-     "81f71fdbc843c5c2"
-    ]
-   },
-   {
-    "text": "東南アジアや欧米などの海外市場におけるユニクロ事業の好調な業績が全体の成長を大きく牽引しています。",
+    "text": "ファーストリテイリングが5年連続で過去最高の売上高と利益を記録し、東南アジアや欧米などの海外市場が業績を牽引しました。",
     "ids": [
      "84f0cf4f93378835",
-     "8c6ba781d6a06c69"
+     "326d9d62b05bcce6",
+     "a294cc4a096319ee"
     ]
    },
    {
-    "text": "ユニクロがH&Mを追い抜き、アパレル業界で世界第2位のポジションへ浮上する見通しであることが報告されています。",
+    "text": "ユニクロが競合のH&Mを追い抜き、アパレル業界で世界第2位の規模やポジションへ浮上する見通しであることが報じられました。",
     "ids": [
+     "6985e77ad4eb2fda",
      "b063d7462f6ff3a5",
      "e5f8659a86c1f737"
     ]
    },
    {
-    "text": "柳井正会長兼社長は、売上高10兆円目標やGUの売上高1兆円を目指す方針、ユニクロを世界一のブランドにする考えを示しました。",
+    "text": "柳井正会長兼社長がグループの売上高10兆円目標の実現に向けて手応えを示し、今期は売上収益4兆円超えに向け旗艦店出店を加速させます。",
     "ids": [
      "608cc2d979d83da8",
-     "8b42cc8ca876b047"
+     "1325874354f26824",
+     "a8c5afa95c4027a8"
     ]
    },
    {
-    "text": "SNSではGUのちいかわ ポーチが話題となり、Xで3日に12件の投稿が確認されています。",
+    "text": "ユニクロがデザイナーのJWアンダーソンとの2026年秋冬コレクションを発表し、演劇美術やキャンパスドラマを思わせる世界観のデザインを展開します。",
+    "ids": [
+     "4e841a0694b4dd41",
+     "37033d59b09648d3",
+     "da0b226b35de6fb8"
+    ]
+   },
+   {
+    "text": "SNSではGU rokh コラボがXで29件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-09T02:03:09.293973+09:00",
-  "generated_at": "2026-10-12T02:03:11.135465+09:00",
+  "from": "2026-10-09T06:16:53.388459+09:00",
+  "generated_at": "2026-10-12T06:16:55.174179+09:00",
   "article_count": 24,
-  "sig": "defc03f5abdd"
+  "sig": "d784d79c8041"
  },
  "items": [
   {
@@ -304,7 +307,23 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "4e841a0694b4dd41",
+   "url": "https://www.vietnam.vn/en/uniqlo-and-jw-anderson-thu-dong-2026-cam-hung-tu-nghe-thuat-san-khau",
+   "title_original": "Uniqlo and JW Anderson Fall/Winter 2026: Inspired by theatrical art.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/11/1791720395103_bst_uniqlo_and_jw_anderson_thu_dong_2026_chinh_thuc_ra_mat_tu_ngay_16_10.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-11T12:00:11+00:00",
+   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コラボが発表 演劇美術に着想",
+   "summary_ja": "ユニクロがデザイナーのJWアンダーソンとの2026年秋冬コレクションを発表した。今回のコラボレーションでは演劇美術からインスピレーションを得た独自のデザインが展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "37033d59b09648d3",
@@ -544,7 +563,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "326d9d62b05bcce6",
@@ -625,6 +644,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "03983ca480f1011a",
+   "url": "https://sethlui.com/sunway-ipoh-mall-opening-perak-malaysia-oct-2026",
+   "title_original": "Sunway Ipoh Mall to open in 2027 with 400 shops, Perak’s 1st ice skating rink & largest UNIQLO",
+   "source": "SETHLUI.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-10T04:19:58+00:00",
+   "title_ja": "2027年開業のサンウェイ・イポー・モールにペラ州最大のユニクロが出店へ",
+   "summary_ja": "2027年に開業が予定されているマレーシアの商業施設「サンウェイ・イポー・モール」内に、ペラ州で最大規模となるユニクロの店舗が出店することが明らかになった。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "adb436a2eb25a5d8",
@@ -6640,38 +6675,6 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "7eed55ae28e6efe0",
-   "url": "https://sumida.keizai.biz/photoflash/5937",
-   "title_original": "ユニクロキッズは3倍の大きさに",
-   "source": "すみだ経済新聞",
-   "image": "https://images.keizai.biz/sumida_keizai/photonews/1790379583_b.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-25T23:43:36+00:00",
-   "title_ja": "ユニクロのキッズコーナーが従来の3倍規模に拡大",
-   "summary_ja": "特定のユニクロ店舗において、キッズ向け商品の売り場スペースが従来の3倍の大きさに拡大されたことが分かりました。ファミリー層の利便性向上や、子ども向け商品のラインナップ充実を図るための施策とみられます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "cc6532df509c9d9a",
-   "url": "https://soyacincau.com/2026/09/25/uniqlo-proton-collection-emas7-s70-x50-satrianeor3-saga",
-   "title_original": "Uniqlo UTme! Proton Collection coming soon: Featuring e.MAS 7, S70, X50, Satria Neo R3, and 1985 Saga",
-   "source": "soyacincau.com",
-   "image": "https://soyacincau.com/wp-content/uploads/2026/09/uniqlo-proton-01.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-25T17:28:47+00:00",
-   "title_ja": "ユニクロの「UTme!」にプロトンのコレクションが近日登場へ",
-   "summary_ja": "ユニクロのオリジナルTシャツが作れる「UTme!」に、自動車メーカーのプロトンとのコラボコレクションが近日追加されます。1985年サガやe.MAS 7などのモデルがデザインされる予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
