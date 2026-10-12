@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:11:20.675844+09:00",
+ "updated_at": "2026-10-12T12:07:36.825819+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -41,7 +41,6 @@
   "Demócrata",
   "Distribuzione Moderna",
   "Drapers",
-  "Dtimes",
   "EL PAÍS English",
   "Excite エキサイト",
   "Fashion United",
@@ -78,7 +77,6 @@
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
   "License Global",
-  "Lmaga.jp",
   "MANTANWEB",
   "Madrid Secreto",
   "Man of Many",
@@ -101,6 +99,7 @@
   "Pokde.Net",
   "Press Start Australia",
   "Quartz",
+  "Ragtrader.com.au",
   "Retail Asia",
   "Retail Bulletin",
   "Retail Gazette",
@@ -131,7 +130,6 @@
   "The Manila Times",
   "The San Francisco Standard",
   "TheIndustry.fashion",
-  "Toronto.com",
   "Total Licensing",
   "Traders Union",
   "TradingView",
@@ -165,7 +163,6 @@
   "marketscreener.com",
   "miamiherald.com",
   "news.livedoor.com",
-  "newswav.com",
   "nylon.com.sg",
   "ryutsuu.biz",
   "says.com",
@@ -231,52 +228,76 @@
  "count": 400,
  "detail_count": 234,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益、JWアンダーソンコラボ発表",
+  "headline": "ファーストリテイリング過去最高益、JWアンダーソンコラボやサンフランシスコ旗艦店",
   "points": [
    {
-    "text": "ファーストリテイリングが5年連続で過去最高の売上高と利益を記録し、東南アジアや欧米などの海外市場が業績を牽引しました。",
+    "text": "ファーストリテイリングが5年連続で過去最高益を達成し、海外市場の好調などを背景にアパレル業界世界第2位の規模に迫る成長を見せています。",
     "ids": [
      "84f0cf4f93378835",
      "326d9d62b05bcce6",
-     "a294cc4a096319ee"
+     "6985e77ad4eb2fda"
     ]
    },
    {
-    "text": "ユニクロが競合のH&Mを追い抜き、アパレル業界で世界第2位の規模やポジションへ浮上する見通しであることが報じられました。",
+    "text": "アメリカ・サンフランシスコの中心部に西海岸最大の旗艦店がオープンし、現地で大勢の客が列を作るなど大きな盛り上がりを見せています。",
     "ids": [
-     "6985e77ad4eb2fda",
-     "b063d7462f6ff3a5",
-     "e5f8659a86c1f737"
+     "a0a48bde8062db2c",
+     "b8481bda051595d0",
+     "b0043d2625ec2fd5"
     ]
    },
    {
-    "text": "柳井正会長兼社長がグループの売上高10兆円目標の実現に向けて手応えを示し、今期は売上収益4兆円超えに向け旗艦店出店を加速させます。",
-    "ids": [
-     "608cc2d979d83da8",
-     "1325874354f26824",
-     "a8c5afa95c4027a8"
-    ]
-   },
-   {
-    "text": "ユニクロがデザイナーのJWアンダーソンとの2026年秋冬コレクションを発表し、演劇美術やキャンパスドラマを思わせる世界観のデザインを展開します。",
+    "text": "演劇美術やキャンパスドラマに着想を得た「UNIQLO and JW ANDERSON」の2026年秋冬コレクションが10月16日に発売されます。",
     "ids": [
      "4e841a0694b4dd41",
-     "37033d59b09648d3",
-     "da0b226b35de6fb8"
+     "da0b226b35de6fb8",
+     "c88a551a8fa968dd"
     ]
    },
    {
-    "text": "SNSではGU rokh コラボがXで29件投稿されるなど話題を集めています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に14件投稿され、34416の反応を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-09T06:16:53.388459+09:00",
-  "generated_at": "2026-10-12T06:16:55.174179+09:00",
+  "from": "2026-10-09T12:12:56.925222+09:00",
+  "generated_at": "2026-10-12T12:12:58.720006+09:00",
   "article_count": 24,
-  "sig": "d784d79c8041"
+  "sig": "970753677bbb"
  },
  "items": [
+  {
+   "id": "ce77f9f6498b38bd",
+   "url": "https://limo.media/articles/-/141824",
+   "title_original": "ユニクロ好調で26年8月期は営業益3割増なのに、ファーストリテイリングはなぜ株主優待がない？元機関投資家が読み解きと優待実施効果の試算",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/3/1/1200w/img_3124e95e344b6a4851ae5b134205faef163727.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-12T01:37:00+00:00",
+   "title_ja": "ファーストリテイリングに株主優待がない理由を元機関投資家が解説",
+   "summary_ja": "ファーストリテイリングはユニクロの好調により大幅な営業増益が見込まれる一方、株主優待を実施していません。元機関投資家がその理由や、仮に優待を導入した場合の効果についての試算を解説しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f2eb19bf8169e5d0",
+   "url": "https://www.ragtrader.com.au/news/australia-adds-to-30-sales-boom-at-uniqlo",
+   "title_original": "Australia adds to 30% sales boom at Uniqlo",
+   "source": "Ragtrader.com.au",
+   "image": "https://cdn.yaffa.com.au/yaffadsp/images/dspArticle/leadImage/uniqlo---feb-22.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T00:09:41+00:00",
+   "title_ja": "オーストラリア市場が好調 ユニクロの売上3割増に貢献",
+   "summary_ja": "ユニクロで発生している売上30%増の急成長において、オーストラリアでの売上拡大が大きく貢献しています。同国市場での好調な販売が全体の伸びを支えている状況が報じられています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "1a1dfede684d19df",
    "url": "https://monomax.jp/archives/366705",
@@ -659,7 +680,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "adb436a2eb25a5d8",
@@ -3350,6 +3371,22 @@
    "has_detail": true
   },
   {
+   "id": "b6631315f1dc6c11",
+   "url": "https://news.yahoo.co.jp/articles/8b97d3c2b84502a37a40c652c105e0fd9b370c24",
+   "title_original": "「ミーナ津田沼」10月16日刷新オープン 新津田沼駅・イオンモール直結（Impress Watch）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000016-impress-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T07:14:53+00:00",
+   "title_ja": "商業施設「ミーナ津田沼」が10月16日にリニューアルオープン",
+   "summary_ja": "新津田沼駅やイオンモールに直結する商業施設「ミーナ津田沼」が、10月16日にリニューアルオープンします。施設全体の刷新により利便性の向上が図られます。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "03453507283246d1",
    "url": "https://www.fashionsnap.com/article/2026-10-08/fast-retailing-2026-result",
    "title_original": "ファーストリテイリング26年8月期、売上高4兆円目前 欧米ユニクロ急成長で5期連続過去最高",
@@ -3446,6 +3483,22 @@
    "detail_tries": 2
   },
   {
+   "id": "4d74ec07ec961e87",
+   "url": "https://news.yahoo.co.jp/articles/e55a549d9d1e37837086a0820884cac925995ed6",
+   "title_original": "「ユニクロ」がH＆M抜き、アパレル世界2位へ（朝日新聞）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000084-asahi-000-5-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T07:00:00+00:00",
+   "title_ja": "ユニクロがH&Mを抜いて世界2位のアパレルブランドへ",
+   "summary_ja": "ユニクロがH&Mを抜き、アパレル業界の世界第2位に浮上したことが朝日新聞の報道で明らかになった。グローバルでの存在感を高めている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
    "id": "6c30590ff8a8cd09",
    "url": "https://www.fastretailing.com/eng/ir/financial/summary.html",
    "title_original": "Results Summary",
@@ -3472,6 +3525,22 @@
    "published": "2026-10-08T06:49:31+00:00",
    "title_ja": "ファストリ26年8月期、売上高3.9兆円で過去最高",
    "summary_ja": "ファーストリテイリングの2026年8月期連結業績は、海外事業の好調により売上高が3.9兆円規模となり過去最高を更新しました。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "a2f66d02a800c24b",
+   "url": "https://www.ryutsuu.biz/accounts/s100842.html",
+   "title_original": "ファーストリテイリング 決算／通期は5期連続で過去最高業績、ユニクロ事業がけん引",
+   "source": "流通ニュース",
+   "image": "https://www.ryutsuu.biz/common/img/cat-accounts.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-08T06:10:53+00:00",
+   "title_ja": "ファーストリテイリング通期決算、5期連続で過去最高業績",
+   "summary_ja": "ファーストリテイリングの通期決算は5期連続で過去最高の業績を更新した。ユニクロ事業が全体の成長を強くけん引する形となった。",
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
@@ -6596,86 +6665,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "7aed02cfdd612a9d",
-   "url": "https://www.toronto.com/life/uniqlo-hillcrest-mall-richmond-hill-opening-date/article_2d999903-e42c-575c-8f22-ce0b7c24a617.html",
-   "title_original": "Uniqlo’s newest store is launching in the GTA with exclusive grand opening freebies",
-   "source": "Toronto.com",
-   "image": "https://bloximages.newyork1.vip.townnews.com/toronto.com/content/tncms/assets/v3/editorial/d/fa/dfa10e4c-8c48-5c00-b3a2-ec2bdf5a6528/6ab6859924f78.image.jpg?crop=1930%2C1013%2C0%2C30&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-26T09:45:00+00:00",
-   "title_ja": "カナダのトロント都市圏にユニクロの新店舗がオープンへ　開店記念ノベルティも用意",
-   "summary_ja": "カナダのトロント都市圏（GTA）にてユニクロの最新店舗が開業を迎えます。オープンを記念して、現地店舗限定のオープン記念特典やプレゼントが用意されていることが伝えられています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6bac732bd760eafc",
-   "url": "https://newswav.com/article/uniqlo-and-proton-celebrate-malaysian-automotive-icons-with-exclusive-utme-A2609_VqLnFF",
-   "title_original": "UNIQLO and PROTON Celebrate Malaysian Automotive Icons with Exclusive UTme! Collection",
-   "source": "newswav.com",
-   "image": "https://imgproxy.newswav.com/1000x0,q50=/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4tREscFlkEoT6BsDbFOwaUL8ulkbMKiOxVcmlgBocZ3W-e4gMvdglnJorp5oiE-8QfBvQSIETERisxB-Of7w1HhIk65zOzsoQsu5j9GaonX2SUNoBg6DWG2CeY4zJGQrkvzzuDhpJPEhxMiarLlsGiYLqel3NzTKvLW3TNQMS8hZ7v8H0NcGteHYNDOaj/s16000/3.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-26T08:14:05+00:00",
-   "title_ja": "ユニクロがマレーシアの自動車メーカー「プロトン」限定UTme!を発表",
-   "summary_ja": "ユニクロがマレーシアの自動車メーカー「プロトン」とコラボレーションし、現地を代表する自動車を題材にした限定の「UTme!」コレクションを発表した。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "154c6ec96b6abfbe",
-   "url": "https://www.vietnam.vn/ja/co-mat-tai-thanh-hoa-uniqlo-cham-moc-33-cua-hang-tren-toan-quoc",
-   "title_original": "ユニクロはタインホア省に店舗をオープンしたことで、全国で33店舗という節目を迎えた。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/26/1790391765211_cua_hang_uniqlo_aeon_mall_thanh_hoa_se_don_khach_tu_ngay_15_10_2026_hinh_phoi_canh_.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-26T03:00:28.873000+00:00",
-   "title_ja": "ユニクロがベトナム・タインホア省に新店舗を出店し国内33店舗を達成",
-   "summary_ja": "ユニクロがベトナムのタインホア省に新店舗をオープンしました。今回の出店により、ベトナム国内におけるユニクロの店舗数は合計33店舗に達し、同国での展開における新たな節目を迎えました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "639452067934fa86",
-   "url": "https://dtimes.jp/post-1394736",
-   "title_original": "10月16日開業！1Fに飲食店が並ぶ「しんつだぬま食堂」が誕生！ミーナ津田沼",
-   "source": "Dtimes",
-   "image": "https://dtimes.jp/wp-content/uploads/2026/09/dtimes-engine-7f561bc2c0ff93c964885b6d197f9ae2-20260926-bb23cc.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-26T00:59:52+00:00",
-   "title_ja": "千葉の商業施設「ミーナ津田沼」に新飲食街「しんつだぬま食堂」が10月16日開業",
-   "summary_ja": "ファーストリテイリングが運営する商業施設「ミーナ津田沼」の1階に、新たな飲食街「しんつだぬま食堂」が2026年10月16日に開業します。複数の飲食店が並び、施設全体の魅力向上と利便性の強化が図られます。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "285a8b3fefa64080",
-   "url": "https://www.lmaga.jp/news/2026/09/1103424",
-   "title_original": "京都の「巨大ユニクロ」が一時閉店、“グローバル旗艦店”としてリニューアルオープン",
-   "source": "Lmaga.jp",
-   "image": "https://www.lmaga.jp/wp-content/uploads/2026/09/kyotoyunikurorinyu20260925_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-26T00:30:00+00:00",
-   "title_ja": "京都の大型ユニクロ店舗が一時閉店へ、グローバル旗艦店としてリニューアル",
-   "summary_ja": "京都にある大型のユニクロ店舗が改装のため一時閉店し、今後は「グローバル旗艦店」としてリニューアルオープンすることが分かりました。より魅力を高めた大規模店舗へと生まれ変わり、新たな装いで営業を再開する予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }

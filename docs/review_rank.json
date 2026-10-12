@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:13:55.827372+09:00",
+ "updated_at": "2026-10-12T12:10:11.167056+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2928,
+ "catalog_size": 2937,
  "count": 60,
  "items": [
   {
@@ -593,32 +593,26 @@
    "rising": false
   },
   {
-   "key": "UQ:E485321-000",
+   "key": "UQ:E482281-000",
    "rank": 24,
    "brand": "ユニクロ",
-   "name": "3Dメリノブレンドリブポロセーター",
+   "name": "EZYワイドストレートジーンズ",
    "genders": [
     "ウィメンズ"
    ],
-   "price": 3990,
+   "price": 4990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485321/item/jpgoods_08_485321_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E485321-000/00?colorDisplayCode=08",
-   "rating": 4.4,
-   "reviews": 86,
-   "reviews7": 23,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482281/item/jpgoods_66_482281_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E482281-000/00?colorDisplayCode=66",
+   "rating": 4.5,
+   "reviews": 875,
+   "reviews7": 35,
    "capped": false,
-   "prev7": 29,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【UNIQLO（ユニクロ）】新作の「3Dメリノブレンドリブポロセーター」をライターが試着レビュー！1枚で着映える赤ニット #BAILA読む試着室｜＠BAILA（バイラ）",
-     "s": "BAILA（バイラ）",
-     "u": "https://baila.hpplus.jp/fashion/petitprice/82719"
-    }
-   ],
-   "score": 40,
-   "momentum": 1.53,
+   "prev7": 79,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 38,
+   "momentum": 1.08,
    "new": false,
    "rising": false
   },
