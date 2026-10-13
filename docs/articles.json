@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T08:55:31.141107+09:00",
+ "updated_at": "2026-10-13T13:30:59.372365+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -37,6 +37,7 @@
   "BusinessToday Malaysia",
   "Cambridge Independent",
   "Chosunbiz",
+  "DANAMIC",
   "Demócrata",
   "Distribuzione Moderna",
   "Drapers",
@@ -57,7 +58,6 @@
   "Goal.com",
   "GrowSF",
   "HOME広島ホームテレビ",
-  "HRプロ",
   "Howl.Link",
   "Hypebae",
   "Hypebeast",
@@ -65,7 +65,6 @@
   "INsauga",
   "IndexBox",
   "Indian Retailer",
-  "InsideHook",
   "JFA",
   "JGA 日本ゴルフ協会",
   "Jakarta Globe",
@@ -118,6 +117,7 @@
   "South China Morning Post",
   "SportsMint Media",
   "StoryBoard 18",
+  "Style Rave",
   "Sustainable Japan",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
@@ -149,7 +149,6 @@
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "afaqs!",
-  "autobuzz.my",
   "basketballking.jp",
   "businessnewsthisweek.com",
   "downtownny.com",
@@ -172,7 +171,6 @@
   "tbs.co.jp",
   "therakyatpost.com",
   "topics.smt.docomo.ne.jp",
-  "vooks.net",
   "www.marketscreener.com",
   "www.nagoyatv.com",
   "ねとらぼ",
@@ -188,6 +186,7 @@
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "テレ東BIZ",
+  "トラベル Watch",
   "ネットショップ担当者フォーラム",
   "ビジネスジャーナル",
   "ファッションプレス",
@@ -223,51 +222,147 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 239,
+ "detail_count": 237,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を更新、国内外で展開拡大",
+  "headline": "ファーストリテイリング、過去最高益と新展開で注目",
   "points": [
    {
-    "text": "ファーストリテイリングは国内外の堅調な事業展開により5年連続で過去最高の売上高と利益を記録し、利益が3割増となりました。",
+    "text": "過去最高益を更新し、利益率も過去最高に達した",
     "ids": [
-     "8f218965b5cf96e6",
-     "326d9d62b05bcce6",
-     "6bdefc83f9cc04a9"
+     "b6f921450700e3ad",
+     "5e7af74e49a5d0a0",
+     "8f218965b5cf96e6"
     ]
    },
    {
-    "text": "ユニクロの9月売上高は前年同月比11％増となり、欧米や東南アジアなどの海外市場や客単価の上昇が全体の業績を牽引しています。",
+    "text": "ユニクロはマドリードで新店をオープンし、欧州での出店を加速",
     "ids": [
-     "84f0cf4f93378835",
-     "9b6d2999cbfbdf0c"
+     "a95634ec0e70977a",
+     "3c146308fc993348"
     ]
    },
    {
-    "text": "スペインのマドリードに新店舗をオープンし国内8店舗体制としたほか、米サンフランシスコ中心部へ再進出することを発表しました。",
+    "text": "JWアンダーソンとの秋冬コラボでヴィンテージ感や演劇美術を取り入れたコレクションを発表",
     "ids": [
-     "3c146308fc993348",
-     "a0a48bde8062db2c"
-    ]
-   },
-   {
-    "text": "演劇美術やキャンパスドラマからインスピレーションを受けたJWアンダーソンとの2026年秋冬コラボコレクションが発表されました。",
-    "ids": [
+     "a4108878747fefea",
      "4e841a0694b4dd41",
-     "da0b226b35de6fb8"
+     "37033d59b09648d3"
     ]
    },
    {
-    "text": "SNSではGU ちいかわ ポーチが話題となり、Xで3日に22件投稿されています。",
+    "text": "ユニクロはアジアパラ車いすバスケ日本代表と公式スポンサー契約を締結",
+    "ids": [
+     "dcccff048f36c5bd"
+    ]
+   },
+   {
+    "text": "GU ちいかわ ポーチがXで23件投稿、反応数28976件で急上昇",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-10T09:04:06.355905+09:00",
-  "generated_at": "2026-10-13T09:04:09.746343+09:00",
+  "from": "2026-10-10T13:40:55.347055+09:00",
+  "generated_at": "2026-10-13T13:41:03.028494+09:00",
   "article_count": 24,
-  "sig": "d2597d52bbb3"
+  "sig": "62697bc1ceb6"
  },
  "items": [
+  {
+   "id": "aac8a1438682e0f9",
+   "url": "https://prtimes.jp/main/html/rd/p/000000081.000134893.html",
+   "title_original": "値上げが相次ぐ今、プラステは秋冬の人気商品をより手に取りやすい価格へ。品質・機能性はそのままに、冬の定番「ウォームリザーブシリーズ」も新価格で展開。",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/134893/81/134893-81-c1150282c41197c9a14481f1cc1fa670-480x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T13:00:01+00:00",
+   "title_ja": "プラステ、秋冬の人気商品をより手に取りやすい新価格で展開",
+   "summary_ja": "プラステは品質や機能性を維持したまま、秋冬の人気商品を手に取りやすい新価格へと改定します。冬の定番である「ウォームリザーブシリーズ」も新価格で展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4108878747fefea",
+   "url": "https://www.businesstoday.com.my/2026/10/13/uniqlo-x-jw-anderson-put-a-vintage-spin-on-everyday-staples",
+   "title_original": "UNIQLO X JW ANDERSON Put A Vintage Spin On Everyday Staples",
+   "source": "BusinessToday Malaysia",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T03:29:27+00:00",
+   "title_ja": "ユニクロとJWアンダーソンが新作コラボを発表、ヴィンテージ感を演出",
+   "summary_ja": "ユニクロはJWアンダーソンとの最新コレクションを発表し、日常の定番アイテムにヴィンテージ感を取り入れたデザインを展開します。英国の伝統的なエッセンスを感じさせる仕上がりです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "d25885f70fe6a214",
+   "url": "https://travel.watch.impress.co.jp/docs/news/2147568.html",
+   "title_original": "ユニクロ、新作「ミッフィー」UTを12月発売。モノトーン基調でモダンな全4種",
+   "source": "トラベル Watch",
+   "image": "https://travel.watch.impress.co.jp/img/trw/list/2147/568/01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T03:21:54+00:00",
+   "title_ja": "ユニクロ、新作「ミッフィー」UTを12月に発売へ",
+   "summary_ja": "ユニクロは、人気キャラクター「ミッフィー」をデザインした新作UTを12月に発売します。モノトーンを基調としたモダンな全4種類が展開される予定です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "d39110e6411fb684",
+   "url": "https://news.shoninsha.co.jp/merchandising/320823",
+   "title_original": "ユニクロnews｜2026年秋冬｢UNIQLO and JW ANDERSON｣",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T00:05:11+00:00",
+   "title_ja": "ユニクロ、2026年秋冬「UNIQLO and JW ANDERSON」",
+   "summary_ja": "ユニクロは2026年秋冬シーズンの「UNIQLO and JW ANDERSON」コレクションに関する情報を公開した。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "dcccff048f36c5bd",
+   "url": "https://love-spo.com/article/ssu20261013",
+   "title_original": "アジアパラに臨む車いすバスケ日本代表に強力な援軍 ユニクロが公式スポンサー契約 元車いすテニス国枝さんが両者を結びつけ",
+   "source": "ラブすぽ",
+   "image": "https://love-spo.com/wp-content/uploads/2026/10/IMG_6050.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T00:00:00+00:00",
+   "title_ja": "ユニクロ、アジアパラ車いすバスケ日本代表と公式スポンサー契約",
+   "summary_ja": "アジアパラ競技大会に臨む車いすバスケットボール日本代表チームとユニクロが公式スポンサー契約を締結した。元車いすテニス選手の国枝慎吾氏が両者を引き合わせた。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1eca4e3a6f3a098a",
+   "url": "https://www.stylerave.com/jw-anderson-uniqlo-fall-winter-2026-collection",
+   "title_original": "JW Anderson and UNIQLO Revisit Collegiate Style for Fall/Winter 2026",
+   "source": "Style Rave",
+   "image": "https://www.stylerave.com/wp-content/uploads/2026/10/https___hypebeast.com_image_2026_10_11_jw-anderson-uniqlo-fall-winter-2026-fw26-collaboration-collection-release-info-010-1-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T22:45:38+00:00",
+   "title_ja": "JWアンダーソンとユニクロの秋冬カレッジスタイル",
+   "summary_ja": "JWアンダーソンとユニクロがタッグを組み、2026年秋冬に向けたカレッジスタイルを再解釈したコレクションを発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "57bd9e82e75e8ea0",
    "url": "https://www.tradingview.com/news/tradingview:dd61f36304360:0-weekly-recap-fy-revenue-and-profit-growth-and-hong-kong-dr-trading-halt",
@@ -314,7 +409,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a95634ec0e70977a",
@@ -330,7 +425,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3c146308fc993348",
@@ -509,6 +604,22 @@
    "has_detail": true
   },
   {
+   "id": "819e9b999ca42393",
+   "url": "https://danamic.org/2026/10/12/uniqlo-and-jw-anderson-fall-winter-2026-theatre-kid-knits-arrive-16-october",
+   "title_original": "UNIQLO and JW ANDERSON Fall/Winter 2026: Theatre Kid Knits Arrive 16 October",
+   "source": "DANAMIC",
+   "image": "https://danamic-media.danamic.org/danamic-production/2026/10/11024411/hero-26deab89.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T03:30:00+00:00",
+   "title_ja": "ユニクロ×JWアンダーソン 26年秋冬、10月16日発売",
+   "summary_ja": "ユニクロとJW ANDERSONの2026年秋冬コレクションが、10月16日に発売されることが明らかになった。温かみのあるニットなどが登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "ce77f9f6498b38bd",
    "url": "https://limo.media/articles/-/141824",
    "title_original": "ユニクロ好調で26年8月期は営業益3割増なのに、ファーストリテイリングはなぜ株主優待がない？元機関投資家が読み解きと優待実施効果の試算",
@@ -538,7 +649,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f2eb19bf8169e5d0",
@@ -954,7 +1065,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "848734c847c01f9e",
@@ -1818,7 +1929,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2e5f04cf981e341f",
@@ -6552,118 +6663,6 @@
    "title_ja": "ユニクロの細見えボーダーセーターが期間限定2990円！秋から冬まで大活躍の一着",
    "summary_ja": "ユニクロのボーダーセーターが、期間限定価格の2990円で販売されています。身体のラインをきれいに見せて背中をすっきりとカバーするデザインが特徴で、秋は1枚で、冬は重ね着としてヘビロテが期待できるアイテムです。",
    "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e9c93b50832f0c8b",
-   "url": "https://gekiryu-online.jp/2026/09/256096",
-   "title_original": "ファーストリテイリング、ミーナ津田沼を10月16日リニューアルオープン",
-   "source": "激流オンライン",
-   "image": "https://gekiryu-online.jp/wp-content/uploads/2026/09/191184a6a0407daca8becdb721f04dc9.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-29T03:24:22+00:00",
-   "title_ja": "ファーストリテイリング、「ミーナ津田沼」を10月16日にリニューアル",
-   "summary_ja": "ファーストリテイリングは、「ミーナ津田沼」を10月16日にリニューアルオープンすることを発表した。詳細は今後の展開が注目される。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c08586fe18c51f57",
-   "url": "https://news.yahoo.co.jp/articles/d135decb8d4bf4fd123f1e6a26e229545077a4f8",
-   "title_original": "【ユニクロ】「おかえり…ずっと待ってたよ」伝説のブランケット進化して再販！「我が子の“ライナスの毛布”」ママたち歓喜の声殺到！（LASISA）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-10162387-lasisa-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-29T02:38:00+00:00",
-   "title_ja": "ユニクロで人気のブランケットが機能を進化させて再販売",
-   "summary_ja": "ユニクロで以前評判を呼んでいたブランケットが、機能を向上させて再登場しました。愛用者や子供を持つ親などを中心に待望の再販となり、使い心地や利便性の高まりに対して喜びの声が集まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "90ffb0bf7166f944",
-   "url": "https://www.hrpro.co.jp/miraii/post-4711",
-   "title_original": "ユニクロ（ファーストリテイリング）の女性活躍戦略―女性管理職比率45.5%を達成する「個を活かす」仕組みとは",
-   "source": "HRプロ",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-29T00:32:58+00:00",
-   "title_ja": "ユニクロ、女性管理職比率45.5%を達成した女性活躍戦略の仕組み",
-   "summary_ja": "ファーストリテイリングが展開するユニクロの女性活躍戦略について紹介している。個を活かす独自の仕組みにより、女性管理職比率45.5%を達成した取り組みを解説。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "bd97c9b486de821a",
-   "url": "https://autobuzz.my/2026/09/29/proton-and-uniqlo-drop-a-collection-of-t-shirts-and-tote-bags-only-available-at-selected-outlets",
-   "title_original": "Proton and Uniqlo drop a collection of T-shirts and tote bags, only available at selected outlets",
-   "source": "autobuzz.my",
-   "image": "https://assets.autobuzz.my/wp-content/uploads/2026/09/29082605/2026-Proton-Uniqlo-Collection-5.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T00:29:46+00:00",
-   "title_ja": "プロトンとユニクロが限定Tシャツとバッグを発売",
-   "summary_ja": "自動車メーカーのプロトンとユニクロがコラボレーションし、オリジナルのTシャツとトートバッグのコレクションを発表しました。一部の限定店舗でのみ販売されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "02120dca05f441d0",
-   "url": "https://www.trendhunter.com/trends/pop-art-ut",
-   "title_original": "Artist Graphic Tees: UNIQLO Brings Warhol, Haring, And Basquiat To Its Graphic T-Shirts",
-   "source": "Trend Hunter",
-   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/637/637806/637806_1_1200.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-28T23:05:42+00:00",
-   "title_ja": "ユニクロ、ウォーホルらのアートTシャツを展開",
-   "summary_ja": "ユニクロのグラフィックTシャツブランドにおいて、アンディ・ウォーホル、キース・ヘリング、バスキアのアート作品を採用した商品を展開。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e03d3d49a5f46f45",
-   "url": "https://www.insidehook.com/style-news/new-menswear-releases-9-28-26",
-   "title_original": "Uniqlo : C Bets on Big Pants With New Fall/Winter 2026 Collection",
-   "source": "InsideHook",
-   "image": "https://www.insidehook.com/wp-content/uploads/2026/09/Uniqlo-Hero-928.jpg?resize=1200,800",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-28T16:54:05+00:00",
-   "title_ja": "UNIQLO : Cの2026年秋冬新作でビッグパンツが登場",
-   "summary_ja": "ユニクロのライン「UNIQLO : C」の2026年秋冬コレクションにて、シルエットの大きいビッグパンツに注力した新作ラインナップが展開されることが報じられました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f188dd2d686c912c",
-   "url": "https://www.vooks.net/pokemon-and-mario-kart-world-uniqlo-gear-hitting-aussie-stores-this-october",
-   "title_original": "Pokémon and Mario Kart World Uniqlo gear hitting Aussie stores this October",
-   "source": "vooks.net",
-   "image": "https://cdn.vooks.net/vooks/img/2026/09/uniqlo-designs-2026-oct.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-28T13:47:05+00:00",
-   "title_ja": "オーストラリアのユニクロでポケモン等の新作を10月に発売",
-   "summary_ja": "オーストラリアのユニクロ店舗にて、10月にポケモンやマリオカート関連のコレクションが発売される予定であることが報じられています。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
