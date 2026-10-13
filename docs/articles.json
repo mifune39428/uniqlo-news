@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T22:07:06.128534+09:00",
+ "updated_at": "2026-10-14T07:03:29.787469+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -62,6 +62,7 @@
   "INsauga",
   "IndexBox",
   "Indian Retailer",
+  "JBpress",
   "JFA",
   "JGA 日本ゴルフ協会",
   "Jakarta Globe",
@@ -92,7 +93,6 @@
   "Oui Speak Fashion (OSF)",
   "PR TIMES",
   "Pluang",
-  "Pokde.Net",
   "Press Start Australia",
   "Qatar Tribune",
   "Quartz",
@@ -110,6 +110,7 @@
   "Secret Miami",
   "Secret San Francisco",
   "Seeking Alpha",
+  "Simply Wall Street",
   "Smartkarma",
   "South China Morning Post",
   "SportsMint Media",
@@ -195,6 +196,7 @@
   "ラブすぽ",
   "千葉テレビ放送株式会社",
   "四季報オンライン",
+  "地球の歩き方",
   "奈良新聞",
   "宇部日報デジタル SARATTO",
   "山形新聞",
@@ -219,12 +221,12 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 238,
+ "detail_count": 237,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を達成、JWA新作も発表",
+  "headline": "ファーストリテイリングが過去最高益を更新し、国内外で出店や新作発表が相次ぐ",
   "points": [
    {
-    "text": "ファーストリテイリングは過去最高益を更新し、H&Mを上回る利益率を記録した一方、株価は下落した。",
+    "text": "ファーストリテイリングの直近の決算が市場予想を上回り、売上高が17％増加して過去最高益を更新しました。利益率でもH&Mを上回るなど高い収益性が示されています。",
     "ids": [
      "b6f921450700e3ad",
      "5e7af74e49a5d0a0",
@@ -232,33 +234,81 @@
     ]
    },
    {
-    "text": "ユニクロの9月売上高は前年同月比11％増となり、スペイン・マドリードには8店舗目がオープンした。",
+    "text": "ユニクロはサンフランシスコのマーケットストリートや、スペインのマドリード市内に新店舗をオープンし、グローバル市場での展開や出店をさらに強化しています。",
     "ids": [
-     "9b6d2999cbfbdf0c",
+     "9ed047bcfca68262",
      "a95634ec0e70977a",
      "3c146308fc993348"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが発表され、多様な新作アイテムが登場する。",
+    "text": "10月16日の発売に向けて「UNIQLO and JW ANDERSON」の新作コレクションが発表されたほか、12月には「ミッフィー」の新作UTの発売も予定されています。",
     "ids": [
+     "397cf6a43229e317",
      "24bc6a6eb3561d70",
-     "d032b2adc5a582a1",
-     "656b0a813bc293f6"
+     "d25885f70fe6a214"
     ]
    },
    {
-    "text": "GUの「ちいかわ ポーチ」がXで3日に24件投稿され、大きな話題となっている。",
+    "text": "SNSでは、GU ちいかわ ポーチがXで14件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-10T22:26:17.294579+09:00",
-  "generated_at": "2026-10-13T22:28:18.208602+09:00",
+  "from": "2026-10-11T07:10:39.655464+09:00",
+  "generated_at": "2026-10-14T07:10:41.661942+09:00",
   "article_count": 24,
-  "sig": "7e19b6b013f3"
+  "sig": "293491cbebd2"
  },
  "items": [
+  {
+   "id": "80d6ae5624adb922",
+   "url": "https://jbpress.ismedia.jp/articles/-/97239",
+   "title_original": "ファストリはなぜ世界企業になれたのか 繊研新聞記者が読み解く「まねできない仕組み」の正体",
+   "source": "JBpress",
+   "image": "https://jbpress.ismcdn.jp/mwimgs/5/5/1200mw/img_555d4567a57fa04891ef148c0c986f6f437505.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T21:00:00+00:00",
+   "title_ja": "ファーストリテイリングが世界企業になった理由",
+   "summary_ja": "繊研新聞の記者が、ファーストリテイリングがグローバル企業へと成長を遂げた背景に迫ります。他社には真似のできない独自のビジネスモデルの正体を読み解きます。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "9ed047bcfca68262",
+   "url": "https://www.arukikata.co.jp/tokuhain/399152",
+   "title_original": "サンフランシスコにUNIQLOが復活！Market Streetに新店舗オープン",
+   "source": "地球の歩き方",
+   "image": "https://www.arukikata.co.jp/wp-content/uploads/IMG_4891-1_2026_1014_0449.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T20:03:59+00:00",
+   "title_ja": "サンフランシスコ・マーケットストリートにユニクロ新店がオープン",
+   "summary_ja": "ユニクロはサンフランシスコのマーケットストリートに新店舗を開設し、同市での販売拠点を再び持つことになった。この出店は米国西海岸でのブランド展開強化の一環とみられ、現地メディアも注目している。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d87dd2c0daff028c",
+   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/dividend-hike-could-be-a-game-changer-for-fast-retailing-sto",
+   "title_original": "Dividend Hike Could Be A Game Changer For Fast Retailing Stock (TSE:9983)",
+   "source": "Simply Wall Street",
+   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T18:29:21.958000+00:00",
+   "title_ja": "ファーストリテイリング、配当増額で株価に好影響の期待",
+   "summary_ja": "ファーストリテイリングは配当金を引き上げる方針を発表し、株主還元を強化することで投資家の関心を高め、株価上昇の要因になる可能性があると指摘された。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "aac8a1438682e0f9",
    "url": "https://prtimes.jp/main/html/rd/p/000000081.000134893.html",
@@ -289,7 +339,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b1f4b5f21b1cec14",
@@ -338,6 +388,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "397cf6a43229e317",
+   "url": "https://news.yahoo.co.jp/articles/3d4e247eaa8ddd0f89ae04b6401cab13ae460369/images/000",
+   "title_original": "【大人のユニクロ】「UNIQLO and JW ANDERSON」新作速報！ 10月16日の発売日に買うべきアイテムを考察 (UOMO)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZ2yrXvkq_yRcRt27dbTdONuzASrubZuHusV8fKybCJ-NoFWUSVcEx6KWVDD8bpJ3KJYxtBoOmrA3pL6Tb0u_4A-dqsoKH5r06By2m2d04IRKQVbqCVG0HciKm8KS_tPPA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T10:02:49+00:00",
+   "title_ja": "ユニクロとJW ANDERSON、10月16日発売の新作を解説",
+   "summary_ja": "「UNIQLO and JW ANDERSON」の新作コレクションが10月16日に発売される。注目アイテムの特徴やコーディネートのポイントを考察する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "425e9384c51d4d75",
@@ -401,7 +467,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ba98d32772fab26b",
@@ -417,7 +483,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "391fe012c18921d4",
@@ -6591,70 +6657,6 @@
    "title_ja": "ユニクロ「アルカキット錦糸町店」がリニューアルオープン　キッズ＆ベビー服エリアを拡充",
    "summary_ja": "ユニクロのアルカキット錦糸町店がリニューアルオープンしました。今回の改装によりキッズやベビー服のコーナーが大きく拡充されており、子育て世代にとってより買い物がしやすい売場へと生まれ変わっています。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "01151b2b95ce1042",
-   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_GlobalMegaBrands_20260930",
-   "title_original": "ファストリ3.13％、良品計画3.33％、アシックス2.90％の上昇 「グローバル・メガブランド」が指数牽引｜「SVT インデックス」12,872ポイント（9月30日）",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/02/840-5.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T00:00:00+00:00",
-   "title_ja": "ファストリなどメガブランドの上昇によりSVTインデックスが牽引",
-   "summary_ja": "9月30日のSVTインデックスにおいて、ファーストリテイリングが3.13％上昇したほか良品計画やアシックスも値を上げ、グローバルメガブランドが指数を引っ張りました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "749c2f2001bb5c07",
-   "url": "https://love-spo.com/article/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%80%81%E3%82%B8%E3%83%BC%E3%83%A6%E3%83%BC%E3%81%AF%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81%E3%83%9F%E3%83%BC%E3%83%8A%E6%B4%A5%E7%94%B0",
-   "title_original": "ユニクロ、ジーユーはパワーアップ！ミーナ津田沼は１０月１６日（金）リニューアルオープン！",
-   "source": "ラブすぽ",
-   "image": "https://love-spo.com/wp-content/uploads/2026/09/68550-63-df43b06bb5368a94ce92682a3a455649-3741x2296-1-scaled.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-29T23:00:00+00:00",
-   "title_ja": "ミーナ津田沼が10月16日にリニューアルしユニクロやGUがパワーアップ",
-   "summary_ja": "千葉県の商業施設であるミーナ津田沼が10月16日にリニューアルオープンします。これに伴い、施設内に入居するユニクロとジーユーもより魅力的な店舗へとパワーアップして営業を開始します。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "610f2981b7a2d028",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-gains-1-65-percent-as-growth-holds/70198055",
-   "title_original": "Fast Retailing stock gains 1.65 percent as growth holds",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2404997_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T11:47:22+00:00",
-   "title_ja": "ファーストリテイリング株、成長持続で1.65％上昇",
-   "summary_ja": "ファーストリテイリングの株価が成長が持続しているとの見方から1.65％上昇した。業績好調が投資家心理を支えており、今後の動向が注目される。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e36ddeeb65a807f3",
-   "url": "https://pokde.net/lifestyle/shopping/uniqlo-utme-proton-collection-malaysia",
-   "title_original": "UNIQLO Malaysia Unveils Exclusive UTme! PROTON Collection Celebrating 43 Years Of Malaysian Automotive History",
-   "source": "Pokde.Net",
-   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/29192109/utmeprotoncover.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-29T11:21:30+00:00",
-   "title_ja": "マレーシアのユニクロが自動車メーカー「プロトン」記念のUTme!発表",
-   "summary_ja": "マレーシアのユニクロが、現地自動車メーカーであるプロトンの設立43周年を記念した限定「UTme!」コレクションを発表しました。マレーシアの自動車の歴史を祝う特別なデザインとして提供されます。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
