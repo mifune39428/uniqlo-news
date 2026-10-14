@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T01:07:38.226557+09:00",
+ "updated_at": "2026-10-15T06:04:54.888381+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -41,6 +41,7 @@
   "Drapers",
   "EBC Financial Group",
   "EL PAÍS English",
+  "Eastern Mirror",
   "Excite エキサイト",
   "Fashion United",
   "FashionNetwork France",
@@ -62,11 +63,10 @@
   "INsauga",
   "IndexBox",
   "Indian Retailer",
+  "J-CAST ニュース",
   "JBpress",
-  "JFA",
   "JGA 日本ゴルフ協会",
   "Jakarta Globe",
-  "Japan Web Magazine",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
   "KION Central Coast",
@@ -77,6 +77,7 @@
   "MANTANWEB",
   "Madrid Secreto",
   "Man of Many",
+  "Manchester Evening News",
   "Marketing-Interactive",
   "Miami Herald",
   "Miami New Times",
@@ -221,51 +222,115 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 239,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を更新し、世界展開を加速",
+  "headline": "配当増額・業績上方修正と海外新店、コラボ続々登場",
   "points": [
    {
-    "text": "ファーストリテイリングは過去最高益を更新し、H&Mを上回る利益率を記録しました。市場予想を上回る決算を受けて適正価格の引き上げや配当増額も発表されています。",
+    "text": "ファーストリテイリングが配当増額と業績予想上方修正を発表、投資家期待高まる。",
     "ids": [
-     "5e7af74e49a5d0a0",
+     "db111b585ebf8ae7",
+     "d87dd2c0daff028c"
+    ]
+   },
+   {
+    "text": "過去最高益で利益率がH&M上回り、株価はラグジュアリー株を大きく上回る。",
+    "ids": [
      "8f218965b5cf96e6",
-     "e0c88de0f02d62ef"
+     "5e7af74e49a5d0a0",
+     "39999c1aaf4282c5"
     ]
    },
    {
-    "text": "柳井会長兼社長がアパレル世界一達成への強い意欲を示し、マスファッション市場での世界的な主導権獲得やグローバルでのさらなる成長戦略に注目が集まっています。",
+    "text": "英国トラフォード・センターとサンフランシスコに新大型店を準備・オープン、海外展開加速。",
     "ids": [
-     "277a39ba34c72da5",
-     "4a9bb35b668224c2"
-    ]
-   },
-   {
-    "text": "ユニクロはサンフランシスコのマーケットストリートに新店舗をオープンし、米国西海岸でのブランド展開強化を図っています。",
-    "ids": [
+     "6e61337d5e3cb3bc",
      "9ed047bcfca68262"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが新たに発表され、10月16日の発売に向けて注目を集めています。",
+    "text": "JW ANDERSONとの2026年秋冬コレクションが発表、ヴィンテージ感と英国エッセンスが注目。",
     "ids": [
      "20cd5e6de93fcc7b",
-     "397cf6a43229e317",
      "24bc6a6eb3561d70"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ ミッフィー UT」が急上昇し、Xで3日に8件投稿されました。",
+    "text": "Xで8件投稿の「ユニクロ ミッフィー UT」が急上昇中。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-12T01:14:38.617459+09:00",
-  "generated_at": "2026-10-15T01:14:42.331571+09:00",
+  "from": "2026-10-12T06:12:25.755898+09:00",
+  "generated_at": "2026-10-15T06:12:37.229518+09:00",
   "article_count": 24,
-  "sig": "11bd37a875fb"
+  "sig": "f3251a270136"
  },
  "items": [
+  {
+   "id": "db111b585ebf8ae7",
+   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/fast-retailing-tse9983-lifts-dividend-and-guidance-is-the-st",
+   "title_original": "Fast Retailing (TSE:9983) Lifts Dividend And Guidance, Is The Stock Fully Priced?",
+   "source": "Simply Wall Street",
+   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T19:33:38.181000+00:00",
+   "title_ja": "ファーストリテイリングが配当と業績予想を上方修正",
+   "summary_ja": "ファーストリテイリングが増配および業績予想の上方修正を発表しました。今後の株価動向や業績に市場の注目が集まっています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "6e61337d5e3cb3bc",
+   "url": "https://www.manchestereveningnews.co.uk/whats-on/inside-trafford-centres-big-new-34763991",
+   "title_original": "Inside Trafford Centre's big new opening as UNIQLO prepares to launch",
+   "source": "Manchester Evening News",
+   "image": "https://i2-prod.manchestereveningnews.co.uk/article34765208.ece/ALTERNATES/s1200d/1_uniqlo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T17:42:02+00:00",
+   "title_ja": "トラフォード・センターにユニクロの新店舗がオープン準備",
+   "summary_ja": "イギリスのトラフォード・センターにて、ユニクロの新しい大型店舗の開店に向けた準備が進められています。現地の様子が伝えられています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0bc9ac466db4ebed",
+   "url": "https://secretmanchester.com/uniqlo-trafford-centre-watch-inside-the-new-store",
+   "title_original": "Uniqlo Trafford Centre: watch inside the new store",
+   "source": "Secret Manchester",
+   "image": "https://offloadmedia.feverup.com/secretmanchester.com/wp-content/uploads/2026/10/14180223/uniqlo_trafford_centre_opening_t1-1.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T17:02:21+00:00",
+   "title_ja": "新しくオープンしたユニクロ トラフォード・センター店の内部",
+   "summary_ja": "イギリスのトラフォード・センターにオープンしたユニクロの新店舗の店内の様子を動画などで紹介しています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "118cdf5b44a2472e",
+   "url": "https://www.easternmirrornagaland.com/thirty-eight-nagaland-youth-selected-to-join-uniqlo-in-delhi-ncr",
+   "title_original": "Thirty-eight Nagaland youth selected to join UNIQLO in Delhi NCR",
+   "source": "Eastern Mirror",
+   "image": "https://easternmirror-assets.s3.ap-south-1.amazonaws.com/images/2026/10/Thirty-eight%20Nagaland%20youth%20selected%20to%20join%20UNIQLO%20in%20Delhi%20NCR-1791995233337.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T16:34:45+00:00",
+   "title_ja": "ナガランド州の若者38人がデリー近郊のユニクロに採用",
+   "summary_ja": "インド・ナガランド州出身の若者38人が、デリー首都圏にあるユニクロの店舗等での勤務に向けて選出されました。雇用創出の取り組みとして注目されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "7cee4ce333b9f911",
    "url": "https://www.nssmag.com/en/fashion/47216/uniqlo-reimagines-the-winter-wardrobe-with-essential-pieces-designed-for-layering",
@@ -296,7 +361,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b007b26d7b3dfaba",
@@ -795,6 +860,22 @@
    "has_detail": true
   },
   {
+   "id": "c4cd4cf106fb52c7",
+   "url": "http://www.j-cast.com/news/provider/atPress_news/638447",
+   "title_original": "生駒ケーブルがユニクロとコラボ！限定デザインのUTme!アイテムが登場",
+   "source": "J-CAST ニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-13T05:00:00+00:00",
+   "title_ja": "生駒ケーブルがユニクロとコラボ、限定のUTme!アイテムが登場",
+   "summary_ja": "生駒ケーブルがユニクロとタッグを組み、限定デザインのUTme!アイテムを発売する。沿線の魅力を取り入れた特別なデザインが用意されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "24bc6a6eb3561d70",
    "url": "https://hypebeast.com/jp/2026/10/jw-anderson-uniqlo-fall-winter-2026-fw26-collaboration-collection-release-info",
    "title_original": "UNIQLO and JW ANDERSON が2026年秋冬コレクションを発表 ── 英国の伝統と自由な創造性を融合",
@@ -1113,6 +1194,22 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
+  },
+  {
+   "id": "ec7dfa5cf1edafc3",
+   "url": "https://www.wwdjapan.com/articles/2523570",
+   "title_original": "「ジーユー」×「エンジニアド ガーメンツ」第3弾が登場 ミリタリー＆ワークスタイルの全8型を発売",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-12T07:00:00+00:00",
+   "title_ja": "ジーユーとエンジニアド ガーメンツの第3弾コラボが登場",
+   "summary_ja": "ジーユーは、「エンジニアド ガーメンツ」との第3弾コラボレーションアイテムを発表しました。ミリタリーやワークスタイルを取り入れた全8型を発売します。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "7398475d5f9e2c80",
@@ -6568,102 +6665,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "9d48b4501289e39b",
-   "url": "https://jw-webmagazine.com/tips/uniqlo-stores-in-tokyo",
-   "title_original": "10 Largest UNIQLO Stores in Tokyo",
-   "source": "Japan Web Magazine",
-   "image": "https://jw-webmagazine.com/wp-content/uploads/2026/10/largest-uniqlo-stores.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T05:30:47+00:00",
-   "title_ja": "東京都内にあるユニクロの大型店舗10選を紹介",
-   "summary_ja": "英語ニュースサイトが東京都内にある大型のユニクロ店舗10選を紹介しています。旗艦店や大型店を中心に、品揃えの豊富さや店舗規模の大きさを誇る東京の主要店舗情報がまとめられています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "8b255092aa0c2c5c",
-   "url": "http://www.jfa.jp/news/00036842",
-   "title_original": "JFAユニクロサッカーキッズ in 和歌山 2026年12月13日(日)開催！ 10月6日(火)から参加者募集開始",
-   "source": "JFA",
-   "image": "https://www.jfa.jp/img/cache/6abdb20a-23b8-43cd-9e11-37b0d3093d95.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T05:15:18+00:00",
-   "title_ja": "「JFAユニクロサッカーキッズ in 和歌山」が12月13日開催、10月6日募集開始",
-   "summary_ja": "「JFAユニクロサッカーキッズ in 和歌山」が2026年12月13日に開催されます。開催に向けて10月6日より参加者の募集受付が開始される予定です。地域で実施されるスポーツイベントの概要が告知されています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d5a29a044f99a71b",
-   "url": "https://media.unisba.ac.id/af26d214/ce3bf268CyADWAReGDEeRAE",
-   "title_original": "【UNIQLOコラボ】まさかのセルビッジが値下げ！今週の期間限定は激アツ（ユニクロＵ・JWアンダーソン・ユニクロＣ） Laura Rutledge (PkY9a4tzng)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T02:35:21+00:00",
-   "title_ja": "ユニクロがコラボ商品のセルビッジアイテムなどを限定値下げ",
-   "summary_ja": "ユニクロが今週の期間限定価格として、コラボ商品のセルビッジ関連アイテムなどの値下げを実施しています。ユニクロUやJWアンダーソン、ユニクロCといった人気ラインの商品が対象となっています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7606d8b992c63a32",
-   "url": "https://www.ryutsuu.biz/store/s100115.html",
-   "title_original": "ユニクロ／「ゆめタウン光の森店」10月9日リニューアルオープン、熊本県最大店舗に",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/10/20261001u1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T02:00:31+00:00",
-   "title_ja": "ユニクロ「ゆめタウン光の森店」が10月9日リニューアル、熊本県最大店舗へ",
-   "summary_ja": "ユニクロの「ゆめタウン光の森店」が10月9日にリニューアルオープンします。今回の改装により熊本県内で最大規模の店舗となり、装いを新たに営業を再開することが発表されました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b8a6ce07e11d31b0",
-   "url": "https://news.yahoo.co.jp/articles/879cabe065ecf10050115ba81318bc9b94b6cf94?page=5",
-   "title_original": "そりゃ客が減っても売上が伸びるわけだ…｢アパレル初の1兆円｣ユニクロが都心に｢超巨大店舗｣を増やすワケ",
-   "source": "Yahoo!ニュース",
-   "image": "https://s.yimg.jp/images/news-web/versions/20261001-459349d/all/images/ogp_default.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T23:15:39+00:00",
-   "title_ja": "ユニクロが都心部に超巨大店舗を増設する理由と店舗戦略",
-   "summary_ja": "アパレルで売上1兆円規模を誇るユニクロが、都心部に超巨大店舗を増やしている背景について解説されています。客数の動向に対応しながら売上を伸ばすための出店手法や、独自の経営戦略の理由に迫っています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c6cb57232193089a",
-   "url": "https://senken.co.jp/posts/uniqlo-261001",
-   "title_original": "ユニクロ、日本車いすバスケ連盟とパートナーシップ ユニフォームを提供",
-   "source": "繊研新聞",
-   "image": "https://senken.co.jp/production/uploads/file_content/file/424507/facebook_760570__11_.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T21:25:00+00:00",
-   "title_ja": "ユニクロが日本車いすバスケットボール連盟とパートナーシップを締結しユニフォームを提供",
-   "summary_ja": "ユニクロは、日本車いすバスケットボール連盟との間でパートナーシップを締結した。選手や関係者に対してユニフォームの提供を行うことで、障がい者スポーツの普及発展や挑戦のサポートを継続的に推進していく。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
