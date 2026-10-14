@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T19:48:10.431417+09:00",
+ "updated_at": "2026-10-15T01:07:38.226557+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,6 +24,7 @@
   "ALBA Net",
   "AMP[アンプ]",
   "Adgully.com",
+  "Alvinology",
   "Around Prague",
   "BAILA（バイラ）",
   "BigGo Finance",
@@ -31,9 +32,9 @@
   "Bloomberg.com",
   "Bollywood Hungama",
   "Borneo Bulletin Online",
-  "Brands Untapped",
   "Business News This Week",
   "BusinessToday Malaysia",
+  "Campaign India",
   "Chosunbiz",
   "Demócrata",
   "Distribuzione Moderna",
@@ -55,6 +56,7 @@
   "GrowSF",
   "HOME広島ホームテレビ",
   "Howl.Link",
+  "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
   "INsauga",
@@ -83,7 +85,6 @@
   "Moomoo",
   "Morningstar",
   "NBC Bay Area",
-  "NDTV Profit",
   "NHKニュース",
   "Nation Thailand",
   "Newswav",
@@ -105,6 +106,8 @@
   "SFist",
   "SMEStreet",
   "San Francisco Chronicle",
+  "San Francisco Examiner",
+  "Secret Manchester",
   "Secret Miami",
   "Secret San Francisco",
   "Seeking Alpha",
@@ -147,7 +150,6 @@
   "afaqs!",
   "anemo（アネモ）",
   "businessnewsthisweek.com",
-  "downtownny.com",
   "fashionsnap.com",
   "fashionunited.jp",
   "finance.biggo.com",
@@ -158,6 +160,7 @@
   "marketscreener.com",
   "miamiherald.com",
   "news.livedoor.com",
+  "nss magazine",
   "ryutsuu.biz",
   "says.com",
   "senken.co.jp",
@@ -218,12 +221,12 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 238,
+ "detail_count": 240,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益とグローバル展開の加速",
+  "headline": "ファーストリテイリングが過去最高益を更新し、世界展開を加速",
   "points": [
    {
-    "text": "ファーストリテイリングは過去最高益を更新し、H&Mを上回る利益率を達成。市場予想を上回る決算となり適正価格が引き上げられた。",
+    "text": "ファーストリテイリングは過去最高益を更新し、H&Mを上回る利益率を記録しました。市場予想を上回る決算を受けて適正価格の引き上げや配当増額も発表されています。",
     "ids": [
      "5e7af74e49a5d0a0",
      "8f218965b5cf96e6",
@@ -231,41 +234,150 @@
     ]
    },
    {
-    "text": "柳井正会長兼社長が世界一達成への意欲を示し、マスファッション市場での世界的な主導権獲得やグローバルな成長戦略に注目が集まっている。",
+    "text": "柳井会長兼社長がアパレル世界一達成への強い意欲を示し、マスファッション市場での世界的な主導権獲得やグローバルでのさらなる成長戦略に注目が集まっています。",
     "ids": [
      "277a39ba34c72da5",
-     "4a9bb35b668224c2",
-     "2b56c2f720a61f90"
+     "4a9bb35b668224c2"
     ]
    },
    {
-    "text": "サンフランシスコのマーケットストリートやスペイン・マドリードへの新店オープンなど、国内外で店舗展開を強化している。",
+    "text": "ユニクロはサンフランシスコのマーケットストリートに新店舗をオープンし、米国西海岸でのブランド展開強化を図っています。",
     "ids": [
-     "9ed047bcfca68262",
-     "a95634ec0e70977a",
-     "3c146308fc993348"
+     "9ed047bcfca68262"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる10月16日発売の2026年秋冬新作コレクションや、12月発売予定の「ミッフィー」UTの発表が話題となっている。",
+    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが新たに発表され、10月16日の発売に向けて注目を集めています。",
     "ids": [
+     "20cd5e6de93fcc7b",
      "397cf6a43229e317",
-     "24bc6a6eb3561d70",
-     "d25885f70fe6a214"
+     "24bc6a6eb3561d70"
     ]
    },
    {
-    "text": "SNSでは、GU タックワイドパンツがXで10件投稿されるなど話題を集めている。",
+    "text": "SNSでは「ユニクロ ミッフィー UT」が急上昇し、Xで3日に8件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-11T19:56:52.176034+09:00",
-  "generated_at": "2026-10-14T19:56:54.260929+09:00",
+  "from": "2026-10-12T01:14:38.617459+09:00",
+  "generated_at": "2026-10-15T01:14:42.331571+09:00",
   "article_count": 24,
-  "sig": "ee692999e758"
+  "sig": "11bd37a875fb"
  },
  "items": [
+  {
+   "id": "7cee4ce333b9f911",
+   "url": "https://www.nssmag.com/en/fashion/47216/uniqlo-reimagines-the-winter-wardrobe-with-essential-pieces-designed-for-layering",
+   "title_original": "UNIQLO Reimagines the Winter Wardrobe with Essential Pieces Designed for Layering",
+   "source": "nss magazine",
+   "image": "https://data2.nssmag.com/images/galleries/49931/cover-uniqlo-wide.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T15:48:01+00:00",
+   "title_ja": "ユニクロ、レイヤリング向け冬の必需品コレクションを発表",
+   "summary_ja": "ユニクロは今年の冬に向け、重ね着しやすいベーシックなアイテムを中心とした新コレクションを発表した。シンプルさと機能性を兼ね備えたラインだ。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b9a3d468362fa440",
+   "url": "https://alvinology.com/2026/10/14/uniqlo-expands-peace-for-all-charity-t-shirt-project-to-singapore-with-community-chest-partnership",
+   "title_original": "UNIQLO Expands PEACE FOR ALL Charity T-Shirt Project to Singapore with Community Chest Partnership",
+   "source": "Alvinology",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T14:17:31+00:00",
+   "title_ja": "ユニクロ、シンガポールで「PEACE FOR ALL」Tシャツ慈善プロジェクトを拡大",
+   "summary_ja": "ユニクロはシンガポールのコミュニティチェストと提携し、子ども支援を目的とした「PEACE FOR ALL」Tシャツプロジェクトを拡大。売上の一部が寄付される。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b007b26d7b3dfaba",
+   "url": "https://www.jiji.com/jc/article?k=000000162.000068741&g=prt",
+   "title_original": "穴やシミのあるユニクロの服を“刺繍リペア”：時事ドットコム",
+   "source": "時事ドットコム",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/162/68741-162-d5afc7c0fe01778619c84d382c3c837c-763x596.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T14:10:00+00:00",
+   "title_ja": "ユニクロ、穴やシミのある服を刺繍で直すリペアサービス",
+   "summary_ja": "ユニクロの店舗において、穴やシミといったダメージのある衣類を刺繍によって補修するリペアサービスの取り組みが紹介されています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ad2b2da31fa85672",
+   "url": "https://secretmanchester.com/uniqlo-trafford-centre-store-greater-manchester",
+   "title_original": "Manchester becomes first UK city outside London with two UNIQLO stores as 1,440 sqm Trafford Centre branch opens with free gifts and a Tokyo trip draw",
+   "source": "Secret Manchester",
+   "image": "https://offloadmedia.feverup.com/secretmanchester.com/wp-content/uploads/2026/10/14150053/Photo-Collage.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T14:04:16+00:00",
+   "title_ja": "マンチェスターにユニクロ2号店、トラフォードセンターに新店オープン",
+   "summary_ja": "イギリス・マンチェスターでユニクロが2号店を開店し、トラフォード・センターに1,440㎡の大型店舗が誕生。開店記念で無料ギフトや東京旅行抽選が実施された。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cbac2c9d92f0abfd",
+   "url": "https://www.vietnam.vn/ja/nguoi-xu-thanh-trai-nghiem-phong-cach-lifewear-cua-uniqlo",
+   "title_original": "タインホア省の人々がユニクロのライフウェアスタイルを体験する。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/14/1791983881207_photo-1791969419032-17919694192851105937695-119-0-643-1000-crop-17919695469861372133543.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T12:30:00+00:00",
+   "title_ja": "タインホア省でユニクロのライフウェアを体験",
+   "summary_ja": "ベトナム・タインホア省の人々に向けて、ユニクロのライフウェアスタイルを紹介する取り組みが行われている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "20cd5e6de93fcc7b",
+   "url": "https://hypebae.com/jp/2026/10/uniqlo-jw-anderson-fw26-collection-collaboration-jonathan-anderson-release-info",
+   "title_original": "UNIQLO and JW ANDERSON の2026年秋冬コレクションが登場",
+   "source": "Hypebae",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F10%2FSingle-Image-181.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T11:59:51+00:00",
+   "title_ja": "UNIQLO and JW ANDERSON 26秋冬",
+   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが新たに登場し、注目を集めている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "6e348d062a8ce479",
+   "url": "https://www.campaignindia.in/article/uniqlo-launches-new-fleece-campaign-with-kriti-sanon-and-jasprit-bumrah/480jrk80n2a11v6f0wrpn9s95f",
+   "title_original": "UNIQLO launches new Fleece campaign with Kriti Sanon and Jasprit Bumrah",
+   "source": "Campaign India",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T11:04:40+00:00",
+   "title_ja": "ユニクロ、クリティ・サノンとジャスプリット・ブムラを起用したフリース新キャンペーンを発表",
+   "summary_ja": "ユニクロは、クリティ・サノンとジャスプリット・ブムラを起用した新しいフリースキャンペーンを国内外で展開します。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "ee3649a4f1d88408",
    "url": "https://prtimes.jp/main/html/rd/p/000000162.000068741.html",
@@ -283,6 +395,22 @@
    "has_detail": true
   },
   {
+   "id": "5fbcbf1936b44612",
+   "url": "https://www.sfexaminer.com/news/transit/market-street-uniqlo-stores-selling-custom-sfmta-merchandize/article_a2d8ebd7-0d7e-44c2-873a-777069a6d6c0.html",
+   "title_original": "SFMTA launches merchandise line with Uniqlo",
+   "source": "San Francisco Examiner",
+   "image": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/e/8f/e8feb954-ad5b-43e4-ba09-972cf3c525a4/6acea045cc418.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T11:00:00+00:00",
+   "title_ja": "サンフランシスコ市交通局、ユニクロとコラボグッズを発売",
+   "summary_ja": "サンフランシスコ市交通局（SFMTA）が、ユニクロと提携してオリジナルグッズのラインナップを発売します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "b3203e66097de1ca",
    "url": "https://news.shoninsha.co.jp/csr/321087",
    "title_original": "ユニクロnews｜国際リペアデーを記念し｢リペアウィーク｣開始",
@@ -296,7 +424,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "179d19854fdb0f39",
@@ -344,7 +472,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f991809c44dcdaa5",
@@ -376,7 +504,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e6ac73278ba45b60",
@@ -392,7 +520,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "39999c1aaf4282c5",
@@ -744,7 +872,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d39110e6411fb684",
@@ -6534,134 +6662,6 @@
    "title_ja": "ユニクロが日本車いすバスケットボール連盟とパートナーシップを締結しユニフォームを提供",
    "summary_ja": "ユニクロは、日本車いすバスケットボール連盟との間でパートナーシップを締結した。選手や関係者に対してユニフォームの提供を行うことで、障がい者スポーツの普及発展や挑戦のサポートを継続的に推進していく。",
    "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b928ff774b6fdec9",
-   "url": "https://www.brandsuntapped.com/curating-cambridge-and-uniqlo-partner-for-university-of-cambridge-inspired-designs",
-   "title_original": "Curating Cambridge and UNIQLO partner for University of Cambridge-inspired designs",
-   "source": "Brands Untapped",
-   "image": "https://www.brandsuntapped.com/files/2026/09/cambridge.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T20:49:30+00:00",
-   "title_ja": "ユニクロがケンブリッジ大学のライセンス会社と提携しコラボ商品を展開",
-   "summary_ja": "ユニクロがキュレーティング・ケンブリッジとパートナーシップを締結しました。名門ケンブリッジ大学からインスピレーションを受けたデザインを取り入れた、新たなコラボレーション商品が提供されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b749075596b6c4d7",
-   "url": "https://prtimes.jp/main/html/rd/p/000000132.000076595.html",
-   "title_original": "「UNIQLO UNIFORM」サイトに南海バスの制服リニューアルの事例が掲載されました",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/76595/132/76595-132-39bfeefe7ce94adfe259654841d89b6e-1661x908.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T16:45:26+00:00",
-   "title_ja": "ユニクロの制服紹介サイトに南海バスの事例が掲載",
-   "summary_ja": "企業の制服導入を紹介する「UNIQLO UNIFORM」サイトに、南海バスの制服リニューアル事例が新たに掲載されました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "5a8b3a04fab20715",
-   "url": "https://www.ndtvprofit.com/lifestyle/how-brand-japan-is-getting-india-hooked-from-anime-to-uniqlo-12121780",
-   "title_original": "How Brand Japan Is Getting India Hooked, From Anime To Uniqlo",
-   "source": "NDTV Profit",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T16:34:41+00:00",
-   "title_ja": "アニメからユニクロまで、インドで浸透する日本ブランドの魅力",
-   "summary_ja": "インドにおいて、アニメなどのポップカルチャーからユニクロといったアパレルブランドに至るまで、日本発のブランドやコンテンツが現地の人々を魅了し、浸透が進んでいる様子を報じている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d73b97ed1065b298",
-   "url": "https://downtownny.com/news/uniqlo-downtown-nyc-wtc",
-   "title_original": "It’s a Basics Wonderland at Uniqlo’s Massive New WTC Store",
-   "source": "downtownny.com",
-   "image": "https://downtownny.com/wp-content/uploads/2026/09/093026_uniqlo_2400x1600.jpg?v=1790784476",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T16:08:33+00:00",
-   "title_ja": "ユニクロがニューヨークのWTCに大規模な新店舗をオープン",
-   "summary_ja": "ユニクロがニューヨークのワールドトレードセンター（WTC）に大規模な新店舗をオープンしました。定番のベーシックアイテムが豊富に揃う、広大な売り場が特徴となっています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6179801adf555e13",
-   "url": "https://news.yahoo.co.jp/articles/4fa82fd0d16e8c64b91935004bd72b30577a601f",
-   "title_original": "ユニクロが車いすバスケ日本代表のユニホームを提供 国枝慎吾氏「世界での躍動がすごく楽しみ」（サンケイスポーツ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00000244-sanspo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T12:04:45+00:00",
-   "title_ja": "ユニクロが車いすバスケ日本代表にユニフォーム提供、国枝慎吾氏も期待を語る",
-   "summary_ja": "ユニクロが車いすバスケットボール日本代表へのユニフォーム提供を決定。これに対し、車いすテニス元日本代表の国枝慎吾氏が、選手たちの世界での活躍に向けて期待を寄せるコメントを発表した。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "81c723ddd2a9d0cc",
-   "url": "https://media.unisba.ac.id/c1b17815/fed9460fGzQRIhRCFxkGIwU/?share=linkedin&nb=1",
-   "title_original": "【最後のコラボ？】ユニクロU 2026/27秋冬新作！！ Interim Air Force One (osOoFRTeGt)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T10:58:19+00:00",
-   "title_ja": "ユニクロUの2026/27年秋冬新作とコラボ継続に関する話題",
-   "summary_ja": "ユニクロの人気ライン「ユニクロU（Uniqlo U）」の2026/27年秋冬新作コレクションに関する話題です。今回が最後のコラボレーションになるのではないかという説が注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c985a14655a41674",
-   "url": "https://media.unisba.ac.id/c614e5eb/e26710eaGyomCwNCTAEzABU/?share=telegram&nb=1",
-   "title_original": "【UNIQLO U・2025秋冬 新作】全品､星３評価でプレビュー‼️今週26日発売‼️ 76ers Vs Knicks (gKzA34Tocq)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T10:11:24+00:00",
-   "title_ja": "「ユニクロU」2025年秋冬新作が発売へ、全商品を星3つでプレビュー評価",
-   "summary_ja": "「Uniqlo U」の2025年秋冬新作コレクションが発売される。発売を控えた今週、全商品を対象に星3満点で事前評価を行うプレビュー。注目アイテムの仕上がりや購入のポイントを解説する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b07131cbdfaab69e",
-   "url": "https://prtimes.jp/main/html/rd/p/000000158.000068741.html",
-   "title_original": "日本車いすバスケットボール連盟とパートナーシップ契約を締結",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/68741/158/68741-158-ce6d73e4caeef93fc7675db5aa2a4ab4-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T10:00:02+00:00",
-   "title_ja": "日本車いすバスケットボール連盟とオフィシャルパートナーシップ契約を締結",
-   "summary_ja": "日本車いすバスケットボール連盟との間でパートナーシップ契約が締結されました。パラスポーツの普及や支援に向けた取り組みの一環として、今後の協力関係やサポート活動の展開が期待されています。",
-   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
