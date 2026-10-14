@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:33:41.392579+09:00",
+ "updated_at": "2026-10-14T19:48:10.431417+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,7 +24,6 @@
   "ALBA Net",
   "AMP[アンプ]",
   "Adgully.com",
-  "All About ニュース",
   "Around Prague",
   "BAILA（バイラ）",
   "BigGo Finance",
@@ -35,7 +34,6 @@
   "Brands Untapped",
   "Business News This Week",
   "BusinessToday Malaysia",
-  "Cambridge Independent",
   "Chosunbiz",
   "Demócrata",
   "Distribuzione Moderna",
@@ -128,6 +126,7 @@
   "The Lufkin Daily News",
   "The Manila Times",
   "The San Francisco Standard",
+  "The Sole Supplier",
   "TheIndustry.fashion",
   "Traders Union",
   "TradingView",
@@ -147,10 +146,8 @@
   "ad-hoc-news.de",
   "afaqs!",
   "anemo（アネモ）",
-  "basketballking.jp",
   "businessnewsthisweek.com",
   "downtownny.com",
-  "excite.co.jp",
   "fashionsnap.com",
   "fashionunited.jp",
   "finance.biggo.com",
@@ -175,6 +172,7 @@
   "やさしい朝日新聞",
   "インサイド",
   "ウォーカープラス",
+  "オリコンニュース",
   "コラボカフェ",
   "ゴルフサプリ",
   "サンスポ",
@@ -196,7 +194,6 @@
   "千葉テレビ放送株式会社",
   "四季報オンライン",
   "地球の歩き方",
-  "奈良新聞",
   "宇部日報デジタル SARATTO",
   "山形新聞",
   "山陽新聞",
@@ -213,6 +210,7 @@
   "東京報道新聞",
   "流通スーパーニュース",
   "流通ニュース",
+  "激流オンライン",
   "熊本日日新聞社",
   "産経ニュース",
   "繊研新聞",
@@ -220,20 +218,28 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 236,
+ "detail_count": 238,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を達成、国内外で店舗拡大と新商品発表も相次ぐ",
+  "headline": "ファーストリテイリング過去最高益とグローバル展開の加速",
   "points": [
    {
-    "text": "ファーストリテイリングは過去最高益を更新し、H&MやZARAを上回る利益率を記録するなど、グローバル市場での存在感を高めています。",
+    "text": "ファーストリテイリングは過去最高益を更新し、H&Mを上回る利益率を達成。市場予想を上回る決算となり適正価格が引き上げられた。",
     "ids": [
      "5e7af74e49a5d0a0",
      "8f218965b5cf96e6",
-     "cf7a05477f8d931c"
+     "e0c88de0f02d62ef"
     ]
    },
    {
-    "text": "米国サンフランシスコやスペイン・マドリードでの新店舗オープンなど、海外展開の強化や新たな成長戦略への注目が集まっています。",
+    "text": "柳井正会長兼社長が世界一達成への意欲を示し、マスファッション市場での世界的な主導権獲得やグローバルな成長戦略に注目が集まっている。",
+    "ids": [
+     "277a39ba34c72da5",
+     "4a9bb35b668224c2",
+     "2b56c2f720a61f90"
+    ]
+   },
+   {
+    "text": "サンフランシスコのマーケットストリートやスペイン・マドリードへの新店オープンなど、国内外で店舗展開を強化している。",
     "ids": [
      "9ed047bcfca68262",
      "a95634ec0e70977a",
@@ -241,25 +247,153 @@
     ]
    },
    {
-    "text": "10月16日発売の「UNIQLO and JW ANDERSON」をはじめ、新作コラボやカレッジスタイルのコレクションが発表されました。",
+    "text": "ユニクロとJW ANDERSONによる10月16日発売の2026年秋冬新作コレクションや、12月発売予定の「ミッフィー」UTの発表が話題となっている。",
     "ids": [
      "397cf6a43229e317",
      "24bc6a6eb3561d70",
-     "1eca4e3a6f3a098a"
+     "d25885f70fe6a214"
     ]
    },
    {
-    "text": "SNSでは「GU ちいかわ ルームウェア」が話題となり、Xで3日に5件投稿されました。",
+    "text": "SNSでは、GU タックワイドパンツがXで10件投稿されるなど話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-11T11:40:29.869929+09:00",
-  "generated_at": "2026-10-14T11:40:31.459782+09:00",
+  "from": "2026-10-11T19:56:52.176034+09:00",
+  "generated_at": "2026-10-14T19:56:54.260929+09:00",
   "article_count": 24,
-  "sig": "5d5569a25c38"
+  "sig": "ee692999e758"
  },
  "items": [
+  {
+   "id": "ee3649a4f1d88408",
+   "url": "https://prtimes.jp/main/html/rd/p/000000162.000068741.html",
+   "title_original": "穴やシミのあるユニクロの服を“刺繍リペア”",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/162/68741-162-d5afc7c0fe01778619c84d382c3c837c-763x596.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T11:00:02+00:00",
+   "title_ja": "穴やシミのあるユニクロ製品を刺繍でリペアする取り組みが話題",
+   "summary_ja": "傷や穴、シミができたユニクロの衣類を刺繍によって補修・修復する取り組みが提案されている。お気に入りの服を捨てずに長く着続けるためのサステナブルな施策である。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b3203e66097de1ca",
+   "url": "https://news.shoninsha.co.jp/csr/321087",
+   "title_original": "ユニクロnews｜国際リペアデーを記念し｢リペアウィーク｣開始",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T09:43:40+00:00",
+   "title_ja": "ユニクロが国際リペアデーに合わせ「リペアウィーク」を開始",
+   "summary_ja": "ユニクロは国際リペアデーを記念し、「リペアウィーク」を開始した。服の修理やリメイクといった取り組みを通じて、衣類を長く大切に使うサステナビリティの活動を推進する。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "179d19854fdb0f39",
+   "url": "https://news.yahoo.co.jp/articles/d1df08e39a417e75f5b989d252dc6fd3e6b1f4d6",
+   "title_original": "【ユニクロ×JW アンダーソン】今週発売の新作を一足先に試着！ ひとワザありなシャツワンピに注目（＠BAILA）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00010001-baila-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T08:50:02+00:00",
+   "title_ja": "ユニクロとJWアンダーソンのコラボ新作が登場　注目のシャツワンピ等を試着紹介",
+   "summary_ja": "ユニクロとJW ANDERSONによるコラボレーションの新作が今週発売されます。注目を集めるデザイン性の高いシャツワンピースなど、発売に先駆けて試着したおすすめアイテムの魅力が紹介されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5b8271111d34ed02",
+   "url": "https://www.jiji.com/jc/article?k=000000163.000068741&g=prt",
+   "title_original": "ユニクロ、「PEACE FOR ALL」の4年間の歩みと世界に広がる支援の輪を紹介",
+   "source": "時事ドットコム",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/163/68741-163-f8e29276ec73a5f0f677bb80e0bb4b56-900x600.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T07:46:00+00:00",
+   "title_ja": "ユニクロがPEACE FOR ALLの4年間の歩みと世界への支援成果を発表",
+   "summary_ja": "ユニクロは、チャリティTシャツプロジェクト「PEACE FOR ALL」の4年間にわたる取り組みの歩みと、世界へ広がる支援の成果について紹介した。平和を願う活動が世界中で支援の輪を広げている。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cb6cff93b34cfec0",
+   "url": "https://www.oricon.co.jp/news/2486326/full",
+   "title_original": "ユニクロ、穴やシミのある服の“刺繍リペア”キャンペーン10・17から実施",
+   "source": "オリコンニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T04:36:00+00:00",
+   "title_ja": "ユニクロ、穴やシミのある服を直す「刺繍リペア」キャンペーンを10月17日開始",
+   "summary_ja": "ユニクロは、穴が空いた服やシミのついた服を対象とした「刺繍リペア」キャンペーンを10月17日から実施します。お気に入りの服を修繕して長く着るための取り組みです。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f991809c44dcdaa5",
+   "url": "https://ampmedia.jp/2026/10/14/uniqlo-1017",
+   "title_original": "ユニクロ、服の修繕が一部無料・500円引きになる「リペアウィーク」を10月17日～11月8日開催 全国20店舗にて",
+   "source": "AMP[アンプ]",
+   "image": "https://ampmedia.jp/wp-content/uploads/2026/10/68741-162-d5afc7c0fe01778619c84d382c3c837c-763x596-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T04:07:10+00:00",
+   "title_ja": "ユニクロ、服の修理が割引・無料になる「リペアウィーク」を10月17日より開催",
+   "summary_ja": "ユニクロは10月17日から11月8日まで、全国の対象20店舗で「リペアウィーク」を開催します。期間中は服の修繕サービスが一部無料または500円引きで利用可能になります。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "277a39ba34c72da5",
+   "url": "https://gekiryu-online.jp/2026/10/257755",
+   "title_original": "ファストリ柳井会長兼社長、世界一への意欲を改めて示す",
+   "source": "激流オンライン",
+   "image": "https://gekiryu-online.jp/wp-content/uploads/2026/10/eaabb34a02d9bcda69804bf38d399dc8.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T02:39:17+00:00",
+   "title_ja": "ファーストリテイリングの柳井会長兼社長が世界一達成への意欲を強調",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が、アパレル世界一の座を目指す意欲を改めて示した。グローバルでのさらなる成長に向けた経営姿勢を表明している。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "e6ac73278ba45b60",
+   "url": "https://news.laodong.vn/ldt/thi-truong/fast-retailing-va-nhung-no-luc-thuc-day-phat-trien-ben-vung-1782658.ldo",
+   "title_original": "Fast Retailing and efforts to promote sustainable development",
+   "source": "Laodong.vn",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T02:00:00+00:00",
+   "title_ja": "ファーストリテイリングによる持続可能な社会の実現に向けた取り組み",
+   "summary_ja": "ファーストリテイリングが持続可能な開発を促進するための施策を展開している。環境配慮や社会貢献活動をはじめとする取り組みを通じてサステナビリティの向上を目指す。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "39999c1aaf4282c5",
    "url": "https://www.seventietwo.com/ja/business/SVTglobal_20261013",
@@ -290,7 +424,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "80d6ae5624adb922",
@@ -562,7 +696,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a4108878747fefea",
@@ -595,6 +729,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "5bed3a2cd552655d",
+   "url": "https://thesolesupplier.co.uk/news/uniqlo-ut-pokemon-red-era-collection",
+   "title_original": "Uniqlo has Entered its Pokémon Red Era",
+   "source": "The Sole Supplier",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-13T01:59:30+00:00",
+   "title_ja": "ユニクロが「ポケットモンスター」の新コレクションを展開",
+   "summary_ja": "ユニクロが人気コンテンツ「ポケットモンスター」とコラボレーションした新たなコレクションを展開している。『ポケットモンスター 赤』の世界観を表現したデザインが登場し、ファンの間で話題となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "d39110e6411fb684",
@@ -1330,7 +1480,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1c945ab0ba53cd8c",
@@ -6515,150 +6665,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "f188414414452dbc",
-   "url": "https://www.sanspo.com/article/20260930-5SD3XVERGVOYBOXJQQRODS254M",
-   "title_original": "日本車いすバスケ連盟がユニクロと契約し代表ユニホーム提供へ",
-   "source": "サンスポ",
-   "image": "https://www.sanspo.com/resizer/v2/OB66PTUMPNLIJL4CSBMDBAKCFU.jpg?auth=065fb93707e6062210e15109811115621b80641a73107a983a3b302ff0d358d1&quality=50&focal=1269%2C633&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T08:49:00+00:00",
-   "title_ja": "ユニクロが日本車いすバスケ連盟と契約 代表ウエア提供へ",
-   "summary_ja": "日本車いすバスケットボール連盟がユニクロと契約を結び、代表チームへのユニホーム提供が決定した。連盟とユニクロによる今回の契約を通じ、代表ウエアの供給が行われる。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9f9be66da286c438",
-   "url": "https://www.nara-np.co.jp/news/20260930170257.html",
-   "title_original": "ユニクロとジーユーが奈良県生駒市の学研北生駒に新店舗 10月23日同時オープン",
-   "source": "奈良新聞",
-   "image": "https://www.nara-np.co.jp/dbimage/article/f3/f3c59c0ab07a77d8fad0a918878ee244.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T08:48:56+00:00",
-   "title_ja": "ユニクロとGUが奈良県生駒市に新店舗 10月23日同時開店",
-   "summary_ja": "ユニクロとジーユーが、奈良県生駒市の学研北生駒に新店舗を出店することが決定した。オープン日は10月23日の予定で、ユニクロとジーユーの両店舗が同時に開店を迎える。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e620e258caa02df0",
-   "url": "https://news.yahoo.co.jp/articles/6c9ec91287a154d41fdcc0b5b999510b0bc8037b/images/002",
-   "title_original": "ユニクロが日本車いすバスケットボール連盟とタッグ 新ユニフォームをデザイン (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgBw_udruPb71Cr9ZkO3J5D8FBkn_k6XVdrBR4EUmcskC0pc9QSeI8Hkv7G8FnECkFOubt3J53YJf5n-rZ8h0R80Mi5I99TZsD_5lNb4iUWxvnMVQm6Oexqr9t4q36vwlYA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T08:48:32+00:00",
-   "title_ja": "ユニクロ、日本車いすバスケットボール連盟と提携",
-   "summary_ja": "ユニクロが日本車いすバスケットボール連盟とのパートナーシップ締結を発表しました。新ユニフォームのデザインを手がけています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "0a602a9afffd3ed4",
-   "url": "https://www.theindustry.fashion/in-review-september-2026-headline-highlights-from-uniqlo-primark-jd-sports-and-more",
-   "title_original": "In Review, September 2026: Headline highlights from Uniqlo, Primark, JD Sports and more...",
-   "source": "TheIndustry.fashion",
-   "image": "https://www.theindustry.fashion/wp-content/uploads/2026/09/Title-2026-09-29T171947.159-1024x576.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T08:15:26+00:00",
-   "title_ja": "ユニクロやプライマークなどファッション業界の2026年9月動向",
-   "summary_ja": "ユニクロやプライマーク、JDスポーツをはじめとする主要ファッション業界各社の、2026年9月における主要なニュースや注目話題を振り返るレビュー記事です。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "dc21784e631d0a71",
-   "url": "https://basketballking.jp/news/japan/20260930/635359.html",
-   "title_original": "日本車いすバスケットボール連盟とユニクロがパートナーシップ契約…国枝慎吾氏が懸け橋となり実現",
-   "source": "basketballking.jp",
-   "image": "https://basketballking.jp/wp-content/uploads/2026/09/main-5-scaled.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T08:13:12+00:00",
-   "title_ja": "ユニクロが日本車いすバスケ連盟と協定　国枝慎吾氏が橋渡し",
-   "summary_ja": "ユニクロは日本車いすバスケットボール連盟との間でパートナーシップ契約を締結しました。元プロ車いすテニス選手の国枝慎吾氏がきっかけとなり実現したもので、パラスポーツの普及や支援に向けた連携が期待されます。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a2aa92d4e6ed4d78",
-   "url": "https://www.cambridgeindependent.co.uk/news/in-pictures-musicians-and-customers-help-drum-up-support-fo-9484878",
-   "title_original": "In pictures: Musicians and customers help drum up support for Cambridge’s new UNIQLO store",
-   "source": "Cambridge Independent",
-   "image": "https://www.cambridgeindependent.co.uk/_media/img/W21IUMY6OPMY11CGWRQE.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T08:00:00+00:00",
-   "title_ja": "英ケンブリッジのユニクロ新店舗開店　音楽家らがオープン祝福",
-   "summary_ja": "イギリスのケンブリッジにオープンしたユニクロの新店舗で、開店を祝うイベントが開催されました。ミュージシャンや来店客が一体となり、写真とともに店舗の新たなスタートを賑やかに盛り上げています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "58601730ea80d5f1",
-   "url": "http://www.excite.co.jp/news/article/maonline_sh_s100z3h9",
-   "title_original": "ティーティーワイ・マネジメント・ビーヴィ(TTY Management B.V.)が株式会社ファーストリテイリング＜9983＞株式の変更報告書を提出（保有減少）",
-   "source": "excite.co.jp",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T07:44:14+00:00",
-   "title_ja": "TTYマネジメントがファーストリテイリング株の変更報告書を提出、保有率は減少",
-   "summary_ja": "ティーティーワイ・マネジメント・ビーヴィがファーストリテイリングの株式に関する変更報告書を提出しました。同社によるファーストリテイリング株の保有割合が減少したことが判明しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "3e1db9a431db7f86",
-   "url": "https://www.moomoo.com/news/post/1000433366/shareholding-change-report-9983-fast-retailing-24-39-23-39",
-   "title_original": "Shareholding Change Report Fast Retailing (24.39% → 23.39%) TTY Management, etc.",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-09-30T07:06:00+00:00",
-   "title_ja": "ファーストリテイリングの株式保有割合に変更",
-   "summary_ja": "ファーストリテイリングに関する株式保有割合の変動レポート。TTYマネジメント等の保有比率が24.39%から23.39%へ変化した。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "3d53e856b4f70c28",
-   "url": "https://news.allabout.co.jp/articles/o/130105/?page=2",
-   "title_original": "「待ってたよおおおお」ユニクロの“伝説のブランケット”が再販でファン歓喜。先輩ママたちも絶賛の触り心地(2/2)",
-   "source": "All About ニュース",
-   "image": "https://ix-news.aacdn.jp/aa_news/article/2026/09/30/6abc8b39a1d81.jpg?im=AspectCrop=(16,9);Resize=(1600,900)",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-09-30T06:45:00+00:00",
-   "title_ja": "ユニクロの人気ブランケットが再販開始、肌触りの良さで話題に",
-   "summary_ja": "ユニクロで好評を博していたブランケットの再販売が開始され、触り心地の良さや使い勝手の高さから多くの支持を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
