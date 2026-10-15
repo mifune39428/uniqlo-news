@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T19:30:54.902240+09:00",
+ "updated_at": "2026-10-16T00:55:00.499132+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -37,7 +37,7 @@
   "Business News This Week",
   "BusinessToday Malaysia",
   "Campaign India",
-  "Chosunbiz",
+  "Confidentials",
   "Demócrata",
   "Distribuzione Moderna",
   "Drapers",
@@ -94,6 +94,7 @@
   "NBC Bay Area",
   "NHKニュース",
   "Nation Thailand",
+  "New York Magazine",
   "Newswav",
   "Nikkei Asia",
   "Oui Speak Fashion (OSF)",
@@ -101,7 +102,6 @@
   "PR TIMES",
   "Passionate In Marketing",
   "Pluang",
-  "Press Start Australia",
   "Qatar Tribune",
   "Quartz",
   "Ragtrader.com.au",
@@ -138,6 +138,7 @@
   "The Manila Times",
   "The San Francisco Standard",
   "The Sole Supplier",
+  "The Voice of San Francisco",
   "TheIndustry.fashion",
   "Traders Union",
   "TradingView",
@@ -225,51 +226,115 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 251,
+ "detail_count": 252,
  "digest": {
-  "headline": "ファストリ売上収益世界2位に浮上、JWアンダーソン新作も発売へ",
+  "headline": "ファストリ売上高3.9兆円で世界2位に、JWA新作も発売",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上した。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上しました。",
     "ids": [
      "da03fd162c564367"
     ]
    },
    {
-    "text": "ファーストリテイリングは増配や業績予想の上方修正を発表。国内外で堅調なEC売上や過去最高益を記録する一方、株価は下落となった。",
+    "text": "ファーストリテイリングが増配および業績予想の上方修正を発表したほか、国内EC売上高が6.3%増と堅調な伸びを記録しています。",
     "ids": [
      "db111b585ebf8ae7",
-     "b6f921450700e3ad",
      "03740cd2db15e916"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが10月16日に発売されるほか、ミッフィーの新作UTも12月に発売予定。",
+    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが10月16日に発売され、新作の試着ルポなどが注目を集めています。",
     "ids": [
-     "a69e7681a0037caf",
-     "d25885f70fe6a214"
+     "ebcaf7d4b856e577",
+     "3dbc78b48b6ea183",
+     "a69e7681a0037caf"
     ]
    },
    {
-    "text": "サンフランシスコへの新店オープンやイギリスでの新店舗準備など、国内外での出店やキャンペーンも精力的に展開されている。",
+    "text": "イギリスのマンチェスターやサンフランシスコなどで新店舗のオープン準備や出店が進められ、海外展開が強化されています。",
     "ids": [
      "6e61337d5e3cb3bc",
-     "6e348d062a8ce479",
+     "0ba59e00f237fed0",
      "9ed047bcfca68262"
     ]
    },
    {
-    "text": "SNSでは「GU ジョジョコラボ」が急上昇し、Xで3日に45件投稿されている。",
+    "text": "SNSでは「GU ジョジョコラボ」が急上昇し、Xで3日に69件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-12T19:40:58.741902+09:00",
-  "generated_at": "2026-10-15T19:41:00.641074+09:00",
+  "from": "2026-10-13T01:00:41.037659+09:00",
+  "generated_at": "2026-10-16T01:00:47.357056+09:00",
   "article_count": 24,
-  "sig": "29990bcb07a0"
+  "sig": "7c80ad45c06c"
  },
  "items": [
+  {
+   "id": "cdf28aae917ca542",
+   "url": "https://thevoicesf.org/what-to-know-about-the-muni-themed-clothes-and-totes-at-uniqlos-new-downtown-store",
+   "title_original": "What to know about the Muni-themed clothes and totes at Uniqlo’s new downtown store",
+   "source": "The Voice of San Francisco",
+   "image": "https://thevoicesf.org/wp-content/uploads/2026/10/Muni-Display-sign.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T15:24:23+00:00",
+   "title_ja": "ユニクロの新 downtown 店でMuniモチーフの衣類やトートを発売",
+   "summary_ja": "ユニクロの新店舗において、地域交通機関Muniをテーマにした衣服やトートバッグなどの限定アイテムが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a11bd53423555848",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102118509",
+   "title_original": "京成パンダや車両デザインをラインナップ！京成電鉄×ユニクロ ミーナ津田沼店、『UTme!』コラボ商品の販売が明日からスタート！",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483458257010704682/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T13:36:57+00:00",
+   "title_ja": "京成電鉄とユニクロ ミーナ津田沼店の「UTme!」コラボが開始",
+   "summary_ja": "京成パンダや車両デザインを取り入れた「UTme!」のコラボレーション商品が、ユニクロ ミーナ津田沼店で明日から発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "ebcaf7d4b856e577",
+   "url": "https://nymag.com/strategist/article/uniqlo-jw-anderson-fall-winter-2026-try-on-review.html",
+   "title_original": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
+   "source": "New York Magazine",
+   "image": "https://pyxis.nymag.com/v1/imgs/dbc/9bf/c046f1dd3c9077fffc14a8648a4093268e-uniqlo-jw-anderson-lede.2x.rsocial.w600.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T12:16:36.121000+00:00",
+   "title_ja": "ユニクロ×JWアンダーソンの新作を試着",
+   "summary_ja": "アカデミア風のテーマを取り入れたユニクロとJWアンダーソンの新しいコラボレーションコレクションの試着レポートです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "e78f67a96e85fd9d",
+   "url": "https://www.vietnam.vn/ja/uniqlo-khai-truong-cua-hang-dau-tien-tai-thanh-hoa-mang-dau-an-xu-thanh-len-ao",
+   "title_original": "ユニクロはタインホア省に初の店舗をオープンし、タインホア省のエッセンスを服に取り入れています。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/15/1792065963171_17920626122141856510428169773118159662154153152458bfd3a6e37c6db1b1ce72188d4537cb0a_qfko.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T11:28:00+00:00",
+   "title_ja": "ユニクロがタインホア省に初出店",
+   "summary_ja": "ベトナムのタインホア省にユニクロが初店舗をオープンしました。地域の文化やエッセンスを服作りに取り入れています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "02ff5983a8eaca65",
    "url": "https://evoke.ie/2026/10/15/style/aw-2026-uniqlo-x-jw-anderson-socks",
@@ -284,6 +349,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3dbc78b48b6ea183",
+   "url": "https://news.yahoo.co.jp/articles/0dcd0b1231ac5c4b193ed10b15e9f19db754b6f2",
+   "title_original": "【大人のユニクロ】「UNIQLO and JW ANDERSON」新作試着ルポ。太くも細くもない「ストレートワークパンツ」がちょうどいい【10月16日発売】（UOMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00010003-webuomo-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T10:02:45+00:00",
+   "title_ja": "ユニクロとJWアンダーソンの新作ストレートワークパンツ",
+   "summary_ja": "ユニクロとJW ANDERSONのコラボレーションによる新作、絶妙な太さのストレートワークパンツの試着ルポを10月16日の発売に合わせてお届けします。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -365,6 +446,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "9366c63246f5533e",
+   "url": "https://news.yahoo.co.jp/articles/a30a8c206ef9d02983ea5bfc06120d54537ed145/images/008",
+   "title_original": "【ユニクロ】ヘビロテ間違いなしの限定コラボ「キレイめ秋冬パンツ」ベーシックで季節感も！｜VERY (magacol)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaS3oGyF0cXhpHeJPlDcYVekpqjOZ069THu8ux5liBzQZ_7YYoDOAoaLH3DdY9WvFfd5ghIPA90vdhJ5kejAuoQ8iEG1zR5OyG7joZx4Fbu-UZzgxCugbCKCdWbmEWexfw==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T06:00:34+00:00",
+   "title_ja": "ユニクロのキレイめ秋冬パンツ新作が発売",
+   "summary_ja": "ヘビロテ間違いなしと注目を集める、ユニクロの限定コラボによるベーシックで季節感のあるキレイめ秋冬パンツを紹介します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "20683fb03c629b04",
@@ -476,7 +573,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "03740cd2db15e916",
@@ -893,6 +990,22 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "0ba59e00f237fed0",
+   "url": "https://confidentials.com/manchester/manchester-gets-second-uniqlo-store?id=6acf69ec35d8a",
+   "title_original": "Manchester gets second UNIQLO store",
+   "source": "Confidentials",
+   "image": "https://confidentials.com/uploads/images/2026-10-14-Uniqlo-thumbnail.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T00:00:00+00:00",
+   "title_ja": "マンチェスターにユニクロの国内2号店がオープンへ",
+   "summary_ja": "イギリスのマンチェスター市内に、ユニクロの店舗として同市内2店舗目となる新しいショップがオープンすることが伝えられている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "39999c1aaf4282c5",
@@ -6557,118 +6670,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "2bcb40642638d7bb",
-   "url": "https://shikiho.toyokeizai.net/news/0/960025",
-   "title_original": "ファーストリテイリ（9983）9月度 国内ユニクロ出退店情報を更新いたしました",
-   "source": "四季報オンライン",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T08:40:00+00:00",
-   "title_ja": "ファーストリテイリングが2026年9月度の国内ユニクロ出退店情報を更新",
-   "summary_ja": "ファーストリテイリングは、2026年9月度における国内ユニクロ店舗の出退店情報を発表しました。同社は定期的な店舗網の開拓や見直しを進めており、最新の店舗数の動向が開示されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8321390005e4c0e5",
-   "url": "https://press-start.com.au/news/nintendo/2026/10/02/uniqlos-30th-anniversary-pokemon-range-is-coming-to-australia-next-week",
-   "title_original": "Uniqlo’s 30th Anniversary Pokemon Range Is Coming To Australia Next Week",
-   "source": "Press Start Australia",
-   "image": "https://press-start.com.au/wp-content/uploads/2026/10/Pokemon-Uniqlooo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T08:36:34+00:00",
-   "title_ja": "ユニクロの「ポケモン」30周年記念コレクションが来週オーストラリアで発売へ",
-   "summary_ja": "ユニクロの「ポケモン」30周年記念コレクションが、来週オーストラリアで発売されます。人気キャラクターとのコラボレーションアイテムが現地でも展開される予定で、ファンの間で期待が高まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0547170835bc0d0a",
-   "url": "https://www.vietnam.vn/ja/pho-chu-tich-ubnd-tinh-cao-van-cuong-lam-viec-voi-cong-ty-tnhh-uniqlo-viet-nam",
-   "title_original": "省人民委員会の副委員長であるカオ・ヴァン・クオン氏は、ユニクロベトナム株式会社と協力しています。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790931750307_pho-chu-tich-ub-w720t0-di2639d197d5153944t11200l1-165d5151058t1127.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T08:14:00.026000+00:00",
-   "title_ja": "ベトナムの省人民委員会副委員長がユニクロベトナムと協力・意見交換を実施",
-   "summary_ja": "ベトナムの省人民委員会で副委員長を務めるカオ・ヴァン・クオン氏が、ユニクロベトナム株式会社との協力に関する協議を行いました。同地域における事業展開や連携に向けた取り組みが進められています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "56d491ee9ee7d3b6",
-   "url": "https://biz.chosun.com/jp/jp-retail/2026/10/02/4M4LZUV7B5GNLANBCFGQQODHBQ/?outputType=amp",
-   "title_original": "ユニクロ現代百貨店木洞店を倍増再開 ロッテプレミアムアウトレット烏耳島店出店 - CHOSUNBIZ",
-   "source": "Chosunbiz",
-   "image": "https://biz.chosun.com/resizer/v2/GFTDSOLGMI3DGMJRG5QWKNZYGE.jpg?auth=6ad79a78c7c19feb32c7f57342efb8d3f2621ae1e1e363c2e3629d65ea255817&width=1200&height=630&smart=true",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T07:58:52.925000+00:00",
-   "title_ja": "ユニクロが韓国で現代百貨店木洞店を増床再開　アウトレット新店もオープン",
-   "summary_ja": "ユニクロが韓国での店舗網を再編・拡大している。現代百貨店木洞店を従来の2倍に拡張して再オープンしたほか、ロッテプレミアムアウトレットの店舗を新たにオープンさせた。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b64a1aafeb434006",
-   "url": "https://biz.chosun.com/en/en-retail/2026/10/02/TAEWHIECYRDHXN24BJMEMZIW2U/?outputType=amp",
-   "title_original": "Uniqlo doubles Mokdong store, debuts Uiwang outlet in South Korea - CHOSUNBIZ",
-   "source": "Chosunbiz",
-   "image": "https://biz.chosun.com/resizer/v2/GFTDSOLGMI3DGMJRG5QWKNZYGE.jpg?auth=6ad79a78c7c19feb32c7f57342efb8d3f2621ae1e1e363c2e3629d65ea255817&width=1200&height=630&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T07:58:43.974000+00:00",
-   "title_ja": "ユニクロが韓国で店舗拡大　木洞店を2倍に拡張し義王アウトレットへ新出店",
-   "summary_ja": "ユニクロが韓国での出店戦略を推進している。木洞（モクドン）にある店舗の面積を2倍に拡大してリニューアルオープンさせたほか、義王（ウィワン）のアウトレットに新店舗を開店した。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "af1808e5ba4d640b",
-   "url": "https://www.nikkei.com/article/DGXZQOUC025W70S6A001C2000000",
-   "title_original": "ユニクロ、9月国内売上高11%増 防寒着など秋冬物好調",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3674775002102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f7df91c9a16d334848cbfdafda6a88df",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T07:58:10+00:00",
-   "title_ja": "ユニクロの9月国内売上高は11％増　防寒着など秋冬物が好調に推移",
-   "summary_ja": "ファーストリテイリングが発表したユニクロの9月国内売上高は、前年同月比で11％増加した。気温の低下に伴い、防寒着を中心とした秋冬商品の売上が好調に推移したことが全体を押し上げた。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "782a330173383747",
-   "url": "https://www.sanyonews.jp/article/1922422",
-   "title_original": "ユニクロ、夏の大型企画「感謝祭」開催へ 80商品超が特価“いざ夏支度”【5・22～5・28の7日間】",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/b/e/9/a/be9a48f956ef82302389729d4bc421ba_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T07:00:00+00:00",
-   "title_ja": "ユニクロが大型企画「感謝祭」を5月22日から開催",
-   "summary_ja": "ユニクロは5月22日から28日までの7日間、夏の大型企画「感謝祭」の開催を予定しています。80商品以上が特別価格で販売され、夏の準備を応援する内容となっています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
