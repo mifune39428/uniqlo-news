@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:04:54.888381+09:00",
+ "updated_at": "2026-10-15T11:14:28.766893+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -42,7 +42,6 @@
   "EBC Financial Group",
   "EL PAÍS English",
   "Eastern Mirror",
-  "Excite エキサイト",
   "Fashion United",
   "FashionNetwork France",
   "FashionNetwork USA",
@@ -80,7 +79,7 @@
   "Manchester Evening News",
   "Marketing-Interactive",
   "Miami Herald",
-  "Miami New Times",
+  "Mindanao Times",
   "Modaes",
   "MonoMax web",
   "Moomoo",
@@ -91,6 +90,7 @@
   "Newswav",
   "Nikkei Asia",
   "Oui Speak Fashion (OSF)",
+  "PAUSE Online",
   "PR TIMES",
   "Pluang",
   "Press Start Australia",
@@ -122,7 +122,6 @@
   "TBS NEWS DIG",
   "THE FIRST TIMES",
   "TRILL",
-  "TRP | The Rakyat Post",
   "Tetsudo.com（鉄道コム）",
   "The Business Times",
   "The Business of Fashion",
@@ -159,8 +158,6 @@
   "kumanichi.com",
   "lasisa.net",
   "marketscreener.com",
-  "miamiherald.com",
-  "news.livedoor.com",
   "nss magazine",
   "ryutsuu.biz",
   "says.com",
@@ -181,7 +178,6 @@
   "ゴルフサプリ",
   "サンスポ",
   "ジモはる",
-  "スポーツブル",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "テレ東BIZ",
@@ -193,7 +189,6 @@
   "マネーフォワード",
   "モダンリビング デジタル",
   "モデルプレス",
-  "ヨムーノ",
   "ラブすぽ",
   "千葉テレビ放送株式会社",
   "四季報オンライン",
@@ -205,12 +200,14 @@
   "日本ネット経済新聞",
   "日本経済新聞",
   "日本食糧新聞・電子版",
+  "日流ウェブ",
   "日経クロストレンド",
   "日経ビジネス電子版",
   "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
   "朝鮮日報",
+  "東京・大阪 都心上空ヘリコプター遊覧飛行",
   "東京報道新聞",
   "流通スーパーニュース",
   "流通ニュース",
@@ -222,51 +219,91 @@
   "西日本新聞me"
  ],
  "count": 400,
- "detail_count": 239,
+ "detail_count": 241,
  "digest": {
-  "headline": "配当増額・業績上方修正と海外新店、コラボ続々登場",
+  "headline": "世界第2位へ躍進、利益率最高、海外出店続く",
   "points": [
    {
-    "text": "ファーストリテイリングが配当増額と業績予想上方修正を発表、投資家期待高まる。",
+    "text": "ファーストリテイリングは2026年8月期売上高約3.9兆円で世界第2位に浮上した。",
     "ids": [
-     "db111b585ebf8ae7",
+     "da03fd162c564367",
+     "9ccd087dfc31dee7"
+    ]
+   },
+   {
+    "text": "ユニクロはH&Mを抜き過去最高利益率を達成し、配当増額で株価上昇が期待される。",
+    "ids": [
+     "5e7af74e49a5d0a0",
      "d87dd2c0daff028c"
     ]
    },
    {
-    "text": "過去最高益で利益率がH&M上回り、株価はラグジュアリー株を大きく上回る。",
-    "ids": [
-     "8f218965b5cf96e6",
-     "5e7af74e49a5d0a0",
-     "39999c1aaf4282c5"
-    ]
-   },
-   {
-    "text": "英国トラフォード・センターとサンフランシスコに新大型店を準備・オープン、海外展開加速。",
+    "text": "イギリス・トラフォード・センターで大型店準備中、サンフランシスコにも新店舗がオープンした。",
     "ids": [
      "6e61337d5e3cb3bc",
      "9ed047bcfca68262"
     ]
    },
    {
-    "text": "JW ANDERSONとの2026年秋冬コレクションが発表、ヴィンテージ感と英国エッセンスが注目。",
-    "ids": [
-     "20cd5e6de93fcc7b",
-     "24bc6a6eb3561d70"
-    ]
-   },
-   {
-    "text": "Xで8件投稿の「ユニクロ ミッフィー UT」が急上昇中。",
+    "text": "ユニクロ ミッフィー UTがXで3日に8件投稿、反応数7件で急上昇中。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-12T06:12:25.755898+09:00",
-  "generated_at": "2026-10-15T06:12:37.229518+09:00",
+  "from": "2026-10-12T11:20:31.650671+09:00",
+  "generated_at": "2026-10-15T11:20:38.753159+09:00",
   "article_count": 24,
-  "sig": "f3251a270136"
+  "sig": "4dcdbc390ee0"
  },
  "items": [
+  {
+   "id": "03740cd2db15e916",
+   "url": "https://www.bci.co.jp/netkeizai/article/20469",
+   "title_original": "ファーストリテイリング／ＥＣ売上６．３％増／国内ユニクロ全体の増収率を上回る（2026年10月15日号）",
+   "source": "日流ウェブ",
+   "image": "https://www.bci.co.jp/function/images/og_image.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T00:02:42+00:00",
+   "title_ja": "ファーストリテイリング、国内EC売上が6.3%増",
+   "summary_ja": "ファーストリテイリングのEC売上高が6.3%増となり、国内ユニクロ全体の増収率を上回る堅調な伸びを記録したことが報じられている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "f24f5ee6f30e1968",
+   "url": "https://senken.co.jp/posts/fastretailing-261015",
+   "title_original": "ユニクロが錦織選手のイベント ともに世界へ挑んだ15年",
+   "source": "繊研新聞",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/425949/facebook_B0009940.JPG",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T21:25:00+00:00",
+   "title_ja": "ユニクロが錦織選手との15年を振り返るイベントを開催",
+   "summary_ja": "ユニクロが、ともに世界へ挑戦し歩んできた錦織圭選手との15年間の軌跡を振り返るイベントを開催したことを伝えるニュースです。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "da03fd162c564367",
+   "url": "http://building-pc.cocolog-nifty.com/helicopter/2026/10/post-9af47f.html",
+   "title_original": "「ファーストリテイリング」の2026年8月期連結業績 売上収益3兆9634億円 「H＆M」を抜き世界のアパレル企業売上高ランキング２位に！",
+   "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
+   "image": "https://building-pc.cocolog-nifty.com/helicopter/images/tokyouniqlo231011.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T20:30:00+00:00",
+   "title_ja": "ファストリ2026年8月期売上高は約3.9兆円、世界2位に",
+   "summary_ja": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上した。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "db111b585ebf8ae7",
    "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/fast-retailing-tse9983-lifts-dividend-and-guidance-is-the-st",
@@ -313,7 +350,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "118cdf5b44a2472e",
@@ -538,6 +575,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "65e54eb3f17f5aef",
+   "url": "https://www.mindanaotimes.com.ph/maayong-pagbalik-uniqlo-reopens-in-general-santos-celebrating-the-communitys-strength-and-resilience",
+   "title_original": "Maayong Pagbalik: UNIQLO Reopens in General Santos, Celebrating the Community’s Strength and Resilience",
+   "source": "Mindanao Times",
+   "image": "http://www.mindanaotimes.com.ph/wp-content/uploads/2026/10/1.-UNIQLO-reopens-its-General-Santos-store-with-a-renewed-commitment-to-the-community-celebrating-the-strength-and-resilience-of-General-Santos-as-it-rebuilds-and-moves-forward.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-14T04:33:46+00:00",
+   "title_ja": "ユニクロがジェネラル・サントスの店舗を再オープン",
+   "summary_ja": "ユニクロがフィリピンのジェネラル・サントスにある店舗を再オープンし、地域のコミュニティの強さと回復力を祝福しました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "f991809c44dcdaa5",
@@ -1100,6 +1153,38 @@
    "has_detail": true
   },
   {
+   "id": "0f5823f5db3d1c9a",
+   "url": "https://hypebae.com/2026/10/uniqlo-jw-anderson-fw26-collection-collaboration-jonathan-anderson-release-date-where-to-buy",
+   "title_original": "UNIQLO and JW Anderson's FW26 Collection Is Made for the Artfully Dressed",
+   "source": "Hypebae",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F10%2F12%2FSingle-Image-181.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T09:54:08+00:00",
+   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬、芸術的な装いを提案",
+   "summary_ja": "ユニクロとJWアンダーソンによる2026年秋冬コレクションが発表されました。洗練されたアート感覚を取り入れたスタイリングを楽しめるアイテムが揃います。（135文字）",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e8c6bad99a7169c5",
+   "url": "https://pausemag.co.uk/2026/10/uniqlo-x-jw-anderson-is-keeping-things-cosy-for-fw26",
+   "title_original": "UNIQLO x JW Anderson Are Keeping Things Cosy for FW26",
+   "source": "PAUSE Online",
+   "image": "https://pausemag.co.uk/wp-content/uploads/2026/10/collage-8.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-12T09:52:12+00:00",
+   "title_ja": "ユニクロ×JWアンダーソン、2026年秋冬は温かみを追求",
+   "summary_ja": "ユニクロとJWアンダーソンによる2026年秋冬コレクションの情報が公開されました。寒冷な季節に向けて、心地よさと温かさを重視したアイテムが展開されます。（138文字）",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "5e7af74e49a5d0a0",
    "url": "https://www.marketscreener.com/quote/stock/FAST-RETAILING-CO-LTD-6491478/news/Uniqlo-Surpasses-H-M-and-Posts-the-Best-Margins-in-Its-History-54467861",
    "title_original": "Uniqlo Surpasses H&M and Posts the Best Margins in Its History",
@@ -1196,6 +1281,38 @@
    "has_detail": true
   },
   {
+   "id": "9ccd087dfc31dee7",
+   "url": "https://www.wwdjapan.com/articles/2522699",
+   "title_original": "「ユニクロ」のファストリ売上高3兆9633億円 H&Mを抜いて世界2位",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-12T07:00:00+00:00",
+   "title_ja": "ファストリ売上高3兆9633億円、H&M抜き世界2位へ",
+   "summary_ja": "ファーストリテイリングの売上高が3兆9633億円に達し、H&Mを抜いて世界第2位の規模となりました。国内外での堅調な事業拡大が全体の成長をけん引しています。（134文字）",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "fc42f9f80b09dce0",
+   "url": "https://www.wwdjapan.com/articles/2523847",
+   "title_original": "ユニクロ柳井会長「売上高10兆円の実現が視野に入ってきた」",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-12T07:00:00+00:00",
+   "title_ja": "ユニクロ柳井会長「売上高10兆円の実現が視野に」",
+   "summary_ja": "ファーストリテイリングの柳井会長が取材に応じ、今後の事業成長により売上高10兆円の達成が現実的な目標として視野に入ってきたとの見解を示しました。（133文字）",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
    "id": "ec7dfa5cf1edafc3",
    "url": "https://www.wwdjapan.com/articles/2523570",
    "title_original": "「ジーユー」×「エンジニアド ガーメンツ」第3弾が登場 ミリタリー＆ワークスタイルの全8型を発売",
@@ -1209,7 +1326,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7398475d5f9e2c80",
@@ -6535,134 +6652,6 @@
    "title_ja": "ユニクロ・ベトナム、省人民委員会カオ・ヴァン・クオン副委員長と協力関係を構築",
    "summary_ja": "ベトナムの省人民委員会で副委員長を務めるカオ・ヴァン・クオン氏が、ユニクロ・ベトナムと協力関係にあることが分かりました。自治体関係者との連携を示す動きとなっています。",
    "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "ce69e81ebc274804",
-   "url": "https://www.miaminewtimes.com/arts-culture/uniqlo-announces-opening-dates-for-two-miami-stores-40588930",
-   "title_original": "We finally know when Uniqlo’s two new Miami stores are opening",
-   "source": "Miami New Times",
-   "image": "https://www.miaminewtimes.com/wp-content/uploads/sites/4/2026/10/Uniqlo-store-AdobeStockColleenMichaels.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T17:00:00+00:00",
-   "title_ja": "ユニクロ、米マイアミに新オープンする2店舗の開業時期が判明",
-   "summary_ja": "米国マイアミに新しくオープン予定であるユニクロの2店舗について、具体的な開業時期が明らかになりました。現地市場でのさらなるブランド展開に向けて注目が集まっています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b128f3a97950cde0",
-   "url": "https://www.miamiherald.com/news/business/article317424957.html",
-   "title_original": "Uniqlo is opening 2 stores in the Miami area. Check the dates and local focus",
-   "source": "miamiherald.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T12:00:00+00:00",
-   "title_ja": "ユニクロ、マイアミエリアに新たに2店舗をオープンへ",
-   "summary_ja": "米マイアミ地域にユニクロが新たに2店舗をオープンすることが明らかになりました。開店日や地域に焦点を当てた展開の詳細が注目されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "57b885beee8be105",
-   "url": "https://news.livedoor.com/article/detail/32457198",
-   "title_original": "「アパレル初の1兆円」ユニクロが都心に「超巨大店舗」を増やすワケ",
-   "source": "news.livedoor.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T11:24:19+00:00",
-   "title_ja": "ユニクロ、1兆円突破で都心に超大型店舗を拡大",
-   "summary_ja": "ユニクロはアパレル業界初の年間売上1兆円を達成し、都心に超大型店舗を次々と出店する方針を発表した。大規模店で幅広い商品をワンストップで提供する狙いだ。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "a2783448c6dd044f",
-   "url": "https://news.shoninsha.co.jp/store/319871",
-   "title_original": "ユニクロnews｜｢ゆめタウン光の森店｣10/9日増床開業､八代店は仮設で営業",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T09:39:48+00:00",
-   "title_ja": "ユニクロがゆめタウン光の森店を10月9日に増床オープン、八代店は仮設営業",
-   "summary_ja": "ユニクロは熊本県内にある「ゆめタウン光の森店」を10月9日に増床オープンします。また、八代市においては仮設店舗を開設して営業を行うなど、地域における店舗体制の再編を進めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "3daae5dfbba5b6b5",
-   "url": "http://www.excite.co.jp/news/article/AMP_509600",
-   "title_original": "ユニクロ、熊本県最大の「ゆめタウン光の森店」を10月9日リニューアル 八代市には仮設店舗も開業",
-   "source": "Excite エキサイト",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T08:46:00+00:00",
-   "title_ja": "ユニクロ、熊本のゆめタウン光の森店を10月9日リニューアル、八代に仮設店も",
-   "summary_ja": "ユニクロは、熊本県内で最大規模を誇る「ゆめタウン光の森店」を10月9日にリニューアルオープンします。あわせて、八代市内には仮設店舗を開業して営業を維持する方針です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7a9396f6ca79e880",
-   "url": "https://sportsbull.jp/p/2429364",
-   "title_original": "車いすバスケ日本代表のユニホームをユニクロが提供…国枝慎吾氏「世界での躍動がすごく楽しみ、応援しています」",
-   "source": "スポーツブル",
-   "image": "https://img.sportsbull.jp/raw/2026100116410955dd0d.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T07:20:00+00:00",
-   "title_ja": "ユニクロ、車いすバスケ日本代表ユニホームを提供",
-   "summary_ja": "ユニクロが車いすバスケットボール日本代表のユニホームを提供することが発表されました。国枝慎吾氏も世界での躍動に期待を寄せています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "924b8caff210ee62",
-   "url": "https://yomuno.jp/posts/142938",
-   "title_original": "500円からでいいの!?【ユニクロ】「アノ店舗でしかできない！」「秋の衣替えで見つけた穴・シミのある服に…」",
-   "source": "ヨムーノ",
-   "image": "https://image.yomuno.jp/store/article/142938/header_image/large-9d8722d42abae5527250429270aa0cb4.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-01T07:16:14+00:00",
-   "title_ja": "ユニクロの特定店舗で提供されている衣類の補修・刺繍サービス",
-   "summary_ja": "ユニクロの一部店舗で提供されている、衣類の穴やシミを補修・リメイクできるサービスを紹介しています。500円からの手頃な価格で利用可能で、お気に入りの服を長く大切に着続けるための便利な取り組みとして注目を集めています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "48a95570c1eda635",
-   "url": "https://www.therakyatpost.com/living/2026/10/01/the-malaysian-artist-who-drew-protons-icons-onto-a-uniqlo-t-shirt",
-   "title_original": "The Malaysian Artist Who Drew Proton’s Icons Onto A Uniqlo T-Shirt",
-   "source": "TRP | The Rakyat Post",
-   "image": "https://www.therakyatpost.com/wp-content/uploads/2026/10/uniqlo-proton-collection.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-01T07:07:51+00:00",
-   "title_ja": "マレーシアの画家が国民車「プロトン」を描いたユニクロTシャツを制作",
-   "summary_ja": "マレーシアのアーティストが、同国の国民的自動車メーカーであるプロトンのアイコンをあしらったユニクロのTシャツを制作した。現地の文化やアイデンティティを表現したユニークなデザインが特徴となっている。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
