@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T00:55:00.499132+09:00",
+ "updated_at": "2026-10-16T05:40:02.069756+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -68,9 +68,9 @@
   "INsauga",
   "IndexBox",
   "Indian Retailer",
+  "Inside Halton",
   "J-CAST ニュース",
   "JBpress",
-  "JGA 日本ゴルフ協会",
   "Jakarta Globe",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
@@ -80,21 +80,21 @@
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
   "Liverpool Echo",
+  "London Evening Standard",
   "MANTANWEB",
   "Madrid Secreto",
   "Man of Many",
   "Manchester Evening News",
   "Marketing-Interactive",
-  "Miami Herald",
   "Mindanao Times",
   "Modaes",
   "MonoMax web",
   "Moomoo",
   "Morningstar",
   "NBC Bay Area",
+  "NEWS.am STYLE",
   "NHKニュース",
   "Nation Thailand",
-  "New York Magazine",
   "Newswav",
   "Nikkei Asia",
   "Oui Speak Fashion (OSF)",
@@ -151,6 +151,7 @@
   "VnExpress International",
   "Vogue Japan",
   "WWDJAPAN",
+  "Web eclat",
   "World Footwear",
   "Yahoo Finance",
   "Yahoo!ニュース",
@@ -166,7 +167,6 @@
   "lasisa.net",
   "marketscreener.com",
   "nss magazine",
-  "says.com",
   "senken.co.jp",
   "t.co",
   "tbs.co.jp",
@@ -226,51 +226,76 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 254,
  "digest": {
-  "headline": "ファストリ売上高3.9兆円で世界2位に、JWA新作も発売",
+  "headline": "ファーストリテイリング業績好調、JWアンダーソンコラボ発売",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上しました。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益が約3.9兆円となり世界2位に浮上し、配当と業績予想の上方修正も発表されました。",
     "ids": [
-     "da03fd162c564367"
+     "da03fd162c564367",
+     "db111b585ebf8ae7"
     ]
    },
    {
-    "text": "ファーストリテイリングが増配および業績予想の上方修正を発表したほか、国内EC売上高が6.3%増と堅調な伸びを記録しています。",
+    "text": "高級ブランドの高騰によりユニクロなど中価格帯を選ぶ動きが広がり、国内外での新店舗オープンや世界一達成への意欲も示されています。",
     "ids": [
-     "db111b585ebf8ae7",
-     "03740cd2db15e916"
+     "a6e2f68a741353b3",
+     "fef54843a7c16dc5",
+     "277a39ba34c72da5"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが10月16日に発売され、新作の試着ルポなどが注目を集めています。",
+    "text": "伝統と革新を再解釈した「ユニクロ×JW アンダーソン」の最新秋冬コレクションが10月16日に発売を迎え、注目を集めています。",
     "ids": [
-     "ebcaf7d4b856e577",
-     "3dbc78b48b6ea183",
-     "a69e7681a0037caf"
+     "bd5f7e18bc32138f",
+     "3dbc78b48b6ea183"
     ]
    },
    {
-    "text": "イギリスのマンチェスターやサンフランシスコなどで新店舗のオープン準備や出店が進められ、海外展開が強化されています。",
-    "ids": [
-     "6e61337d5e3cb3bc",
-     "0ba59e00f237fed0",
-     "9ed047bcfca68262"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ジョジョコラボ」が急上昇し、Xで3日に69件投稿されました。",
+    "text": "SNSではGU ジョジョコラボが急上昇し、Xで3日に73件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-13T01:00:41.037659+09:00",
-  "generated_at": "2026-10-16T01:00:47.357056+09:00",
+  "from": "2026-10-13T05:46:12.220550+09:00",
+  "generated_at": "2026-10-16T05:46:13.784063+09:00",
   "article_count": 24,
-  "sig": "7c80ad45c06c"
+  "sig": "907348c282a3"
  },
  "items": [
+  {
+   "id": "a6e2f68a741353b3",
+   "url": "https://style.news.am/eng/print/116666",
+   "title_original": "Gucci and Louis Vuitton Have Gone Too Far: Shoppers Are Flocking to Zara and Uniqlo",
+   "source": "NEWS.am STYLE",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T17:24:00+00:00",
+   "title_ja": "高級ブランドからユニクロやZARAへ、買い手が回帰",
+   "summary_ja": "高級ブランドの高騰により、買い物客の間でユニクロやZARAといった中価格帯のブランドを選ぶ動きが広がっている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fef54843a7c16dc5",
+   "url": "https://www.insidehalton.com/news/uniqlo-hillcrest-richmond-hill-waterloo/article_69e632b9-b2dd-5b81-a662-8fd5b0bc3622.html",
+   "title_original": "Uniqlo opens in Richmond Hill, Waterloo this month with free food and prizes",
+   "source": "Inside Halton",
+   "image": "https://bloximages.chicago2.vip.townnews.com/insidehalton.com/content/tncms/assets/v3/editorial/e/09/e092c221-e6d8-53e5-8c2d-f803e03a4f9a/6a29d152f3a56.image.jpg?crop=1759%2C923%2C2%2C68&resize=1200%2C630&order=crop%2Cresize",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T16:32:00+00:00",
+   "title_ja": "カナダのオンタリオ州でユニクロが新規店舗をオープンへ",
+   "summary_ja": "今月、カナダのリッチモンドヒルとウォータールーにユニクロの新店舗がオープンする。オープンを記念した特典や無料のフードが提供される予定。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "cdf28aae917ca542",
    "url": "https://thevoicesf.org/what-to-know-about-the-muni-themed-clothes-and-totes-at-uniqlos-new-downtown-store",
@@ -288,6 +313,22 @@
    "has_detail": true
   },
   {
+   "id": "e7b176491a47e686",
+   "url": "https://www.nikkei.com/prime/ft/article/DGXZQOCB02ASQ0S6A001C2000000",
+   "title_original": "高級ブランド離れ進む ユニクロなど中価格帯が復権（Lex）",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3721741014102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&expires=1886770799&fit=crop&fm=jpg&fp-x=0.54&fp-y=0.54&h=630&w=1200&s=9ef8610195e2dfe24ff95b070af6ee72",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T15:00:00+00:00",
+   "title_ja": "高級ブランド離れが進み、ユニクロなど中価格帯が復権",
+   "summary_ja": "高級志向のブランドから離れる消費者が増加しており、ユニクロをはじめとする手頃な中価格帯のブランドが再び存在感を高めている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "a11bd53423555848",
    "url": "https://www.chiba-tv.com/plus/detail/2026102118509",
    "title_original": "京成パンダや車両デザインをラインナップ！京成電鉄×ユニクロ ミーナ津田沼店、『UTme!』コラボ商品の販売が明日からスタート！",
@@ -301,23 +342,39 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
-   "id": "ebcaf7d4b856e577",
-   "url": "https://nymag.com/strategist/article/uniqlo-jw-anderson-fall-winter-2026-try-on-review.html",
-   "title_original": "I Tried Uniqlo x JW Anderson’s New Academia-Themed Collection",
-   "source": "New York Magazine",
-   "image": "https://pyxis.nymag.com/v1/imgs/dbc/9bf/c046f1dd3c9077fffc14a8648a4093268e-uniqlo-jw-anderson-lede.2x.rsocial.w600.jpg",
+   "id": "968feeba1f10dad0",
+   "url": "https://www.standard.co.uk/shopping/esbest/fashion/uniqlo-jw-anderson-aw26-b1300937.html",
+   "title_original": "Uniqlo x JW Anderson is making a case for winter whimsy – I got a preview",
+   "source": "London Evening Standard",
+   "image": "https://static.standard.co.uk/2026/10/15/8/46/Uniqlo-x-JW-Anderson.png?width=1200&auto=webp&quality=75&trim=26,0,26,0",
    "lang": "en",
    "region": "global",
-   "published": "2026-10-15T12:16:36.121000+00:00",
-   "title_ja": "ユニクロ×JWアンダーソンの新作を試着",
-   "summary_ja": "アカデミア風のテーマを取り入れたユニクロとJWアンダーソンの新しいコラボレーションコレクションの試着レポートです。",
+   "published": "2026-10-15T12:20:19+00:00",
+   "title_ja": "ユニクロとJWアンダーソンの新作コレクションを先行紹介",
+   "summary_ja": "ユニクロとJWアンダーソンによるコラボレーションの最新秋冬コレクションについて、ロンドン・イブニング・スタンダード紙がプレビュー記事を掲載し、その魅力を伝えている。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
+  },
+  {
+   "id": "bd5f7e18bc32138f",
+   "url": "https://eclat.hpplus.jp/fashion/topics/205998",
+   "title_original": "【ユニクロ × JW アンダーソン】10/16発売！再解釈された伝統と現代的な機能性が交差する最新コレクション",
+   "source": "Web eclat",
+   "image": "https://img-eclat.hpplus.jp/ogp/image/97/970c1074-afa1-4f8e-8ad7-c0df20e298db-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T12:00:00+00:00",
+   "title_ja": "「ユニクロ × JW アンダーソン」最新コレクションが発売",
+   "summary_ja": "伝統的なデザインを現代的な機能性で再解釈した「ユニクロ×JW アンダーソン」の最新秋冬コレクションが、10月16日に発売を迎えた。伝統と革新が交差する注目のラインナップとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "e78f67a96e85fd9d",
@@ -400,6 +457,22 @@
    "has_detail": true
   },
   {
+   "id": "5c05c402a6501196",
+   "url": "https://news.yahoo.co.jp/articles/6f0dc58cabd61cfb193948bad11c760aad4c3f68/images/001",
+   "title_original": "【ユニクロ×JW アンダーソン】明日発売の新作で買うべきは？大人の秋トレンドコーデを紹介 (＠BAILA)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnVQZhNpLqA_4h3Ivg_n3ZJMPeZl8jCccrfZReKCqOE9aOpJiBDsxcrOO_xO-gbU6cauVpk1-3RfxLOW-wN9Qc3kFkXThZnfnobq77D6We761",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T08:50:01+00:00",
+   "title_ja": "ユニクロ×JWアンダーソン新作が明日発売",
+   "summary_ja": "注目を集めるユニクロとJW アンダーソンのコラボレーションによる新作コレクションが翌日に発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "220cd81fd7698294",
    "url": "https://news.yahoo.co.jp/articles/06ec0915d84a9dbfea1094aef9cd9e05002db50e",
    "title_original": "「気に入って別の色も追加」「バッグにも収まって便利」の声も。ユニクロ〈秋冬ジャケット〉5990円に値下げ！軽くて暖かい高機能アウターに注目。収納袋付きで旅行にも便利（LIMO）",
@@ -461,7 +534,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "20683fb03c629b04",
@@ -590,6 +663,22 @@
    "brand": "グループ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "0d6241d9c4a58dc8",
+   "url": "https://baila.hpplus.jp/blogs/kamiya_erena/84101",
+   "title_original": "【2026秋冬ユニクロシー】コスパ最高！新作アウター＆ボトム編",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/2e/2e1f90cb-8433-4641-b7b6-700af048cdbe-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T00:00:00+00:00",
+   "title_ja": "2026秋冬「ユニクロ：シー」の新作アウターとボトムス",
+   "summary_ja": "「ユニクロ：シー」の2026年秋冬コレクションから、コストパフォーマンスに優れた注目の新作アウターとボトムスを紹介。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "a69e7681a0037caf",
@@ -938,6 +1027,22 @@
    "published": "2026-10-14T04:33:46+00:00",
    "title_ja": "ユニクロがジェネラル・サントスの店舗を再オープン",
    "summary_ja": "ユニクロがフィリピンのジェネラル・サントスにある店舗を再オープンし、地域のコミュニティの強さと回復力を祝福しました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cb6a67f0a2841e97",
+   "url": "https://news.yahoo.co.jp/articles/bac5dc8fd6038196f30fbcb5fd89ab7abd4adf62",
+   "title_original": "ユニクロで刺しゅうができるって知ってた？カフェや花、古着の販売も！意外なサービス&商品を紹介（ウォーカープラス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01444032-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T04:24:43+00:00",
+   "title_ja": "ユニクロの刺しゅうサービスやカフェなどの意外な試み",
+   "summary_ja": "ユニクロで利用できる刺しゅうサービスをはじめ、店舗内のカフェや花、古着の販売といった意外な取り組みを紹介しています。",
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
@@ -1646,6 +1751,22 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
+  },
+  {
+   "id": "31c67bda1c523c0b",
+   "url": "https://www.wwdjapan.com/articles/2523446",
+   "title_original": "「ユニクロ アンド ジェイ ダブリュー アンダーソン」の2026年秋冬コレクションを発売 アカデミック文化やアートに着想",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-12T07:00:00+00:00",
+   "title_ja": "ユニクロ、アカデミックやアート着想のJWアンダーソン新作発売",
+   "summary_ja": "ユニクロは、「ユニクロ アンド ジェイ ダブリュー アンダーソン」の2026年秋冬コレクションを発売しました。アカデミック文化やアートから着想を得たデザインが特徴です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "9ccd087dfc31dee7",
@@ -6542,134 +6663,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "91ba1b51c9f5c04c",
-   "url": "https://www.miamiherald.com/news/business/article317476179.html",
-   "title_original": "Uniqlo opening two South Florida stores (Video)",
-   "source": "Miami Herald",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T22:00:25+00:00",
-   "title_ja": "ユニクロが米フロリダ州南部に新たに2店舗をオープンへ",
-   "summary_ja": "ユニクロがアメリカ・フロリダ州南部に新たに2つの店舗を出店することが明らかになった。北米市場でのさらなる事業拡大に向け、地域顧客へのアプローチを強化する狙いがあるとみられる。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "615f596524cf6f11",
-   "url": "https://news.yahoo.co.jp/articles/146c05437fe8512e05df1f1f5a9e9c82c0424105/images/000",
-   "title_original": "「もう普通のスーツは要らない」 ユニクロのセール中“ジャケット”が大人気 「非常に着やすくて3枚買った」「カジュアルにもフォーマルにも使える」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTFdKRSLdOU7PErxYUYxUBccDnT6dF0s6eSzgT7MZQ_ET0w5gzk-fPabYfdXbnutTIDVXg4-khavrckH524s6MT2eUx7ARH00FEqKcE8GbTihFk8GiIn0Rl7pkrJq2PNRA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T12:55:00+00:00",
-   "title_ja": "ユニクロでセール中のジャケットが人気、フォーマルにも使えて着やすいと好評",
-   "summary_ja": "ユニクロでセール対象となっているジャケットが、着やすさやカジュアル・フォーマルの両方で使える汎用性の高さから人気を集めています。複数枚をまとめて購入する愛用者もおり、日常使いからビジネスシーンまで幅広く活躍するアイテムとして評価されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "c5629d48f8b59bed",
-   "url": "https://www.moomoo.com/ja/news/post/1000543453",
-   "title_original": "採れたて株価材料 ファストリ 9月度の国内ユニクロ既存店売上高10.8％増",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T12:08:00+00:00",
-   "title_ja": "ファーストリテイリング、9月度の国内ユニクロ既存店売上高が10.8％増",
-   "summary_ja": "ファーストリテイリングの9月度国内ユニクロ事業における既存店売上高が、前年同月比で10.8％増加したことが分かりました。主力の国内ユニクロ事業が好調な推移を示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "2fc70f00ab6ce603",
-   "url": "https://www.jga.or.jp/news/national_team_news/2026_1002_1900",
-   "title_original": "第10回ユニクロ日本ジュニアゴルフカップ2026/8地区対抗戦 大会情報",
-   "source": "JGA 日本ゴルフ協会",
-   "image": "https://www.jga.or.jp/data/wp-content/uploads/2025/11/プレゼンテーション3-1200x432.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T11:39:26+00:00",
-   "title_ja": "第10回ユニクロ日本ジュニアゴルフカップ地区対抗戦の大会情報が公開",
-   "summary_ja": "日本ゴルフ協会から「第10回ユニクロ日本ジュニアゴルフカップ2026/8地区対抗戦」の大会情報が公開されました。ユニクロがサポートするジュニア世代向けのゴルフ大会に関する情報となっています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "de46df81f663f328",
-   "url": "https://prtimes.jp/main/html/rd/p/000000161.000068741.html",
-   "title_original": "グローバル旗艦店「ユニクロ 京都」 11月6日（金）オープン",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/68741/161/68741-161-1f999231c191b780cf9975a1d61b1109-3107x2602.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T11:00:02+00:00",
-   "title_ja": "グローバル旗艦店「ユニクロ 京都」が11月6日にオープン決定",
-   "summary_ja": "グローバル旗艦店となる「ユニクロ 京都」が、11月6日の金曜日にオープンすることが発表された。京都の新たな情報発信拠点として、地元に密着した店舗展開が期待される。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e20d7e625e93ea85",
-   "url": "https://says.com/my/lifestyle/meet-the-malaysian-artist-behind-protons-collab-with-uniqlo",
-   "title_original": "Meet The Malaysian Artist Behind Proton’s Collab With UNIQLO",
-   "source": "says.com",
-   "image": "https://media.says.com/2026/10/Tammys-cover-image.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-02T10:54:17+00:00",
-   "title_ja": "ユニクロと自動車プロトンのコラボを手掛けたマレーシア人作家を紹介",
-   "summary_ja": "ユニクロとマレーシアの自動車メーカー「プロトン」のコラボレーションを担当した現地アーティストが紹介されています。両ブランドのコラボデザインの背景にある芸術的な取り組みが描かれています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "00c90cd3fa59f873",
-   "url": "https://www.wwdjapan.com/articles/2515393",
-   "title_original": "秋らしい気温で服が売れる 9月販売はユニクロ11％増、無印12％、UA10％増",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T09:30:00+00:00",
-   "title_ja": "気温低下で秋物需要増、ユニクロの9月売上高は11％増",
-   "summary_ja": "気温の低下に伴い秋物の販売が好調となり、9月の売上高はユニクロが11％増を記録しました。同月は他社も好調で、無印良品が12％増、ユナイテッドアローズが10％増となるなど、アパレル各社で売上を伸ばしています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ce1f5a6403b469a5",
-   "url": "https://news.yahoo.co.jp/articles/2213341e86f8a52943a50a14b6c273a7fbff61c2",
-   "title_original": "秋らしい気温で服が売れる 9月販売はユニクロ11％増、無印12％、UA10％増（WWDJAPAN.com）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-02515393-wwdjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T09:30:00+00:00",
-   "title_ja": "9月の国内服飾販売は好調、ユニクロの売上高が11％増加",
-   "summary_ja": "秋らしい気温へ変化したことで衣料品の需要が高まり、9月の売上が好調となった。主要各社の中でユニクロの売上高は前年同月比11％増を記録し、無印良品やユナイテッドアローズも伸長した。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }

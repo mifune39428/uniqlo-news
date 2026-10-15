@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T01:00:41.036226+09:00",
+ "updated_at": "2026-10-16T05:46:12.218878+09:00",
  "criteria": {
   "title": "BuZZの判断基準",
   "points": [
@@ -46,20 +46,20 @@
     0,
     0,
     67,
-    2
+    6
    ],
    "top_reactions": 489,
    "capped": true,
-   "recent_posts": 69,
+   "recent_posts": 73,
    "recent_reactions": 4753,
-   "growth": 115.0,
-   "rising_score": 30665,
+   "growth": 121.67,
+   "rising_score": 31065,
    "is_rising": true,
    "covered_days": 14,
    "active_days": 3,
-   "posts_per_day": 5.0,
+   "posts_per_day": 5.3,
    "reactions_per_day": 340,
-   "steady_score": 6153,
+   "steady_score": 6233,
    "is_steady": false
   },
   {
@@ -288,8 +288,8 @@
    ],
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360647/item/jpgoods_64_360647_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E360647-000/00?colorDisplayCode=64",
-   "price": 2990,
-   "promo": null,
+   "price": 2490,
+   "promo": 2490,
    "search_url": "https://search.yahoo.co.jp/realtime/search?p=GU+3D%E3%83%90%E3%83%AC%E3%83%AB%E3%82%B8%E3%83%BC%E3%83%B3%E3%82%BA&ei=UTF-8&md=h",
    "daily": [
     1,
@@ -348,20 +348,20 @@
     2,
     1,
     2,
-    0
+    1
    ],
    "top_reactions": 7,
    "capped": false,
-   "recent_posts": 3,
+   "recent_posts": 4,
    "recent_reactions": 0,
-   "growth": 0.41,
-   "rising_score": 30,
+   "growth": 0.54,
+   "rising_score": 43,
    "is_rising": false,
    "covered_days": 14,
-   "active_days": 13,
-   "posts_per_day": 2.1,
+   "active_days": 14,
+   "posts_per_day": 2.2,
    "reactions_per_day": 0,
-   "steady_score": 607,
+   "steady_score": 627,
    "is_steady": true
   }
  ]
