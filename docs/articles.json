@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T00:43:24.628536+09:00",
+ "updated_at": "2026-10-17T05:12:48.349024+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -59,7 +59,6 @@
   "Gear Patrol",
   "Goal.com",
   "GrowSF",
-  "HOME広島ホームテレビ",
   "Highsnobiety",
   "Honolulu Civil Beat",
   "Howl.Link",
@@ -88,6 +87,7 @@
   "Man of Many",
   "Manchester Evening News",
   "Marketing-Interactive",
+  "Metro.co.uk",
   "Mindanao Times",
   "Modaes",
   "MonoMax web",
@@ -224,26 +224,33 @@
   "玩具人 TOY PEOPLE",
   "産経ニュース",
   "繊研新聞",
-  "船橋つうしん",
   "西日本新聞me",
   "電撃オンライン",
   "매일경제",
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 253,
  "digest": {
-  "headline": "ファーストリテイリングが世界2位に浮上し、各ブランドの新作も続々と発表",
+  "headline": "ファストリ世界2位浮上とJWアンダーソンコラボ発売",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益約3.9兆円となり世界2位に浮上し、配当と業績予想の上方修正も発表されました。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益約3.9兆円で世界2位に浮上し、配当と業績予想の上方修正も発表された。",
     "ids": [
      "da03fd162c564367",
      "db111b585ebf8ae7"
     ]
    },
    {
-    "text": "GUはアニメ『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにしたコラボ商品を12月11日に発売すると発表しました。",
+    "text": "ユニクロとJW ANDERSONによる演劇文化に着想を得た2026年秋冬コレクションが10月16日に発売された。",
+    "ids": [
+     "97ed790ff1a009bd",
+     "bd5f7e18bc32138f",
+     "a69e7681a0037caf"
+    ]
+   },
+   {
+    "text": "GUは、『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにしたコラボアイテムを12月11日に発売すると発表した。",
     "ids": [
      "755f9113604676ef",
      "db86823929f8fe8d",
@@ -251,31 +258,22 @@
     ]
    },
    {
-    "text": "ユニクロではJW ANDERSONとの2026年秋冬コレクションが発売され、国内外での新規店舗オープンや新キャンペーンも展開されています。",
-    "ids": [
-     "6ea14d5db156eb00",
-     "bd5f7e18bc32138f",
-     "fef54843a7c16dc5"
-    ]
-   },
-   {
-    "text": "高級ブランドの高騰により、ユニクロやZARAといった中価格帯のブランドへ買い物客が回帰する動きが広がっています。",
+    "text": "高級ブランドの高騰により、買い物客の間でユニクロやZARAなどの中価格帯ブランドを選ぶ動きが広がっている。",
     "ids": [
      "a6e2f68a741353b3",
-     "e7b176491a47e686",
-     "39999c1aaf4282c5"
+     "e7b176491a47e686"
     ]
    },
    {
-    "text": "SNSではGUコラボがXで3日に70件投稿されるなど話題を集めています。",
+    "text": "SNSではGU GUコラボが話題となり、Xで3日に72件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-14T00:53:23.149002+09:00",
-  "generated_at": "2026-10-17T00:53:40.370553+09:00",
+  "from": "2026-10-14T05:21:58.763641+09:00",
+  "generated_at": "2026-10-17T05:22:02.425394+09:00",
   "article_count": 24,
-  "sig": "f28ab8078128"
+  "sig": "d0225e21d0f9"
  },
  "items": [
   {
@@ -292,7 +290,23 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "5e9c0c8fa1f56b17",
+   "url": "https://metro.co.uk/2026/10/16/jw-andersons-latest-uniqlo-collection-packed-autumn-buys-29711339",
+   "title_original": "JW Anderson’s latest Uniqlo collection is packed with autumn buys",
+   "source": "Metro.co.uk",
+   "image": "https://metro.co.uk/wp-content/uploads/2026/10/SEC_316735781-fc66_1792074098.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T12:00:00+00:00",
+   "title_ja": "JWアンダーソンとユニクロの秋冬新作コレクション",
+   "summary_ja": "JWアンダーソンとユニクロによる最新の秋冬コレクションが発表されました。季節感あふれるアイテムが多数揃い、注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "93eb57ba594a65a6",
@@ -308,7 +322,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c21cd380783d20f4",
@@ -357,6 +371,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "362b5e450bdb44b2",
+   "url": "https://www.moomoo.com/news/post/1001408514/report-on-change-in-shareholding-9983-fast-retailing-38-25",
+   "title_original": "Report on Change in Shareholding Fast Retailing (38.25% → 6.67%) Teruyo Yanai, et al.",
+   "source": "Moomoo",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T07:36:00+00:00",
+   "title_ja": "ファーストリテイリングの株式保有割合の変動に関する報告",
+   "summary_ja": "ファーストリテイリングに関する株式保有割合の変更についての報告が公開されています。関係者の保有比率が大きく変動しました。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "755f9113604676ef",
@@ -516,7 +546,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "45804df7db3c60e2",
@@ -564,6 +594,22 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "97ed790ff1a009bd",
+   "url": "https://dime.jp/genre/2162665",
+   "title_original": "演劇などのアカデミックな文化から着想を得た「UNIQLO and JW ANDERSON」の秋冬コレクション",
+   "source": "@DIME アットダイム",
+   "image": "https://dime.jp/wp-content/uploads/2026/10/1-39-770x513.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T00:00:00+00:00",
+   "title_ja": "演劇文化に着想を得たユニクロとJWアンダーソン秋冬",
+   "summary_ja": "アカデミックな演劇文化からインスピレーションを受けた、「UNIQLO and JW ANDERSON」の秋冬コレクションが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -693,6 +739,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "0f1d432d599733eb",
+   "url": "https://www.asahi.com/and/w/article/16964068/31441791?ro=16964068&ri=0",
+   "title_original": "あなたはどれ狙い？ 【ユニクロ】「JW ANDERSON秋冬新作」が10/16発売。注目のアウターは7,990円〜",
+   "source": "朝日新聞",
+   "image": "https://p.potaufeu.asahi.com/82ce-p/picture/31441791/8c2ce1394d45227ae32c53cf002b905f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T11:40:21+00:00",
+   "title_ja": "ユニクロ、JW ANDERSON秋冬新作を発売",
+   "summary_ja": "ユニクロは、JW ANDERSONとのコラボレーションによる2026年秋冬コレクションを発売しました。注目のアウターなどが店頭に並びます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e78f67a96e85fd9d",
@@ -1331,6 +1393,22 @@
    "summary_ja": "ユニクロは、チャリティTシャツプロジェクト「PEACE FOR ALL」の4年間にわたる取り組みの歩みと、世界へ広がる支援の成果について紹介した。平和を願う活動が世界中で支援の輪を広げている。",
    "category": "サステナビリティ",
    "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a095ab0cd1259520",
+   "url": "https://lasisa.net/post/164537",
+   "title_original": "【明日まで990円】「流行りのトップスが」「コスパ最強」 GU《ソフトシアーカーディガン》 が★4.5！ 「3シーズン活躍しそう」",
+   "source": "LASISA",
+   "image": "https://lasisa.net/wp-content/uploads/2027/10/261014-guc-01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-14T07:17:00+00:00",
+   "title_ja": "GU「ソフトシアーカーディガン」の期間限定価格セール",
+   "summary_ja": "GUの「ソフトシアーカーディガン」が明日まで990円の特価で販売されており、高い評価を集めるコスパ抜群のアイテムとして注目されています。",
+   "category": "キャンペーン・セール",
+   "brand": "GU",
    "importance": 3,
    "has_detail": true
   },
@@ -6595,86 +6673,6 @@
    "summary_ja": "ファーストリテイリングの株価が大幅に反発しました。同社が発表した9月の国内ユニクロ既存店売上高が、前年同月比で2桁の増加を記録したことが好感され、買いが集まっています。",
    "category": "業績・経営",
    "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "da27338ad2836637",
-   "url": "https://funabashi-tsushin.com/40980.html",
-   "title_original": "【テナント判明】10/16（金）「ミーナ津田沼」がリニューアルオープン！ユニクロは新津田沼駅直結の2階へ、1階には飲食ゾーン「しんつだぬま食堂」",
-   "source": "船橋つうしん",
-   "image": "https://funabashi-tsushin.com/wp-content/uploads/2026/08/IMG_5898.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T02:33:32+00:00",
-   "title_ja": "ミーナ津田沼が10月16日改装開業 ユニクロは2階へ移転",
-   "summary_ja": "商業施設「ミーナ津田沼」が10月16日にリニューアルオープンすることが判明しました。館内のユニクロは、新津田沼駅直結の2階フロアへ入居します。あわせて施設1階には新しい飲食ゾーンが導入される予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1a035dccb8244031",
-   "url": "https://www.nikkei.com/article/DGXZQOFL051510V01C26A0000000",
-   "title_original": "ファーストリテイリング株価、一時3%高 9月の既存店10.8%増",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3680698005102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.11&fp-y=0.88&h=630&w=1200&s=182964d9042e176a3015189cc47fc299",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T02:16:36+00:00",
-   "title_ja": "ファストリ株が一時3%高 9月の国内ユニクロ既存店売上10.8%増",
-   "summary_ja": "ファーストリテイリングの株価が一時3%上昇しました。9月の国内ユニクロ既存店売上高が前年同月比10.8%増と好調に推移したことが材料視されています。業績の拡大傾向が評価された形です。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "22948907abb1c310",
-   "url": "https://www.home-tv.co.jp/news/content/?news_id=000537929",
-   "title_original": "日米で金利動向占う1週間に 米FOMC議事要旨、ファストリなどの決算に注目",
-   "source": "HOME広島ホームテレビ",
-   "image": "https://news.tv-asahi.co.jp/articles_img/000537929_640.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T01:43:00+00:00",
-   "title_ja": "ファストリ決算に注目、日米の金利動向を占う重要な1週間に",
-   "summary_ja": "今週は日米の金利動向を占う重要な週となり、米連邦公開市場委員会（FOMC）の議事要旨の公表や、ファーストリテイリングなど主要企業の決算発表に市場の注目が集まっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4302b9a6062a8343",
-   "url": "https://news.shoninsha.co.jp/store/320004",
-   "title_original": "ユニクロnews｜4層960坪･新グローバル旗艦店｢ユニクロ 京都｣11/6オープン",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T01:21:35+00:00",
-   "title_ja": "新グローバル旗艦店「ユニクロ 京都」が11月6日にオープン",
-   "summary_ja": "京都に新しいグローバル旗艦店「ユニクロ 京都」が11月6日にオープンします。4フロアにわたる約960坪の広大な店舗面積を誇り、新たな注目スポットとして期待されます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "85b86d66f452b819",
-   "url": "https://www.moomoo.com/ja/news/post/1000584793",
-   "title_original": "ファストリ－反発 9月度の国内ユニクロ既存店売上高11％増 秋冬販売が好調",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T00:01:00+00:00",
-   "title_ja": "国内ユニクロの9月度既存店売上高は11％増と好調",
-   "summary_ja": "ファーストリテイリングの国内ユニクロ事業における9月度の既存店売上高は前年同月比11％増となり、秋冬物の販売が好調です。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
   }
