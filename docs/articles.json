@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T19:18:09.818145+09:00",
+ "updated_at": "2026-10-17T00:43:24.628536+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -35,6 +35,7 @@
   "British Vogue",
   "Business News This Week",
   "BusinessToday Malaysia",
+  "BuzzFeed",
   "Campaign India",
   "Confidentials",
   "Demócrata",
@@ -156,6 +157,7 @@
   "Web eclat",
   "World Footwear",
   "Yahoo Finance",
+  "Yahoo Life UK",
   "Yahoo!ニュース",
   "ad-hoc-news.de",
   "afaqs!",
@@ -184,6 +186,7 @@
   "オリコンニュース",
   "ゴルフサプリ",
   "サンスポ",
+  "ジモはる",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "テレ東BIZ",
@@ -223,61 +226,90 @@
   "繊研新聞",
   "船橋つうしん",
   "西日本新聞me",
+  "電撃オンライン",
   "매일경제",
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 253,
+ "detail_count": 252,
  "digest": {
-  "headline": "ファーストリテイリングが売上高約3.9兆円で世界2位に浮上、JW ANDERSO",
+  "headline": "ファーストリテイリングが世界2位に浮上し、各ブランドの新作も続々と発表",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上しました。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益約3.9兆円となり世界2位に浮上し、配当と業績予想の上方修正も発表されました。",
     "ids": [
-     "da03fd162c564367"
+     "da03fd162c564367",
+     "db111b585ebf8ae7"
     ]
    },
    {
-    "text": "ファーストリテイリングは増配および業績予想の上方修正を発表したほか、国内EC売上高が堅調な伸びを記録しています。",
-    "ids": [
-     "db111b585ebf8ae7",
-     "03740cd2db15e916"
-    ]
-   },
-   {
-    "text": "ユニクロとJW ANDERSONによる注目の2026年秋冬コレクションが10月16日に発売され、国内外で様々なアイテムが展開されています。",
-    "ids": [
-     "6ea14d5db156eb00",
-     "bd5f7e18bc32138f",
-     "0ba59e00f237fed0"
-    ]
-   },
-   {
-    "text": "GUは、『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにした新作コラボレーション商品を12月11日より発売すると発表しました。",
+    "text": "GUはアニメ『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにしたコラボ商品を12月11日に発売すると発表しました。",
     "ids": [
      "755f9113604676ef",
+     "db86823929f8fe8d",
      "2598c119f99523c3"
     ]
    },
    {
-    "text": "高級ブランドの高騰により、ユニクロやZARAといった中価格帯のブランドを選ぶ買い手が回帰し、存在感を高めています。",
+    "text": "ユニクロではJW ANDERSONとの2026年秋冬コレクションが発売され、国内外での新規店舗オープンや新キャンペーンも展開されています。",
     "ids": [
-     "a6e2f68a741353b3",
-     "e7b176491a47e686"
+     "6ea14d5db156eb00",
+     "bd5f7e18bc32138f",
+     "fef54843a7c16dc5"
     ]
    },
    {
-    "text": "SNSでは「GU ジョジョの奇妙な冒険 スウェット」が話題となり、Xで3日に3件投稿されました。",
+    "text": "高級ブランドの高騰により、ユニクロやZARAといった中価格帯のブランドへ買い物客が回帰する動きが広がっています。",
+    "ids": [
+     "a6e2f68a741353b3",
+     "e7b176491a47e686",
+     "39999c1aaf4282c5"
+    ]
+   },
+   {
+    "text": "SNSではGUコラボがXで3日に70件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-13T19:27:51.687997+09:00",
-  "generated_at": "2026-10-16T19:28:16.268409+09:00",
+  "from": "2026-10-14T00:53:23.149002+09:00",
+  "generated_at": "2026-10-17T00:53:40.370553+09:00",
   "article_count": 24,
-  "sig": "68fa3d060f08"
+  "sig": "f28ab8078128"
  },
  "items": [
+  {
+   "id": "fef63f05c31434c0",
+   "url": "https://www.wwdjapan.com/articles/2527983",
+   "title_original": "1位は、「ジーユー」×「エンジニアド ガーメンツ」第3弾が登場 ミリタリー＆ワークスタイルの全8型を発売｜週間アクセスランキング TOP10（10月8〜14日）",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T12:03:53+00:00",
+   "title_ja": "GUが「エンジニアド ガーメンツ」コラボ第3弾を発表　全8型を展開",
+   "summary_ja": "GUとエンジニアド ガーメンツによるコラボレーションの第3弾が登場します。ミリタリーやワークスタイルを取り入れた全8型の商品が展開されます。アクセスランキングでも首位を獲得するなど高い関心を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "93eb57ba594a65a6",
+   "url": "https://www.buzzfeed.com/jp/naokimiura/uniqlo-sale-outerwear",
+   "title_original": "ユニクロ値下げ！ウィンドプルーフパーカなど3選",
+   "source": "BuzzFeed",
+   "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/08/thumb/RY60TEHZn.jpg?crop=893:595;35,65&resize=1250:830",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T11:01:02+00:00",
+   "title_ja": "ユニクロがウィンドプルーフパーカなど対象3商品を値下げ",
+   "summary_ja": "ユニクロが人気アウターであるウィンドプルーフパーカを含む3商品を対象に値下げを実施している。寒くなるこれからの季節に活躍する注目のアイテムをお買い得な価格で手に入れる機会となっている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "c21cd380783d20f4",
    "url": "https://news.yahoo.co.jp/articles/fcfbdf91b7ea7475ab0d4e518b97acbd5dc22668",
@@ -356,7 +388,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8d441fb9f14cbc6f",
@@ -372,7 +404,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af06a9edfc066642",
@@ -420,7 +452,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2ff297e11713430c",
@@ -436,7 +468,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7b4ad36cde7f7788",
@@ -452,7 +484,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "62694cef49eb7dad",
@@ -468,6 +500,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "db86823929f8fe8d",
+   "url": "https://dengekionline.com/article/202610/91159",
+   "title_original": "【ジョジョ×GU】歴代の強敵コラボが12月11日発売！ 柱の男やディオたちのアパレルが登場",
+   "source": "電撃オンライン",
+   "image": "https://cimg.kgl-systems.io/camion/files/91159/ogp_HEit.jpg?x=1280",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T03:20:00+00:00",
+   "title_ja": "GUとジョジョの歴代強敵コラボが12月発売",
+   "summary_ja": "GUは、「ジョジョの奇妙な冒険」シリーズの歴代の敵キャラクターをデザインしたコラボアパレルを12月11日に発売する。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -500,6 +548,22 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ea02172c1e9925cf",
+   "url": "https://jimoharu.net/mina-tsudanuma-renewal-20261016",
+   "title_original": "ミーナ津田沼の営業時間・駐車場・フロア別の店｜ユニクロは2・3階、ジーユーは4階、駐車場は買い物で2時間半サービス・約800台(他施設と共用)、2026年10月16日にリニューアル",
+   "source": "ジモはる",
+   "image": "https://jimoharu.net/wp-content/uploads/2026/10/mina-tsudanuma-1016-eye.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T01:06:38+00:00",
+   "title_ja": "ミーナ津田沼がリニューアル、ユニクロとGUのフロア案内も",
+   "summary_ja": "2026年10月16日にリニューアルされたミーナ津田沼のフロア情報が公開され、ユニクロが2・3階、ジーユーが4階に入居していることが案内されています。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -789,6 +853,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "020b282b30c26c6f",
+   "url": "https://uk.style.yahoo.com/forget-knits-jackets-uniqlo-x-060000057.html",
+   "title_original": "‘Forget knits and jackets, the Uniqlo x JW Anderson piece I'm waking up early for is the £8 socks'",
+   "source": "Yahoo Life UK",
+   "image": "https://s.yimg.com/lo/mysterio/api/08e3753a73ad9147bdf6eb8c65ce3afe27fde3fdf473cfac485cf2f004ef469d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_uk_129%2F1c85ebc28d234e6c2259e9b75d006e2c.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-15T06:00:00+00:00",
+   "title_ja": "ユニクロとJWアンダーソンのコラボソックスが注目",
+   "summary_ja": "ユニクロとJWアンダーソンの最新コラボレーションから、手頃な価格で購入できるソックスが話題を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "20683fb03c629b04",
@@ -6597,86 +6677,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "e74eeec5691edf82",
-   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_uniqlo_20261005",
-   "title_original": "9月月次好調のファストリが4.07％高、指数での存在感際立つ 株価上昇率トップは「リファ」好調のMTG｜「SVT インデックス」13,288ポイント（10月5日）",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/03/840-27.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T00:00:00+00:00",
-   "title_ja": "9月の月次業績好調でファーストリテイリングの株価が4％超上昇",
-   "summary_ja": "9月の月次業績が好調だったことを受け、ファーストリテイリングの株価が4.07％上昇しました。株式市場の指数において同社の存在感が際立っており、市場を牽引する動きを見せています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2c1c19c7bbfa8887",
-   "url": "https://senken.co.jp/posts/uniqlo-261005",
-   "title_original": "ユニクロの9月既存店売上高は10.8％増 低気温で秋物実需活性化",
-   "source": "繊研新聞",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-04T21:27:00+00:00",
-   "title_ja": "ユニクロの9月国内既存店売上高は10.8％増、気温低下で秋物が好調",
-   "summary_ja": "ユニクロの9月の国内既存店売上高は、前年同月比で10.8％増加しました。気温が低下したことで、秋物衣類の需要が活性化し、売り上げを大きく伸ばす結果となりました。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "be5de0f2c3c67dfc",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102074113",
-   "title_original": "イオン向かいの「ミーナ津田沼」10月16日リニューアル。ユニクロ・GUほか19店舗、飲食ゾーンは早朝・深夜営業あり",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1479588795537164020/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-04T21:17:41+00:00",
-   "title_ja": "ミーナ津田沼が10月16日に刷新、ユニクロやGUなど19店舗が出店",
-   "summary_ja": "商業施設「ミーナ津田沼」が10月16日にリニューアルオープンする。ユニクロやGUをはじめとする19店舗が出店し、飲食ゾーンでは早朝から深夜までの営業も行われる。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c669740d3398954b",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-lists-uniqlo-september-sales-as-fast-retailing-stock-sits-at-eur-412-15/70227109",
-   "title_original": "Fast Retailing lists Uniqlo September sales as Fast Retailing stock sits at EUR 412.15",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405024_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T16:34:58+00:00",
-   "title_ja": "ファーストリテイリングがユニクロの9月国内売上実績を公表",
-   "summary_ja": "ファーストリテイリングが国内ユニクロの9月売上実績を公表した。これに合わせて、海外市場における同社の株価推移や取引価格についても報じられており、企業の最新の業績動向に注目が集まっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bceb72639d8adb2f",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-fell-1-35-percent-on-october-2-as-sales-rose-10-8/70227092",
-   "title_original": "Fast Retailing stock fell 1.35 percent on October 2 as sales rose 10.8 percent",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405037_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-04T16:32:44+00:00",
-   "title_ja": "9月売上10.8％増もファーストリテイリング株価は1.35％下落",
-   "summary_ja": "ファーストリテイリングが発表した売上実績が10.8％増加した一方で、10月2日の同社株価は1.35％下落した。好調な売上推移を見せる一方で、株式市場での株価の動きについても報じられている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
