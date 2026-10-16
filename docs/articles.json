@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T05:40:02.069756+09:00",
+ "updated_at": "2026-10-16T11:05:43.198929+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -114,6 +114,7 @@
   "SEVENTIE TWO",
   "SFist",
   "SMEStreet",
+  "SPUR（シュプール）",
   "San Francisco Chronicle",
   "San Francisco Examiner",
   "Secret Manchester",
@@ -226,44 +227,66 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 254,
+ "detail_count": 255,
  "digest": {
-  "headline": "ファーストリテイリング業績好調、JWアンダーソンコラボ発売",
+  "headline": "ファーストリテイリング世界2位浮上、JWアンダーソン新作発売",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益が約3.9兆円となり世界2位に浮上し、配当と業績予想の上方修正も発表されました。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上しました。",
     "ids": [
-     "da03fd162c564367",
-     "db111b585ebf8ae7"
+     "da03fd162c564367"
     ]
    },
    {
-    "text": "高級ブランドの高騰によりユニクロなど中価格帯を選ぶ動きが広がり、国内外での新店舗オープンや世界一達成への意欲も示されています。",
+    "text": "配当と業績予想の上方修正を発表したほか、国内EC売上高が6.3%増を記録するなど、堅調な伸びを見せています。",
+    "ids": [
+     "db111b585ebf8ae7",
+     "03740cd2db15e916"
+    ]
+   },
+   {
+    "text": "ユニクロとJW ANDERSONによる注目の2026年秋冬コレクションが10月16日に発売を迎えました。",
+    "ids": [
+     "6ea14d5db156eb00",
+     "bd5f7e18bc32138f",
+     "a69e7681a0037caf"
+    ]
+   },
+   {
+    "text": "高級ブランドの高騰から、手頃な中価格帯であるユニクロやZARAを選ぶ買い手が国内外で回帰・復権の動きを見せています。",
     "ids": [
      "a6e2f68a741353b3",
-     "fef54843a7c16dc5",
-     "277a39ba34c72da5"
+     "e7b176491a47e686"
     ]
    },
    {
-    "text": "伝統と革新を再解釈した「ユニクロ×JW アンダーソン」の最新秋冬コレクションが10月16日に発売を迎え、注目を集めています。",
-    "ids": [
-     "bd5f7e18bc32138f",
-     "3dbc78b48b6ea183"
-    ]
-   },
-   {
-    "text": "SNSではGU ジョジョコラボが急上昇し、Xで3日に73件投稿されました。",
+    "text": "SNSではユニクロ JW ANDERSON コレクションがXで3日に8件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-13T05:46:12.220550+09:00",
-  "generated_at": "2026-10-16T05:46:13.784063+09:00",
+  "from": "2026-10-13T11:11:09.688389+09:00",
+  "generated_at": "2026-10-16T11:11:11.421924+09:00",
   "article_count": 24,
-  "sig": "907348c282a3"
+  "sig": "7a9c1b53495f"
  },
  "items": [
+  {
+   "id": "6ea14d5db156eb00",
+   "url": "https://spur.hpplus.jp/fashion/news/2026-10-16-zm8ZBA",
+   "title_original": "【ユニクロ アンド ジェイ ダブリュー アンダーソン】最新コレクションが発売！ 人気のヒートテックソックスやウールカシミヤのセーターも〈全アイテム掲載〉",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/65/65b64c33-3b22-4d90-a673-95baeb2294e8-2100x1102.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-15T23:00:00+00:00",
+   "title_ja": "ユニクロ アンド ジェイ ダブリュー アンダーソン最新作が発売",
+   "summary_ja": "ユニクロとJW ANDERSONによる最新コレクションが発売されました。人気のヒートテックソックスやウールカシミヤセーターなど、注目アイテムが多数ラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "a6e2f68a741353b3",
    "url": "https://style.news.am/eng/print/116666",
@@ -326,7 +349,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a11bd53423555848",
@@ -470,7 +493,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "220cd81fd7698294",
@@ -1766,7 +1789,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9ccd087dfc31dee7",
@@ -6647,22 +6670,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "f9eee25c4966cde8",
-   "url": "https://t.co/vaEOAw6l91",
-   "title_original": "ユニクロ福島南沢又店が11月12日に閉店と公式ホームページで発表。",
-   "source": "t.co",
-   "image": "https://newsr.jp/img/news/photo/13890_72d20032b457f1cfb6f69f87645d5f2d46e22789.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-02T22:48:00+00:00",
-   "title_ja": "ユニクロ福島南沢又店が11月12日に閉店、公式ホームページで発表",
-   "summary_ja": "ユニクロ福島南沢又店が11月12日に閉店することが、ユニクロの公式ホームページにて発表された。同店における営業終了のスケジュールが明らかにされている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }
