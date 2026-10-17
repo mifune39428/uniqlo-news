@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T05:12:48.349024+09:00",
+ "updated_at": "2026-10-17T10:59:28.715852+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -39,7 +39,6 @@
   "Campaign India",
   "Confidentials",
   "Demócrata",
-  "Distribuzione Moderna",
   "Drapers",
   "EBC Financial Group",
   "EL PAÍS English",
@@ -141,6 +140,7 @@
   "The Manila Times",
   "The San Francisco Standard",
   "The Sole Supplier",
+  "The Times Australia",
   "The Voice of San Francisco",
   "TheIndustry.fashion",
   "Traders Union",
@@ -198,12 +198,12 @@
   "マイナビ子育て",
   "マネーフォワード",
   "モデルプレス",
+  "ヨムーノ",
   "ラブすぽ",
   "千葉テレビ放送株式会社",
   "四季報オンライン",
   "地球の歩き方",
   "宇部日報デジタル SARATTO",
-  "山形新聞",
   "山陽新聞",
   "日刊スポーツ",
   "日本ネット経済新聞",
@@ -230,27 +230,28 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 253,
+ "detail_count": 254,
  "digest": {
-  "headline": "ファストリ世界2位浮上とJWアンダーソンコラボ発売",
+  "headline": "ファーストリテイリング過去最高益、JWアンダーソン新作も発売",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益約3.9兆円で世界2位に浮上し、配当と業績予想の上方修正も発表された。",
+    "text": "ファーストリテイリングの2026年8月期連結業績は売上収益が3兆9634億円となり、過去最高益を更新して世界のアプリ業界2位へ浮上しました。",
     "ids": [
+     "06cb9c229353462a",
      "da03fd162c564367",
      "db111b585ebf8ae7"
     ]
    },
    {
-    "text": "ユニクロとJW ANDERSONによる演劇文化に着想を得た2026年秋冬コレクションが10月16日に発売された。",
+    "text": "ユニクロとJW ANDERSONによる演劇文化に着想を得た2026年秋冬コレクションが発売され、多彩な新作アイテムが店頭に並んでいます。",
     "ids": [
+     "5e9c0c8fa1f56b17",
      "97ed790ff1a009bd",
-     "bd5f7e18bc32138f",
-     "a69e7681a0037caf"
+     "6ea14d5db156eb00"
     ]
    },
    {
-    "text": "GUは、『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにしたコラボアイテムを12月11日に発売すると発表した。",
+    "text": "GUは、アニメ『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにした石仮面カーディガンなどのコラボ商品を12月11日に発売します。",
     "ids": [
      "755f9113604676ef",
      "db86823929f8fe8d",
@@ -258,24 +259,89 @@
     ]
    },
    {
-    "text": "高級ブランドの高騰により、買い物客の間でユニクロやZARAなどの中価格帯ブランドを選ぶ動きが広がっている。",
+    "text": "高級ブランドの高騰により中価格帯ブランドへ買い手が回帰する動きがあるほか、国内外での新規店舗オープンや国内EC売上の堅調な伸びも報じられています。",
     "ids": [
      "a6e2f68a741353b3",
-     "e7b176491a47e686"
+     "fef54843a7c16dc5",
+     "03740cd2db15e916"
     ]
    },
    {
-    "text": "SNSではGU GUコラボが話題となり、Xで3日に72件投稿された。",
+    "text": "SNSでは「GU GUコラボ」がXで74件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-14T05:21:58.763641+09:00",
-  "generated_at": "2026-10-17T05:22:02.425394+09:00",
+  "from": "2026-10-14T11:06:22.197019+09:00",
+  "generated_at": "2026-10-17T11:06:24.416423+09:00",
   "article_count": 24,
-  "sig": "d0225e21d0f9"
+  "sig": "1b9fc751c3b4"
  },
  "items": [
+  {
+   "id": "2a0a6407486b42a0",
+   "url": "https://www.vietnam.vn/ja/uniqlo-mo-rong-ket-noi-voi-thanh-hoa-tu-san-xuat-con-nguoi-den-cong-dong",
+   "title_original": "ユニクロは、生産、人材、地域社会といったあらゆる面で、タインホア省とのつながりを拡大する。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/17/1792199431491_uniqlo-mo-rong-w720t0-di2641d180d5173330t11200l1-chi-o-thi-hien1.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-17T01:00:00+00:00",
+   "title_ja": "ユニクロがベトナム・タインホア省との連携を拡大　生産や人材、地域社会の面で関係強化へ",
+   "summary_ja": "ユニクロがベトナムのタインホア省において、生産体制の強化や人材の育成、さらには地域社会への寄与を含めた包括的な連携関係を拡大させている。多角的な面から地域とのつながりを深め、現地における事業基盤の強化を図る動きとして注目される。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1e99a6c4c4a4264d",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102123826",
+   "title_original": "見逃し厳禁！ユニクロの期間限定セールに秋冬がっつり着倒せるトップス＆ボトムスが続々登場！",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483977419910661154/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T23:57:07+00:00",
+   "title_ja": "ユニクロが秋冬向けのトップスやボトムスを対象とした期間限定セールを開催",
+   "summary_ja": "ユニクロが秋冬シーズンに活躍するトップスやボトムスなどの対象商品を揃えた期間限定セールを実施している。これからの時期に着回しやすい各種アイテムがお買い得価格で登場しており、注目を集めている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "47211a6d4d569850",
+   "url": "https://news.yahoo.co.jp/articles/63dd6cae8d9902f1f534c13963da1f58d7f740a7/images/000",
+   "title_original": "「気に入りすぎて3色買いました」ユニクロのワイドパンツが期間限定価格3990円に 「脚の形をひろわず」「5本目です」の声も",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnU0LgCdFj5655CfdLkdNwv9ZmnrYKjEfcN79UzNIS1vGxUo8zA65r7WOfg0Sj3NMqF4r9gQD6lJ0zedqULJFFuQ7CZxQ0GXijA1QtyFxz1qk",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T22:12:15+00:00",
+   "title_ja": "ユニクロのワイドパンツが期間限定価格3990円に、リピート購入する愛用者も",
+   "summary_ja": "ユニクロのワイドパンツが期間限定で3,990円の特別価格に値下げされています。脚のラインをひろいにくい綺麗なシルエットが人気を集めており、色違いや複数本の購入報告が寄せられるなど好評です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e82c679796172d40",
+   "url": "https://thetimes.com.au/australia/53196-uniqlo-announces-opening-date-of-australian-store-at-sunshine-plaza-queensland",
+   "title_original": "UNIQLO Announces Opening Date of Australian Store at Sunshine Plaza, Queensland",
+   "source": "The Times Australia",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-16T17:06:08+00:00",
+   "title_ja": "ユニクロが豪クイーンズランド州サンシャイン・プラザ店舗のオープン日を発表",
+   "summary_ja": "ユニクロが、オーストラリアのクイーンズランド州にある商業施設「サンシャイン・プラザ」に出店する新店舗のオープン日を発表した。豪州における事業展開の一環として注目を集めている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "fef63f05c31434c0",
    "url": "https://www.wwdjapan.com/articles/2527983",
@@ -373,6 +439,38 @@
    "has_detail": true
   },
   {
+   "id": "06cb9c229353462a",
+   "url": "https://media.unisba.ac.id/fb8a2d09/48b6aa1fkoOT2NNJowQ/?share=telegram&nb=1",
+   "title_original": "ファーストリテイリング過去最高益 アパレル業界で世界2位の見通し（2026年10月09日） Opposizione (KXViqzi1vq)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T09:32:10+00:00",
+   "title_ja": "ファーストリテイリングが過去最高益、アパレル世界2位へ浮上の見通し",
+   "summary_ja": "ファーストリテイリングの業績が過去最高益を更新し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなった。事業の好調により業界内での存在感が一段と高まっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "cc261609770a8c60",
+   "url": "https://yomuno.jp/posts/143424",
+   "title_original": "今だけ「700円→無料」に!?すぐ【ユニクロ】に走らなきゃ!!「穴やシミができても安心」「お気に入りを長く着れる」",
+   "source": "ヨムーノ",
+   "image": "https://image.yomuno.jp/store/article/143424/header_image/large-140738fde94af9b0b5c9a402d2039689.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-16T08:26:04+00:00",
+   "title_ja": "ユニクロで服の補修・リペアサービスが期間限定で無料になるキャンペーン",
+   "summary_ja": "ユニクロにて通常700円かかる服の補修サービスが期間限定で無料となる施策が注目されています。穴やシミができたお気に入りの衣類を修繕し、長く着用できるサステナブルな取り組みとして話題です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "362b5e450bdb44b2",
    "url": "https://www.moomoo.com/news/post/1001408514/report-on-change-in-shareholding-9983-fast-retailing-38-25",
    "title_original": "Report on Change in Shareholding Fast Retailing (38.25% → 6.67%) Teruyo Yanai, et al.",
@@ -386,7 +484,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "755f9113604676ef",
@@ -754,7 +852,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e78f67a96e85fd9d",
@@ -6579,102 +6677,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "9da7ce62fa75b757",
-   "url": "https://news.yahoo.co.jp/articles/1251b8300a4647b0e274342d81dcb104b181f3a8/images/000",
-   "title_original": "【今だけ→3990円】「ワイドパンツ初心者もぜひ」… ユニクロの注目ボトムスが、「コスパのバグ」「“ポッコリ”なかったことに」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnbXCRA4UG4wYdbKEsDbCDA7L0ROVpvVgffWVSS6D6FSAzitzuFl9OAXgdWx26rtOXQArZdmkNNyKvXKpCH_RBDR8psDx3aZFXEDgXUfbkjJ3_LwObj2V6JFYr2w7Eiz_ZA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T08:50:00+00:00",
-   "title_ja": "ユニクロの注目ワイドパンツが3990円に期間限定値下げ　ネットで話題",
-   "summary_ja": "ユニクロの注目のワイドパンツが期間限定で3,990円に値下げされています。体型カバー効果やコストパフォーマンスの高さが評価されており、ワイドパンツ初心者にも適したボトムスとして人気を集めています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "70c258727f9fdbd9",
-   "url": "https://distribuzionemoderna.info/en/news-of-the-day/uniqlo-announces-opening-at-il-centro-di-arese",
-   "title_original": "Uniqlo announces opening at Il Centro di Arese",
-   "source": "Distribuzione Moderna",
-   "image": "https://distribuzionemoderna.info/images/news/econa-article-images/101961/intro/1200/uniqlo-programma-apertura-centro-arese-c1.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-05T06:22:38+00:00",
-   "title_ja": "ユニクロがイタリアのアレーゼにある商業施設「イル・チェントロ」への出店を発表",
-   "summary_ja": "ユニクロは、イタリアのアレーゼに位置するショッピングモール「イル・チェントロ（Il Centro）」への新規出店を発表しました。現地におけるさらなる店舗網の拡大に向けた取り組みの一環です。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9845cbd1ba56db8b",
-   "url": "https://www.yamagata-np.jp/oricon/photo.php?id=2484406",
-   "title_original": "ユニクロ、京都に新グローバル旗艦店・概要発表 「UNIQLO COFFEE」西日本初登場、限定施策が多数【一覧】",
-   "source": "山形新聞",
-   "image": "https://www.yamagata-np.jp/",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T06:16:41+00:00",
-   "title_ja": "ユニクロが京都の新グローバル旗艦店の概要を発表、西日本初のカフェも登場",
-   "summary_ja": "ユニクロは、京都にオープンする新たなグローバル旗艦店の概要を発表しました。西日本初となる「UNIQLO COFFEE」が併設されるほか、京都ならではの限定施策が多数用意される予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "fdb3b8a73ee5f737",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102075838",
-   "title_original": "ユニクロ、10月9日、熊本県菊陽町の「ゆめタウン光の森店」をリニューアル。八代市内にはゆめマート内に仮設店舗オープン",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1479707279908898146/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T05:08:29+00:00",
-   "title_ja": "「ユニクロ ゆめタウン光の森店」が10月9日リニューアル、八代市には仮設店舗も",
-   "summary_ja": "ユニクロは、熊本県菊陽町にある「ゆめタウン光の森店」を10月9日にリニューアルオープンします。さらに、熊本県八代市内にある「ゆめマート」内には、仮設店舗をオープンすることを発表しました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d7e2e4e73d43e547",
-   "url": "https://ampmedia.jp/2026/10/05/uniqlo-kyoto",
-   "title_original": "京都・河原町にグローバル旗艦店「ユニクロ 京都」11月6日オープン 西日本初「UNIQLO COFFEE」も",
-   "source": "AMP[アンプ]",
-   "image": "https://ampmedia.jp/wp-content/uploads/2026/10/2026100200_img1-jp-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T04:49:29+00:00",
-   "title_ja": "京都・河原町にユニクロ 京都が11月6日オープン",
-   "summary_ja": "京都・河原町にグローバル旗艦店として「ユニクロ 京都」が11月6日に開業します。西日本初となる「UNIQLO COFFEE」も併設されます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "786c8214289eefdc",
-   "url": "https://shikiho.toyokeizai.net/news/0/960158",
-   "title_original": "Fリテが大幅反発､9月既存店売上は前年比2桁増",
-   "source": "四季報オンライン",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-05T03:45:53+00:00",
-   "title_ja": "ファーストリテイリングが大幅反発、9月の国内既存店売上高は前年比2桁増",
-   "summary_ja": "ファーストリテイリングの株価が大幅に反発しました。同社が発表した9月の国内ユニクロ既存店売上高が、前年同月比で2桁の増加を記録したことが好感され、買いが集まっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }

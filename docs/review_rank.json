@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T05:17:39.207866+09:00",
+ "updated_at": "2026-10-17T11:02:24.808418+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2923,
+ "catalog_size": 2925,
  "count": 54,
  "items": [
   {
@@ -167,15 +167,20 @@
    "reviews7": 71,
    "capped": false,
    "prev7": 28,
-   "mentions7": 1,
+   "mentions7": 2,
    "mention_titles": [
+    {
+     "t": "【ユニクロ】SNSでバズった「スウェットストレートパンツ」大人のきれいめ着回しコーデ3選！ パーソナルスタイリストが組んでみた",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/5b9627baae4bdd576cda7b8786501787c7bc17f2/images/000"
+    },
     {
      "t": "「人生初の4色買い」ユニクロの「スウェットストレートパンツ」が期間限定2990円 「職場に余裕で着ていける」「もっと早く買えば良かった」",
      "s": "Yahoo!ニュース",
      "u": "https://news.yahoo.co.jp/articles/69575842081d7d29696015ebf09d9929b7973fe7/images/000"
     }
    ],
-   "score": 81,
+   "score": 86,
    "momentum": 1.07,
    "new": false,
    "rising": true
@@ -314,32 +319,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E464334-000",
-   "rank": 12,
-   "brand": "ユニクロ",
-   "name": "ワイヤレスブラ/ウルトラリラックス",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 2490,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/464334/item/jpgoods_21_464334_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E464334-000/00?colorDisplayCode=21",
-   "rating": 4.4,
-   "reviews": 5775,
-   "reviews7": 68,
-   "capped": false,
-   "prev7": 96,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 69,
-   "momentum": 1.02,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E361181-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "GU",
    "name": "ソフトシアーカーディガン",
    "genders": [
@@ -364,6 +345,30 @@
    ],
    "score": 69,
    "momentum": 1.08,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E464334-000",
+   "rank": 13,
+   "brand": "ユニクロ",
+   "name": "ワイヤレスブラ/ウルトラリラックス",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 2490,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/464334/item/jpgoods_21_464334_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E464334-000/00?colorDisplayCode=21",
+   "rating": 4.4,
+   "reviews": 5774,
+   "reviews7": 67,
+   "capped": false,
+   "prev7": 96,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 68,
+   "momentum": 1.02,
    "new": false,
    "rising": false
   },
@@ -441,8 +446,49 @@
    "rising": false
   },
   {
-   "key": "UQ:E487957-000",
+   "key": "UQ:E486117-000",
    "rank": 17,
+   "brand": "ユニクロ",
+   "name": "スウェットシャツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 2990,
+   "promo": 2990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486117/item/jpgoods_04_486117_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486117-000/00?colorDisplayCode=04",
+   "rating": 4.5,
+   "reviews": 30,
+   "reviews7": 11,
+   "capped": false,
+   "prev7": 12,
+   "mentions7": 8,
+   "mention_titles": [
+    {
+     "t": "【ユニクロ】映画の余韻が冷めない人必見！ちいかわスウェットシャツ3990円「刺繍が愛らしい」秋シーズンにぴったり 映画に合わせた特別なデザイン！Xで1.3万いいねの注目作はレビュー満点評価で秋の涼しい日に活躍する長袖 | 概要",
+     "s": "LIMO | くらしとお金の経済メディア",
+     "u": "https://limo.media/articles/-/142136"
+    },
+    {
+     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
+     "s": "インサイド",
+     "u": "https://s.inside-games.jp/article/2026/10/16/189364.html"
+    },
+    {
+     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム 5枚目の写真・画像",
+     "s": "インサイド",
+     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NFVpOG5hUkdmbEJ0Y1J0Ni16UmxGQ3FVUjdTWVFtZDZoME4wei1FSHdWU3JmUmE3TUNEV09Pa1FJbjFQdFM2OTZ5NEU0d3RYZGFDbG55OVNwbnN1aVRJZ3pYbEY3U1pVVklxd0hxZUVGVy1nUFU0?oc=5"
+    }
+   ],
+   "score": 59,
+   "momentum": 1.73,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E487957-000",
+   "rank": 18,
    "brand": "ユニクロ",
    "name": "スマートワイドストレートパンツ",
    "genders": [
@@ -473,7 +519,7 @@
   },
   {
    "key": "UQ:E488163-000",
-   "rank": 18,
+   "rank": 19,
    "brand": "ユニクロ",
    "name": "ドライスウェットワイドパンツ",
    "genders": [
@@ -497,7 +543,7 @@
   },
   {
    "key": "UQ:E469411-000",
-   "rank": 19,
+   "rank": 20,
    "brand": "ユニクロ",
    "name": "メリノクルーネックカーディガン",
    "genders": [
@@ -518,47 +564,6 @@
    "momentum": 1.07,
    "new": false,
    "rising": true
-  },
-  {
-   "key": "UQ:E486117-000",
-   "rank": 20,
-   "brand": "ユニクロ",
-   "name": "スウェットシャツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 2990,
-   "promo": 2990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486117/item/jpgoods_04_486117_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E486117-000/00?colorDisplayCode=04",
-   "rating": 4.5,
-   "reviews": 30,
-   "reviews7": 11,
-   "capped": false,
-   "prev7": 12,
-   "mentions7": 7,
-   "mention_titles": [
-    {
-     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
-     "s": "インサイド",
-     "u": "https://s.inside-games.jp/article/2026/10/16/189364.html"
-    },
-    {
-     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム 5枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NFVpOG5hUkdmbEJ0Y1J0Ni16UmxGQ3FVUjdTWVFtZDZoME4wei1FSHdWU3JmUmE3TUNEV09Pa1FJbjFQdFM2OTZ5NEU0d3RYZGFDbG55OVNwbnN1aVRJZ3pYbEY3U1pVVklxd0hxZUVGVy1nUFU0?oc=5"
-    },
-    {
-     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム（インサイド）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMG1XV0M1YmNXbnAtTUNobml1bmJXclVOLTBfdWQ4WUhOaXFuRVJQUlFPazYtSEpEd0FCS0FSSGVPUUVia0FJNHJWZG5TR3p6RGdiODVQNUNnV0FFbmoyZXVGV21lNU53bzJtamViX0NCSlVSSWlOeTNmd0I3YnM?oc=5"
-    }
-   ],
-   "score": 54,
-   "momentum": 1.73,
-   "new": false,
-   "rising": false
   },
   {
    "key": "GU:E360854-000",
