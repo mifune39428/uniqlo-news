@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T10:58:43.698443+09:00",
+ "updated_at": "2026-10-18T19:03:18.478451+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -86,7 +86,6 @@
   "MANTANWEB",
   "MLB.com",
   "Madrid Secreto",
-  "Man of Many",
   "Manchester Evening News",
   "Manila Standard",
   "Metro.co.uk",
@@ -186,7 +185,6 @@
   "ゴルフサプリ",
   "サンスポ",
   "ジモはる",
-  "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "テレ東BIZ",
   "トラベル Watch",
@@ -194,9 +192,7 @@
   "ビジネスジャーナル",
   "ファッションプレス",
   "ファミ通.com",
-  "マイナビ子育て",
   "マネーフォワード",
-  "モデルプレス",
   "ヨムーノ",
   "ラブすぽ",
   "千葉テレビ放送株式会社",
@@ -229,35 +225,27 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 249,
+ "detail_count": 246,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益とユニクロ・GUの新作",
+  "headline": "ファーストリテイリングが過去最高益、JWアンダーソン新作も発売",
   "points": [
    {
-    "text": "ファーストリテイリングが最新の業績で過去最高益を達成し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなりました。",
+    "text": "ファーストリテイリングが最新の業績で過去最高益を計上し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなりました。",
     "ids": [
      "71ed05fb66c21e8a",
      "06cb9c229353462a"
     ]
    },
    {
-    "text": "ユニクロは初の「本店」オープンやカナダでの新規店舗展開を進めるほか、高級ブランドの高騰により中価格帯ブランドとして存在感を高めています。",
+    "text": "ユニクロでは、演劇文化に着想を得た「UNIQLO and JW ANDERSON」の秋冬新作コレクションが発売されました。",
     "ids": [
-     "7e860c8ac115ee61",
-     "a6e2f68a741353b3",
-     "fef54843a7c16dc5"
-    ]
-   },
-   {
-    "text": "ユニクロでは演劇文化に着想を得たJWアンダーソンとの2026年秋冬コラボコレクションが発売され、多彩なアイテムが注目を集めています。",
-    "ids": [
+     "5e9c0c8fa1f56b17",
      "7226067e7fcbcea2",
-     "97ed790ff1a009bd",
-     "6ea14d5db156eb00"
+     "97ed790ff1a009bd"
     ]
    },
    {
-    "text": "GUはアニメ『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにした新作コラボ商品を12月11日に発売することを発表しました。",
+    "text": "GUは、『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにした新作コラボ商品を12月11日より発売すると発表しました。",
     "ids": [
      "755f9113604676ef",
      "db86823929f8fe8d",
@@ -265,17 +253,89 @@
     ]
    },
    {
-    "text": "SNSでは「GU ちいかわ マシュマロフィールラウンジセット」が話題となり、Xで3日に3件投稿されています。",
+    "text": "高級ブランドの高騰を背景に、ユニクロなど中価格帯ブランドを選ぶ買い手や海外での新規店舗オープンなどの動きが見られます。",
+    "ids": [
+     "a6e2f68a741353b3",
+     "fef54843a7c16dc5",
+     "e7b176491a47e686"
+    ]
+   },
+   {
+    "text": "SNSでは「GU ちいかわ コラボレーション商品」が話題となり、Xで3日に17件の投稿がありました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-15T11:05:06.769679+09:00",
-  "generated_at": "2026-10-18T11:05:08.824948+09:00",
+  "from": "2026-10-15T19:09:52.469699+09:00",
+  "generated_at": "2026-10-18T19:09:54.428457+09:00",
   "article_count": 24,
-  "sig": "a72b4b170981"
+  "sig": "5624e3c61f19"
  },
  "items": [
+  {
+   "id": "b87daaba07a59ffa",
+   "url": "https://otonanswer.jp/post/401572",
+   "title_original": "「これすごい！」GUのバレルジーンズが《2990→2490円》「とにかくシルエットがいい」「はいてびっくり！すっきり見える」",
+   "source": "オトナンサー",
+   "image": "https://otonanswer.jp/wp-content/uploads/2027/10/20261018gu001.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T09:00:00+00:00",
+   "title_ja": "GUのバレルジーンズが2990円から2490円に値下げ　シルエットの美しさが話題に",
+   "summary_ja": "GUの「バレルジーンズ」が、通常の2990円から2490円へと値下げされて販売されています。着用時のシルエットの美しさやすっきり見せられるデザインが評価され、好評を博しています。",
+   "category": "キャンペーン・セール",
+   "brand": "GU",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "64094376ae7fafc0",
+   "url": "https://news.yahoo.co.jp/articles/ee443e2ce5bda7d64a9fdd97571e99aa3c65890a",
+   "title_original": "ユニクロの「ミッフィー」新作UTが楽しみ！上品でモダンなデザインの全4種（インサイド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00000031-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T08:30:03+00:00",
+   "title_ja": "ユニクロから「ミッフィー」の新作UTが登場　上品でモダンなデザイン全4種を展開",
+   "summary_ja": "ユニクロのTシャツブランド「UT」から、「ミッフィー」をあしらった新作コレクションが展開されます。上品かつモダンなデザインに仕上げられた全4種類のアイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "08e55a46d7c9a22b",
+   "url": "https://s.inside-games.jp/article/img/2026/10/18/189447/1794763.html",
+   "title_original": "「スヌーピー」新作UTがユニクロから12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム 2枚目の写真・画像",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1794763.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T06:30:03+00:00",
+   "title_ja": "ユニクロから「スヌーピー」新作UTが12月中旬発売　スウェットやキャップなど全12種",
+   "summary_ja": "ユニクロは「スヌーピー」コレクションの新作を12月中旬に発売します。グラフィックTシャツ「UT」をはじめ、スウェットシャツやUVカットキャップなど全12アイテムがラインナップされます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b917e0657c822c33",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102127768",
+   "title_original": "有限会社 Fight & Stepが株式会社ファーストリテイリング＜9983＞株式の変更報告書を提出（保有減少）",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/f_auto,q_auto:eco/ch/units/926769117250158592/header_1.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T06:07:14+00:00",
+   "title_ja": "Fight & Stepがファーストリテイリング株の変更報告書提出　保有比率が減少",
+   "summary_ja": "有限会社Fight & Stepが、ファーストリテイリングの株式に関する変更報告書を提出しました。同社によるファーストリテイリング株式の保有割合が減少したことが公表されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "04520a9028fae3eb",
    "url": "https://manilastandard.net/business/314807103/uniqlo-reopens-gensan-store-aids-earthquake-recovery.html",
@@ -559,6 +619,22 @@
    "published": "2026-10-17T01:00:00+00:00",
    "title_ja": "ユニクロがベトナム・タインホア省との連携を拡大　生産や人材、地域社会の面で関係強化へ",
    "summary_ja": "ユニクロがベトナムのタインホア省において、生産体制の強化や人材の育成、さらには地域社会への寄与を含めた包括的な連携関係を拡大させている。多角的な面から地域とのつながりを深め、現地における事業基盤の強化を図る動きとして注目される。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8ec24ec1c1ea6a0b",
+   "url": "https://www.indianretailer.com/franchisetv/archives/news/uniqlo-opens-first-store-thane-lake-shore",
+   "title_original": "UNIQLO Opens First Store in Thane at Lake Shore",
+   "source": "Indian Retailer",
+   "image": "https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/dejfhubecj.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T00:00:00+00:00",
+   "title_ja": "ユニクロがインド・ターネーのレイクショアに地域初店舗をオープン",
+   "summary_ja": "ユニクロがインドのターネーにあるショッピングモール「レイクショア」に初出店を果たした。同地域への初進出店舗として、現地での新たな顧客層開拓や店舗網拡大を目指す。",
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
@@ -6595,86 +6671,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "3348759ebee5bc1f",
-   "url": "https://manofmany.com/style/uniqlo-pokemon-30th-anniversary-australia",
-   "title_original": "UNIQLO’s Pokémon 30th Anniversary Tees Have Landed in Australia",
-   "source": "Man of Many",
-   "image": "https://manofmany.com/wp-content/uploads/2026/10/2026-UNIQLO-Pokemon-30th-Anniversary-UT-collection-3.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T03:00:00+00:00",
-   "title_ja": "ユニクロ、ポケモン30周年記念Tシャツをオーストラリアで発売",
-   "summary_ja": "ユニクロの「ポケモン」30周年を記念したコラボレーションTシャツが、オーストラリアで発売されました。人気のキャラクターがデザインされた注目のコレクションとなっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "886885a8fb5be2ea",
-   "url": "https://www.vietnam.vn/ja/thanh-hoa-diem-den-tiep-theo-trong-chien-luoc-mo-rong-cua-uniqlo-tai-cac-do-thi-dong-luc",
-   "title_original": "タインホアは、ユニクロがダイナミックな都市への事業拡大戦略において次に進出する都市です。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/06/1791255383325_thanh-hoa-diem-w720t0-di2640d180d2092248t11200l1-k74024904.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T02:24:00.238000+00:00",
-   "title_ja": "ユニクロがベトナム・タインホアへの新規出店を決定、地方都市への拡大を加速",
-   "summary_ja": "ユニクロがベトナムのタインホア市へ新たに展開することが分かりました。同社が進めるダイナミックな都市への事業拡大戦略の一環であり、ベトナム市場における地方都市へのさらなる進出を象徴する動きとなっています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "08ccfb957a84b531",
-   "url": "https://kosodate.mynavi.jp/articles/46236",
-   "title_original": "「ユニクロ 京都」11月6日にオープン！西日本初のUNIQLO COFFEEが登場",
-   "source": "マイナビ子育て",
-   "image": "https://kosodate.mynavi.jp/uploads/article/image/46236/20261003-184036.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T02:15:00+00:00",
-   "title_ja": "新店舗「ユニクロ 京都」が11月6日オープン！西日本初のカフェも併設",
-   "summary_ja": "新たな店舗「ユニクロ 京都」が11月6日にオープンします。同店には、西日本エリアでは初となる「UNIQLO COFFEE」が併設される予定で、京都の新しい注目スポットとして期待が集まっています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c7b88820cb26a93b",
-   "url": "https://diamond-rm.net/flash_news/560079",
-   "title_original": "ユニクロ、11月6日、京都にグローバル旗艦店「ユニクロ 京都」オープン",
-   "source": "ダイヤモンド・チェーンストア",
-   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/10/image2-2.png?auto=format%2Ccompress&ixlib=php-3.3.0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T02:00:24+00:00",
-   "title_ja": "京都にグローバル旗艦店「ユニクロ 京都」がオープン",
-   "summary_ja": "11月6日、京都に新たなグローバル旗艦店となる「ユニクロ 京都」がオープンする予定であることが報じられています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d8a7cef2cfbfeb2d",
-   "url": "https://mdpr.jp/fashion/detail/4854973",
-   "title_original": "GUの「チュニック＆ワンピ」が大幅値下げ中！可愛く体型カバーできる♡早い者勝ちの名品5選",
-   "source": "モデルプレス",
-   "image": "https://img-mdpr.freetls.fastly.net/article/8s4H/nm/8s4H_XJWG2_nJRUjmOXNgDS2mf03VVNQLtohZRno9WE.png?width=700&disable=upscale&auto=webp&quality=80",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T02:00:00+00:00",
-   "title_ja": "GUがチュニックやワンピースを値下げ中、体型カバーに優れた5選",
-   "summary_ja": "ジーユー（GU）にて、体型カバー効果が期待できるチュニックやワンピースなどの対象商品が大幅に値下げされています。人気が高く早期の売り切れが予想される、おすすめのアイテム5選が紹介されています。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }

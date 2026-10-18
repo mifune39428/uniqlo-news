@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T11:01:20.127850+09:00",
+ "updated_at": "2026-10-18T19:06:25.153860+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,8 +19,8 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2925,
- "count": 60,
+ "catalog_size": 2926,
+ "count": 59,
  "items": [
   {
    "key": "UQ:E488298-000",
@@ -35,14 +35,14 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488298/item/jpgoods_03_488298_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488298-000/00?colorDisplayCode=03",
    "rating": 4.5,
-   "reviews": 725,
-   "reviews7": 125,
+   "reviews": 735,
+   "reviews7": 135,
    "capped": false,
    "prev7": 109,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 168,
-   "momentum": 1.34,
+   "score": 185,
+   "momentum": 1.37,
    "new": false,
    "rising": false
   },
@@ -84,20 +84,51 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482766/item/jpgoods_08_482766_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E482766-000/00?colorDisplayCode=08",
    "rating": 4.5,
-   "reviews": 1514,
-   "reviews7": 90,
+   "reviews": 1517,
+   "reviews7": 93,
    "capped": false,
    "prev7": 139,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 101,
+   "score": 104,
    "momentum": 1.12,
    "new": false,
    "rising": false
   },
   {
-   "key": "GU:E361781-000",
+   "key": "UQ:E483285-000",
    "rank": 4,
+   "brand": "ユニクロ",
+   "name": "スウェットストレートパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E483285-000/00?colorDisplayCode=30",
+   "rating": 4.4,
+   "reviews": 2098,
+   "reviews7": 87,
+   "capped": false,
+   "prev7": 26,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "【ユニクロ】SNSでバズった「スウェットストレートパンツ」大人のきれいめ着回しコーデ3選！ パーソナルスタイリストが組んでみた",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/5b9627baae4bdd576cda7b8786501787c7bc17f2/images/000"
+    }
+   ],
+   "score": 99,
+   "momentum": 1.08,
+   "new": false,
+   "rising": true
+  },
+  {
+   "key": "GU:E361781-000",
+   "rank": 5,
    "brand": "GU",
    "name": "フェイクムートンメリージェーンシューズ by rokh",
    "genders": [
@@ -118,37 +149,6 @@
    "momentum": 2.0,
    "new": true,
    "rising": false
-  },
-  {
-   "key": "UQ:E483285-000",
-   "rank": 5,
-   "brand": "ユニクロ",
-   "name": "スウェットストレートパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E483285-000/00?colorDisplayCode=30",
-   "rating": 4.4,
-   "reviews": 2089,
-   "reviews7": 78,
-   "capped": false,
-   "prev7": 26,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【ユニクロ】SNSでバズった「スウェットストレートパンツ」大人のきれいめ着回しコーデ3選！ パーソナルスタイリストが組んでみた",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/5b9627baae4bdd576cda7b8786501787c7bc17f2/images/000"
-    }
-   ],
-   "score": 88,
-   "momentum": 1.07,
-   "new": false,
-   "rising": true
   },
   {
    "key": "GU:E358176-000",
@@ -199,8 +199,33 @@
    "rising": true
   },
   {
-   "key": "UQ:E487178-000",
+   "key": "UQ:E465193-000",
    "rank": 8,
+   "brand": "ユニクロ",
+   "name": "エアリズムコットンクルーネックTシャツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 1990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_30_465193_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=30",
+   "rating": 4.5,
+   "reviews": 9891,
+   "reviews7": 81,
+   "capped": false,
+   "prev7": 66,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 83,
+   "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E487178-000",
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "エアリズムシームレスVネックブラキャミソール",
    "genders": [
@@ -211,20 +236,20 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487178/item/jpgoods_09_487178_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487178-000/00?colorDisplayCode=09",
    "rating": 4.1,
-   "reviews": 303,
-   "reviews7": 56,
+   "reviews": 306,
+   "reviews7": 59,
    "capped": false,
    "prev7": 22,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 77,
-   "momentum": 1.37,
+   "score": 82,
+   "momentum": 1.39,
    "new": false,
    "rising": true
   },
   {
    "key": "UQ:E489493-000",
-   "rank": 9,
+   "rank": 10,
    "brand": "ユニクロ",
    "name": "イタリアンレザーロングベルト",
    "genders": [
@@ -236,8 +261,8 @@
    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489493/item/goods_09_489493_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E489493-000/00?colorDisplayCode=09",
    "rating": 4.3,
-   "reviews": 221,
-   "reviews7": 47,
+   "reviews": 223,
+   "reviews7": 49,
    "capped": false,
    "prev7": 70,
    "mentions7": 2,
@@ -253,39 +278,55 @@
      "u": "https://news.yahoo.co.jp/articles/7162347a9d21a3193408f5c5bea4b8eb63f3a49c"
     }
    ],
-   "score": 77,
-   "momentum": 1.43,
+   "score": 81,
+   "momentum": 1.44,
    "new": false,
    "rising": false
   },
   {
-   "key": "UQ:E465193-000",
-   "rank": 10,
+   "key": "UQ:E486117-000",
+   "rank": 11,
    "brand": "ユニクロ",
-   "name": "エアリズムコットンクルーネックTシャツ",
+   "name": "スウェットシャツ",
    "genders": [
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_30_465193_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=30",
+   "price": 2990,
+   "promo": 2990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486117/item/jpgoods_04_486117_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486117-000/00?colorDisplayCode=04",
    "rating": 4.5,
-   "reviews": 9885,
-   "reviews7": 75,
+   "reviews": 32,
+   "reviews7": 13,
    "capped": false,
-   "prev7": 66,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 76,
-   "momentum": 1.02,
+   "prev7": 11,
+   "mentions7": 11,
+   "mention_titles": [
+    {
+     "t": "「スヌーピー」新作UTがユニクロから12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム 2枚目の写真・画像",
+     "s": "インサイド",
+     "u": "https://s.inside-games.jp/article/img/2026/10/18/189447/1794763.html"
+    },
+    {
+     "t": "「スヌーピー」新作UTがユニクロから12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
+     "s": "インサイド",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQ1BKQ2ZYanVuLUo4cVZWXy1YNWZiU0pmOXBkdWhrRk8yRFdEd0d0WWhIOW0xdERpdlFJSktYTUtkUmtNNlRkVmRGZnk1UUxsQ1RQVnVFUXVYTm5hVVFuLWJIbWxKcU5fRHc?oc=5"
+    },
+    {
+     "t": "【ユニクロ】映画の余韻が冷めない人必見！ちいかわスウェットシャツ3990円「刺繍が愛らしい」秋シーズンにぴったり 映画に合わせた特別なデザイン！Xで1.3万いいねの注目作はレビュー満点評価で秋の涼しい日に活躍する長袖 | 概要",
+     "s": "LIMO | くらしとお金の経済メディア",
+     "u": "https://limo.media/articles/-/142136"
+    }
+   ],
+   "score": 79,
+   "momentum": 1.81,
    "new": false,
    "rising": false
   },
   {
    "key": "UQ:E487908-000",
-   "rank": 11,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "リブヘンリーネックT",
    "genders": [
@@ -296,20 +337,20 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487908/item/jpgoods_79_487908_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487908-000/00?colorDisplayCode=79",
    "rating": 4.2,
-   "reviews": 1619,
-   "reviews7": 68,
+   "reviews": 1623,
+   "reviews7": 72,
    "capped": false,
    "prev7": 83,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 73,
-   "momentum": 1.08,
+   "score": 78,
+   "momentum": 1.09,
    "new": false,
    "rising": false
   },
   {
    "key": "GU:E361181-000",
-   "rank": 12,
+   "rank": 13,
    "brand": "GU",
    "name": "ソフトシアーカーディガン",
    "genders": [
@@ -338,47 +379,6 @@
    "rising": false
   },
   {
-   "key": "UQ:E486117-000",
-   "rank": 13,
-   "brand": "ユニクロ",
-   "name": "スウェットシャツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 2990,
-   "promo": 2990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486117/item/jpgoods_04_486117_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E486117-000/00?colorDisplayCode=04",
-   "rating": 4.5,
-   "reviews": 31,
-   "reviews7": 12,
-   "capped": false,
-   "prev7": 11,
-   "mentions7": 9,
-   "mention_titles": [
-    {
-     "t": "【ユニクロ】映画の余韻が冷めない人必見！ちいかわスウェットシャツ3990円「刺繍が愛らしい」秋シーズンにぴったり 映画に合わせた特別なデザイン！Xで1.3万いいねの注目作はレビュー満点評価で秋の涼しい日に活躍する長袖 | 概要",
-     "s": "LIMO | くらしとお金の経済メディア",
-     "u": "https://limo.media/articles/-/142136"
-    },
-    {
-     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
-     "s": "インサイド",
-     "u": "https://s.inside-games.jp/article/2026/10/16/189364.html"
-    },
-    {
-     "t": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム 5枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40NFVpOG5hUkdmbEJ0Y1J0Ni16UmxGQ3FVUjdTWVFtZDZoME4wei1FSHdWU3JmUmE3TUNEV09Pa1FJbjFQdFM2OTZ5NEU0d3RYZGFDbG55OVNwbnN1aVRJZ3pYbEY3U1pVVklxd0hxZUVGVy1nUFU0?oc=5"
-    }
-   ],
-   "score": 66,
-   "momentum": 1.77,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E469411-000",
    "rank": 14,
    "brand": "ユニクロ",
@@ -391,20 +391,124 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/469411/item/jpgoods_05_469411_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E469411-000/00?colorDisplayCode=05",
    "rating": 4.3,
-   "reviews": 1561,
-   "reviews7": 60,
+   "reviews": 1567,
+   "reviews7": 66,
    "capped": false,
    "prev7": 15,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 65,
+   "score": 71,
    "momentum": 1.08,
    "new": false,
    "rising": true
   },
   {
-   "key": "GU:E361784-000",
+   "key": "UQ:E471809-000",
    "rank": 15,
+   "brand": "ユニクロ",
+   "name": "スウェットワイドパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_08_471809_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E471809-000/00?colorDisplayCode=08",
+   "rating": 4.6,
+   "reviews": 8164,
+   "reviews7": 69,
+   "capped": false,
+   "prev7": 36,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 70,
+   "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488163-000",
+   "rank": 16,
+   "brand": "ユニクロ",
+   "name": "ドライスウェットワイドパンツ",
+   "genders": [
+    "キッズ"
+   ],
+   "price": 1990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488163/item/jpgoods_03_488163_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488163-000/00?colorDisplayCode=03",
+   "rating": 4.5,
+   "reviews": 139,
+   "reviews7": 42,
+   "capped": false,
+   "prev7": 21,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 67,
+   "momentum": 1.6,
+   "new": false,
+   "rising": true
+  },
+  {
+   "key": "UQ:E464334-000",
+   "rank": 17,
+   "brand": "ユニクロ",
+   "name": "ワイヤレスブラ/ウルトラリラックス",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 2490,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/464334/item/jpgoods_21_464334_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E464334-000/00?colorDisplayCode=21",
+   "rating": 4.4,
+   "reviews": 5780,
+   "reviews7": 65,
+   "capped": false,
+   "prev7": 90,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 66,
+   "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E487957-000",
+   "rank": 18,
+   "brand": "ユニクロ",
+   "name": "スマートワイドストレートパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487957/item/jpgoods_08_487957_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E487957-000/00?colorDisplayCode=08",
+   "rating": 4,
+   "reviews": 455,
+   "reviews7": 50,
+   "capped": false,
+   "prev7": 57,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "ユニクロ「スマートワイドストレートパンツ」を40代がサイズ違いで2枚買い！高見え＆着まわし力抜群 (ESSE-online)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/d4a4f4f6bd0d21e358d60278b1813dc0b858957d/images/000"
+    }
+   ],
+   "score": 66,
+   "momentum": 1.22,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E361784-000",
+   "rank": 19,
    "brand": "GU",
    "name": "スウェットバルーンスリーブフルジップパーカ(スーパーオーバーサイズフィット)",
    "genders": [
@@ -428,7 +532,7 @@
   },
   {
    "key": "GU:E361435-000",
-   "rank": 16,
+   "rank": 20,
    "brand": "GU",
    "name": "KIDSウルトラストレッチスキニージーンズ",
    "genders": [
@@ -451,136 +555,8 @@
    "rising": true
   },
   {
-   "key": "UQ:E464334-000",
-   "rank": 17,
-   "brand": "ユニクロ",
-   "name": "ワイヤレスブラ/ウルトラリラックス",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 2490,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/464334/item/jpgoods_21_464334_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E464334-000/00?colorDisplayCode=21",
-   "rating": 4.4,
-   "reviews": 5775,
-   "reviews7": 60,
-   "capped": false,
-   "prev7": 90,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 61,
-   "momentum": 1.02,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E471809-000",
-   "rank": 18,
-   "brand": "ユニクロ",
-   "name": "スウェットワイドパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_08_471809_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E471809-000/00?colorDisplayCode=08",
-   "rating": 4.6,
-   "reviews": 8153,
-   "reviews7": 58,
-   "capped": false,
-   "prev7": 36,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 59,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E488163-000",
-   "rank": 19,
-   "brand": "ユニクロ",
-   "name": "ドライスウェットワイドパンツ",
-   "genders": [
-    "キッズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488163/item/jpgoods_03_488163_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488163-000/00?colorDisplayCode=03",
-   "rating": 4.5,
-   "reviews": 135,
-   "reviews7": 38,
-   "capped": false,
-   "prev7": 21,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 59,
-   "momentum": 1.56,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E465751-000",
-   "rank": 20,
-   "brand": "ユニクロ",
-   "name": "ソフトリブクルーネックT",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_09_465751_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465751-000/00?colorDisplayCode=09",
-   "rating": 4.6,
-   "reviews": 5078,
-   "reviews7": 55,
-   "capped": false,
-   "prev7": 24,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 56,
-   "momentum": 1.02,
-   "new": false,
-   "rising": true
-  },
-  {
-   "key": "UQ:E487957-000",
-   "rank": 21,
-   "brand": "ユニクロ",
-   "name": "スマートワイドストレートパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487957/item/jpgoods_08_487957_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E487957-000/00?colorDisplayCode=08",
-   "rating": 4,
-   "reviews": 448,
-   "reviews7": 43,
-   "capped": false,
-   "prev7": 57,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "ユニクロ「スマートワイドストレートパンツ」を40代がサイズ違いで2枚買い！高見え＆着まわし力抜群 (ESSE-online)",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/d4a4f4f6bd0d21e358d60278b1813dc0b858957d/images/000"
-    }
-   ],
-   "score": 56,
-   "momentum": 1.19,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E475344-000",
-   "rank": 22,
+   "rank": 21,
    "brand": "ユニクロ",
    "name": "ジャージーバレルレッグパンツ",
    "genders": [
@@ -592,16 +568,41 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
    "rating": 4.5,
-   "reviews": 5804,
-   "reviews7": 47,
+   "reviews": 5810,
+   "reviews7": 53,
    "capped": false,
    "prev7": 47,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 48,
+   "score": 54,
    "momentum": 1.02,
    "new": false,
    "rising": false
+  },
+  {
+   "key": "UQ:E492123-000",
+   "rank": 22,
+   "brand": "ユニクロ",
+   "name": "デニムリラックスシャツジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/492123/item/jpgoods_65_492123_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E492123-000/00?colorDisplayCode=65",
+   "rating": 4.5,
+   "reviews": 181,
+   "reviews7": 38,
+   "capped": false,
+   "prev7": 17,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 54,
+   "momentum": 1.42,
+   "new": false,
+   "rising": true
   },
   {
    "key": "GU:E360854-000",
@@ -628,8 +629,58 @@
    "rising": false
   },
   {
-   "key": "GU:E360654-000",
+   "key": "UQ:E479000-000",
    "rank": 24,
+   "brand": "ユニクロ",
+   "name": "バギーバレルレッグジーンズ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479000/item/jpgoods_68_479000_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E479000-000/00?colorDisplayCode=68",
+   "rating": 4.5,
+   "reviews": 3367,
+   "reviews7": 45,
+   "capped": false,
+   "prev7": 23,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 46,
+   "momentum": 1.03,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E465185-000",
+   "rank": 25,
+   "brand": "ユニクロ",
+   "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 1990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465185/item/jpgoods_18_465185_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E465185-000/00?colorDisplayCode=18",
+   "rating": 4.5,
+   "reviews": 15144,
+   "reviews7": 45,
+   "capped": false,
+   "prev7": 56,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 45,
+   "momentum": 1.01,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E360654-000",
+   "rank": 26,
    "brand": "GU",
    "name": "タックワイドパンツ",
    "genders": [
@@ -653,7 +704,7 @@
   },
   {
    "key": "GU:E360647-000",
-   "rank": 25,
+   "rank": 27,
    "brand": "GU",
    "name": "3Dバレルジーンズ",
    "genders": [
@@ -678,7 +729,7 @@
   },
   {
    "key": "GU:E361303-000",
-   "rank": 26,
+   "rank": 28,
    "brand": "GU",
    "name": "フリルスカート by rokh",
    "genders": [
@@ -701,83 +752,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E479000-000",
-   "rank": 27,
-   "brand": "ユニクロ",
-   "name": "バギーバレルレッグジーンズ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479000/item/jpgoods_68_479000_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E479000-000/00?colorDisplayCode=68",
-   "rating": 4.5,
-   "reviews": 3363,
-   "reviews7": 41,
-   "capped": false,
-   "prev7": 23,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 42,
-   "momentum": 1.02,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E465185-000",
-   "rank": 28,
-   "brand": "ユニクロ",
-   "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465185/item/jpgoods_18_465185_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465185-000/00?colorDisplayCode=18",
-   "rating": 4.5,
-   "reviews": 15140,
-   "reviews7": 41,
-   "capped": false,
-   "prev7": 56,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 41,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E492123-000",
-   "rank": 29,
-   "brand": "ユニクロ",
-   "name": "デニムリラックスシャツジャケット",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/492123/item/jpgoods_65_492123_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E492123-000/00?colorDisplayCode=65",
-   "rating": 4.5,
-   "reviews": 173,
-   "reviews7": 30,
-   "capped": false,
-   "prev7": 17,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 40,
-   "momentum": 1.35,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E484855-000",
-   "rank": 30,
+   "rank": 29,
    "brand": "ユニクロ",
    "name": "スウェットストレートパンツ/丈短め",
    "genders": [
@@ -789,20 +765,20 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484855/item/jpgoods_03_484855_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E484855-000/00?colorDisplayCode=03",
    "rating": 4.4,
-   "reviews": 873,
-   "reviews7": 36,
+   "reviews": 876,
+   "reviews7": 39,
    "capped": false,
    "prev7": 13,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 39,
-   "momentum": 1.08,
+   "score": 43,
+   "momentum": 1.09,
    "new": false,
    "rising": true
   },
   {
    "key": "GU:E362202-000",
-   "rank": 31,
+   "rank": 30,
    "brand": "GU",
    "name": "シアードットT(長袖)",
    "genders": [
@@ -826,7 +802,7 @@
   },
   {
    "key": "GU:E362865-000",
-   "rank": 32,
+   "rank": 31,
    "brand": "GU",
    "name": "フリースジャケット(バイカラー) by rokh",
    "genders": [
@@ -850,7 +826,7 @@
   },
   {
    "key": "GU:E361524-000",
-   "rank": 33,
+   "rank": 32,
    "brand": "GU",
    "name": "ソフトコットンクルーネックT(長袖)",
    "genders": [
@@ -870,6 +846,32 @@
    "mention_titles": [],
    "score": 31,
    "momentum": 1.47,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E491700-000",
+   "rank": 33,
+   "brand": "ユニクロ",
+   "name": "エアリズム3Dマスク/2枚組",
+   "genders": [
+    "ウィメンズ",
+    "メンズ",
+    "キッズ"
+   ],
+   "price": 990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/491700/item/goods_69_491700_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E491700-000/00?colorDisplayCode=69",
+   "rating": 4.4,
+   "reviews": 830,
+   "reviews7": 28,
+   "capped": false,
+   "prev7": 41,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 30,
+   "momentum": 1.07,
    "new": false,
    "rising": false
   },
@@ -899,30 +901,28 @@
    "rising": false
   },
   {
-   "key": "UQ:E491700-000",
+   "key": "UQ:E485421-000",
    "rank": 35,
    "brand": "ユニクロ",
-   "name": "エアリズム3Dマスク/2枚組",
+   "name": "エアリズムウルトラストレッチセット",
    "genders": [
-    "ウィメンズ",
-    "メンズ",
     "キッズ"
    ],
-   "price": 990,
+   "price": 2490,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/491700/item/goods_69_491700_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E491700-000/00?colorDisplayCode=69",
-   "rating": 4.4,
-   "reviews": 826,
-   "reviews7": 24,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485421/item/jpgoods_67_485421_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E485421-000/00?colorDisplayCode=67",
+   "rating": 4.6,
+   "reviews": 13,
+   "reviews7": 10,
    "capped": false,
-   "prev7": 41,
+   "prev7": 2,
    "mentions7": 0,
    "mention_titles": [],
    "score": 25,
-   "momentum": 1.06,
+   "momentum": 2.54,
    "new": false,
-   "rising": false
+   "rising": true
   },
   {
    "key": "GU:E360408-000",
@@ -1049,32 +1049,8 @@
    "rising": true
   },
   {
-   "key": "UQ:E485421-000",
-   "rank": 41,
-   "brand": "ユニクロ",
-   "name": "エアリズムウルトラストレッチセット",
-   "genders": [
-    "キッズ"
-   ],
-   "price": 2490,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485421/item/jpgoods_67_485421_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E485421-000/00?colorDisplayCode=67",
-   "rating": 4.5,
-   "reviews": 11,
-   "reviews7": 8,
-   "capped": false,
-   "prev7": 2,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 20,
-   "momentum": 2.45,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E361529-000",
-   "rank": 42,
+   "rank": 41,
    "brand": "GU",
    "name": "KIDS 3Dバレルジーンズ",
    "genders": [
@@ -1098,7 +1074,7 @@
   },
   {
    "key": "UQ:E488426-000",
-   "rank": 43,
+   "rank": 42,
    "brand": "ユニクロ",
    "name": "ドライスウェットパンツ",
    "genders": [
@@ -1122,7 +1098,7 @@
   },
   {
    "key": "UQ:E488642-000",
-   "rank": 44,
+   "rank": 43,
    "brand": "ユニクロ",
    "name": "絵本コレクション パジャマ/はらぺこあおむし",
    "genders": [
@@ -1141,6 +1117,30 @@
    "mention_titles": [],
    "score": 17,
    "momentum": 2.4,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488922-000",
+   "rank": 44,
+   "brand": "ユニクロ",
+   "name": "レギンス/10分丈/リラックスフィット",
+   "genders": [
+    "キッズ"
+   ],
+   "price": 790,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488922/item/goods_03_488922_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488922-000/00?colorDisplayCode=03",
+   "rating": 4.7,
+   "reviews": 39,
+   "reviews7": 10,
+   "capped": false,
+   "prev7": 7,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 15,
+   "momentum": 1.51,
    "new": false,
    "rising": false
   },
@@ -1169,8 +1169,34 @@
    "rising": false
   },
   {
-   "key": "GU:E360691-000",
+   "key": "UQ:E492111-000",
    "rank": 46,
+   "brand": "ユニクロ",
+   "name": "ラウンドミニショルダーバッグ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ",
+    "キッズ"
+   ],
+   "price": 1500,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/492111/item/goods_32_492111_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E492111-000/00?colorDisplayCode=32",
+   "rating": 4.3,
+   "reviews": 155,
+   "reviews7": 11,
+   "capped": false,
+   "prev7": 15,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 13,
+   "momentum": 1.14,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E360691-000",
+   "rank": 47,
    "brand": "GU",
    "name": "KIDSデニムストレッチストレートパンツ",
    "genders": [
@@ -1194,7 +1220,7 @@
   },
   {
    "key": "GU:E360495-000",
-   "rank": 47,
+   "rank": 48,
    "brand": "GU",
    "name": "GIRLSスムーススウェットフルジップパーカ",
    "genders": [
@@ -1217,52 +1243,26 @@
    "rising": false
   },
   {
-   "key": "UQ:E492111-000",
-   "rank": 48,
-   "brand": "ユニクロ",
-   "name": "ラウンドミニショルダーバッグ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ",
-    "キッズ"
-   ],
-   "price": 1500,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/492111/item/goods_32_492111_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E492111-000/00?colorDisplayCode=32",
-   "rating": 4.3,
-   "reviews": 153,
-   "reviews7": 9,
-   "capped": false,
-   "prev7": 15,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 10,
-   "momentum": 1.12,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E488922-000",
+   "key": "UQ:E491284-000",
    "rank": 49,
    "brand": "ユニクロ",
-   "name": "レギンス/10分丈/リラックスフィット",
+   "name": "GIRLS ちいかわ スウェットシャツ",
    "genders": [
     "キッズ"
    ],
-   "price": 790,
+   "price": 1990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488922/item/goods_03_488922_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488922-000/00?colorDisplayCode=03",
-   "rating": 4.7,
-   "reviews": 36,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/491284/item/jpgoods_51_491284_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E491284-000/00?colorDisplayCode=51",
+   "rating": 4.8,
+   "reviews": 37,
    "reviews7": 7,
    "capped": false,
-   "prev7": 7,
+   "prev7": 5,
    "mentions7": 0,
    "mention_titles": [],
    "score": 10,
-   "momentum": 1.39,
+   "momentum": 1.38,
    "new": false,
    "rising": false
   },
@@ -1363,56 +1363,32 @@
    "rising": false
   },
   {
-   "key": "UQ:E491996-000",
+   "key": "UQ:E486637-000",
    "rank": 54,
    "brand": "ユニクロ",
-   "name": "ソフトフラッフィブランケット",
+   "name": "ジャージーレギュラーフィットジーンズ",
    "genders": [
     "キッズ"
    ],
-   "price": 2490,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/491996/item/goods_32_491996_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E491996-000/00?colorDisplayCode=32",
-   "rating": 5,
-   "reviews": 15,
-   "reviews7": 5,
+   "price": 1990,
+   "promo": 1990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486637/item/jpgoods_64_486637_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486637-000/00?colorDisplayCode=64",
+   "rating": 4.2,
+   "reviews": 30,
+   "reviews7": 6,
    "capped": false,
-   "prev7": null,
+   "prev7": 9,
    "mentions7": 0,
    "mention_titles": [],
    "score": 8,
-   "momentum": 1.67,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E489012-000",
-   "rank": 55,
-   "brand": "ユニクロ",
-   "name": "クルーネックT",
-   "genders": [
-    "キッズ"
-   ],
-   "price": 1290,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/489012/item/goods_68_489012_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E489012-000/00?colorDisplayCode=68",
-   "rating": 5,
-   "reviews": 4,
-   "reviews7": 3,
-   "capped": false,
-   "prev7": 0,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 8,
-   "momentum": 2.5,
+   "momentum": 1.4,
    "new": false,
    "rising": false
   },
   {
    "key": "GU:E359381-000",
-   "rank": 56,
+   "rank": 55,
    "brand": "GU",
    "name": "GIRLSパフスウェットカーゴバレルレッグパンツJR",
    "genders": [
@@ -1436,7 +1412,7 @@
   },
   {
    "key": "GU:E358828-000",
-   "rank": 57,
+   "rank": 56,
    "brand": "GU",
    "name": "GIRLSドライリボンカーゴパンツ",
    "genders": [
@@ -1460,7 +1436,7 @@
   },
   {
    "key": "GU:E360427-001",
-   "rank": 58,
+   "rank": 57,
    "brand": "GU",
    "name": "KIDSグラフィックT パペットスンスン",
    "genders": [
@@ -1484,7 +1460,7 @@
   },
   {
    "key": "GU:E362801-000",
-   "rank": 59,
+   "rank": 58,
    "brand": "GU",
    "name": "GIRLSソフトシアー2ピースカーディガンセット",
    "genders": [
@@ -1508,7 +1484,7 @@
   },
   {
    "key": "GU:E360863-000",
-   "rank": 60,
+   "rank": 59,
    "brand": "GU",
    "name": "GIRLSフェザーヤーンフラワーボタンカーディガン",
    "genders": [
