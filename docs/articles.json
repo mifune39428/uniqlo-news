@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T19:03:18.478451+09:00",
+ "updated_at": "2026-10-19T00:03:10.437235+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -227,25 +227,25 @@
  "count": 400,
  "detail_count": 246,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益、JWアンダーソン新作も発売",
+  "headline": "ファーストリテイリングが過去最高益を達成し世界2位へ浮上見通し",
   "points": [
    {
-    "text": "ファーストリテイリングが最新の業績で過去最高益を計上し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなりました。",
+    "text": "ファーストリテイリングの最新業績が過去最高益を計上し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなりました。",
     "ids": [
      "71ed05fb66c21e8a",
      "06cb9c229353462a"
     ]
    },
    {
-    "text": "ユニクロでは、演劇文化に着想を得た「UNIQLO and JW ANDERSON」の秋冬新作コレクションが発売されました。",
+    "text": "ユニクロは初の「本店」オープン計画や、演劇文化から着想を得たJWアンダーソンとの秋冬コレクション発売を発表しました。",
     "ids": [
-     "5e9c0c8fa1f56b17",
-     "7226067e7fcbcea2",
-     "97ed790ff1a009bd"
+     "7e860c8ac115ee61",
+     "97ed790ff1a009bd",
+     "6ea14d5db156eb00"
     ]
    },
    {
-    "text": "GUは、『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにした新作コラボ商品を12月11日より発売すると発表しました。",
+    "text": "GUはアニメ『ジョジョの奇妙な冒険』の歴代宿敵をモチーフにしたコラボ商品を12月11日に発売すると発表しました。",
     "ids": [
      "755f9113604676ef",
      "db86823929f8fe8d",
@@ -253,23 +253,15 @@
     ]
    },
    {
-    "text": "高級ブランドの高騰を背景に、ユニクロなど中価格帯ブランドを選ぶ買い手や海外での新規店舗オープンなどの動きが見られます。",
-    "ids": [
-     "a6e2f68a741353b3",
-     "fef54843a7c16dc5",
-     "e7b176491a47e686"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ コラボレーション商品」が話題となり、Xで3日に17件の投稿がありました。",
+    "text": "GU タックワイドパンツがSNSで話題となり、Xで3日に10件の投稿を記録しています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-15T19:09:52.469699+09:00",
-  "generated_at": "2026-10-18T19:09:54.428457+09:00",
+  "from": "2026-10-16T00:08:05.876690+09:00",
+  "generated_at": "2026-10-19T00:08:07.441184+09:00",
   "article_count": 24,
-  "sig": "5624e3c61f19"
+  "sig": "e95bb3ae359b"
  },
  "items": [
   {
@@ -289,6 +281,22 @@
    "has_detail": true
   },
   {
+   "id": "ccd68570460b92e5",
+   "url": "https://s.inside-games.jp/article/img/2026/10/18/189453/1792683.html",
+   "title_original": "ユニクロの「ミッフィー」新作UTが楽しみ！上品でモダンなデザインの全4種 2枚目の写真・画像",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1792683.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T08:30:03+00:00",
+   "title_ja": "ユニクロから「ミッフィー」新作UT全4種が登場",
+   "summary_ja": "上品でモダンなデザインが特徴の、ユニクロ「ミッフィー」新作UT全4種の発売を楽しみに伝えるニュース。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "64094376ae7fafc0",
    "url": "https://news.yahoo.co.jp/articles/ee443e2ce5bda7d64a9fdd97571e99aa3c65890a",
    "title_original": "ユニクロの「ミッフィー」新作UTが楽しみ！上品でモダンなデザインの全4種（インサイド）",
@@ -302,7 +310,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "08e55a46d7c9a22b",
@@ -318,7 +326,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b917e0657c822c33",
@@ -334,6 +342,22 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
+   "detail_tries": 2
+  },
+  {
+   "id": "c598a716d46114ba",
+   "url": "https://media.unisba.ac.id/ebdfad00/1c18b476JtV4v1jilRs",
+   "title_original": "緊急速報！ユニクロとスヌーピーコラボ新商品情報/サッポロ一番さんとコラボ！！ Cathay Pacific (8Pz4Gjd4Qd)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T00:16:20+00:00",
+   "title_ja": "ユニクロがスヌーピーコラボの新商品を発売へ",
+   "summary_ja": "ユニクロがスヌーピーとのコラボレーションによる新商品の展開を予定していることが明らかになりました。詳細な発売日やラインナップについては今後の発表が注目されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "detail_tries": 1
   },
   {
@@ -6639,38 +6663,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "0d7102e301910f1d",
-   "url": "https://news.yahoo.co.jp/articles/4b9dac890bb4b11b20ee3203ae3b151d61984383",
-   "title_original": "綾瀬はるか出演、ユニクロ「ヒートテック」のCM「ヒートテックと生きていく」篇で流れる曲は？（CDJournal）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000031-cdj-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T04:15:56+00:00",
-   "title_ja": "綾瀬はるか出演のユニクロ「ヒートテック」新CMで起用されている楽曲を紹介",
-   "summary_ja": "女優の綾瀬はるかさんが出演するユニクロ「ヒートテック」の新CM「ヒートテックと生きていく」篇が放映されています。この記事では、このテレビCMの中で使用されている注目のCMソングについて紹介しています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "48167756bdc244c8",
-   "url": "https://news.yahoo.co.jp/articles/a9f1a1b4501c275b1eeaba278319cb60dbd078be/images/000",
-   "title_original": "着やせと垢抜けが叶う＞ユニクロの光沢セーターが期間限定2990円！「高見えする」「S・M・Lを着回すほど大好き」「骨格ストレートの神アイテム」と絶賛 (婦人公論.jp)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnevPNPH1J6YNcp1_x-9IM9OZZ-DCh3YSfwUxxfnp9TIxht_zlQiAcsy-rryyBYB4WxwCT1BwbF5fjM1xMPm73UKQvfGdHCKB5YYSrQnozXr7",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T03:30:38+00:00",
-   "title_ja": "ユニクロの光沢セーターが期間限定で2990円に！骨格ストレート向け神アイテムと話題",
-   "summary_ja": "ユニクロの光沢セーターが期間限定で2990円に値下げされ、注目を集めています。着用時の着やせ効果や上品な質感が好評で、異なるサイズを買い揃えて着回すファンもいるなど、骨格ストレートの人を中心に絶賛されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
