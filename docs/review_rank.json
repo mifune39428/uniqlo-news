@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T04:49:59.657427+09:00",
+ "updated_at": "2026-10-18T11:01:20.127850+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2927,
+ "catalog_size": 2925,
  "count": 60,
  "items": [
   {
@@ -628,38 +628,8 @@
    "rising": false
   },
   {
-   "key": "GU:E363515-000",
-   "rank": 24,
-   "brand": "GU",
-   "name": "ドレープネックT(長袖)",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/363515/item/jpgoods_01_363515_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E363515-000/00?colorDisplayCode=01",
-   "rating": 4.3,
-   "reviews": 44,
-   "reviews7": 21,
-   "capped": false,
-   "prev7": 19,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【GU】売り切れ寸前。1990円の新作「ドレープネックT」が高見えしすぎて色違い買い！着心地＆注意点をリアルレビュー",
-     "s": "TRILL",
-     "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnb3hXeWY5Rm03UEE3WHFhRU1DQVV5bFdGVy1yMmhIcDk2V0R1SDdQd1RScDRtMmRlM1RFTmNsQ1QxcEs1UFNRSU1Qb2wtWlE?oc=5"
-    }
-   ],
-   "score": 46,
-   "momentum": 1.95,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E360654-000",
-   "rank": 25,
+   "rank": 24,
    "brand": "GU",
    "name": "タックワイドパンツ",
    "genders": [
@@ -683,7 +653,7 @@
   },
   {
    "key": "GU:E360647-000",
-   "rank": 26,
+   "rank": 25,
    "brand": "GU",
    "name": "3Dバレルジーンズ",
    "genders": [
@@ -708,7 +678,7 @@
   },
   {
    "key": "GU:E361303-000",
-   "rank": 27,
+   "rank": 26,
    "brand": "GU",
    "name": "フリルスカート by rokh",
    "genders": [
@@ -732,7 +702,7 @@
   },
   {
    "key": "UQ:E479000-000",
-   "rank": 28,
+   "rank": 27,
    "brand": "ユニクロ",
    "name": "バギーバレルレッグジーンズ",
    "genders": [
@@ -757,7 +727,7 @@
   },
   {
    "key": "UQ:E465185-000",
-   "rank": 29,
+   "rank": 28,
    "brand": "ユニクロ",
    "name": "エアリズムコットンオーバーサイズTシャツ/5分袖",
    "genders": [
@@ -782,7 +752,7 @@
   },
   {
    "key": "UQ:E492123-000",
-   "rank": 30,
+   "rank": 29,
    "brand": "ユニクロ",
    "name": "デニムリラックスシャツジャケット",
    "genders": [
@@ -807,7 +777,7 @@
   },
   {
    "key": "UQ:E484855-000",
-   "rank": 31,
+   "rank": 30,
    "brand": "ユニクロ",
    "name": "スウェットストレートパンツ/丈短め",
    "genders": [
@@ -832,7 +802,7 @@
   },
   {
    "key": "GU:E362202-000",
-   "rank": 32,
+   "rank": 31,
    "brand": "GU",
    "name": "シアードットT(長袖)",
    "genders": [
@@ -851,6 +821,30 @@
    "mention_titles": [],
    "score": 37,
    "momentum": 1.16,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E362865-000",
+   "rank": 32,
+   "brand": "GU",
+   "name": "フリースジャケット(バイカラー) by rokh",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/362865/item/jpgoods_37_362865_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E362865-000/00?colorDisplayCode=37",
+   "rating": 4.6,
+   "reviews": 34,
+   "reviews7": 18,
+   "capped": false,
+   "prev7": null,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 37,
+   "momentum": 2.06,
    "new": false,
    "rising": false
   },
