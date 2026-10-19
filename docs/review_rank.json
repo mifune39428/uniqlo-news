@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T04:51:33.347634+09:00",
+ "updated_at": "2026-10-19T11:18:42.195835+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2936,
+ "catalog_size": 2937,
  "count": 53,
  "items": [
   {
@@ -84,8 +84,8 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E483285-000/00?colorDisplayCode=30",
    "rating": 4.4,
-   "reviews": 2113,
-   "reviews7": 88,
+   "reviews": 2112,
+   "reviews7": 87,
    "capped": false,
    "prev7": 36,
    "mentions7": 1,
@@ -96,7 +96,7 @@
      "u": "https://news.yahoo.co.jp/articles/5b9627baae4bdd576cda7b8786501787c7bc17f2/images/000"
     }
    ],
-   "score": 100,
+   "score": 99,
    "momentum": 1.08,
    "new": false,
    "rising": true
@@ -395,7 +395,7 @@
    "mention_titles": [],
    "score": 67,
    "momentum": 1.76,
-   "new": true,
+   "new": false,
    "rising": false
   },
   {
@@ -637,13 +637,13 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479000/item/jpgoods_68_479000_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E479000-000/00?colorDisplayCode=68",
    "rating": 4.5,
-   "reviews": 3370,
-   "reviews7": 41,
+   "reviews": 3369,
+   "reviews7": 40,
    "capped": false,
    "prev7": 25,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 42,
+   "score": 41,
    "momentum": 1.02,
    "new": false,
    "rising": false

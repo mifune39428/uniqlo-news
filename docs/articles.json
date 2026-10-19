@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T04:49:29.087020+09:00",
+ "updated_at": "2026-10-19T11:15:59.132038+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -122,11 +122,9 @@
   "San Francisco Chronicle",
   "San Francisco Examiner",
   "Secret Manchester",
-  "Secret Miami",
   "Secret San Francisco",
   "Seeking Alpha",
   "Simply Wall Street",
-  "Smartkarma",
   "South China Morning Post",
   "SportsMint Media",
   "StoryBoard 18",
@@ -148,9 +146,9 @@
   "TheIndustry.fashion",
   "Traders Union",
   "TradingView",
-  "Trend Hunter",
   "ULTRA SPORTS（ウルトラスポーツ）",
   "UOMO",
+  "UP TO DATE",
   "UQライフ",
   "Unisba Media",
   "Vietnam.vn",
@@ -163,6 +161,7 @@
   "Yahoo Finance",
   "Yahoo Life UK",
   "Yahoo!ニュース",
+  "YouTube",
   "ad-hoc-news.de",
   "afaqs!",
   "anemo（アネモ）",
@@ -172,16 +171,16 @@
   "https://www.briefasia.com/",
   "marketscreener.com",
   "nss magazine",
-  "topics.smt.docomo.ne.jp",
   "www.marketscreener.com",
   "www.nagoyatv.com",
+  "| 繊研新聞",
   "みんなのゴルフダイジェスト",
   "やさしい朝日新聞",
   "インサイド",
   "ウォーカープラス",
   "オトナンサー",
   "オリコンニュース",
-  "ゴルフサプリ",
+  "サカイタイムズ",
   "サンスポ",
   "ジモはる",
   "テレ朝NEWS",
@@ -224,45 +223,131 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 241,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益へ、国内外の店舗拡大と注目コラボが続々発表",
+  "headline": "ファーストリテイリングが過去最高益、インド事業も好調",
   "points": [
    {
-    "text": "ファーストリテイリングは最新の業績で過去最高益を計上し、アパレル世界2位へ浮上する見通しとなりました。",
+    "text": "ファーストリテイリングは最新の業績で過去最高益を計上し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなった。",
     "ids": [
      "71ed05fb66c21e8a",
      "06cb9c229353462a"
     ]
    },
    {
-    "text": "ユニクロは初となる「本店」のオープン計画や、インドなど海外市場での好調な業績を背景にした店舗拡大を進めています。",
+    "text": "ユニクロのインドにおける2026年度純利益は前年比41％増となり、今後も国内での店舗拡大や事業成長への投資を加速させる。",
     "ids": [
-     "a42cf165500df5b2",
-     "7e860c8ac115ee61",
-     "e08c493bef4266e1"
+     "a42cf165500df5b2"
     ]
    },
    {
-    "text": "ユニクロとJWアンダーソンの秋冬最新コレクションや、GUによる『ジョジョの奇妙な冒険』のコラボアイテム発表が話題です。",
+    "text": "GUは『ジョジョの奇妙な冒険』やホンダとの新作コラボレーション商品を発売するなど、多彩なコレクション展開を予定している。",
+    "ids": [
+     "755f9113604676ef",
+     "db86823929f8fe8d",
+     "2ca2401cf97624e6"
+    ]
+   },
+   {
+    "text": "ユニクロでは、JWアンダーソンとの秋冬新作コレクションや、ミッフィーおよびスヌーピーの新作UTの発売が注目を集めている。",
     "ids": [
      "5e9c0c8fa1f56b17",
      "7226067e7fcbcea2",
-     "755f9113604676ef"
+     "ccd68570460b92e5"
     ]
    },
    {
-    "text": "SNSではGUのタックワイドパンツが注目を集め、Xで3日に10件の投稿を記録しています。",
+    "text": "SNSではGUのスウェットプルオーバー CHIIKAWAが話題となり、Xで3日に3件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-16T04:54:09.119733+09:00",
-  "generated_at": "2026-10-19T04:54:10.666692+09:00",
+  "from": "2026-10-16T11:22:17.884670+09:00",
+  "generated_at": "2026-10-19T11:22:19.632907+09:00",
   "article_count": 24,
-  "sig": "565aa3bec207"
+  "sig": "51ff104e4bde"
  },
  "items": [
+  {
+   "id": "2ca2401cf97624e6",
+   "url": "https://uptodate.tokyo/gu-x-honda-2027",
+   "title_original": "GU x HONDA 80~90年代のモトクロスをモチーフにしたコラボコレクションが国内1月4日より発売",
+   "source": "UP TO DATE",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/10/0E96FE2B-35BC-466A-A4DC-8061A25580C6_59157038-766x1024.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T01:14:37+00:00",
+   "title_ja": "GUがホンダとコラボ、モトクロス風コレクションを1月4日発売",
+   "summary_ja": "GUがホンダとのコラボレーションコレクションを1月4日に国内で発売します。80年代から90年代のモトクロスをモチーフにしたデザインを取り入れたアイテムが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4a688d773ec9f51c",
+   "url": "https://senken.co.jp/posts/fastretailing-muji-261019",
+   "title_original": "ファストリと良品計画 26年8月期、ともに2ケタ増収増益 世界で事業拡大続く",
+   "source": "| 繊研新聞",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T23:00:00+00:00",
+   "title_ja": "ファーストリテイリングと良品計画の26年8月期は2桁増収増益",
+   "summary_ja": "ファーストリテイリングと良品計画の2026年8月期決算において、両社ともに2桁の増収増益を達成した。国内外での積極的な事業拡大が続いており、引き続き世界市場で順調な成長を見せている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "97f5b615fa37b5e2",
+   "url": "https://www.wwdjapan.com/articles/2526619",
+   "title_original": "ユニクロは“豆腐”のゾーンに入った",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T22:30:00+00:00",
+   "title_ja": "ユニクロの事業展開と独自のポジショニングを考察",
+   "summary_ja": "ユニクロが「豆腐」と比喩される独自の領域やフェーズに到達したとする分析記事。同社が築き上げたブランドの立ち位置や、今後の事業展開のあり方について深く考察している。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b5ef335788df6ff1",
+   "url": "https://www.chiba-tv.com/plus/detail/amp/2026102129218",
+   "title_original": "ユニクロ柳井正が語る「世界一になるために必要なこと」",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1484660875449402498/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T21:12:19+00:00",
+   "title_ja": "ユニクロの柳井正氏が語る「世界一になるために必要なこと」",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が、グローバル市場で世界一を目指すために必要となる考え方や姿勢について語った内容を取り上げた記事です。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d16b1741cf95af38",
+   "url": "https://sakai-times.com/20261019-4",
+   "title_original": "南海バスが制服刷新、ユニクロ製品を採用 制帽・ネクタイ廃止｜サカイタイムズ",
+   "source": "サカイタイムズ",
+   "image": "https://sakai-times.com/wp-content/uploads/2026/10/2-nankai.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-18T20:30:00+00:00",
+   "title_ja": "南海バスが制服を刷新しユニクロ製品を採用、制帽やネクタイを廃止",
+   "summary_ja": "南海バスが制服の刷新を行い、ユニクロの製品を新たに導入したことが分かりました。今回の見直しに伴い、従来の制帽やネクタイの着用は廃止されることになります。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a42cf165500df5b2",
    "url": "https://m.economictimes.com/industry/cons-products/garments-/-textiles/uniqlo-india-net-profit-rises-41-to-rs-253-cr-in-fy26-co-bets-on-expansion/articleshow/135034408.cms",
@@ -277,7 +362,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b87daaba07a59ffa",
@@ -566,6 +651,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "f373db934dbc90bd",
+   "url": "https://youtu.be/r9Wg59Socnw?si=HBp6Z0qrl4QpLjFC",
+   "title_original": "Why Indians Are Paying ₹2,500 For Plain T-Shirts | The UNIQLO Strategy",
+   "source": "YouTube",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-17T03:30:09+00:00",
+   "title_ja": "インドで高価格帯の無地Tシャツが売れるユニクロの戦略",
+   "summary_ja": "インド市場において、約2500ルピーという価格帯のシンプルなTシャツがなぜ消費者に受け入れられているのかを分析した動画。ユニクロの現地におけるブランディングやマーケティング戦略の成功要因を掘り下げている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "309f5199bee57e1e",
@@ -933,7 +1034,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7e868cbebe43b4b8",
@@ -6565,102 +6666,6 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "ab1955e6e2bb155e",
-   "url": "https://news.yahoo.co.jp/articles/77c12b0c68caebaaa536df44f01ef337de10345a",
-   "title_original": "【ユニクロ】10/8までの特別価格！寒暖差対策に活躍するメリノニット・ジャケットがお買い得、990円アイテムも（マネーの達人）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000011-manetatsun-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T10:00:03+00:00",
-   "title_ja": "ユニクロが10月8日まで特別価格セール実施、メリノニットやジャケットがお得に",
-   "summary_ja": "ユニクロは10月8日までの期間限定で、秋の寒暖差対策に役立つメリノニットやジャケットなどの特別価格セールを実施しています。一部アイテムは990円から購入可能です。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2fe67ddfa1736f74",
-   "url": "https://golfsapuri.com/article/20041494",
-   "title_original": "アダム・スコットがジュニアゴルファーを直接指導！ユニクロ「Future Golfers Seminar 2026」を開催",
-   "source": "ゴルフサプリ",
-   "image": "https://golfsapuri.com/wp-content/uploads/2026/10/あだむ.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T10:00:00+00:00",
-   "title_ja": "ユニクロがジュニア向けゴルフセミナー開催、アダム・スコット選手が直接指導",
-   "summary_ja": "ユニクロは、プロゴルファーのアダム・スコット選手がジュニアゴルファーを直接指導するイベント「Future Golfers Seminar 2026」を開催しました。次世代の選手育成やゴルフの普及を支援する取り組みの一環です。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "40b922acd2365330",
-   "url": "https://www.trendhunter.com/trends/nostalgic-graphic-tees",
-   "title_original": "Retro Graphic Tees: UNIQLO's Pokémon Anniversary Tees Bring Early-Game Artwork",
-   "source": "Trend Hunter",
-   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/640/640743/640743_1_1200.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T07:50:45+00:00",
-   "title_ja": "ユニクロ、ポケモン記念レトロTシャツを発売",
-   "summary_ja": "ユニクロはポケモンの記念コレクションとして、初期ゲームのイラストを使用したレトロデザインのグラフィックTシャツを新作として販売開始した。ファンの注目が集まっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fbb1d73ff7c48b44",
-   "url": "https://topics.smt.docomo.ne.jp/article/bgmania/trend/bgmania-703466",
-   "title_original": "【オーケー銀座店】ユニクロコーヒー引換券などがもらえるお得企画開催中！コラボイベントではサンプリング配布なども《10月25日まで》（東京バーゲンマニア）",
-   "source": "topics.smt.docomo.ne.jp",
-   "image": "https://img.topics.smt.news.goo.ne.jp/picture/bgmania/m_bgmania-703466.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-06T07:07:00+00:00",
-   "title_ja": "オーケー銀座店でユニクロコーヒー引換券がもらえる企画が開催中",
-   "summary_ja": "オーケー銀座店にて、ユニクロコーヒーの引換券プレゼントやサンプリング配布などを実施するお得なコラボイベントが開催されている。本企画は10月25日までの期間限定で実施中。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a80893a37909b234",
-   "url": "https://www.smartkarma.com/insights/fast-retailing-9983-jp-synthetic-expert-call-transcript-06-oct-2026",
-   "title_original": "Fast Retailing (9983 JP): Synthetic Expert Call Transcript (06 Oct 2026)",
-   "source": "Smartkarma",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T07:00:00+00:00",
-   "title_ja": "ファーストリテイリング、10月6日エキスパート・コール文字起こし公開",
-   "summary_ja": "ファーストリテイリングは2026年10月6日に実施したエキスパート・コールの全文を公開し、同社の業績見通しや戦略が議論された。投資家の関心が高まっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "a70537d87de3eab2",
-   "url": "https://secretmiami.com/uniqlo-first-miami-locations-opening-dates",
-   "title_original": "Uniqlo has finally revealed the opening dates for its first Miami locations at Aventura Mall and Lincoln Road",
-   "source": "Secret Miami",
-   "image": "https://offloadmedia.feverup.com/secretmiami.com/wp-content/uploads/2026/10/06024438/shutterstock_1647041524.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-06T06:49:54+00:00",
-   "title_ja": "ユニクロ、米マイアミ初の店舗オープン日を遂に発表",
-   "summary_ja": "ユニクロが、米マイアミ初となる店舗のオープン日を発表しました。アベンチュラ・モールとリンカーン・ロードの2箇所に新規店舗をオープンし、現地での展開を本格的に開始します。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
