@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:17:12.356092+09:00",
+ "updated_at": "2026-10-21T00:58:50.721583+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -56,6 +56,7 @@
   "Forbes",
   "GQ Japan",
   "Gear Patrol",
+  "GlobeNewswire",
   "Goal.com",
   "Goody Feed",
   "GrowSF",
@@ -124,6 +125,7 @@
   "Secret Manchester",
   "Secret San Francisco",
   "Seeking Alpha",
+  "Seoul Economic Daily",
   "Simply Wall Street",
   "SmartNews",
   "SportsMint Media",
@@ -226,51 +228,61 @@
   "인사이트코리아",
   "헤럴드경제"
  ],
- "count": 379,
- "detail_count": 231,
+ "count": 387,
+ "detail_count": 237,
  "digest": {
-  "headline": "ユニクロが平均4%の値上げを発表、インド事業は大幅増収",
+  "headline": "ユニクロが感動ジャケットなどの値上げを発表",
   "points": [
    {
-    "text": "ユニクロは11月10日より「感動ジャケット」など一部の秋冬商品を平均約4%値上げすることを発表しました。",
+    "text": "ユニクロやファーストリテイリングは、円安やコスト高の影響を受け、日本国内で平均約4%の価格引き上げを発表しました。",
     "ids": [
-     "5bd61c13439fcfe5",
-     "fb7028c482288431",
-     "b5778aeb5a677938"
+     "c690b30918f45838",
+     "fe94370886a089c2",
+     "5bd61c13439fcfe5"
     ]
    },
    {
-    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、両社ともに2桁の増収増益を達成しました。",
+    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、両社ともに2桁の増収増益を達成しています。",
     "ids": [
      "4a688d773ec9f51c"
     ]
    },
    {
-    "text": "ユニクロのインド市場における2026年度の売上高は前年比44%増の1724億ルピーと大幅に増加しました。",
-    "ids": [
-     "1d68dad1ae64192b",
-     "89205b478793ac67"
-    ]
-   },
-   {
-    "text": "ユニクロはフランチェスコ・リッソとのニットコレクションを10月30日に発売すると発表しました。",
+    "text": "ユニクロは、フランチェスコ・リッソとのニットコレクションを10月30日に発売すると発表しました。",
     "ids": [
      "4236cfd8835ffe55",
-     "eeea3ced2aaf5661"
+     "eeea3ced2aaf5661",
+     "fea3b6d1da916df1"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 感動ジャケット」がXで140件投稿されるなど話題を集めています。",
+    "text": "ユニクロの感動ジャケットはXで141件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-17T20:24:40.972862+09:00",
-  "generated_at": "2026-10-20T20:24:49.117239+09:00",
+  "from": "2026-10-18T01:14:07.297244+09:00",
+  "generated_at": "2026-10-21T01:14:25.727660+09:00",
   "article_count": 24,
-  "sig": "210138b9283b"
+  "sig": "2c2ee6f7b4b9"
  },
  "items": [
+  {
+   "id": "a18784958916a207",
+   "url": "https://www.globenewswire.com/news-release/2026/10/20/3384692/0/en/privacy-watchdog-ensures-fast-retailing-brands-adhere-to-digital-advertising-privacy-best-practices.html",
+   "title_original": "Privacy Watchdog Ensures Fast Retailing Brands Adhere to Digital Advertising Privacy Best Practices",
+   "source": "GlobeNewswire",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T15:00:00+00:00",
+   "title_ja": "監視団体、ファーストリテイリングのデジタル広告プライバシー遵守を確認",
+   "summary_ja": "プライバシー監視機関の調査により、ファーストリテイリング傘下のブランドがデジタル広告における適切なプライバシー保護の標準指針に従っていることが確認されました。",
+   "category": "その他",
+   "brand": "グループ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "5b0192f67d44cab0",
    "url": "https://prtimes.jp/main/html/rd/p/000000215.000064061.html",
@@ -285,6 +297,38 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "54a3480ef01157b5",
+   "url": "https://finance.biggo.jp/news/49f2fd39-59c5-4184-acf2-3a0d8e0db993",
+   "title_original": "Uniqlo Japan、円安・コスト負担で4%の一斉値上げ…「感動パンツ」は25%上昇",
+   "source": "BigGo ファイナンス",
+   "image": "https://img.biggo.com/xvh31pg_IjEZzYhM6Gp50n5g3eEd8M_xrPfrjVPwuWo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzQ5ZjJmZDM5LTU5YzUtNDE4NC1hY2YyLTNhMGQ4ZTBkYjk5M18xNzkyNDk5NzA2X2RlZmF1bHQuanBn.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T12:25:22+00:00",
+   "title_ja": "ユニクロが国内で価格改定、為替やコスト高に対応",
+   "summary_ja": "ユニクロは円安やコスト負担の影響を受け、国内で一斉値上げを実施しました。代表的なアイテムの価格も引き上げられています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "c690b30918f45838",
+   "url": "https://en.sedaily.com/international/2026/10/20/uniqlo-raises-japan-prices-despite-record-profit-as-weak",
+   "title_original": "Uniqlo Raises Japan Prices Despite Record Profit as Weak Yen Bites",
+   "source": "Seoul Economic Daily",
+   "image": "https://wimg.sedaily.com/news/cms/2026/10/20/news-p.v1.20261020.c38031d1afd94ba19b6663c7c7f328d9_P1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T11:10:57+00:00",
+   "title_ja": "ユニクロ、円安の影響を受け日本国内での値上げを発表",
+   "summary_ja": "過去最高の利益を記録した一方で、進行する円安の影響を受け、日本国内におけるユニクロ製品の価格引き上げに踏み切ったことが報じられました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 5,
    "has_detail": true
   },
   {
@@ -480,6 +524,22 @@
    "has_detail": true
   },
   {
+   "id": "8e4812119d325ee9",
+   "url": "https://www.thefirsttimes.jp/news/0000902504",
+   "title_original": "&TEAM K＆JO、185cm超えの“異次元スタイル”に視線集中！フリース姿でも際立つ小顔＆長すぎる脚に「何着てもかっこいい」「最強コンビ」の声",
+   "source": "THE FIRST TIMES",
+   "image": "https://www.thefirsttimes.jp/admin/wp-content/uploads/2026/10/20261020-ksn-083701-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T06:37:37+00:00",
+   "title_ja": "&TEAMのKとJOがユニクロのフリース姿を披露",
+   "summary_ja": "&TEAMのKとJOがユニクロのフリースを着用した姿を披露し、その抜群のスタイルがネット上で大きな話題となっている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "eeea3ced2aaf5661",
    "url": "https://www.vogue.co.jp/article/2026-10-20-uniqlo-f-risso",
    "title_original": "【全アイテム公開】ユニクロ×フランチェスコ・リッソ、ニットのカプセルコレクションが10月30日（金）発売！",
@@ -653,7 +713,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a83ec0a8b44fe1ea",
@@ -718,6 +778,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "dc4f74066951051b",
+   "url": "https://www.fashionsnap.com/article/2026-10-20/uniqlo-f-risso-26-knit",
+   "title_original": "ユニクロ × フランチェスコ・リッソ新作、ニットウェアのコレクション発売",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/4d0981c7-595f-498b-b2d6-087eff8bd66b.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T03:30:11+00:00",
+   "title_ja": "ユニクロ、フランチェスコ・リッソとの新作ニット発売",
+   "summary_ja": "ユニクロは、フランチェスコ・リッソ氏手掛ける新作ニットウェアコレクションを発売します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "67354cc44045a943",
@@ -846,6 +922,54 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "10915a9c6818308c",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/84308",
+   "title_original": "【ユニクロ新作】元マルニデザイナーとのコラボ「UNIQLO F.RISSO（ユニクロ エフ・リッソ）」のメンズニット全型を試着！ 30代女性こそLサイズがおすすめ",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/cb/cbaf3343-dedd-4a6a-bac6-fd3db68b6695-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T00:00:00+00:00",
+   "title_ja": "「UNIQLO F.RISSO」メンズニットの試着レポ",
+   "summary_ja": "元マルニデザイナーとのコラボレーションによるメンズニット全型を試着したレビューが公開されました。30代女性にはLサイズがおすすめです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a29b7c920f61b13e",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/84309",
+   "title_original": "【UNIQLO（ユニクロ）】超話題のコラボ「UNIQLO F.RISSO（ユニクロ エフ・リッソ）」遊び心たっぷりのニットウェアカプセルコレクションを発売！",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/8a/8aba981b-8ace-4ac9-918b-c9d0f0f41a96-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T00:00:00+00:00",
+   "title_ja": "ユニクロ、遊び心あふれるニットコレクション発売",
+   "summary_ja": "ユニクロが話題のコラボレーション「UNIQLO F.RISSO」による、遊び心に富んだデザインのニットウェアカプセルコレクションを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2007bcdee254138e",
+   "url": "https://pluang.com/en/news-feed/pengawas-privasi-pastikan-merek-fast-retailing-patuhi-praktik-privasi-iklan",
+   "title_original": "Fast Retailing updates privacy practices to com...",
+   "source": "Pluang",
+   "image": "https://image-cdn.pluang.com/web/news-cards/v2/GSS/a2a91c1a08ffd6fdbdcd9d74c53a04c552beceda7b1782362788eea76eaa8ef7-en.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T00:00:00+00:00",
+   "title_ja": "ファーストリテイリングがプライバシー保護方針を更新",
+   "summary_ja": "ファーストリテイリングが、デジタル広告などの適切な運用と顧客情報の保護に向けて、プライバシーに関する社内規定や最新の規制への対応方針を更新したことが報じられました。",
+   "category": "その他",
+   "brand": "グループ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "824d07cb344fbd6d",
