@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T19:34:49.882524+09:00",
+ "updated_at": "2026-10-20T20:17:12.356092+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -23,7 +23,6 @@
   "ABEMA",
   "AD HOC NEWS",
   "AERA DIGITAL",
-  "AMP[アンプ]",
   "Adgully.com",
   "Alvinology",
   "Apparel Resources",
@@ -37,7 +36,6 @@
   "British Vogue",
   "Business News This Week",
   "BusinessToday Malaysia",
-  "BuzzFeed",
   "Campaign India",
   "Chosunbiz",
   "Confidentials",
@@ -84,7 +82,6 @@
   "LEE",
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
-  "Liverpool Echo",
   "London Evening Standard",
   "MANTANWEB",
   "MLB.com",
@@ -175,11 +172,13 @@
   "| 繊研新聞",
   "やさしい朝日新聞",
   "インサイド",
-  "オトナンサー",
+  "ウォーカープラス",
   "オリコンニュース",
+  "ガジェット通信",
   "サカイタイムズ",
   "サンスポ",
   "ジモはる",
+  "ダイヤモンド・チェーンストア",
   "テレ東BIZ",
   "トラベル Watch",
   "ネットショップ担当者フォーラム",
@@ -218,7 +217,6 @@
   "熊本日日新聞社",
   "玩具人 TOY PEOPLE",
   "産経ニュース",
-  "福井新聞社",
   "繊研新聞",
   "西日本新聞me",
   "読売新聞",
@@ -228,52 +226,83 @@
   "인사이트코리아",
   "헤럴드경제"
  ],
- "count": 400,
- "detail_count": 235,
+ "count": 379,
+ "detail_count": 231,
  "digest": {
-  "headline": "ユニクロが11月10日より「感動ジャケット」など平均4%値上げへ",
+  "headline": "ユニクロが平均4%の値上げを発表、インド事業は大幅増収",
   "points": [
    {
-    "text": "ユニクロは円安やコスト高に対応するため、11月10日から「感動ジャケット」など秋冬商品11品を平均約4%値上げすると発表しました。",
+    "text": "ユニクロは11月10日より「感動ジャケット」など一部の秋冬商品を平均約4%値上げすることを発表しました。",
     "ids": [
-     "fe94370886a089c2",
      "5bd61c13439fcfe5",
-     "d2e08a36bde167e2"
-    ]
-   },
-   {
-    "text": "価格改定に伴い、これまで実施されていたソックスのまとめ買い割引サービスが終了することが明らかになりました。",
-    "ids": [
      "fb7028c482288431",
-     "2aee346cc7612d34",
-     "ba2b6cec77adaf4d"
+     "b5778aeb5a677938"
     ]
    },
    {
-    "text": "ファーストリテイリングと良品計画の2026年8月期決算は、両社ともに2桁の増収増益を達成しました。",
+    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、両社ともに2桁の増収増益を達成しました。",
     "ids": [
      "4a688d773ec9f51c"
     ]
    },
    {
-    "text": "ユニクロは、デザイナーのフランチェスコ・リッソとコラボレーションしたニットのカプセルコレクションを10月30日に発売します。",
+    "text": "ユニクロのインド市場における2026年度の売上高は前年比44%増の1724億ルピーと大幅に増加しました。",
+    "ids": [
+     "1d68dad1ae64192b",
+     "89205b478793ac67"
+    ]
+   },
+   {
+    "text": "ユニクロはフランチェスコ・リッソとのニットコレクションを10月30日に発売すると発表しました。",
     "ids": [
      "4236cfd8835ffe55",
      "eeea3ced2aaf5661"
     ]
    },
    {
-    "text": "ユニクロの感動ジャケットはXで140件投稿されるなど話題を集めています。",
+    "text": "SNSでは「ユニクロ 感動ジャケット」がXで140件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-17T19:45:22.478991+09:00",
-  "generated_at": "2026-10-20T19:45:24.451878+09:00",
+  "from": "2026-10-17T20:24:40.972862+09:00",
+  "generated_at": "2026-10-20T20:24:49.117239+09:00",
   "article_count": 24,
-  "sig": "fee9e37b75af"
+  "sig": "210138b9283b"
  },
  "items": [
+  {
+   "id": "5b0192f67d44cab0",
+   "url": "https://prtimes.jp/main/html/rd/p/000000215.000064061.html",
+   "title_original": "ユニクロ「UTme!」とのコラボレーションが実現！「とんかつ新宿さぼてん」のファッションアイテムが『ユニクロ 新宿西口店』限定で登場",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/64061/215/64061-215-0a4924edc42d5ff5663317dca081ea7b-2933x1650.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T13:10:01+00:00",
+   "title_ja": "とんかつ新宿さぼてん、ユニクロ新宿西口店限定UTme!コラボアイテム発売",
+   "summary_ja": "「とんかつ新宿さぼてん」とユニクロの「UTme!」がコラボレーションを実現しました。新宿西口店限定の特別なファッションアイテムとして登場し、店舗ならではのラインナップが展開されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4e859728b3c5f817",
+   "url": "https://news.yahoo.co.jp/articles/1de576b9c818ef9ce99e206413fa7aa073345de7",
+   "title_original": "ファストリは「ユニクロ」値上げ、コーエーテクモは業績上方修正/日経平均続落【今日の注目株＆日本株市場見通し】「デイリーZAi」10月20日号（ダイヤモンド・ザイ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-02074353-dzai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T11:10:26+00:00",
+   "title_ja": "日本株市場の見通しでファーストリテイリングによるユニクロ値上げが注目材料に",
+   "summary_ja": "10月20日の日本株市場の見通しにおいて、ファーストリテイリングが実施するユニクロ商品の値上げや他社の業績修正などが、市場の注目材料として取り上げられています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "4236cfd8835ffe55",
    "url": "https://prtimes.jp/main/html/rd/p/000000128.000076227.html",
@@ -295,7 +324,7 @@
    "url": "http://www.excite.co.jp/news/article/naratv_1485222097592927000",
    "title_original": "生駒市をＰＲ ユニクロで「たけまるくん」Ｔシャツなど販売へ",
    "source": "Excite エキサイト",
-   "image": "",
+   "image": "https://s.eximg.jp/exnews/feed/naratv/6c/naratv_1485222097592927000/naratv_1485222097592927000_1.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-10-20T10:22:00+00:00",
@@ -304,7 +333,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "48e96da0c0caf613",
@@ -336,7 +365,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "433bae53a0d434ad",
@@ -384,7 +413,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0467ea5223c90746",
@@ -416,7 +445,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "31e2c219fa305ae1",
@@ -432,7 +461,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "53a850af47f13627",
@@ -576,7 +605,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7eb4a3d8a745dbe1",
@@ -608,7 +637,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fea3b6d1da916df1",
@@ -623,7 +652,40 @@
    "summary_ja": "フランチェスコ・リッソ氏との新たなコラボレーションとなるコレクション「UNIQLO F. RISSO（ユニクロ エフ・リッソ）」が発表されました。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
-   "importance": 4
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "a83ec0a8b44fe1ea",
+   "url": "https://getnews.jp/archives/3747626",
+   "title_original": "ユニクロとドジャースが日米交流の次世代育成プログラムを開始！ ２度目となる冠イベント「UNIQLO LifeWear Day at Dodger Stadium」も開催",
+   "source": "ガジェット通信",
+   "image": "https://getnews.jp/img/archives/2026/10/KV-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T05:00:10+00:00",
+   "title_ja": "ユニクロとドジャースが次世代育成プログラムと冠イベントを実施",
+   "summary_ja": "ユニクロと米大リーグのロサンゼルス・ドジャースが、日米交流を目指す次世代育成プログラムを開始。ドジャー・スタジアムでの2度目となる冠イベントの開催も決定しました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "496cfece43bed3a4",
+   "url": "https://news.yahoo.co.jp/articles/799764f38b449055d5a2b69f0fd6d5c55a2c98e6",
+   "title_original": "ユニクロ、プラダやマルニで経験積んだデザイナーの“ニット”新コレクション 10・30発売（オリコン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000430-oric-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T04:11:44+00:00",
+   "title_ja": "ユニクロが名門出身デザイナーによる新ニットを10月30日発売",
+   "summary_ja": "ユニクロは、ハイブランドで経験を積んだデザイナーによる新たなニットコレクションを10月30日に発売します。上質な素材とデザイン性を兼ね備えた注目ラインナップとなります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "144f3450275f1716",
@@ -639,7 +701,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6c036b154bea46a5",
@@ -655,7 +717,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "67354cc44045a943",
@@ -672,6 +734,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "f8817464237f8769",
+   "url": "https://www.nikkei.com/article/DGXZRSP714068_Q6A021C2000000",
+   "title_original": "ユニクロ、「UNIQLO F.RISSO」Knitwear Capsule Collection 2026を発売",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3751721020102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=2801896c266ff9a8be8ea88dddb97ee0",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T02:43:33+00:00",
+   "title_ja": "ユニクロ、「UNIQLO F.RISSO」2026年ニットウェアカプセルコレクション発売",
+   "summary_ja": "ユニクロは、新たに「UNIQLO F.RISSO」Knitwear Capsule Collection 2026の発売を開始しました。秋冬の季節に向けて、こだわりの詰まった特別なニットウェアコレクションを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "fb7028c482288431",
@@ -703,7 +781,23 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "28ced44a1a571b20",
+   "url": "https://www.fashionsnap.com/article/2026-10-20/uniqlo-price-revision-2026",
+   "title_original": "ユニクロが一部商品を値上げ、感動ジャケットなど対象 ソックスはまとめ買い終了へ",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/4c33ba8b-abf2-4727-8a41-ccd394a6a8d8.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T01:17:05+00:00",
+   "title_ja": "ユニクロが一部商品を値上げ、感動ジャケットなど対象",
+   "summary_ja": "ユニクロは感動ジャケットなどの一部商品について値上げを実施する。また、ソックスのまとめ買い販売の終了も予定されている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "2aee346cc7612d34",
@@ -735,7 +829,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7911bc5dc2f748f4",
@@ -751,7 +845,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "824d07cb344fbd6d",
@@ -847,7 +941,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b69424334eeaf56b",
@@ -879,7 +973,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "89205b478793ac67",
@@ -962,22 +1056,6 @@
    "detail_tries": 2
   },
   {
-   "id": "d2e08a36bde167e2",
-   "url": "https://finance.biggo.jp/news/a610e91d-5eb2-41ad-9fd5-443748fba0eb",
-   "title_original": "ユニクロ、秋冬11商品を平均4％値上げ 感動ジャケット7990円に",
-   "source": "BigGo ファイナンス",
-   "image": "https://img.biggo.com/YFisAUe-yR4ChfCsoF6ucOxMvOTHXmW0kpPBl27aMqU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2E2MTBlOTFkLTVlYjItNDFhZC05ZmQ1LTQ0Mzc0OGZiYTBlYl8xNzkyNDE3NDQ2X2RlZmF1bHQuanBn.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:35:32+00:00",
-   "title_ja": "ユニクロ、秋冬の11商品を平均4％値上げへ（感動ジャケット7990円）",
-   "summary_ja": "ユニクロは秋冬シーズンの11商品を平均4％値上げすると発表しました。代表的なアイテムである「感動ジャケット」は7,990円に価格が改定されます。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "ba2b6cec77adaf4d",
    "url": "https://www.chiba-tv.com/plus/detail/amp/2026102133018",
    "title_original": "ユニクロ4％値上げへ 靴下まとめ買いも終了",
@@ -988,22 +1066,6 @@
    "published": "2026-10-19T13:31:05+00:00",
    "title_ja": "ユニクロが約4％の値上げを発表、靴下のまとめ買い割引も終了",
    "summary_ja": "ユニクロは一部商品の平均約4％の値上げに加え、靴下のまとめ買いサービスを終了することを明らかにしました。見直しに伴う価格改定が行われます。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "980b16f387079acf",
-   "url": "https://www.wwdjapan.com/articles/2530555",
-   "title_original": "ユニクロの靴下まとめ買い終了 “50色ソックス”は4足買いが990円から1560円に",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:18:35+00:00",
-   "title_ja": "ユニクロ、「50色ソックス」のまとめ買いを終了へ",
-   "summary_ja": "ユニクロの人気商品である靴下のまとめ買い割引が終了することが分かった。これまで4足990円だった「50色ソックス」などの価格体系が変わる。",
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
@@ -1024,22 +1086,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "122515b8a1df9dfe",
-   "url": "https://www.fukuishimbun.co.jp/articles/-/2726108",
-   "title_original": "ユニクロ値上げ、何がいくら上がる？ 感動ジャケット7990円、靴下390円に 送料・裾上げ料金も【一覧】",
-   "source": "福井新聞社",
-   "image": "https://fki.ismcdn.jp/mwimgs/c/e/-/img_ce32fff6fe4b518d695b26c115274ac3308759.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:05:00+00:00",
-   "title_ja": "ユニクロが値上げを実施、感動ジャケットや靴下など",
-   "summary_ja": "ユニクロが商品の値上げを実施し、感動ジャケットや靴下の新価格に加え、送料や裾上げ料金の改定一覧が公開されている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   },
   {
    "id": "27ba23a64b317d7a",
@@ -1458,22 +1504,6 @@
    "detail_tries": 2
   },
   {
-   "id": "b87daaba07a59ffa",
-   "url": "https://otonanswer.jp/post/401572",
-   "title_original": "「これすごい！」GUのバレルジーンズが《2990→2490円》「とにかくシルエットがいい」「はいてびっくり！すっきり見える」",
-   "source": "オトナンサー",
-   "image": "https://otonanswer.jp/wp-content/uploads/2027/10/20261018gu001.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-18T09:00:00+00:00",
-   "title_ja": "GUのバレルジーンズが2990円から2490円に値下げ　シルエットの美しさが話題に",
-   "summary_ja": "GUの「バレルジーンズ」が、通常の2990円から2490円へと値下げされて販売されています。着用時のシルエットの美しさやすっきり見せられるデザインが評価され、好評を博しています。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
    "id": "ccd68570460b92e5",
    "url": "https://s.inside-games.jp/article/img/2026/10/18/189453/1792683.html",
    "title_original": "ユニクロの「ミッフィー」新作UTが楽しみ！上品でモダンなデザインの全4種 2枚目の写真・画像",
@@ -1618,22 +1648,6 @@
    "has_detail": true
   },
   {
-   "id": "96184e965b29e661",
-   "url": "https://news.yahoo.co.jp/articles/f59171fb85514e23773d8d061fdfd5f4ecbf8563/images/000",
-   "title_original": "「毎年色違い購入してます！」ユニクロのポロセーターが期間限定で2990円に 「この季節にぴったり」「スッキリ綺麗に見せてくれます」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnSp2KsP833b8BJn9PRV_C-zCP0bypxvgucMzRy5tBWJjrKqo9hunIy3WPN-qiDOr5z42cE4HbT0-RFiKGZrqtDz1ogO85rcOfOve71kzujpP",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T11:10:16+00:00",
-   "title_ja": "ユニクロのポロセーターが期間限定で2990円の特別価格に",
-   "summary_ja": "ユニクロのポロセーターが期間限定価格の2990円で販売されています。この季節に重宝する着心地やすっきり見えるデザインが好評で、毎年買い足すファンの声も集まっています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
    "id": "7e860c8ac115ee61",
    "url": "https://media.unisba.ac.id/c2ad4b05/0268731cHDQIEVQbQC0_IQE",
    "title_original": "ユニクロ 初の“本店”オープン 世界一の売り上げ目指す【WBS】 Clayton Carpenter (nsAxjADDsr)",
@@ -1648,22 +1662,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "dfa42895e26987ed",
-   "url": "https://otonanswer.jp/post/401534",
-   "title_original": "「全種類欲しい」GUのシアートップスが《990→790円》「痩せた？ってよく言われる」「40代でも着やすかった」",
-   "source": "オトナンサー",
-   "image": "https://otonanswer.jp/wp-content/uploads/2027/10/20261016gu001.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T09:00:00+00:00",
-   "title_ja": "GUのシアートップスが790円に値下げ　体型カバー力や着やすさで人気",
-   "summary_ja": "GUのシアートップスが従来の990円から790円へ値下げされました。着やすさやスタイルが良く見える点などが評価され、幅広い年代の購入者から支持を集めています。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 2,
-   "has_detail": true
   },
   {
    "id": "71ed05fb66c21e8a",
@@ -1698,22 +1696,6 @@
    "detail_tries": 2
   },
   {
-   "id": "86528deee07a12d7",
-   "url": "https://news.yahoo.co.jp/articles/812f8ac405aa1a7d123ffe8dc8216997f9c6e0fb",
-   "title_original": "「ブルーとブラック2色購入しました」ユニクロの“ウィンドプルーフ”ブルゾンが期間限定で4990円 「風を通さなくて、とても暖かいです！」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-11798479-maidonans-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T07:32:16+00:00",
-   "title_ja": "ユニクロのウィンドプルーフブルゾンが期間限定で4,990円に値下げ",
-   "summary_ja": "防風性に優れ温かいユニクロの「ウィンドプルーフブルゾン」が、期間限定で4,990円の特別価格で販売されています。防寒性の高さから複数色を購入する愛用者もみられます。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "e08c493bef4266e1",
    "url": "https://www.passionateinmarketing.com/uniqlo-opens-new-store-at-lake-shore-thane",
    "title_original": "UNIQLO Opens New Store at Lake Shore, Thane",
@@ -1728,22 +1710,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "c4f17dd9cf4043c5",
-   "url": "https://news.yahoo.co.jp/articles/e6f3f027dace2ea49801b19e0e43bf3e1aba9b9e/images/000",
-   "title_original": "「配色がかわいくて一目惚れしました」ユニクロのボアフリースジャケットが期間限定で3990円に 「軽くてとても着やすい」の声も",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnezIiiDfOnOLuUK4SEZG8hLhcX4p9KjtcpsX8NQqDq9EJrdWSnk0K0jKQV5dESCwXkKkj63XKwt9rM8Tm_NEq098NG8nWgb3SuCmwKIlU_xI",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T05:32:16+00:00",
-   "title_ja": "ユニクロのボアフリースジャケットが期間限定で3,990円に値下げ",
-   "summary_ja": "ユニクロのボアフリースジャケットが、期間限定価格の3,990円で販売されています。デザイン性の高さや軽くて着やすい点が魅力で、利用者からも好評を集めています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "03e5eeb52d80e225",
@@ -1805,22 +1771,6 @@
    "title_ja": "ユニクロが衣服の補修や100種の刺繍を割引提供する「リペアウィーク」を11月8日まで開催",
    "summary_ja": "ユニクロは、服の修復や100種類の刺繍サービスを無料や割引で提供する「リペアウィーク」を11月8日まで開催している。愛用の衣類を補修して長く使い続けることを目指した取り組みとなっている。",
    "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ad859b939b2362e7",
-   "url": "https://news.yahoo.co.jp/articles/0086045566643cd0ce2fd239745ac0ae82969b0a/images/000",
-   "title_original": "「3色色違いを購入しヘビロテしてます」ユニクロのオーバーサイズパーカが期間限定で3990円 「ダボっとしてるけどだらしなく見えず」の声も",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncAz5zzPN_zTY1PXrJ3v-WTH_IkIvsqjfGZ6RAVeHXIPRkQ9nJ5wjYBYdK_yDxIMehOofvltOmKbAkRWuDAjuL6Rw10NzbUmX4PRZbRTa1bh",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T02:15:16+00:00",
-   "title_ja": "ユニクロのオーバーサイズパーカが期間限定で3990円に値下げ",
-   "summary_ja": "ユニクロはオーバーサイズパーカを期間限定価格の3,990円で販売している。ダボっとしたシルエットでありながらだらしなく見えないデザインが人気を集めている。",
-   "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
@@ -1888,38 +1838,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "1e99a6c4c4a4264d",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102123826",
-   "title_original": "見逃し厳禁！ユニクロの期間限定セールに秋冬がっつり着倒せるトップス＆ボトムスが続々登場！",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483977419910661154/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T23:57:07+00:00",
-   "title_ja": "ユニクロが秋冬向けのトップスやボトムスを対象とした期間限定セールを開催",
-   "summary_ja": "ユニクロが秋冬シーズンに活躍するトップスやボトムスなどの対象商品を揃えた期間限定セールを実施している。これからの時期に着回しやすい各種アイテムがお買い得価格で登場しており、注目を集めている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "47211a6d4d569850",
-   "url": "https://news.yahoo.co.jp/articles/63dd6cae8d9902f1f534c13963da1f58d7f740a7/images/000",
-   "title_original": "「気に入りすぎて3色買いました」ユニクロのワイドパンツが期間限定価格3990円に 「脚の形をひろわず」「5本目です」の声も",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnU0LgCdFj5655CfdLkdNwv9ZmnrYKjEfcN79UzNIS1vGxUo8zA65r7WOfg0Sj3NMqF4r9gQD6lJ0zedqULJFFuQ7CZxQ0GXijA1QtyFxz1qk",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T22:12:15+00:00",
-   "title_ja": "ユニクロのワイドパンツが期間限定価格3990円に、リピート購入する愛用者も",
-   "summary_ja": "ユニクロのワイドパンツが期間限定で3,990円の特別価格に値下げされています。脚のラインをひろいにくい綺麗なシルエットが人気を集めており、色違いや複数本の購入報告が寄せられるなど好評です。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "a20a7da6cbc4707f",
@@ -2002,22 +1920,6 @@
    "has_detail": true
   },
   {
-   "id": "93eb57ba594a65a6",
-   "url": "https://www.buzzfeed.com/jp/naokimiura/uniqlo-sale-outerwear",
-   "title_original": "ユニクロ値下げ！ウィンドプルーフパーカなど3選",
-   "source": "BuzzFeed",
-   "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/09/08/thumb/RY60TEHZn.jpg?crop=893:595;35,65&resize=1250:830",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T11:01:02+00:00",
-   "title_ja": "ユニクロがウィンドプルーフパーカなど対象3商品を値下げ",
-   "summary_ja": "ユニクロが人気アウターであるウィンドプルーフパーカを含む3商品を対象に値下げを実施している。寒くなるこれからの季節に活躍する注目のアイテムをお買い得な価格で手に入れる機会となっている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
    "id": "c21cd380783d20f4",
    "url": "https://news.yahoo.co.jp/articles/fcfbdf91b7ea7475ab0d4e518b97acbd5dc22668",
    "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬最新作で買うべきアイテムは？【10月26日発売】（UOMO）",
@@ -2047,22 +1949,6 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4e83498033b079e3",
-   "url": "https://otonanswer.jp/post/401467",
-   "title_original": "「とにかくラク」ユニクロの美脚デニムが《4990→3990円》「すぐに乾く」「なんで今まで買わなかったのか」",
-   "source": "オトナンサー",
-   "image": "https://otonanswer.jp/wp-content/uploads/2027/10/20261016uniqlo001.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T10:00:00+00:00",
-   "title_ja": "ユニクロの美脚デニムが4990円から3990円へ値下げされ話題",
-   "summary_ja": "ユニクロの美脚デニムが4,990円から3,990円へと値下げされ注目を集めています。履きやすさや乾きやすさといった機能面でも購入者から評価されており、手頃な価格で手に入る魅力的な商品となっています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   },
   {
@@ -2102,7 +1988,7 @@
    "url": "https://www.moomoo.com/news/post/1001408514/report-on-change-in-shareholding-9983-fast-retailing-38-25",
    "title_original": "Report on Change in Shareholding Fast Retailing (38.25% → 6.67%) Teruyo Yanai, et al.",
    "source": "Moomoo",
-   "image": "",
+   "image": "https://pubimg.futunn.com/20220509000002914f8cb245ecb.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-16T07:36:00+00:00",
@@ -2118,7 +2004,7 @@
    "url": "https://www.moomoo.com/news/post/1001408004/shareholding-change-report-9983-fast-retailing-38-25-27-30",
    "title_original": "Shareholding Change Report Fast Retailing (38.25% → 27.30%) TY Asset Management, et al.",
    "source": "Moomoo",
-   "image": "",
+   "image": "https://pubimg.futunn.com/2022050900000183801109a1f4d.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-16T07:31:00+00:00",
@@ -2159,22 +2045,6 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "7e868cbebe43b4b8",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102121336",
-   "title_original": "【ユニクロ最新チラシ】秋冬の即戦力アイテムが特別価格に。バレルパンツ、ボアフリースなど狙い目アイテムを厳選して紹介《10月22日まで》",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483720717336397208/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T06:56:49+00:00",
-   "title_ja": "ユニクロが10月22日までバレルパンツ等の秋冬商品を特別価格で販売",
-   "summary_ja": "ユニクロは10月22日までの期間限定で、バレルパンツやボアフリースなど秋冬の即戦力アイテムを特別価格で提供する最新チラシを公開し、お得なセールを実施しています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   },
   {
@@ -2610,22 +2480,6 @@
    "detail_tries": 2
   },
   {
-   "id": "220cd81fd7698294",
-   "url": "https://news.yahoo.co.jp/articles/06ec0915d84a9dbfea1094aef9cd9e05002db50e",
-   "title_original": "「気に入って別の色も追加」「バッグにも収まって便利」の声も。ユニクロ〈秋冬ジャケット〉5990円に値下げ！軽くて暖かい高機能アウターに注目。収納袋付きで旅行にも便利（LIMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00142033-toushin-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T08:31:04+00:00",
-   "title_ja": "ユニクロの秋冬ジャケットが5,990円に値下げ",
-   "summary_ja": "ユニクロの秋冬向けジャケットが5,990円に値下げされた。軽量で温かく、コンパクトに収納できる袋が付いているため、旅行や持ち運びにも便利な高機能アウターとなっている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "100b54e07db121f0",
    "url": "https://www.asahi.com/articles/ASVBG3PH3VBGUTQP009M.html",
    "title_original": "ユニクロ、いなば、ANA 日系企業がドジャースブランドに集う理由 [大谷翔平]",
@@ -2784,22 +2638,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "58055fa35dee30ee",
-   "url": "https://news.yahoo.co.jp/articles/136082e17092cf888c0f5f1a90a1d896f095b274/images/000",
-   "title_original": "【今日まで3990円】“低身長さん” からも高評価！ ユニクロ話題の 《ショート丈ジャケット》 「脚が長く見える」「普段使いもお出かけも」 (LASISA)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXh5LtznmK5IAq0i489Al03qJiq94bpDKLIKPIRuLQFNQuLaCFAI1upDeIS5SKDzoEbwaUKo-c9zrZGrbI6TKtfia48Bwo8vlv5HZAfeS_Jj9Rc5SKMpt-NH_1CK3nhzMw==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T00:45:00+00:00",
-   "title_ja": "ユニクロのショート丈ジャケットが期間限定価格3990円で話題に",
-   "summary_ja": "ユニクロのショート丈ジャケットが本日まで3990円の限定価格で販売され注目されています。脚長効果が期待できるショート丈のシルエットや、普段使いからお出かけまで幅広く着回せる汎用性の高さが利用者から高評価を得ています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   },
   {
    "id": "03740cd2db15e916",
@@ -2982,7 +2820,7 @@
    "url": "https://alvinology.com/2026/10/14/uniqlo-expands-peace-for-all-charity-t-shirt-project-to-singapore-with-community-chest-partnership",
    "title_original": "UNIQLO Expands PEACE FOR ALL Charity T-Shirt Project to Singapore with Community Chest Partnership",
    "source": "Alvinology",
-   "image": "",
+   "image": "https://alvinology.com/wp-content/uploads/2026/10/L-R_-Sonia-Chew-Mediacorp-Personality-Crystal-Tan-Senior-Assistant-Director-HEART@Fei-Yue-Child-Protection-Specialist-Centre-Hwee-Lee-Senior-Sustainability-Director-UNIQLO-Singapore-Urassaya-Sperbund-U.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-14T14:17:31+00:00",
@@ -3170,22 +3008,6 @@
    "has_detail": true
   },
   {
-   "id": "a095ab0cd1259520",
-   "url": "https://lasisa.net/post/164537",
-   "title_original": "【明日まで990円】「流行りのトップスが」「コスパ最強」 GU《ソフトシアーカーディガン》 が★4.5！ 「3シーズン活躍しそう」",
-   "source": "LASISA",
-   "image": "https://lasisa.net/wp-content/uploads/2027/10/261014-guc-01.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T07:17:00+00:00",
-   "title_ja": "GU「ソフトシアーカーディガン」の期間限定価格セール",
-   "summary_ja": "GUの「ソフトシアーカーディガン」が明日まで990円の特価で販売されており、高い評価を集めるコスパ抜群のアイテムとして注目されています。",
-   "category": "キャンペーン・セール",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "cb6cff93b34cfec0",
    "url": "https://www.oricon.co.jp/news/2486326/full",
    "title_original": "ユニクロ、穴やシミのある服の“刺繍リペア”キャンペーン10・17から実施",
@@ -3229,22 +3051,6 @@
    "title_ja": "ユニクロの刺しゅうサービスやカフェなどの意外な試み",
    "summary_ja": "ユニクロで利用できる刺しゅうサービスをはじめ、店舗内のカフェや花、古着の販売といった意外な取り組みを紹介しています。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f991809c44dcdaa5",
-   "url": "https://ampmedia.jp/2026/10/14/uniqlo-1017",
-   "title_original": "ユニクロ、服の修繕が一部無料・500円引きになる「リペアウィーク」を10月17日～11月8日開催 全国20店舗にて",
-   "source": "AMP[アンプ]",
-   "image": "https://ampmedia.jp/wp-content/uploads/2026/10/68741-162-d5afc7c0fe01778619c84d382c3c837c-763x596-2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T04:07:10+00:00",
-   "title_ja": "ユニクロ、服の修理が割引・無料になる「リペアウィーク」を10月17日より開催",
-   "summary_ja": "ユニクロは10月17日から11月8日まで、全国の対象20店舗で「リペアウィーク」を開催します。期間中は服の修繕サービスが一部無料または500円引きで利用可能になります。",
-   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -3398,7 +3204,7 @@
    "url": "https://www.businessoffashion.com/articles/global-markets/worldview-uniqlo-owner-fast-retailing-eyes-mass-fashion-dominance",
    "title_original": "Worldview | Uniqlo-Owner Fast Retailing Eyes Mass Fashion Dominance",
    "source": "The Business of Fashion",
-   "image": "",
+   "image": "https://img.businessoffashion.com/resizer/v2/3KGJISI7PBFM5BFPA2QWT46MVE.png?smart=true&auth=cde9fe74d799a566a9095dcc1aa6a05ed3ffd20f9bc5fe63d610d47193932581&width=1200&height=630",
    "lang": "en",
    "region": "global",
    "published": "2026-10-13T12:27:00+00:00",
@@ -3408,22 +3214,6 @@
    "brand": "グループ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "b1f4b5f21b1cec14",
-   "url": "https://www.liverpoolecho.co.uk/whats-on/shopping/uniqlo-reduces-windproof-jacket-3490-34756987",
-   "title_original": "Uniqlo reduces 'windproof' jacket to £34.90 in a 'timeless' design",
-   "source": "Liverpool Echo",
-   "image": "https://i2-prod.liverpoolecho.co.uk/article34635066.ece/ALTERNATES/s1200d/1_GettyImages-458709201.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T10:47:23+00:00",
-   "title_ja": "英ユニクロが防風ジャケットを34.90ポンドへ値下げして販売",
-   "summary_ja": "英国のユニクロにて、タイムレスなデザインが魅力の防風ジャケットが34.90ポンドに値下げされました。高い防風機能と着回しやすさを兼ね備えたアイテムとして現地で注目されています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   },
   {
    "id": "d97a101ca81c4930",
@@ -3437,22 +3227,6 @@
    "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コレクションが10月16日に発売決定",
    "summary_ja": "ユニクロは「JW ANDERSON」とのコラボレーションによる2026年秋冬コレクションを、10月16日に正式発売します。毎シーズン高い人気を誇る定番コラボの最新作として展開されます。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9c0e46a734d1c9f6",
-   "url": "https://news.yahoo.co.jp/articles/c32d6bec014b12ac5e9b573d759dc3290be3ef6a",
-   "title_original": "「これからヘビロテしようと思います！」ユニクロの“撥水パーカ”が5990円→4990円に 「一目惚れ」「太って見えない」（ねとらぼ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10172323-it_nlab-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T10:05:00+00:00",
-   "title_ja": "ユニクロの撥水パーカが5990円から4990円に値下げされて注目",
-   "summary_ja": "ユニクロの撥水パーカが5990円から4990円に値下げされ注目を集めています。すっきり見えて太って見えないシルエットや撥水機能の高さが評価され、日常的に着回しやすいアイテムとして人気を博しています。",
-   "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -3485,22 +3259,6 @@
    "title_ja": "ユニクロがJWアンダーソンとの2026年秋冬新作コレクションを発表",
    "summary_ja": "ユニクロとJWアンダーソンのコラボレーションによる2026年秋冬の新作コレクションが登場しました。今期の秋冬スタイルを新しく彩るラインナップが提案されています。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7153f33db2de4b30",
-   "url": "https://news.yahoo.co.jp/articles/23598b96077011df5e640c9b8e78417a8e77d771",
-   "title_original": "【ユニクロ】10/15までの特別価格！メリノウールカーディガン2,990円・ソフトリブT1,290円など秋の定番がお買い得",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000010-manetatsun-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T09:00:02+00:00",
-   "title_ja": "ユニクロが10月15日まで秋の定番服を特別価格で販売、カーディガンなどが対象",
-   "summary_ja": "ユニクロは10月15日までの期間限定で特別価格セールを実施しています。メリノウールカーディガンが2,990円、ソフトリブTが1,290円になるなど、秋の定番アイテムがお買い得価格で提供されています。",
-   "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -3600,22 +3358,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "bb3cad8d48d88189",
-   "url": "https://news.yahoo.co.jp/articles/61e01877ee824ecf31aefd6033232811c07d294f/images/001",
-   "title_original": "文句なしの着心地＞ユニクロのメリノカーディガンが期間限定2990円！「秋冬の大定番」「大人世代も顔映り華やか」「上品な光沢で高見え」とリピーター続出 (婦人公論.jp)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWWzPArGPW9TUBYPEpmhOxoQ_azLr3CH0wz1H0SquUhXA7diToDTY93xaEL83RwRweT1qhzOfHEcEr2ZSeIzsKXNjQ07sJJVLPHkiu_D40KS",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T03:30:39+00:00",
-   "title_ja": "ユニクロのメリノカーディガンが期間限定で特価に",
-   "summary_ja": "秋冬の定番として人気のユニクロのメリノカーディガンが、期間限定価格の2990円で販売されています。上品な光沢が高見えすると好評です。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   },
   {
    "id": "a4108878747fefea",
@@ -3862,7 +3604,7 @@
    "url": "https://www.democrata.es/en/economy/uniqlo-accelerates-its-expansion-in-spain-with-its-eighth-store-in-madrid/amp",
    "title_original": "Uniqlo accelerates its expansion in Spain with its eighth store in Madrid",
    "source": "Demócrata",
-   "image": "",
+   "image": "https://www.democrata.es/uploads/s1/33/36/36/1/fotonoticia-20261012112752-1920_23_1200x630.jpeg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-12T09:29:07+00:00",
@@ -4386,38 +4128,6 @@
    "detail_tries": 2
   },
   {
-   "id": "da3b436f3750d62c",
-   "url": "https://news.yahoo.co.jp/articles/eae78c45b3c2fb1a628f8146dd88bef0b58a0026",
-   "title_original": "「寒くなり始めにちょうど良い」ユニクロのショート丈ジャケットが10月15日まで3990円 「長すぎない丈が嬉しい」「足が長く見える」の声も",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-11796162-maidonans-000-42705867-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T11:25:15+00:00",
-   "title_ja": "ユニクロ、ショート丈ジャケットを期間限定価格で販売",
-   "summary_ja": "ユニクロはショート丈ジャケットを10月15日まで3990円の期間限定価格で販売している。絶妙な丈感が足長効果を生むとSNSでも好評を集めている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "aec10e0bd7d1980d",
-   "url": "https://news.yahoo.co.jp/articles/f91cf109831d4a4f7b9f6817f1c9694ac101db38/images/000",
-   "title_original": "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWyWBcxS-FBoYiQfwLi0_EODmkaq_tmTY4yCITRKqt4jyhYHWuv1HQItgFoAZbcjITfnfZqjaJqCTv-WR5VyiLAn-pHRY4Ks3p_owuGjP2a2gyorj0aRTNtIphhrfLbxEg==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T09:40:00+00:00",
-   "title_ja": "ユニクロ、対象パンツを値下げして1990円で販売",
-   "summary_ja": "ユニクロの一部パンツ商品が3990円から1990円へと値下げされ話題となっている。速乾性の高さや着回し力の面で高評価を得ている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
    "id": "9a7e2fa728f5d8bd",
    "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/broadcast-schedule-kei-nishikori-exhibition-match-20261011/blta0c8ed7ed4de9881",
    "title_original": "「LifeWear Day TOKYO 2026 with 錦織圭」のテレビ放送/ネット配信予定・視聴方法は？フェデラーら参加のエキシビション",
@@ -4432,22 +4142,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "5b3e89741830fc1e",
-   "url": "https://news.yahoo.co.jp/articles/870d2855e8afda7d724b35fd4c5ad3a49de6ba90/images/000",
-   "title_original": "「復活を待ってました！」ユニクロのVネックブラキャミが《2490→1990円》 「これ以上のものはない」「全て理想通り」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnf_CxybXNVNfTDt_65CfmHfd6Y0wWHg_DspRuFQytArQXl6eRSyoKENhDbHcX9dhQOWQ9dUfg-4MpqA7KIb67HzceXHOdjYS3N0V5u2nHf0z",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T09:15:00+00:00",
-   "title_ja": "ユニクロ、Vネックブラキャミソールを1990円に値下げ",
-   "summary_ja": "ユニクロのVネックブラキャミソールが2490円から1990円に値下げされた。その着心地の良さや使い勝手の高さから、再販売を喜ぶ声が上がっている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "c1313d852f2af33f",
@@ -4562,22 +4256,6 @@
    "has_detail": true
   },
   {
-   "id": "29e1b29289da3ed7",
-   "url": "https://news.yahoo.co.jp/articles/cd7907cb60e4183d7b92f3b4da911214e2771c59/images/000",
-   "title_original": "「何着目かリピート買い」ユニクロの「メリノVネックカーディガン」が期間限定2990円 仕事着として5〜6年愛用する人も「実に使い勝手が良い」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnR9SZyReGCAd0rDO5MqTKHSvuJWREzOpKWO7vibquvDQrZ2sRVZku57ZqAxergyvuHxPxcgIMEkU6kQ5Z3ut-li4nNmxtH_Pt3pefLZ4C3TOUkUQ9P4JOag6kQuzWD4SGA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T05:20:14+00:00",
-   "title_ja": "ユニクロの「メリノVネックカーディガン」が期間限定で2,990円に",
-   "summary_ja": "ユニクロの定番アイテム「メリノVネックカーディガン」が期間限定で2,990円の特別価格となっています。長年リピート買いする愛用者も多く、使い勝手の良い仕事着などとして親しまれています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
    "id": "a25d968a1a1fa418",
    "url": "https://ubenippo.co.jp/photo-movie/%E3%80%90%E5%8B%95%E7%94%BB%E3%80%91%E8%A5%BF%E5%AE%87%E9%83%A8%E5%B0%8F%E3%81%A7%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AE%E7%92%B0%E5%A2%83%E6%8E%88%E6%A5%AD%E3%80%80%E8%A1%A3%E6%9C%8D%E3%81%AE",
    "title_original": "【動画】西宇部小でユニクロの環境授業 衣服の再利用通じ学習【宇部】",
@@ -4589,22 +4267,6 @@
    "title_ja": "ユニクロが西宇部小学校で環境授業を実施、衣服の再利用を学ぶ",
    "summary_ja": "ユニクロが西宇部小学校で衣服の再利用に関する環境授業を行いました。児童たちは服のリサイクルやリユースの重要性について学び、持続可能な社会に向けた取り組みに理解を深めました。",
    "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "c956c25f8adb501c",
-   "url": "https://news.yahoo.co.jp/articles/69575842081d7d29696015ebf09d9929b7973fe7/images/000",
-   "title_original": "「人生初の4色買い」ユニクロの「スウェットストレートパンツ」が期間限定2990円 「職場に余裕で着ていける」「もっと早く買えば良かった」",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYl5QHhjEzc5vk6wb9bDcjZyXK4frveNOjrR5yg75i0JVLSQ0Ya8t30i7MIczM3d3M-rPeEN99BkPUtGmw1RBJNv0pnINYezrlleH4jI0nnT",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T04:32:18+00:00",
-   "title_ja": "ユニクロがスウェットストレートパンツを期間限定2,990円で販売",
-   "summary_ja": "ユニクロは人気の「スウェットストレートパンツ」を期間限定価格の2,990円で販売しています。きれいめに見えて職場でも履きやすいと好評で、複数色を買い揃える購入者も出ています。",
-   "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
@@ -4815,22 +4477,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "a47841959754baf7",
-   "url": "https://news.yahoo.co.jp/articles/121ba0ee094adf8922dd32fbc9b3339b33e88cc1",
-   "title_original": "「リピート買いしています」ユニクロの長袖リブTが10月15日まで1290円 秋の重ね着にも「色違いで何枚も欲しくなります」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-11795962-maidonans-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T21:30:13+00:00",
-   "title_ja": "ユニクロの長袖リブTが10月15日まで1290円に　秋の重ね着に重宝",
-   "summary_ja": "ユニクロは「長袖リブT」を10月15日までの期間限定価格となる1290円で販売している。秋の重ね着スタイルにも活用しやすいアイテムとして注目を集めている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   },
   {
@@ -5456,22 +5102,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "1b5f8cfbcb038f6a",
-   "url": "https://news.yahoo.co.jp/articles/79f1f79f694cfc8e7449fc763908333a4e9deb16/images/000",
-   "title_original": "「色違いで4枚買い足しました」 ユニクロの“長袖Tシャツ”が1990円→1290円に 「着心地がよく、ノンストレスで着れる」「1枚持っておくと便利」 (ねとらぼ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncBXnJrTUCeP_9UflinbLntVUm9vdF3TnuOGVwPUbj5WRXfxXfW6JUChh-o3y5ccA1tfqoiew4DzRQHWTbUxguhLWMg_w1UFC0kg-hVmtm5skqAQQnMORbSe9U4jLIzEvQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T06:00:00+00:00",
-   "title_ja": "ユニクロの長袖Tシャツが1290円に値下げ、着心地の良さや使い勝手で人気",
-   "summary_ja": "ユニクロの長袖Tシャツが1990円から1290円へ値下げされています。着心地の良さやノンストレスな着用感、1枚持っていると重宝する使い勝手の良さから、色違いで複数枚買い足す購入者も出るなど評判となっています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   },
   {
    "id": "cfa3571a5d3f7a83",
@@ -6670,6 +6300,38 @@
    "summary_ja": "ユニクロを展開するファーストリテイリングの中国本土における業績について、売上高および利益が回復に向かっていることが報じられました。",
    "category": "海外展開",
    "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ecca2cd4fd997eb8",
+   "url": "https://www.walkerplus.com/article/1444225",
+   "title_original": "たべっ子どうぶつ、北斎、駄菓子Tシャツまで！ 錦糸町ユニクロ限定「UTme!」とローカライズの最前線",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/1444225/18657844_615.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-06T15:00:07+00:00",
+   "title_ja": "錦糸町店のUTme!にたべっ子どうぶつや北斎デザインが登場",
+   "summary_ja": "ユニクロ錦糸町店の「UTme!」にて、たべっ子どうぶつや葛飾北斎、駄菓子などをモチーフにした限定デザインが展開されています。地域に根差したローカライズの取り組みです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c7b88820cb26a93b",
+   "url": "https://diamond-rm.net/flash_news/560079",
+   "title_original": "ユニクロ、11月6日、京都にグローバル旗艦店「ユニクロ 京都」オープン",
+   "source": "ダイヤモンド・チェーンストア",
+   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/10/image2-2.png?auto=format%2Ccompress&ixlib=php-3.3.0",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-06T02:00:24+00:00",
+   "title_ja": "ユニクロが京都にグローバル旗艦店「ユニクロ 京都」を11月6日オープン",
+   "summary_ja": "ユニクロは、11月6日に新たなグローバル旗艦店となる「ユニクロ 京都」をオープンすることを発表しました。地域に向けた大型店舗の出店として注目を集めています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
   }

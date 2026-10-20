@@ -105,6 +105,17 @@ ONGOING_CLAIM_RE = re.compile(
 )
 
 
+# 限定価格・値下げ・セール・チラシの話題は載せない（2026-10-20、本人の希望）。
+PRICE_PROMO_RE = re.compile(
+    r"限定価格|期間限定.{0,12}(価格|円|セール|お得|お買い得)|限定\d[\d,]*円|\d[\d,]*円に(?!なる)"
+    r"|値下げ|値引|セール(?!ス)|チラシ|特別価格|円(オフ|引き)|プライスダウン|お買い得|お得に"
+)
+
+
+def is_price_promo(*texts: str) -> bool:
+    return any(PRICE_PROMO_RE.search(text or "") for text in texts)
+
+
 def nearest_date_delta_days(month: int, day: int, now_jst: dt.datetime) -> int:
     """今日から見て一番近い「その月日」までの日数（未来なら正、過去なら負）。"""
     candidates = []
@@ -714,13 +725,13 @@ PROMPT_TEMPLATE = """あなたはユニクロ（ファーストリテイリン�
   「ユニクロ的な」という比喩、株価の自動生成記事、まとめサイトのランキング、
   個人のコーディネート紹介や通販アフィリエイトの記事は false。
 - type は "report" か "recommend" のどちらか。
-  report = 企業や店舗の動き（発売・コラボ・CM起用・値下げ・出店・決算・提携など）を
+  report = 企業や店舗の動き（発売・コラボ・CM起用・出店・決算・提携など）を
   「起きたこと・これから起きること」として伝える記事。このサイトの中心なので必ず載せる。
   recommend = 書き手の好みで商品を薦めるだけの記事。ニュースになる発表が無く、
   「買うべき」「神アイテム」「〇選」「私の愛用品」「着回し」が主題のもの。
   判断の例:
     「佐々木希がユニクロの新CMに出演」→ report（企業が起用した発表なので）
-    「ユニクロが8月20日まで限定値下げを実施」→ report（施策の告知なので）
+    「ユニクロが8月20日まで限定値下げを実施」→ report、ただし price_promo は true（下の定義）
     「ユニクロのちいかわコラボTシャツが発売」→ report（発売の告知なので）
     「40代が買うべきユニクロの神インナー5選」→ recommend
     「ユニクロ店員の私が毎日着ている着回しコーデ」→ recommend
@@ -733,6 +744,8 @@ PROMPT_TEMPLATE = """あなたはユニクロ（ファーストリテイリン�
   具体的な事実が本文に無いものは recommend にする（出店・決算・CM起用・コラボ発表・
   寄付やイベントの開催報告など、商品の魅力紹介が主題ではない記事はこれに当たらない。引き続き report）。
   迷ったら report にする。
+- price_promo: 限定価格・期間限定価格・値下げ・値引き・セール・チラシ（価格や割引の告知）が
+  主題の記事は true。新商品の発売価格の紹介や、決算・出店・コラボ発表は false。
 - noise: 求人・占い・株価の自動生成記事・見出しだけの転載など、
   そもそも記事の体をなしていないものだけ true。
 - brand は次から1つ: {brands}
@@ -744,7 +757,7 @@ PROMPT_TEMPLATE = """あなたはユニクロ（ファーストリテイリン�
 - 出力はJSON配列のみ。前置き・説明・コードフェンスを付けない。
 
 出力形式（要素数は入力と同じ{count}件、iは入力の番号）:
-[{{"i":1,"uniqlo":true,"type":"report","noise":false,"title_ja":"...","summary_ja":"...","brand":"ユニクロ","category":"新商品・コラボ","importance":3}}]
+[{{"i":1,"uniqlo":true,"type":"report","price_promo":false,"noise":false,"title_ja":"...","summary_ja":"...","brand":"ユニクロ","category":"新商品・コラボ","importance":3}}]
 
 入力記事:
 {articles}
@@ -830,6 +843,10 @@ def enrich(items: list[dict], skipped: dict[str, str]) -> list[dict]:
                 continue
             if str(entry.get("type", "report")).strip() == "recommend":
                 print(f"  ・おすすめ紹介記事のため除外: {entry.get('title_ja', '')}")
+                skipped[item["id"]] = now
+                continue
+            if entry.get("price_promo") is True or is_price_promo(entry.get("title_ja", "")):
+                print(f"  ・限定価格・値下げの話題のため除外: {entry.get('title_ja', '')}")
                 skipped[item["id"]] = now
                 continue
             category = str(entry.get("category", "")).strip()
@@ -1274,6 +1291,10 @@ def main() -> int:
             if item["url"] in known_urls:  # 別のフィードから同じ記事が来ていた
                 skipped[item["id"]] = stamp
                 continue
+            if is_price_promo(item["title_original"]):
+                print(f"  ・限定価格・値下げの話題のため除外: {item['title_original']}")
+                skipped[item["id"]] = stamp
+                continue
             known_urls.add(item["url"])
             screened.append(item)
         # ページに書かれた公開日を見て、古い記事を落とす（同時にサムネイルも取る）。
@@ -1301,6 +1322,7 @@ def main() -> int:
         and item.get("category") in CATEGORIES
         and not any(blocked in item["source"] for blocked in BLOCK_SOURCES)
         and not BLOCK_URL_RE.search(item["url"])
+        and not is_price_promo(item.get("title_ja", ""), item.get("title_original", ""))
     ]
 
     merged = enriched + kept_existing
