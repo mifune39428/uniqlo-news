@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:53:32.441530+09:00",
+ "updated_at": "2026-10-20T11:33:01.518227+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2929,
+ "catalog_size": 2937,
  "count": 56,
  "items": [
   {
@@ -102,8 +102,48 @@
    "rising": true
   },
   {
-   "key": "GU:E360897-000",
+   "key": "UQ:E448034-000",
    "rank": 4,
+   "brand": "ユニクロ",
+   "name": "感動ジャケット",
+   "genders": [
+    "メンズ"
+   ],
+   "price": 6990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/448034/item/jpgoods_69_448034_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E448034-000/00?colorDisplayCode=69",
+   "rating": 4.5,
+   "reviews": 4768,
+   "reviews7": 30,
+   "capped": false,
+   "prev7": 21,
+   "mentions7": 14,
+   "mention_titles": [
+    {
+     "t": "ユニクロ、11月10日から値上げへ 「感動ジャケット」など対象の全11商品まとめ 「ソックスまとめ買い」も終了",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/d670e9b6201f454cfe4cb5dc62e2c087eeec78fb"
+    },
+    {
+     "t": "ユニクロ／感動ジャケット6990円→7990円、一部商品を11月10日から4％値上げ",
+     "s": "流通ニュース",
+     "u": "https://www.ryutsuu.biz/strategy/s102043.html"
+    },
+    {
+     "t": "ユニクロがソックスまとめ買い終了を発表 「感動ジャケット」など一部商品値上げも（FASHIONSNAP）",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/a4dbb8f5eb2c24d23d903838b6b9094109d771f8"
+    }
+   ],
+   "score": 100,
+   "momentum": 1.01,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E360897-000",
+   "rank": 5,
    "brand": "GU",
    "name": "パッファーボストンバッグ",
    "genders": [
@@ -127,7 +167,7 @@
   },
   {
    "key": "GU:E358176-000",
-   "rank": 5,
+   "rank": 6,
    "brand": "GU",
    "name": "ソフトシアークルーネックT(長袖)",
    "genders": [
@@ -151,7 +191,7 @@
   },
   {
    "key": "UQ:E486117-000",
-   "rank": 6,
+   "rank": 7,
    "brand": "ユニクロ",
    "name": "スウェットシャツ",
    "genders": [
@@ -192,7 +232,7 @@
   },
   {
    "key": "UQ:E465193-000",
-   "rank": 7,
+   "rank": 8,
    "brand": "ユニクロ",
    "name": "エアリズムコットンクルーネックTシャツ",
    "genders": [
@@ -217,7 +257,7 @@
   },
   {
    "key": "UQ:E471809-000",
-   "rank": 8,
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "スウェットワイドパンツ",
    "genders": [
@@ -242,7 +282,7 @@
   },
   {
    "key": "UQ:E487178-000",
-   "rank": 9,
+   "rank": 10,
    "brand": "ユニクロ",
    "name": "エアリズムシームレスVネックブラキャミソール",
    "genders": [
@@ -266,7 +306,7 @@
   },
   {
    "key": "GU:E361181-000",
-   "rank": 10,
+   "rank": 11,
    "brand": "GU",
    "name": "ソフトシアーカーディガン",
    "genders": [
@@ -296,7 +336,7 @@
   },
   {
    "key": "UQ:E469411-000",
-   "rank": 11,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "メリノクルーネックカーディガン",
    "genders": [
@@ -320,7 +360,7 @@
   },
   {
    "key": "UQ:E487957-000",
-   "rank": 12,
+   "rank": 13,
    "brand": "ユニクロ",
    "name": "スマートワイドストレートパンツ",
    "genders": [
@@ -346,46 +386,6 @@
    ],
    "score": 71,
    "momentum": 1.23,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E448034-000",
-   "rank": 13,
-   "brand": "ユニクロ",
-   "name": "感動ジャケット",
-   "genders": [
-    "メンズ"
-   ],
-   "price": 6990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/448034/item/jpgoods_69_448034_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E448034-000/00?colorDisplayCode=69",
-   "rating": 4.5,
-   "reviews": 4768,
-   "reviews7": 30,
-   "capped": false,
-   "prev7": 21,
-   "mentions7": 8,
-   "mention_titles": [
-    {
-     "t": "ユニクロ、秋冬11商品を平均4％値上げ 感動ジャケット7990円に",
-     "s": "BigGo ファイナンス",
-     "u": "https://finance.biggo.jp/news/a610e91d-5eb2-41ad-9fd5-443748fba0eb"
-    },
-    {
-     "t": "ユニクロ値上げ、何がいくら上がる？ 感動ジャケット7990円、靴下390円に 送料・裾上げ料金も【一覧】",
-     "s": "福井新聞社",
-     "u": "https://www.fukuishimbun.co.jp/articles/-/2726108"
-    },
-    {
-     "t": "ユニクロ、「感動ジャケット」など平均4%値上げ 原材料価格を転嫁",
-     "s": "日本経済新聞",
-     "u": "https://www.nikkei.com/article/DGXZQOUC198PQ0Z11C26A0000000"
-    }
-   ],
-   "score": 70,
-   "momentum": 1.01,
    "new": false,
    "rising": false
   },

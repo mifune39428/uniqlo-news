@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:49:38.054556+09:00",
+ "updated_at": "2026-10-20T11:30:03.867945+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -17,7 +17,6 @@
  ],
  "sources": [
   "36Kr",
-  "47NEWS",
   "7NEWS",
   "@DIME アットダイム",
   "ABC7 Bay Area",
@@ -32,7 +31,6 @@
   "BAILA（バイラ）",
   "BigGo Finance",
   "BigGo ファイナンス",
-  "Bloomberg.com",
   "Bollywood Hungama",
   "Borneo Bulletin Online",
   "British Vogue",
@@ -168,9 +166,11 @@
   "afaqs!",
   "anemo（アネモ）",
   "businessnewsthisweek.com",
+  "coki",
   "https://www.briefasia.com/",
   "marketscreener.com",
   "nss magazine",
+  "shiritomo",
   "www.marketscreener.com",
   "www.nagoyatv.com",
   "| 繊研新聞",
@@ -194,6 +194,7 @@
   "下野新聞社",
   "中日新聞Web",
   "千葉テレビ放送株式会社",
+  "号外NET 世田谷区",
   "四季報オンライン",
   "地球の歩き方",
   "宇部日報デジタル SARATTO",
@@ -204,12 +205,14 @@
   "日本ネット経済新聞",
   "日本経済新聞",
   "日流ウェブ",
+  "日経CNBC online",
   "日経ビジネス電子版",
   "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
   "東京・大阪 都心上空ヘリコプター遊覧飛行",
   "東京報道新聞",
+  "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
   "激流オンライン",
@@ -219,50 +222,73 @@
   "福井新聞社",
   "繊研新聞",
   "西日本新聞me",
+  "読売新聞",
   "電撃オンライン",
   "매일경제",
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 237,
  "digest": {
-  "headline": "ユニクロが11月から平均4%値上げへ、グループは過去最高益",
+  "headline": "ファーストリテイリングが最高益と値上げを発表",
   "points": [
    {
-    "text": "ユニクロは11月10日より、感動ジャケットなどの秋冬商品や11商品を平均4%値上げし、ソックスのまとめ買い割引も終了することを発表しました。",
-    "ids": [
-     "c67a9cbeefb77793",
-     "2a307401cdc3eaaa",
-     "628a48e5361dfd88"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングは最新の業績で過去最高益を計上し、良品計画とともに2026年8月期決算で2桁増収増益を達成しました。",
+    "text": "ファーストリテイリングと良品計画の2026年8月期決算は2桁増収増益となり、過去最高益も計上されました。",
     "ids": [
      "4a688d773ec9f51c",
      "71ed05fb66c21e8a"
     ]
    },
    {
-    "text": "海外事業ではインド市場での売上高や純利益が大幅な増収増益となり、カナダの新店舗オープンでは開店前に約300人の行列ができるなど順調な成長を見せています。",
+    "text": "ユニクロは11月10日から感動ジャケットなど11商品を平均4%値上げし、ソックスのまとめ買い割引も終了します。",
     "ids": [
-     "89205b478793ac67",
-     "a42cf165500df5b2",
-     "b69424334eeaf56b"
+     "c67a9cbeefb77793",
+     "fb7028c482288431",
+     "2a307401cdc3eaaa"
     ]
    },
    {
-    "text": "SNSでは「感動ジャケット」がXで3日に107件投稿されたほか、ウィメンズの「フーデッドリブT」のレビューが7日で117件増加しています。",
+    "text": "インド事業の売上高が44%増を記録したほか、中国以外の海外市場へ注力する新戦略を進めています。",
+    "ids": [
+     "89205b478793ac67",
+     "817fa856a41aaaee"
+    ]
+   },
+   {
+    "text": "10月30日に発売されるニットコレクションや、12月中旬の「スヌーピー」コラボUTなどの新作も控えています。",
+    "ids": [
+     "4236cfd8835ffe55",
+     "8bd576a0efc56114"
+    ]
+   },
+   {
+    "text": "GU タックワイドパンツはXで3日に14件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-17T06:57:11.938295+09:00",
-  "generated_at": "2026-10-20T06:57:13.868579+09:00",
+  "from": "2026-10-17T11:36:34.042172+09:00",
+  "generated_at": "2026-10-20T11:36:35.618122+09:00",
   "article_count": 24,
-  "sig": "3e34b95ff8c6"
+  "sig": "ee5d82c18018"
  },
  "items": [
+  {
+   "id": "4236cfd8835ffe55",
+   "url": "https://prtimes.jp/main/html/rd/p/000000128.000076227.html",
+   "title_original": "MADE FOR DREAMING 「UNIQLO F.RISSO」Knitwear Capsule Collection 2026 2026年10月30日（金）発売",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/76227/128/76227-128-095beb1ec581001f866db3845075838b-2383x1588.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T11:00:02+00:00",
+   "title_ja": "ユニクロが「UNIQLO F.RISSO」ニットコレクションを10月30日に発売",
+   "summary_ja": "ユニクロは「UNIQLO F.RISSO」のニットウェアカプセルコレクションを2026年10月30日に発売する。「MADE FOR DREAMING」をテーマにした注目の新作ラインアップが登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "67354cc44045a943",
    "url": "https://www.nishinippon.co.jp/image/1093994",
@@ -280,6 +306,118 @@
    "detail_tries": 2
   },
   {
+   "id": "fb7028c482288431",
+   "url": "https://news.yahoo.co.jp/articles/d670e9b6201f454cfe4cb5dc62e2c087eeec78fb",
+   "title_original": "ユニクロ、11月10日から値上げへ 「感動ジャケット」など対象の全11商品まとめ 「ソックスまとめ買い」も終了",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-01235973-fnn-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T02:04:20+00:00",
+   "title_ja": "ユニクロが11月10日より値上げを実施、「感動ジャケット」など11商品が対象に",
+   "summary_ja": "ユニクロは11月10日から価格改定を行い、「感動ジャケット」をはじめとする全11商品を値上げする。これに合わせて、これまで実施されていたソックスのまとめ買い割引施策も終了することが明らかになった。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2aee346cc7612d34",
+   "url": "https://news.yahoo.co.jp/articles/a4dbb8f5eb2c24d23d903838b6b9094109d771f8",
+   "title_original": "ユニクロがソックスまとめ買い終了を発表 「感動ジャケット」など一部商品値上げも（FASHIONSNAP）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00540511-fashions-000-3-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T01:17:05+00:00",
+   "title_ja": "ユニクロ、ソックスまとめ買い終了と一部値上げを発表",
+   "summary_ja": "ユニクロはソックスのまとめ買いサービスの終了を発表しました。同時に、感動ジャケットをはじめとする一部商品の価格改定についても明らかにしています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5bd61c13439fcfe5",
+   "url": "https://online.nikkei-cnbc.co.jp/vod/68555",
+   "title_original": "ファーストリテイリング、「感動ジャケット」など秋冬商品を平均4%値上げ 11月10日から",
+   "source": "日経CNBC online",
+   "image": "https://dc3hn7hly4eqd.cloudfront.net/image/thumb/202610200925.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T01:06:00+00:00",
+   "title_ja": "ファストリ、感動ジャケット等の秋冬商品を平均4%値上げ",
+   "summary_ja": "ファーストリテイリングは、11月10日から感動ジャケットなどの秋冬商品を平均約4%値上げすると発表しました。コスト上昇に伴う価格改定となります。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "7911bc5dc2f748f4",
+   "url": "https://shikiho.toyokeizai.net/news/0/961839",
+   "title_original": "ファーストリテが3日ぶり反発､一部商品の値上げを評価",
+   "source": "四季報オンライン",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T00:49:39+00:00",
+   "title_ja": "ファーストリテイリングが3日ぶり反発、一部値上げを評価",
+   "summary_ja": "ファーストリテイリングの株式が3営業日ぶりに反発しました。一部商品の値上げ実施が市場から評価されたと報じられています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e17e4b906ca7b8fe",
+   "url": "https://coki.jp/article/column/95626",
+   "title_original": "ユニクロ「感動」が「ため息」に？ 靴下まとめ買い終了、値上げで遠のくファストファッションの手軽さ",
+   "source": "coki",
+   "image": "https://coki.jp/wp-content/uploads/2026/10/Unknown-2-10.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T23:30:00+00:00",
+   "title_ja": "ユニクロ靴下のまとめ買い終了と値上げで高まる負担感",
+   "summary_ja": "ユニクロの人気商品における靴下のまとめ買いサービス終了や価格改定について、手軽さが薄れる懸念を伝えています。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8bd576a0efc56114",
+   "url": "https://hashout.jp/sns/12867",
+   "title_original": "スヌーピー×ユニクロ新作UT、12月中旬発売で全12点――ファミマコラボは10月20日から",
+   "source": "shiritomo",
+   "image": "https://hashout.jp/wp-content/uploads/2026/10/2112022938308538449-img-1-1200x675.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T22:56:06+00:00",
+   "title_ja": "スヌーピーコラボの新作UTが12月中旬に登場",
+   "summary_ja": "スヌーピーとユニクロによる新作UTの発売が12月中旬に予定されており、全12アイテムがラインナップされます。ファミリーマートとのコラボについても10月20日から展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "db9a390810344719",
+   "url": "https://setagaya.goguynet.jp/2026/10/20/uniqro",
+   "title_original": "【世田谷区】店舗限定デザインTシャツなど楽しみたくさん！大型店舗「ユニクロ世田谷千歳台店」がいよいよリニューアルオープンします！",
+   "source": "号外NET 世田谷区",
+   "image": "https://setagaya.goguynet.jp/wp-content/uploads/sites/145/2026/10/IMG_9650.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T22:35:24+00:00",
+   "title_ja": "大型店舗のユニクロ世田谷千歳台店がリニューアル",
+   "summary_ja": "大型店舗であるユニクロ世田谷千歳台店が、店舗限定デザインのTシャツなどを取り揃えてリニューアルオープンを迎えます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "2a307401cdc3eaaa",
    "url": "https://news.yahoo.co.jp/articles/423bae124afbdb3a12e87e3fa8628c83db001a87",
    "title_original": "ユニクロ 秋冬物11商品を平均4％値上げへ 11月10日から ソックスまとめ買いも終了（FNNプライムオンライン（フジテレビ系））",
@@ -293,6 +431,22 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "9671f0c40b53a2c3",
+   "url": "https://mainichi.jp/articles/20261020/ddl/k29/040/224000c",
+   "title_original": "たけまるくん Tシャツに トートバッグも 23日、ユニクロで発売 生駒 ／奈良",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/10/20/20261020ddlk29040348000p/0c10.jpg?2",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T20:05:43+00:00",
+   "title_ja": "奈良・生駒のキャラクター「たけまるくん」Tシャツ・バッグが23日ユニクロで発売",
+   "summary_ja": "奈良県生駒市のキャラクター「たけまるくん」がプリントされたTシャツやトートバッグが、10月23日からユニクロで発売される。ご当地キャラクターをあしらった限定感のあるラインアップとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "detail_tries": 1
   },
   {
@@ -310,6 +464,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "cac07d7e47059c0e",
+   "url": "https://www.yomiuri.co.jp/shimen/20261019-GYT9T00317",
+   "title_original": "ユニクロ秋冬物値上げ",
+   "source": "読売新聞",
+   "image": "https://www.yomiuri.co.jp/ogp.jpg?type=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T20:00:00+00:00",
+   "title_ja": "ユニクロ、秋冬物を値上げへ",
+   "summary_ja": "ユニクロが秋冬商品の価格を引き上げることが明らかになりました。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "89205b478793ac67",
@@ -485,7 +655,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af71984bfcd23b75",
@@ -805,7 +975,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4a688d773ec9f51c",
@@ -6502,166 +6672,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "f5174aa2a2707a50",
-   "url": "https://www.vietnam.vn/ja/uniqlo-gop-suc-cai-thien-dieu-kien-hoc-tap-cho-tre-em-vung-cao",
-   "title_original": "ユニクロは、山間部の子供たちの学習環境の改善に貢献しています。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/08/1791452049202_uniqlo-gop-suc-cai-thien-dieu-kien-hoc-tap-cho-tre-em-vung-cao-1488.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T09:15:00.785000+00:00",
-   "title_ja": "ユニクロ、山間部の子供たちの学習環境改善に貢献",
-   "summary_ja": "ユニクロが山間地域に暮らす子供たちの教育・学習環境の向上に向けた支援や社会貢献活動に尽力していることが伝えられています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a303eac666bafb02",
-   "url": "https://www.modaes.com/global/companies/uniqlo-unstoppable-once-again-in-2026-sales-rise-166-and-profits-increase-272",
-   "title_original": "Uniqlo Powers Ahead Again in 2026, Lifting Sales 16.6% and Profit 27.2%",
-   "source": "Modaes",
-   "image": "https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3OTE0NDY1Nzh9/files/2026/15-redaccion-empresas/fast-retailing/uniqlo-fast-retailing-tienda-store-exterior-1200.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T08:58:00+00:00",
-   "title_ja": "ユニクロ、2026年も増収増益で売上高16.6%増・利益27.2%増を達成",
-   "summary_ja": "ユニクロは2026年も順調に業績を伸ばし、売上高が16.6%増、利益が27.2%増と大幅な増収増益を達成したことが伝えられている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "b07626599c267100",
-   "url": "https://www.bloomberg.com/jp/news/articles/2026-10-08/TMIVYZT9NJLS00",
-   "title_original": "ユニクロ躍進でファストリ世界2位へ－H&M超え、首位ZARAの座も現実味",
-   "source": "Bloomberg.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T08:50:45+00:00",
-   "title_ja": "ファストリ、H&Mを超えて世界2位のアパレルに躍進",
-   "summary_ja": "ユニクロの好調な業績により、ファーストリテイリングがH&Mを抜いて世界2位のアパレル企業に浮上し、首位のZARAを追う展開となっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "472686fee9638c86",
-   "url": "https://english.kyodonews.net/articles/-/87590",
-   "title_original": "BREAKING NEWS: Fast Retailing set to surpass H&M to be world's 2nd largest clothing firm",
-   "source": "Japan Wire by Kyodo News",
-   "image": "https://english-kyodo.ismcdn.jp/mwimgs/f/0/1200x/img_f04ab8cf4feb2039ac6638aa72ee6798451735.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T08:45:00+00:00",
-   "title_ja": "ファストリ、世界2位のアパレル企業へ浮上へ",
-   "summary_ja": "ファーストリテイリングがH&Mを抜き、世界で2番目に大きなアパレル企業となる見通しであることが報じられた。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "5c6edba240659a17",
-   "url": "https://www.47news.jp/15055146.html",
-   "title_original": "【速報】ユニクロ運営会社、6年連続で過去最高益",
-   "source": "47NEWS",
-   "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T08:34:43+00:00",
-   "title_ja": "ユニクロ運営会社が過去最高益を更新",
-   "summary_ja": "ファーストリテイリングが過去最高益を更新したことが報じられました。詳しい業績の動向や今後の見通しに関心が集まっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "c35da6af1f3f70a7",
-   "url": "https://finance.biggo.jp/news/cdcb2475-3c2e-4e51-91af-bbf9b2023aae",
-   "title_original": "ユニクロ親会社のファーストリテイリング、通期純利益25%急増…5年連続で過去最高",
-   "source": "BigGo ファイナンス",
-   "image": "https://img.biggo.com/KYg2FLWGbRRqNDNgTKihoGB6kor0wxMVi_ffQYqcmpA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2NkY2IyNDc1LTNjMmUtNGU1MS05MWFmLWJiZjliMjAyM2FhZV8xNzkxNDQ3MjcwX2RlZmF1bHQuanBn.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T08:05:40+00:00",
-   "title_ja": "ファーストリテイリングの通期純利益が25%増",
-   "summary_ja": "ファーストリテイリングの通期純利益が25%の大幅な急増を記録し、最高益を更新しました。好調な業績が続いています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "bd781fea9ba80905",
-   "url": "https://finance.biggo.com/news/cdcb2475-3c2e-4e51-91af-bbf9b2023aae",
-   "title_original": "Uniqlo Parent Fast Retailing Posts 25% Surge in Annual Net Profit, Marking Fifth Straight Record Year",
-   "source": "BigGo Finance",
-   "image": "https://img.biggo.com/KYg2FLWGbRRqNDNgTKihoGB6kor0wxMVi_ffQYqcmpA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2NkY2IyNDc1LTNjMmUtNGU1MS05MWFmLWJiZjliMjAyM2FhZV8xNzkxNDQ3MjcwX2RlZmF1bHQuanBn.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T08:05:40+00:00",
-   "title_ja": "ファーストリテイリングの年間純利益が25%増、5年連続の過去最高益",
-   "summary_ja": "ユニクロを展開するファーストリテイリングの年間純利益が25%増加し、5年連続で過去最高益を更新したことが報じられた。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "63940780b518dcea",
-   "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_350167",
-   "title_original": "ファーストリテイリングが決算を発表 純利益5425億円で6年連続過去最高",
-   "source": "テレ東BIZ",
-   "image": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/you/20261008_ys_ns05_69ed002caac2ce30_9.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T07:54:00+00:00",
-   "title_ja": "ファーストリテイリングが最新決算を発表、純利益は5425億円で6年連続の過去最高を更新",
-   "summary_ja": "ファーストリテイリングが最新の決算結果を発表しました。純利益は5425億円に達し、6年連続で過去最高を更新したことが明らかになりました。グループ全体の経営が好調を維持していることを示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "bcc0f7cbc0ff20cd",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45U0GA:0",
-   "title_original": "Europa-Geschäft beschert Uniqlo-Mutter Fast Retailing Gewinnsprung",
-   "source": "TradingView",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T07:45:57+00:00",
-   "title_ja": "欧州事業の好調が牽引、ファーストリテイリングが利益急増を達成",
-   "summary_ja": "ユニクロの親会社であるファーストリテイリングが、欧州事業の好調な展開を背景に大幅な利益増を記録したと報じられている。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "ec37a59ccd7433dd",
-   "url": "https://news.yahoo.co.jp/articles/74f3dcba72faa5cdf2daacce67399cf1e65fcb4e/images/000",
-   "title_original": "ファーストリテイリング、営業利益7,431億円で過去最高 年間配当は500円から850円に (ビジネス＋IT)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnc2bFw9_VPBdWYiNgKYC_uxNsWJWyN5W7qZ4rg4qizhpO_kcog69W3ljnN2caS-kYbyrv0F4TEKQioblTtsaFxGNpwyuJi57hCvekQyC0QKIMK7-bL9T2zd1-XHr8wgn9Q==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T07:45:07+00:00",
-   "title_ja": "ファストリ、営業利益7431億円で過去最高を記録",
-   "summary_ja": "ファーストリテイリングの営業利益が7,431億円に達し過去最高を更新しました。これに伴い、年間配当も引き上げられています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
   }
  ]
 }
