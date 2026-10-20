@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T00:58:50.721583+09:00",
+ "updated_at": "2026-10-21T05:58:41.138909+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -90,6 +90,7 @@
   "Manila Standard",
   "Metro.co.uk",
   "Mindanao Times",
+  "Mission Local",
   "Modaes",
   "MonoMax web",
   "Moomoo",
@@ -180,6 +181,7 @@
   "サカイタイムズ",
   "サンスポ",
   "ジモはる",
+  "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
   "テレ東BIZ",
   "トラベル Watch",
@@ -228,45 +230,84 @@
   "인사이트코리아",
   "헤럴드경제"
  ],
- "count": 387,
- "detail_count": 237,
+ "count": 390,
+ "detail_count": 239,
  "digest": {
-  "headline": "ユニクロが感動ジャケットなどの値上げを発表",
+  "headline": "ユニクロが国内製品の平均4%値上げを発表、新コラボも",
   "points": [
    {
-    "text": "ユニクロやファーストリテイリングは、円安やコスト高の影響を受け、日本国内で平均約4%の価格引き上げを発表しました。",
+    "text": "ユニクロは円安やコスト増を背景に、日本国内での平均販売価格を約4%引き上げる価格改定を発表しました。",
     "ids": [
      "c690b30918f45838",
      "fe94370886a089c2",
-     "5bd61c13439fcfe5"
+     "a5d658f1a3389717"
     ]
    },
    {
-    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、両社ともに2桁の増収増益を達成しています。",
+    "text": "11月10日から感動ジャケットなどを対象に平均約4%の値上げを実施し、ソックスのまとめ買いも終了します。",
     "ids": [
-     "4a688d773ec9f51c"
+     "5bd61c13439fcfe5",
+     "fb7028c482288431"
     ]
    },
    {
-    "text": "ユニクロは、フランチェスコ・リッソとのニットコレクションを10月30日に発売すると発表しました。",
+    "text": "ファーストリテイリングと良品計画の26年8月期決算が2桁増収増益を達成したほか、インド事業も大幅な増収となりました。",
+    "ids": [
+     "4a688d773ec9f51c",
+     "1d68dad1ae64192b"
+    ]
+   },
+   {
+    "text": "10月30日に、フランチェスコ・リッソ氏とコラボレーションしたニットカプセルコレクションが発売されます。",
     "ids": [
      "4236cfd8835ffe55",
-     "eeea3ced2aaf5661",
-     "fea3b6d1da916df1"
+     "eeea3ced2aaf5661"
     ]
    },
    {
-    "text": "ユニクロの感動ジャケットはXで141件投稿されました。",
+    "text": "SNSではユニクロの感動パンツが話題となり、Xで3日に68件の投稿がありました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-18T01:14:07.297244+09:00",
-  "generated_at": "2026-10-21T01:14:25.727660+09:00",
+  "from": "2026-10-18T06:04:22.067075+09:00",
+  "generated_at": "2026-10-21T06:04:25.432443+09:00",
   "article_count": 24,
-  "sig": "2c2ee6f7b4b9"
+  "sig": "38dce8202cb7"
  },
  "items": [
+  {
+   "id": "d9812a817f2a8c2f",
+   "url": "https://diamond.jp/articles/-/401384",
+   "title_original": "ユニクロ柳井正が「部屋が揺れる」ほど激怒した「わずかなミス」とは？",
+   "source": "ダイヤモンド・オンライン",
+   "image": "https://dol.ismcdn.jp/mwimgs/0/c/-/img_0c1c4314c4e7690b11a36a120fb36c711178299.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T20:30:00+00:00",
+   "title_ja": "柳井正氏が激怒したミスとは？ユニクロ創業者のエピソード",
+   "summary_ja": "ユニクロ創業者の柳井正氏が、わずかなミスに対して激怒したというエピソードを紹介。経営における細部へのこだわりや、仕事に対する厳しさが垣間見える内容となっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "1e1e447ac7ddd10f",
+   "url": "https://missionlocal.org/2026/10/san-francisco-uniqlo-muni-inspired-collection",
+   "title_original": "Uniqlo is selling Muni merch, but Muni isn’t getting a cut",
+   "source": "Mission Local",
+   "image": "https://missionlocal.org/wp-content/uploads/2026/10/IMG_3683-scaled.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-20T16:38:00+00:00",
+   "title_ja": "米ユニクロの交通局グッズ販売でライセンス料未払いか",
+   "summary_ja": "米サンフランシスコでユニクロが地元交通局（Muni）のロゴ等をあしらったコラボ商品を販売しているものの、交通局側には収益の還元やライセンス料の支払いがされていないと報じられている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a18784958916a207",
    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384692/0/en/privacy-watchdog-ensures-fast-retailing-brands-adhere-to-digital-advertising-privacy-best-practices.html",
@@ -281,7 +322,7 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5b0192f67d44cab0",
@@ -732,6 +773,22 @@
    "has_detail": true
   },
   {
+   "id": "45f7a3b829a52406",
+   "url": "https://media.unisba.ac.id/873f1c5b/77a20d8dAqw1m31t1Ag/?share=facebook&nb=1",
+   "title_original": "熊本県内最大の売り場面積「ユニクロ」ゆめタウン光の森店リニューアル 八代市では仮設店舗も Lluvia (uwVTKs6aK8)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T04:17:07+00:00",
+   "title_ja": "熊本の「ユニクロ ゆめタウン光の森店」が県内最大規模でリニューアル",
+   "summary_ja": "熊本県内最大級の売り場面積を誇るユニクロゆめタウン光の森店が、リニューアルオープンを迎えました。あわせて八代市では仮設店舗の営業が行われるなど、地域における店舗展開が進められています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "496cfece43bed3a4",
    "url": "https://news.yahoo.co.jp/articles/799764f38b449055d5a2b69f0fd6d5c55a2c98e6",
    "title_original": "ユニクロ、プラダやマルニで経験積んだデザイナーの“ニット”新コレクション 10・30発売（オリコン）",
@@ -969,7 +1026,7 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "824d07cb344fbd6d",
