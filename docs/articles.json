@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T01:15:43.637152+09:00",
+ "updated_at": "2026-10-22T05:59:23.802819+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -22,6 +22,7 @@
   "ABC7 Bay Area",
   "ABEMA",
   "AD HOC NEWS",
+  "ADWEEK",
   "AERA DIGITAL",
   "Adgully.com",
   "Alvinology",
@@ -52,7 +53,6 @@
   "Fashionsnap.com",
   "Fibre2Fashion",
   "Financial Mail",
-  "Forbes",
   "GQ Japan",
   "Gear Patrol",
   "GlobeNewswire",
@@ -98,8 +98,6 @@
   "Mothership",
   "NBC Bay Area",
   "NEWS.am STYLE",
-  "NHKニュース",
-  "Nation Thailand",
   "Newswav",
   "OCEANS オーシャンズ",
   "Oui Speak Fashion (OSF)",
@@ -138,7 +136,6 @@
   "The Business of Fashion",
   "The Courier Mail",
   "The Economic Times",
-  "The Manila Times",
   "The San Francisco Standard",
   "The Sole Supplier",
   "The Times Australia",
@@ -149,6 +146,7 @@
   "Trend Hunter",
   "UOMO",
   "UP TO DATE",
+  "UQライフ",
   "Unisba Media",
   "Vietnam.vn",
   "VnExpress International",
@@ -232,51 +230,78 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 249,
+ "detail_count": 252,
  "digest": {
-  "headline": "ユニクロが国内秋冬商品を値上げ、新コラボや海外展開も活発に",
+  "headline": "ユニクロが国内商品を平均4%値上げへ、海外展開や新コラボも続々発表",
   "points": [
    {
-    "text": "ユニクロおよびファーストリテイリングは、円安やコスト上昇の影響を受け、感動ジャケットなどの国内秋冬商品を平均約4%値上げすると発表しました。",
+    "text": "ユニクロは円安やコスト上昇の影響を受け、日本国内における感動ジャケットなどの秋冬商品を平均約4%値上げすると発表しました。",
     "ids": [
-     "5bd61c13439fcfe5",
-     "c67a9cbeefb77793",
-     "54a3480ef01157b5"
+     "c690b30918f45838",
+     "fe94370886a089c2",
+     "5bd61c13439fcfe5"
     ]
    },
    {
-    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、国内外での積極的な事業拡大により両社ともに2桁の増収増益を達成しました。",
-    "ids": [
-     "4a688d773ec9f51c"
-    ]
-   },
-   {
-    "text": "ユニクロは11月6日に京都の河原町通りにグローバル旗艦店をオープンするほか、11月13日にはインド初のジャイプール店を開設します。",
+    "text": "インド初のジャイプール店のオープンや純利益の増加など、国内外での積極的な事業展開やグローバル旗艦店の開設が進められています。",
     "ids": [
      "217a347feac0fb14",
-     "1f2d74c170b981fc",
+     "1184cf3700750c1d",
      "0ac099a02261e708"
     ]
    },
    {
-    "text": "イタリア人デザイナーのフランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアコレクションが発売されます。",
+    "text": "フランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアカプセルコレクションが発表されました。",
     "ids": [
      "a5c3832c561cc5d4",
-     "76549a1d41629dcb"
+     "76549a1d41629dcb",
+     "4236cfd8835ffe55"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 感動パンツ」が急上昇し、Xで62件の投稿を記録しました。",
+    "text": "ユニクロの感動パンツはXで3日に62件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-19T01:21:51.517014+09:00",
-  "generated_at": "2026-10-22T01:21:53.717889+09:00",
+  "from": "2026-10-19T06:04:36.163134+09:00",
+  "generated_at": "2026-10-22T06:04:37.603440+09:00",
   "article_count": 24,
-  "sig": "e9d83c1094d6"
+  "sig": "444822a23e8e"
  },
  "items": [
+  {
+   "id": "51e971ff672cdf27",
+   "url": "https://www.adweek.com/adweek-wire/margherita-caspani-celebrates-uniqlos-lifewear-with-a-narrative-landscape-of-fashion/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1",
+   "title_original": "Margherita Caspani Celebrates Uniqlo’s Lifewear with a Narrative Landscape of Fashion",
+   "source": "ADWEEK",
+   "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/caspani0122-e1791490872992-1.jpg?w=600&h=315&crop=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T20:18:46+00:00",
+   "title_ja": "マルゲリータ・カスパニがユニクロのLifeWearを表現",
+   "summary_ja": "マルゲリータ・カスパニが、ファッションの物語的な風景を通じてユニクロの「LifeWear」のコンセプトを称賛しています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5663ca0c3fd89a00",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-stock-annual-meeting-set-for-november-26-2026-for-fast/70385886",
+   "title_original": "Fast Retailing stock: Annual meeting set for November 26, 2026 for Fast Retailing stock",
+   "source": "AD HOC NEWS",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405056_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T15:18:57+00:00",
+   "title_ja": "ファーストリテイリング、2026年11月26日に年次株主総会を開催へ",
+   "summary_ja": "ファーストリテイリングは、2026年11月26日に年次株主総会を開催することを決定した。株主に向けて経営状況の報告や今後の事業方針などが説明される見通し。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "32f5044a0611ba7d",
    "url": "https://www.globenewswire.com/news-release/2026/10/21/3385509/0/en/north-texas-food-bank-dallas-college-and-uniqlo-partner-to-support-families-through-fall-food-distribution.html",
@@ -291,7 +316,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f09b0714b80e839e",
@@ -324,6 +349,38 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "08f6b7a1efb3bf6a",
+   "url": "https://getnews.jp/archives/3750307",
+   "title_original": "ユニクロが世田谷に新たな買い物体験を提案！世田谷千歳台店がコーヒーや骨格診断も楽しめる店舗へリニューアル",
+   "source": "ガジェット通信",
+   "image": "https://torso-jack.com/wp-content/uploads/2026/10/img1-15-1024x575.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T11:35:23+00:00",
+   "title_ja": "ユニクロ世田谷千歳台店がリニューアル、コーヒー提供や骨格診断を実施",
+   "summary_ja": "ユニクロ世田谷千歳台店がリニューアルオープンし、カフェサービスや骨格診断などを導入した。単なる衣類の販売にとどまらず、体験型サービスを取り入れた新たな買い物体験を顧客へ提案する。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6d1980529a05768a",
+   "url": "https://portal.uqmobile.jp/detail/1/3/6/10425_6_r_20261021_1792581996934370",
+   "title_original": "ユニクロ値上げ“服の選び方”変化 靴下3足990円のセット販売終了…駆け込みで“まとめ買い” “1100円フリース”や“季節レス”も",
+   "source": "UQライフ",
+   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T11:24:00+00:00",
+   "title_ja": "ユニクロの値上げやセット販売終了で変化する消費者の服の選び方と駆け込み需要",
+   "summary_ja": "ユニクロでの価格変更やソックスのセット販売終了などに伴い、消費者の購買行動が変化している。値上げ前のまとめ買いや、長期間着回せる季節レス商品の需要が高まっている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "ee116653db4fbc9e",
@@ -403,7 +460,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b43e3b47d3a5e484",
@@ -419,7 +476,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "75145808ec22f440",
@@ -723,6 +780,22 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "cadff65bb1d2e7af",
+   "url": "https://diamond.jp/articles/-/401384?page=4",
+   "title_original": "柳井正が「オフィスが揺れる」ほど社員に激怒…一緒になって叱っていた部長の“残念な末路”",
+   "source": "ダイヤモンド・オンライン",
+   "image": "https://dol.ismcdn.jp/mwimgs/0/c/-/img_0c1c4314c4e7690b11a36a120fb36c711178299.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T20:30:00+00:00",
+   "title_ja": "柳井正氏の激怒エピソードに学ぶ、ファーストリテイリングの経営手法と組織課題",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が社内で激怒した際のエピソードを通じ、同氏のマネジメント手法や幹部社員に求められる姿勢、組織内での課題について考察している。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -1396,6 +1469,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "fccfe694ec921e06",
+   "url": "https://www.fashion-press.net/news/152221",
+   "title_original": "ユニクロ×元マルニのフランチェスコ・リッソ第2弾“ヴィンテージ着想”ニット、ツートーンカラーで",
+   "source": "ファッションプレス",
+   "image": "https://www.fashion-press.net/img/news/152221/top.jpg?1792464001",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T02:45:00+00:00",
+   "title_ja": "ユニクロと元マルニのフランチェスコ・リッソ第2弾",
+   "summary_ja": "ユニクロと元マルニのフランチェスコ・リッソによるコラボレーション第2弾が発表されました。ヴィンテージから着想を得たツートーンカラーのニットなどが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "f8817464237f8769",
@@ -6579,102 +6668,6 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f69c8895d2acd75e",
-   "url": "https://www.moomoo.com/news/post/1000742393/fast-retailing-s-attributable-profit-climbs-25-in-fiscal-2026",
-   "title_original": "Fast Retailing's Attributable Profit Climbs 25% in Fiscal 2026",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T18:05:34+00:00",
-   "title_ja": "ファーストリテイリング、2026年8月期の当期利益は前年比25％増",
-   "summary_ja": "ファーストリテイリングの2026年8月期通期決算において、親会社の所有者に帰属する当期利益が前年比で25％増加しました。同社の業績が順調に拡大していることが示されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "7f8e546eb283a843",
-   "url": "https://www.forbes.com/sites/markfaithfull/2026/10/08/uniqlo-is-coming-for-zara-and-the-us-could-decide-the-winner",
-   "title_original": "Uniqlo Is Coming For Zara And The U.S. Could Decide The Winner",
-   "source": "Forbes",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T18:04:59+00:00",
-   "title_ja": "ユニクロがZARA追撃へ、勝敗の鍵を握る米国市場での展開",
-   "summary_ja": "ユニクロがアパレル大手のZARAを追い上げる中、その勝敗の行方は米国市場での成否が握っていると報じられています。グローバル展開を加速させるユニクロにとって、米国での成長が今後の覇権争いの決定打になる可能性があります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "a66a5c831859e728",
-   "url": "https://www.nationthailand.com/news/world/40072030",
-   "title_original": "Japan's Fast Retailing forecasts growth after record annual sales",
-   "source": "Nation Thailand",
-   "image": "https://media.nationthailand.com/uploads/images/md/2026/10/krI1zZrkuzFmM3my90bW.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T16:04:00+00:00",
-   "title_ja": "ファーストリテイリング、過去最高の年間売上高を記録し今後の成長を予測",
-   "summary_ja": "ファーストリテイリングは、年間の売上高が過去最高を記録したことを受け、さらなる成長を見込んでいると発表しました。国内外での好調な業績を背景に、今後も持続的な拡大路線を維持していく方針です。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "ed36356059081cec",
-   "url": "https://www.manilatimes.net/2026/10/09/business/top-business/uniqlo-operator-posts-32-rise-in-profit-beats-forecasts/2442199/amp",
-   "title_original": "Uniqlo operator posts 32% rise in profit, beats forecasts",
-   "source": "The Manila Times",
-   "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/09/1252444.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T16:01:00+00:00",
-   "title_ja": "ファーストリテイリング、市場予想を上回る32%の増益を達成",
-   "summary_ja": "ファーストリテイリングの業績において、利益が市場予想を上回る32%増を記録したことが報じられている。好調な業績が示された。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "7785a03bb8bd8246",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56898",
-   "title_original": "ファーストリテイリング決算 国内外好調で過去最高益",
-   "source": "NHKニュース",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56898/20261008de56898_E0000058830_1_l.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T15:50:00+00:00",
-   "title_ja": "ファーストリテイリングが決算発表、国内外の好調により過去最高益を達成",
-   "summary_ja": "ファーストリテイリングが決算を発表し、国内および海外市場での事業がともに好調を維持した結果、過去最高益を達成したことが明らかになりました。グローバルな成長が業績を大きく牽引しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "863930cfac6160ad",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102091287",
-   "title_original": "ファーストリテイリング過去最高益 アパレル業界で世界2位の見通し",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1480949758630233403/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T15:25:38+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益を達成、世界2位のアパレル企業へ",
-   "summary_ja": "ファーストリテイリングは過去最高益を達成し、アパレル業界において世界2位の規模になる見通しであることが明らかになりました。国内外における事業の好調さが業績を牽引しているとみられます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "detail_tries": 2
   }
  ]
