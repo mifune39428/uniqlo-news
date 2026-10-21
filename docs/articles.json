@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T19:46:52.301226+09:00",
+ "updated_at": "2026-10-22T01:15:43.637152+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -27,7 +27,6 @@
   "Alvinology",
   "Apparel Resources",
   "Apparel Views",
-  "Around Prague",
   "AsiaOne.com",
   "BAILA（バイラ）",
   "BigGo Finance",
@@ -35,7 +34,6 @@
   "Bollywood Hungama",
   "Borneo Bulletin Online",
   "British Vogue",
-  "Business News This Week",
   "BusinessToday Malaysia",
   "Campaign India",
   "Chosunbiz",
@@ -59,8 +57,8 @@
   "Gear Patrol",
   "GlobeNewswire",
   "Goal.com",
+  "GoodsPress Web",
   "Goody Feed",
-  "GrowSF",
   "Highsnobiety",
   "Honolulu Civil Beat",
   "Howl.Link",
@@ -190,6 +188,7 @@
   "ビジネスジャーナル",
   "ファッションプレス",
   "ファミ通.com",
+  "マイライフニュース",
   "マネーフォワード",
   "ヨムーノ",
   "ラブすぽ",
@@ -233,52 +232,115 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 247,
+ "detail_count": 249,
  "digest": {
-  "headline": "ユニクロが感動ジャケットなどの値上げを発表、グローバル展開も加速",
+  "headline": "ユニクロが国内秋冬商品を値上げ、新コラボや海外展開も活発に",
   "points": [
    {
-    "text": "ユニクロは円安やコスト高の影響を受け、日本国内で感動ジャケットなどの秋冬商品を平均約4%値上げすることを発表しました。",
+    "text": "ユニクロおよびファーストリテイリングは、円安やコスト上昇の影響を受け、感動ジャケットなどの国内秋冬商品を平均約4%値上げすると発表しました。",
     "ids": [
-     "c690b30918f45838",
-     "fe94370886a089c2",
-     "5bd61c13439fcfe5"
+     "5bd61c13439fcfe5",
+     "c67a9cbeefb77793",
+     "54a3480ef01157b5"
     ]
    },
    {
-    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンし、国内外へブランドの魅力を発信します。",
+    "text": "ファーストリテイリングと良品計画の2026年8月期決算では、国内外での積極的な事業拡大により両社ともに2桁の増収増益を達成しました。",
     "ids": [
+     "4a688d773ec9f51c"
+    ]
+   },
+   {
+    "text": "ユニクロは11月6日に京都の河原町通りにグローバル旗艦店をオープンするほか、11月13日にはインド初のジャイプール店を開設します。",
+    "ids": [
+     "217a347feac0fb14",
      "1f2d74c170b981fc",
      "0ac099a02261e708"
     ]
    },
    {
-    "text": "フランチェスコ・リッソ氏と協業した2026年秋冬ニットウェアカプセルコレクション「UNIQLO F.RISSO」が10月30日に発売されます。",
+    "text": "イタリア人デザイナーのフランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアコレクションが発売されます。",
     "ids": [
      "a5c3832c561cc5d4",
-     "71c33889eb820bfa",
-     "4236cfd8835ffe55"
+     "76549a1d41629dcb"
     ]
    },
    {
-    "text": "ユニクロのインド市場における2026年度の売上高や純利益が大幅な増益を達成するなど、海外事業が順調に推移しています。",
-    "ids": [
-     "1184cf3700750c1d",
-     "1d68dad1ae64192b"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ 感動ジャケット」が話題となり、Xで3日に156件の投稿が確認されています。",
+    "text": "SNSでは「ユニクロ 感動パンツ」が急上昇し、Xで62件の投稿を記録しました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-18T19:57:48.690503+09:00",
-  "generated_at": "2026-10-21T19:57:52.135226+09:00",
+  "from": "2026-10-19T01:21:51.517014+09:00",
+  "generated_at": "2026-10-22T01:21:53.717889+09:00",
   "article_count": 24,
-  "sig": "9ff09a75add9"
+  "sig": "e9d83c1094d6"
  },
  "items": [
+  {
+   "id": "32f5044a0611ba7d",
+   "url": "https://www.globenewswire.com/news-release/2026/10/21/3385509/0/en/north-texas-food-bank-dallas-college-and-uniqlo-partner-to-support-families-through-fall-food-distribution.html",
+   "title_original": "North Texas Food Bank, Dallas College, and UNIQLO Partner to Support Families Through Fall Food Distribution",
+   "source": "GlobeNewswire",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T12:22:52+00:00",
+   "title_ja": "ユニクロが地域社会支援の食品配布をパートナーと実施",
+   "summary_ja": "ユニクロがノーステキサスフードバンクおよびダラスカレッジと提携し、秋季の家族向け食品配布を通じて地域社会を支援します。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f09b0714b80e839e",
+   "url": "https://www.vietnam.vn/ja/uniqlo-f-risso-2026-loat-thiet-ke-len-voi-nghe-thuat-phoi-mau-doc-dao",
+   "title_original": "ユニクロ F.Risso 2026：ユニークな色の組み合わせが特徴のニットウェアコレクション。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/21/1792586720278_fpj_fw26_c_01_kv_3x2.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T12:00:53+00:00",
+   "title_ja": "F.Rissoによる独創的カラーのニットウェア公開",
+   "summary_ja": "ユニークな色の組み合わせを特徴とした、F.Rissoによる新たなニットウェアコレクションが発表されました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "217a347feac0fb14",
+   "url": "https://www.indianretailer.com/news/uniqlo-open-first-jaipur-store-november-13-expands-india-network-22-outlets",
+   "title_original": "UNIQLO to Open First Jaipur Store on November 13, Expands India Network to 22 Outlets",
+   "source": "Indian Retailer",
+   "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Untitled%20design%20-%202026-10-21T173102.351.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-21T11:59:18+00:00",
+   "title_ja": "インド初のジャイプール店を11月13日にオープン",
+   "summary_ja": "ユニクロは11月13日にジャイプール初となる店舗を開設し、インド国内の店舗網を22店舗へと拡大します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ee116653db4fbc9e",
+   "url": "https://www.goodspress.jp/news/750359",
+   "title_original": "【ユニクロ】絶妙なショート丈とリラックス感が映える！UNIQLO and JW ANDERSONの新作ブルゾン＆アウター",
+   "source": "GoodsPress Web",
+   "image": "https://static.andgp.net/cms/wp-content/uploads/2026/10/261013_uniqlo_01-720x480.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T11:00:45+00:00",
+   "title_ja": "UNIQLO and JW ANDERSONの新作アウター",
+   "summary_ja": "絶妙なショート丈とリラックス感が特徴的な、UNIQLO and JW ANDERSONによる新作ブルゾンやアウターが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "1f2d74c170b981fc",
    "url": "https://prtimes.jp/main/html/rd/p/000000164.000068741.html",
@@ -312,6 +374,54 @@
    "has_detail": true
   },
   {
+   "id": "76549a1d41629dcb",
+   "url": "https://www.mylifenews.net/drink-food/131274",
+   "title_original": "ユニクロ、伊デザイナーのフランチェスコ・リッソ氏とのコラボ「UNIQLO F.RISSO」Knitwear Capsule Collection 2026を発売",
+   "source": "マイライフニュース",
+   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20261021_uniqro00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T09:05:57+00:00",
+   "title_ja": "ユニクロ、フランチェスコ・リッソ氏とコラボ",
+   "summary_ja": "イタリア人デザイナーのフランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアカプセルコレクション2026が発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "7185d0fc471d921b",
+   "url": "https://www.mylifenews.net/tag/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%82%A8%E3%83%95%E3%83%BB%E3%83%AA%E3%83%83%E3%82%BD",
+   "title_original": "ユニクロエフ・リッソ アーカイブ",
+   "source": "マイライフニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T09:05:00+00:00",
+   "title_ja": "ユニクロエフ・リッソ アーカイブ情報",
+   "summary_ja": "ユニクロエフ・リッソに関する過去の情報や関連するコンテンツをまとめて掲載しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "b43e3b47d3a5e484",
+   "url": "https://news.yahoo.co.jp/articles/58abc3224c9b813e7d4a5debdf9a7d7466e229e3/images/004",
+   "title_original": "【ユニクロ】超話題のコラボ「ユニクロ エフ・リッソ」大人が着たいニットが登場！ (＠BAILA)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnX2AQPSn7Jgowv5zQcGQQ-U09Xl1ic0En_1VZWp229bOpxfw-xUnY9a7T80jtW3euhy-vULcVoi0MY1v3UW2batXsKmymFXATzz42JFm15n2",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T08:50:08+00:00",
+   "title_ja": "ユニクロ エフ・リッソコラボの大人向けニット",
+   "summary_ja": "話題を集めるコラボレーションラインから、大人世代が着こなしやすい上品なニットが登場しました。洗練されたデザインが魅力の新作アイテムです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "75145808ec22f440",
    "url": "https://www.ryutsuu.biz/report/s102144.html",
    "title_original": "ユニクロ／都内の超大型店「世田谷千歳台店」リニューアル、地域密着で多彩な協業",
@@ -341,7 +451,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a717a21a8e971123",
@@ -405,7 +515,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d121bcf2ed1793dc",
@@ -437,7 +547,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0ac099a02261e708",
@@ -453,6 +563,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1ce034ca231a9e54",
+   "url": "https://news.yahoo.co.jp/articles/2077612ce2864967824dfad64c7addea8a34c7af",
+   "title_original": "【ユニクロ】ベーシックだけど華やか「限定カシミヤニット」は見逃し厳禁！｜VERY（magacol）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000021-magacol-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T02:30:08+00:00",
+   "title_ja": "ユニクロから華やかな限定カシミヤニットが登場",
+   "summary_ja": "ベーシックでありながら華やかな印象をあたえる、ユニクロのカシミヤニットがラインアップ。見逃せない注目の秋冬アイテムとなっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -520,6 +646,22 @@
    "has_detail": true
   },
   {
+   "id": "908f9b5aa127f390",
+   "url": "https://hypebeast.com/jp/2026/10/uniqlo-f-risso-collection-collaboration-2026-knitwear-info",
+   "title_original": "フランチェスコ・リッソが手がける UNIQLO F.RISSO から2026年ニットウェアコレクションが登場",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F10%2Funiqlo-f-risso-collection-collaboration-2026-knitwear-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T23:59:19+00:00",
+   "title_ja": "フランチェスコ・リッソ手掛ける「UNIQLO F.RISSO」2026年ニットコレクション",
+   "summary_ja": "フランチェスコ・リッソが手掛ける「UNIQLO F.RISSO」から、2026年秋冬のニットウェアコレクションが新たに登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "9f4601bbaf5db009",
    "url": "https://abema.tv/video/episode/89-44_s0_p541552",
    "title_original": "“安さの象徴”に変化 ユニクロ、ソックス3足990円終了へ 最新の経済ニュース【随時更新】",
@@ -533,7 +675,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9b6d34a8f32672ff",
@@ -565,7 +707,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8e8072a53d0661bc",
@@ -709,6 +851,22 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a622b35d54c59e3c",
+   "url": "https://www.kab.co.jp/news/article/16980552",
+   "title_original": "“安さの象徴”に変化 ユニクロ、ソックス3足990円終了へ",
+   "source": "KAB 熊本朝日放送",
+   "image": "https://news.tv-asahi.co.jp/articles_img/000541552_640.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T11:27:00+00:00",
+   "title_ja": "ユニクロ、靴下3足990円の販売を終了へ",
+   "summary_ja": "ユニクロの「3足990円」のソックス販売が終了に向かっていると伝えられています。長年親しまれてきた安さの象徴に変化が生じています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -1877,7 +2035,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4b2b6abf9e200737",
@@ -1910,6 +2068,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "0e5c98db9ed215d1",
+   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
+   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
+   "source": "UP TO DATE",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T06:22:50+00:00",
+   "title_ja": "GUがポケモンとコラボ、新作を10月23日より発売",
+   "summary_ja": "ジーユーは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを、10月23日より国内で発売すると発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "817fa856a41aaaee",
@@ -6502,182 +6676,6 @@
    "brand": "グループ",
    "importance": 5,
    "detail_tries": 2
-  },
-  {
-   "id": "ce86e463692a1c3e",
-   "url": "https://growsf.org/news/2026-10-08-uniqlo-returns-to-market-street",
-   "title_original": "Uniqlo Returns to Market Street October 9",
-   "source": "GrowSF",
-   "image": "https://growsf.org/_next/image?url=%2Fmedia%2F2026-10-08-uniqlo-returns-to-market-street-26170299.png&w=1200&q=75",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T15:06:00+00:00",
-   "title_ja": "ユニクロがマーケット・ストリートに帰還、10月9日にオープン",
-   "summary_ja": "ユニクロがマーケット・ストリートへと再び出店し、10月9日にオープンを迎えます。かつて進出していた地域への帰還となり、現地での新たな店舗展開として期待されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7af862ecad427156",
-   "url": "https://newsdig.tbs.co.jp/articles/-/3000472",
-   "title_original": "ファストリ6年連続で過去最高の最終利益 ユニクロ事業好調で国内外の全地域で増収増益 H&Mを抜きアパレル業界2位へ",
-   "source": "TBS NEWS DIG",
-   "image": "https://newsdig.ismcdn.jp/mwimgs/1/f/1200w/img_1f2661b13f0ae34fa1643f439d0cec0d104308.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T14:38:23+00:00",
-   "title_ja": "ファストリが6年連続で過去最高純益、H&Mを抜きアパレル世界2位へ",
-   "summary_ja": "ファーストリテイリングが6年連続で過去最高の最終利益を達成しました。ユニクロ事業が好調で、国内外の全地域で増収増益を記録しています。これにより、同社は競合のH&Mを抜いてアパレル業界で世界2位に浮上する見通しです。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "3d503320a7d9ead8",
-   "url": "https://businessnewsthisweek.com/news/uniqlo-launches-new-season-fleece-collection",
-   "title_original": "UNIQLO Launches New Season Fleece Collection",
-   "source": "Business News This Week",
-   "image": "https://api.newsinpics.com/uploads/other/a8cj6sjz2a.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T14:11:38+00:00",
-   "title_ja": "ユニクロ、今シーズンの新作フリースコレクションを発売開始",
-   "summary_ja": "ユニクロが、今シーズンの新しいフリースコレクションを発売したことが分かりました。毎年定番となっている人気シリーズの新作として、これからの季節に向けた多様なラインナップが展開されるとみられます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8d5bbbdfe038a64f",
-   "url": "https://finance.biggo.com/news/e376babc-a21f-419b-92a5-b6042194a3fe",
-   "title_original": "Uniqlo's North America and Europe Revenue Surpasses Greater China for First Time; Chinese Market Shows Signs of Stabilization",
-   "source": "BigGo Finance",
-   "image": "https://img.biggo.com/FdHINckh4mYZwN1u_Rv53duriFCfDovE-sNR5QjvGFQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2UzNzZiYWJjLWEyMWYtNDE5Yi05MmE1LWI2MDQyMTk0YTNmZV8xNzkxNDY4NjgxX2RlZmF1bHQuanBn.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T14:05:40+00:00",
-   "title_ja": "ユニクロ、北米・欧州の売上高が初の中国超え",
-   "summary_ja": "ユニクロの北米と欧州における売上高が、初めて中国市場を上回りました。中国市場においても足元では安定化の兆しが見られています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "a6f3d93047eec84e",
-   "url": "https://finance.biggo.jp/news/e376babc-a21f-419b-92a5-b6042194a3fe",
-   "title_original": "ユニクロ、欧米売上高が初めて大中華圏を上回る 中国市場に回復の兆し",
-   "source": "BigGo ファイナンス",
-   "image": "https://img.biggo.com/FdHINckh4mYZwN1u_Rv53duriFCfDovE-sNR5QjvGFQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2UzNzZiYWJjLWEyMWYtNDE5Yi05MmE1LWI2MDQyMTk0YTNmZV8xNzkxNDY4NjgxX2RlZmF1bHQuanBn.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T14:05:40+00:00",
-   "title_ja": "ユニクロの欧米売上高が初の大中華圏超え、中国市場も安定化へ",
-   "summary_ja": "ユニクロにおいて、欧米地域での売上高が初めて大中華圏の売上を上回りました。近年成長が続く欧米市場の勢いを示す結果となる一方で、主要市場である中国でも業績が回復・安定化する兆候が見られています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7a26e961f9d9c45d",
-   "url": "https://english.kyodonews.net/articles/-/87586",
-   "title_original": "Uniqlo operator set to be world's 2nd largest clothing firm on strong sales",
-   "source": "Japan Wire by Kyodo News",
-   "image": "https://english-kyodo.ismcdn.jp/mwimgs/d/a/1200x/img_daba1e38f8843665c9eda2bdb5d07b6d1848356.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:52:00+00:00",
-   "title_ja": "ファーストリテイリング、好調な業績で世界第2位のアパレル企業へ",
-   "summary_ja": "ユニクロを運営するファーストリテイリングが、好調な売上を背景に、世界で第2位の規模を持つアパレル企業になる見通しであることが分かりました。国内外での堅調な業績が成長を牽引しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "9ece278dbd1b788c",
-   "url": "https://aroundprague.cz/en/people/tadashi-yanai-japans-richest-man-eyes-the-throne-of-global-fashion-and-uniqlo-is",
-   "title_original": "Uniqlo’s first Prague store: Tadashi Yanai eyes global fashion",
-   "source": "Around Prague",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:50:14+00:00",
-   "title_ja": "ユニクロ、プラハ1号店オープンと柳井社長の展望",
-   "summary_ja": "ユニクロがプラハに初店舗をオープンした。柳井正社長がグローバルファッション展開への意欲を示している。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "2541742fadf23c30",
-   "url": "https://www.moomoo.com/news/post/1000769689/selected-hk-stock-exchange-announcements-fast-retailing-s-previous-fiscal",
-   "title_original": "Selected HK Stock Exchange Announcements | Fast Retailing's Previous Fiscal Year Profit Rises Over 20% Year-on-Year; Wasion Holdings Subsidiary Wins Overseas Contract Worth RMB 4 Billion",
-   "source": "Moomoo",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:29:05+00:00",
-   "title_ja": "ファストリ、前年度利益が前年比2割以上の増益",
-   "summary_ja": "香港証券取引所の発表によると、ファーストリテイリングの前年度の利益は前年同期比で20%を超える増加となりました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8bbf48e44f9aa6fc",
-   "url": "https://txbiz.tv-tokyo.co.jp/wbs/newsl/post_350178",
-   "title_original": "ユニクロ好調で過去最高益 ファストリが世界2位へ",
-   "source": "テレ東BIZ",
-   "image": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/wbs/20261008_wb_nl02_4a0ece7e89210062_9.jpg?1791469839",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T13:00:00+00:00",
-   "title_ja": "ユニクロ好調でファーストリテイリングが過去最高益",
-   "summary_ja": "ファーストリテイリングが業績好調により過去最高益を達成し、世界市場での順位を2位へと押し上げている。（101文字）",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "961d295787786864",
-   "url": "https://sfstandard.com/2026/10/08/uniqlo-reopening-sf-downtown-retail",
-   "title_original": "Uniqlo’s San Francisco return signals a downtown retail revival",
-   "source": "The San Francisco Standard",
-   "image": "https://assets.sfstandard.com/image/994911177489/image_pbpoqfv14l0q74s9h8gvirur5k/-S1200x630-FPNG",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T13:00:00+00:00",
-   "title_ja": "ユニクロがサンフランシスコに再出店、街の小売活性化へ",
-   "summary_ja": "ユニクロがサンフランシスコへ新たに店舗を構え、ダウンタウン地区における小売業の活性化を後押しする動きを見せている。（115文字）",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "14298074d52c97d3",
-   "url": "https://www.asahi.com/articles/ASVB83VTMVB8ULFA017M.html",
-   "title_original": "ZARAとユニクロ「2強時代」ファストリ世界一へ不安は「GU」？",
-   "source": "朝日新聞",
-   "image": "https://imgopt.asahi.com/ogp/AS20261008004335_comm.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T12:32:50+00:00",
-   "title_ja": "ZARAとユニクロの2強時代、ファストリ世界一の課題はGU",
-   "summary_ja": "ZARAとユニクロによるアパレル2強時代が到来し、ファーストリテイリングが世界一を目指す中での課題について報じられている。（121文字）",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
