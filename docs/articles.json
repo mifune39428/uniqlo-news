@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T05:59:23.802819+09:00",
+ "updated_at": "2026-10-22T11:19:33.135305+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -33,7 +33,6 @@
   "BigGo Finance",
   "BigGo ファイナンス",
   "Bollywood Hungama",
-  "Borneo Bulletin Online",
   "British Vogue",
   "BusinessToday Malaysia",
   "Campaign India",
@@ -118,7 +117,6 @@
   "SFist",
   "SMEStreet",
   "SPUR（シュプール）",
-  "San Francisco Chronicle",
   "San Francisco Examiner",
   "Secret Manchester",
   "Secret San Francisco",
@@ -136,6 +134,7 @@
   "The Business of Fashion",
   "The Courier Mail",
   "The Economic Times",
+  "The Fashion Post",
   "The San Francisco Standard",
   "The Sole Supplier",
   "The Times Australia",
@@ -148,6 +147,7 @@
   "UP TO DATE",
   "UQライフ",
   "Unisba Media",
+  "VICTORY [ビクトリー]",
   "Vietnam.vn",
   "VnExpress International",
   "Vogue Japan",
@@ -155,6 +155,7 @@
   "Web eclat",
   "Who What Wear",
   "World Footwear",
+  "X",
   "Yahoo Finance",
   "Yahoo Life UK",
   "Yahoo!ニュース",
@@ -166,6 +167,7 @@
   "businessnewsthisweek.com",
   "coki",
   "fashion headline",
+  "fashionunited.jp",
   "https://www.briefasia.com/",
   "marketscreener.com",
   "nss magazine",
@@ -179,7 +181,6 @@
   "サカイタイムズ",
   "ジモはる",
   "ダイヤモンド・オンライン",
-  "テレ東BIZ",
   "トラベル Watch",
   "ネットショップ担当者フォーラム",
   "ハフポスト",
@@ -202,7 +203,6 @@
   "山陽新聞",
   "新潟日報",
   "日刊スポーツ",
-  "日本ネット経済新聞",
   "日本経済新聞",
   "日流ウェブ",
   "日経CNBC online",
@@ -230,28 +230,28 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 255,
  "digest": {
-  "headline": "ユニクロが国内商品を平均4%値上げへ、海外展開や新コラボも続々発表",
+  "headline": "ユニクロが感動ジャケットなど平均4%値上げへ、国内外で新店舗やコラボも続々",
   "points": [
    {
-    "text": "ユニクロは円安やコスト上昇の影響を受け、日本国内における感動ジャケットなどの秋冬商品を平均約4%値上げすると発表しました。",
+    "text": "ユニクロおよびファーストリテイリングは、円安やコスト高の影響を受け、国内で感動ジャケットなどの平均販売価格を約4%引き上げる方針を発表しました。",
     "ids": [
-     "c690b30918f45838",
      "fe94370886a089c2",
-     "5bd61c13439fcfe5"
+     "5bd61c13439fcfe5",
+     "c67a9cbeefb77793"
     ]
    },
    {
-    "text": "インド初のジャイプール店のオープンや純利益の増加など、国内外での積極的な事業展開やグローバル旗艦店の開設が進められています。",
+    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアル・オープンし、限定商品や特別な刺繍サービスが展開されます。",
     "ids": [
-     "217a347feac0fb14",
-     "1184cf3700750c1d",
+     "d1be33f188c206e4",
+     "1f2d74c170b981fc",
      "0ac099a02261e708"
     ]
    },
    {
-    "text": "フランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアカプセルコレクションが発表されました。",
+    "text": "イタリアのデザイナーであるフランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアカプセルコレクションが10月30日に発売されます。",
     "ids": [
      "a5c3832c561cc5d4",
      "76549a1d41629dcb",
@@ -259,17 +259,123 @@
     ]
    },
    {
-    "text": "ユニクロの感動パンツはXで3日に62件投稿されました。",
-    "ids": []
+    "text": "ユニクロのインド事業は、2026年度の売上高が前年比44%増、純利益が前年比41%増を達成し、ジャイプール店を11月13日にオープン予定です。",
+    "ids": [
+     "217a347feac0fb14",
+     "1184cf3700750c1d",
+     "1d68dad1ae64192b"
+    ]
+   },
+   {
+    "text": "GUからジョジョの奇妙な冒険との新コラボレーションが発表され、SNSではGU ポケモンコラボがXで31件投稿されています。",
+    "ids": [
+     "048c209de6d76986"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-10-19T06:04:36.163134+09:00",
-  "generated_at": "2026-10-22T06:04:37.603440+09:00",
+  "from": "2026-10-19T11:24:59.470904+09:00",
+  "generated_at": "2026-10-22T11:25:01.410983+09:00",
   "article_count": 24,
-  "sig": "444822a23e8e"
+  "sig": "b9e1afb9dc34"
  },
  "items": [
+  {
+   "id": "69de18f91a253e5f",
+   "url": "https://prtimes.jp/main/html/rd/p/000000165.000068741.html",
+   "title_original": "RE.UNIQLO STUDIOでモンチッチの刺繍サービスが10月23日（金）より開始",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/165/68741-165-9a731e691e47eba7118f726d973895eb-1600x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T11:00:02+00:00",
+   "title_ja": "ユニクロのRE.UNIQLO STUDIOでモンチッチ刺繍サービス開始",
+   "summary_ja": "ユニクロのリペア・リメイクサービス「RE.UNIQLO STUDIO」にて、人気キャラクター「モンチッチ」の刺繍サービスが提供される。利用者はアイテムを自分好みにカスタマイズできる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ca7b71faeb49d850",
+   "url": "https://fashionpost.jp/select/401164",
+   "title_original": "齋藤飛鳥とユニクロが見つけた、心ほどける瞬間 vol.1",
+   "source": "The Fashion Post",
+   "image": "https://static.fashionpost.jp/article/wp-content/uploads/2026/10/22075026/1022_LOOK3_4_5_2-1-e1792623039235.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T10:00:00+00:00",
+   "title_ja": "ユニクロが齋藤飛鳥を起用したWebコンテンツの第1弾を公開",
+   "summary_ja": "ユニクロが齋藤飛鳥をモデルに起用したコンテンツ「齋藤飛鳥とユニクロが見つけた、心ほどける瞬間 vol.1」を公開。タレントを起用したWEB企画を通じてブランドの魅力を伝えている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "fb0f73025073cb0d",
+   "url": "https://news.yahoo.co.jp/articles/1157845c59a5d3764c34346c5fd1cab1555867c2",
+   "title_original": "“平成リバイバル”フリース再び 若者の半数「今っぽい」 ユニクロなど新作販売（テレビ朝日系（ANN））",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000018-ann-000-2-thumb.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T00:28:19+00:00",
+   "title_ja": "平成ブームでフリース人気が再燃　ユニクロなど新作アイテム販売",
+   "summary_ja": "平成リバイバルの影響でフリースの人気が再び高まり、若者の半数が肯定的な印象を抱いている。これに合わせてユニクロなどの各社が、トレンドを取り入れた新作フリースを販売している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "55ee1cff0b8e9720",
+   "url": "https://www.sankei.com/article/20261022-LEFZCJUYKBJCBLA5M4JCGGLFOM",
+   "title_original": "生駒市キャラ「たけまるくん」あしらったTシャツとトート発売 ユニクロ新店23日開業で",
+   "source": "産経ニュース",
+   "image": "https://www.sankei.com/resizer/v2/OV3JP72JC5IABHWC4BRWLCMFDE.jpg?auth=8fd3ade1ba68ed952968edeb59fcfded1dc50b2f7e40d4a2c6026e670f2a68fd&quality=50&focal=2429%2C1850&width=1200&height=675",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T23:00:00+00:00",
+   "title_ja": "生駒市の「たけまるくん」デザインTシャツ等を新店開業で発売",
+   "summary_ja": "2026年10月23日の新店開業に合わせて、生駒市のマスコットキャラクター「たけまるくん」をあしらったオリジナルTシャツとトートバッグが発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a259ef812efed4e9",
+   "url": "https://victorysportsnews.com/articles/9307",
+   "title_original": "世界のトップカーラーが軽井沢に集結 ユニクロがサポートするスウェーデン代表金メダリストと吉田知那美が語る夢の叶え方",
+   "source": "VICTORY [ビクトリー]",
+   "image": "https://s3-ap-northeast-1.amazonaws.com/vsn-p/contents/9307/81e9704d75843ab1061ea01db42f832d841fa3b65d97f43e62e6a4cfa0fa585f.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T22:00:00+00:00",
+   "title_ja": "ユニクロ支援のカーリング金メダリストと吉田知那美選手が軽井沢で夢を語る",
+   "summary_ja": "ユニクロがサポートするスウェーデン代表のカーリング金メダリストと吉田知那美選手が軽井沢に集結し、夢の叶え方について語り合いました。世界のトップカーラーによる対談企画となっています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "d1be33f188c206e4",
+   "url": "https://travel.watch.impress.co.jp/docs/news/2149982.html",
+   "title_original": "京都・河原町でグローバル旗艦店「ユニクロ 京都」を11月6日リニューアル。リバティ限定商品や京都ゆかりの刺繍も",
+   "source": "トラベル Watch",
+   "image": "https://travel.watch.impress.co.jp/img/trw/list/2149/982/01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T21:00:00+00:00",
+   "title_ja": "「ユニクロ 京都」が11月6日にリニューアル！限定商品や京都刺繍も登場",
+   "summary_ja": "京都・河原町のグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンします。リバティの限定商品や、京都にゆかりのある特別な刺繍サービスなどが展開される予定です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "51e971ff672cdf27",
    "url": "https://www.adweek.com/adweek-wire/margherita-caspani-celebrates-uniqlos-lifewear-with-a-narrative-landscape-of-fashion/?itm_source=homepage&itm_medium=adweek-wire-edge&itm_campaign=1",
@@ -301,6 +407,22 @@
    "brand": "グループ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "7e9b10b6da996cd9",
+   "url": "https://fashionunited.jp/news/podcast/potudokiyasuto-yunikuronomi-guo-chu-dian-gong-shi-toshao-shu-skuzhan-lue-noliang-li/20261021577761",
+   "title_original": "ポッドキャスト：ユニクロの米国出店攻勢と少数SKU戦略の両立",
+   "source": "fashionunited.jp",
+   "image": "https://r.fashionunited.com/sH-8bV-1NEcxZfBg4mcmTxJlj8p1jLFf2-0pBkBsUBw/resize:fit:1200:630:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjYvMDkvMjQvdW5pcWxvLW1hbmNoZXN0ZXItdHJhZmZvcmQtY2VudHJlLXQyYXUzeXd2LTIwMjYtMDktMjQuanBlZw.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T12:45:32.632770+00:00",
+   "title_ja": "ユニクロの米国出店攻勢と少数SKU戦略の両立を探る",
+   "summary_ja": "米国内での積極的な店舗拡大を進めるユニクロの戦略について解説するポッドキャスト番組の配信。現地での出店攻勢と、アイテム数を絞り込む少数SKU戦略がどのように両立されているのかを取り上げている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "32f5044a0611ba7d",
@@ -380,7 +502,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ee116653db4fbc9e",
@@ -861,6 +983,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "ac5514de700225b3",
+   "url": "https://x.com/i/trending/2112582014201119182?lang=ar-x-fm",
+   "title_original": "تعرضت متاجر يونيكلو للنهب خلال أعمال الشغب في فرنسا؛ وأصب...",
+   "source": "X",
+   "image": "https://pbs.twimg.com/media/HVD21jjaQAAsvK3?format=webp&name=medium",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-20T16:29:36.718000+00:00",
+   "title_ja": "フランスでの暴動でユニクロ店舗が被害",
+   "summary_ja": "フランス国内で発生した暴動の最中、ユニクロの店舗が被害を受けたことが報じられています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "a18784958916a207",
@@ -2187,6 +2325,22 @@
    "summary_ja": "アパレル世界第2位を目指すユニクロが、戦略の軸足を中国以外の海外市場へと移行させています。主要市場だった中国に依存しない成長体制を構築し、さらなるグローバル拡大を進める方針です。",
    "category": "海外展開",
    "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4f51bab178caca04",
+   "url": "https://www.tradingview.com/news/moodys:49f80ccc39787:0-uniqlo-india-net-rises-41-to-rs-253-cr-in-fy26-plans-to-expand-presence",
+   "title_original": "Uniqlo India Net Rises 41% to Rs 253 cr in FY26; Plans to Expand Presence",
+   "source": "TradingView",
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-19T04:15:23+00:00",
+   "title_ja": "インドユニクロ、2026年度純利益が41%増",
+   "summary_ja": "ユニクロのインド事業における2026年度の純利益は41%増加し、今後はさらに出店を拡大する計画です。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
   },
@@ -6524,150 +6678,6 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "a8c5afa95c4027a8",
-   "url": "https://www.nishinippon.co.jp/image/1090322",
-   "title_original": "記者会見するファーストリテイリングの柳井正会長兼社長＝8日午後、東京都港区 - ファストリ、世界2位へ ユニクロ好調、過去最高益 - 写真・画像(2/2)",
-   "source": "西日本新聞me",
-   "image": "https://www.nishinippon.co.jp/uploads/image/1947031/sns_PN2026100801002726.-.-.CI0003.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T21:25:15+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益　ユニクロ好調でアパレル世界2位へ",
-   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が記者会見を行い、主力のユニクロ事業の好調により過去最高益を達成したことを発表しました。世界のアパレル企業で2位の規模へ迫る勢いを示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "093dfd3f77b3c83b",
-   "url": "https://borneobulletin.com.bn/japans-fast-retailing-lifted-by-strong-sales",
-   "title_original": "Japan’s Fast Retailing lifted by strong sales",
-   "source": "Borneo Bulletin Online",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T21:09:54+00:00",
-   "title_ja": "好調な販売実績が日本のファーストリテイリングの業績を牽引",
-   "summary_ja": "日本のファーストリテイリングの業績が、好調な売上によって押し上げられていることが報じられました。同社の販売活動が好調に推移しており、全体の業績向上に大きく貢献している状況が伝えられています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "8b42cc8ca876b047",
-   "url": "https://netkeizai.com/articles/detail/20140",
-   "title_original": "【ファストリ 柳井社長「ユニクロを世界一のブランドへ」】GUは売上1兆円目指す アジアで成長加速へ",
-   "source": "日本ネット経済新聞",
-   "image": "https://images.netkeizai.com/articles/20000/20140/478x850/146abb7131b69b2a623f752e39da8dbc.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T21:00:28+00:00",
-   "title_ja": "ファストリ柳井社長、世界一のブランド化やGU売上1兆円への方針示す",
-   "summary_ja": "ファーストリテイリングの柳井社長は、ユニクロを世界一のブランドに成長させる方針を掲げました。また、GU事業において売上高1兆円を目指すとともに、アジア地域での成長をさらに加速させる考えを示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "81f71fdbc843c5c2",
-   "url": "https://txbiz.tv-tokyo.co.jp/nms/news/post_350220",
-   "title_original": "2026年8月期 小売り初 ファストリ 純利益5000億円超",
-   "source": "テレ東BIZ",
-   "image": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/nms/20261009_ms_ns07_1974273ada5be926_9.jpg?1791498648",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T20:45:00+00:00",
-   "title_ja": "ファストリ、小売り初となる純利益5000億円超え",
-   "summary_ja": "2026年8月期決算において、ファーストリテイリングの純利益が小売り業界で初めて5000億円を突破しました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "58d250bbc9affbc6",
-   "url": "https://news.yahoo.co.jp/expert/articles/c84ecec494be3141f2513326e7ecde9dadf824d4",
-   "title_original": "柳井社長「世界一になる」と決意新た、ユニクロ4兆円から10兆円へ「毎年5000億円増収」構想（松下久美） - エキスパート",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kumimatsushita/02738702/title-1791489638607.jpeg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T20:16:52+00:00",
-   "title_ja": "柳井社長、売上高10兆円への構想を語る　毎年5000億円の増収を目指す",
-   "summary_ja": "ファーストリテイリングの柳井社長は、売上高を現在の4兆円規模から10兆円へと拡大させ、世界一を目指す決意を明らかにしました。毎年5000億円の増収を図る構想を掲げ、さらなる成長に向けて意欲を示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "630d997e75e267c6",
-   "url": "https://www.asahi.com/articles/DA3S16563190.html",
-   "title_original": "世界のユニクロ、浸透 物価高「受け皿」、欧米シェア拡大余地 首位ＺＡＲＡまだ遠く 「ＧＵ不安」指摘も",
-   "source": "朝日新聞",
-   "image": "https://imgopt.asahi.com/ogp/AS20261009000105_comm.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-08T20:00:00+00:00",
-   "title_ja": "ユニクロが世界で浸透、欧米でシェア拡大の余地も　首位ZARA追う",
-   "summary_ja": "ユニクロが世界的に浸透し、物価高における受け皿として機能しているものの、業界首位のZARAにはまだ及ばない現状が報じられました。欧米市場でのシェア拡大の余地が残る一方、GUの展開に対する不安視も指摘されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "fd88d81d5e08bc9e",
-   "url": "https://economictimes.indiatimes.com/news/international/business/uniqlo-owners-western-bet-pays-off-as-profit-surges-32/articleshow/134799731.cms",
-   "title_original": "Uniqlo owner's Western bet pays off as profit surges 32%",
-   "source": "The Economic Times",
-   "image": "https://img.etimg.com/thumb/msid-134799838,width-1200,height-900,imgsize-67572,overlay-economictimes/articleshow.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T19:11:00+00:00",
-   "title_ja": "ユニクロ親会社、欧米市場への投資が奏功し利益が32％急増",
-   "summary_ja": "ユニクロを運営するファーストリテイリングの欧米市場への注力が成果を上げ、利益が32％急増したことが報じられました。欧米での積極的な事業展開が、同社の業績拡大を大きく後押ししている形です。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9cd60779faaff81b",
-   "url": "https://www.marketscreener.com/news/fast-retailing-co-ltd-provides-consolidated-earnings-guidance-for-the-year-ending-august-31-2027-ce785ddfdd8bf42c",
-   "title_original": "Fast Retailing Co., Ltd. Provides Consolidated Earnings Guidance for the Year Ending August 31, 2027",
-   "source": "marketscreener.com",
-   "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T18:50:24+00:00",
-   "title_ja": "2027年8月期の連結業績予想を発表",
-   "summary_ja": "ファーストリテイリングは、2027年8月期における連結業績の予想数値を発表しました。次期の業績見通しを示し、さらなる事業拡大に向けた計画を明らかにしています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8e6e4145c0b0f94a",
-   "url": "https://www.sfchronicle.com/entertainment/festivals/article/uniqlo-downtown-street-festival-22468751.php",
-   "title_original": "Uniqlo returns to downtown San Francisco with a free street festival",
-   "source": "San Francisco Chronicle",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-08T18:20:21+00:00",
-   "title_ja": "ユニクロがサンフランシスコ中心部に再出店、無料のストリートフェスティバルを開催へ",
-   "summary_ja": "ユニクロがサンフランシスコのダウンタウン地区へ再び出店します。このオープンを記念して、現地では無料のストリートフェスティバルが開催される予定です。地域社会とのつながりを深めながら、新たな店舗の誕生を盛り上げます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
