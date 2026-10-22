@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T19:47:58.461608+09:00",
+ "updated_at": "2026-10-23T01:14:09.704833+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -171,7 +171,6 @@
   "nss magazine",
   "shiritomo",
   "| 繊研新聞",
-  "やさしい朝日新聞",
   "アニメ！アニメ！",
   "インサイド",
   "オリコンニュース",
@@ -180,6 +179,7 @@
   "ジモはる",
   "ダイヤモンド・オンライン",
   "トラベル Watch",
+  "ネットショップ担当者フォーラム",
   "ハフポスト",
   "ビジネスジャーナル",
   "ファッションプレス",
@@ -195,6 +195,7 @@
   "千葉テレビ放送株式会社",
   "号外NET 世田谷区",
   "四季報オンライン",
+  "地域ニュースサイト号外NET",
   "地球の歩き方",
   "宇部日報デジタル SARATTO",
   "山形新聞",
@@ -228,12 +229,12 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 257,
+ "detail_count": 255,
  "digest": {
-  "headline": "ユニクロが感動ジャケットなどの値上げを発表、新コラボや店舗情報も",
+  "headline": "ユニクロ国内値上げやインド展開、新コラボ続々",
   "points": [
    {
-    "text": "ユニクロは円安やコスト高の影響を受け、日本国内で感動ジャケットなどの秋冬商品を平均4%値上げすることを発表しました。",
+    "text": "ユニクロおよびファーストリテイリングは、円安やコスト上昇への対応として、日本国内における平均販売価格や感動ジャケットなどの秋冬商品を約4%引き上げる価格改定を発表しました。",
     "ids": [
      "c690b30918f45838",
      "fe94370886a089c2",
@@ -241,41 +242,55 @@
     ]
    },
    {
-    "text": "ユニクロは、フランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットコレクションを10月30日に発売します。",
+    "text": "京都のグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンするほか、インドではジャイプルへの初出店や店舗網の拡大が予定され、海外事業の好調も伝えられています。",
     "ids": [
-     "76549a1d41629dcb",
-     "908f9b5aa127f390",
-     "eeea3ced2aaf5661"
-    ]
-   },
-   {
-    "text": "京都・河原町のグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンし、限定商品や特別な刺繍サービスが展開されます。",
-    "ids": [
+     "46c7a5a8d0d53c0c",
      "d1be33f188c206e4",
-     "1f2d74c170b981fc",
-     "0ac099a02261e708"
+     "1184cf3700750c1d"
     ]
    },
    {
-    "text": "ユニクロのインド事業は2026年度の売上高が大幅に増加し、インド初となるジャイプール店を11月13日にオープンするなど事業を拡大しています。",
+    "text": "フランチェスコ・リッソ氏とコラボした2026年秋冬ニットコレクションや、UNIQLO and JW ANDERSONの新作アウターなどが発表され、10月30日からの発売が予定されています。",
     "ids": [
-     "217a347feac0fb14",
-     "1184cf3700750c1d",
-     "1d68dad1ae64192b"
+     "8848c8dcabb0bdaf",
+     "ee116653db4fbc9e",
+     "4236cfd8835ffe55"
     ]
    },
    {
-    "text": "SNSではGU ポケモンコラボが話題となり、Xで39件の投稿を記録しています。",
+    "text": "GUからは「ジョジョの奇妙な冒険」との新コラボレーションが発表され、ディオや吉良吉影といった歴代の宿敵たちが登場するコレクションがラインナップされています。",
+    "ids": [
+     "048c209de6d76986"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が注目を集め、Xで6件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-19T19:55:36.088562+09:00",
-  "generated_at": "2026-10-22T19:55:38.035154+09:00",
+  "from": "2026-10-20T01:30:05.190506+09:00",
+  "generated_at": "2026-10-23T01:30:45.595824+09:00",
   "article_count": 24,
-  "sig": "9e9db7aa7421"
+  "sig": "ed67a79e1b73"
  },
  "items": [
+  {
+   "id": "34e99f940fdf4057",
+   "url": "https://www.chiba-tv.com/plus/detail/2026102146813",
+   "title_original": "「もころん」や京王電鉄「けい太くん」と「もころん×けい太くん」コラボも登場♪ユニクロ世田谷千歳台店リニューアルオープンを記念しコラボ商品が登場！",
+   "source": "千葉テレビ放送株式会社",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1486001530820919457/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T14:01:02+00:00",
+   "title_ja": "ユニクロ世田谷千歳台店、リニューアルでコラボ商品を発売",
+   "summary_ja": "ユニクロ世田谷千歳台店のリニューアルオープンを記念し、「もころん」や京王電鉄の「けい太くん」などとコラボレーションした限定商品が登場します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "69de18f91a253e5f",
    "url": "https://prtimes.jp/main/html/rd/p/000000165.000068741.html",
@@ -291,6 +306,38 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "dbd780e189c85bc3",
+   "url": "https://animeanime.jp/article/2026/10/22/104091.html",
+   "title_original": "「モンチッチ」かわいすぎる刺繍をカスタマイズ♪ ユニクロのリメイクサービスとコラボした刺繍サービスが新登場",
+   "source": "アニメ！アニメ！",
+   "image": "https://animeanime.jp/imgs/ogp_f/946469.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T10:45:03+00:00",
+   "title_ja": "ユニクロのリメイクサービスにモンチッチの刺繍が登場",
+   "summary_ja": "ユニクロのリメイクサービスに、可愛らしいモンチッチの刺繍をカスタマイズできる新サービスが登場しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "46c7a5a8d0d53c0c",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AF%E4%BB%8A%E5%B9%B411%E6%9C%88-%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%97%E3%83%AB%E3%81%AB%E5%88%9D%E3%81%AE%E5%BA%97%E8%88%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%99%E3%82%8B%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99,1878167.html",
+   "title_original": "ユニクロは今年11月、ジャイプルに初の店舗をオープンする予定です",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T10:29:39+00:00",
+   "title_ja": "ユニクロ、今年11月にインド・ジャイプルへ初出店へ",
+   "summary_ja": "ユニクロは2025年11月、インドのジャイプルに初となる店舗をオープンする予定であることを明らかにしました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "37ea9bb700046b60",
@@ -338,14 +385,14 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "97cc9e360e10965f",
    "url": "https://news.allabout.co.jp/articles/o/131858",
    "title_original": "「さすがにほしー！」GU×ポケモンの新作が10月23日発売。ピカチュウやイーブイのニットジャケットに期待高まる",
    "source": "All About ニュース",
-   "image": "",
+   "image": "https://ix-news.aacdn.jp/aa_news/article/2026/10/22/6ad9d82f743f6.jpg?im=AspectCrop=(16,9);Resize=(1600,900)",
    "lang": "ja",
    "region": "jp",
    "published": "2026-10-22T09:43:00+00:00",
@@ -354,14 +401,14 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "e241555915d530b6",
    "url": "https://infashionbusiness.com/home/news_details/8756",
    "title_original": "UNIQLO Unveils F.RISSO 2026 Knitwear Capsule Collection With Francesco Risso",
    "source": "IFAB MEDIA",
-   "image": "",
+   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1792658730.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-22T08:49:00+00:00",
@@ -369,6 +416,22 @@
    "summary_ja": "ユニクロは、デザイナーのフランチェスコ・リッソと手掛ける2026年のニットウェアカプセルコレクション「F.RISSO」を発表しました。独自のデザイン性とユニクロの技術を融合させた注目の新作ニットラインナップが登場します。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0fb88121af1b7596",
+   "url": "https://www.mk.co.kr/jp/columnists/12183118",
+   "title_original": "グローバルファストファッション業界に多くの変化が起きている。 まず目立つのがスウェーデンのH&Mと日本のユニクロの席替えだ。 製造機能を備えた業者の売上順位を調べた時、スペインのインディテック..",
+   "source": "매일경제",
+   "image": "https://pimg.mk.co.kr/news/cms/202610/23/20261023_01160131000001_S00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T08:24:57+00:00",
+   "title_ja": "世界のファストファッション市場でブランドの順位変動",
+   "summary_ja": "グローバルなファストファッション業界において、H&Mやユニクロなどの順位に変動が生じています。製造機能を備えた各社の市場での立ち位置の変化が注目されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
    "importance": 3,
    "detail_tries": 1
   },
@@ -466,7 +529,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fb0f73025073cb0d",
@@ -579,6 +642,22 @@
    "brand": "グループ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "6a23c1b14061f545",
+   "url": "https://toyohashi-tahara.goguynet.jp/2026/10/21/uniqlo-2",
+   "title_original": "【豊橋市】長年親しまれてきたロードサイド店舗。「ユニクロ 豊橋大村店」が11月15日をもって閉店へ",
+   "source": "地域ニュースサイト号外NET",
+   "image": "https://toyohashi-tahara.goguynet.jp/wp-content/uploads/sites/81/2023/02/heiten.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T12:50:38+00:00",
+   "title_ja": "ユニクロ豊橋大村店が11月15日をもって閉店へ",
+   "summary_ja": "長年親しまれてきたロードサイド店舗である「ユニクロ 豊橋大村店」が、11月15日をもって営業を終了し閉店することが分かりました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "7e9b10b6da996cd9",
@@ -848,22 +927,6 @@
    "title_ja": "ユニクロ、ベトナムで排出量90％削減と地域貢献プロジェクト拡大",
    "summary_ja": "ユニクロがベトナムにおいて事業活動に伴う温室効果ガスなどの排出量を90％以上削減したことが明らかになりました。現地での地域社会貢献プロジェクトも拡大し、持続可能な社会の実現に向けた取り組みを推進しています。",
    "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "59ad2ea5a28c863a",
-   "url": "https://infashionbusiness.com/home/news_details/8748/15",
-   "title_original": "UNIQLO To Open First Store In Jaipur On November 13, Marking Rajasthan Debut",
-   "source": "IFAB MEDIA",
-   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1792568346.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T07:43:54+00:00",
-   "title_ja": "ユニクロが11月13日にインド・ジャイプールに初出店",
-   "summary_ja": "ユニクロは11月13日に、インドのジャイプールへ同地域初となる店舗をオープンする。これによりラジャスタン州への新規進出を果たすことになる。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -2050,6 +2113,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ef3032349ef94e34",
+   "url": "https://netshop.impress.co.jp/n/2026/10/20/16891",
+   "title_original": "ファーストリテイリング柳井社長が語った「世界一のブランドになる」決意とは",
+   "source": "ネットショップ担当者フォーラム",
+   "image": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16891-ogp.png?itok=HpugTR7g",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-19T22:00:00+00:00",
+   "title_ja": "柳井社長が語る「世界一」への決意",
+   "summary_ja": "ファーストリテイリングの柳井社長が、世界一のブランドを目指す強い決意について語りました。経営トップの言葉から今後の企業戦略に注目が集まります。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6595,86 +6674,6 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "c3e90f410512217c",
-   "url": "https://news.yahoo.co.jp/articles/6f2a541300ba3674567fad6882e9930848f57aff",
-   "title_original": "GU × エンジニアド ガーメンツ第3弾、初のトートバッグなど全8型を発売（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00536078-fashions-000-2-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T00:57:08+00:00",
-   "title_ja": "GUとエンジニアド ガーメンツの第3弾コラボ全8型が登場",
-   "summary_ja": "GUは「エンジニアド ガーメンツ」との第3弾コラボレーションを発表し、初のトートバッグを含む全8型のアイテムを発売します。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "75ad56011dd2f585",
-   "url": "https://www.fashionsnap.com/article/2026-10-09/gu-engineered-garments-3rd",
-   "title_original": "GU × エンジニアド ガーメンツ第3弾、初のトートバッグなど全8型を発売",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/2d2aa04b-7cc1-4368-aef0-77f70fae91f8.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T00:57:08+00:00",
-   "title_ja": "GUとエンジニアド ガーメンツのコラボ第3弾、初のバッグ含む全8型を発売",
-   "summary_ja": "ジーユー（GU）がファッションブランド「エンジニアド ガーメンツ」とのコラボレーション第3弾を発売します。今回はブランド初となるトートバッグをはじめ、全8型のアイテムがラインナップされます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e5f8659a86c1f737",
-   "url": "https://yasashii.asahi.com/articles/article_0015282.html",
-   "title_original": "「ユニクロ」がH＆Mを抜き、アパレル世界2位になる見通しです",
-   "source": "やさしい朝日新聞",
-   "image": "https://yasashii.asahi.com/assets/entry-15282-og_image.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T00:00:00+00:00",
-   "title_ja": "ユニクロがH＆Mを抜きアパレル世界2位へ浮上する見通し",
-   "summary_ja": "ユニクロが競合ブランドのH＆Mを追い抜き、アパレル業界で世界第2位のポジションへ浮上する見通しであることが報告されました。世界規模での成長が続いています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "1bed6afbe99de495",
-   "url": "https://baila.hpplus.jp/blogs/kamiya_erena/83883",
-   "title_original": "【2026秋冬ユニクロシー】話題の「フラッフィカシミヤ」シリーズを全型レポ！｜＠BAILA（バイラ）",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/67/67f43ad1-370c-42ef-9d2e-82edbe9f7027-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T00:00:00+00:00",
-   "title_ja": "ユニクロ：Cの2026年秋冬「フラッフィカシミヤ」全商品をレビュー",
-   "summary_ja": "ユニクロのウィメンズライン「UNIQLO : C」から、2026年秋冬の注目アイテムである「フラッフィカシミヤ」シリーズが登場しました。新作の全ラインナップについて、着用感やデザインの魅力をレポートしています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a991d95a31be161d",
-   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_uniqlo_20261009",
-   "title_original": "過去最高業績に冷や水、ファストリが4.04％の急落 オンワードHDは6.01％高で上昇率トップ｜「SVT インデックス」13,137ポイント（10月9日）",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/03/840-3.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T00:00:00+00:00",
-   "title_ja": "最高業績発表のファストリ株が急落、好材料出尽くしで売り先行",
-   "summary_ja": "ファーストリテイリングが過去最高業績を発表したものの、株式市場では株価が4.04％急落しました。好決算が発表された直後における利益確定売りなどが株価の重荷となった模様です。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
