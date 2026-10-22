@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T01:25:33.181579+09:00",
+ "updated_at": "2026-10-23T06:00:12.351119+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2921,
+ "catalog_size": 2920,
  "count": 51,
  "items": [
   {
@@ -54,8 +54,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 790,
-   "promo": 790,
+   "price": 990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/358176/item/jpgoods_30_358176_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E358176-000/00?colorDisplayCode=30",
    "rating": 4.5,
@@ -143,8 +143,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 3990,
-   "promo": null,
+   "price": 2990,
+   "promo": 2990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483285/item/jpgoods_30_483285_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E483285-000/00?colorDisplayCode=30",
    "rating": 4.4,
@@ -174,8 +174,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 3990,
-   "promo": null,
+   "price": 2990,
+   "promo": 2990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_08_471809_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E471809-000/00?colorDisplayCode=08",
    "rating": 4.6,
@@ -199,8 +199,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 2990,
-   "promo": 2990,
+   "price": 3990,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486117/item/jpgoods_04_486117_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E486117-000/00?colorDisplayCode=04",
    "rating": 4.6,
@@ -265,8 +265,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 3990,
-   "promo": 3990,
+   "price": 4990,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
    "rating": 4.5,
@@ -295,8 +295,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 1500,
-   "promo": null,
+   "price": 1290,
+   "promo": 1290,
    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480785/item/goods_09_480785_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E480785-000/00?colorDisplayCode=09",
    "rating": 4.4,
@@ -367,8 +367,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 1990,
-   "promo": null,
+   "price": 1290,
+   "promo": 1290,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_09_465751_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E465751-000/00?colorDisplayCode=09",
    "rating": 4.6,
@@ -415,8 +415,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 790,
-   "promo": 790,
+   "price": 990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361609/item/jpgoods_18_361609_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E361609-000/00?colorDisplayCode=18",
    "rating": 4.5,
@@ -439,8 +439,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 2990,
-   "promo": 2990,
+   "price": 3990,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485321/item/jpgoods_08_485321_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E485321-000/00?colorDisplayCode=08",
    "rating": 4.3,
@@ -464,8 +464,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 4990,
-   "promo": null,
+   "price": 3990,
+   "promo": 3990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/492123/item/jpgoods_65_492123_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E492123-000/00?colorDisplayCode=65",
    "rating": 4.5,
@@ -489,8 +489,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 4990,
-   "promo": null,
+   "price": 3990,
+   "promo": 3990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479000/item/jpgoods_68_479000_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E479000-000/00?colorDisplayCode=68",
    "rating": 4.5,
@@ -520,8 +520,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 4990,
-   "promo": null,
+   "price": 3990,
+   "promo": 3990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487957/item/jpgoods_08_487957_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487957-000/00?colorDisplayCode=08",
    "rating": 4,
@@ -545,8 +545,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 2490,
-   "promo": 2490,
+   "price": 2990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360647/item/jpgoods_64_360647_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E360647-000/00?colorDisplayCode=64",
    "rating": 4.6,
@@ -586,16 +586,57 @@
    "rising": false
   },
   {
-   "key": "UQ:E484855-000",
+   "key": "UQ:E486821-000",
    "rank": 22,
+   "brand": "ユニクロ",
+   "name": "ショートブルゾン",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 7990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486821/item/jpgoods_69_486821_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486821-000/00?colorDisplayCode=69",
+   "rating": 4.8,
+   "reviews": 10,
+   "reviews7": 10,
+   "capped": false,
+   "prev7": 0,
+   "mentions7": 3,
+   "mention_titles": [
+    {
+     "t": "「秋はアウター、冬はインナーに」 ユニクロの“ショートブルゾン”が大好評！ 「全体に高見え」「パンツでもスカートでもいける」「簡単に決まる」（画像） | ウェア ねとらぼリサーチ",
+     "s": "ねとらぼ",
+     "u": "https://nlab.itmedia.co.jp/research/articles/4066006/image"
+    },
+    {
+     "t": "「秋はアウター、冬はインナーに」 ユニクロの“ショートブルゾン”が大好評！ 「全体に高見え」「パンツでもスカートでもいける」「簡単に決まる」 (ねとらぼ)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/f7a15b3579195fdbc05dd9adc4e3345701f25698/images/000"
+    },
+    {
+     "t": "【きょう発売】「一番気になってる」…ユニクロ、注目コラボの 《ショートブルゾン》！ 男女兼用で「シンプルにおしゃれ」「着回し最強」",
+     "s": "LASISA",
+     "u": "https://lasisa.net/post/164788"
+    }
+   ],
+   "score": 45,
+   "momentum": 3.0,
+   "new": false,
+   "rising": true
+  },
+  {
+   "key": "UQ:E484855-000",
+   "rank": 23,
    "brand": "ユニクロ",
    "name": "スウェットストレートパンツ/丈短め",
    "genders": [
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 3990,
-   "promo": null,
+   "price": 2990,
+   "promo": 2990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/484855/item/jpgoods_03_484855_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E484855-000/00?colorDisplayCode=03",
    "rating": 4.4,
@@ -612,14 +653,14 @@
   },
   {
    "key": "UQ:E488163-000",
-   "rank": 23,
+   "rank": 24,
    "brand": "ユニクロ",
    "name": "ドライスウェットワイドパンツ",
    "genders": [
     "キッズ"
    ],
-   "price": 1990,
-   "promo": null,
+   "price": 1290,
+   "promo": 1290,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488163/item/jpgoods_03_488163_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488163-000/00?colorDisplayCode=03",
    "rating": 4.5,
@@ -636,7 +677,7 @@
   },
   {
    "key": "UQ:E486614-000",
-   "rank": 24,
+   "rank": 25,
    "brand": "ユニクロ",
    "name": "イージーケアソフトシャツ",
    "genders": [
@@ -660,31 +701,6 @@
    "rising": false
   },
   {
-   "key": "UQ:E482766-000",
-   "rank": 25,
-   "brand": "ユニクロ",
-   "name": "ワッフルヘンリーネックTシャツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482766/item/jpgoods_08_482766_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E482766-000/00?colorDisplayCode=08",
-   "rating": 4.5,
-   "reviews": 1550,
-   "reviews7": 38,
-   "capped": false,
-   "prev7": 114,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 40,
-   "momentum": 1.05,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E360654-000",
    "rank": 26,
    "brand": "GU",
@@ -692,8 +708,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 2490,
-   "promo": 2490,
+   "price": 2990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360654/item/jpgoods_08_360654_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E360654-000/00?colorDisplayCode=08",
    "rating": 4.4,
@@ -790,8 +806,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 1990,
-   "promo": 1990,
+   "price": 2990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/359080/item/jpgoods_37_359080_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E359080-000/00?colorDisplayCode=37",
    "rating": 4.6,
@@ -814,8 +830,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 1990,
-   "promo": 1990,
+   "price": 2990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesgoods/359377/item/goods_09_359377_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E359377-000/00?colorDisplayCode=09",
    "rating": 4.4,
@@ -865,8 +881,8 @@
     "ウィメンズ",
     "メンズ"
    ],
-   "price": 2990,
-   "promo": 2990,
+   "price": 3990,
+   "promo": null,
    "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361793/item/jpgoods_69_361793_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E361793-000/00?colorDisplayCode=69",
    "rating": 4.5,
@@ -963,8 +979,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1990,
-   "promo": null,
+   "price": 1290,
+   "promo": 1290,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488426/item/jpgoods_69_488426_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488426-000/00?colorDisplayCode=69",
    "rating": 4.6,
@@ -1011,8 +1027,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1290,
-   "promo": 1290,
+   "price": 1990,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/483447/item/jpgoods_38_483447_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E483447-000/00?colorDisplayCode=38",
    "rating": 4.5,
@@ -1035,8 +1051,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 2490,
-   "promo": null,
+   "price": 1990,
+   "promo": 1990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/485421/item/jpgoods_67_485421_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E485421-000/00?colorDisplayCode=67",
    "rating": 4.6,
@@ -1089,8 +1105,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1990,
-   "promo": null,
+   "price": 1290,
+   "promo": 1290,
    "image": "https://image.uniqlo.com/GU/ST3/AsianCommon/imagesgoods/359422/item/goods_02_359422_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E359422-000/00?colorDisplayCode=02",
    "rating": 4.5,
@@ -1113,8 +1129,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 790,
-   "promo": null,
+   "price": 590,
+   "promo": 590,
    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488922/item/goods_35_488922_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488922-000/00?colorDisplayCode=35",
    "rating": 4.8,
@@ -1137,8 +1153,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1500,
-   "promo": null,
+   "price": 990,
+   "promo": 990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488762/item/jpgoods_69_488762_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488762-000/00?colorDisplayCode=69",
    "rating": 4,
@@ -1161,8 +1177,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1990,
-   "promo": 1990,
+   "price": 2490,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486637/item/jpgoods_64_486637_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E486637-000/00?colorDisplayCode=64",
    "rating": 4.2,
@@ -1185,8 +1201,8 @@
    "genders": [
     "キッズ"
    ],
-   "price": 1990,
-   "promo": 1990,
+   "price": 2490,
+   "promo": null,
    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488643/item/goods_14_488643_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488643-000/00?colorDisplayCode=14",
    "rating": 4.8,

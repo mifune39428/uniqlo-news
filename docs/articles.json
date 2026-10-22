@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T01:14:09.704833+09:00",
+ "updated_at": "2026-10-23T05:57:21.437533+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -229,12 +229,12 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 255,
+ "detail_count": 257,
  "digest": {
-  "headline": "ユニクロ国内値上げやインド展開、新コラボ続々",
+  "headline": "ユニクロが国内での平均販売価格引き上げや新たなコラボニットを発表",
   "points": [
    {
-    "text": "ユニクロおよびファーストリテイリングは、円安やコスト上昇への対応として、日本国内における平均販売価格や感動ジャケットなどの秋冬商品を約4%引き上げる価格改定を発表しました。",
+    "text": "ユニクロおよびファーストリテイリングは、円安やコスト上昇の影響を受け、日本国内で平均販売価格を約4%引き上げる方針を発表しました。",
     "ids": [
      "c690b30918f45838",
      "fe94370886a089c2",
@@ -242,39 +242,73 @@
     ]
    },
    {
-    "text": "京都のグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンするほか、インドではジャイプルへの初出店や店舗網の拡大が予定され、海外事業の好調も伝えられています。",
+    "text": "ユニクロは、フランチェスコ・リッソ氏とコラボレーションした2026年秋冬のニットウェアカプセルコレクションを10月30日に発売します。",
     "ids": [
-     "46c7a5a8d0d53c0c",
-     "d1be33f188c206e4",
-     "1184cf3700750c1d"
-    ]
-   },
-   {
-    "text": "フランチェスコ・リッソ氏とコラボした2026年秋冬ニットコレクションや、UNIQLO and JW ANDERSONの新作アウターなどが発表され、10月30日からの発売が予定されています。",
-    "ids": [
-     "8848c8dcabb0bdaf",
-     "ee116653db4fbc9e",
+     "76549a1d41629dcb",
+     "908f9b5aa127f390",
      "4236cfd8835ffe55"
     ]
    },
    {
-    "text": "GUからは「ジョジョの奇妙な冒険」との新コラボレーションが発表され、ディオや吉良吉影といった歴代の宿敵たちが登場するコレクションがラインナップされています。",
+    "text": "京都の河原町通りにあるグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンし、限定商品や刺繍サービスなどが展開されます。",
     "ids": [
-     "048c209de6d76986"
+     "d1be33f188c206e4",
+     "1f2d74c170b981fc",
+     "0ac099a02261e708"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が注目を集め、Xで6件投稿されています。",
+    "text": "ユニクロのインド事業は、2026年度の純利益が41%増を達成したほか、11月にジャイプルへ初出店を行うなど順調に拡大しています。",
+    "ids": [
+     "46c7a5a8d0d53c0c",
+     "217a347feac0fb14",
+     "1184cf3700750c1d"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が急上昇し、Xで3日に6件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-20T01:30:05.190506+09:00",
-  "generated_at": "2026-10-23T01:30:45.595824+09:00",
+  "from": "2026-10-20T06:04:02.330858+09:00",
+  "generated_at": "2026-10-23T06:04:04.321749+09:00",
   "article_count": 24,
-  "sig": "ed67a79e1b73"
+  "sig": "e24890edcafe"
  },
  "items": [
+  {
+   "id": "51b25b041c1e5241",
+   "url": "https://news.yahoo.co.jp/articles/440c2976ca7510c71fe41a72e99fab55828efe56",
+   "title_original": "さすがだわ…ユニクロ柳井正が「オフィスが揺れる」ほど激怒した「わずかなミス」とは？（ダイヤモンド・オンライン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00401718-diamond-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T20:30:36+00:00",
+   "title_ja": "柳井正氏が激怒した「わずかなミス」とは ファーストリテイリングの妥協なき姿勢",
+   "summary_ja": "ユニクロを傘下に持つファーストリテイリングの柳井正会長兼社長が、オフィスが揺れるほど激怒した過去のミスについて紹介する記事。同社の細部への徹底したこだわりや品質・経営に対する厳しい姿勢が伺えるエピソードが語られている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "677166f29dfeb91d",
+   "url": "https://pokde.net/lifestyle/shopping/monchhichi-embroidery-re-uniqlo-studio",
+   "title_original": "UNIQLO Brings Monchhichi Embroidery Designs to RE.UNIQLO STUDIO in Malaysia",
+   "source": "Pokde.Net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/23002325/uniqlo-monchhichi-embroidery-re-uniqlo-studio-featured.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-22T16:50:35+00:00",
+   "title_ja": "マレーシアの「RE.UNIQLO STUDIO」にモンチッチの刺繍デザインが登場",
+   "summary_ja": "マレーシアの「RE.UNIQLO STUDIO」において、モンチッチの刺繍デザインが導入された。利用者は手持ちの服の補修やリメイクなどのカスタマイズサービスを利用する際、モンチッチのデザインを選択することができる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "34e99f940fdf4057",
    "url": "https://www.chiba-tv.com/plus/detail/2026102146813",
@@ -287,6 +321,22 @@
    "title_ja": "ユニクロ世田谷千歳台店、リニューアルでコラボ商品を発売",
    "summary_ja": "ユニクロ世田谷千歳台店のリニューアルオープンを記念し、「もころん」や京王電鉄の「けい太くん」などとコラボレーションした限定商品が登場します。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "1fa7ad6053154050",
+   "url": "http://www.excite.co.jp/news/article/SmartFLASH_1485970584669700564",
+   "title_original": "ユニクロ、一部商品値上げ発表で消費者思わず「高級服」SNSで悲痛な叫び…会社に聞いた「隙あらば安く」の可能性",
+   "source": "Excite エキサイト",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T11:56:00+00:00",
+   "title_ja": "ユニクロの一部商品値上げに対しSNSで反響　価格方針について企業へ取材",
+   "summary_ja": "ユニクロの一部商品値上げ発表に対し、SNS上では消費者から驚きや悲痛の声があがっている。記事ではユニクロを展開するファーストリテイリングに対し、今後の価格設定や値下げの可能性などについて取材を行っている。",
+   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -337,7 +387,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "37ea9bb700046b60",
@@ -433,7 +483,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ae4fed1b5a9908b5",
@@ -657,7 +707,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7e9b10b6da996cd9",
@@ -6626,54 +6676,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "eb0ec8fb6f2ea081",
-   "url": "https://www.nikkei.com/article/DGXZQOFL090IO0Z01C26A0000000",
-   "title_original": "ファストリ株が朝高後に下落 27年8月期、純利益予想下回る",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3706130009102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f3e31eaf6ad4f6c8bc9835ec6c8f4062",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T01:36:16+00:00",
-   "title_ja": "ファストリ株が下落、27年8月期純利益が予想を下回る",
-   "summary_ja": "ファーストリテイリングの株価は朝高後に下落しました。2027年8月期の純利益予想が市場予想を下回ったことが影響しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "f2b8be9351f6546f",
-   "url": "https://www.nbcbayarea.com/video/news/local/uniqlo-sf-store/4155449",
-   "title_original": "Uniqlo to open new flagship store in San Francisco",
-   "source": "NBC Bay Area",
-   "image": "https://media.nbcbayarea.com/2026/10/51786077235-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T01:28:38+00:00",
-   "title_ja": "ユニクロがサンフランシスコに新たな旗艦店をオープンへ",
-   "summary_ja": "ユニクロが、米国サンフランシスコに新たな旗艦店をオープンすることが分かりました。新店舗の具体的なオープン時期などの詳細は明らかにされていませんが、現地でのさらなるブランド展開が期待されます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8d8cd613853b98fd",
-   "url": "https://shikiho.toyokeizai.net/news/0/960715",
-   "title_original": "ファーストリテが軟調､27年8月期は3％最終増益予想",
-   "source": "四季報オンライン",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T01:20:19+00:00",
-   "title_ja": "ファーストリテイリングが軟調、2027年8月期は3％の最終増益予想",
-   "summary_ja": "ファーストリテイリングの株価が軟調に推移しています。同社の2027年8月期の業績について、最終利益が前期比で3％の増益となる予想が示されたものの、市場では慎重な見方が広がっているとみられます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
