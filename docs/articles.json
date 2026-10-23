@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T01:04:04.548900+09:00",
+ "updated_at": "2026-10-24T05:45:28.821417+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -60,6 +60,7 @@
   "Goody Feed",
   "Hashtag Legend Hong Kong",
   "Highsnobiety",
+  "Hindustan Times",
   "Honolulu Civil Beat",
   "Hypebae",
   "Hypebeast",
@@ -138,7 +139,6 @@
   "The Sole Supplier",
   "The Times Australia",
   "The Voice of San Francisco",
-  "TheIndustry.fashion",
   "Traders Union",
   "TradingView",
   "Trend Hunter",
@@ -230,49 +230,66 @@
  "count": 400,
  "detail_count": 255,
  "digest": {
-  "headline": "ユニクロの新コラボや国内外の出店、GUの新CMが話題",
+  "headline": "ユニクロの新作ニットや国内外の新店舗情報が続々発表",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」2026年ニットコレクションを発表し、30日の発売に向けて全ラインナップが公開されました。",
+    "text": "ユニクロは、フランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」など秋冬のニットコレクションを発表しました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "41e9894ffdc3145c",
-     "e1c5230c2a08bd45"
+     "e1c5230c2a08bd45",
+     "8848c8dcabb0bdaf"
     ]
    },
    {
-    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンするほか、インドへの初出店や店舗網の拡大が発表されています。",
+    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンおよびリニューアル予定として発表されました。",
     "ids": [
      "9410e2fa10af8224",
      "d1be33f188c206e4",
-     "46c7a5a8d0d53c0c"
+     "0ac099a02261e708"
     ]
    },
    {
-    "text": "開業20周年を迎えた千歳台のユニクロ店舗が大規模改装を行い、コーヒー提供や生花販売などの新サービスを開始しました。",
+    "text": "インドのジャイプールへの初出店や、インド法人の大幅な増益など、海外市場での展開が順調に推移しています。",
     "ids": [
-     "4da4b34e57c6bc49",
-     "c38bf2e21fa33d6f"
+     "46c7a5a8d0d53c0c",
+     "1184cf3700750c1d",
+     "6841e61e32a75061"
     ]
    },
    {
-    "text": "ジーユーは昭和の名曲「スーダラ節」を使用した、ファッションの自由を描く新テレビCMの放映を開始しました。",
+    "text": "GUは「スーダラ節」を使用した新テレビCMを開始し、自由なファッションの楽しさを表現しています。",
     "ids": [
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が注目を集め、Xで8件の投稿が確認されています。",
+    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が急上昇し、Xで3日に8件の投稿がありました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-21T01:11:26.627205+09:00",
-  "generated_at": "2026-10-24T01:11:35.789001+09:00",
+  "from": "2026-10-21T05:50:50.760074+09:00",
+  "generated_at": "2026-10-24T05:50:52.705161+09:00",
   "article_count": 24,
-  "sig": "33b9579c68c1"
+  "sig": "6e398bbef286"
  },
  "items": [
+  {
+   "id": "63ecf087618a2f94",
+   "url": "https://www.hindustantimes.com/lifestyle/fashion/uniqlo-introduces-its-fall-winter-2026-fleece-collection-with-versatile-winter-essentials-101792759056459.html",
+   "title_original": "UNIQLO introduces its Fall/Winter 2026 fleece collection with versatile winter essentials | Fashion Trends",
+   "source": "Hindustan Times",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T16:44:13+00:00",
+   "title_ja": "ユニクロが2026年秋冬フリースコレクションを発表",
+   "summary_ja": "ユニクロが2026年秋冬シーズンのフリースコレクションを発表した。冬の定番アイテムとして、多彩なシーンで着回せる汎用性の高いラインナップを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "e6d83fac5e372d7d",
    "url": "https://hashtaglegend.com/th/post/uniqlo-f-risso-2026-knitwear-collection",
@@ -288,6 +305,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "5ae0c0621edad74b",
+   "url": "https://www.wwdjapan.com/articles/2532925",
+   "title_original": "「ユニクロ」がモンチッチの刺しゅうサービスを開始 “ユーティーミー”には88種の新デザインも",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T11:25:30+00:00",
+   "title_ja": "ユニクロがモンチッチの刺しゅうサービスを開始 UTme!に88種の新デザイン追加",
+   "summary_ja": "ユニクロはキャラクター「モンチッチ」の刺しゅうサービスの提供を開始しました。あわせて、オリジナルのTシャツやグッズが作れるサービス「UTme!」にも88種類の新しいデザインが追加され、利用者は好みのアイテムをカスタマイズして楽しむことができます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "41e9894ffdc3145c",
@@ -335,6 +368,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "4388c63a55dd6f5e",
+   "url": "https://www.vietnam.vn/ja/sau-thanh-hoa-uniqlo-tiep-tuc-khai-truong-cua-hang-dau-tien-tai-ha-long-vao-thang-11-2026",
+   "title_original": "ユニクロはタインホアでの開店に続き、2026年11月にはハロン湾に初の店舗をオープンする予定です。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/23/1792761355032_uniqlo-aeon-mall-ha-long-se-khai-truong-vao-11112026-png.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T09:11:36+00:00",
+   "title_ja": "ユニクロがベトナムのタインホアに続き2026年11月にハロン湾へ初出店へ",
+   "summary_ja": "ユニクロはベトナムのタインホアでの店舗オープンに続き、2026年11月にハロン湾エリア初となる店舗を開店する予定だ。同国での店舗網拡大をさらに推し進めている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6624,54 +6673,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "6cc03681b7a05493",
-   "url": "https://www.asahi.com/ajw/articles/16953313",
-   "title_original": "Uniqlo closes in on H&M but ZARA gap remains wide",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/e8f1-p/picture/31425062/6665a8d0c8b62a08f685d69ac6abe2de.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T07:14:00+00:00",
-   "title_ja": "ユニクロ、H&Mに肉薄するもZARAとの差は依然として大きく",
-   "summary_ja": "ユニクロはアパレル世界大手であるH&Mへの接近を見せているものの、ZARAとの間にはまだ一定の距離がある状態が続いている。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9592a235a14e504a",
-   "url": "https://www.theindustry.fashion/uniqlo-europe-profit-jumps-record",
-   "title_original": "Uniqlo’s European profit jumps 69% in record year",
-   "source": "TheIndustry.fashion",
-   "image": "https://www.theindustry.fashion/wp-content/uploads/2026/03/IMG_2850_cropped-rotated.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T07:00:40+00:00",
-   "title_ja": "ユニクロの欧州事業、通期利益が69％増で過去最高を記録",
-   "summary_ja": "ユニクロの欧州事業における通期利益が前年比で69％増加し、過去最高を記録したことが明らかになった。欧州市場におけるブランド展開と販売の好調ぶりが浮き彫りとなった。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "dc083487368553a5",
-   "url": "https://www.sanyonews.jp/article/1955730",
-   "title_original": "GU、フランチェスコ・リッソ監修の2026年秋冬コレクションを発表 多様なライフスタイルに寄り添う6つのコンセプト",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/1/0/5/a/105a4051309093d24c9b7d4e50aab201_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T07:00:00+00:00",
-   "title_ja": "GU、フランチェスコ・リッソ監修の2026年秋冬コレクションを発表",
-   "summary_ja": "GUは、フランチェスコ・リッソが監修を務める2026年秋冬コレクションを発表しました。多様なライフスタイルに寄り添う6つのコンセプトで展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
