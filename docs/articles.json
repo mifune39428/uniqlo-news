@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T19:40:08.322029+09:00",
+ "updated_at": "2026-10-24T01:04:04.548900+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -49,7 +49,6 @@
   "Explosion Network",
   "FashionNetwork France",
   "FashionNetwork India",
-  "FashionNetwork USA",
   "Fashionsnap.com",
   "Fibre2Fashion",
   "Financial Mail",
@@ -59,6 +58,7 @@
   "Goal.com",
   "GoodsPress Web",
   "Goody Feed",
+  "Hashtag Legend Hong Kong",
   "Highsnobiety",
   "Honolulu Civil Beat",
   "Hypebae",
@@ -228,51 +228,83 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 253,
+ "detail_count": 255,
  "digest": {
-  "headline": "ユニクロが新コラボや国内値上げを発表、各地で店舗オープンも",
+  "headline": "ユニクロの新コラボや国内外の出店、GUの新CMが話題",
   "points": [
    {
-    "text": "ユニクロは進行する円安やコスト高の影響を受け、日本国内での価格引き上げに踏み切りました。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」2026年ニットコレクションを発表し、30日の発売に向けて全ラインナップが公開されました。",
     "ids": [
-     "c690b30918f45838",
-     "54a3480ef01157b5"
+     "e6d83fac5e372d7d",
+     "41e9894ffdc3145c",
+     "e1c5230c2a08bd45"
     ]
    },
    {
-    "text": "フランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」ニットコレクションが発表されました。",
-    "ids": [
-     "e1c5230c2a08bd45",
-     "76549a1d41629dcb",
-     "4236cfd8835ffe55"
-    ]
-   },
-   {
-    "text": "京都のグローバル旗艦店やインド・ジャイプルへの初出店など、国内外での店舗展開が予定されています。",
+    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」が11月6日にリニューアルオープンするほか、インドへの初出店や店舗網の拡大が発表されています。",
     "ids": [
      "9410e2fa10af8224",
-     "46c7a5a8d0d53c0c",
-     "1184cf3700750c1d"
+     "d1be33f188c206e4",
+     "46c7a5a8d0d53c0c"
     ]
    },
    {
-    "text": "ジーユーは「スーダラ節」を使用した自由なファッションの楽しさを表現する新テレビCMを開始しました。",
+    "text": "開業20周年を迎えた千歳台のユニクロ店舗が大規模改装を行い、コーヒー提供や生花販売などの新サービスを開始しました。",
+    "ids": [
+     "4da4b34e57c6bc49",
+     "c38bf2e21fa33d6f"
+    ]
+   },
+   {
+    "text": "ジーユーは昭和の名曲「スーダラ節」を使用した、ファッションの自由を描く新テレビCMの放映を開始しました。",
     "ids": [
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "ユニクロの極暖ヒートテックカシミヤブレンドがXで3日に7件投稿されました。",
+    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が注目を集め、Xで8件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-20T19:48:32.393931+09:00",
-  "generated_at": "2026-10-23T19:48:34.141356+09:00",
+  "from": "2026-10-21T01:11:26.627205+09:00",
+  "generated_at": "2026-10-24T01:11:35.789001+09:00",
   "article_count": 24,
-  "sig": "07267f7c7e64"
+  "sig": "33b9579c68c1"
  },
  "items": [
+  {
+   "id": "e6d83fac5e372d7d",
+   "url": "https://hashtaglegend.com/th/post/uniqlo-f-risso-2026-knitwear-collection",
+   "title_original": "Uniqlo Unveils 2026 Knitwear Capsule Collection from \"UNIQLO F.RISSO\"",
+   "source": "Hashtag Legend Hong Kong",
+   "image": "http://localhost:3000/th/api/media/file/UNIQLO%20F.RISSO%20cover.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T11:50:09+00:00",
+   "title_ja": "ユニクロが「UNIQLO F.RISSO」2026年ニットコレクション発表",
+   "summary_ja": "ユニクロが「UNIQLO F.RISSO」ラインより、2026年のニットウェアカプセルコレクションを発表したと報じられています。注目の新規コラボレーションによるカプセルコレクションとして展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "41e9894ffdc3145c",
+   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-22-mrFqmg",
+   "title_original": "【大人のユニクロ】欲しいニットだらけ。「ユニクロ エフ・リッソ」コラボ第2弾、全部見せます【10月30日発売】",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/4c/4cdaf2a7-fc0b-44ee-928f-61e073a09086-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T11:00:00+00:00",
+   "title_ja": "ユニクロ エフ・リッソコラボ第2弾の全アイテム公開",
+   "summary_ja": "大人向けファッション誌で、「ユニクロ エフ・リッソ」コラボレーションの第2弾となる全ラインナップが10月30日の発売に向けて紹介されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "5ebd8d882126fce3",
    "url": "https://prtimes.jp/main/html/rd/p/000000300.000011182.html",
@@ -351,7 +383,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "ed14491d1bcbeb46",
+   "url": "https://newswav.com/article/uniqlo-f-risso-returns-with-a-knitwear-collection-made-for-dreaming-A2610_Q0v3BL",
+   "title_original": "UNIQLO F.RISSO Returns with a Knitwear Collection ‘Made for Dreaming’",
+   "source": "Newswav",
+   "image": "https://thestoly.com/wp-content/uploads/2026/10/Offer-post-46-150x150.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T03:54:44+00:00",
+   "title_ja": "ユニクロ、ニットウェアコレクションを発表",
+   "summary_ja": "ユニクロは、新たなニットウェアコレクション「Made for Dreaming」の展開を開始する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "24b95a0906944905",
@@ -367,7 +415,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "b310e1ae4007fe0d",
+   "url": "https://newswav.com/article/customise-it-your-own-with-uniqlo-s-new-14-monchhichi-embroidery-designs-A2610_Lyacc6",
+   "title_original": "Customise It Your Own with UNIQLO’s New 14 Monchhichi Embroidery Designs",
+   "source": "Newswav",
+   "image": "https://thestoly.com/wp-content/uploads/2026/10/Offer-post-44-150x150.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T03:27:48+00:00",
+   "title_ja": "ユニクロ、モンチッチの刺繍デザイン14種を追加",
+   "summary_ja": "ユニクロは、オリジナルの刺繍サービスにモンチッチの新しいデザイン14種類を追加し、自分好みのカスタマイズを提供する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "e1c5230c2a08bd45",
@@ -383,7 +447,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6b4ff98d6fd2c3d5",
@@ -6608,70 +6672,6 @@
    "brand": "GU",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "2e5f04cf981e341f",
-   "url": "https://www.kab.co.jp/news/article/16952901/31424341",
-   "title_original": "熊本県内最大の売り場面積「ユニクロ」ゆめタウン光の森店リニューアル 八代市では仮設店舗も（1）",
-   "source": "KAB 熊本朝日放送",
-   "image": "https://p.potaufeu.asahi.com/47ec-p/picture/31424341/e27b8723613ca77ec479f027098f96cd.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T06:39:06+00:00",
-   "title_ja": "ユニクロゆめタウン光の森店が熊本最大面積に改装、八代市では仮設店舗も展開",
-   "summary_ja": "ユニクロゆめタウン光の森店が、熊本県内で最大規模の売り場面積へとリニューアルオープンします。あわせて熊本県八代市においては、仮設店舗の営業も進められていることが明らかになりました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "4018b653e2dae47b",
-   "url": "https://jp.fashionnetwork.com/news/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%83%86%E3%82%A4%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%AF%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%8C%E4%BB%96%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E4%B8%8A%E5%9B%9E%E3%82%8B%E5%A5%BD%E8%AA%BF%E3%81%B6%E3%82%8A%E3%82%92%E8%A6%8B%E3%81%9B%E3%82%8B%E4%B8%80%E6%96%B9-gu%E3%81%AE%E5%A3%B2%E4%B8%8A%E9%AB%98%E3%81%AE%E4%BC%B8%E3%81%B3%E3%81%AF%E5%B0%8F%E5%B9%85%E3%81%AB%E3%81%A8%E3%81%A9%E3%81%BE%E3%82%8A-%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%BC%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%AF%E6%B8%9B%E5%B0%91%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B-,1874491.html",
-   "title_original": "ファーストリテイリングではユニクロが他ブランドを大きく上回る好調ぶりを見せる一方、GUの売上高の伸びは小幅にとどまり、セオリーの売上は減少している。",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T06:38:36+00:00",
-   "title_ja": "ファストリ傘下ブランドで明暗、ユニクロ好調の一方GUは微増、セオリーは減収",
-   "summary_ja": "ファーストリテイリング傘下の各ブランドで業績の明暗が分かれている。ユニクロが他ブランドを大きく上回る好調ぶりを見せる一方で、GUの売上高の伸びは小幅にとどまっており、さらにセオリーの売上高は減少していることが分かった。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "2ed26587fdea7054",
-   "url": "https://us.fashionnetwork.com/news/Fast-retailing-s-uniqlo-outshines-its-other-brands-gu-revenue-rise-is-small-while-theory-sales-fall,1874485.html",
-   "title_original": "Fast Retailing's Uniqlo outshines its other brands, GU revenue rise is small while Theory sales fall",
-   "source": "FashionNetwork USA",
-   "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=cover,width=600,height=600,format=auto/m/d761/e5af/eff2/230d/d0c7/b79b/d727/8e51/8048/a329/a329.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T06:38:36+00:00",
-   "title_ja": "ファストリの業績、ユニクロが好調もGUは微増・セオリー減収と他ブランド苦戦",
-   "summary_ja": "ファーストリテイリングの業績において、主力のユニクロが他ブランドを大きく上回る好成績を記録しました。一方、GUの増収は僅かに留まり、セオリーの売上高は減少するなど、ブランドごとに差が出ています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "76eca626b13dd9cd",
-   "url": "https://news.yahoo.co.jp/articles/9c39affbd6bff2b9fe19a63b612f7e35e0b265cf",
-   "title_original": "なぜ続くファーストリテイリングの高成長、成長の源泉はコンセプトの「LifeWear」（ネットショップ担当者フォーラム）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00000002-netshop-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T06:31:05+00:00",
-   "title_ja": "ファーストリテイリングが示す高成長、その源泉のLifeWear",
-   "summary_ja": "ファーストリテイリングが好調な業績を維持し続ける背景には、ブランドの根本的なコンセプトであるLifeWearの存在がある。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
   }
  ]
 }
