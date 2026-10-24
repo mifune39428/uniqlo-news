@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T18:57:02.220339+09:00",
+ "updated_at": "2026-10-25T00:00:59.485035+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -32,7 +32,6 @@
   "BAILA（バイラ）",
   "BigGo Finance",
   "BigGo ファイナンス",
-  "Bollywood Hungama",
   "British Vogue",
   "BusinessToday Malaysia",
   "Campaign India",
@@ -58,6 +57,7 @@
   "Goal.com",
   "GoodsPress Web",
   "Goody Feed",
+  "HOME広島ホームテレビ",
   "Hashtag Legend Hong Kong",
   "Highsnobiety",
   "Hindustan Times",
@@ -152,8 +152,8 @@
   "WWDJAPAN",
   "Web eclat",
   "Who What Wear",
+  "Women Love Tech",
   "X",
-  "Yahoo Finance",
   "Yahoo Life UK",
   "Yahoo!ニュース",
   "YorkRegion.com",
@@ -213,7 +213,6 @@
   "流通スーパーニュース",
   "流通ニュース",
   "激流オンライン",
-  "熊本日日新聞社",
   "玩具人 TOY PEOPLE",
   "産経ニュース",
   "繊研新聞",
@@ -229,44 +228,115 @@
  "count": 400,
  "detail_count": 253,
  "digest": {
-  "headline": "ユニクロとGUの最新コラボや国内外の出店、新サービスが続々発表",
+  "headline": "ユニクロの新コラボや国内外の店舗展開、SNSで話題のアイテム",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業した2026年ニットウェアカプセルコレクションや、秋冬フリースコレクションを発表しました。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業したニットコレクションや、マリオカートのUT、フリースコレクションを発表しました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "bf84526d821f0405",
+     "68d1de481d0bbd9b",
      "63ecf087618a2f94"
     ]
    },
    {
-    "text": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、インドやベトナムでの新規出店も明らかにされました。",
+    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンするほか、インド・ジャイプルやベトナムでの初出店も予定されています。",
     "ids": [
-     "a4ea138631f096fd",
      "46c7a5a8d0d53c0c",
+     "a4ea138631f096fd",
      "4388c63a55dd6f5e"
     ]
    },
    {
-    "text": "ユニクロはキャラクター「モンチッチ」の刺繍サービス開始やUTme!へのデザイン追加を行い、GUは新CMの放映やコラボアイテムの発売を予定しています。",
+    "text": "千歳台の店舗が大規模改装を行いカフェや生花販売を導入したほか、モンチッチの刺繍サービスやUTme!のご当地スタンプが登場しました。",
     "ids": [
+     "4ffb0d5c817001e6",
      "5ae0c0621edad74b",
-     "ea60dc47896744fb",
+     "c38bf2e21fa33d6f"
+    ]
+   },
+   {
+    "text": "GUではエンジニアド ガーメンツとのコラボ新作や、「スーダラ節」を用いた新CMが展開されています。",
+    "ids": [
+     "a4ff8f27a1d6a01f",
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "SNSでは「GU ハリー・ポッター コラボ」がXで12件投稿されるなど話題を集めています。",
+    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで8件の投稿がありました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-21T19:04:31.277035+09:00",
-  "generated_at": "2026-10-24T19:04:37.230955+09:00",
+  "from": "2026-10-22T00:07:48.295711+09:00",
+  "generated_at": "2026-10-25T00:07:55.592186+09:00",
   "article_count": 24,
-  "sig": "9a4a54b05edf"
+  "sig": "d41695cbf739"
  },
  "items": [
+  {
+   "id": "68d1de481d0bbd9b",
+   "url": "https://womenlovetech.com/mario-kart-world-uniqlo-tees-are-here-and-game-night-just-got-a-dress-code",
+   "title_original": "Mario Kart World Just Got a Uniqlo T-Shirt Collection … And It Drops Tomorrow",
+   "source": "Women Love Tech",
+   "image": "https://womenlovetech.com/wp-content/uploads/2026/10/WLTXTemplate-5-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T13:25:00+00:00",
+   "title_ja": "ユニクロが「マリオカート」コラボUTコレクションを明日発売",
+   "summary_ja": "ユニクロから「マリオカート」の世界観を取り入れた新しいTシャツコレクションが登場し、明日から販売が開始されます。ゲームファン注目の新作ラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4ff8f27a1d6a01f",
+   "url": "https://www.gqjapan.jp/article/20261024-gu-engineered-garments-2026-aw-editor-news",
+   "title_original": "ジーユー × エンジニアド ガーメンツのコラボから新作登場──GQエディターのベストバイ",
+   "source": "GQ Japan",
+   "image": "https://media.gqjapan.jp/photos/6ad048a954149d6256503863/16:9/w_1280,c_limit/gu-engineered-garments-2026-aw-editor-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T12:00:00+00:00",
+   "title_ja": "GUとエンジニアド ガーメンツのコラボ新作コレクションが登場",
+   "summary_ja": "ジーユーとエンジニアド ガーメンツのコラボレーションラインから新たな新作アイテムが登場しました。ファッション誌のエディターからもおすすめ商品として取り上げられています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "05331cde17eab625",
+   "url": "https://www.lofficielph.com/fashion/uniqlo-jw-anderson-fall-winter-2026-collection-travel-style",
+   "title_original": "Which Character Are You Today? Style Your Look with UNIQLO and JW ANDERSON F/W 2026",
+   "source": "L'Officiel Philippines",
+   "image": "https://www.datocms-assets.com/42755/1792730741-uniqlo-jwa-lofficiel-8.png?auto=format&fit=max&w=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T11:00:00+00:00",
+   "title_ja": "ユニクロとJW ANDERSONの2026年秋冬コラボコレクションが登場",
+   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コラボレーションコレクションが登場。スタイリングに合わせて様々なキャラクターを楽しめるアイテムが展開されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4ffb0d5c817001e6",
+   "url": "https://news.yahoo.co.jp/articles/9ce88ec40e61c4cfeb50a3dfedd041927ec0478a",
+   "title_original": "「可愛すぎて全種類選びたい」Jリーグ×ユニクロの人気コラボ『UTme!』にご当地スタンプ登場!Jなし県網羅の神対応に「激アツすぎる」「デザインりおたさん!?」（サッカー批評Web）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00112083-soccerh-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T10:03:16+00:00",
+   "title_ja": "Jリーグとユニクロのコラボ「UTme!」にご当地スタンプが登場",
+   "summary_ja": "Jリーグとユニクロの人気コラボ企画「UTme!」に新たなご当地スタンプが登場した。Jリーグクラブがない都道府県も含めて網羅されたデザイン展開が話題を呼んでいる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "ea60dc47896744fb",
    "url": "https://www.wwdjapan.com/articles/2451301",
@@ -281,7 +351,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f440ec2374ea6e5c",
@@ -297,7 +367,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e8f28a7196cdf381",
@@ -313,7 +383,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94906af09612ff3f",
@@ -1018,6 +1088,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "dbecdf2bdece847c",
+   "url": "https://www.home-tv.co.jp/news/content/?news_id=000542031",
+   "title_original": "“平成リバイバル”フリース再び 若者の半数「今っぽい」 ユニクロなど新作販売",
+   "source": "HOME広島ホームテレビ",
+   "image": "https://news.tv-asahi.co.jp/articles_img/000542031_640.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T00:28:00+00:00",
+   "title_ja": "平成リバイバルのフリース新作、若者から「今っぽい」",
+   "summary_ja": "平成のトレンドであるフリースが再び注目を集めており、ユニクロなどが展開する新作に若者の間で新鮮だという声が上がっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "9410e2fa10af8224",
@@ -6586,86 +6672,6 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
-  },
-  {
-   "id": "608cc2d979d83da8",
-   "url": "https://news.yahoo.co.jp/articles/11b145519d1713548cd14fb31da972ad23dec653",
-   "title_original": "ユニクロ柳井会長「売上高10兆円の実現が視野に入ってきた」 （WWDJAPAN.com）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-02523847-wwdjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T08:30:00+00:00",
-   "title_ja": "ファストリ柳井会長が言及　売上高10兆円目標の実現が視野に",
-   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が、グループの売上高10兆円という長期目標の達成に向けて手応えを示した。事業の拡大とグローバル展開の進展により、大目標の実現が現実味を帯びてきたことを強調している。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "e632ca6cbc0bcd7b",
-   "url": "https://www.bollywoodhungama.com/amp/news/features/kriti-sanon-and-jasprit-bumrah-feature-in-uniqlos-new-fleece-collection-campaign",
-   "title_original": "Kriti Sanon and Jasprit Bumrah feature in UNIQLO’s new Fleece collection campaign",
-   "source": "Bollywood Hungama",
-   "image": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/620x450-09102026-19.jpg-413x300.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T08:19:35+00:00",
-   "title_ja": "クリティ・サノンとジャスプリット・ブムラが新フリースCMに登場",
-   "summary_ja": "ユニクロの新しいフリースコレクションのキャンペーンに、俳優のクリティ・サノンとクリケット選手のジャスプリット・ブムラが起用されました。魅力的なビジュアルで新作をアピールします。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "b71cbe9efd04f10a",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/fast-retailing-tse-9983-signaling-081555944.html",
-   "title_original": "What Is Fast Retailing (TSE:9983) Signaling With Its Bigger 2026 Dividend?",
-   "source": "Yahoo Finance",
-   "image": "https://s.yimg.com/lo/mysterio/api/fd4d16adb51154a3eeb1365d753720bce562eb897004dcd0facdf07a19ecdfe8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F1d04a30e741b052e3b83a4e69ad69827.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T08:15:55+00:00",
-   "title_ja": "ファーストリテイリングの2026年増配方針が示す経営戦略とは",
-   "summary_ja": "ファーストリテイリングが示す2026年の配当引き上げの方針について、投資家向けにその意図や経営面でのシグナルを分析する動きが注目されています。今後の成長や株主還元に対する姿勢が問われています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7381e6df97ded79d",
-   "url": "https://kumanichi.com/articles/2045004",
-   "title_original": "菊陽町コラボのTシャツ販売 ユニクロゆめタウン光の森がリニューアルオープン 県内最大規模に",
-   "source": "熊本日日新聞社",
-   "image": "https://kumanichi.com/sites/default/files/styles/sns_share/public/2026-10/IP261009TAN000104000_04.jpg?itok=3yLY-PM5",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T08:10:42+00:00",
-   "title_ja": "ユニクロゆめタウン光の森が県内最大規模で改装開店、地域コラボTシャツも",
-   "summary_ja": "熊本県のユニクロゆめタウン光の森がリニューアルオープンし、熊本県内最大規模の店舗となりました。これを記念して、地元である菊陽町とコラボレーションした限定のTシャツも販売されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "73b04d5339607609",
-   "url": "https://www.sankei.com/article/20261009-6WLEII77Q5OG3JSRO5TOYA2434/photo/RBWTISQKIFPEPD6IGATEKU56NQ",
-   "title_original": "ジーユー×エンジニアド ガーメンツ、コラボ新作10・26発売 コート＆ジャケット、グッズなど全8型（写真・画像 1/1）",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/RBWTISQKIFPEPD6IGATEKU56NQ.jpg?auth=60eaf81b7025a2b907ecaaf297a7557f00a593a89ee07654135552d3a36b31f0&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T08:01:12+00:00",
-   "title_ja": "GUがエンジニアドガーメンツとのコラボ新作を10月26日に発売、全8型を展開",
-   "summary_ja": "GU（ジーユー）がブランド「エンジニアド ガーメンツ」とのコラボレーション最新作を10月26日に発売します。コートやジャケット、各種グッズなど全8型のアイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
