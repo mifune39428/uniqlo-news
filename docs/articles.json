@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T05:45:28.821417+09:00",
+ "updated_at": "2026-10-24T11:22:30.960387+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -125,7 +125,6 @@
   "Simply Wall Street",
   "SmartNews",
   "SportsMint Media",
-  "StoryBoard 18",
   "Style Rave",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
@@ -230,50 +229,68 @@
  "count": 400,
  "detail_count": 255,
  "digest": {
-  "headline": "ユニクロの新作ニットや国内外の新店舗情報が続々発表",
+  "headline": "ユニクロの新コラボや国内外の出店情報、注目のSNS話題まとめ",
   "points": [
    {
-    "text": "ユニクロは、フランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」など秋冬のニットコレクションを発表しました。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」2026年ニットウェアコレクションを発表しました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "e1c5230c2a08bd45",
+     "41e9894ffdc3145c",
      "8848c8dcabb0bdaf"
     ]
    },
    {
-    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンおよびリニューアル予定として発表されました。",
+    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンし、限定商品や刺繍サービスが展開される予定です。",
     "ids": [
+     "a4ea138631f096fd",
      "9410e2fa10af8224",
-     "d1be33f188c206e4",
-     "0ac099a02261e708"
+     "d1be33f188c206e4"
     ]
    },
    {
-    "text": "インドのジャイプールへの初出店や、インド法人の大幅な増益など、海外市場での展開が順調に推移しています。",
+    "text": "インドのジャイプルへの初出店や、ベトナムのハロン湾エリア初出店など、海外での店舗網拡大やインド法人の増益が報じられています。",
     "ids": [
      "46c7a5a8d0d53c0c",
-     "1184cf3700750c1d",
-     "6841e61e32a75061"
+     "4388c63a55dd6f5e",
+     "1184cf3700750c1d"
     ]
    },
    {
-    "text": "GUは「スーダラ節」を使用した新テレビCMを開始し、自由なファッションの楽しさを表現しています。",
+    "text": "GUが「スーダラ節」に乗せた新CMを開始したほか、ユニクロではフリースコレクションの発表やモンチッチの刺しゅうサービスが開始されました。",
     "ids": [
+     "63ecf087618a2f94",
+     "5ae0c0621edad74b",
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 極暖ヒートテックカシミヤブレンド」が急上昇し、Xで3日に8件の投稿がありました。",
+    "text": "SNSでは「GU ハリー・ポッター コラボ」が急上昇し、Xで12件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-21T05:50:50.760074+09:00",
-  "generated_at": "2026-10-24T05:50:52.705161+09:00",
+  "from": "2026-10-21T11:27:58.338677+09:00",
+  "generated_at": "2026-10-24T11:28:00.120121+09:00",
   "article_count": 24,
-  "sig": "6e398bbef286"
+  "sig": "eaa829e06934"
  },
  "items": [
+  {
+   "id": "94906af09612ff3f",
+   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/have-fast-retailing-insiders-been-selling-stock-1",
+   "title_original": "Have Fast Retailing Insiders Been Selling Stock?",
+   "source": "Simply Wall Street",
+   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T21:13:59.722000+00:00",
+   "title_ja": "ファーストリテイリング関係者による株式売却の動向に関する分析",
+   "summary_ja": "ファーストリテイリングの役員ら内部関係者が自社株の売却を行っているか分析した海外記事です。内部関係者による株式売買の傾向から、同社の現状や今後の業績に対する見立てについて考察しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "63ecf087618a2f94",
    "url": "https://www.hindustantimes.com/lifestyle/fashion/uniqlo-introduces-its-fall-winter-2026-fleece-collection-with-versatile-winter-essentials-101792759056459.html",
@@ -320,7 +337,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "41e9894ffdc3145c",
@@ -912,6 +929,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4ea138631f096fd",
+   "url": "https://www.mylifenews.net/fashion-style/131324",
+   "title_original": "ユニクロ、グローバル旗艦店「ユニクロ 京都」を京都・河原町通りにオープン、最新・最旬の商品ラインアップと売場を展開",
+   "source": "マイライフニュース",
+   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20261022_uniqro00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T01:35:00+00:00",
+   "title_ja": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が開業",
+   "summary_ja": "京都の河原町通りに、新たなグローバル旗艦店となる「ユニクロ 京都」がオープンしました。最新かつ最旬の商品を取り揃えた売場が展開されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6638,38 +6671,6 @@
    "title_ja": "ユニクロ世田谷千歳台店が刷新、世田谷初のカフェ導入へ",
    "summary_ja": "ユニクロが世田谷千歳台店のリニューアルを実施する。今回の改装に伴い、世田谷エリアの店舗としては初めてとなる「ユニクロ コーヒー」を導入することが決定した。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "81052fdefecf4006",
-   "url": "https://news.yahoo.co.jp/articles/9a04584dbf4923a83eb466bf831a59258fd04ae8",
-   "title_original": "ユニクロが世田谷千歳台店をリニューアル 「ユニクロ コーヒー」を導入（FASHIONSNAP）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00538252-fashions-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T07:36:33+00:00",
-   "title_ja": "ユニクロ世田谷千歳台店がリニューアル、「ユニクロ コーヒー」を新たに導入",
-   "summary_ja": "ユニクロが世田谷千歳台店のリニューアルを実施することが分かりました。改装に伴い、店内にはカフェサービスである「ユニクロ コーヒー」が新たに導入される予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "98f29a15503750fb",
-   "url": "https://www.storyboard18.com/amp/brand-makers/uniqlo-india-allocates-15-of-media-budget-to-ctv-rules-out-quick-commerce-entry-112250.htm",
-   "title_original": "UNIQLO India allocates 15% of media budget to CTV, rules out quick commerce entry",
-   "source": "StoryBoard 18",
-   "image": "https://images.storyboard18.com/storyboard18/2026/10/Kuku-Technologies-gets-SEBIs-green-light-for-confidential-IPO-filing-13-2026-10-8ea04f653b072def7434a3c6927388ca-1019x573.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T07:35:02+00:00",
-   "title_ja": "インドのユニクロ、広告予算の15%をCTVに配分　即時配送への参入は否定",
-   "summary_ja": "ユニクロのインド法人がメディア予算の15%をコネクテッドTV（CTV）広告に割り当てることが分かりました。あわせて、短時間で配送を行うクイックコマース市場への参入については否定しています。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T05:47:56.418335+09:00",
+ "updated_at": "2026-10-24T11:24:48.540397+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2912,
+ "catalog_size": 2908,
  "count": 55,
  "items": [
   {
@@ -152,15 +152,9 @@
    "reviews7": 100,
    "capped": false,
    "prev7": 80,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【ユニクロ】SNSでバズった「スウェットストレートパンツ」大人のきれいめ着回しコーデ3選！ パーソナルスタイリストが組んでみた",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/5b9627baae4bdd576cda7b8786501787c7bc17f2/images/000"
-    }
-   ],
-   "score": 114,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 109,
    "momentum": 1.09,
    "new": false,
    "rising": false
