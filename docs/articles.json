@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T11:22:30.960387+09:00",
+ "updated_at": "2026-10-24T18:57:02.220339+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -111,6 +111,7 @@
   "Qatar Tribune",
   "RBB TODAY",
   "Ragtrader.com.au",
+  "Record China",
   "Retail & Leisure International",
   "Retail4growth",
   "SETHLUI.com",
@@ -204,7 +205,6 @@
   "日本経済新聞",
   "日流ウェブ",
   "日経CNBC online",
-  "日経ビジネス電子版",
   "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
@@ -227,54 +227,94 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 255,
+ "detail_count": 253,
  "digest": {
-  "headline": "ユニクロの新コラボや国内外の出店情報、注目のSNS話題まとめ",
+  "headline": "ユニクロとGUの最新コラボや国内外の出店、新サービスが続々発表",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業した「UNIQLO F.RISSO」2026年ニットウェアコレクションを発表しました。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業した2026年ニットウェアカプセルコレクションや、秋冬フリースコレクションを発表しました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "41e9894ffdc3145c",
-     "8848c8dcabb0bdaf"
+     "bf84526d821f0405",
+     "63ecf087618a2f94"
     ]
    },
    {
-    "text": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンし、限定商品や刺繍サービスが展開される予定です。",
+    "text": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、インドやベトナムでの新規出店も明らかにされました。",
     "ids": [
      "a4ea138631f096fd",
-     "9410e2fa10af8224",
-     "d1be33f188c206e4"
-    ]
-   },
-   {
-    "text": "インドのジャイプルへの初出店や、ベトナムのハロン湾エリア初出店など、海外での店舗網拡大やインド法人の増益が報じられています。",
-    "ids": [
      "46c7a5a8d0d53c0c",
-     "4388c63a55dd6f5e",
-     "1184cf3700750c1d"
+     "4388c63a55dd6f5e"
     ]
    },
    {
-    "text": "GUが「スーダラ節」に乗せた新CMを開始したほか、ユニクロではフリースコレクションの発表やモンチッチの刺しゅうサービスが開始されました。",
+    "text": "ユニクロはキャラクター「モンチッチ」の刺繍サービス開始やUTme!へのデザイン追加を行い、GUは新CMの放映やコラボアイテムの発売を予定しています。",
     "ids": [
-     "63ecf087618a2f94",
      "5ae0c0621edad74b",
+     "ea60dc47896744fb",
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "SNSでは「GU ハリー・ポッター コラボ」が急上昇し、Xで12件投稿されています。",
+    "text": "SNSでは「GU ハリー・ポッター コラボ」がXで12件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-21T11:27:58.338677+09:00",
-  "generated_at": "2026-10-24T11:28:00.120121+09:00",
+  "from": "2026-10-21T19:04:31.277035+09:00",
+  "generated_at": "2026-10-24T19:04:37.230955+09:00",
   "article_count": 24,
-  "sig": "eaa829e06934"
+  "sig": "9a4a54b05edf"
  },
  "items": [
+  {
+   "id": "ea60dc47896744fb",
+   "url": "https://www.wwdjapan.com/articles/2451301",
+   "title_original": "「ジーユー」×「エンジニアド ガーメンツ」や「ディーン＆デルーカ」のバッグなど！ 来週発売のファッションアイテム9選【10/26〜11/1】",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T09:05:26+00:00",
+   "title_ja": "GUとエンジニアド ガーメンツのコラボなど注目アイテムが発売へ",
+   "summary_ja": "10月26日から11月1日にかけて発売される注目のファッションアイテムが紹介されています。ジーユーとエンジニアド ガーメンツによる話題のコラボレーションアイテムをはじめ、注目の新商品ラインナップが取り上げられています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f440ec2374ea6e5c",
+   "url": "https://www.inside-games.jp/article/2026/10/24/189745.html",
+   "title_original": "ユニクロの「スヌーピー」新作UTがポッカポカ！仲間たちとの心温まるシーンをデザイン",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/ogp_f/1796465.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T02:30:03+00:00",
+   "title_ja": "ユニクロからスヌーピーの新作UTが登場　心温まる場面をデザイン",
+   "summary_ja": "ユニクロが人気キャラクターのスヌーピーを描いた新作UTを発売します。作中の心温まるシーンをあしらったデザインが特徴で、寒くなる季節にも適したあたたかみを感じられるコレクションとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e8f28a7196cdf381",
+   "url": "https://www.recordchina.co.jp/pics.php?id=995646",
+   "title_original": "ユニクロで言われるたびに気まずい言葉、多くの人が共感―台湾メディア",
+   "source": "Record China",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T01:33:45+00:00",
+   "title_ja": "台湾のユニクロ店舗で掛けられる言葉に共感　現地メディアが伝える",
+   "summary_ja": "台湾メディアが、現地のユニクロ店舗で店員から言われる特定の言葉に対して、多くの客が気まずさを感じていると伝えました。この話題に対し、インターネット上では買い物客からの共感の声が相次いでいます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "94906af09612ff3f",
    "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/have-fast-retailing-insiders-been-selling-stock-1",
@@ -6626,54 +6666,6 @@
    "brand": "GU",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "1fc038bb207fd4e7",
-   "url": "https://business.nikkei.com/atcl/gen/19/00096/100900281",
-   "title_original": "ファストリ、世界首位ZARAの背中遠く 在庫回転率「5.07」が示す効率経営",
-   "source": "日経ビジネス電子版",
-   "image": "https://business.nikkei.com/atcl/gen/19/00096/100900281/fb.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T08:00:00+00:00",
-   "title_ja": "ファーストリテイリング、在庫回転率「5.07」に見るZARA比較と経営効率",
-   "summary_ja": "ファーストリテイリングの経営効率や課題について、業界首位であるZARAとの比較を交えて解説されています。在庫回転率「5.07」という指標をもとに、同社の効率経営の現状と今後の成長余地が分析されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b63c06fe437caa9e",
-   "url": "https://www.sankei.com/article/20261009-J3NOWZS7CFPGBHYOLNPW5CCUFY",
-   "title_original": "東証終値は11円安 ハイテク株に売り注文 7年連続最高益予想発表のファストリも大幅下落",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/6PCH77NXEBPWJEXEVXNIQHUPBQ.jpg?auth=c002c08ddd71f42ca5f4d7fce5002144db6e5d54d27b713629b1d7367dfab9b1&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T07:53:17+00:00",
-   "title_ja": "東証終値11円安、7年連続の最高益予想を発表したファーストリテイリングも下落",
-   "summary_ja": "東京株式市場の終値は11円安となりました。ハイテク株を中心に売り注文が集まったほか、7年連続で過去最高益となる業績予想を発表したファーストリテイリングの株価も大幅に下落しました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ea1c46d957c4f6b2",
-   "url": "https://www.fashionsnap.com/article/2026-10-09/uniqlo-chitosedai-open",
-   "title_original": "ユニクロが世田谷千歳台店をリニューアル 世田谷エリアで初めて「ユニクロ コーヒー」を導入",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/aee4ad85-e323-4264-81c9-6aa916ba783e.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T07:36:33+00:00",
-   "title_ja": "ユニクロ世田谷千歳台店が刷新、世田谷初のカフェ導入へ",
-   "summary_ja": "ユニクロが世田谷千歳台店のリニューアルを実施する。今回の改装に伴い、世田谷エリアの店舗としては初めてとなる「ユニクロ コーヒー」を導入することが決定した。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
