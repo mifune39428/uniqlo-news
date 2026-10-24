@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T00:00:59.485035+09:00",
+ "updated_at": "2026-10-25T04:56:51.051986+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -84,6 +84,7 @@
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
   "LionhearTV",
+  "Lmaga.jp",
   "London Evening Standard",
   "MLB.com",
   "Manchester Evening News",
@@ -174,6 +175,7 @@
   "オリコンニュース",
   "ガジェット通信",
   "サカイタイムズ",
+  "サッカー批評Web",
   "ジモはる",
   "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
@@ -189,6 +191,7 @@
   "モデルプレス",
   "ヨムーノ",
   "ラブすぽ",
+  "レスポンス（Response.jp）",
   "下野新聞社",
   "中日新聞Web",
   "千葉テレビ放送",
@@ -226,51 +229,43 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 253,
+ "detail_count": 252,
  "digest": {
-  "headline": "ユニクロの新コラボや国内外の店舗展開、SNSで話題のアイテム",
+  "headline": "ユニクロとGUの新作や旗艦店情報、注目のコラボが続々発表",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業したニットコレクションや、マリオカートのUT、フリースコレクションを発表しました。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業したニットコレクションを発表したほか、JW ANDERSONやマリオカートなどの新作コラボを多数展開しています。",
     "ids": [
      "e6d83fac5e372d7d",
-     "68d1de481d0bbd9b",
-     "63ecf087618a2f94"
+     "05331cde17eab625",
+     "68d1de481d0bbd9b"
     ]
    },
    {
-    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」がオープンするほか、インド・ジャイプルやベトナムでの初出店も予定されています。",
+    "text": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、インドへの初出店やベトナムでの店舗網拡大など国内外の出店が進んでいます。",
     "ids": [
+     "8a06bb6a7e715b35",
      "46c7a5a8d0d53c0c",
-     "a4ea138631f096fd",
      "4388c63a55dd6f5e"
     ]
    },
    {
-    "text": "千歳台の店舗が大規模改装を行いカフェや生花販売を導入したほか、モンチッチの刺繍サービスやUTme!のご当地スタンプが登場しました。",
-    "ids": [
-     "4ffb0d5c817001e6",
-     "5ae0c0621edad74b",
-     "c38bf2e21fa33d6f"
-    ]
-   },
-   {
-    "text": "GUではエンジニアド ガーメンツとのコラボ新作や、「スーダラ節」を用いた新CMが展開されています。",
+    "text": "GUはエンジニアド ガーメンツとのコラボ新作や、昭和の名曲「スーダラ節」を使用した自由なファッションの楽しさを表現する新テレビCMを開始しました。",
     "ids": [
      "a4ff8f27a1d6a01f",
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで8件の投稿がありました。",
+    "text": "ユニクロのクルーネックセーターはXで3日に8件投稿され、注目を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-22T00:07:48.295711+09:00",
-  "generated_at": "2026-10-25T00:07:55.592186+09:00",
+  "from": "2026-10-22T05:02:32.878829+09:00",
+  "generated_at": "2026-10-25T05:02:38.487000+09:00",
   "article_count": 24,
-  "sig": "d41695cbf739"
+  "sig": "55eacfeec575"
  },
  "items": [
   {
@@ -319,7 +314,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4ffb0d5c817001e6",
@@ -336,6 +331,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "8a116812f20a14e8",
+   "url": "https://soccerhihyo.futabanet.jp/articles/-/112083",
+   "title_original": "｢可愛すぎて全種類選びたい｣Jリーグ×ユニクロの人気コラボ『UTme!』にご当地スタンプ登場！Jなし県網羅の神対応に｢激アツすぎる｣｢デザインりおたさん!?｣｢ネタ仕込みすぎ｣ | 概要 | Jリーグ・国内 | ニュース",
+   "source": "サッカー批評Web",
+   "image": "https://soccerhihyo.ismcdn.jp/mwimgs/4/7/1200wm/img_476a5023261dd8263e04fa1dedbfc5663291126.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T09:58:00+00:00",
+   "title_ja": "Jリーグ×ユニクロ「UTme!」にご当地スタンプ登場、Jクラブのない県も網羅",
+   "summary_ja": "ユニクロとJリーグのコラボ企画「UTme!」において、新たなご当地スタンプが登場した。Jリーグのクラブがない地域も網羅した展開となっており、ファンや利用者の間で大きな話題を呼んでいる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "ea60dc47896744fb",
@@ -610,6 +621,22 @@
    "has_detail": true
   },
   {
+   "id": "8a06bb6a7e715b35",
+   "url": "https://diamond-rm.net/flash_news/561651",
+   "title_original": "ユニクロ、11月6日、京都府京都市にグローバル旗艦店「ユニクロ 京都」をオープン",
+   "source": "ダイヤモンド・チェーンストア",
+   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/10/image2-16.png?auto=format%2Ccompress&ixlib=php-3.3.0",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T02:00:01+00:00",
+   "title_ja": "ユニクロが11月6日に京都市でグローバル旗艦店「ユニクロ 京都」を開店",
+   "summary_ja": "ユニクロは11月6日、京都府京都市にグローバル旗艦店「ユニクロ 京都」をオープンすることを発表しました。国内外から多くの人々が集まる京都の拠点店舗として期待が集まります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "e1c5230c2a08bd45",
    "url": "https://senken.co.jp/posts/uniqlo-francesco-risso-261023",
    "title_original": "ユニクロ、フランチェスコ・リッソ氏と協業 ニットのカプセルコレクション発売",
@@ -685,6 +712,22 @@
    "title_ja": "ユニクロが新宿店舗限定で話題のコラボTシャツとトートバッグを発売",
    "summary_ja": "ユニクロが新宿の店舗限定で、話題のコラボレーションによるTシャツとトートバッグを発売しました。新宿でしか購入できない限定商品として注目を集めています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "275420339b40487e",
+   "url": "https://www.lmaga.jp/news/2026/10/1111590",
+   "title_original": "【きょうオープン】生駒市民の知名度100％！？ ユニクロとコラボ、駅前の老舗文具店に「激アツすぎる」の声",
+   "source": "Lmaga.jp",
+   "image": "https://www.lmaga.jp/wp-content/uploads/2026/10/uniqloikoma_bungunoinamori1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-22T22:00:00+00:00",
+   "title_ja": "ユニクロが奈良・生駒の老舗文具店とコラボ、店舗オープンで話題に",
+   "summary_ja": "奈良県生駒市の駅前にある老舗文具店のオープンに合わせ、ユニクロとのコラボレーションが話題を呼んでいます。地元で高い知名度を誇る文具店とユニクロによる取り組みに注目が集まっています。",
+   "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -1103,7 +1146,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9410e2fa10af8224",
@@ -1568,6 +1611,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "55cd0fc98c17f3e5",
+   "url": "https://s.response.jp/article/2026/10/21/418059.html",
+   "title_original": "ホンダとGUがコラボ！ 80～90年代レトロなモトクロスの世界観を最新アパレルに",
+   "source": "レスポンス（Response.jp）",
+   "image": "https://response.jp/imgs/ogp_f/2253332.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T03:46:36+00:00",
+   "title_ja": "GUがホンダとコラボ、80〜90年代モトクロスのレトロなデザインが登場",
+   "summary_ja": "GUがホンダとコラボレーションした最新コレクションを発売します。1980年代から90年代のモトクロス文化やレトロな世界観を現代のアパレルに落とし込んだアイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "8faa6a0efced132c",
@@ -6607,70 +6666,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "99389f2207d7cbf3",
-   "url": "https://news.yahoo.co.jp/articles/be17b521ea08ef5c6ed04e85c60adbd65502bc91",
-   "title_original": "熊本県最大の「ユニクロ」に大行列 向かい側にはGUも 「ゆめタウン光の森」にリニューアルオープン 菊陽町 （RKK熊本放送）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-23002747-rkkv-000-1-thumb.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T09:39:17+00:00",
-   "title_ja": "熊本県最大のユニクロがゆめタウン光の森にリニューアル出店",
-   "summary_ja": "熊本県菊陽町の「ゆめタウン光の森」にて、県内最大規模となるユニクロ店舗がリニューアルオープンしました。開店当日は多くの来店客で大行列となり、向かい側にはジーユーもオープンしています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8fe40c4ceef8bcfd",
-   "url": "https://www.fibre2fashion.com/news/fashion-brands-styles-news/japan-s-uniqlo-ropes-in-kriti-sanon-bumrah-for-fleece-campaign-314111-newsdetails.htm",
-   "title_original": "Japan's Uniqlo ropes in Kriti Sanon, Bumrah for fleece campaign",
-   "source": "Fibre2Fashion",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T08:40:57+00:00",
-   "title_ja": "ユニクロがフリース新作キャンペーンにクリティ・サノンらを広告起用",
-   "summary_ja": "ユニクロがフリースの新作キャンペーンにおいて、俳優のクリティ・サノン氏やクリケット選手のジャスプリット・ブムラ氏を起用したことが判明した。著名人を抜擢した新たな広告展開により、商品の訴求力を高める狙いがある。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0b1ecbcf31365671",
-   "url": "https://www.vietnam.vn/ja/ong-chu-uniqlo-lai-ky-luc",
-   "title_original": "ユニクロのオーナーが過去最高の利益を上げた。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/09/1791536146061_ong_chu_uniqlo_thu_lai_ky_luc.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T08:34:54.586000+00:00",
-   "title_ja": "ユニクロを展開するファーストリテイリングが過去最高の利益を達成",
-   "summary_ja": "ユニクロを展開するファーストリテイリングが、過去最高の利益を達成したことがわかりました。グローバルな事業運営が実を結び、企業業績が順調に拡大している様子がうかがえます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "875ab22f1b9a5cb1",
-   "url": "https://www.vietnam.vn/en/ong-chu-uniqlo-lai-ky-luc",
-   "title_original": "Uniqlo owner earns record profits.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/09/1791536146061_ong_chu_uniqlo_thu_lai_ky_luc.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T08:34:54.586000+00:00",
-   "title_ja": "ユニクロの親会社ファーストリテイリング、過去最高益を達成と海外メディア報道",
-   "summary_ja": "ユニクロの親会社であるファーストリテイリングが、過去最高益を達成したことが報じられました。国内外の市場における好調な業績を背景に、記録的な利益を記録したことが示されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "has_detail": true
   }
  ]
