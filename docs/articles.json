@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T00:12:15.188182+09:00",
+ "updated_at": "2026-10-26T05:06:51.739706+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -30,7 +30,6 @@
   "Apparel Views",
   "AsiaOne.com",
   "BAILA（バイラ）",
-  "BigGo Finance",
   "BigGo ファイナンス",
   "British Vogue",
   "BusinessToday Malaysia",
@@ -232,39 +231,44 @@
  "count": 400,
  "detail_count": 251,
  "digest": {
-  "headline": "ユニクロとGUの新作ラッシュ、値上げや新店オープンも相次ぐ",
+  "headline": "ユニクロとGUの新作やコラボ、値上げや新店舗情報など",
   "points": [
    {
-    "text": "ユニクロは11月10日から「感動ジャケット」などの一部商品を値上げし、靴下のまとめ買いも終了する。",
+    "text": "ユニクロは11月10日より「感動ジャケット」の値上げや靴下のまとめ買い終了などの価格改定を実施します。",
     "ids": [
      "7f458c2cea042ece"
     ]
    },
    {
-    "text": "11月6日に京都市でグローバル旗艦店「ユニクロ 京都」がオープンするほか、国内外で店舗の出店やリニューアルが続いている。",
+    "text": "UNIQLO Uの2025年秋冬新作コレクションが26日に発売され、注目を集めています。",
     "ids": [
-     "8a06bb6a7e715b35",
-     "4388c63a55dd6f5e",
-     "c38bf2e21fa33d6f"
+     "94b665b190316305"
     ]
    },
    {
-    "text": "UNIQLO Uの2025秋冬新作やGUとエンジニアド ガーメンツのコラボなど、注目コレクションが発売される。",
+    "text": "ユニクロは11月6日に京都市でグローバル旗艦店「ユニクロ 京都」をオープンすると発表しました。",
     "ids": [
-     "94b665b190316305",
-     "023fcfeb54fadfb8"
+     "8a06bb6a7e715b35"
     ]
    },
    {
-    "text": "ユニクロの「Jリーグ UTme!」はXで3日に9件投稿され、話題を集めている。",
+    "text": "GUとエンジニアド ガーメンツによる秋冬コラボレーションの新作アイテムが発売されました。",
+    "ids": [
+     "023fcfeb54fadfb8",
+     "a4ff8f27a1d6a01f",
+     "ea60dc47896744fb"
+    ]
+   },
+   {
+    "text": "ユニクロ Jリーグ UTme!はXで3日に9件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-23T00:19:31.013143+09:00",
-  "generated_at": "2026-10-26T00:19:35.094031+09:00",
+  "from": "2026-10-23T05:12:49.384895+09:00",
+  "generated_at": "2026-10-26T05:12:50.644180+09:00",
   "article_count": 24,
-  "sig": "789c35ea3649"
+  "sig": "9b572b5c02b5"
  },
  "items": [
   {
@@ -297,7 +301,7 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94b665b190316305",
@@ -313,7 +317,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "023fcfeb54fadfb8",
@@ -650,6 +654,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "1d35b541d58a58a8",
+   "url": "https://love-spo.com/article/plst%EF%BC%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86%EF%BC%89%E3%80%81%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA%E5%BA%97%E3%82%92%E3%80%8C%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86-%E4%BA%AC%E9%83%BD",
+   "title_original": "PLST（プラステ）、京都河原町店を「プラステ 京都店」として11月6日（金）リニューアルオープン",
+   "source": "ラブすぽ",
+   "image": "https://love-spo.com/wp-content/uploads/2026/10/134893-82-f293b8cf2797ded4a66b2181a70882be-1200x400-1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T05:30:00+00:00",
+   "title_ja": "PLST京都河原町店が「プラステ 京都店」として11月6日にリニューアル",
+   "summary_ja": "ファーストリテイリンググループのブランド「PLST（プラステ）」が、京都河原町店を「プラステ 京都店」として11月6日（金）にリニューアルオープンします。店舗名称を変更して営業を再開する告知です。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "f3c20d18309177bb",
@@ -6646,22 +6666,6 @@
    "published": "2026-10-09T13:05:21+00:00",
    "title_ja": "ユニクロの大中華圏売上高が欧米を下回る、中国本土の店舗数は1年で74店純減",
    "summary_ja": "ユニクロの大中華圏における売上高が欧米市場に抜かれたことが分かりました。中国本土の店舗数についても、この1年間で74店舗の純減となっており、中国市場における店舗展開の見直しが進んでいる状況が示されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "45c0f85c2892c955",
-   "url": "https://finance.biggo.com/news/20a3f8af-acac-4a4f-8166-ae8539b59b1f",
-   "title_original": "Uniqlo's Greater China Revenue Overtaken by Europe and Americas; Mainland China Store Count Shrinks by Net 74 in a Year",
-   "source": "BigGo Finance",
-   "image": "https://img.biggo.com/GaasatksUjqndK_svM60RhJ7vbnPS9SmXl24pJtqCKk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzIwYTNmOGFmLWFjYWMtNGE0Zi04MTY2LWFlODUzOWI1OWIxZl8xNzkxNTUxNDk4X2RlZmF1bHQuanBn.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T13:05:21+00:00",
-   "title_ja": "ユニクロの大中華圏売上高を欧米が逆転、中国本土では1年間に74店舗が純減",
-   "summary_ja": "ユニクロの大中華圏における売上高が、欧米市場の売上高に追い抜かれたことが明らかになりました。また、中国本土における店舗数はこの1年間で74店舗の純減を記録しており、同地域での店舗網縮小が進んでいます。",
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
