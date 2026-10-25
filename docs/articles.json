@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T04:56:51.051986+09:00",
+ "updated_at": "2026-10-25T11:09:57.170386+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -37,6 +37,7 @@
   "Campaign India",
   "Chosunbiz",
   "Confidentials",
+  "Dellows News",
   "Demócrata",
   "Drapers",
   "EBC Financial Group",
@@ -117,7 +118,6 @@
   "Retail4growth",
   "SETHLUI.com",
   "SEVENTIE TWO",
-  "SMEStreet",
   "SPUR（シュプール）",
   "San Francisco Examiner",
   "Secret Manchester",
@@ -223,26 +223,27 @@
   "読売新聞",
   "週刊女性PRIME",
   "電撃オンライン",
+  "風傳媒",
   "매일경제",
   "아시아경제",
   "인사이트코리아",
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 251,
  "digest": {
-  "headline": "ユニクロとGUの新作や旗艦店情報、注目のコラボが続々発表",
+  "headline": "ユニクロの新コラボや国内外の出店、GUの話題を総覧",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業したニットコレクションを発表したほか、JW ANDERSONやマリオカートなどの新作コラボを多数展開しています。",
+    "text": "ユニクロはフランチェスコ・リッソ氏と協業した2026年ニットウェアカプセルコレクションを発表しました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "05331cde17eab625",
-     "68d1de481d0bbd9b"
+     "e1c5230c2a08bd45",
+     "bf84526d821f0405"
     ]
    },
    {
-    "text": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が11月6日にオープンするほか、インドへの初出店やベトナムでの店舗網拡大など国内外の出店が進んでいます。",
+    "text": "11月6日にグローバル旗艦店「ユニクロ 京都」が開店するほか、インドやベトナムでの初出店も予定されています。",
     "ids": [
      "8a06bb6a7e715b35",
      "46c7a5a8d0d53c0c",
@@ -250,22 +251,30 @@
     ]
    },
    {
-    "text": "GUはエンジニアド ガーメンツとのコラボ新作や、昭和の名曲「スーダラ節」を使用した自由なファッションの楽しさを表現する新テレビCMを開始しました。",
+    "text": "マリオカートのUTやJリーグのUTme!ご当地スタンプ、モンチッチの刺繍サービスなどが新たに登場しています。",
+    "ids": [
+     "68d1de481d0bbd9b",
+     "4ffb0d5c817001e6",
+     "3e0acc03ebdeff14"
+    ]
+   },
+   {
+    "text": "GUではエンジニアド ガーメンツとのコラボ新作が登場したほか、「スーダラ節」を用いた新CMが開始されました。",
     "ids": [
      "a4ff8f27a1d6a01f",
      "5ebd8d882126fce3"
     ]
    },
    {
-    "text": "ユニクロのクルーネックセーターはXで3日に8件投稿され、注目を集めています。",
+    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで3日に9件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-22T05:02:32.878829+09:00",
-  "generated_at": "2026-10-25T05:02:38.487000+09:00",
+  "from": "2026-10-22T11:15:31.383449+09:00",
+  "generated_at": "2026-10-25T11:15:36.680199+09:00",
   "article_count": 24,
-  "sig": "55eacfeec575"
+  "sig": "d158e94a6ce9"
  },
  "items": [
   {
@@ -346,7 +355,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ea60dc47896744fb",
@@ -363,6 +372,22 @@
    "brand": "GU",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "9124771d3fd8f8b8",
+   "url": "https://www.sanyonews.jp/article/1983635",
+   "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に",
+   "source": "山陽新聞",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T07:28:03+00:00",
+   "title_ja": "ユニクロ、ベビー肌着の全ラインナップを対象店舗で展開",
+   "summary_ja": "ユニクロは、ベビー服を取り扱う店舗において、ベビー肌着の全ラインナップが揃って購入できるようになると発表した。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "f440ec2374ea6e5c",
@@ -571,6 +596,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "f3c20d18309177bb",
+   "url": "https://japan.storm.mg/articles/1175221",
+   "title_original": "ユニクロのRE.UNIQLO STUDIOにモンチッチの刺繍が新登場 全14種のデザインで10月23 日より提供開始",
+   "source": "風傳媒",
+   "image": "https://images.storm.mg/cloud/c94c329db30bba8c86adcac4e7ec99fd61b181ec.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238237%2FBRH3y8u30W8m5Y2mHySVea9cPEpAh7qAMAyV2ocN.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-23T04:15:00+00:00",
+   "title_ja": "リウニクロスタジオにモンチッチの刺繍デザインが登場",
+   "summary_ja": "ユニクロのRE.UNIQLO STUDIOにて、モンチッチの刺繍サービスが10月23日より開始された。全14種類のデザインが提供される。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "ed14491d1bcbeb46",
@@ -1626,7 +1667,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8faa6a0efced132c",
@@ -1690,6 +1731,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f38b01362c25d6d4",
+   "url": "https://news.dellows.jp/827109/?from=related-reading-list",
+   "title_original": "ユニクロ 京都が河原町通りにオープンへ 限定商品や地元企業とのコラボ刺繍を展開",
+   "source": "Dellows News",
+   "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827109_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-21T02:00:00+00:00",
+   "title_ja": "ユニクロ京都が河原町通りに移転オープンへ",
+   "summary_ja": "ユニクロ 京都が河原町通りにオープン予定。限定商品の販売や、地元企業とのコラボレーションによる刺繍サービスが展開される。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6619,54 +6676,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "a7b9ae5cb828bd17",
-   "url": "https://prtimes.jp/main/html/rd/p/000000127.000076227.html",
-   "title_original": "創造性が息づくワードローブ『UNIQLO and JW ANDERSON』 2026年秋冬コレクション2026年10月16日（金）発売",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/76227/127/76227-127-eb1981f12dd1c7a0e95ff6e325359d58-478x317.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T11:00:02+00:00",
-   "title_ja": "「UNIQLO and JW ANDERSON」秋冬コレクション発売",
-   "summary_ja": "ユニクロは、創造性が息づくワードローブ「UNIQLO and JW ANDERSON」の2026年秋冬コレクションを10月16日に発売します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "fb9a4eab9d9fb668",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-forecasts-fy2027-profit-growth-fast-retailing-stock-falls/70276422",
-   "title_original": "Fast Retailing forecasts FY2027 profit growth: Fast Retailing stock falls 4.35 percent",
-   "source": "AD HOC NEWS",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2404988_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T10:35:47+00:00",
-   "title_ja": "ファーストリテイリングが2027年期増益を予想するも株価は4.35％下落",
-   "summary_ja": "ファーストリテイリングが2027年8月期の利益成長を予想したものの、株価は4.35％下落した。今後の業績見通しに対する市場の反応が伝えられている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f9e590e395c9c2eb",
-   "url": "https://smestreet.in/infocus/uniqlo-highlights-everyday-comfort-with-new-fleece-collection-12660128",
-   "title_original": "UNIQLO Highlights Everyday Comfort With New Fleece Collection",
-   "source": "SMEStreet",
-   "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2026/10/09/uniqlo-highlights-everyday-comfort-with-new-fleece-collection-2026-10-09-15-33-09.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T10:05:29.543000+00:00",
-   "title_ja": "ユニクロが快適性を追求した新作フリースコレクションを発表",
-   "summary_ja": "ユニクロが日常での快適な着心地を提案する新作フリースコレクションを発表した。保温性と機能性を両立させたデザインを取り入れ、肌寒い季節に向けた定番の防寒着として展開している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
