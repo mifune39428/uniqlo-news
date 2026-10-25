@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T11:09:57.170386+09:00",
+ "updated_at": "2026-10-25T19:20:03.782702+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -230,20 +230,20 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 251,
+ "detail_count": 252,
  "digest": {
-  "headline": "ユニクロの新コラボや国内外の出店、GUの話題を総覧",
+  "headline": "ユニクロの新作コラボや国内外の出店、GUの話題商品に注目",
   "points": [
    {
-    "text": "ユニクロはフランチェスコ・リッソ氏と協業した2026年ニットウェアカプセルコレクションを発表しました。",
+    "text": "ユニクロがデザイナーのフランチェスコ・リッソ氏と協業したニットコレクションを発表し、全ラインナップが公開されました。",
     "ids": [
      "e6d83fac5e372d7d",
-     "e1c5230c2a08bd45",
-     "bf84526d821f0405"
+     "41e9894ffdc3145c",
+     "e1c5230c2a08bd45"
     ]
    },
    {
-    "text": "11月6日にグローバル旗艦店「ユニクロ 京都」が開店するほか、インドやベトナムでの初出店も予定されています。",
+    "text": "ユニクロが京都にグローバル旗艦店を出店するほか、インドのジャイプルやベトナムのハロン湾への初出店を発表しました。",
     "ids": [
      "8a06bb6a7e715b35",
      "46c7a5a8d0d53c0c",
@@ -251,32 +251,41 @@
     ]
    },
    {
-    "text": "マリオカートのUTやJリーグのUTme!ご当地スタンプ、モンチッチの刺繍サービスなどが新たに登場しています。",
+    "text": "GUではエンジニアド ガーメンツとの秋冬コラボ新作が登場し、注目アイテムの試着ルポなどが話題を呼んでいます。",
     "ids": [
-     "68d1de481d0bbd9b",
-     "4ffb0d5c817001e6",
-     "3e0acc03ebdeff14"
-    ]
-   },
-   {
-    "text": "GUではエンジニアド ガーメンツとのコラボ新作が登場したほか、「スーダラ節」を用いた新CMが開始されました。",
-    "ids": [
+     "023fcfeb54fadfb8",
      "a4ff8f27a1d6a01f",
-     "5ebd8d882126fce3"
+     "ea60dc47896744fb"
     ]
    },
    {
-    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで3日に9件投稿されました。",
+    "text": "SNSでは「ユニクロ Jリーグ UTme!」がXで3日に6件投稿され話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-22T11:15:31.383449+09:00",
-  "generated_at": "2026-10-25T11:15:36.680199+09:00",
+  "from": "2026-10-22T19:27:19.803950+09:00",
+  "generated_at": "2026-10-25T19:27:37.574583+09:00",
   "article_count": 24,
-  "sig": "d158e94a6ce9"
+  "sig": "1e01bad4797c"
  },
  "items": [
+  {
+   "id": "023fcfeb54fadfb8",
+   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-23-mNp_Rw",
+   "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬試着ルポ。去年と違うボアフリースに注目【10月26日発売】",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/d5/d5d347a1-0b3a-45d9-b30f-47d9eeb8cc3d-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-24T21:00:00+00:00",
+   "title_ja": "「GU×エンジニアド ガーメンツ」コラボ新作の試着ルポ！10月26日発売",
+   "summary_ja": "10月26日に発売される「GU」と「エンジニアド ガーメンツ」による秋冬コラボレーションアイテムの試着レポート。前年とデザインが変更された注目のボアフリースなどを紹介している。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "68d1de481d0bbd9b",
    "url": "https://womenlovetech.com/mario-kart-world-uniqlo-tees-are-here-and-game-night-just-got-a-dress-code",
@@ -378,7 +387,7 @@
    "url": "https://www.sanyonews.jp/article/1983635",
    "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に",
    "source": "山陽新聞",
-   "image": "",
+   "image": "https://static.sanyonews.jp/image/article/size1/3/e/f/4/3ef41262f25317220eb95e050d7e70bf_1.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-10-24T07:28:03+00:00",
@@ -387,7 +396,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f440ec2374ea6e5c",
@@ -6660,22 +6669,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "087a3cafbee60f50",
-   "url": "https://news.yahoo.co.jp/articles/28b33a344757b25b19446f88905c76ed0479eb4e/images/000",
-   "title_original": "【ユニクロ】「JW ANDERSON」2026年秋冬コレクション発売 上質で洗練された新作29アイテム (オトナンサー)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnb1OJJuLdJmPjVG4lNfBwuU1rmIhogZFAH0IsJOvAp6-6WWdkhvWiZyQpPCJt5honmzCibBeA6lcE683frkW7cJ30Rbfuox29ffyJbWT1kERGmO3IrF77u011PuAPtkwvQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T11:15:00+00:00",
-   "title_ja": "ユニクロ×JW ANDERSONの2026年秋冬新作が発売へ、洗練された29アイテムが登場",
-   "summary_ja": "ユニクロが「JW ANDERSON」との2026年秋冬コレクションを発売します。上質で洗練されたデザインが特徴の新作アイテム計29点が登場し、注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
