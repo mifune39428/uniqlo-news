@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T19:20:03.782702+09:00",
+ "updated_at": "2026-10-26T00:12:15.188182+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -128,7 +128,6 @@
   "SmartNews",
   "SportsMint Media",
   "Style Rave",
-  "TBS NEWS DIG",
   "THE FIRST TIMES",
   "TRILL",
   "Tetsudo.com（鉄道コム）",
@@ -212,6 +211,7 @@
   "時事通信ニュース",
   "朝日新聞",
   "東京・大阪 都心上空ヘリコプター遊覧飛行",
+  "東京報道新聞",
   "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
@@ -230,46 +230,91 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 252,
+ "detail_count": 251,
  "digest": {
-  "headline": "ユニクロの新作コラボや国内外の出店、GUの話題商品に注目",
+  "headline": "ユニクロとGUの新作ラッシュ、値上げや新店オープンも相次ぐ",
   "points": [
    {
-    "text": "ユニクロがデザイナーのフランチェスコ・リッソ氏と協業したニットコレクションを発表し、全ラインナップが公開されました。",
+    "text": "ユニクロは11月10日から「感動ジャケット」などの一部商品を値上げし、靴下のまとめ買いも終了する。",
     "ids": [
-     "e6d83fac5e372d7d",
-     "41e9894ffdc3145c",
-     "e1c5230c2a08bd45"
+     "7f458c2cea042ece"
     ]
    },
    {
-    "text": "ユニクロが京都にグローバル旗艦店を出店するほか、インドのジャイプルやベトナムのハロン湾への初出店を発表しました。",
+    "text": "11月6日に京都市でグローバル旗艦店「ユニクロ 京都」がオープンするほか、国内外で店舗の出店やリニューアルが続いている。",
     "ids": [
      "8a06bb6a7e715b35",
-     "46c7a5a8d0d53c0c",
-     "4388c63a55dd6f5e"
+     "4388c63a55dd6f5e",
+     "c38bf2e21fa33d6f"
     ]
    },
    {
-    "text": "GUではエンジニアド ガーメンツとの秋冬コラボ新作が登場し、注目アイテムの試着ルポなどが話題を呼んでいます。",
+    "text": "UNIQLO Uの2025秋冬新作やGUとエンジニアド ガーメンツのコラボなど、注目コレクションが発売される。",
     "ids": [
-     "023fcfeb54fadfb8",
-     "a4ff8f27a1d6a01f",
-     "ea60dc47896744fb"
+     "94b665b190316305",
+     "023fcfeb54fadfb8"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ Jリーグ UTme!」がXで3日に6件投稿され話題を集めています。",
+    "text": "ユニクロの「Jリーグ UTme!」はXで3日に9件投稿され、話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-22T19:27:19.803950+09:00",
-  "generated_at": "2026-10-25T19:27:37.574583+09:00",
+  "from": "2026-10-23T00:19:31.013143+09:00",
+  "generated_at": "2026-10-26T00:19:35.094031+09:00",
   "article_count": 24,
-  "sig": "1e01bad4797c"
+  "sig": "789c35ea3649"
  },
  "items": [
+  {
+   "id": "7f458c2cea042ece",
+   "url": "https://tokyonewsmedia.com/archives/29575",
+   "title_original": "ユニクロ、11月10日から一部値上げ 感動ジャケットは7990円、靴下のまとめ買いも終了へ",
+   "source": "東京報道新聞",
+   "image": "https://tokyonewsmedia.com/wp-content/uploads/2026/10/33805624_m.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T14:00:00+00:00",
+   "title_ja": "ユニクロが11月10日から一部商品を値上げ、「感動ジャケット」や靴下のまとめ買いを改定",
+   "summary_ja": "ユニクロは11月10日より一部商品の価格改定を実施します。「感動ジャケット」の価格が7990円に変更されるほか、これまで実施されていた靴下のまとめ買い販売も終了することが明らかになりました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "96a1a9283940823e",
+   "url": "https://www.sankei.com/article/20261025-2H6D3ZCTIFMUFC6QVZ4BE3W7BE",
+   "title_original": "エネルギーと民間投資で協力拡大へ あす日バングラ首脳会談 ユニクロ幹部らとも会談",
+   "source": "産経ニュース",
+   "image": "https://www.sankei.com/resizer/v2/4NSPN23NMNIYXCLYZZKCZJGMFA.jpg?auth=9bf284e94e3d986abcdcfa234c610989ab31be90ce1426369fb1a588ad40ee84&quality=50&focal=1833%2C1376&width=1200&height=675",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T10:04:55+00:00",
+   "title_ja": "日バングラ首脳会談が開催へ ユニクロ幹部との会談も実施予定",
+   "summary_ja": "日本とバングラデシュの首脳会談が開催され、エネルギー分野や民間投資での協力拡大が協議されます。それに伴い、現地で事業を手がけるユニクロ幹部らとの会談も予定されています。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "94b665b190316305",
+   "url": "https://media.unisba.ac.id/0222cc1a/1226bf51OCYwHThKOQkhElo",
+   "title_original": "【UNIQLO U・2025秋冬 新作】全品､星３評価でプレビュー‼️今週26日発売‼️ Psg Vs Brest (h0YvTNk4Xt)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T02:19:42+00:00",
+   "title_ja": "UNIQLO Uの2025秋冬新作が26日に発売",
+   "summary_ja": "UNIQLO Uの2025年秋冬新作コレクションが今週26日に発売されます。事前のプレビューでも高い評価を獲得しており、注目を集めるラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "023fcfeb54fadfb8",
    "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-23-mNp_Rw",
@@ -6618,54 +6663,6 @@
    "title_ja": "ユニクロの大中華圏売上高を欧米が逆転、中国本土では1年間に74店舗が純減",
    "summary_ja": "ユニクロの大中華圏における売上高が、欧米市場の売上高に追い抜かれたことが明らかになりました。また、中国本土における店舗数はこの1年間で74店舗の純減を記録しており、同地域での店舗網縮小が進んでいます。",
    "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "592c8c0112b3f855",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-09-2MYVeQ",
-   "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬最新コレクション8型を全部見せ【10月26日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/26/269c24dd-67e0-4085-8066-bae51e68dfb2-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T13:00:00+00:00",
-   "title_ja": "GUとエンジニアド ガーメンツの秋冬コレクション全8型公開",
-   "summary_ja": "ジーユーとエンジニアド ガーメンツによる秋冬の最新コレクション全8型が発表された。発売日は10月26日を予定している。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "60ff2ca5b3518733",
-   "url": "https://newsdig.tbs.co.jp/articles/embed/3002747",
-   "title_original": "熊本県最大の「ユニクロ」に大行列 向かい側にはGUも 「ゆめタウン光の森」にリニューアルオープン 菊陽町 | TBS NEWS DIG",
-   "source": "TBS NEWS DIG",
-   "image": "https://newsdig.ismcdn.jp/mwimgs/a/1/1200w/img_a1e9eacbac694fa6b5ab457afd8608c5262976.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T12:42:30+00:00",
-   "title_ja": "熊本県最大のユニクロが「ゆめタウン光の森」に改装開業、向かいにはGUも",
-   "summary_ja": "熊本県菊陽町の「ゆめタウン光の森」に、熊本県内最大規模となるユニクロがリニューアルオープンし、大行列ができました。店舗の向かい側にはGUも出店しており、グループブランドが向かい合う形での展開となっています。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "24221fc0eb8de479",
-   "url": "https://www.vogue.co.jp/article/2026-10-09-uniqlo-jw-anderson",
-   "title_original": "ユニクロ × JW アンダーソン、2026年秋冬コレクションが10月16日（金）発売！",
-   "source": "Vogue Japan",
-   "image": "https://media.vogue.co.jp/photos/6ac88f4a5c95e3c8620bcc1a/16:9/w_1280,c_limit/KV.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T11:26:41.190000+00:00",
-   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コラボコレクションが10月16日に発売決定",
-   "summary_ja": "ユニクロは、人気ブランド「JWアンダーソン」とのコラボレーションによる2026年秋冬コレクションを、10月16日金曜日に発売すると発表しました。今季も注目の最新ラインナップが登場します。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
