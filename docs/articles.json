@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T11:10:39.536534+09:00",
+ "updated_at": "2026-10-26T20:48:08.369919+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -50,7 +50,6 @@
   "Fibre2Fashion",
   "Financial Mail",
   "GQ Japan",
-  "Gear Patrol",
   "GlobeNewswire",
   "Goal.com",
   "GoodsPress Web",
@@ -130,7 +129,6 @@
   "The Courier Mail",
   "The Economic Times",
   "The Fashion Post",
-  "The San Francisco Standard",
   "The Sole Supplier",
   "The Times Australia",
   "The Voice of San Francisco",
@@ -154,6 +152,7 @@
   "YorkRegion.com",
   "YouTube",
   "ad-hoc-news.de",
+  "adobo Magazine",
   "anemo（アネモ）",
   "businessnewsthisweek.com",
   "coki",
@@ -225,50 +224,83 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 248,
+ "detail_count": 244,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益を更新し、各地で新店舗や注目コラボが続々登場",
+  "headline": "ファーストリテイリングが売上高過去最高を更新し、世界2位に迫る",
   "points": [
    {
-    "text": "ファーストリテイリングが売上高・純利益で過去最高を更新し、世界2位の規模に浮上したほか、北米市場でも好調を維持しています。",
+    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、世界2位のH&Mに肉薄するなどグローバル市場での存在感を高めています。",
     "ids": [
-     "473a86e3adefd294",
-     "b50344a139546cf4"
+     "bc733aee5ffd192e",
+     "473a86e3adefd294"
     ]
    },
    {
-    "text": "熊本県のゆめタウン光の森に県内最大規模のユニクロがリニューアルオープンし、11月にはベトナム・ハロンにも初店舗がオープン予定です。",
+    "text": "熊本最大のユニクロがゆめタウン光の森にリニューアルオープンしたほか、11月10日からは一部商品の価格改定が実施されます。",
     "ids": [
      "45bade1457be463d",
-     "abbf3ad6907f3a18"
+     "7f458c2cea042ece"
     ]
    },
    {
-    "text": "ユニクロは11月10日から「感動ジャケット」などの価格改定や靴下のまとめ買い終了を実施する一方、UNIQLO Uの秋冬新作などを発売しました。",
+    "text": "ユニクロではUNIQLO Uの新作が発売されたほか、キャラクターやJリーグとコラボしたUTなどの多彩な新商品展開が発表されています。",
     "ids": [
-     "7f458c2cea042ece",
-     "94b665b190316305"
-    ]
-   },
-   {
-    "text": "GUとエンジニアド ガーメンツのコラボ新作が発売されたほか、Jリーグご当地スタンプのUTme!などが話題を集めています。",
-    "ids": [
-     "b9bd28e80c84caee",
+     "94b665b190316305",
+     "db0932c311d911fb",
      "4ffb0d5c817001e6"
     ]
    },
    {
-    "text": "SNSでは「GU ポケモンコラボ」がXで3日に119件投稿され、大きな注目を集めています。",
+    "text": "GUでは「エンジニアド ガーメンツ」とのコラボ新作コレクションが発売され、秋冬の新作展示会も開催されました。",
+    "ids": [
+     "b9bd28e80c84caee",
+     "6497d7b99513505b"
+    ]
+   },
+   {
+    "text": "ユニクロ ムーミン ボディースーツはXで3日に13件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-23T11:15:18.087084+09:00",
-  "generated_at": "2026-10-26T11:15:19.646083+09:00",
+  "from": "2026-10-23T21:01:58.331733+09:00",
+  "generated_at": "2026-10-26T21:02:07.706775+09:00",
   "article_count": 24,
-  "sig": "4319f99cc09f"
+  "sig": "e8413ca4b84e"
  },
  "items": [
+  {
+   "id": "a57b26e1b6f77e15",
+   "url": "https://www.adobomagazine.com/fashion/uniqlo-f-risso-reimagines-the-rules-of-everyday-dressing",
+   "title_original": "UNIQLO F.RISSO reimagines the rules of everyday dressing",
+   "source": "adobo Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T09:11:15+00:00",
+   "title_ja": "ユニクロがデザイナーのフランチェスコ・リッソと日常着を刷新",
+   "summary_ja": "ユニクロとデザイナーのフランチェスコ・リッソによる取り組みについての記事。独自のデザインアプローチを通じて日常着の概念を再解釈し、新たなスタイルを提案している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "db0932c311d911fb",
+   "url": "https://news.yahoo.co.jp/articles/1c52e16c33eae454be1d32d99c943dc9d5170491",
+   "title_original": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種（インサイド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000011-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T02:30:04+00:00",
+   "title_ja": "ユニクロが「ムーミン」ベビー用ボディスーツ全6種を12月上旬に発売",
+   "summary_ja": "ユニクロは「ムーミン」のキャラクターを描いたベビー用ボディスーツ全6種を12月上旬から販売します。ムーミン谷の仲間たちがデザインされた愛らしい新作グッズとして展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "c7790ddee8fd242a",
    "url": "https://news.yahoo.co.jp/articles/54047077eb875b69856944bd8331a86d1ccbc8f4",
@@ -299,7 +331,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b9bd28e80c84caee",
@@ -312,6 +344,22 @@
    "published": "2026-10-25T22:29:54+00:00",
    "title_ja": "GUが「エンジニアド ガーメンツ」とのコラボ新作を本日発売",
    "summary_ja": "ジーユーは「エンジニアド ガーメンツ」とのコラボレーションによる新作コレクションを10月26日に発売した。アウターやジャケット、各種グッズを含めた全8型が展開されている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "6497d7b99513505b",
+   "url": "https://media.unisba.ac.id/b433ac9d/943f91d4sr7zbHtyuGw/?share=telegram&nb=1",
+   "title_original": "【GU 26年秋冬展示会】新しいジーユー、はじまる。新作展示会にモーガン蔵人が潜入！ Cagliari Vs Udinese (XdsrICTPrq)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T18:29:13+00:00",
+   "title_ja": "GUが2026年秋冬の新作展示会を開催 モデルのモーガン蔵人が取材",
+   "summary_ja": "GUが2026年秋冬コレクションの新作展示会を開催しました。会場にはモデルのモーガン蔵人氏が潜入し、ブランドの新しい展開や注目の新作アイテムを紹介しています。",
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
@@ -331,6 +379,38 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "245395c73c6c3717",
+   "url": "https://media.unisba.ac.id/f387bcdc/37434ebcAPm7GdOXXC4/?share=facebook&nb=1",
+   "title_original": "ユニクロはなぜ世界で売れる？「普通の服」を巨大ビジネスに変える仕組み【企業解説】 Mls (NqWLqbwrhk)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T16:52:30+00:00",
+   "title_ja": "ユニクロが世界で支持される理由とは ベーシック衣料を成長させたビジネスの仕組み",
+   "summary_ja": "ユニクロが世界中で支持され、巨大なビジネスへと成長を遂げた仕組みを分析・解説する記事です。「普通の服」を世界規模のビジネスに変えた強みや戦略に迫ります。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "bc733aee5ffd192e",
+   "url": "https://media.unisba.ac.id/d4b1e38f/ef8f635d6HwUeEYcBtY",
+   "title_original": "「ユニクロ」のファストリ売上高3.4兆円 世界2位のH&Mに肉薄 Court (gM9JJcrcO5)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T15:27:10+00:00",
+   "title_ja": "ファーストリテイリングの売上高が3.4兆円に達し世界2位のH&Mに迫る",
+   "summary_ja": "ユニクロを展開するファーストリテイリングの売上高が3.4兆円規模に達し、競合である世界2位のH&Mに肉薄していることがわかりました。グローバル市場での存在感を高めています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
    "detail_tries": 1
   },
   {
@@ -395,7 +475,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b50344a139546cf4",
@@ -6588,86 +6668,6 @@
    "brand": "グループ",
    "importance": 5,
    "detail_tries": 2
-  },
-  {
-   "id": "ff442d553a86145d",
-   "url": "https://sfstandard.com/2026/10/09/uniqlo-sf-opening",
-   "title_original": "San Francisco’s hottest club is the Uniqlo opening festival",
-   "source": "The San Francisco Standard",
-   "image": "https://assets.sfstandard.com/image/994911177489/image_neaol1abih56n53a2rjujpnu45/-S1200x630-FPNG",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T23:51:49+00:00",
-   "title_ja": "サンフランシスコでユニクロの開店記念イベント",
-   "summary_ja": "サンフランシスコにて、ユニクロの新規店舗オープンを記念したフェスティバルが開催され、現地で大きな盛り上がりを見せている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2235507a413e881e",
-   "url": "https://news.yahoo.co.jp/articles/8531dc2c49d89140ec3ec8d5759caad21a9fcd2d",
-   "title_original": "国内セブン減益vsユニクロ最高益……大手小売で明暗分かれた稼ぎ方の本質的な違いとは（ビジネス＋IT）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00187384-biz_plus-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T22:20:06+00:00",
-   "title_ja": "ユニクロは最高益、大手小売で分かれる明暗",
-   "summary_ja": "国内セブンが減益となる一方でユニクロが最高益を記録するなど、大手小売企業における稼ぎ方の違いと明暗についてビジネスメディアが報じている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "3129b935e4983071",
-   "url": "https://news.yahoo.co.jp/expert/articles/42ffc68520e57e492e75b7626c289ffb2501e13e",
-   "title_original": "世界2位へ浮上する「ユニクロ」に何が起きた？ 店舗数は中国圏の約4分の1、それでも欧米売上が逆転 #エキスパートトピ",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/sunaoshitakahisa/02739314/title-1791545328121.jpeg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T22:01:06+00:00",
-   "title_ja": "ユニクロ、欧米の売上が中国圏を上回る成長",
-   "summary_ja": "店舗数は中国圏の約4分の1にとどまりながらも、欧米市場での売上が中国圏を逆転して世界第2位へ浮上したユニクロの動向を報じています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f537f9b6c7680246",
-   "url": "https://www.gearpatrol.com/style/gu-engineered-garments-daily-expedition-fall-2026",
-   "title_original": "Uniqlo's Affordable Spinoff Brand Previews Stylish Winter Basics Steeped in Vintage Workwear and Military Surplus",
-   "source": "Gear Patrol",
-   "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/gu-engineered-garments-fall-2026-16x9-Lead-1.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T21:19:55+00:00",
-   "title_ja": "ユニクロの姉妹ブランドが冬の新作をプレビュー",
-   "summary_ja": "ユニクロの姉妹ブランドが、ヴィンテージワークウェアやミリタリーサープラスに着想を得たスタイリッシュな冬のベーシックアイテムを発表しました。",
-   "category": "新商品・コラボ",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "fb37a04a99f58de5",
-   "url": "https://www.ktvu.com/news/uniqlo-returns-san-francisco-opening-day-street-festival",
-   "title_original": "Uniqlo returns to San Francisco with opening day street festival",
-   "source": "KTVU",
-   "image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2026/10/1200/630/gettyimages-171179473-scaled.jpg?ve=1&tl=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T21:10:31+00:00",
-   "title_ja": "ユニクロがサンフランシスコに再出店、記念の街頭フェスも開催",
-   "summary_ja": "ユニクロが米サンフランシスコに店舗を再オープンさせ、オープン初日を祝うストリートフェスティバルを開催して大きな盛り上がりを見せています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
