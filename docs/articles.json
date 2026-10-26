@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T20:48:08.369919+09:00",
+ "updated_at": "2026-10-27T02:49:50.781076+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -36,6 +36,7 @@
   "Campaign India",
   "Chosunbiz",
   "Confidentials",
+  "Daily Hive",
   "Dellows News",
   "Demócrata",
   "EBC Financial Group",
@@ -72,13 +73,13 @@
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
   "KION Central Coast",
-  "KTVU",
   "Koubo",
   "L'Officiel Philippines",
   "LASISA",
   "LEE",
   "LIMO | くらしとお金の経済メディア",
   "Laodong.vn",
+  "LifeVancouver カナダ・バンクーバー現地情報",
   "LionhearTV",
   "Lmaga.jp",
   "London Evening Standard",
@@ -94,11 +95,11 @@
   "Moomoo",
   "Morningstar",
   "Mothership",
-  "NBC Bay Area",
   "NEWS.am STYLE",
   "Newswav",
   "OCEANS オーシャンズ",
   "PAUSE Online",
+  "PR Newswire Canada",
   "PR TIMES",
   "Passionate In Marketing",
   "Pluang",
@@ -132,6 +133,7 @@
   "The Sole Supplier",
   "The Times Australia",
   "The Voice of San Francisco",
+  "Times Colonist",
   "Traders Union",
   "TradingView",
   "Trend Hunter",
@@ -140,6 +142,7 @@
   "UQライフ",
   "Unisba Media",
   "VICTORY [ビクトリー]",
+  "Vancouver Sun",
   "Vietnam.vn",
   "Vogue Japan",
   "WWDJAPAN",
@@ -224,51 +227,131 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 244,
+ "detail_count": 246,
  "digest": {
-  "headline": "ファーストリテイリングが売上高過去最高を更新し、世界2位に迫る",
+  "headline": "ファーストリテイリング過去最高益、海外展開や新商品も続々",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、世界2位のH&Mに肉薄するなどグローバル市場での存在感を高めています。",
+    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、売上高が3.4兆円規模に達して世界2位のH&Mに肉薄しています。",
     "ids": [
      "bc733aee5ffd192e",
      "473a86e3adefd294"
     ]
    },
    {
-    "text": "熊本最大のユニクロがゆめタウン光の森にリニューアルオープンしたほか、11月10日からは一部商品の価格改定が実施されます。",
+    "text": "ユニクロはカナダ・バンクーバー中心部の旧ノードストローム跡地などに初出店し、2027年に新たな旗艦店を開業する予定です。",
     "ids": [
-     "45bade1457be463d",
+     "5da6c6f51e26af8f",
+     "85be0613ad5e05e7",
+     "efa963f45eab031b"
+    ]
+   },
+   {
+    "text": "ユニクロは11月10日から一部商品の価格改定を行い、「感動ジャケット」の価格変更や靴下のまとめ買い終了を実施します。",
+    "ids": [
      "7f458c2cea042ece"
     ]
    },
    {
-    "text": "ユニクロではUNIQLO Uの新作が発売されたほか、キャラクターやJリーグとコラボしたUTなどの多彩な新商品展開が発表されています。",
+    "text": "GUは「エンジニアド ガーメンツ」とのコラボ新作コレクションを発売したほか、熊本最大のユニクロがリニューアルオープンしました。",
     "ids": [
-     "94b665b190316305",
-     "db0932c311d911fb",
-     "4ffb0d5c817001e6"
-    ]
-   },
-   {
-    "text": "GUでは「エンジニアド ガーメンツ」とのコラボ新作コレクションが発売され、秋冬の新作展示会も開催されました。",
-    "ids": [
+     "45bade1457be463d",
      "b9bd28e80c84caee",
-     "6497d7b99513505b"
+     "023fcfeb54fadfb8"
     ]
    },
    {
-    "text": "ユニクロ ムーミン ボディースーツはXで3日に13件投稿されました。",
+    "text": "SNSではGUのちいかわ ポーチが話題となり、Xで3日に14件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-23T21:01:58.331733+09:00",
-  "generated_at": "2026-10-26T21:02:07.706775+09:00",
+  "from": "2026-10-24T02:57:18.683106+09:00",
+  "generated_at": "2026-10-27T02:57:28.915398+09:00",
   "article_count": 24,
-  "sig": "e8413ca4b84e"
+  "sig": "8b9ec00623b7"
  },
  "items": [
+  {
+   "id": "85be0613ad5e05e7",
+   "url": "https://www.timescolonist.com/real-estate/uniqlo-to-open-first-downtown-location-at-pacific-centre-12939067",
+   "title_original": "UNIQLO to open first downtown location at Pacific Centre",
+   "source": "Times Colonist",
+   "image": "https://www.vmcdn.ca/f/files/biv/images/business/uniqlo-pac-1.jpg;w=1200;h=800;mode=crop",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T17:47:32+00:00",
+   "title_ja": "ユニクロがパシフィック・センターにダウンタウン初店舗を出店へ",
+   "summary_ja": "カナダのパシフィック・センターにユニクロが出店することが明らかになりました。同地区のダウンタウンエリアにおいては初店舗となり、地域でのプレゼンス向上が期待されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5da6c6f51e26af8f",
+   "url": "https://lifevancouver.jp/uniqlo-open-vancouver-downtown-2027",
+   "title_original": "ユニクロがバンクーバーのダウンタウンに初出店を発表！新しい旗艦店2027年オープン予定",
+   "source": "LifeVancouver カナダ・バンクーバー現地情報",
+   "image": "https://lifevancouver.jp/wp/wp-content/uploads/2026/10/uniqlo-downtown-vancouver-1024x538.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T17:20:00+00:00",
+   "title_ja": "ユニクロがバンクーバー中心部に初出店へ、2027年に旗艦店を開業予定",
+   "summary_ja": "ユニクロがカナダ・バンクーバーのダウンタウン地区への初出店を発表しました。2027年に新たな旗艦店としてオープンする予定となっており、現地でのブランド展開の加速が注目されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "efa963f45eab031b",
+   "url": "https://dailyhive.com/vancouver/uniqlo-downtown-vancouver-flagship-store-cf-pacific-centre-announcement",
+   "title_original": "Uniqlo flagship store to open at CF Pacific Centre in Downtown Vancouver",
+   "source": "Daily Hive",
+   "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/10/uniqlo-pacific-centre-downtown-vancouver-f.jpg?format=auto",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T16:20:56+00:00",
+   "title_ja": "バンクーバー中心部のCFパシフィック・センターにユニクロ旗艦店が出店へ",
+   "summary_ja": "バンクーバーのダウンタウンに位置する商業施設「CFパシフィック・センター」内に、ユニクロの新たな旗艦店がオープンすることが明らかになりました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "36687129394efa07",
+   "url": "https://vancouversun.com/life/fashion-beauty/uniqlo-confirmed-to-take-over-part-of-the-old-nordstrom-store-in-downtown-vancouver",
+   "title_original": "Uniqlo confirmed to take over part of the old Nordstrom store in downtown Vancouver",
+   "source": "Vancouver Sun",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T13:00:59+00:00",
+   "title_ja": "ユニクロがバンクーバー中心部の旧ノードストローム跡地へ出店決定",
+   "summary_ja": "カナダ・バンクーバーのダウンタウンに位置する旧ノードストロームの店舗跡地の一部に、ユニクロが出店することが決定しました。現地中心部でのブランド展開強化につながる出店となります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a89aea8f61080045",
+   "url": "https://www.newswire.ca/news-releases/vancouver-flagship-opening-at-cf-pacific-centre-in-spring-2027-847622387.html",
+   "title_original": "Vancouver Flagship Opening at CF Pacific Centre in Spring 2027",
+   "source": "PR Newswire Canada",
+   "image": "https://mmx.prnewswire.com/media/MS1141115/UNIQLO-Vancouver-Flagship-Opening-at-CF-Pacific-Centre-in-Spring.jpg?id=OA3037414&p=facebook",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T13:00:00+00:00",
+   "title_ja": "カナダ・バンクーバーのCFパシフィック・センターに2027年春に旗艦店が開店へ",
+   "summary_ja": "カナダのバンクーバーにある商業施設「CFパシフィック・センター」において、2027年春に新たな旗艦店がオープンすることが発表されました。現地での大規模な店舗展開が期待されています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "a57b26e1b6f77e15",
    "url": "https://www.adobomagazine.com/fashion/uniqlo-f-risso-reimagines-the-rules-of-everyday-dressing",
@@ -280,6 +363,22 @@
    "published": "2026-10-26T09:11:15+00:00",
    "title_ja": "ユニクロがデザイナーのフランチェスコ・リッソと日常着を刷新",
    "summary_ja": "ユニクロとデザイナーのフランチェスコ・リッソによる取り組みについての記事。独自のデザインアプローチを通じて日常着の概念を再解釈し、新たなスタイルを提案している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "900d97d310fd1320",
+   "url": "https://travel.watch.impress.co.jp/docs/news/2151175.html",
+   "title_original": "ユニクロ、「ハローキティ」新作UTを12月発売。リボンをテーマに大人のシンプルデザイン",
+   "source": "トラベル Watch",
+   "image": "https://travel.watch.impress.co.jp/img/trw/list/2151/175/00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T05:10:09+00:00",
+   "title_ja": "ユニクロがハローキティの新作UTを12月発売 リボンがテーマ",
+   "summary_ja": "ユニクロは「ハローキティ」とコラボレーションした新作Tシャツ「UT」を12月に発売する。リボンをテーマにした、大人向けの上品でシンプルなデザインが特徴となっている。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
@@ -299,7 +398,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c7790ddee8fd242a",
@@ -363,7 +462,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "45bade1457be463d",
@@ -395,7 +494,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bc733aee5ffd192e",
@@ -411,7 +510,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7f458c2cea042ece",
@@ -6571,102 +6670,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c88a551a8fa968dd",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-09-VXGcyg",
-   "title_original": "【大人のユニクロ】「UNIQLO and JW ANDERSON」新作速報。“大人プレッピー”なメンズアイテム全部見せます【10月16日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/2c/2cbb65db-0539-4916-bda5-04d1c3668213-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T02:00:00+00:00",
-   "title_ja": "「UNIQLO and JW ANDERSON」の新作が10月16日発売",
-   "summary_ja": "ユニクロとJW ANDERSONによるコラボレーションの新作が、10月16日に発売されます。大人プレッピーなメンズアイテムの全貌が紹介されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b8481bda051595d0",
-   "url": "https://www.ktvu.com/video/fmc-kzfavmlr47zu4edo.amp",
-   "title_original": "Crowds line up for grand opening of new Uniqlo store in SF",
-   "source": "KTVU",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T01:35:59+00:00",
-   "title_ja": "サンフランシスコの新店舗オープンに大勢の客が列を作る",
-   "summary_ja": "アメリカ・サンフランシスコにオープンした新しいユニクロの店舗のグランドオープンに際し、多くの来店客が店舗の周りに列を作りました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "b0043d2625ec2fd5",
-   "url": "https://www.nbcbayarea.com/video/news/local/uniqlo-opens-new-store-sf/4155947",
-   "title_original": "What the opening of the Uniqlo flagship store means for downtown San Francisco",
-   "source": "NBC Bay Area",
-   "image": "https://media.nbcbayarea.com/2026/10/51810371917-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T01:20:37+00:00",
-   "title_ja": "サンフランシスコ中心部へのユニクロ旗艦店オープンが持つ意味",
-   "summary_ja": "サンフランシスコ中心部におけるユニクロのフラッグシップショップの開業が、地域経済や街にどのような影響を与えるのかについて報じています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "6bdefc83f9cc04a9",
-   "url": "https://www.vietnam.vn/ja/loi-nhuan-fast-retailing-tang-30-uniqlo-tiep-tuc-giu-vai-tro-chu-luc",
-   "title_original": "ファーストリテイリングの利益は30％増加し、ユニクロが引き続き主導的な役割を果たした。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/10/1791593706039_d3e768ad-7cbc-4156-9ccd-26e34d9ff896.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T00:19:00+00:00",
-   "title_ja": "ファーストリテイリングの利益が3割増、ユニクロが牽引",
-   "summary_ja": "ファーストリテイリングの利益が30％増加しました。国内外でユニクロが引き続き主導的な役割を果たしています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "e25ecb3046fa1671",
-   "url": "https://www.vietnam.vn/en/loi-nhuan-fast-retailing-tang-30-uniqlo-tiep-tuc-giu-vai-tro-chu-luc",
-   "title_original": "Fast Retailing's profits increased by 30%, with Uniqlo continuing to play a leading role.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/10/1791593706039_d3e768ad-7cbc-4156-9ccd-26e34d9ff896.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T00:19:00+00:00",
-   "title_ja": "ファーストリテイリングが利益30%増を達成",
-   "summary_ja": "ファーストリテイリングの利益が30%増加し、ユニクロがその成長において主導的な役割を果たし続けていることを伝えています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "56397242662b442e",
-   "url": "https://pluang.com/en/news-feed/fast-retailing-masih-beli-setelah-laba-tahunan-mengungguli",
-   "title_original": "Fast Retailing beats FY26 EPS estimates, driven by strong UNIQLO global sales and efficiency gains.",
-   "source": "Pluang",
-   "image": "https://image-cdn.pluang.com/web/news-cards/v2/GSS/f24033bc4bd646e4b4d6a4326f20f952a7fb479c605ef4beee41f3d7069d489c-en.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T00:00:00+00:00",
-   "title_ja": "ファーストリテイリング、2026年期EPS予想を上回る 海外好調が寄与",
-   "summary_ja": "ファーストリテイリングの2026年期通期における1株当たり利益が市場予想を上回りました。世界市場におけるユニクロ事業の好調な売上と業務効率化の推進が業績拡大に寄与しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "detail_tries": 2
   }
  ]
