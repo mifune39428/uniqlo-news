@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T02:49:50.781076+09:00",
+ "updated_at": "2026-10-27T07:02:29.247901+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -72,7 +72,6 @@
   "Jakarta Globe",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
-  "KION Central Coast",
   "Koubo",
   "L'Officiel Philippines",
   "LASISA",
@@ -227,51 +226,83 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 246,
+ "detail_count": 247,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益、海外展開や新商品も続々",
+  "headline": "ファーストリテイリングが過去最高益を更新し世界2位に迫る",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、売上高が3.4兆円規模に達して世界2位のH&Mに肉薄しています。",
+    "text": "ファーストリテイリングは売上高が3.4兆円規模に達し、売上高と純利益で過去最高を更新して世界2位のH&Mに肉薄しています。",
     "ids": [
      "bc733aee5ffd192e",
      "473a86e3adefd294"
     ]
    },
    {
-    "text": "ユニクロはカナダ・バンクーバー中心部の旧ノードストローム跡地などに初出店し、2027年に新たな旗艦店を開業する予定です。",
+    "text": "ユニクロはカナダ・バンクーバー中心部の旧ノードストローム跡地などに2027年春、新たな旗艦店を開業する予定です。",
     "ids": [
      "5da6c6f51e26af8f",
      "85be0613ad5e05e7",
-     "efa963f45eab031b"
+     "a89aea8f61080045"
     ]
    },
    {
-    "text": "ユニクロは11月10日から一部商品の価格改定を行い、「感動ジャケット」の価格変更や靴下のまとめ買い終了を実施します。",
+    "text": "ユニクロは11月10日から「感動ジャケット」の価格改定や靴下のまとめ買い終了を実施し、Jリーグとのコラボ商品も発売されました。",
     "ids": [
-     "7f458c2cea042ece"
+     "7f458c2cea042ece",
+     "39cc2e6193d6bc82"
     ]
    },
    {
-    "text": "GUは「エンジニアド ガーメンツ」とのコラボ新作コレクションを発売したほか、熊本最大のユニクロがリニューアルオープンしました。",
+    "text": "GUは「エンジニアド ガーメンツ」とのコラボ新作コレクションを発売し、2026年秋冬の新作展示会も開催されました。",
     "ids": [
-     "45bade1457be463d",
      "b9bd28e80c84caee",
-     "023fcfeb54fadfb8"
+     "6497d7b99513505b"
     ]
    },
    {
-    "text": "SNSではGUのちいかわ ポーチが話題となり、Xで3日に14件投稿されました。",
+    "text": "SNSではGUのちいかわ ポーチが話題となり、Xで3日に15件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-24T02:57:18.683106+09:00",
-  "generated_at": "2026-10-27T02:57:28.915398+09:00",
+  "from": "2026-10-24T07:09:22.848779+09:00",
+  "generated_at": "2026-10-27T07:09:24.429001+09:00",
   "article_count": 24,
-  "sig": "8b9ec00623b7"
+  "sig": "9d916fa3f053"
  },
  "items": [
+  {
+   "id": "39cc2e6193d6bc82",
+   "url": "https://news.yahoo.co.jp/articles/c5f9061b1f2a0f2f0846b6349cb316108649fec1",
+   "title_original": "Jリーグ待望グッズ「これすごくない…？」 47都道府県を網羅、ユニクロとコラボに「注文しちゃった」（FOOTBALL ZONE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00681037-soccermzw-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T20:01:00+00:00",
+   "title_ja": "Jリーグが47都道府県を網羅するユニクロとのコラボ商品を発売",
+   "summary_ja": "Jリーグが全47都道府県を網羅したユニクロとのコラボレーションアイテムを発表し、話題を呼んでいます。ファンの間では充実したラインナップに驚きの声が上がり、購入報告も相次いでいます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "646bc91872f39a13",
+   "url": "https://www.mlb.com/news/savannah-bananas-to-make-their-uniqlo-field-at-dodger-stadium-debut-from-april-23-24-2027",
+   "title_original": "Savannah Bananas to Make Their Uniqlo Field at Dodger Stadium Debut from April 23-24, 2027",
+   "source": "MLB.com",
+   "image": "https://images.ctfassets.net/iiozhi00a8lc/7rLiL2FzRtYvRA6WljKhNY/359c3d0e14e8deced16d006ecb2f4218/mlb_fallback_2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T18:40:22.345000+00:00",
+   "title_ja": "サバナ・バナナズが2027年4月にドジャースタジアムのユニクロフィールドで試合開催",
+   "summary_ja": "エンタメ野球チームのサバナ・バナナズが、2027年4月23日から24日にかけてドジャー・スタジアム内の「ユニクロ・フィールド」で初披露を行うことが発表された。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "85be0613ad5e05e7",
    "url": "https://www.timescolonist.com/real-estate/uniqlo-to-open-first-downtown-location-at-pacific-centre-12939067",
@@ -382,7 +413,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "db0932c311d911fb",
@@ -6636,38 +6667,6 @@
    "title_ja": "ユニクロが「ヒートテック」新作を発売、綾瀬はるか出演CMも放映",
    "summary_ja": "ユニクロは秋冬向けの「ヒートテックコレクション」を新たに発売しました。商品の発売に合わせて、女優の綾瀬はるかさんが出演する新しいテレビCMの全国放映も始まっています。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1c8dd12b1359999a",
-   "url": "https://kioncentralcoast.com/news/2026/10/09/uniqlos-return-to-downtown-san-francisco-offers-hope-for-struggling-mid-market-district",
-   "title_original": "Uniqlo’s return to Downtown San Francisco offers hope for struggling mid-market district",
-   "source": "KION Central Coast",
-   "image": "https://kion546.b-cdn.net/2026/10/uniqlo-downtown-sf.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T03:11:03+00:00",
-   "title_ja": "ユニクロがサンフランシスコ中心部へ再出店、商業地区の活性化に期待",
-   "summary_ja": "サンフランシスコのダウンタウンへユニクロが再出店を果たしました。伸び悩む同地区の商業エリアにとって、人流や活気を取り戻すための新たな希望として地元で期待を集めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b3d56c17e5d417dc",
-   "url": "https://kioncentralcoast.com/news/2026/10/09/japanese-retailer-uniqlo-celebrates-return-to-downtown-san-francisco",
-   "title_original": "Japanese retailer Uniqlo celebrates return to Downtown San Francisco",
-   "source": "KION Central Coast",
-   "image": "https://kion546.b-cdn.net/2026/10/7AB2A4210D7EB07BDC5C7923227428F2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T03:04:18+00:00",
-   "title_ja": "ユニクロが米サンフランシスコのダウンタウンへ再出店",
-   "summary_ja": "ユニクロがアメリカのサンフランシスコ・ダウンタウン地区へ復帰・再出店を果たしました。現地では中心街への再進出を歓迎し、オープンを祝う取り組みが行われています。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
