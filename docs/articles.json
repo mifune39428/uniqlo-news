@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:06:51.739706+09:00",
+ "updated_at": "2026-10-26T11:10:39.536534+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -38,9 +38,7 @@
   "Confidentials",
   "Dellows News",
   "Demócrata",
-  "Drapers",
   "EBC Financial Group",
-  "EL PAÍS English",
   "ELLE",
   "EVOKE",
   "Eastern Mirror",
@@ -65,7 +63,6 @@
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
-  "INsauga",
   "Il Sole 24 ORE",
   "Indian Retailer",
   "Inside Halton",
@@ -120,7 +117,6 @@
   "SPUR（シュプール）",
   "San Francisco Examiner",
   "Secret Manchester",
-  "Secret San Francisco",
   "Seeking Alpha",
   "Seoul Economic Daily",
   "Simply Wall Street",
@@ -229,48 +225,114 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 251,
+ "detail_count": 248,
  "digest": {
-  "headline": "ユニクロとGUの新作やコラボ、値上げや新店舗情報など",
+  "headline": "ファーストリテイリングが過去最高益を更新し、各地で新店舗や注目コラボが続々登場",
   "points": [
    {
-    "text": "ユニクロは11月10日より「感動ジャケット」の値上げや靴下のまとめ買い終了などの価格改定を実施します。",
+    "text": "ファーストリテイリングが売上高・純利益で過去最高を更新し、世界2位の規模に浮上したほか、北米市場でも好調を維持しています。",
     "ids": [
-     "7f458c2cea042ece"
+     "473a86e3adefd294",
+     "b50344a139546cf4"
     ]
    },
    {
-    "text": "UNIQLO Uの2025年秋冬新作コレクションが26日に発売され、注目を集めています。",
+    "text": "熊本県のゆめタウン光の森に県内最大規模のユニクロがリニューアルオープンし、11月にはベトナム・ハロンにも初店舗がオープン予定です。",
     "ids": [
+     "45bade1457be463d",
+     "abbf3ad6907f3a18"
+    ]
+   },
+   {
+    "text": "ユニクロは11月10日から「感動ジャケット」などの価格改定や靴下のまとめ買い終了を実施する一方、UNIQLO Uの秋冬新作などを発売しました。",
+    "ids": [
+     "7f458c2cea042ece",
      "94b665b190316305"
     ]
    },
    {
-    "text": "ユニクロは11月6日に京都市でグローバル旗艦店「ユニクロ 京都」をオープンすると発表しました。",
+    "text": "GUとエンジニアド ガーメンツのコラボ新作が発売されたほか、Jリーグご当地スタンプのUTme!などが話題を集めています。",
     "ids": [
-     "8a06bb6a7e715b35"
+     "b9bd28e80c84caee",
+     "4ffb0d5c817001e6"
     ]
    },
    {
-    "text": "GUとエンジニアド ガーメンツによる秋冬コラボレーションの新作アイテムが発売されました。",
-    "ids": [
-     "023fcfeb54fadfb8",
-     "a4ff8f27a1d6a01f",
-     "ea60dc47896744fb"
-    ]
-   },
-   {
-    "text": "ユニクロ Jリーグ UTme!はXで3日に9件投稿されました。",
+    "text": "SNSでは「GU ポケモンコラボ」がXで3日に119件投稿され、大きな注目を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-23T05:12:49.384895+09:00",
-  "generated_at": "2026-10-26T05:12:50.644180+09:00",
+  "from": "2026-10-23T11:15:18.087084+09:00",
+  "generated_at": "2026-10-26T11:15:19.646083+09:00",
   "article_count": 24,
-  "sig": "9b572b5c02b5"
+  "sig": "4319f99cc09f"
  },
  "items": [
+  {
+   "id": "c7790ddee8fd242a",
+   "url": "https://news.yahoo.co.jp/articles/54047077eb875b69856944bd8331a86d1ccbc8f4",
+   "title_original": "ユニクロに「サンリオキャラクターズ」新作UTコレクションが登場！デコレーションシール風デザインのキッズ向け合計7種",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000006-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T01:30:03+00:00",
+   "title_ja": "ユニクロからサンリオの新作UTが登場！キッズ向け全7種を展開",
+   "summary_ja": "ユニクロはサンリオキャラクターズとコラボした新作UTコレクションを展開します。デコレーションシール風のデザインが特徴的で、子ども向けに全7種類のラインナップが用意されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9469a4a120985a6c",
+   "url": "https://news.yahoo.co.jp/articles/513524216f5e62f9b00533b7f319a77c6d3b5ea8",
+   "title_original": "ユニクロから「ハローキティ」新作UTが12月上旬発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン（インサイド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000005-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T01:00:03+00:00",
+   "title_ja": "ユニクロがハローキティの新作UTを12月上旬に発売！大人向け全4種",
+   "summary_ja": "ユニクロからハローキティとコラボレーションした新作UTが12月上旬に発売されます。今回はキティの象徴であるリボンにスポットを当て、大人が日常使いしやすいシンプルなデザインの全4柄を展開します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "b9bd28e80c84caee",
+   "url": "https://www.oricon.co.jp/news/2485570/comment",
+   "title_original": "コメント | 【きょうから】ジーユー×エンジニアド ガーメンツ、コラボ新作10・26発売 コート＆ジャケット、グッズなど全8型",
+   "source": "オリコンニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T22:29:54+00:00",
+   "title_ja": "GUが「エンジニアド ガーメンツ」とのコラボ新作を本日発売",
+   "summary_ja": "ジーユーは「エンジニアド ガーメンツ」とのコラボレーションによる新作コレクションを10月26日に発売した。アウターやジャケット、各種グッズを含めた全8型が展開されている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "45bade1457be463d",
+   "url": "https://media.unisba.ac.id/ff375ec4/24d0273af_DH08tDFt0/?share=facebook&nb=1",
+   "title_original": "熊本県最大の「ユニクロ」に大行列 向かい側にはGUも 「ゆめタウン光の森」にリニューアルオープン 菊陽町 Eritrea (mJ4wHF1XmL)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T17:36:31+00:00",
+   "title_ja": "熊本最大のユニクロがリニューアルオープン",
+   "summary_ja": "熊本県のゆめタウン光の森に、県内最大規模となるユニクロがリニューアルオープンしました。向かい側にはGUも出店しており、多くの来店客で賑わいを見せています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "7f458c2cea042ece",
    "url": "https://tokyonewsmedia.com/archives/29575",
@@ -318,6 +380,38 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "473a86e3adefd294",
+   "url": "https://media.unisba.ac.id/79ca3bb4/6c474629vK0IGZXv1e8",
+   "title_original": "ファーストリテイリング アパレル企業で世界2位へ 売上高・純利益 過去最高更新【スーパーJチャンネル】(2026年10月8日) Getafe Vs Mallorca (Hem0QIjKpV)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T01:49:42+00:00",
+   "title_ja": "ファーストリテイリングが売上高・純利益で過去最高を更新",
+   "summary_ja": "ファーストリテイリングがアパレル企業として世界2位の規模に浮上し、売上高と純利益で過去最高を更新したことが報じられました。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "b50344a139546cf4",
+   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/fast-retailing-tse9983-extends-north-america-momentum-is-the",
+   "title_original": "Fast Retailing (TSE:9983) Extends North America Momentum, Is The Premium Already Priced In?",
+   "source": "Simply Wall Street",
+   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-24T22:31:07.575000+00:00",
+   "title_ja": "ファーストリテイリング、北米市場での好調が継続",
+   "summary_ja": "ファーストリテイリングの北米市場における勢いが続いており、今後の株価や業績のプレミアムに関する分析が伝えられています。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "023fcfeb54fadfb8",
@@ -589,6 +683,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "abbf3ad6907f3a18",
+   "url": "https://www.vietnam.vn/en/sau-thanh-hoa-uniqlo-tiep-tuc-khai-truong-cua-hang-dau-tien-tai-ha-long-vao-thang-11-2026",
+   "title_original": "Following its opening in Thanh Hoa, UNIQLO will continue to open its first store in Ha Long in November 2026.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/23/1792761355032_uniqlo-aeon-mall-ha-long-se-khai-truong-vao-11112026-png.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-23T09:11:36+00:00",
+   "title_ja": "ユニクロ、ハロンに初店舗を11月オープンへ",
+   "summary_ja": "タインホアへの出店に続き、ユニクロが2026年11月にハロンで初となる店舗をオープン予定であることが発表されました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -1892,7 +2002,7 @@
    "url": "https://abema.tv/video/episode/89-44_s0_p541552",
    "title_original": "“安さの象徴”に変化 ユニクロ、ソックス3足990円終了へ 最新の経済ニュース【随時更新】",
    "source": "ABEMA",
-   "image": "",
+   "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-44_s0_p541552/thumb001.png?height=720&quality=75&version=1792495797&width=1280",
    "lang": "ja",
    "region": "jp",
    "published": "2026-10-20T23:02:03+00:00",
@@ -6555,118 +6665,6 @@
    "title_ja": "ユニクロがサンフランシスコに再出店、記念の街頭フェスも開催",
    "summary_ja": "ユニクロが米サンフランシスコに店舗を再オープンさせ、オープン初日を祝うストリートフェスティバルを開催して大きな盛り上がりを見せています。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "cdd9ce52843a79be",
-   "url": "https://secretsanfrancisco.com/uniqlo-store-opening-sf-free-festival",
-   "title_original": "Uniqlo is hosting a free festival in Downtown SF to celebrate the new store opening with crafting, DJs, and exclusive merch",
-   "source": "Secret San Francisco",
-   "image": "https://offloadmedia.feverup.com/secretsanfrancisco.com/wp-content/uploads/2026/10/09134546/Horizontal-featured-image-10.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T20:59:32+00:00",
-   "title_ja": "サンフランシスコ新店オープン記念、ユニクロが無料フェス開催",
-   "summary_ja": "サンフランシスコでの新規店舗オープンを記念し、ユニクロがワークショップやDJ、限定グッズを用意した無料の記念フェスティバルを開催します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d4dead5b4c592b1b",
-   "url": "https://www.insauga.com/international-clothing-brand-opening-new-location-in-ontario-city",
-   "title_original": "International clothing brand opening new location in Ontario city",
-   "source": "INsauga",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T20:32:43+00:00",
-   "title_ja": "カナダ・オンタリオ州の都市に国際アパレルブランドが新店舗を出店",
-   "summary_ja": "カナダのオンタリオ州にある都市にて、国際的なアパレルブランドが新たな店舗を開設することが発表された。地域での店舗網拡大に向けた動きとして注目されている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "6c15457d25637e36",
-   "url": "https://www.nbcbayarea.com/news/local/uniqlo-flagship-store-san-francisco-union-square/4155662",
-   "title_original": "Uniqlo opens new flagship store in downtown SF",
-   "source": "NBC Bay Area",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T16:05:33+00:00",
-   "title_ja": "ユニクロ、サンフランシスコ中心部に新旗艦店を開業",
-   "summary_ja": "米サンフランシスコのダウンタウンに、ユニクロの新たな旗艦店がオープンした。現地でのブランド展開をさらに強化する狙いがある。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "6985e77ad4eb2fda",
-   "url": "https://www.asahi.com/asagakuplus/article/asasho/16954145",
-   "title_original": "ユニクロの会社 業界で世界2位に",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/23d6-p/picture/31426225/dcc5fc16ca6f2682559fb66311b4110b.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T15:00:00+00:00",
-   "title_ja": "ユニクロを運営するファーストリテイリングがアパレル業界で世界第2位に",
-   "summary_ja": "ユニクロを展開するファーストリテイリングが、アパレル業界の中で世界第2位の規模に達したことが明らかになりました。グローバルな事業展開を通じて、同グループの存在感が世界的に高まっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "b671da0aa216f503",
-   "url": "https://english.elpais.com/economy-and-business/2026-10-09/uniqlo-doubles-inditexs-growth-rate-as-it-targets-the-top-spot-in-global-fashion.html",
-   "title_original": "Uniqlo doubles Inditex’s growth rate as it targets the top spot in global fashion",
-   "source": "EL PAÍS English",
-   "image": "https://imagenes.elpais.com/resizer/v2/7HSOG6U2ZFGTXFZTHWMKXQLVZU.JPG?auth=974f4681bda2c8b9e12c592fc789820c6d8e41ec2d904c9d19e554a2644b1f8c&width=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T13:55:12+00:00",
-   "title_ja": "ユニクロが世界首位を目指しインディテックスの2倍の成長率を維持",
-   "summary_ja": "ユニクロが世界のアパレル市場で首位を獲得する目標に向け、競合のインディテックスと比べて2倍の成長率を記録しています。グローバル市場における存在感が急速に高まっています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9ed88cbed1b888d1",
-   "url": "https://www.drapersonline.com/news/uniqlo-parent-company-posts-fifth-year-of-record-profits",
-   "title_original": "Uniqlo parent company posts fifth year of ‘record’ profits",
-   "source": "Drapers",
-   "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/2/2023/04/26124752/Uniqlo-Covent-Garden-entrance-3x2-1-560x315.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-09T13:17:34+00:00",
-   "title_ja": "ファストリが5年連続で過去最高益を更新",
-   "summary_ja": "ユニクロの親会社であるファーストリテイリングが、5年連続となる過去最高益を達成しました。（抜粋なし）",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "976c7c5dd55f0528",
-   "url": "https://finance.biggo.jp/news/20a3f8af-acac-4a4f-8166-ae8539b59b1f",
-   "title_original": "ユニクロ、大中華圏の売上高が欧米に抜かれる 中国本土の店舗は1年で74店純減",
-   "source": "BigGo ファイナンス",
-   "image": "https://img.biggo.com/GaasatksUjqndK_svM60RhJ7vbnPS9SmXl24pJtqCKk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzIwYTNmOGFmLWFjYWMtNGE0Zi04MTY2LWFlODUzOWI1OWIxZl8xNzkxNTUxNDk4X2RlZmF1bHQuanBn.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-09T13:05:21+00:00",
-   "title_ja": "ユニクロの大中華圏売上高が欧米を下回る、中国本土の店舗数は1年で74店純減",
-   "summary_ja": "ユニクロの大中華圏における売上高が欧米市場に抜かれたことが分かりました。中国本土の店舗数についても、この1年間で74店舗の純減となっており、中国市場における店舗展開の見直しが進んでいる状況が示されています。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
