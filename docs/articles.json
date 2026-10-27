@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T11:47:17.732083+09:00",
+ "updated_at": "2026-10-27T14:25:45.628766+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,7 +19,6 @@
   "36Kr",
   "7NEWS",
   "@DIME アットダイム",
-  "ABC7 Bay Area",
   "ABEMA",
   "AD HOC NEWS",
   "ADWEEK",
@@ -36,6 +35,7 @@
   "CTV News",
   "Campaign India",
   "Chosunbiz",
+  "Citizens Journal",
   "Confidentials",
   "Daily Hive",
   "Dellows News",
@@ -54,7 +54,6 @@
   "GQ Japan",
   "Global News",
   "GlobeNewswire",
-  "Goal.com",
   "GoodsPress Web",
   "Goody Feed",
   "HOME広島ホームテレビ",
@@ -71,7 +70,6 @@
   "Investing.com 日本",
   "J-CAST ニュース",
   "JBpress",
-  "Jakarta Globe",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
   "Koubo",
@@ -107,17 +105,17 @@
   "Pokde.Net",
   "Popbee",
   "QAB 琉球朝日放送",
-  "Qatar Tribune",
   "RBB TODAY",
   "Ragtrader.com.au",
   "Record China",
   "Retail & Leisure International",
+  "Retail Insider",
   "Retail4growth",
   "SEVENTIE TWO",
   "SPUR（シュプール）",
+  "STRAIGHT PRESS",
   "San Francisco Examiner",
   "Secret Manchester",
-  "Seeking Alpha",
   "Seoul Economic Daily",
   "Simply Wall Street",
   "SmartNews",
@@ -141,6 +139,7 @@
   "UQライフ",
   "Unisba Media",
   "VICTORY [ビクトリー]",
+  "Vancouver Is Awesome",
   "Vancouver Sun",
   "Vietnam.vn",
   "Vogue Japan",
@@ -150,6 +149,7 @@
   "Women Love Tech",
   "X",
   "Yahoo Life UK",
+  "Yahoo News Canada",
   "Yahoo!ニュース",
   "YorkRegion.com",
   "YouTube",
@@ -165,6 +165,8 @@
   "puck.news",
   "shiritomo",
   "| 繊研新聞",
+  "ИФЗ РАН",
+  "いこーよニュース",
   "アセアンポータル",
   "アニメ！アニメ！",
   "インサイド",
@@ -226,52 +228,130 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 247,
+ "detail_count": 249,
  "digest": {
-  "headline": "ファーストリテイリング過去最高業績、海外展開や新作も続々",
+  "headline": "ファーストリテイリングが過去最高を更新、国内外で出店も加速",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、売上高が3.4兆円規模に達して世界2位のH&Mに肉薄しています。",
+    "text": "ファーストリテイリングは売上高が3.4兆円規模に達し、世界2位のH&Mに肉薄。売上高と純利益で過去最高を更新しました。",
     "ids": [
      "bc733aee5ffd192e",
      "473a86e3adefd294"
     ]
    },
    {
-    "text": "ユニクロはカナダ・バンクーバーの中心部にある旧ノードストローム跡地やパシフィック・センターに初出店し、2027年に旗艦店を開業予定です。",
+    "text": "国内では京都・河原町通りに「ユニクロ 京都」が開業したほか、熊本の店舗が県内最大規模としてリニューアルオープンしました。",
     "ids": [
-     "5da6c6f51e26af8f",
-     "973840ae3460453c",
-     "efa963f45eab031b"
+     "6298d29631b06c07",
+     "45bade1457be463d"
     ]
    },
    {
-    "text": "ユニクロは11月10日より一部商品を値上げし「感動ジャケット」の価格改定や靴下のまとめ買い終了を実施するほか、熊本最大の店舗がリニューアルオープンしました。",
+    "text": "海外では、ユニクロが2027年にカナダ・バンクーバー中心部の旧ノードストローム跡地へ新たな旗艦店を出店する計画を発表しました。",
     "ids": [
-     "45bade1457be463d",
+     "e5cf4bd0dc138725",
+     "5da6c6f51e26af8f",
+     "36687129394efa07"
+    ]
+   },
+   {
+    "text": "ユニクロは11月10日から「感動ジャケット」などの一部商品を値上げし、靴下のまとめ買い販売を終了することを明らかにしました。",
+    "ids": [
      "7f458c2cea042ece"
     ]
    },
    {
-    "text": "GUからポケモンやエンジニアド ガーメンツとのコラボ新作が発表・発売されたほか、Jリーグとユニクロの47都道府県を網羅したコラボグッズが話題となっています。",
-    "ids": [
-     "406eca5e288612b8",
-     "455da39600480649",
-     "b9bd28e80c84caee"
-    ]
-   },
-   {
-    "text": "SNSではGUのちいかわ ポーチがXで17件投稿されるなど話題を集めています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に19件の投稿がありました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-24T11:53:07.535728+09:00",
-  "generated_at": "2026-10-27T11:53:09.376456+09:00",
+  "from": "2026-10-24T14:29:55.036255+09:00",
+  "generated_at": "2026-10-27T14:29:56.688592+09:00",
   "article_count": 24,
-  "sig": "f487de74c0a9"
+  "sig": "f58b9cab47e1"
  },
  "items": [
+  {
+   "id": "6298d29631b06c07",
+   "url": "https://straightpress.jp/20261027/1748105",
+   "title_original": "京都・河原町通りに、最新＆最旬の商品ラインナップを展開するグローバル旗艦店「ユニクロ 京都」OPEN！",
+   "source": "STRAIGHT PRESS",
+   "image": "https://straightpress.jp/wp-content/uploads/2026/10/sato202610260900-300x225.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T14:00:31+00:00",
+   "title_ja": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」が開業",
+   "summary_ja": "京都の河原町通りに、最新かつ最旬の商品ラインナップを取り揃えたグローバル旗艦店「ユニクロ 京都」が新たにオープンしました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1ffb145680c73142",
+   "url": "https://report.iko-yo.net/articles/35169",
+   "title_original": "ユニクロの服にモンチッチ刺繍！全14種から選べて兄弟やお友達の服の見分けにも",
+   "source": "いこーよニュース",
+   "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35294/normal.jpg?1793077031",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T05:02:32+00:00",
+   "title_ja": "ユニクロの服にモンチッチの刺繍ができるサービスが登場",
+   "summary_ja": "ユニクロの服にモンチッチの刺繍を入れるサービスが開始されました。全14種類から選ぶことができ、子どもの服の目印としても活用できます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c96bfa026125a6e3",
+   "url": "https://report.iko-yo.net/articles/35164/digest",
+   "title_original": "モンチッチがのぞく限定ドーナツ！ベビチッチ初イベント＆ユニクロも｜秋コラボ9選",
+   "source": "いこーよニュース",
+   "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35289/normal.png?1793075414",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T04:33:15+00:00",
+   "title_ja": "モンチッチの限定ドーナツやユニクロコラボが秋のイベントに登場",
+   "summary_ja": "モンチッチの初イベントや限定ドーナツに加え、ユニクロとのコラボレーションなど、秋のおすすめ企画情報が紹介されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e5cf4bd0dc138725",
+   "url": "https://www.vancouverisawesome.com/business/japanese-retailer-downtown-vancouver-flagship-nordstrom--12940105",
+   "title_original": "Japanese retailer announces downtown Vancouver flagship in former Nordstrom space",
+   "source": "Vancouver Is Awesome",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T03:15:00+00:00",
+   "title_ja": "バンクーバー中心部の元ノードストローム跡地にフラッグシップ店",
+   "summary_ja": "日本の大手アパレルブランドが、バンクーバー中心街の旧ノードストロームが入居していたスペースに新たな大型店舗を出店すると発表しました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "5cf6b18a0523105b",
+   "url": "https://cj.my/160006/sunway-ipoh-mall-is-80-leased-with-uniqlo-and-muji-signed",
+   "title_original": "Sunway Ipoh Mall is 80% leased, with Uniqlo and Muji signed",
+   "source": "Citizens Journal",
+   "image": "https://cj.my/wp-content/uploads/2026/10/sunway_mall_ipoh_02.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T02:48:04+00:00",
+   "title_ja": "マレーシアのサンウェイ・イポー・モールに出店へ",
+   "summary_ja": "マレーシア国内の商業施設サンウェイ・イポー・モールにおいて、テナント契約が8割に達し、ユニクロと無印良品の出店が決定しました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "973840ae3460453c",
    "url": "https://www.ctvnews.ca/vancouver/article/uniqlo-to-join-aritzia-simons-in-vancouvers-former-nordstrom-space",
@@ -286,7 +366,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9f04363cae43a35f",
@@ -300,6 +380,22 @@
    "title_ja": "ユニクロがカナダ・バンクーバーの中心部に新店舗を出店へ",
    "summary_ja": "ユニクロがカナダのバンクーバー中心部に出店することが分かりました。現地主要都市のダウンタウン地区への出店により、北米エリアにおけるブランドの認知度向上と顧客層の拡大を図ります。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "06b559a90567cc1c",
+   "url": "https://ca.news.yahoo.com/uniqlo-opening-old-nordstrom-building-005938793.html",
+   "title_original": "Uniqlo opening in old Nordstrom building",
+   "source": "Yahoo News Canada",
+   "image": "https://s.yimg.com/lo/mysterio/api/e64e5b687b9f626010c677f70de12cd742f5211b9e525daa4f864622de06b870/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.globalnews.com%2F00f535f7d69f3a39e288c4741a8f6005.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T00:59:38+00:00",
+   "title_ja": "ユニクロが旧ノードストロームのビルへ新規出店へ",
+   "summary_ja": "商業施設として使用されていた旧ノードストロームの建物に、ユニクロが新しく店舗をオープンする計画が進められています。",
+   "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -321,6 +417,22 @@
    "has_detail": true
   },
   {
+   "id": "f4cecd4dacf3e800",
+   "url": "https://geosirius.ifz.ru/uniqlo-finally-taking-old-nordstrom-space-changes-downtown-vancouver",
+   "title_original": "Why Uniqlo Finally Taking Over The Old Nordstrom Space Changes Downtown Vancouver Forever",
+   "source": "ИФЗ РАН",
+   "image": "https://globalnews.ca/wp-content/uploads/2015/01/tok401-47_2010_141232_high.jpg?quality=65&strip=all",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T23:25:04+00:00",
+   "title_ja": "旧ノードストロームへのユニクロ進出がダウンタウンに変革",
+   "summary_ja": "バンクーバー中心部の旧ノードストロームの店舗跡地へユニクロが新たに進出することが、地域の商業環境に大きな影響を与えると伝えています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "406eca5e288612b8",
    "url": "https://www.sankei.com/article/20261027-74L6PZ3UWBP4NAVWMPZYH4DCE4/photo/FUMI7AYPWJKONBFUF55OMTSZ5Y",
    "title_original": "ジーユー×ポケモン、新作「スペシャルコレクション」",
@@ -334,7 +446,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "30a0b3dc0687d591",
@@ -366,7 +478,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "39cc2e6193d6bc82",
@@ -414,6 +526,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e6508f1d8bb9dd95",
+   "url": "https://retail-insider.com/retail-insider/2026/10/uniqlo-to-open-approximately-37000-square-foot-flagship-at-vancouvers-cf-pacific-centre",
+   "title_original": "UNIQLO to Open Flagship at Vancouver’s CF Pacific Centre",
+   "source": "Retail Insider",
+   "image": "https://retail-insider.com/wp-content/uploads/2026/10/image-72.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-26T17:44:56+00:00",
+   "title_ja": "カナダ・バンクーバーに大型店をオープンへ",
+   "summary_ja": "ユニクロがバンクーバーのショッピングセンター「CFパシフィック・センター」にフラッグシップ店舗を開設する計画です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -686,7 +814,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94b665b190316305",
@@ -6543,134 +6671,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "fde36660bba26548",
-   "url": "https://www.tetsudo.com/event/61938",
-   "title_original": "京成 ミーナ津田沼 ユニクロコラボグッズ 販売（2026年10月16日～）",
-   "source": "Tetsudo.com（鉄道コム）",
-   "image": "https://images.tetsudo.com/news/20261008/site-1334792-1-a-006.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T01:30:00+00:00",
-   "title_ja": "京成電鉄とミーナ津田沼のユニクロがコラボグッズを10月16日より販売",
-   "summary_ja": "京成電鉄とミーナ津田沼にあるユニクロがコラボレーションした限定グッズが、2026年10月16日から販売開始となります。鉄道ファンや地元の利用客に向けた注目の企画となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a83e7e22c4fb7a36",
-   "url": "https://www.qatar-tribune.com/article/258474/business/uniqlo-sales-surge-17-to-record",
-   "title_original": "Uniqlo sales surge 17% to record",
-   "source": "Qatar Tribune",
-   "image": "https://www.qatar-tribune.com/theme_watanqataren/images/no-image.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-11T00:00:00+00:00",
-   "title_ja": "ユニクロの売上高が17％増加し過去最高を記録　好調な業績が明らかに",
-   "summary_ja": "ユニクロの売上高が17％増加し、過去最高を記録したことが発表されました。グローバル市場における需要の高さや好調な販売動向が全体の売上を押し上げ、業績のさらなる拡大を示しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "a0a48bde8062db2c",
-   "url": "https://abc7news.com/post/clothing-giant-uniqlo-returns-downtown-san-francisco-largest-flagship-store-west-coast/19925921",
-   "title_original": "Clothing giant UNIQLO returns to downtown San Francisco with largest flagship store on West Coast",
-   "source": "ABC7 Bay Area",
-   "image": "https://cdn.abcotvs.com/dip/images/19928268_101026-kgo-uniqlo-img.jpg?w=1600",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T23:49:57+00:00",
-   "title_ja": "ユニクロが米サンフランシスコ中心部に再進出、西海岸最大の旗艦店を出店",
-   "summary_ja": "衣料品大手のユニクロが、アメリカ・サンフランシスコのダウンタウンに再び店舗を構えることが分かりました。米国西海岸において最大規模となる旗艦店としてオープンする予定です。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "84f0cf4f93378835",
-   "url": "https://jakartaglobe.id/business/uniqlo-owners-record-profit-fueled-by-southeast-asia-and-western-markets",
-   "title_original": "Uniqlo Owner's Record Profit Fueled by Southeast Asia and Western Markets",
-   "source": "Jakarta Globe",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T11:54:00+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益、東南アジアや欧米が牽引",
-   "summary_ja": "ユニクロを展開するファーストリテイリングが、東南アジアや欧米などの海外市場での好調な業績に支えられ、過去最高益を達成したことが報じられています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "9a7e2fa728f5d8bd",
-   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/broadcast-schedule-kei-nishikori-exhibition-match-20261011/blta0c8ed7ed4de9881",
-   "title_original": "「LifeWear Day TOKYO 2026 with 錦織圭」のテレビ放送/ネット配信予定・視聴方法は？フェデラーら参加のエキシビション",
-   "source": "Goal.com",
-   "image": "https://assets.goal.com/images/v3/bltbd4a6d920c5abb82/20261011-nishikori-wowow.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T09:37:50.277000+00:00",
-   "title_ja": "「LifeWear Day TOKYO 2026」の放送予定",
-   "summary_ja": "錦織圭やフェデラーらが参加するエキシビションイベント「LifeWear Day TOKYO 2026」のテレビ放送やネット配信の視聴方法が案内されています。（抜粋なし）",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c1313d852f2af33f",
-   "url": "https://seekingalpha.com/article/4953211-fast-retailing-still-a-buy-after-full-year-earnings-beat",
-   "title_original": "Fast Retailing Stock: Still A 'Buy' After Full-Year Earnings Beat (OTCMKTS:FRCOY)",
-   "source": "Seeking Alpha",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-10T07:14:23+00:00",
-   "title_ja": "ファーストリテイリング通期決算が市場予想超過、投資判断「買い」を維持",
-   "summary_ja": "海外投資メディアによると、ファーストリテイリングの通期決算が市場予想を上回ったことを受け、同社株式に対する投資判断が引き続き「買い」とされています。好調な業績を踏まえた評価がなされています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "5ad086bcabae21eb",
-   "url": "https://www.vietnam.vn/ja/fast-retailing-thuc-day-no-luc-giam-phat-thai-khi-nha-kinh",
-   "title_original": "ファーストリテイリングは、温室効果ガス排出量削減に向けた取り組みを強化している。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/10/1791616262230_s3-1791609717941693541324-21-0-304-541-crop-17916097896022043093073.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T07:06:00+00:00",
-   "title_ja": "ファーストリテイリング、温室効果ガス削減の取り組みを強化",
-   "summary_ja": "ファーストリテイリングが温室効果ガスの排出量削減に向けた取り組みを強化しています。グループ全体で環境負荷の低減を目指し、持続可能な事業活動に向けた施策を推進しています。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2f0a5155bbf4281c",
-   "url": "https://www.sanyonews.jp/article/1966180",
-   "title_original": "熊本駅直結「アミュプラザくまもと」きょうから通常営業 ユニクロ「お客様と従業員の安全を最優先」 マクドナルドなど一部店舗は臨時休業中【令和8年熊本地震】",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/d/4/b/6/d4b683bfa9489f1194f50beacc476001_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-10T07:00:00+00:00",
-   "title_ja": "熊本駅直結のアミュプラザくまもとが通常営業を再開",
-   "summary_ja": "地震の影響を受けていたアミュプラザくまもとが通常営業を再開し、ユニクロも営業を再開しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
