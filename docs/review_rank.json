@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:05:05.074645+09:00",
+ "updated_at": "2026-10-27T11:50:02.589909+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2902,
+ "catalog_size": 2901,
  "count": 64,
  "items": [
   {
@@ -201,48 +201,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E448034-000",
-   "rank": 8,
-   "brand": "ユニクロ",
-   "name": "感動ジャケット",
-   "genders": [
-    "メンズ"
-   ],
-   "price": 6990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/448034/item/jpgoods_69_448034_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E448034-000/00?colorDisplayCode=69",
-   "rating": 4.5,
-   "reviews": 4791,
-   "reviews7": 20,
-   "capped": false,
-   "prev7": 33,
-   "mentions7": 11,
-   "mention_titles": [
-    {
-     "t": "ユニクロ、11月10日から一部値上げ 感動ジャケットは7990円、靴下のまとめ買いも終了へ",
-     "s": "東京報道新聞",
-     "u": "https://tokyonewsmedia.com/archives/29575"
-    },
-    {
-     "t": "ユニクロ、11・10より値上げを発表 「感動ジャケット」6990円→7990円 ソックス“まとめ買い”販売も終了へ",
-     "s": "山陽新聞デジタル｜さんデジ",
-     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWVhkRzJmX0Zpdl9sZS1RbHFycC1sZlRYbG53Z09Wa2xSS1ROTjdnWFBoU2t0TTJFY2F2WFpNb1RFZmhnbnBnNHNvYWpJNHZtZ0EyajNxODdIWUpvNzZpenY2NXdLVFJtdnVxSXIyNGpUbU1QNklXMQ?oc=5"
-    },
-    {
-     "t": "関連写真 | ユニクロ、11・10より値上げを発表 「感動ジャケット」6990円→7990円 ソックス“まとめ買い”販売も終了へ",
-     "s": "オリコンニュース",
-     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1va2NQN3ZWWnU2SVAzSWVtcHVXVmtrU1VpdUI3a2FEcEhNZ2g4U2RyQWNVLTJVM3RBM2dSZ1ZwYzZQQWxoc2ZzRlgtVzJxLVU1TXlkR3dVTkI2YWxuVU56ampvX1dEZlR0b3c?oc=5"
-    }
-   ],
-   "score": 75,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E465751-000",
-   "rank": 9,
+   "rank": 8,
    "brand": "ユニクロ",
    "name": "ソフトリブクルーネックT",
    "genders": [
@@ -266,7 +226,7 @@
   },
   {
    "key": "GU:E361035-000",
-   "rank": 10,
+   "rank": 9,
    "brand": "GU",
    "name": "コージーメルトン3Dバレルパンツ",
    "genders": [
@@ -290,7 +250,7 @@
   },
   {
    "key": "UQ:E480785-000",
-   "rank": 11,
+   "rank": 10,
    "brand": "ユニクロ",
    "name": "エアリズムシェイパーショーツ/スムースタイプ",
    "genders": [
@@ -314,7 +274,7 @@
   },
   {
    "key": "GU:E361609-000",
-   "rank": 12,
+   "rank": 11,
    "brand": "GU",
    "name": "ソフトシアーボーダークルーネックT(長袖)",
    "genders": [
@@ -338,7 +298,7 @@
   },
   {
    "key": "GU:E361181-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "GU",
    "name": "ソフトシアーカーディガン",
    "genders": [
@@ -362,7 +322,7 @@
   },
   {
    "key": "UQ:E479000-000",
-   "rank": 14,
+   "rank": 13,
    "brand": "ユニクロ",
    "name": "バギーバレルレッグジーンズ",
    "genders": [
@@ -387,7 +347,7 @@
   },
   {
    "key": "UQ:E482281-000",
-   "rank": 15,
+   "rank": 14,
    "brand": "ユニクロ",
    "name": "EZYワイドストレートジーンズ",
    "genders": [
@@ -411,7 +371,7 @@
   },
   {
    "key": "UQ:E484855-000",
-   "rank": 16,
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "スウェットストレートパンツ/丈短め",
    "genders": [
@@ -436,7 +396,7 @@
   },
   {
    "key": "GU:E360897-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "GU",
    "name": "パッファーボストンバッグ",
    "genders": [
@@ -460,7 +420,7 @@
   },
   {
    "key": "UQ:E473945-000",
-   "rank": 18,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "エアリズムシームレスショーツ/ジャストウエスト",
    "genders": [
@@ -484,7 +444,7 @@
   },
   {
    "key": "GU:E360647-000",
-   "rank": 19,
+   "rank": 18,
    "brand": "GU",
    "name": "3Dバレルジーンズ",
    "genders": [
@@ -509,7 +469,7 @@
   },
   {
    "key": "UQ:E485735-000",
-   "rank": 20,
+   "rank": 19,
    "brand": "ユニクロ",
    "name": "スウェットオーバーサイズフルジップパーカ",
    "genders": [
@@ -534,7 +494,7 @@
   },
   {
    "key": "GU:E361435-000",
-   "rank": 21,
+   "rank": 20,
    "brand": "GU",
    "name": "KIDSウルトラストレッチスキニージーンズ",
    "genders": [
@@ -558,7 +518,7 @@
   },
   {
    "key": "UQ:E447780-000",
-   "rank": 22,
+   "rank": 21,
    "brand": "ユニクロ",
    "name": "感動パンツ",
    "genders": [
@@ -582,7 +542,7 @@
   },
   {
    "key": "GU:E360654-000",
-   "rank": 23,
+   "rank": 22,
    "brand": "GU",
    "name": "タックワイドパンツ",
    "genders": [
@@ -601,6 +561,46 @@
    "mention_titles": [],
    "score": 45,
    "momentum": 1.21,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E448034-000",
+   "rank": 23,
+   "brand": "ユニクロ",
+   "name": "感動ジャケット",
+   "genders": [
+    "メンズ"
+   ],
+   "price": 6990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/448034/item/jpgoods_69_448034_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E448034-000/00?colorDisplayCode=69",
+   "rating": 4.5,
+   "reviews": 4791,
+   "reviews7": 20,
+   "capped": false,
+   "prev7": 33,
+   "mentions7": 5,
+   "mention_titles": [
+    {
+     "t": "ユニクロ、11月10日から一部値上げ 感動ジャケットは7990円、靴下のまとめ買いも終了へ",
+     "s": "東京報道新聞",
+     "u": "https://tokyonewsmedia.com/archives/29575"
+    },
+    {
+     "t": "ユニクロ、11・10より値上げを発表 「感動ジャケット」6990円→7990円 ソックス“まとめ買い”販売も終了へ",
+     "s": "山陽新聞デジタル｜さんデジ",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWVhkRzJmX0Zpdl9sZS1RbHFycC1sZlRYbG53Z09Wa2xSS1ROTjdnWFBoU2t0TTJFY2F2WFpNb1RFZmhnbnBnNHNvYWpJNHZtZ0EyajNxODdIWUpvNzZpenY2NXdLVFJtdnVxSXIyNGpUbU1QNklXMQ?oc=5"
+    },
+    {
+     "t": "関連写真 | ユニクロ、11・10より値上げを発表 「感動ジャケット」6990円→7990円 ソックス“まとめ買い”販売も終了へ",
+     "s": "オリコンニュース",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1va2NQN3ZWWnU2SVAzSWVtcHVXVmtrU1VpdUI3a2FEcEhNZ2g4U2RyQWNVLTJVM3RBM2dSZ1ZwYzZQQWxoc2ZzRlgtVzJxLVU1TXlkR3dVTkI2YWxuVU56ampvX1dEZlR0b3c?oc=5"
+    }
+   ],
+   "score": 45,
+   "momentum": 1.01,
    "new": false,
    "rising": false
   },
@@ -1142,8 +1142,48 @@
    "rising": true
   },
   {
-   "key": "GU:E359422-000",
+   "key": "UQ:E488861-000",
    "rank": 45,
+   "brand": "ユニクロ",
+   "name": "ボディスーツ",
+   "genders": [
+    "キッズ"
+   ],
+   "price": 790,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488861/item/goods_32_488861_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488861-000/00?colorDisplayCode=32",
+   "rating": 4.3,
+   "reviews": 8,
+   "reviews7": 1,
+   "capped": false,
+   "prev7": 0,
+   "mentions7": 4,
+   "mention_titles": [
+    {
+     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種（インサイド）",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/1c52e16c33eae454be1d32d99c943dc9d5170491"
+    },
+    {
+     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 1枚目の写真・画像",
+     "s": "インサイド",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ieVo1aVhycGRyRjR0alQ3dHE3ODB6ODJiTkNWRnBqc0tnVVFEajlHdno3a2VGdy11Y0k0NHkxMlV1dGhCUWtfMWFwbXNDWDk2RFdaeXZRQnVEMWZNUVlRUS12MXp3anRLMFpBVEswWFV6QWhEZkZBb0hn?oc=5"
+    },
+    {
+     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 2枚目の写真・画像",
+     "s": "インサイド",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sYzFza1JMdWwzWnltMU05al9QZTR6blBaV1VMTmpTWVVfSnZZZ2pJZTRXMzkxTVNXNmtqOVRraVBNUU1xQkFGcTlKTzhOdnFucUc3V2wyeTJWUkhhc09jWWRETHFBY2FzblZKalVDV1RMNEJidUtaSk1R?oc=5"
+    }
+   ],
+   "score": 21,
+   "momentum": 1.25,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E359422-000",
+   "rank": 46,
    "brand": "GU",
    "name": "KIDSドライワイドジップジョガーパンツ",
    "genders": [
@@ -1167,7 +1207,7 @@
   },
   {
    "key": "UQ:E474860-000",
-   "rank": 46,
+   "rank": 47,
    "brand": "ユニクロ",
    "name": "エアリズムウルトラストレッチセット",
    "genders": [
@@ -1191,7 +1231,7 @@
   },
   {
    "key": "GU:E361529-000",
-   "rank": 47,
+   "rank": 48,
    "brand": "GU",
    "name": "KIDS 3Dバレルジーンズ",
    "genders": [
@@ -1210,46 +1250,6 @@
    "mention_titles": [],
    "score": 16,
    "momentum": 1.11,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E488861-000",
-   "rank": 48,
-   "brand": "ユニクロ",
-   "name": "ボディスーツ",
-   "genders": [
-    "キッズ"
-   ],
-   "price": 790,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488861/item/goods_32_488861_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488861-000/00?colorDisplayCode=32",
-   "rating": 4.3,
-   "reviews": 8,
-   "reviews7": 1,
-   "capped": false,
-   "prev7": 0,
-   "mentions7": 3,
-   "mention_titles": [
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種（インサイド）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/1c52e16c33eae454be1d32d99c943dc9d5170491"
-    },
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 1枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ieVo1aVhycGRyRjR0alQ3dHE3ODB6ODJiTkNWRnBqc0tnVVFEajlHdno3a2VGdy11Y0k0NHkxMlV1dGhCUWtfMWFwbXNDWDk2RFdaeXZRQnVEMWZNUVlRUS12MXp3anRLMFpBVEswWFV6QWhEZkZBb0hn?oc=5"
-    },
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 2枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sYzFza1JMdWwzWnltMU05al9QZTR6blBaV1VMTmpTWVVfSnZZZ2pJZTRXMzkxTVNXNmtqOVRraVBNUU1xQkFGcTlKTzhOdnFucUc3V2wyeTJWUkhhc09jWWRETHFBY2FzblZKalVDV1RMNEJidUtaSk1R?oc=5"
-    }
-   ],
-   "score": 16,
-   "momentum": 1.25,
    "new": false,
    "rising": false
   },
