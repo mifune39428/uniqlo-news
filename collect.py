@@ -31,6 +31,7 @@ sys.path.insert(0, BASE_DIR)
 import llm_providers  # noqa: E402  （.env 読み込みより前でよい。キーは呼び出し時に参照される）
 import review_rank  # noqa: E402
 import sns_buzz  # noqa: E402
+import tvcm  # noqa: E402
 
 FEEDS_PATH = os.path.join(BASE_DIR, "feeds.json")
 OUTPUT_PATH = os.path.join(BASE_DIR, "docs", "articles.json")
@@ -1383,6 +1384,8 @@ def main() -> int:
                                  lambda: review_rank.build_review_rank(
                                      fetched, catalog if catalog_complete else None))
     buzz_payload = run_ranking("🔥BuZZ", sns_buzz.OUTPUT_PATH, lambda: sns_buzz.build_sns_buzz(catalog))
+    # 放映中のテレビCM（トップのいちばん上に出す）。読めなかった回は前回のものを使う。
+    run_ranking("📺テレビCM", tvcm.OUTPUT_PATH, lambda: tvcm.build_tvcm(merged))
 
     merged = [to_public(item) for item in merged]
     digest = build_digest(merged, buzz_payload, review_payload, existing.get("digest"))

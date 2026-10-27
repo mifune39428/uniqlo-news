@@ -1,0 +1,168 @@
+{
+ "updated_at": "2026-10-27T14:24:02.316139+09:00",
+ "criteria": [
+  "ユニクロ公式YouTubeのCM動画と、公式のプレスリリース・ニュースの「新CM放映」の発表から集めています。",
+  "公式発表やニュースでテレビCMと確かめられたもの、または公式のCM動画が10万回以上再生されているものを載せています。",
+  "放送の終了日は、発表されていればその日まで。ふつうは発表されないので、CM動画の再生回数の伸びが1週間止まったら放送が終わったとみなして外します。伸びの記録が足りないうちは開始から8週間、伸び続けていても最長16週間で外します。"
+ ],
+ "items": [
+  {
+   "key": "GU::なんでもいいけどどうでもよくない",
+   "brand": "GU",
+   "product": "",
+   "name": "なんでもいいけど、どうでもよくない",
+   "talents": [],
+   "song": "スーダラ節",
+   "start": "2026-10-23",
+   "until": "2026-12-18",
+   "until_reason": "推定",
+   "tv_confirmed": true,
+   "video_id": "",
+   "views": 0,
+   "url": "https://prtimes.jp/main/html/rd/p/000000300.000011182.html",
+   "image": "https://prcdn.freetls.fastly.net/release_image/11182/300/11182-300-04918ce1e96d2e204726146ad9330184-1995x543.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "sources": [
+    {
+     "t": "GUが「スーダラ節」に乗せた新CMを開始 ファッションの自由描く",
+     "u": "https://prtimes.jp/main/html/rd/p/000000300.000011182.html",
+     "k": "ニュース"
+    }
+   ]
+  },
+  {
+   "key": "ユニクロ:パフテック:lifeとwear嘘だ",
+   "brand": "ユニクロ",
+   "product": "パフテック",
+   "name": "LifeとWear/嘘だ！",
+   "talents": [
+    "綾瀬はるか"
+   ],
+   "song": "",
+   "start": "2026-10-20",
+   "until": "2026-12-15",
+   "until_reason": "推定",
+   "tv_confirmed": true,
+   "video_id": "FJxvNCYLcfw",
+   "views": 8059899,
+   "url": "https://www.youtube.com/watch?v=FJxvNCYLcfw",
+   "image": "https://i.ytimg.com/vi/FJxvNCYLcfw/hqdefault.jpg",
+   "sources": [
+    {
+     "t": "綾瀬はるか出演のユニクロ「パフテック」新CMが放映",
+     "u": "https://news.yahoo.co.jp/articles/d65f8b0dfbb123045f1183befecbfc85ee827952",
+     "k": "ニュース"
+    }
+   ]
+  },
+  {
+   "key": "ユニクロ:ヒートテック:lifeとwearヒートテックと生きていく",
+   "brand": "ユニクロ",
+   "product": "ヒートテック",
+   "name": "LifeとWear/ヒートテックと生きていく",
+   "talents": [
+    "綾瀬はるか"
+   ],
+   "song": "桑田佳祐『平和の街』",
+   "start": "2026-10-05",
+   "until": "2026-11-30",
+   "until_reason": "推定",
+   "tv_confirmed": true,
+   "video_id": "J9jWRwCp7qg",
+   "views": 12222966,
+   "url": "https://www.youtube.com/watch?v=J9jWRwCp7qg",
+   "image": "https://i.ytimg.com/vi/J9jWRwCp7qg/hqdefault.jpg",
+   "sources": [
+    {
+     "t": "極暖ヒートテックカシミヤブレンドに新色登場2026年ヒートテックコレクション10月5日より新CM放映開始／10月中旬からヒートテックラッピングもスタート  - UNIQLO ユニクロ",
+     "u": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2026/10/2026105cm10.html",
+     "k": "公式発表"
+    }
+   ]
+  },
+  {
+   "key": "ユニクロ:uniqlokids:スフレヤーンニット",
+   "brand": "ユニクロ",
+   "product": "UNIQLO KIDS",
+   "name": "スフレヤーンニット",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-30",
+   "until": "2026-11-25",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "vVhJouBMti8",
+   "views": 412779,
+   "url": "https://www.youtube.com/watch?v=vVhJouBMti8",
+   "image": "https://i.ytimg.com/vi/vVhJouBMti8/hqdefault.jpg",
+   "sources": []
+  },
+  {
+   "key": "ユニクロ:フリース:暖かいって幸せだ",
+   "brand": "ユニクロ",
+   "product": "フリース",
+   "name": "暖かいって、幸せだ",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-27",
+   "until": "2026-11-22",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "Yl_qY-RTR0U",
+   "views": 13965375,
+   "url": "https://www.youtube.com/watch?v=Yl_qY-RTR0U",
+   "image": "https://i.ytimg.com/vi/Yl_qY-RTR0U/hqdefault.jpg",
+   "sources": []
+  },
+  {
+   "key": "ユニクロ:スウェット:気づけばいちばん着ている",
+   "brand": "ユニクロ",
+   "product": "スウェット",
+   "name": "気づけば、いちばん着ている",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-17",
+   "until": "2026-11-12",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "V2--V7kysBo",
+   "views": 355789,
+   "url": "https://www.youtube.com/watch?v=V2--V7kysBo",
+   "image": "https://i.ytimg.com/vi/V2--V7kysBo/hqdefault.jpg",
+   "sources": []
+  },
+  {
+   "key": "ユニクロ:スマートパンツ:キマるでもラク篇",
+   "brand": "ユニクロ",
+   "product": "スマートパンツ",
+   "name": "キマる。でも、ラク。篇",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-13",
+   "until": "2026-11-08",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "66JQYZfdaWY",
+   "views": 22912918,
+   "url": "https://www.youtube.com/watch?v=66JQYZfdaWY",
+   "image": "https://i.ytimg.com/vi/66JQYZfdaWY/hqdefault.jpg",
+   "sources": []
+  },
+  {
+   "key": "ユニクロ:メリノカシミヤ:lifeとwear往復書簡",
+   "brand": "ユニクロ",
+   "product": "メリノ・カシミヤ",
+   "name": "LifeとWear/往復書簡",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-13",
+   "until": "2026-11-08",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "WuDwp8R3PAs",
+   "views": 15267068,
+   "url": "https://www.youtube.com/watch?v=WuDwp8R3PAs",
+   "image": "https://i.ytimg.com/vi/WuDwp8R3PAs/hqdefault.jpg",
+   "sources": []
+  }
+ ]
+}

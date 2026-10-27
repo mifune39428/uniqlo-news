@@ -261,6 +261,35 @@
   }
   .rail::-webkit-scrollbar { display: none; }
   .rail .pcard { flex: 0 0 150px; scroll-snap-align: start; }
+
+  /* 放映中のテレビCM（トップのいちばん上） */
+  .cm-head { margin-top: 2px; }
+  .cm-card {
+    flex: 0 0 258px; scroll-snap-align: start; display: flex; flex-direction: column; min-width: 0;
+    background: var(--card); border-radius: 14px; box-shadow: var(--shadow); overflow: hidden;
+  }
+  @media (min-width: 760px) { .cm-card { flex-basis: 300px; } }
+  .cm-shot { position: relative; display: block; aspect-ratio: 16 / 9; background: #111; overflow: hidden; }
+  .cm-thumb { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .cm-thumb.ph { font-size: 40px; }
+  .cm-play {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center;
+    background: rgba(0,0,0,.62); color: #fff; font-size: 16px; padding-left: 3px;
+    -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); pointer-events: none;
+  }
+  .cm-tv {
+    position: absolute; left: 8px; top: 8px; background: var(--accent); color: #fff;
+    font-size: 10.5px; font-weight: 900; letter-spacing: .06em; padding: 2px 7px; border-radius: 5px;
+  }
+  .cm-body { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 2px; }
+  .cm-brand { font-size: 10.5px; font-weight: 800; color: var(--muted); letter-spacing: .04em; }
+  .cm-name { font-size: 14px; font-weight: 800; line-height: 1.5; }
+  .cm-who { font-size: 12px; color: var(--muted); }
+  .cm-when { font-size: 11.5px; font-weight: 800; color: var(--accent); margin-top: 3px; }
+  .cm-when .live { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); margin-right: 5px; vertical-align: 1px; animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .25; } }
+  @media (prefers-reduced-motion: reduce) { .cm-when .live { animation: none; } }
   @media (min-width: 760px) { .rail .pcard { flex-basis: 180px; } }
 
   .pcard {
@@ -383,6 +412,7 @@
     <summary>このサイトについて・出典</summary>
     <p>ユニクロ・GU・ファーストリテイリングに関する国内外のニュースを自動収集し、日本語の見出し・要約・解説を機械生成しています。いずれも原文の翻訳ではありません。正確な内容は必ず出典元の記事をご確認ください。原文そのものを日本語で読みたいときは、各記事の「日本語で原文を読む」からGoogle翻訳が開きます。</p>
     <p>「🔥 BuZZ」は、Yahoo!リアルタイム検索で読めるX（旧Twitter）の投稿数と反応数から、急に伸びている商品と、話題が続いている商品を自動で選んでいます。「⭐ レビュー」は、ユニクロ・GU公式サイトの商品レビュー件数の伸びから順位を付けています。どちらも売上の順位ではありません。価格・発売日・在庫は変わることがあるので、購入の前に公式サイトおよび各店舗の告知をご確認ください。</p>
+    <p>「📺 放映中のテレビCM」は、ユニクロ公式YouTubeのCM動画と、公式のプレスリリース・ニュースの「新CM放映」の発表から自動で集めています。放送の終了日はふつう発表されないため、CM動画の再生回数の伸びが止まったら放送が終わったとみなして外します（発表があればその日まで、伸びの記録が足りないうちは開始から8週間、最長16週間）。実際の放送とずれることがあります。</p>
     <p>「ここ3日のまとめ」は、掲載した記事の見出しと要約をもとにAIが自動で作成しています。</p>
     <p>サムネイルは各媒体が配信データ（RSS・OGP）で公開している画像を、出典と原文リンクを添えて表示しています。記事および画像の著作権は各媒体に帰属します。掲載の停止をご希望の媒体様はリポジトリのIssueよりご連絡ください。</p>
     <p id="sources"></p>
@@ -460,6 +490,46 @@ function animateNext() {
 // 絞り込みをしていない「トップ」の状態か。
 const isHome = () => category === "all" && region === "all" && brand === "all" && !query.trim();
 
+// ---- 放映中のテレビCM（tvcm.json） --------------------------------------
+// 放送期間（start〜until）に入っているかは、見る人の日付で判定する。
+// 自動更新が止まっても、期限を過ぎたCMは出さない。
+let tvcmData = null;
+const jstToday = () => new Intl.DateTimeFormat("sv-SE", { timeZone: "Asia/Tokyo" }).format(new Date());
+const mdDate = iso => { const [, m, d] = iso.split("-").map(Number); return `${m}月${d}日`; };
+const httpOnly = url => /^https?:\/\//.test(url || "") ? url : "";
+
+function cmRailHtml() {
+  const today = jstToday();
+  const items = ((tvcmData && tvcmData.items) || [])
+    .filter(c => c.start <= today && today <= c.until && httpOnly(c.url));
+  if (!items.length) return "";
+  const cards = items.map(c => {
+    const href = escapeHtml(httpOnly(c.url));
+    const img = httpOnly(c.image)
+      ? `<img class="cm-thumb" src="${escapeHtml(c.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-ph="📺">`
+      : `<div class="cm-thumb ph">📺</div>`;
+    // 終了日が発表されているときだけ「〜○月○日」を出す（推定の日付は出さない）。
+    const until = c.until_reason === "発表" ? `〜${mdDate(c.until)}` : "〜";
+    return `
+    <div class="cm-card">
+      <a class="cm-shot" href="${href}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(c.name)} を見る">
+        ${img}
+        ${c.video_id ? '<span class="cm-play">▶</span>' : ""}
+        ${c.tv_confirmed ? '<span class="cm-tv">TVCM</span>' : ""}
+      </a>
+      <div class="cm-body">
+        <div class="cm-brand">${escapeHtml(c.brand)}${c.product ? ` · ${escapeHtml(c.product)}` : ""}</div>
+        <a class="cm-name clamp2" href="${href}" target="_blank" rel="noopener noreferrer">${escapeHtml(c.name)}</a>
+        ${(c.talents || []).length ? `<div class="cm-who">出演 ${c.talents.map(escapeHtml).join("、")}</div>` : ""}
+        <div class="cm-when"><span class="live"></span>${mdDate(c.start)}${until} 放映中</div>
+      </div>
+    </div>`;
+  }).join("");
+  return `
+  <div class="sec-head cm-head"><h3>📺 放映中のテレビCM<small>${items.length}本</small></h3></div>
+  <div class="rail">${cards}</div>`;
+}
+
 // ================================================================ 画面の組み立て
 
 function apply() {
@@ -487,7 +557,8 @@ function apply() {
   }
   // トップでは「先頭の記事 → まとめ → 話題の商品 → レビュー人気 → 最新ニュース」の順に並べる。
   const home = isHome();
-  list.innerHTML = `<div id="leadSlot"></div>`
+  // いま流れているテレビCMは、トップのいちばん上に。
+  list.innerHTML = (home ? cmRailHtml() : "") + `<div id="leadSlot"></div>`
     + (home ? digestHtml() + buzzRailHtml() + reviewRailHtml()
               + `<div class="sec-head"><h3>最新ニュース</h3></div>` : "")
     + `<div class="news" id="news"></div>`;
@@ -905,11 +976,12 @@ function restoreScroll(view) {
 
 async function load() {
   try {
-    const [res, buzzRes, reviewRes] = await Promise.all([
+    const [res, buzzRes, reviewRes, cmRes] = await Promise.all([
       fetch(`articles.json?t=${Date.now()}`, { cache: "no-store" }),
       // 商品の順位が読めなくてもニュースは出す。
       fetch(`buzz.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
       fetch(`review_rank.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
+      fetch(`tvcm.json?t=${Date.now()}`, { cache: "no-store" }).catch(() => null),
     ]);
     const data = await res.json();
     const firstLoad = lastUpdated === null;
@@ -936,6 +1008,7 @@ async function load() {
     }
     buzzData = buzzRes && buzzRes.ok ? await buzzRes.json().catch(() => null) : null;
     reviewData = reviewRes && reviewRes.ok ? await reviewRes.json().catch(() => null) : null;
+    tvcmData = cmRes && cmRes.ok ? await cmRes.json().catch(() => null) : null;
     digestData = data.digest || null;
     all = window.NEWS_ITEMS = data.items || [];
     document.getElementById("updated").textContent = data.updated_at ? `${relative(data.updated_at)}に更新` : "";
