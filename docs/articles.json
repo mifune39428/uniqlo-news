@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T01:59:33.233535+09:00",
+ "updated_at": "2026-10-28T06:33:38.880568+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -99,6 +99,7 @@
   "PR Newswire Canada",
   "PR TIMES",
   "Passionate In Marketing",
+  "Philstar Life",
   "Pluang",
   "Pokde.Net",
   "Popbee",
@@ -227,50 +228,66 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 247,
+ "detail_count": 249,
  "digest": {
-  "headline": "ファーストリテイリング最高益、ユニクロが靴下の値上げを撤回",
+  "headline": "ファーストリテイリング最高益、ユニクロは靴下の値上げ撤回",
   "points": [
    {
-    "text": "ファーストリテイリングの売上高が3.4兆円規模に達し、売上高・純利益で過去最高を更新しました。",
+    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、世界2位のH&Mに迫る規模へと成長しています。",
     "ids": [
      "bc733aee5ffd192e",
      "473a86e3adefd294"
     ]
    },
    {
-    "text": "ユニクロは生活必需品への配慮を理由に、予定していた靴下の値上げやまとめ買い割引終了の方針を撤回しました。",
+    "text": "ユニクロは生活必需品への配慮から靴下の値上げ方針を撤回し、まとめ買い割引の継続を発表しました。",
     "ids": [
      "7b146088b29adfc3",
-     "78659a57693c0ba8",
-     "7f458c2cea042ece"
+     "efe1a8c5a8b00564",
+     "c54f13d3ad5fa0e2"
     ]
    },
    {
-    "text": "京都にグローバル旗艦店「ユニクロ 京都」が開業したほか、カナダ・バンクーバーへの出店計画も発表されました。",
+    "text": "京都の河原町通りへのグローバル旗艦店オープンや、カナダ・バンクーバーへの出店計画など国内外で店舗展開が進んでいます。",
     "ids": [
      "6298d29631b06c07",
      "5da6c6f51e26af8f"
     ]
    },
    {
-    "text": "GUは「ちいかわ」コラボの先行予約販売を11月2日より開始すると発表しました。",
+    "text": "GUは人気キャラクター「ちいかわ」コラボレーションアイテムの先行予約販売を11月2日より開始すると発表しました。",
     "ids": [
      "886446e4b9c576f8"
     ]
    },
    {
-    "text": "ユニクロ 50色ソックスはXで3日に76件投稿されました。",
+    "text": "SNSでは「ユニクロ 50色ソックス」がXで3日に83件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-25T02:08:29.553889+09:00",
-  "generated_at": "2026-10-28T02:08:34.332112+09:00",
+  "from": "2026-10-25T06:39:23.272150+09:00",
+  "generated_at": "2026-10-28T06:39:30.627220+09:00",
   "article_count": 24,
-  "sig": "1dde040fdf33"
+  "sig": "48a88de35f9a"
  },
  "items": [
+  {
+   "id": "827ba79a84a1f2be",
+   "url": "https://philstarlife.com/style/500152-peace-for-all-uniqlo",
+   "title_original": "Peace for All: The power of a T-shirt",
+   "source": "Philstar Life",
+   "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/Fashion%20and%20Beauty/1-2026-Oct-28/pam%20630.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T21:06:05+00:00",
+   "title_ja": "ユニクロのチャリティTシャツプロジェクトの取り組み",
+   "summary_ja": "平和を願うチャリティTシャツプロジェクト「PEACE FOR ALL」の社会的影響力や、1枚のTシャツが持つ力について伝えています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "6298d29631b06c07",
    "url": "https://straightpress.jp/20261027/1748105",
@@ -301,7 +318,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "66e65b586b0864dc",
@@ -317,7 +334,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7b146088b29adfc3",
@@ -413,7 +430,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1f02b493b89b7dbd",
@@ -445,7 +462,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e2cf370e6a5d05e4",
@@ -461,7 +478,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c54f13d3ad5fa0e2",
@@ -573,7 +590,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2d5570ee5584bda9",
@@ -1054,6 +1071,22 @@
    "brand": "GU",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "f90774f4abeaa850",
+   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/U068zQ",
+   "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬試着ルポ。今買ってすぐ着られるベストとカーディガンが狙い目【10月26日発売】",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/8e/8eb574c7-d8a6-4a2c-8fa4-e12060f019ad-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-25T21:00:00+00:00",
+   "title_ja": "GUとエンジニアド ガーメンツの秋冬コラボ商品を試着レビュー",
+   "summary_ja": "10月26日に発売されたGUとエンジニアド ガーメンツによる秋冬コラボコレクションについて、試着した着用感や今すぐ着られるベスト、カーディガンなどの注目商品をレポートしている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "6497d7b99513505b",
@@ -6638,38 +6671,6 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
-  },
-  {
-   "id": "31c67bda1c523c0b",
-   "url": "https://www.wwdjapan.com/articles/2523446",
-   "title_original": "「ユニクロ アンド ジェイ ダブリュー アンダーソン」の2026年秋冬コレクションを発売 アカデミック文化やアートに着想",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-12T07:00:00+00:00",
-   "title_ja": "ユニクロ、アカデミックやアート着想のJWアンダーソン新作発売",
-   "summary_ja": "ユニクロは、「ユニクロ アンド ジェイ ダブリュー アンダーソン」の2026年秋冬コレクションを発売しました。アカデミック文化やアートから着想を得たデザインが特徴です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "9ccd087dfc31dee7",
-   "url": "https://www.wwdjapan.com/articles/2522699",
-   "title_original": "「ユニクロ」のファストリ売上高3兆9633億円 H&Mを抜いて世界2位",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-12T07:00:00+00:00",
-   "title_ja": "ファストリ売上高3兆9633億円、H&M抜き世界2位へ",
-   "summary_ja": "ファーストリテイリングの売上高が3兆9633億円に達し、H&Mを抜いて世界第2位の規模となりました。国内外での堅調な事業拡大が全体の成長をけん引しています。（134文字）",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
   }
  ]
 }
