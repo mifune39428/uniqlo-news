@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T14:25:45.628766+09:00",
+ "updated_at": "2026-10-27T20:13:14.446927+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -16,6 +16,7 @@
   "グループ"
  ],
  "sources": [
+  "- PeopleAsia",
   "36Kr",
   "7NEWS",
   "@DIME アットダイム",
@@ -129,6 +130,7 @@
   "The Fashion Post",
   "The Sole Supplier",
   "The Times Australia",
+  "The Vent Machine -",
   "The Voice of San Francisco",
   "Times Colonist",
   "Traders Union",
@@ -201,7 +203,6 @@
   "山形新聞",
   "山陽新聞",
   "新潟日報",
-  "日刊スポーツ",
   "日本経済新聞",
   "日流ウェブ",
   "日経CNBC online",
@@ -228,48 +229,42 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 249,
+ "detail_count": 248,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高を更新、国内外で出店も加速",
+  "headline": "ファーストリテイリング過去最高益、国内外の出店や新情報が続々",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高が3.4兆円規模に達し、世界2位のH&Mに肉薄。売上高と純利益で過去最高を更新しました。",
+    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、売上高が3.4兆円規模に達してH&Mに肉薄しています。",
     "ids": [
      "bc733aee5ffd192e",
      "473a86e3adefd294"
     ]
    },
    {
-    "text": "国内では京都・河原町通りに「ユニクロ 京都」が開業したほか、熊本の店舗が県内最大規模としてリニューアルオープンしました。",
+    "text": "国内では「ユニクロ 京都」や熊本最大の店舗がオープンしたほか、カナダ・バンクーバー中心部への出店計画も発表されました。",
     "ids": [
      "6298d29631b06c07",
-     "45bade1457be463d"
+     "45bade1457be463d",
+     "5da6c6f51e26af8f"
     ]
    },
    {
-    "text": "海外では、ユニクロが2027年にカナダ・バンクーバー中心部の旧ノードストローム跡地へ新たな旗艦店を出店する計画を発表しました。",
+    "text": "ユニクロは11月10日からの値上げで「感動ジャケット」の価格改定などを実施する一方、ソックスの価格改定は取りやめました。",
     "ids": [
-     "e5cf4bd0dc138725",
-     "5da6c6f51e26af8f",
-     "36687129394efa07"
+     "7f458c2cea042ece",
+     "4ff1c9dc26e91052"
     ]
    },
    {
-    "text": "ユニクロは11月10日から「感動ジャケット」などの一部商品を値上げし、靴下のまとめ買い販売を終了することを明らかにしました。",
-    "ids": [
-     "7f458c2cea042ece"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に19件の投稿がありました。",
+    "text": "SNSでは「GU ポケモンコラボ」が話題となり、Xで3日に98件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-24T14:29:55.036255+09:00",
-  "generated_at": "2026-10-27T14:29:56.688592+09:00",
+  "from": "2026-10-24T20:22:08.420801+09:00",
+  "generated_at": "2026-10-27T20:22:19.352051+09:00",
   "article_count": 24,
-  "sig": "f58b9cab47e1"
+  "sig": "2d5fab81d287"
  },
  "items": [
   {
@@ -286,6 +281,86 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d5648287358a4420",
+   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-26-qMl3nw",
+   "title_original": "【大人のユニクロ】ブルース・リーが「ユニクロ エフ・リッソ」秋冬コラボにいるらしい【10月30日発売】",
+   "source": "UOMO",
+   "image": "https://img.webuomo.jp/article/sns/image/1f/1ff7a3ff-ed48-4213-bf90-0cb91fff6bc4-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T11:00:00+00:00",
+   "title_ja": "「ユニクロ エフ・リッソ」の秋冬コラボが10月30日に発売、ブルース・リーの柄も登場",
+   "summary_ja": "ユニクロが「ユニクロ エフ・リッソ」との秋冬コラボレーション商品を10月30日に発売します。コレクションの中にはブルース・リーをあしらったデザインなども用意されている模様です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4ff1c9dc26e91052",
+   "url": "https://news.yahoo.co.jp/pickup/6600324",
+   "title_original": "ユニクロ ソックス価格改定を中止",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/27/867c8787b0c9c1aa2e77510116928ab362aee22fb37c5e8b21e4cb1a63b48b24.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T09:22:21+00:00",
+   "title_ja": "ユニクロがソックスの価格改定を取りやめ",
+   "summary_ja": "ユニクロが実施を予定していたソックス（靴下）の価格改定を取りやめることが判明しました。当初計画していた価格の見直しを行わず、改定を中止する対応を取っています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "c77506bccde7089c",
+   "url": "https://www.trendhunter.com/trends/limited-run-graphic-tees",
+   "title_original": "Limited-Run Graphic Tees: UNIQLO Canada Brings DRIFTER UTme! to Canada",
+   "source": "Trend Hunter",
+   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/647/647812/647812_1_1200.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T07:53:00+00:00",
+   "title_ja": "ユニクロカナダが限定グラフィックTシャツ「DRIFTER UTme!」を展開",
+   "summary_ja": "ユニクロカナダが、限定グラフィックTシャツコレクション「DRIFTER UTme!」をカナダで展開することが分かりました。現地で限定デザインのTシャツが投入されます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "25be9079e51e9858",
+   "url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDA4My4wMDAxMzQ4OTMuaHRtbA==",
+   "title_original": "PLST(プラステ)、デザイナー村田晴信氏とのコラボレーション第三弾、「PLST×HARUNOBUMURATA」を11月20日（金）発売",
+   "source": "繊研新聞",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T07:19:43+00:00",
+   "title_ja": "PLSTがデザイナー村田晴信とのコラボ第3弾を11月20日発売",
+   "summary_ja": "プラステは、デザイナー村田晴信氏とのコラボレーション第三弾となる「PLST×HARUNOBUMURATA」を11月20日に発売すると発表した。注目の新作アイテムが展開される。",
+   "category": "新商品・コラボ",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2d5570ee5584bda9",
+   "url": "https://peopleasia.ph/uniqlo-introduces-new-line-of-winter-essentials",
+   "title_original": "UNIQLO introduces new line of winter essentials",
+   "source": "- PeopleAsia",
+   "image": "https://peopleasia.ph/wp-content/uploads/2026/10/7.-UNIQLO-brings-together-functional-winter-essentials-smart-layering-and-personalized-styling-to-keep-travelers-warm-comfortable-and-stylish-in-every-cold-weather-destination.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T05:37:54+00:00",
+   "title_ja": "ユニクロが冬の必需品を集めた新たなコレクションラインを発表",
+   "summary_ja": "ユニクロが冬の着こなしに欠かせない基本アイテムを揃えた新たなラインを発表しました。寒さが増す季節に向けた新しいアイテムを展開し、日常のワードローブとして提案しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -334,7 +409,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5cf6b18a0523105b",
@@ -348,6 +423,22 @@
    "title_ja": "マレーシアのサンウェイ・イポー・モールに出店へ",
    "summary_ja": "マレーシア国内の商業施設サンウェイ・イポー・モールにおいて、テナント契約が8割に達し、ユニクロと無印良品の出店が決定しました。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7f1fce1cab08fc74",
+   "url": "https://theventmachine.com/2026/10/27/uniqlo-peace-for-all-for-sg-families/?amp=1",
+   "title_original": "UNIQLO PEACE FOR ALL supports families in Singapore",
+   "source": "The Vent Machine -",
+   "image": "https://i0.wp.com/theventmachine.com/wp-content/uploads/2026/10/UNIQLOs-PEACE-FOR-ALL-Global-Event.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T02:44:35+00:00",
+   "title_ja": "ユニクロの「PEACE FOR ALL」がシンガポールの家庭を支援",
+   "summary_ja": "ユニクロのチャリティプロジェクト「PEACE FOR ALL」が、シンガポールの家庭や家族を支援する取り組みを展開しています。利益還元や寄付を通じて現地の支援を広げる活動となっています。",
+   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -398,7 +489,23 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "37db1599f5fc4779",
+   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_HumanMade_20261027",
+   "title_original": "HUMAN MADEが9.26％高で急伸 ファストリは2日続落、「ユニクロ」はソックスの価格改定を中止｜「SVT インデックス」13,489ポイント（10月27日）",
+   "source": "SEVENTIE TWO",
+   "image": "https://www.seventietwo.com/uploads/2026/03/840-19.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T00:00:00+00:00",
+   "title_ja": "ファーストリテイリングが2日続落、ユニクロは靴下の価格改定中止を発表",
+   "summary_ja": "10月27日の株式市場でファーストリテイリングの株価が2日続落しました。あわせて、ユニクロが実施予定だったソックスの価格改定を中止したことなども伝えられています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "552682eb1147b651",
@@ -447,6 +554,22 @@
    "brand": "GU",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "e1cbfe18534eed39",
+   "url": "https://news.yahoo.co.jp/articles/028564968309ff0d15d9914d82c9d75b6bf9fb3a/images/000",
+   "title_original": "【GU】ジーユー、ポケモンとの新作「スペシャルコレクション」 “森の中”をモチーフにフリースやニットジャケットなど8型を展開",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfn0wwjBlRrzHLsSeih_lo-N74qL8UUryRQV3DujHxNKXrFUS9O6kNHMwp5bMD4xXdhRU5axQJlcFIsT-DdQwLZA0MgGznyiZ2jnn2AxCKPj",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T22:20:00+00:00",
+   "title_ja": "GUがポケモンとの新作コレクションを発表。「森の中」テーマに全8型",
+   "summary_ja": "ジーユーが「ポケモン」との最新コラボ「スペシャルコレクション」を発表しました。「森の中」をテーマに掲げ、フリースやニットジャケットなど計8型のアイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "30a0b3dc0687d591",
@@ -6543,134 +6666,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "eff756a48ba0d437",
-   "url": "https://trilltrill.jp/articles/5098287",
-   "title_original": "【冬の定番「UNIQLO（ユニクロ）のヒートテック】極暖ヒートテックカシミヤブレンドに新色登場",
-   "source": "TRILL",
-   "image": "https://media.trilltrill.jp/articles/5098287/featured-image.b351a79273dbf638a71ef588c8d5d54f?w=1200",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T18:35:00+00:00",
-   "title_ja": "ユニクロの極暖ヒートテックカシミヤブレンドに新色",
-   "summary_ja": "冬の定番であるユニクロのヒートテックシリーズより、極暖ヒートテックカシミヤブレンドに新たなカラーが登場しました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1a1dfede684d19df",
-   "url": "https://monomax.jp/archives/366705",
-   "title_original": "【ユニクロ】極暖カシミヤに“タイツ”が追加！全身極上防寒を叶える2026年「ヒートテック」新作の進化が凄すぎる",
-   "source": "MonoMax web",
-   "image": "https://monomax.jp/official/wp-content/uploads/2026/10/5_30s_HT_UNIQLO_0928.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T13:00:17+00:00",
-   "title_ja": "ユニクロが2026年ヒートテック新作を発表し極暖カシミヤタイツを追加",
-   "summary_ja": "ユニクロの2026年「ヒートテック」新作として、極暖カシミヤ素材のタイツが新たに追加され、全身の防寒を叶えるラインナップが拡充されたことが報じられた。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "997b4ec2e48f6cd6",
-   "url": "https://news.yahoo.co.jp/articles/602ea25fe5d00cd78548a904ffac335d8d90c9dd/images/000",
-   "title_original": "現役引退のテニス錦織圭とユニクロ柳井正社長、１６年前の初会食を息子が回想「もっと食べなさい」 (デイリースポーツ)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXu68h2JlunDUOy_MeRiinx4WF8W8Nqnsdf8uhVzlIZ-KWLN48kaI4SRAv1QdVP_beyIVMWi6BKaE6gHWZ5v4CqijpPLOqApgySkASZ8SWvt",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T12:21:52+00:00",
-   "title_ja": "錦織圭の引退に際し、ファーストリテイリング柳井正社長との思い出を回想",
-   "summary_ja": "現役を引退したテニス選手の錦織圭について、ファーストリテイリングの柳井正社長との16年前の初会食の思い出が語られました。",
-   "category": "その他",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "4e841a0694b4dd41",
-   "url": "https://www.vietnam.vn/en/uniqlo-and-jw-anderson-thu-dong-2026-cam-hung-tu-nghe-thuat-san-khau",
-   "title_original": "Uniqlo and JW Anderson Fall/Winter 2026: Inspired by theatrical art.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/11/1791720395103_bst_uniqlo_and_jw_anderson_thu_dong_2026_chinh_thuc_ra_mat_tu_ngay_16_10.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-11T12:00:11+00:00",
-   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コラボが発表 演劇美術に着想",
-   "summary_ja": "ユニクロがデザイナーのJWアンダーソンとの2026年秋冬コレクションを発表した。今回のコラボレーションでは演劇美術からインスピレーションを得た独自のデザインが展開される。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "37033d59b09648d3",
-   "url": "https://www.vietnam.vn/ja/uniqlo-and-jw-anderson-thu-dong-2026-cam-hung-tu-nghe-thuat-san-khau",
-   "title_original": "ユニクロとJWアンダーソンの2026年秋冬コレクション：演劇芸術からインスピレーションを得たコレクション。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/11/1791720395103_bst_uniqlo_and_jw_anderson_thu_dong_2026_chinh_thuc_ra_mat_tu_ngay_16_10.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T12:00:11+00:00",
-   "title_ja": "ユニクロとJWアンダーソン、2026年秋冬コレクション発表",
-   "summary_ja": "ユニクロは、演劇芸術からインスピレーションを受けたJWアンダーソンとの2026年秋冬コレクションを発表しました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7e520284d8217354",
-   "url": "https://www.nikkansports.com/m/sports/news/amp/202610110001571.html",
-   "title_original": "【テニス】柳井康治氏、錦織圭との初対面回想 父・正氏は「もっといっぱい食べなさい」",
-   "source": "日刊スポーツ",
-   "image": "https://www.nikkansports.com/sports/news/img/202610110001571-w1300_0.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T11:42:54+00:00",
-   "title_ja": "柳井康治氏がテニス・錦織圭との初対面を回想",
-   "summary_ja": "テニス選手として現役を引退した錦織圭と、ファーストリテイリングの柳井正社長らの初対面時のエピソードが明かされました。",
-   "category": "その他",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "851aa9f03c7e46d6",
-   "url": "https://www.inside-games.jp/article/2026/10/11/189114.html",
-   "title_original": "ユニクロの「おさるのジョージ」パジャマコレクションがキュート！服にはジョージをワッペンでデザイン",
-   "source": "インサイド",
-   "image": "https://www.inside-games.jp/imgs/ogp_f/1790661.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T09:30:03+00:00",
-   "title_ja": "ユニクロから「おさるのジョージ」パジャマが登場 ジョージのワッペンをあしらったデザイン",
-   "summary_ja": "ユニクロから「おさるのジョージ」をモチーフにしたパジャマコレクションが発売されます。ウェアには可愛らしいジョージのワッペンがデザインされた魅力的なラインナップです。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "205cd68fd562018a",
-   "url": "https://news.yahoo.co.jp/articles/425a2e4fdc32ee3e0f335f2f3ac93af9d86114fd",
-   "title_original": "映画の「ちいかわ」たちが可愛すぎ！ユニクロ「ちいかわスウェット」で秋支度。ルームウェアにもいいかも。3990円（LIMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00141710-toushin-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-11T08:31:08+00:00",
-   "title_ja": "ユニクロから映画「ちいかわ」のスウェットが登場 ルームウェアにも使える3990円アイテム",
-   "summary_ja": "ユニクロから映画版「ちいかわ」をモチーフにしたスウェットアイテムが登場します。部屋着としても着用できる可愛らしいデザインに仕上がっており、販売価格は3990円です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
