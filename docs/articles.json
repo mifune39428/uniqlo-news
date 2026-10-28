@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T06:33:38.880568+09:00",
+ "updated_at": "2026-10-28T11:55:22.896186+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -65,6 +65,7 @@
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
+  "ITmedia",
   "Il Sole 24 ORE",
   "Indian Retailer",
   "Inside Halton",
@@ -108,7 +109,6 @@
   "Record China",
   "Retail & Leisure International",
   "Retail Insider",
-  "Retail4growth",
   "SEVENTIE TWO",
   "SPUR（シュプール）",
   "STRAIGHT PRESS",
@@ -154,7 +154,6 @@
   "ad-hoc-news.de",
   "adobo Magazine",
   "anemo（アネモ）",
-  "businessnewsthisweek.com",
   "coki",
   "fashion headline",
   "fashionunited.jp",
@@ -230,48 +229,96 @@
  "count": 400,
  "detail_count": 249,
  "digest": {
-  "headline": "ファーストリテイリング最高益、ユニクロは靴下の値上げ撤回",
+  "headline": "ファーストリテイリング好調、ユニクロは靴下の値上げ撤回を発表",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高・純利益で過去最高を更新し、世界2位のH&Mに迫る規模へと成長しています。",
+    "text": "ファーストリテイリングの売上高が3.4兆円規模に達し、世界2位のH&Mに肉薄しているほか、売上高10兆円を目指す経営課題が注目されています。",
     "ids": [
-     "bc733aee5ffd192e",
-     "473a86e3adefd294"
+     "63fdc78ea5348a77",
+     "bc733aee5ffd192e"
     ]
    },
    {
     "text": "ユニクロは生活必需品への配慮から靴下の値上げ方針を撤回し、まとめ買い割引の継続を発表しました。",
     "ids": [
      "7b146088b29adfc3",
-     "efe1a8c5a8b00564",
-     "c54f13d3ad5fa0e2"
+     "babd8a15229ac1ef",
+     "efe1a8c5a8b00564"
     ]
    },
    {
-    "text": "京都の河原町通りへのグローバル旗艦店オープンや、カナダ・バンクーバーへの出店計画など国内外で店舗展開が進んでいます。",
+    "text": "京都の河原町通りへのグローバル旗艦店オープンや、カナダ・バンクーバー中心部への初出店計画が発表されました。",
     "ids": [
      "6298d29631b06c07",
      "5da6c6f51e26af8f"
     ]
    },
    {
-    "text": "GUは人気キャラクター「ちいかわ」コラボレーションアイテムの先行予約販売を11月2日より開始すると発表しました。",
+    "text": "GUは「ちいかわ」コラボの先行予約販売の実施を発表し、話題を集めています。",
     "ids": [
      "886446e4b9c576f8"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 50色ソックス」がXで3日に83件投稿されています。",
+    "text": "Xで話題のユニクロ 50色ソックスは、直近3日に108件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-25T06:39:23.272150+09:00",
-  "generated_at": "2026-10-28T06:39:30.627220+09:00",
+  "from": "2026-10-25T12:01:03.880905+09:00",
+  "generated_at": "2026-10-28T12:01:05.635385+09:00",
   "article_count": 24,
-  "sig": "48a88de35f9a"
+  "sig": "fbadd743aee1"
  },
  "items": [
+  {
+   "id": "63fdc78ea5348a77",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/28/news038.html",
+   "title_original": "ユニクロ絶好調 「売上高10兆円」が視野に入ったファストリ、柳井氏が挙げる「最大の経営課題」（1/6 ページ）",
+   "source": "ITmedia",
+   "image": "https://image.itmedia.co.jp/business/articles/2610/28/cover_news038.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T07:00:00+00:00",
+   "title_ja": "売上高10兆円を目指すファーストリテイリングが直面する経営課題",
+   "summary_ja": "売上高10兆円の大台が視野に入るなど好業績を続けるファーストリテイリングについて、柳井正会長兼社長が挙げる最大の経営課題と今後の成長戦略のポイントを解説しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "f03fe877478e2e6c",
+   "url": "https://news.yahoo.co.jp/articles/f844f114d3b4e64396ab0edf78b13b9069f3c92c",
+   "title_original": "【ヤフコメで話題】「ユニクロ靴下の値上げ撤回に賛否」「消耗品の価格とブランド戦略」 - 靴下値上げ騒動が映す消費者心理",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T00:59:30+00:00",
+   "title_ja": "ユニクロの靴下値上げ撤回に賛否両論、消耗品の価格設定やブランド戦略が話題に",
+   "summary_ja": "ユニクロが靴下の値上げを撤回したことを受け、ネット上でさまざまな議論を呼んでいる。消耗品の価格維持に対する賛否や、今後のブランド戦略と消費者心理について分析がなされている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fc8427de81696056",
+   "url": "https://news.yahoo.co.jp/articles/d703fc2deab53be237f4d2d82747a4189d6e8a7a",
+   "title_original": "ユニクロのフリースをおしゃれに！平成レトロ空間で人気インフルエンサーたちがお手本コーデを披露（ウォーカープラス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-01451201-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-27T23:00:00+00:00",
+   "title_ja": "ユニクロのフリースを使った秋コーデをインフルエンサーが披露",
+   "summary_ja": "平成レトロな空間を舞台に、人気インフルエンサーたちがユニクロのフリースを取り入れた着こなしを披露しました。定番のフリースアイテムをおしゃれに着こなすためのコーディネート方法が紹介されています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "827ba79a84a1f2be",
    "url": "https://philstarlife.com/style/500152-peace-for-all-uniqlo",
@@ -6622,54 +6669,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "709633147192b69b",
-   "url": "https://www.retail4growth.com/news/uniqlo-expands-presence-with-second-super-large-format-store-in-gurugram-8242",
-   "title_original": "UNIQLO expands presence with second super large format store in Gurugram",
-   "source": "Retail4growth",
-   "image": "https://www.retail4growth.com/public/thumbs/news/2026/10/8242/780x480-1-uniqulo_440_851.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T09:10:25+00:00",
-   "title_ja": "ユニクロがインド・グルガオンに2店舗目となる超大型店舗を出店",
-   "summary_ja": "ユニクロがインドのグルガオンにおいて、地域2店舗目となる超大型店舗を開店して事業を拡大する。現地顧客への提案力を強化し、出店スピードをさらに加速させる狙いだ。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a067202cecb02410",
-   "url": "https://businessnewsthisweek.com/business/ambience-mall-gurugram-strengthens-fashion-offering-with-expanded-uniqlo-store",
-   "title_original": "Ambience Mall Gurugram Strengthens Fashion Offering with Expanded UNIQLO Store",
-   "source": "businessnewsthisweek.com",
-   "image": "https://api.newsinpics.com/uploads/business/kdcldhi1x4.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T07:47:57+00:00",
-   "title_ja": "インドのモールでユニクロが店舗を拡張しファッション領域を強化",
-   "summary_ja": "インド・グルガオンの商業施設「アンビエンスモール」において、ユニクロ店舗が拡張オープンした。現地でのラインナップを拡充し、ファッション提案を強化する。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8f218965b5cf96e6",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-reports-record-profit-and-fast-retailing-stock-costs-eur-408-55/70298338",
-   "title_original": "Fast Retailing reports record profit and Fast Retailing stock costs EUR 408.55",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405042_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-12T07:36:16+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益を更新と発表",
-   "summary_ja": "ファーストリテイリングが業績を発表し、過去最高益を記録したことが明らかになった。国内外での堅調な事業展開が収益を押し上げており、市場でも高い関心を集めている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "has_detail": true
   }
  ]
