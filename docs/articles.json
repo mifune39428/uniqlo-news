@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T02:34:59.351002+09:00",
+ "updated_at": "2026-10-29T06:58:34.517231+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -41,7 +41,6 @@
   "Campaign India",
   "Chosunbiz",
   "Citizens Journal",
-  "Confidentials",
   "Daily Hive",
   "Dellows News",
   "ELLE",
@@ -49,6 +48,7 @@
   "Eastern Mirror",
   "Excite エキサイト",
   "Explosion Network",
+  "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
   "FashionNetwork India",
   "Fashionsnap.com",
@@ -72,7 +72,6 @@
   "Indian Retailer",
   "Inside Halton",
   "Investing.com 日本",
-  "JBpress",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
   "Koubo",
@@ -94,6 +93,7 @@
   "Mission Local",
   "Moomoo",
   "Mothership",
+  "Mundo Deportivo",
   "NEWS.am STYLE",
   "Newswav",
   "OCEANS オーシャンズ",
@@ -122,6 +122,7 @@
   "The Courier Mail",
   "The Economic Times",
   "The Fashion Post",
+  "The Financial Express",
   "The Times Australia",
   "The Vent Machine -",
   "The Voice of San Francisco",
@@ -193,7 +194,6 @@
   "号外NET 世田谷区",
   "四季報オンライン",
   "地域ニュースサイト号外NET",
-  "地球の歩き方",
   "大分合同新聞",
   "山口新聞 電子版",
   "山形新聞",
@@ -227,44 +227,116 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 242,
  "digest": {
-  "headline": "ユニクロが靴下の値上げを撤回、海外展開やGUコラボも話題に",
+  "headline": "ユニクロが靴下の値上げ撤回を発表、国内外で出店やブランド評価も話題に",
   "points": [
    {
-    "text": "ファーストリテイリングの売上高10兆円に向けた経営課題や、カナダ・バンクーバーへの大型店出店計画が発表されました。",
-    "ids": [
-     "63fdc78ea5348a77",
-     "5da6c6f51e26af8f"
-    ]
-   },
-   {
-    "text": "ユニクロは生活必需品に配慮し、予定していた靴下の値上げやまとめ買い割引終了、50色ソックスの価格改定を撤回しました。",
+    "text": "ユニクロは生活必需品に配慮し、予定していた靴下の値上げやまとめ買い割引の終了を撤回し、従来の価格を維持すると発表しました。",
     "ids": [
      "a00d8df7e7f79979",
      "3f3573bf01d1c88b",
-     "7b146088b29adfc3"
+     "78659a57693c0ba8"
     ]
    },
    {
-    "text": "GUは人気キャラクター「ちいかわ」との新作コラボレーションを発表し、11月2日より先行予約販売を開始します。",
+    "text": "ファーストリテイリングの売上高10兆円を目指す経営課題や、世界で最も価値ある100ブランドにユニクロが選出されたことが報じられました。",
+    "ids": [
+     "63fdc78ea5348a77",
+     "beb62ca5d4aca33b"
+    ]
+   },
+   {
+    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」が開業したほか、カナダ・バンクーバーやフランスでの新規出店計画も明らかにされました。",
+    "ids": [
+     "6298d29631b06c07",
+     "5da6c6f51e26af8f",
+     "5758f7f415e3d19a"
+    ]
+   },
+   {
+    "text": "GUは人気キャラクター「ちいかわ」との新作コラボを発表し、11月2日より先行予約販売を実施すると明らかにしました。",
     "ids": [
      "3794d33715cb4537",
      "886446e4b9c576f8"
     ]
    },
    {
-    "text": "SNSでは「GU Engineered Garments コラボ」がXで12件投稿されるなど話題を集めています。",
+    "text": "SNSでは「ユニクロ 50色ソックス」が話題となり、Xで3日に132件の投稿が確認されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-26T02:43:00.803178+09:00",
-  "generated_at": "2026-10-29T02:43:19.923300+09:00",
+  "from": "2026-10-26T07:04:04.988879+09:00",
+  "generated_at": "2026-10-29T07:04:14.652043+09:00",
   "article_count": 24,
-  "sig": "ef5bf7ad2f66"
+  "sig": "b75d37d4dea8"
  },
  "items": [
+  {
+   "id": "beb62ca5d4aca33b",
+   "url": "https://www.mundodeportivo.com/en/20261028/1004244379/nike-adidas-and-uniqlo-remain-among-the-world-s-100-most-valuable-brands.html?facet=amp",
+   "title_original": "Nike, Adidas, and Uniqlo remain among the world’s 100 most valuable brands",
+   "source": "Mundo Deportivo",
+   "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/09/09/6aa13dd95bfa5.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T19:05:56+00:00",
+   "title_ja": "ユニクロ、ナイキやアディダスとともに世界で最も価値ある100ブランドに選出",
+   "summary_ja": "世界の最も価値ある100ブランドの中に、ナイキやアディダスと並んでユニクロが引き続きランクインしたことが明らかになりました。グローバルにおけるブランド力の高さが評価されています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "b82679c6b4dc8f1d",
+   "url": "https://today.thefinancialexpress.com.bd/trade-market/uniqlo-urged-to-expand-investment-in-bd-rmg-sector-1793208401",
+   "title_original": "Uniqlo urged to expand investment in BD RMG sector",
+   "source": "The Financial Express",
+   "image": "https://today.thefinancialexpress.com.bd/uploads/1793208401.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T18:04:47+00:00",
+   "title_ja": "ユニクロ、バングラデシュの既製服産業への投資拡大を要請される",
+   "summary_ja": "ユニクロに対し、バングラデシュの既製服（RMG）産業における投資の拡大が求められていることが分かりました。現地での生産体制や調達に関する取り組みが注目されています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5758f7f415e3d19a",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AF%E6%9D%A5%E6%98%A5-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%A7%E6%96%B0%E3%81%9F%E3%81%AB2%E5%BA%97%E8%88%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%99%E3%82%8B%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99,1879973.html",
+   "title_original": "ユニクロは来春、フランスで新たに2店舗をオープンする予定です",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T18:00:00+00:00",
+   "title_ja": "ユニクロが来年春にフランスで新たに2店舗を出店へ",
+   "summary_ja": "ユニクロが来年春に、フランスで新たに2店舗を出店する予定であることが明らかになりました。欧州エリアにおける店舗ネットワークの拡充を引き続き進めていく見込みです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f2df2f9dd880b3c2",
+   "url": "https://ww.fashionnetwork.com/news/Uniqlo-to-open-two-new-stores-in-france-in-spring-next-year,1879970.html",
+   "title_original": "Uniqlo to open two new stores in France in spring next year",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T18:00:00+00:00",
+   "title_ja": "ユニクロ、来春にフランスで新店舗を2店オープン予定",
+   "summary_ja": "ユニクロが来年春、フランス国内において新たに2店舗を出店する予定であることが報じられました。欧州市場におけるブランド展開と店舗網のさらなる拡大を図ります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "bfccc147187d2f69",
    "url": "https://news.yahoo.co.jp/articles/8d7e577531e69001188b270e050e885355f4ccef",
@@ -279,7 +351,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a00d8df7e7f79979",
@@ -311,7 +383,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a07bc80aefbe10df",
@@ -343,7 +415,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bbe13348763c31e7",
@@ -360,6 +432,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "a188c6500687c74a",
+   "url": "https://infashionbusiness.com/home/news_details/8796",
+   "title_original": "UNIQLO Brings HEATTECH Thermals to students in Drass, Ladakh, through The Heart of LifeWear",
+   "source": "IFAB MEDIA",
+   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1793179515.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T09:26:21+00:00",
+   "title_ja": "ユニクロがインドの学生へヒートテックを寄贈",
+   "summary_ja": "ユニクロは社会貢献活動「The Heart of LifeWear」の一環として、インドのラダック地方ドラスに住む学生たちにヒートテックの防寒着を提供した。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "19c29f885ba88066",
@@ -663,7 +751,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f53cbfc760de9d3c",
@@ -1466,6 +1554,22 @@
    "detail_tries": 2
   },
   {
+   "id": "11c6df1f4d1b21d6",
+   "url": "https://www.wwdjapan.com/articles/2537955",
+   "title_original": "「ユニクロ」が靴下の価格改定とまとめ買い終了を撤回",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T07:00:00+00:00",
+   "title_ja": "ユニクロ、靴下の価格改定とまとめ買い終了を撤回",
+   "summary_ja": "ユニクロが実施予定だった靴下の価格改定と、まとめ買いサービスの終了を撤回しました。（抜粋なし）",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "900d97d310fd1320",
    "url": "https://travel.watch.impress.co.jp/docs/news/2151175.html",
    "title_original": "ユニクロ、「ハローキティ」新作UTを12月発売。リボンをテーマに大人のシンプルデザイン",
@@ -1480,6 +1584,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "dac1883593fe3c41",
+   "url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDMwMS4wMDAwMTExODIuaHRtbA==",
+   "title_original": "ジーユーとジョイセフによるファッションを通じた次世代支援活動レポート",
+   "source": "繊研新聞",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T04:53:07+00:00",
+   "title_ja": "ジーユーとジョイセフによるファッション次世代支援",
+   "summary_ja": "ジーユーとジョイセフが実施している、ファッションを通じた次世代支援活動のレポートです。（抜粋なし）",
+   "category": "サステナビリティ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "db0932c311d911fb",
@@ -6552,118 +6672,6 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "0ba59e00f237fed0",
-   "url": "https://confidentials.com/manchester/manchester-gets-second-uniqlo-store?id=6acf69ec35d8a",
-   "title_original": "Manchester gets second UNIQLO store",
-   "source": "Confidentials",
-   "image": "https://confidentials.com/uploads/images/2026-10-14-Uniqlo-thumbnail.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T00:00:00+00:00",
-   "title_ja": "マンチェスターにユニクロの国内2号店がオープンへ",
-   "summary_ja": "イギリスのマンチェスター市内に、ユニクロの店舗として同市内2店舗目となる新しいショップがオープンすることが伝えられている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "39999c1aaf4282c5",
-   "url": "https://www.seventietwo.com/ja/business/SVTglobal_20261013",
-   "title_original": "ラグジュアリー株の低迷長引く エルメス、LVMHは年初来約4割安、ファストリは約3割高｜「SVT グローバル」10月13日",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/05/840-15.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T00:00:00+00:00",
-   "title_ja": "ラグジュアリー株が低迷、ファーストリテイリングは約3割高",
-   "summary_ja": "エルメスやLVMHなどラグジュアリーブランドの株価が年初来で約4割安と低迷する中、ファーストリテイリングは約3割高を記録していると報じています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c1abe0076a81ce09",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102110040",
-   "title_original": "新津田沼駅直結 ミーナ津田沼リニューアル【10/16開業】 限定の「京成電鉄×ユニクロTシャツ」＆「しんつだぬま食堂」などの店舗情報",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1482880664947459077/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T23:18:24+00:00",
-   "title_ja": "ミーナ津田沼が10月16日にリニューアル開業",
-   "summary_ja": "新津田沼駅直結のミーナ津田沼が10月16日に新装開業します。館内にはユニクロが出店し、限定の京成電鉄コラボTシャツなどが販売される予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "80d6ae5624adb922",
-   "url": "https://jbpress.ismedia.jp/articles/-/97239",
-   "title_original": "ファストリはなぜ世界企業になれたのか 繊研新聞記者が読み解く「まねできない仕組み」の正体",
-   "source": "JBpress",
-   "image": "https://jbpress.ismcdn.jp/mwimgs/5/5/1200mw/img_555d4567a57fa04891ef148c0c986f6f437505.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T21:00:00+00:00",
-   "title_ja": "ファーストリテイリングが世界企業になった理由",
-   "summary_ja": "繊研新聞の記者が、ファーストリテイリングがグローバル企業へと成長を遂げた背景に迫ります。他社には真似のできない独自のビジネスモデルの正体を読み解きます。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9ed047bcfca68262",
-   "url": "https://www.arukikata.co.jp/tokuhain/399152",
-   "title_original": "サンフランシスコにUNIQLOが復活！Market Streetに新店舗オープン",
-   "source": "地球の歩き方",
-   "image": "https://www.arukikata.co.jp/wp-content/uploads/IMG_4891-1_2026_1014_0449.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T20:03:59+00:00",
-   "title_ja": "サンフランシスコ・マーケットストリートにユニクロ新店がオープン",
-   "summary_ja": "ユニクロはサンフランシスコのマーケットストリートに新店舗を開設し、同市での販売拠点を再び持つことになった。この出店は米国西海岸でのブランド展開強化の一環とみられ、現地メディアも注目している。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d87dd2c0daff028c",
-   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/dividend-hike-could-be-a-game-changer-for-fast-retailing-sto",
-   "title_original": "Dividend Hike Could Be A Game Changer For Fast Retailing Stock (TSE:9983)",
-   "source": "Simply Wall Street",
-   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T18:29:21.958000+00:00",
-   "title_ja": "ファーストリテイリング、配当増額で株価に好影響の期待",
-   "summary_ja": "ファーストリテイリングは配当金を引き上げる方針を発表し、株主還元を強化することで投資家の関心を高め、株価上昇の要因になる可能性があると指摘された。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "aac8a1438682e0f9",
-   "url": "https://prtimes.jp/main/html/rd/p/000000081.000134893.html",
-   "title_original": "値上げが相次ぐ今、プラステは秋冬の人気商品をより手に取りやすい価格へ。品質・機能性はそのままに、冬の定番「ウォームリザーブシリーズ」も新価格で展開。",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/134893/81/134893-81-c1150282c41197c9a14481f1cc1fa670-480x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T13:00:01+00:00",
-   "title_ja": "プラステ、秋冬の人気商品をより手に取りやすい新価格で展開",
-   "summary_ja": "プラステは品質や機能性を維持したまま、秋冬の人気商品を手に取りやすい新価格へと改定します。冬の定番である「ウォームリザーブシリーズ」も新価格で展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
