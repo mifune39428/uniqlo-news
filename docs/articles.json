@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T20:47:30.142260+09:00",
+ "updated_at": "2026-10-29T02:34:59.351002+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,6 +18,7 @@
  "sources": [
   "- PeopleAsia",
   "36Kr",
+  "5 Dariya News",
   "7NEWS",
   "@DIME アットダイム",
   "ABEMA",
@@ -28,6 +29,7 @@
   "Alvinology",
   "Apparel Resources",
   "Apparel Views",
+  "Archiproducts",
   "AsiaOne.com",
   "BAILA（バイラ）",
   "Banglanews24",
@@ -50,7 +52,7 @@
   "FashionNetwork France",
   "FashionNetwork India",
   "Fashionsnap.com",
-  "Fibre2Fashion",
+  "Fast Retailing Co",
   "Financial Mail",
   "GQ Japan",
   "Global News",
@@ -70,7 +72,6 @@
   "Indian Retailer",
   "Inside Halton",
   "Investing.com 日本",
-  "J-CAST ニュース",
   "JBpress",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
@@ -118,8 +119,6 @@
   "SmartNews",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
-  "Tetsudo.com（鉄道コム）",
-  "The Business of Fashion",
   "The Courier Mail",
   "The Economic Times",
   "The Fashion Post",
@@ -152,8 +151,8 @@
   "YouTube",
   "ad-hoc-news.de",
   "adobo Magazine",
-  "anemo（アネモ）",
   "coki",
+  "dhakamagazine.com",
   "fashion headline",
   "fashionunited.jp",
   "marketech apac",
@@ -183,7 +182,6 @@
   "ファミ通.com",
   "マイナビニュース",
   "マイライフニュース",
-  "マネーフォワード",
   "モデルプレス",
   "ヨムーノ",
   "ラブすぽ",
@@ -231,50 +229,58 @@
  "count": 400,
  "detail_count": 245,
  "digest": {
-  "headline": "ファーストリテイリングの業績拡大とユニクロの靴下値上げ撤回",
+  "headline": "ユニクロが靴下の値上げを撤回、海外展開やGUコラボも話題に",
   "points": [
    {
-    "text": "ファーストリテイリングの売上高が3.4兆円規模に達し、売上高10兆円を目指す経営課題や世界2位のH&Mに迫る動向が注目されています。",
+    "text": "ファーストリテイリングの売上高10兆円に向けた経営課題や、カナダ・バンクーバーへの大型店出店計画が発表されました。",
     "ids": [
      "63fdc78ea5348a77",
-     "bc733aee5ffd192e"
+     "5da6c6f51e26af8f"
     ]
    },
    {
-    "text": "ユニクロは生活必需品への配慮から靴下の値上げとまとめ買い割引終了の方針を一転して撤回し、従来の販売価格を継続することを発表しました。",
+    "text": "ユニクロは生活必需品に配慮し、予定していた靴下の値上げやまとめ買い割引終了、50色ソックスの価格改定を撤回しました。",
     "ids": [
      "a00d8df7e7f79979",
-     "bbe13348763c31e7",
-     "4feaabaffabc87be"
+     "3f3573bf01d1c88b",
+     "7b146088b29adfc3"
     ]
    },
    {
-    "text": "京都の河原町通りにグローバル旗艦店が開業したほか、熊本でのリニューアルやカナダ・バンクーバーへの出店計画など国内外で店舗展開が進んでいます。",
-    "ids": [
-     "6298d29631b06c07",
-     "e5cf4bd0dc138725",
-     "45bade1457be463d"
-    ]
-   },
-   {
-    "text": "GUが人気キャラクター「ちいかわ」との新作コラボや先行予約販売の実施を発表し、冬に向けたニットやルームウェアなどの展開が話題となっています。",
+    "text": "GUは人気キャラクター「ちいかわ」との新作コラボレーションを発表し、11月2日より先行予約販売を開始します。",
     "ids": [
      "3794d33715cb4537",
      "886446e4b9c576f8"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 50色ソックス」がXで3日に131件投稿されるなど話題を集めています。",
+    "text": "SNSでは「GU Engineered Garments コラボ」がXで12件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-25T20:55:33.416789+09:00",
-  "generated_at": "2026-10-28T20:55:36.001284+09:00",
+  "from": "2026-10-26T02:43:00.803178+09:00",
+  "generated_at": "2026-10-29T02:43:19.923300+09:00",
   "article_count": 24,
-  "sig": "f8a102255fa2"
+  "sig": "ef5bf7ad2f66"
  },
  "items": [
+  {
+   "id": "bfccc147187d2f69",
+   "url": "https://news.yahoo.co.jp/articles/8d7e577531e69001188b270e050e885355f4ccef",
+   "title_original": "ユニクロ 靴下の“まとめ買い終了”を撤回（ABEMA TIMES）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-10284729-abemav-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T11:51:16+00:00",
+   "title_ja": "ユニクロ、靴下の「まとめ買い終了」施策を撤回",
+   "summary_ja": "ユニクロが、一度は終了を発表していた靴下のまとめ買い割引サービスについて、その方針を撤回したことが分かった。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "a00d8df7e7f79979",
    "url": "https://news.ntv.co.jp/category/economy/82a57223a62b4d74b51878b8dc765983",
@@ -289,6 +295,22 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "88e8b2745730e769",
+   "url": "https://www.5dariyanews.com/amp/505307-UNIQLO-Extends-The-Heart-of-LifeWear-to-Ladakh-with-HEATTECH",
+   "title_original": "UNIQLO Extends The Heart of LifeWear to Ladakh with HEATTECH",
+   "source": "5 Dariya News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T10:52:20+00:00",
+   "title_ja": "ユニクロ、ラダック地方へ「ヒートテック」を寄贈",
+   "summary_ja": "ユニクロは、ライフウェアの理念のもと、インドのラダック地方の人々に向けて「ヒートテック」の提供などの支援活動を実施した。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "detail_tries": 1
   },
   {
@@ -303,6 +325,22 @@
    "title_ja": "バングラデシュ首相がユニクロに対し同国での投資拡大を要請",
    "summary_ja": "バングラデシュの首相が、ユニクロに対して同国における事業や投資のさらなる拡大を求めた。現地での経済協力や産業振興に向けて、ユニクロの積極的な事業展開に対する期待が示されている。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "ff91b62e5874f713",
+   "url": "https://www.archiproducts.com/en/news/desalto-furnishings-in-uniqlo-store-in-milan_112507",
+   "title_original": "Desalto x UNIQLO: Italian Design and Japanese Fashion in the Heart of Milan",
+   "source": "Archiproducts",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T10:10:00+00:00",
+   "title_ja": "ユニクロが伊デザインブランド「Desalto」とコラボ、ミラノ中心部で展開",
+   "summary_ja": "ユニクロがイタリアの家具デザインブランド「Desalto」とコラボレーションし、ミラノ中心部でイタリアのデザインと日本のファッションを融合させた取り組みを行います。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 1
@@ -321,7 +359,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "19c29f885ba88066",
@@ -351,6 +389,22 @@
    "title_ja": "ユニクロシンガポール、地域社会を中心に据えた店舗運営を推進",
    "summary_ja": "ユニクロシンガポールが、単なる購買客向けにとどまらず、地域コミュニティを中心に据えた店舗づくりに取り組んでいます。現地社会と連携した持続的な店舗運営の工夫が紹介されています。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7fa9926f530413f7",
+   "url": "https://www.fashionsnap.com/article/2026-10-28/best-global-brand-26",
+   "title_original": "ユニクロ、世界のブランド価値ランキングトップ100に2年連続で選出 38位に",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/54355e0a-8dc7-44a3-b7f6-c1b8021eafec.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T08:04:57+00:00",
+   "title_ja": "ユニクロが「世界のブランド価値ランキング」で38位、2年連続選出",
+   "summary_ja": "ユニクロが世界のブランド価値ランキングトップ100において2年連続で選出され、38位にランクインしたことが分かりました。世界的な認知度やブランド評価の高まりを示しています。",
+   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -401,7 +455,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d2112cedc93fbe2a",
@@ -417,7 +471,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bf12a48e3194289f",
@@ -433,6 +487,22 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2859236ccb22f358",
+   "url": "https://dhakamagazine.com/en/article/5529/prime-minister-urges-uniqlo-to-increase-investment-in-readymade-garment-sector",
+   "title_original": "Prime Minister urges Uniqlo to increase investment in rea...",
+   "source": "dhakamagazine.com",
+   "image": "https://dhakamagazine.com/storage/posts/featured/48ee27f0-17d7-46b4-b8f9-c509de0c1da2.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T07:23:29+00:00",
+   "title_ja": "バングラデシュ首相がユニクロへ投資拡大を呼びかけ",
+   "summary_ja": "バングラデシュの首相が、ユニクロに対して同国でのさらなる投資拡大を要請しました。現地の衣料品産業における協力体制の強化や事業の成長に向けた呼びかけが行われています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -465,7 +535,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "63fdc78ea5348a77",
@@ -497,7 +567,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "9bc5f1e7d5726a68",
+   "url": "https://dhakamagazine.com/en/article/5525/prime-minister-meets-uniqlo-s-top-executives-in-japan-calls-for-more-investment/amp",
+   "title_original": "Prime Minister meets Uniqlo's top executives in Japan, calls for more investment",
+   "source": "dhakamagazine.com",
+   "image": "https://dhakamagazine.com/storage/posts/featured/58a1286e-57f0-4afb-9185-e1803ad3ac78.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T04:49:05+00:00",
+   "title_ja": "バングラデシュ首相が日本でユニクロ幹部と会談、追加投資を要請",
+   "summary_ja": "バングラデシュの首相が日本でユニクロの経営幹部と会談を行い、同国へのさらなる投資を直接要請しました。現地における事業展開や投資拡大に向けた働きかけがなされています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "aaffd004d37cfd7a",
@@ -513,7 +599,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a093ec0a403c55f4",
@@ -529,7 +615,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "30b2904577144eee",
@@ -545,7 +631,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3f3573bf01d1c88b",
@@ -558,6 +644,22 @@
    "published": "2026-10-28T03:30:00+00:00",
    "title_ja": "ユニクロが靴下のまとめ買い販売終了と50色ソックスの値上げを撤回",
    "summary_ja": "ユニクロは靴下のまとめ買い販売の終了方針を取りやめ、定番の「50色ソックス」で予定していた値上げも中止することを決定した。靴下を生活必需品の象徴的な商品と位置づけ、購入しやすい条件や価格を維持する。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "832983be1fcbc0ee",
+   "url": "https://portal.uqmobile.jp/detail/1/3/6/10401_6_r_20261028_1793155687739928",
+   "title_original": "ユニクロ靴下値上げを中止「生活必需品を象徴する商品」 円安などでほかの商品は11月に予定通り値上げへ",
+   "source": "UQライフ",
+   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T02:46:00+00:00",
+   "title_ja": "ユニクロ、靴下の値上げを取りやめ　他商品は11月に予定通り値上げ",
+   "summary_ja": "ユニクロは、生活必需品を象徴する商品として靴下の値上げを取りやめました。一方で、円安などの影響を受けるその他の商品については、当初の予定通り11月に値上げを実施する見通しです。",
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
@@ -590,6 +692,38 @@
    "published": "2026-10-28T00:59:30+00:00",
    "title_ja": "ユニクロの靴下値上げ撤回に賛否両論、消耗品の価格設定やブランド戦略が話題に",
    "summary_ja": "ユニクロが靴下の値上げを撤回したことを受け、ネット上でさまざまな議論を呼んでいる。消耗品の価格維持に対する賛否や、今後のブランド戦略と消費者心理について分析がなされている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "77a2790969943b19",
+   "url": "https://www.fastretailing.com/jp/group/news/2610281500.html",
+   "title_original": "ユニクロがインターブランド「Best Global Brands」に2年連続選出 - LifeWearへの世界的な支持拡大と、優れた顧客体験への取り組みが評価 | FAST RETAILING CO., LTD.",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T00:00:00+00:00",
+   "title_ja": "ユニクロが「Best Global Brands」に2年連続選出、顧客体験などが高評価",
+   "summary_ja": "ユニクロがインターブランド社の「Best Global Brands」に2年連続で選出されました。「LifeWear」への世界的な支持の拡大や、優れた顧客体験の提供に向けた継続的な取り組みが高く評価されています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "86e3065b29745328",
+   "url": "https://www.fastretailing.com/eng/group/news/2610281500.html",
+   "title_original": "UNIQLO Ranks in Interbrand's Best Global Brands for the Second Consecutive Year",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-28T00:00:00+00:00",
+   "title_ja": "ユニクロ、インターブランド「ベスト・グローバル・ブランド」に2年連続選出",
+   "summary_ja": "ユニクロが、インターブランド社が発表する「ベスト・グローバル・ブランド」に2年連続で選出されました。世界的なブランド価値の高さとグローバル市場での存在感が評価されています。",
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
@@ -6528,150 +6662,6 @@
    "summary_ja": "プラステは品質や機能性を維持したまま、秋冬の人気商品を手に取りやすい新価格へと改定します。冬の定番である「ウォームリザーブシリーズ」も新価格で展開されます。",
    "category": "新商品・コラボ",
    "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4a9bb35b668224c2",
-   "url": "https://www.businessoffashion.com/articles/global-markets/worldview-uniqlo-owner-fast-retailing-eyes-mass-fashion-dominance",
-   "title_original": "Worldview | Uniqlo-Owner Fast Retailing Eyes Mass Fashion Dominance",
-   "source": "The Business of Fashion",
-   "image": "https://img.businessoffashion.com/resizer/v2/3KGJISI7PBFM5BFPA2QWT46MVE.png?smart=true&auth=cde9fe74d799a566a9095dcc1aa6a05ed3ffd20f9bc5fe63d610d47193932581&width=1200&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T12:27:00+00:00",
-   "title_ja": "ファーストリテイリング、マスファッション市場での世界的な主導権獲得を目指す",
-   "summary_ja": "ユニクロを傘下に持つファーストリテイリングが、世界のマスファッション市場における支配的な地位の確立に向けて動きを強めています。グローバル市場でのさらなるシェア拡大を目指す同社の戦略が注目されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d97a101ca81c4930",
-   "url": "https://www.vietnam.vn/ja/bst-uniqlo-and-jw-anderson-thu-dong-2026-chinh-thuc-ra-mat-tu-ngay-16-10",
-   "title_original": "ユニクロとJWアンダーソンの2026年秋冬コレクションが10月16日に正式に発売されました。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/13/1791891355760_12-17918697610321400437317-11-0-187-336-crop-1791869765229284217020.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T10:35:00+00:00",
-   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コレクションが10月16日に発売決定",
-   "summary_ja": "ユニクロは「JW ANDERSON」とのコラボレーションによる2026年秋冬コレクションを、10月16日に正式発売します。毎シーズン高い人気を誇る定番コラボの最新作として展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "397cf6a43229e317",
-   "url": "https://news.yahoo.co.jp/articles/3d4e247eaa8ddd0f89ae04b6401cab13ae460369/images/000",
-   "title_original": "【大人のユニクロ】「UNIQLO and JW ANDERSON」新作速報！ 10月16日の発売日に買うべきアイテムを考察 (UOMO)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZ2yrXvkq_yRcRt27dbTdONuzASrubZuHusV8fKybCJ-NoFWUSVcEx6KWVDD8bpJ3KJYxtBoOmrA3pL6Tb0u_4A-dqsoKH5r06By2m2d04IRKQVbqCVG0HciKm8KS_tPPA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T10:02:49+00:00",
-   "title_ja": "ユニクロとJW ANDERSON、10月16日発売の新作を解説",
-   "summary_ja": "「UNIQLO and JW ANDERSON」の新作コレクションが10月16日に発売される。注目アイテムの特徴やコーディネートのポイントを考察する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "425e9384c51d4d75",
-   "url": "https://www.vietnam.vn/ja/bien-hoa-phong-cach-thu-dong-2026-cung-bst-uniqlo-and-jw-anderson-moi",
-   "title_original": "ユニクロとJWアンダーソンの新作コレクションで、2026年秋冬のスタイルを一新しましょう。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/13/1791883715262_photo-1791882327764-17918823282201527063894-3-0-920-1751-crop-17918824777882111112007.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T09:20:00+00:00",
-   "title_ja": "ユニクロがJWアンダーソンとの2026年秋冬新作コレクションを発表",
-   "summary_ja": "ユニクロとJWアンダーソンのコラボレーションによる2026年秋冬の新作コレクションが登場しました。今期の秋冬スタイルを新しく彩るラインナップが提案されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cf7a05477f8d931c",
-   "url": "https://media.moneyforward.com/articles/11008/summary",
-   "title_original": "ZARAを追う「ユニクロ」が過去最高益！ AI株の下落は「市場の過剰反応」か",
-   "source": "マネーフォワード",
-   "image": "https://res.cloudinary.com/hya19ty1g/image/upload/w_1200,q_auto:good/v1/moneyplus/LIFE/20261013mp_mp1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T08:08:57+00:00",
-   "title_ja": "ユニクロが過去最高益を達成しZARAを追撃",
-   "summary_ja": "アパレル大手のZARAを追いかけるユニクロが過去最高益を記録したことを紹介。AI関連株の下落など市場の動きを踏まえながら、今後の動向や業績について考察している。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2b56c2f720a61f90",
-   "url": "https://www.fibre2fashion.com/news/prime-content/retail-industry/how-uniqlo-is-turning-a-japanese-success-into-a-global-one-314195-newsdetails.htm",
-   "title_original": "| How Uniqlo is turning a Japanese success into a global one",
-   "source": "Fibre2Fashion",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-13T06:34:43+00:00",
-   "title_ja": "ユニクロが日本での成功を世界へと広げる戦略を解説",
-   "summary_ja": "日本国内で築き上げたユニクロのビジネスモデルが、どのようにしてグローバル市場での成功へとつながっているのかを専門メディアが分析しています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "ba98d32772fab26b",
-   "url": "https://www.tetsudo.com/event/62003",
-   "title_original": "近鉄 生駒ケーブル・ユニクロ コラボグッズ 販売（2026年10月23日～）",
-   "source": "Tetsudo.com（鉄道コム）",
-   "image": "https://images.tetsudo.com/news/20261013/site-1335655-1-a-003.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T05:59:00+00:00",
-   "title_ja": "近鉄の生駒ケーブルとユニクロがコラボグッズを発売",
-   "summary_ja": "近鉄の生駒ケーブルとユニクロによるコラボレーション企画として、オリジナルグッズが2026年10月23日より販売される予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "391fe012c18921d4",
-   "url": "https://www.anemo.co.jp/topics/lifestyle/fashion/440635-20261013",
-   "title_original": "生駒ケーブル×ユニクロ「UTme!」コラボレーション企画UTme! オリジナルデザインT シャツ・トートバッグを発売",
-   "source": "anemo（アネモ）",
-   "image": "https://www.atpress.ne.jp/releases/638447/img_638447_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T05:08:34+00:00",
-   "title_ja": "生駒ケーブルとユニクロ「UTme!」がコラボ",
-   "summary_ja": "生駒ケーブルとユニクロの「UTme!」がコラボレーションを実施します。オリジナルデザインのTシャツやトートバッグが発売される予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c4cd4cf106fb52c7",
-   "url": "http://www.j-cast.com/news/provider/atPress_news/638447",
-   "title_original": "生駒ケーブルがユニクロとコラボ！限定デザインのUTme!アイテムが登場",
-   "source": "J-CAST ニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-13T05:00:00+00:00",
-   "title_ja": "生駒ケーブルがユニクロとコラボ、限定のUTme!アイテムが登場",
-   "summary_ja": "生駒ケーブルがユニクロとタッグを組み、限定デザインのUTme!アイテムを発売する。沿線の魅力を取り入れた特別なデザインが用意されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
   }
