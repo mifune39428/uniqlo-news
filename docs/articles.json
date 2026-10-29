@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T02:48:51.452473+09:00",
+ "updated_at": "2026-10-30T07:10:53.874409+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -54,6 +54,7 @@
   "FashionNetwork India",
   "Fashionsnap.com",
   "Fast Retailing Co",
+  "FinanzNachrichten.de",
   "GQ Japan",
   "Global News",
   "GlobeNewswire",
@@ -198,7 +199,6 @@
   "新潟日報",
   "日テレNEWS NNN",
   "日本経済新聞",
-  "日流ウェブ",
   "日経CNBC online",
   "時事ドットコム",
   "時事通信ニュース",
@@ -218,16 +218,15 @@
   "매일경제",
   "아시아경제",
   "인사이트코리아",
-  "재경일보",
-  "헤럴드경제"
+  "재경일보"
  ],
  "count": 400,
- "detail_count": 237,
+ "detail_count": 238,
  "digest": {
-  "headline": "ユニクロが靴下の値上げを撤回、新店舗やコラボも続々登場",
+  "headline": "ユニクロが靴下の値上げとまとめ買い終了を撤回、新店舗やコラボも続々",
   "points": [
    {
-    "text": "ユニクロは、消費者からの強い反発や生活必需品への配慮を受け、予定していた靴下の値上げと「まとめ買い」終了の方針を撤回しました。",
+    "text": "ユニクロは、消費者からの強い反発や生活必需品としての重要性を考慮し、予定していた靴下の値上げと「まとめ買い」割引の終了方針を撤回し、従来の価格を継続することを発表しました。",
     "ids": [
      "548c1c53632dc963",
      "9f668290a7a0d43d",
@@ -235,41 +234,55 @@
     ]
    },
    {
-    "text": "売上高10兆円を目指すファーストリテイリングの経営課題や成長戦略が注目される中、京都や中国・上海でのグローバル旗艦店のオープン・刷新が進められています。",
+    "text": "ファーストリテイリングが売上高10兆円を目指す中、中国・上海のグローバル旗艦店の刷新など海外事業の再強化や、京都や新大阪での店舗オープン・リニューアルが進められています。",
     "ids": [
      "63fdc78ea5348a77",
-     "490dafddac98909a",
-     "6298d29631b06c07"
+     "8042cc7bf7c26077",
+     "6ff88de02b20d765"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェット氏や東京大学と協業した女性支援の新プロジェクトおよび初の公募エッセイ誌の創刊が発表されました。",
+    "text": "ユニクロはエフ・リッソとのコラボ商品の発売や、ケイト・ブランシェット氏や東京大学と協業した女性支援プロジェクトおよび初のエッセイ誌創刊を発表しました。",
     "ids": [
      "a60e5a07c81c204a",
-     "768adeb8973b385a",
+     "fda8ac7568b2f784",
      "c12ebac36f9e13cf"
     ]
    },
    {
-    "text": "JR新大阪店の増床リニューアルのほか、「F.RISSO」とのコラボ商品の発売や、GUによる「ちいかわ」との新作コラボが発表されました。",
+    "text": "GUでは、「ちいかわ」との新しいコラボレーションラインとして、寒くなる季節に向けたニットやルームウェアなどの豊富なアイテムが発表されました。",
     "ids": [
-     "6ff88de02b20d765",
-     "fda8ac7568b2f784",
      "3794d33715cb4537"
     ]
    },
    {
-    "text": "SNSではユニクロのクルーネックセーターが話題となり、Xで3日に13件投稿されました。",
+    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで13件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-27T02:59:31.201404+09:00",
-  "generated_at": "2026-10-30T03:00:05.449873+09:00",
+  "from": "2026-10-27T07:16:37.828168+09:00",
+  "generated_at": "2026-10-30T07:16:40.114668+09:00",
   "article_count": 24,
-  "sig": "d6ec465a793f"
+  "sig": "376bd3040fc4"
  },
  "items": [
+  {
+   "id": "ca8157f05dbf22a5",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69980274-cascale-fast-retailing-turning-data-into-supply-chain-action-200.htm",
+   "title_original": "Cascale: Fast Retailing: Turning Data Into Supply Chain Action",
+   "source": "FinanzNachrichten.de",
+   "image": "https://www.finanznachrichten.de/content/g/fb.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T20:14:00+00:00",
+   "title_ja": "ファーストリテイリング、データを活用したサプライチェーン管理を推進",
+   "summary_ja": "ファーストリテイリングがサプライチェーンにおけるデータ活用を進めています。アパレルサステナビリティ機関のCascaleを通じ、データを具体的なサプライチェーン上の改善行動へつなげる取り組みが紹介されました。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "4293985648f248f3",
    "url": "https://pokde.net/lifestyle/shopping/uniqlo-the-sweat-generation-campaign",
@@ -300,7 +313,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "06f16cc84a37c633",
@@ -365,6 +378,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "7d3eecd9bf8b4fa6",
+   "url": "https://ww.fashionnetwork.com/news/Uniqlo-backtracks-on-planned-sock-price-hike-in-japan-following-public-outcry,1880160.html",
+   "title_original": "Uniqlo backtracks on planned sock price hike in Japan following public outcry",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T09:00:40+00:00",
+   "title_ja": "ユニクロが日本での靴下値上げ方針を撤回、批判を受け見直し",
+   "summary_ja": "ユニクロが日本国内で予定していた靴下の値上げ計画を撤回したことが判明した。引き上げ方針に対して消費者から反対や批判の声が寄せられ、それらを受けた判断とみられる。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "4bfcc576d226c51e",
@@ -524,7 +553,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ec0e2ea30790764e",
@@ -588,7 +617,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fda8ac7568b2f784",
@@ -812,7 +841,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ff91b62e5874f713",
@@ -1967,6 +1996,22 @@
    "has_detail": true
   },
   {
+   "id": "87943da63cb851d6",
+   "url": "https://news.yahoo.co.jp/articles/0081df0038ed50d81d116aa234a9a7d6a99796df",
+   "title_original": "【UNIQLO and JW ANDERSON】10/16発売！30代・40代におすすめの新作【2026年秋冬コレクション】（LEE）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00010001-lee-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-26T10:50:02+00:00",
+   "title_ja": "ユニクロとJW ANDERSONの2026年秋冬コレクションが10月16日に発売",
+   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コラボレーションコレクションが10月16日に登場します。大人世代におすすめの新作アイテムが多数ラインナップされており、秋冬のコーディネートで活躍する注目のコレクションとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "a57b26e1b6f77e15",
    "url": "https://www.adobomagazine.com/fashion/uniqlo-f-risso-reimagines-the-rules-of-everyday-dressing",
    "title_original": "UNIQLO F.RISSO reimagines the rules of everyday dressing",
@@ -2317,22 +2362,6 @@
    "brand": "GU",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "05331cde17eab625",
-   "url": "https://www.lofficielph.com/fashion/uniqlo-jw-anderson-fall-winter-2026-collection-travel-style",
-   "title_original": "Which Character Are You Today? Style Your Look with UNIQLO and JW ANDERSON F/W 2026",
-   "source": "L'Officiel Philippines",
-   "image": "https://www.datocms-assets.com/42755/1792730741-uniqlo-jwa-lofficiel-8.png?auto=format&fit=max&w=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-24T11:00:00+00:00",
-   "title_ja": "ユニクロとJW ANDERSONの2026年秋冬コラボコレクションが登場",
-   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コラボレーションコレクションが登場。スタイリングに合わせて様々なキャラクターを楽しめるアイテムが展開されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "4ffb0d5c817001e6",
@@ -6637,38 +6666,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "a126c34bf9cd6135",
-   "url": "https://mbiz.heraldcorp.com/article/10903464",
-   "title_original": "Uniqlo holds repair workshop to mark International Repair Day",
-   "source": "헤럴드경제",
-   "image": "https://wimg.heraldcorp.com/news/cms/2026/10/15/news-p.v1.20261015.59004f71d5824b3fb3e50fccf0f6f104_P1.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T01:46:33+00:00",
-   "title_ja": "ユニクロが国際リペアデーに合わせて修繕ワークショップを開催",
-   "summary_ja": "ユニクロは、国際リペアデーを記念して衣類の修繕に関するワークショップを開催します。服を長く大切に着るための取り組みの一環として実施され、利用者が愛用のアイテムを手入れしながら継続して着用できるようにサポートします。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "03740cd2db15e916",
-   "url": "https://www.bci.co.jp/netkeizai/article/20469",
-   "title_original": "ファーストリテイリング／ＥＣ売上６．３％増／国内ユニクロ全体の増収率を上回る（2026年10月15日号）",
-   "source": "日流ウェブ",
-   "image": "https://www.bci.co.jp/function/images/og_image.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T00:02:42+00:00",
-   "title_ja": "ファーストリテイリング、国内EC売上が6.3%増",
-   "summary_ja": "ファーストリテイリングのEC売上高が6.3%増となり、国内ユニクロ全体の増収率を上回る堅調な伸びを記録したことが報じられている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
