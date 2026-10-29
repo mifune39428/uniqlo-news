@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T20:56:01.078149+09:00",
+ "updated_at": "2026-10-30T02:48:51.452473+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -34,8 +34,10 @@
   "Banglanews24",
   "BigGo Finance",
   "BigGo ファイナンス",
+  "Bloomberg.com",
   "British Vogue",
   "BroadwayWorld",
+  "Business Examiner",
   "CTV News",
   "China Daily",
   "Chosunbiz",
@@ -52,7 +54,6 @@
   "FashionNetwork India",
   "Fashionsnap.com",
   "Fast Retailing Co",
-  "Financial Mail",
   "GQ Japan",
   "Global News",
   "GlobeNewswire",
@@ -82,7 +83,6 @@
   "Lmaga.jp",
   "London Evening Standard",
   "MLB.com",
-  "Manchester Evening News",
   "Manila Standard",
   "MarkeZine",
   "Marketing-Interactive",
@@ -162,6 +162,7 @@
   "いこーよニュース",
   "アセアンポータル",
   "アニメ！アニメ！",
+  "アラブニュース",
   "インサイド",
   "オリコンニュース",
   "ガジェット通信",
@@ -202,7 +203,6 @@
   "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
-  "東京・大阪 都心上空ヘリコプター遊覧飛行",
   "東京報道新聞",
   "毎日新聞",
   "流通スーパーニュース",
@@ -222,34 +222,28 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 241,
+ "detail_count": 237,
  "digest": {
-  "headline": "ユニクロが靴下の値上げ撤回、新店舗や新文芸誌の発表も",
+  "headline": "ユニクロが靴下の値上げを撤回、新店舗やコラボも続々登場",
   "points": [
    {
-    "text": "ファーストリテイリングの売上高10兆円を目指す経営課題と今後の成長戦略が注目されています。",
+    "text": "ユニクロは、消費者からの強い反発や生活必需品への配慮を受け、予定していた靴下の値上げと「まとめ買い」終了の方針を撤回しました。",
     "ids": [
-     "63fdc78ea5348a77"
-    ]
-   },
-   {
-    "text": "ユニクロは消費者からの反発を受け、予定していた靴下の値上げやまとめ買い割引の終了を撤回しました。",
-    "ids": [
+     "548c1c53632dc963",
      "9f668290a7a0d43d",
-     "a00d8df7e7f79979",
-     "3f3573bf01d1c88b"
+     "a00d8df7e7f79979"
     ]
    },
    {
-    "text": "京都や中国・上海でのグローバル旗艦店のオープンやリニューアルが相次いで発表・実施されています。",
+    "text": "売上高10兆円を目指すファーストリテイリングの経営課題や成長戦略が注目される中、京都や中国・上海でのグローバル旗艦店のオープン・刷新が進められています。",
     "ids": [
+     "63fdc78ea5348a77",
      "490dafddac98909a",
-     "8042cc7bf7c26077",
      "6298d29631b06c07"
     ]
    },
    {
-    "text": "ケイト・ブランシェット氏や東大と協業した新プロジェクト始動や、初の公募エッセイ誌の創刊が決定しました。",
+    "text": "俳優のケイト・ブランシェット氏や東京大学と協業した女性支援の新プロジェクトおよび初の公募エッセイ誌の創刊が発表されました。",
     "ids": [
      "a60e5a07c81c204a",
      "768adeb8973b385a",
@@ -257,17 +251,73 @@
     ]
    },
    {
-    "text": "SNSでは「ユニクロ 50色ソックス」が話題となり、Xで3日に141件の投稿が確認されました。",
+    "text": "JR新大阪店の増床リニューアルのほか、「F.RISSO」とのコラボ商品の発売や、GUによる「ちいかわ」との新作コラボが発表されました。",
+    "ids": [
+     "6ff88de02b20d765",
+     "fda8ac7568b2f784",
+     "3794d33715cb4537"
+    ]
+   },
+   {
+    "text": "SNSではユニクロのクルーネックセーターが話題となり、Xで3日に13件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-26T21:05:09.297579+09:00",
-  "generated_at": "2026-10-29T21:05:16.701131+09:00",
+  "from": "2026-10-27T02:59:31.201404+09:00",
+  "generated_at": "2026-10-30T03:00:05.449873+09:00",
   "article_count": 24,
-  "sig": "10bc2de59f19"
+  "sig": "d6ec465a793f"
  },
  "items": [
+  {
+   "id": "4293985648f248f3",
+   "url": "https://pokde.net/lifestyle/shopping/uniqlo-the-sweat-generation-campaign",
+   "title_original": "UNIQLO Malaysia Launches \"The Sweat Generation\" Campaign Featuring the UNIQLO C Sweat Collection",
+   "source": "Pokde.Net",
+   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/29004753/uniqlo-malaysia-sweat-generation-campaign-featured.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T13:25:24+00:00",
+   "title_ja": "ユニクロマレーシア、スウェット新作キャンペーンを開始",
+   "summary_ja": "ユニクロマレーシアが「UNIQLO : C」スウェットコレクションをフィーチャーした「The Sweat Generation」キャンペーンを始動しました。海外店舗における新作プロモーションの一環です。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "db662095d6fcac66",
+   "url": "https://www.indianretailer.com/videos/uniqlos-winterwear-innovation-technology-meets-everyday-comfort",
+   "title_original": "UNIQLO’s Winterwear Innovation: Technology Meets Everyday Comfort",
+   "source": "Indian Retailer",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T12:47:13+00:00",
+   "title_ja": "ユニクロの冬物ウェア、テクノロジーと快適性を両立",
+   "summary_ja": "ユニクロが展開する冬物ウェアについて報じている。最先端のテクノロジーを活用し、日常の快適性を追求したラインナップの魅力を伝えている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "06f16cc84a37c633",
+   "url": "https://www.arabnews.jp/en/business/uniqlo-cancels-socks-price-hikes-in-japan-as-inflation-bites-3001153",
+   "title_original": "Uniqlo cancels socks price hikes in Japan as inflation bites",
+   "source": "アラブニュース",
+   "image": "https://assets.maestronewsroom.com/media/c4aa1a27-6688-419d-801f-352634a88afc/proxies/94085a77-c2d2-4b6d-95eb-65776e0d39a6.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T12:02:54.001000+00:00",
+   "title_ja": "ユニクロ、物価高を受け日本での靴下値上げを取りやめ",
+   "summary_ja": "物価上昇が続く日本国内において、ユニクロが予定していた靴下の値上げをキャンセルしたことが明らかになった。インフレに伴う生活防衛意識の高まりに対応した動きとみられる。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "490dafddac98909a",
    "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae3180ce4b06d4aa0565ea8.html",
@@ -298,7 +348,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d6e917119441610b",
@@ -330,7 +380,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8042cc7bf7c26077",
@@ -362,7 +412,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "980556cf45e90f7b",
@@ -394,7 +444,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fa5948cf0fee98f6",
@@ -426,7 +476,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "768adeb8973b385a",
@@ -459,6 +509,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "548c1c53632dc963",
+   "url": "https://www.bloomberg.com/jp/news/articles/2026-10-29/TNLZYKKK3NY800",
+   "title_original": "ユニクロ、靴下100円値上げを11日で撤回－顧客反発で一転、ANAも",
+   "source": "Bloomberg.com",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T03:37:00+00:00",
+   "title_ja": "ユニクロ、靴下の100円値上げを11日で撤回へ",
+   "summary_ja": "ユニクロは、顧客からの反発を受けて靴下の100円値上げ方針をわずか11日間で撤回することを明らかにしました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "ec0e2ea30790764e",
@@ -507,6 +573,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "6ff88de02b20d765",
+   "url": "https://www.sanyonews.jp/article/1945945?kw=2025",
+   "title_original": "「ユニクロJR新大阪店」増床リニューアルを発表 JR西日本・がんこ寿司とのコラボTシャツが登場へ",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/6/8/5/d/685dda143e2735590b970fa9115ce13a_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T00:53:44+00:00",
+   "title_ja": "ユニクロJR新大阪店が増床リニューアル、コラボTも登場",
+   "summary_ja": "ユニクロJR新大阪店の増床リニューアルが発表されました。JR西日本やがんこ寿司とのコラボレーションTシャツも登場予定です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "fda8ac7568b2f784",
@@ -715,6 +797,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "6f6438c877b3d92e",
+   "url": "https://media.unisba.ac.id/7cf4ef64/10e79983Zds8G0ik7tU///?share=facebook&nb=1",
+   "title_original": "スヌーピーとユニクロコラボがきた！！ Forge Fc (JthPlLcsZo)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T10:30:00+00:00",
+   "title_ja": "スヌーピーとユニクロのコラボアイテムが登場",
+   "summary_ja": "スヌーピーとユニクロによるコラボレーション企画が新たに実施され、関連商品が展開されていることを伝えています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "ff91b62e5874f713",
@@ -1402,6 +1500,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fe13cc06cbac5da7",
+   "url": "https://businessexaminer.ca/bc-news/item/uniqlo-pacific-centre-downtown-vancouver-flagship",
+   "title_original": "Uniqlo to Open Downtown Vancouver Flagship at Pacific Centre",
+   "source": "Business Examiner",
+   "image": "https://businessexaminer.ca/wp-content/uploads/2026/10/stack-of-folded-plain-sweaters-5710046.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-27T09:40:56+00:00",
+   "title_ja": "ユニクロがバンクーバーのパシフィックセンターに新店舗",
+   "summary_ja": "カナダ・バンクーバーのダウンタウンにあるパシフィックセンターに、ユニクロが新しいフラッグシップショップをオープンすることが明らかになりました。海外展開における新たな大型店舗として注目されます。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6555,118 +6669,6 @@
    "brand": "グループ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "0d6241d9c4a58dc8",
-   "url": "https://baila.hpplus.jp/blogs/kamiya_erena/84101",
-   "title_original": "【2026秋冬ユニクロシー】コスパ最高！新作アウター＆ボトム編",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/2e/2e1f90cb-8433-4641-b7b6-700af048cdbe-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T00:00:00+00:00",
-   "title_ja": "2026秋冬「ユニクロ：シー」の新作アウターとボトムス",
-   "summary_ja": "「ユニクロ：シー」の2026年秋冬コレクションから、コストパフォーマンスに優れた注目の新作アウターとボトムスを紹介。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a69e7681a0037caf",
-   "url": "https://lee.hpplus.jp/column/3763089",
-   "title_original": "【UNIQLO and JW ANDERSON】10/16発売！30代・40代におすすめの新作4選【2026年秋冬コレクション】",
-   "source": "LEE",
-   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/10/13/084d902afdc6a3c32598021a2f3dde93.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T23:00:00+00:00",
-   "title_ja": "ユニクロとJWアンダーソン、秋冬新作が10月16日発売",
-   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コレクションが10月16日に発売される。30代や40代におすすめの新作が揃う。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "266f1958052de699",
-   "url": "https://fm.co.za/opinion/2026-10-14-jamie-carr-tale-of-two-founders-as-uniqlo-aims-high-gopro-goes-low",
-   "title_original": "JAMIE CARR: Tale of two founders as Uniqlo aims high, GoPro goes low",
-   "source": "Financial Mail",
-   "image": "https://images.newsteam.io/image/400/GbSdY1y2zcjj88L18KstPnQYuQfJAsJufWSTpaNymGYuUmT2TqSCTLUhFC6xAymwkuv5jTQ9zWNVDhdTZnsbZ9kXNQPj25F9ECyfZ7oxzqmQYyH9GXwxhkcC6MVDzQP47o6Mysppht3H5yZYMbAE3",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T23:00:00+00:00",
-   "title_ja": "ユニクロが成長を目指す一方でGoProは苦戦　創業者らの動向を比較",
-   "summary_ja": "ユニクロが高邁な目標を掲げて成長を目指す一方で、GoProが苦戦を強いられているという経営動向が報じられました。企業の成長を導く創業者の手腕やブランド戦略の対比に焦点を当てた分析が行われています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f24f5ee6f30e1968",
-   "url": "https://senken.co.jp/posts/fastretailing-261015",
-   "title_original": "ユニクロが錦織選手のイベント ともに世界へ挑んだ15年",
-   "source": "繊研新聞",
-   "image": "https://senken.co.jp/production/uploads/file_content/file/425949/facebook_B0009940.JPG",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T21:25:00+00:00",
-   "title_ja": "ユニクロが錦織選手との15年を振り返るイベントを開催",
-   "summary_ja": "ユニクロが、ともに世界へ挑戦し歩んできた錦織圭選手との15年間の軌跡を振り返るイベントを開催したことを伝えるニュースです。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "da03fd162c564367",
-   "url": "http://building-pc.cocolog-nifty.com/helicopter/2026/10/post-9af47f.html",
-   "title_original": "「ファーストリテイリング」の2026年8月期連結業績 売上収益3兆9634億円 「H＆M」を抜き世界のアパレル企業売上高ランキング２位に！",
-   "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
-   "image": "https://building-pc.cocolog-nifty.com/helicopter/images/tokyouniqlo231011.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T20:30:00+00:00",
-   "title_ja": "ファストリ2026年8月期売上高は約3.9兆円、世界2位に",
-   "summary_ja": "ファーストリテイリングの2026年8月期連結業績は、売上収益が3兆9634億円となり、世界のアパレル企業ランキングで2位に浮上した。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "db111b585ebf8ae7",
-   "url": "https://simplywall.st/stocks/jp/retail/tse-9983/fast-retailing-shares/news/fast-retailing-tse9983-lifts-dividend-and-guidance-is-the-st",
-   "title_original": "Fast Retailing (TSE:9983) Lifts Dividend And Guidance, Is The Stock Fully Priced?",
-   "source": "Simply Wall Street",
-   "image": "https://images.simplywall.st/asset/industry/4441000-choice1-card/1788943074125?w=1600&h=900&fit=cover",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T19:33:38.181000+00:00",
-   "title_ja": "ファーストリテイリングが配当と業績予想を上方修正",
-   "summary_ja": "ファーストリテイリングが増配および業績予想の上方修正を発表しました。今後の株価動向や業績に市場の注目が集まっています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "6e61337d5e3cb3bc",
-   "url": "https://www.manchestereveningnews.co.uk/whats-on/inside-trafford-centres-big-new-34763991",
-   "title_original": "Inside Trafford Centre's big new opening as UNIQLO prepares to launch",
-   "source": "Manchester Evening News",
-   "image": "https://i2-prod.manchestereveningnews.co.uk/article34765208.ece/ALTERNATES/s1200d/1_uniqlo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T17:42:02+00:00",
-   "title_ja": "トラフォード・センターにユニクロの新店舗がオープン準備",
-   "summary_ja": "イギリスのトラフォード・センターにて、ユニクロの新しい大型店舗の開店に向けた準備が進められています。現地の様子が伝えられています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
