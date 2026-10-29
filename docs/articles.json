@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T06:58:34.517231+09:00",
+ "updated_at": "2026-10-29T12:21:16.769865+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -78,7 +78,6 @@
   "L'Officiel Philippines",
   "LASISA",
   "LEE",
-  "Laodong.vn",
   "LifeVancouver カナダ・バンクーバー現地情報",
   "LionhearTV",
   "Lmaga.jp",
@@ -89,7 +88,6 @@
   "MarkeZine",
   "Marketing-Interactive",
   "Metro.co.uk",
-  "Mindanao Times",
   "Mission Local",
   "Moomoo",
   "Mothership",
@@ -211,7 +209,6 @@
   "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
-  "激流オンライン",
   "玩具人 TOY PEOPLE",
   "産経ニュース",
   "繊研新聞",
@@ -227,52 +224,148 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 242,
+ "detail_count": 243,
  "digest": {
-  "headline": "ユニクロが靴下の値上げ撤回を発表、国内外で出店やブランド評価も話題に",
+  "headline": "ユニクロが靴下の値上げを撤回、「ちいかわ」コラボなども発表",
   "points": [
    {
-    "text": "ユニクロは生活必需品に配慮し、予定していた靴下の値上げやまとめ買い割引の終了を撤回し、従来の価格を維持すると発表しました。",
+    "text": "ファーストリテイリングの売上高10兆円を目指す経営課題や、グローバルブランド評価での2年連続選出が注目されています。",
+    "ids": [
+     "63fdc78ea5348a77",
+     "e8eace39b0bde272"
+    ]
+   },
+   {
+    "text": "ユニクロは生活必需品に配慮し、予定していた靴下の値上げやまとめ買い割引終了、50色ソックスの価格改定を撤回しました。",
     "ids": [
      "a00d8df7e7f79979",
      "3f3573bf01d1c88b",
-     "78659a57693c0ba8"
+     "efe1a8c5a8b00564"
     ]
    },
    {
-    "text": "ファーストリテイリングの売上高10兆円を目指す経営課題や、世界で最も価値ある100ブランドにユニクロが選出されたことが報じられました。",
+    "text": "ユニクロは「F.RISSO」とのコラボニットなどの発売を控え、GUは「ちいかわ」との新作コラボや先行予約を発表しました。",
     "ids": [
-     "63fdc78ea5348a77",
-     "beb62ca5d4aca33b"
+     "fda8ac7568b2f784",
+     "0190078ce7f426db",
+     "3794d33715cb4537"
     ]
    },
    {
-    "text": "京都の河原町通りにグローバル旗艦店「ユニクロ 京都」が開業したほか、カナダ・バンクーバーやフランスでの新規出店計画も明らかにされました。",
+    "text": "京都・河原町通りへのグローバル旗艦店オープンや、カナダ・バンクーバーへの初出店計画が発表されています。",
     "ids": [
      "6298d29631b06c07",
-     "5da6c6f51e26af8f",
-     "5758f7f415e3d19a"
+     "5da6c6f51e26af8f"
     ]
    },
    {
-    "text": "GUは人気キャラクター「ちいかわ」との新作コラボを発表し、11月2日より先行予約販売を実施すると明らかにしました。",
-    "ids": [
-     "3794d33715cb4537",
-     "886446e4b9c576f8"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ 50色ソックス」が話題となり、Xで3日に132件の投稿が確認されました。",
+    "text": "SNSでは「ユニクロ 50色ソックス」が話題となり、Xで3日に138件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-26T07:04:04.988879+09:00",
-  "generated_at": "2026-10-29T07:04:14.652043+09:00",
+  "from": "2026-10-26T12:28:50.159803+09:00",
+  "generated_at": "2026-10-29T12:28:52.040998+09:00",
   "article_count": 24,
-  "sig": "b75d37d4dea8"
+  "sig": "31ade746fedf"
  },
  "items": [
+  {
+   "id": "e8eace39b0bde272",
+   "url": "https://news.shoninsha.co.jp/strategy/322773",
+   "title_original": "ファストリnews｜インターブランド｢Best Global Brands｣2年連続選出",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T03:09:10+00:00",
+   "title_ja": "ファーストリテイリングがグローバルブランド評価で2年連続選出",
+   "summary_ja": "ファーストリテイリングが、インターブランド社による「Best Global Brands」に2年連続で選出されました。グローバル市場におけるブランド価値が高く評価されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "0b3e79baac508ca7",
+   "url": "https://news.yahoo.co.jp/articles/f6eff3d44c4d9e977cf3de2c09e5f98903c1d966",
+   "title_original": "ケイト・ブランシェット＞東大に ユニクロ「stories she tells」で女性の“言葉”や“物語”を社会へ（毎日キレイ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000006-maikirei-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T02:44:00+00:00",
+   "title_ja": "ケイト・ブランシェット氏が東大に登壇 ユニクロの女性支援企画で",
+   "summary_ja": "俳優のケイト・ブランシェット氏が東京大学を訪問し、ユニクロの取り組み「stories she tells」関連イベントに登場しました。女性の言葉や物語を社会へ届ける活動の一環として開催されました。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "fda8ac7568b2f784",
+   "url": "https://www.asahi.com/and/w/article/16999780/31495417",
+   "title_original": "590円〜買える！【ユニクロ】『F.RISSOコラボ』10/30発売。「カジュアルだけどラグジュアリー」「かっこいい」と話題",
+   "source": "朝日新聞",
+   "image": "https://p.potaufeu.asahi.com/49bf-p/picture/31495417/612d6e2fba692c5bad4f4abc5854f4ee.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T23:56:54+00:00",
+   "title_ja": "ユニクロが「F.RISSO」とのコラボ商品を10月30日に発売",
+   "summary_ja": "ユニクロは「F.RISSO」とのコラボレーション商品を10月30日より発売する。カジュアルでありながらラグジュアリーな雰囲気を備えたデザインが注目を集めている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "777a99c55f45e041",
+   "url": "https://news.yahoo.co.jp/articles/0992b77e93691347be94b0a9e162d3f1ab461b5f",
+   "title_original": "「安さが正義」の時代は終わった。GU好調の裏で、ファストファッション各社が苦戦する“決定的な理由”（SPA!）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-02192346-sspa-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T23:53:02+00:00",
+   "title_ja": "安さ重視から変化するファストファッション業界とGU好調の理由",
+   "summary_ja": "単なる低価格の追求から消費者の意識が変化するなか、ファストファッション各社が苦戦を強いられる一方で、GUが好調を維持している決定的な理由を解説する。",
+   "category": "業績・経営",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "e1facc200a643f3c",
+   "url": "https://news.yahoo.co.jp/articles/8721e21f91f21de0e118dd2f2ca0a1ca1e97cbd9",
+   "title_original": "ユニクロ『新作ニット』元マルニデザイナーが手がけると…「ブルース・リーみたい」「着こなせるかな…」と話題",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-11802677-asahiand-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T23:01:08+00:00",
+   "title_ja": "元マルニデザイナー手掛けるユニクロの新作ニットが話題",
+   "summary_ja": "元マルニのデザイナーが手掛けたユニクロの新作ニットについて、独特なデザインがネット上でさまざまな反響を呼んでいます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0190078ce7f426db",
+   "url": "https://lee.hpplus.jp/column/3771197",
+   "title_original": "【ユニクロ エフ・リッソ】10/30発売！30代・40代におすすめのニット全7アイテムをご紹介【2026年秋冬】",
+   "source": "LEE",
+   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/10/22/c52883436ab976fab3caf6fb192f69e1.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T23:00:00+00:00",
+   "title_ja": "ユニクロとエフ・リッソのコラボニットが10月30日に発売",
+   "summary_ja": "30代や40代の大人世代に向けたユニクロとエフ・リッソのコラボレーションによる新作ニット全7アイテムが、10月30日に発売されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "beb62ca5d4aca33b",
    "url": "https://www.mundodeportivo.com/en/20261028/1004244379/nike-adidas-and-uniqlo-remain-among-the-world-s-100-most-valuable-brands.html?facet=amp",
@@ -319,7 +412,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f2df2f9dd880b3c2",
@@ -335,7 +428,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bfccc147187d2f69",
@@ -1567,7 +1660,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "900d97d310fd1320",
@@ -1599,7 +1692,7 @@
    "category": "サステナビリティ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "db0932c311d911fb",
@@ -6576,102 +6669,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "5b8271111d34ed02",
-   "url": "https://www.jiji.com/jc/article?k=000000163.000068741&g=prt",
-   "title_original": "ユニクロ、「PEACE FOR ALL」の4年間の歩みと世界に広がる支援の輪を紹介",
-   "source": "時事ドットコム",
-   "image": "https://prcdn.freetls.fastly.net/release_image/68741/163/68741-163-f8e29276ec73a5f0f677bb80e0bb4b56-900x600.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T07:46:00+00:00",
-   "title_ja": "ユニクロがPEACE FOR ALLの4年間の歩みと世界への支援成果を発表",
-   "summary_ja": "ユニクロは、チャリティTシャツプロジェクト「PEACE FOR ALL」の4年間にわたる取り組みの歩みと、世界へ広がる支援の成果について紹介した。平和を願う活動が世界中で支援の輪を広げている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cb6cff93b34cfec0",
-   "url": "https://www.oricon.co.jp/news/2486326/full",
-   "title_original": "ユニクロ、穴やシミのある服の“刺繍リペア”キャンペーン10・17から実施",
-   "source": "オリコンニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T04:36:00+00:00",
-   "title_ja": "ユニクロ、穴やシミのある服を直す「刺繍リペア」キャンペーンを10月17日開始",
-   "summary_ja": "ユニクロは、穴が空いた服やシミのついた服を対象とした「刺繍リペア」キャンペーンを10月17日から実施します。お気に入りの服を修繕して長く着るための取り組みです。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "65e54eb3f17f5aef",
-   "url": "https://www.mindanaotimes.com.ph/maayong-pagbalik-uniqlo-reopens-in-general-santos-celebrating-the-communitys-strength-and-resilience",
-   "title_original": "Maayong Pagbalik: UNIQLO Reopens in General Santos, Celebrating the Community’s Strength and Resilience",
-   "source": "Mindanao Times",
-   "image": "http://www.mindanaotimes.com.ph/wp-content/uploads/2026/10/1.-UNIQLO-reopens-its-General-Santos-store-with-a-renewed-commitment-to-the-community-celebrating-the-strength-and-resilience-of-General-Santos-as-it-rebuilds-and-moves-forward.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T04:33:46+00:00",
-   "title_ja": "ユニクロがジェネラル・サントスの店舗を再オープン",
-   "summary_ja": "ユニクロがフィリピンのジェネラル・サントスにある店舗を再オープンし、地域のコミュニティの強さと回復力を祝福しました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cb6a67f0a2841e97",
-   "url": "https://news.yahoo.co.jp/articles/bac5dc8fd6038196f30fbcb5fd89ab7abd4adf62",
-   "title_original": "ユニクロで刺しゅうができるって知ってた？カフェや花、古着の販売も！意外なサービス&商品を紹介（ウォーカープラス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01444032-tkwalk-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T04:24:43+00:00",
-   "title_ja": "ユニクロの刺しゅうサービスやカフェなどの意外な試み",
-   "summary_ja": "ユニクロで利用できる刺しゅうサービスをはじめ、店舗内のカフェや花、古着の販売といった意外な取り組みを紹介しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "277a39ba34c72da5",
-   "url": "https://gekiryu-online.jp/2026/10/257755",
-   "title_original": "ファストリ柳井会長兼社長、世界一への意欲を改めて示す",
-   "source": "激流オンライン",
-   "image": "https://gekiryu-online.jp/wp-content/uploads/2026/10/eaabb34a02d9bcda69804bf38d399dc8.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-14T02:39:17+00:00",
-   "title_ja": "ファーストリテイリングの柳井会長兼社長が世界一達成への意欲を強調",
-   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が、アパレル世界一の座を目指す意欲を改めて示した。グローバルでのさらなる成長に向けた経営姿勢を表明している。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "e6ac73278ba45b60",
-   "url": "https://news.laodong.vn/ldt/thi-truong/fast-retailing-va-nhung-no-luc-thuc-day-phat-trien-ben-vung-1782658.ldo",
-   "title_original": "Fast Retailing and efforts to promote sustainable development",
-   "source": "Laodong.vn",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-14T02:00:00+00:00",
-   "title_ja": "ファーストリテイリングによる持続可能な社会の実現に向けた取り組み",
-   "summary_ja": "ファーストリテイリングが持続可能な開発を促進するための施策を展開している。環境配慮や社会貢献活動をはじめとする取り組みを通じてサステナビリティの向上を目指す。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
