@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T02:25:00.615547+09:00",
+ "updated_at": "2026-10-31T06:46:23.458684+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -92,6 +92,7 @@
   "Mundo Deportivo",
   "NHKニュース",
   "Newswav",
+  "Nikkei Asia",
   "OCEANS オーシャンズ",
   "Oui Speak Fashion (OSF)",
   "PR Newswire Canada",
@@ -115,7 +116,6 @@
   "THE FIRST TIMES",
   "The Business of Fashion",
   "The CSR Universe",
-  "The Courier Mail",
   "The Economic Times",
   "The Fashion Post",
   "The Financial Express",
@@ -220,53 +220,64 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 232,
  "digest": {
-  "headline": "ファーストリテイリング売上高約3.96兆円、上海店舗の刷新や靴下値上げ撤回が話題",
+  "headline": "ファーストリテイリングの業績拡大と中国戦略の転換",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高が約3兆9633億円に到達し、売上高10兆円の大台を目指す今後の成長戦略が注目されています。",
+    "text": "ファーストリテイリングの2026年8月期の売上高が3兆9633億円に到達し、グループ全体の業績が大きく拡大しています。",
     "ids": [
-     "28127c63360b6b32",
-     "63fdc78ea5348a77"
+     "28127c63360b6b32"
     ]
    },
    {
-    "text": "ユニクロは、日本国内の消費者からの強い反発や批判を受けて、予定していた靴下の値上げ方針をわずか11日間で撤回しました。",
+    "text": "ユニクロは中国市場で大量出店路線から収益性重視や「選択と集中」へと戦略を転換し、上海の旗艦店などをリニューアルしました。",
     "ids": [
-     "548c1c53632dc963",
-     "9f668290a7a0d43d",
-     "01724f8e3f686d57"
+     "7836d009d26359f2",
+     "f00ed4d5b382add2",
+     "d6a41e3a444bfcf9"
     ]
    },
    {
-    "text": "中国・上海のグローバル旗艦店などがリニューアルオープンし、大量出店路線から「選択と集中」や個店経営への方針転換が進められています。",
+    "text": "日本国内では、消費者からの反発を受けて靴下の値上げ方針をわずか11日間で撤回することを明らかにしました。",
     "ids": [
-     "1f1ca5c2fab7edc0",
-     "d6a41e3a444bfcf9",
-     "c7ca1668f4cdf4c7"
+     "548c1c53632dc963"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェット氏らを迎え、女性の声を届けるグローバルプロジェクトや新しい文学雑誌を発刊する取り組みが始動しました。",
+    "text": "ユニクロ梅田店の1周年を記念し、ミャクミャクをあしらったTシャツやバッグの限定発売とカスタマイズサービスが開始されました。",
     "ids": [
-     "2a616680dd657102",
-     "20a1408767c8d7ab",
-     "a60e5a07c81c204a"
+     "81c5ebebf47e4f7d"
     ]
    },
    {
-    "text": "SNSではユニクロ クルーネックセーターが話題となり、Xで3日に14件投稿されています。",
+    "text": "ユニクロのクルーネックセーターがXで14件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-28T02:30:28.954261+09:00",
-  "generated_at": "2026-10-31T02:30:31.050741+09:00",
+  "from": "2026-10-28T06:51:30.415737+09:00",
+  "generated_at": "2026-10-31T06:51:32.245630+09:00",
   "article_count": 24,
-  "sig": "7f8e7afb02fe"
+  "sig": "07c6a5011efe"
  },
  "items": [
+  {
+   "id": "7836d009d26359f2",
+   "url": "https://asia.nikkei.com/business/retail/uniqlo-shakes-up-china-strategy-with-focus-on-store-profitability",
+   "title_original": "Uniqlo shakes up China strategy with focus on store profitability",
+   "source": "Nikkei Asia",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F4%2F4%2F13384437-1-eng-GB%2Fd10eeee990db-photo_SXM2026103000004185.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T19:05:58+00:00",
+   "title_ja": "ユニクロ、中国市場で店舗の収益性重視へ戦略を転換",
+   "summary_ja": "ファーストリテイリングは、中国市場における戦略を刷新し、新規出店のペースよりも個々の店舗における収益性を高める方針へと舵を切っています。海外展開における重要な転換点となります。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "95d1e920ddb8e152",
    "url": "https://www.billionaires.africa/2026/10/30/japanese-billionaire-tadashi-yanais-firm-sues-maui-landowner-over-water-bills",
@@ -297,7 +308,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "aed466353288529f",
@@ -313,7 +324,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1f1ca5c2fab7edc0",
@@ -343,6 +354,22 @@
    "title_ja": "ユニクロ梅田店、ミャクミャク限定商品を発売",
    "summary_ja": "「UNIQLO UMEDA」の1周年を記念し、大阪・関西万博のミャクミャクをあしらったTシャツとバッグが本日より限定発売されます。刺繍やスタンプでカスタマイズも可能です。",
    "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "38ff8400b35a9d93",
+   "url": "https://news.yahoo.co.jp/articles/e69a68fe2aae2d23be3c1197234a88b0e9c045b3",
+   "title_original": "ユニクロ、梅田限定「ミャクミャク」Tシャツ＆バッグ本日発売。スタンプや刺繍でオリジナルも作れる（トラベル Watch）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00000017-imptrw-000-3-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T11:53:00+00:00",
+   "title_ja": "梅田限定「ミャクミャク」Tシャツ＆バッグがユニクロで本日発売",
+   "summary_ja": "ユニクロは、梅田限定の「ミャクミャク」デザインをあしらったTシャツとバッグを本日より発売します。スタンプや刺繍を用いて自分だけのオリジナルアイテムが作れるサービスも展開されます。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -425,7 +452,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2a616680dd657102",
@@ -457,7 +484,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "94a230c5e796a9ff",
@@ -665,7 +692,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c7ca1668f4cdf4c7",
@@ -6634,38 +6661,6 @@
    "brand": "GU",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "8fc3b83dd2b3c444",
-   "url": "https://www.sanyonews.jp/article/1983909",
-   "title_original": "【ネパール大規模洪水・土砂災害 緊急支援】 ファーストリテイリング支援により瓦礫撤去とコミュニティインフラの復旧支援が決定",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/35080/398/resize/d35080-398-ddfa61795218d89a55d1-0.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T07:00:00+00:00",
-   "title_ja": "ファーストリテイリングがネパール洪水を支援",
-   "summary_ja": "ネパールでの大規模洪水・土砂災害を受け、ファーストリテイリングの支援により瓦礫撤去とインフラ復旧を行うことが決定した。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8d441fb9f14cbc6f",
-   "url": "https://www.couriermail.com.au/news/queensland/sunshine-coast/business/bargain-hunters-discover-the-limitedtime-deals-at-the-uniqlo-opening/news-story/07d1622f8ef896a3a9b3d7a39e01de8a",
-   "title_original": "Japanese retailer UNIQLO opens first Coast store",
-   "source": "The Courier Mail",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T06:12:02+00:00",
-   "title_ja": "ユニクロがコースト地域に初出店 海外での店舗網をさらに拡大",
-   "summary_ja": "日本のアパレル企業であるユニクロが、コースト地域にて初となる店舗をオープンしました。現地でのブランド展開を推し進め、新たな地域での顧客獲得と認知度の向上を目指していきます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
