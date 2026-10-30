@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T20:49:26.225971+09:00",
+ "updated_at": "2026-10-31T02:25:00.615547+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,7 +19,6 @@
   "- PeopleAsia",
   "36Kr",
   "5 Dariya News",
-  "@DIME アットダイム",
   "ABEMA",
   "AD HOC NEWS",
   "ADWEEK",
@@ -33,6 +32,7 @@
   "Banglanews24",
   "BigGo Finance",
   "BigGo ファイナンス",
+  "Billionaires.Africa",
   "Bloomberg.com",
   "Branding in Asia",
   "BroadwayWorld",
@@ -65,6 +65,7 @@
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
+  "IMPACT Magazine",
   "ITmedia",
   "Il Sole 24 ORE",
   "Indian Retailer",
@@ -75,7 +76,6 @@
   "KAB 熊本朝日放送",
   "Koubo",
   "L'Officiel Philippines",
-  "LASISA",
   "LEE",
   "LifeVancouver カナダ・バンクーバー現地情報",
   "LionhearTV",
@@ -93,6 +93,7 @@
   "NHKニュース",
   "Newswav",
   "OCEANS オーシャンズ",
+  "Oui Speak Fashion (OSF)",
   "PR Newswire Canada",
   "PR TIMES",
   "Passionate In Marketing",
@@ -166,7 +167,6 @@
   "サカイタイムズ",
   "サッカー批評Web",
   "サンスポ",
-  "ジモはる",
   "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
@@ -176,7 +176,6 @@
   "ネットショップ担当者フォーラム",
   "ハフポスト",
   "ファッションプレス",
-  "ファミ通.com",
   "マイナビニュース",
   "マイナビ子育て",
   "マイライフニュース",
@@ -200,11 +199,11 @@
   "日テレNEWS NNN",
   "日本経済新聞",
   "日経CNBC online",
-  "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
   "東京報道新聞",
   "横浜で暮らそう",
+  "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
   "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
@@ -214,7 +213,6 @@
   "西日本新聞me",
   "読売新聞",
   "週刊女性PRIME",
-  "電撃オンライン",
   "風傳媒",
   "매일경제",
   "아시아경제",
@@ -224,16 +222,17 @@
  "count": 400,
  "detail_count": 230,
  "digest": {
-  "headline": "ファーストリテイリング業績拡大と上海旗艦店刷新、靴下の値上げ撤回",
+  "headline": "ファーストリテイリング売上高約3.96兆円、上海店舗の刷新や靴下値上げ撤回が話題",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高が約3.96兆円に達し、グループ全体の業績が大きく拡大している。",
+    "text": "ファーストリテイリングの2026年8月期の売上高が約3兆9633億円に到達し、売上高10兆円の大台を目指す今後の成長戦略が注目されています。",
     "ids": [
-     "28127c63360b6b32"
+     "28127c63360b6b32",
+     "63fdc78ea5348a77"
     ]
    },
    {
-    "text": "ユニクロは消費者からの強い反発を受け、靴下の値上げ方針を短期間で撤回し、従来の価格を維持することを決定した。",
+    "text": "ユニクロは、日本国内の消費者からの強い反発や批判を受けて、予定していた靴下の値上げ方針をわずか11日間で撤回しました。",
     "ids": [
      "548c1c53632dc963",
      "9f668290a7a0d43d",
@@ -241,32 +240,113 @@
     ]
    },
    {
-    "text": "中国・上海のグローバル旗艦店がリニューアルオープンし、大量出店から「選択と集中」への方針転換や個店経営を推進する。",
+    "text": "中国・上海のグローバル旗艦店などがリニューアルオープンし、大量出店路線から「選択と集中」や個店経営への方針転換が進められています。",
     "ids": [
-     "8cfc84d03f18fd4e",
+     "1f1ca5c2fab7edc0",
      "d6a41e3a444bfcf9",
      "c7ca1668f4cdf4c7"
     ]
    },
    {
-    "text": "ケイト・ブランシェット氏や東京大学と協業し、女性支援の新プロジェクト発足や初の公募エッセイ誌創刊を発表した。",
+    "text": "俳優のケイト・ブランシェット氏らを迎え、女性の声を届けるグローバルプロジェクトや新しい文学雑誌を発刊する取り組みが始動しました。",
     "ids": [
-     "a60e5a07c81c204a",
-     "768adeb8973b385a"
+     "2a616680dd657102",
+     "20a1408767c8d7ab",
+     "a60e5a07c81c204a"
     ]
    },
    {
-    "text": "SNSではユニクロのクルーネックセーターが急上昇し、Xで3日に16件の投稿が確認されている。",
+    "text": "SNSではユニクロ クルーネックセーターが話題となり、Xで3日に14件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-27T20:57:59.765601+09:00",
-  "generated_at": "2026-10-30T20:58:01.675188+09:00",
+  "from": "2026-10-28T02:30:28.954261+09:00",
+  "generated_at": "2026-10-31T02:30:31.050741+09:00",
   "article_count": 24,
-  "sig": "af920ea268e0"
+  "sig": "7f8e7afb02fe"
  },
  "items": [
+  {
+   "id": "95d1e920ddb8e152",
+   "url": "https://www.billionaires.africa/2026/10/30/japanese-billionaire-tadashi-yanais-firm-sues-maui-landowner-over-water-bills",
+   "title_original": "Japanese billionaire Tadashi Yanai's firm sues Maui landowner over water bills",
+   "source": "Billionaires.Africa",
+   "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/10/IMG_5894.PNG",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T16:13:15+00:00",
+   "title_ja": "柳井正氏のファストリ、マウイ島の土地所有者を提訴",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長の関連企業が、マウイ島の土地所有者に対して水道料金を巡る訴訟を起こしたと報じられた。詳細は現地での法的手続きに注目が集まっている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "05ddb3b57ad798ac",
+   "url": "https://musashikosugi.blog.shinobi.jp/Entry/7401",
+   "title_original": "ユニクロ武蔵小杉東急スクエア店が拡張オープン、「三ちゃん食堂」「ぱぱぱぱーん」限定コラボなど地域密着コーナーも充実",
+   "source": "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
+   "image": "https://nblog.cnobi.jp/v1/blog/user/0ad47e9f18d9065b97b411739eb8d18f/1677403099",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T14:46:40+00:00",
+   "title_ja": "ユニクロ武蔵小杉東急スクエア店が売場を拡大して再オープン",
+   "summary_ja": "武蔵小杉東急スクエア店が売り場を広げてリニューアルオープンした。地元の名店「三ちゃん食堂」や「ぱぱぱぱーん」との限定コラボ商品など、地域に根差した企画コーナーも充実させている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "aed466353288529f",
+   "url": "https://www.impactonnet.com/more-from-impact/uniqlo-partners-with-17000-ft-foundation-to-distribute-heattech-thermals-in-ladakh-17376.html",
+   "title_original": "UNIQLO partners with 17000 ft Foundation to distribute HEATTECH thermals in Ladakh",
+   "source": "IMPACT Magazine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T13:39:46+00:00",
+   "title_ja": "ユニクロ、ラダックの子供たちにヒートテックを寄贈へ",
+   "summary_ja": "ユニクロは17000 ft Foundationと提携し、インド・ラダック地方の住民や子供たちに向けて、寒さ対策として高機能保温衣料「ヒートテック」の配布を実施する。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "1f1ca5c2fab7edc0",
+   "url": "https://mainichi.jp/english/articles/20261030/p2g/00m/0bu/063000c",
+   "title_original": "Uniqlo opens revamped shop in Shanghai amid sluggish China consumption",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/10/30/20261030p2g00m0bu062000p/0c10.jpg?1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T13:33:32+00:00",
+   "title_ja": "ユニクロ、消費低迷の中国・上海で大型店舗を改装刷新",
+   "summary_ja": "消費の鈍化が続く中国市場において、ユニクロは上海の店舗を改装して新たにオープンした。現地での販売強化に向けた戦略的な店舗リニューアルとして注目されている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "81c5ebebf47e4f7d",
+   "url": "https://travel.watch.impress.co.jp/docs/news/2152794.html",
+   "title_original": "ユニクロ、梅田限定「ミャクミャク」Tシャツ＆バッグ本日発売。スタンプや刺繍でオリジナルも作れる 「UNIQLO UMEDA」1周年祭",
+   "source": "トラベル Watch",
+   "image": "https://travel.watch.impress.co.jp/img/trw/list/2152/794/00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T11:53:16+00:00",
+   "title_ja": "ユニクロ梅田店、ミャクミャク限定商品を発売",
+   "summary_ja": "「UNIQLO UMEDA」の1周年を記念し、大阪・関西万博のミャクミャクをあしらったTシャツとバッグが本日より限定発売されます。刺繍やスタンプでカスタマイズも可能です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "8cfc84d03f18fd4e",
    "url": "https://www.hokkaido-np.co.jp/article/1399937",
@@ -281,7 +361,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "63b3fd38815dbae9",
@@ -297,7 +377,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f00ed4d5b382add2",
@@ -310,6 +390,70 @@
    "published": "2026-10-30T11:19:34+00:00",
    "title_ja": "ユニクロの上海店舗が改装　大量出店から「選択と集中」へ移行",
    "summary_ja": "ユニクロが上海の既存店をリニューアルした。これまで展開してきた店舗数の拡大路線から方針を切り替え、出店先を厳選して質を高める「選択と集中」への取り組みを加速させる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "aca7beff162a94ac",
+   "url": "https://www.fashionsnap.com/article/2026-10-30/uniqlo-cate-blanchett",
+   "title_original": "俳優ケイト・ブランシェットが高松宮殿下記念世界文化賞を受賞 ユニクロが特注スーツを製作",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/c915a8cd-9c14-44b4-a6d7-47e98aae653d.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T11:00:00+00:00",
+   "title_ja": "ケイト・ブランシェットの世界文化賞授賞式用にユニクロが特注スーツ製作",
+   "summary_ja": "俳優のケイト・ブランシェット氏が高松宮殿下記念世界文化賞を受賞したことに伴い、ユニクロが授賞式用に特注スーツを製作した。特別な式典に合わせて仕立てられた衣装となっている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "700d4dad780c4d8a",
+   "url": "https://news.yahoo.co.jp/articles/827b78ae79a0c76587fef38ee3396fd0eeba8408/images/001",
+   "title_original": "ケイト・ブランシェットが高松宮殿下記念世界文化賞受賞 ユニクロが特注スーツを製作 (FASHIONSNAP)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJne4o32_nH-C5ZouZxzXWch774i1vKX6gPimYjCYmfyd5eM1_rHs6t0lcavWb6kKj1xTF1YH2P03E1Py6MVZW3o9t1IQ80jouNcOQ6w4ILe06qFGHp17wf15KKzrsTC_QLw==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T10:32:11+00:00",
+   "title_ja": "ユニクロ、世界文化賞受賞のケイト・ブランシェットに特別仕立てのスーツ提供",
+   "summary_ja": "高松宮殿下記念世界文化賞を受賞した俳優のケイト・ブランシェット氏のために、ユニクロが特注スーツを製作した。受賞式という大舞台に向けた洗練されたフォーマルスタイルを提案している。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2a616680dd657102",
+   "url": "https://prtimes.jp/main/html/rd/p/000000166.000068741.html",
+   "title_original": "女性の物語をつなぎ、新たな対話と学びを生み出すグローバルプロジェクト「stories she tells」をケイト・ブランシェット氏と始動",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/166/68741-166-456445191844d1585b5d27a83743a2e0-1200x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T10:02:04+00:00",
+   "title_ja": "ケイト・ブランシェット氏と新プロジェクト始動",
+   "summary_ja": "ユニクロは、ケイト・ブランシェット氏を迎え、女性の物語や対話を生み出すグローバルプロジェクト「stories she tells」を開始しました。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "e7519ad40f123ef1",
+   "url": "https://news.yahoo.co.jp/articles/df92657c768d9ca7da7b7b66cc711a72521663f2",
+   "title_original": "ユニクロ上海が刷新 海外からの旅行客“過去最多”でインバウンド需要を意識（テレビ朝日系（ANN））",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00000083-ann-000-4-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T09:34:25+00:00",
+   "title_ja": "ユニクロ上海店がリニューアル、インバウンド対応強化",
+   "summary_ja": "上海のユニクロ店舗が刷新され、過去最多となる海外からの旅行客によるインバウンド需要に対応する売り場づくりが行われています。",
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
@@ -329,7 +473,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d6a41e3a444bfcf9",
@@ -345,7 +489,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "04c5f603593db00e",
@@ -361,7 +505,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "dfe84820015256fe",
@@ -377,7 +521,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c4dbedb82727c621",
@@ -393,7 +537,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7d2f88bfc29275b5",
@@ -441,7 +585,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4d6e5cdb493978f1",
@@ -457,7 +601,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c820e0063a31e2bf",
@@ -489,7 +633,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "38916f7d1b088dcb",
@@ -506,6 +650,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "000b52c969919cb6",
+   "url": "https://news.yahoo.co.jp/articles/851c7265304da7025f902673d094ef92788a7769/images/000",
+   "title_original": "ハリウッド俳優が世界文化賞の授賞式で着用した黒スーツ、実は「ユニクロ」だった⇒「これは痺れます！」と驚きの声",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQtEeZEAgYrw-n02oQ-Sbldr6bPNVUmTyjBP-DMbQNLkegOwT_6pDJCEKygJ835GCRWB5Zkb40egf1G7Q1iSLa-erpU4MMbzGknSdJZOGL8PwtSx_DNgD7khSygbYfCA8g==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T03:36:07+00:00",
+   "title_ja": "ハリウッド俳優が世界文化賞でユニクロのスーツ着用",
+   "summary_ja": "世界文化賞の授賞式でハリウッド俳優が着用していた黒いスーツがユニクロのものだったことが判明し、大きな驚きと称賛の声が集まっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "c7ca1668f4cdf4c7",
@@ -604,22 +764,6 @@
    "has_detail": true
   },
   {
-   "id": "1ff03ee7d970b85c",
-   "url": "https://www.fastretailing.com/eng/group/news/2610301000.html",
-   "title_original": "UNIQLO and Cate Blanchett Launch \"stories she tells\" to Share Women's Stories and Foster New Dialogue and Connections - Inaugural issue of new literary magazine planned for autumn 2027; the University of Tokyo joins as first university partner | FAST RE",
-   "source": "Fast Retailing Co",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T00:00:00+00:00",
-   "title_ja": "ユニクロがケイト・ブランシェット氏と新プロジェクト始動　文芸誌も発刊へ",
-   "summary_ja": "ユニクロはケイト・ブランシェット氏と協力し、女性の物語を共有する新プロジェクトを始動しました。2027年秋には新たな文芸誌の創刊を予定しており、初の大学パートナーとして東京大学が参加することも発表されています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
    "id": "34d41ad81f7f5325",
    "url": "https://www.asiae.co.kr/en/article/world-general/2026103008213519756",
    "title_original": "\"I bought it because it was cheap, and now this?\" Uniqlo backs down in less than two weeks after consumer backlash",
@@ -652,6 +796,22 @@
    "has_detail": true
   },
   {
+   "id": "20a1408767c8d7ab",
+   "url": "https://ouispeakfashion.com/uniqlo-cate-blanchett-stories-she-tells-literary-magazine",
+   "title_original": "UNIQLO and Cate Blanchett Launch a Literary Magazine for Women’s Voices",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2025/08/OSF-Main-10.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T20:10:40+00:00",
+   "title_ja": "ケイト・ブランシェットと女性の文学雑誌を発行へ",
+   "summary_ja": "ユニクロは俳優のケイト・ブランシェット氏と共に、女性の声を届けるための新しい文学雑誌を創刊し、グローバルプロジェクトを始動させました。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "91a5f23bdfaa2b2e",
    "url": "https://fashionista.com/2026/10/uniqlo-cate-blanchett-launch-literary-magazine",
    "title_original": "Must Read: Uniqlo and Cate Blanchett Launch Literary Magazine, Lady Gaga Is Now Haus Labs' CEO",
@@ -665,7 +825,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4293985648f248f3",
@@ -858,6 +1018,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "5634e8989f125f08",
+   "url": "https://www.vietnam.vn/en/dinh-manh-ninh-va-dan-kol-trai-nghiem-cong-nghe-giu-nhiet-cua-uniqlo",
+   "title_original": "Dinh Manh Ninh and a group of KOLs experience Uniqlo's thermal insulation technology.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793250673175_thumb.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T05:00:38+00:00",
+   "title_ja": "ベトナムのKOLらがユニクロの保温技術を体験",
+   "summary_ja": "ベトナムで、歌手のディン・マイン・ニンをはじめとするインフルエンサーグループがユニクロの保温技術を体験したことが報じられました。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "fa5948cf0fee98f6",
@@ -6490,182 +6666,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "af06a9edfc066642",
-   "url": "https://www.jiji.com/jc/article?k=000000097.000164008&g=prt",
-   "title_original": "「ミーナ津田沼」リニューアルオープン 新津田沼に「Shin-tsu Cross」誕生：時事ドットコム",
-   "source": "時事ドットコム",
-   "image": "https://prcdn.freetls.fastly.net/release_image/164008/97/164008-97-21bcddd1d8645bedbd2e1a9ae7e8481c-3900x3110.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T05:46:00+00:00",
-   "title_ja": "商業施設「ミーナ津田沼」がリニューアル 新エリア誕生で刷新",
-   "summary_ja": "ファーストリテイリンググループが運営する商業施設「ミーナ津田沼」がリニューアルオープンしました。新津田沼エリアに拠点「Shin-tsu Cross」が誕生し、地域の賑わい創出を図ります。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "13661cea05f3d673",
-   "url": "https://news.yahoo.co.jp/articles/e34fcb9273760d1c815c0c3916ff1e5bcfff40ae",
-   "title_original": "新津田沼エリアが「Shin-tsu Cross」として新たなスタート！ 京成電鉄ら3社が連携、まちびらきセレモニー開催（ニッポン放送）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00555195-nshaberu-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T05:40:58+00:00",
-   "title_ja": "新津田沼エリアでまちびらき 京成電鉄など3社が連携して開催",
-   "summary_ja": "新津田沼エリアの新たなスタートとして「Shin-tsu Cross」のまちびらきセレモニーが開催されました。京成電鉄をはじめとする3社が連携し、地域の魅力を高める取り組みを推し進めます。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3527254334cc106a",
-   "url": "https://s.inside-games.jp/article/2026/10/16/189364.html",
-   "title_original": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
-   "source": "インサイド",
-   "image": "https://www.inside-games.jp/imgs/ogp_f/1794762.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T05:00:03+00:00",
-   "title_ja": "ユニクロが「スヌーピー」新作UTを12月中旬発売 帽子など全12点",
-   "summary_ja": "ユニクロは「スヌーピー」の新作UTコレクションを12月中旬に発売します。スウェットシャツやUVカットキャップなどを含む全12アイテムを揃え、多様なラインナップで展開される予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "2ff297e11713430c",
-   "url": "https://travel.watch.impress.co.jp/docs/news/2148731.html",
-   "title_original": "ユニクロ、「スヌーピー」新作メンズスウェット/オーバーサイズT/キャップを12月発売",
-   "source": "トラベル Watch",
-   "image": "https://travel.watch.impress.co.jp/img/trw/list/2148/731/00.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T03:48:11+00:00",
-   "title_ja": "ユニクロが「スヌーピー」新作メンズスウェットやキャップを12月発売",
-   "summary_ja": "ユニクロはキャラクター「スヌーピー」の新作メンズコレクションを12月に発売します。展開されるアイテムにはスウェットやオーバーサイズTシャツ、キャップなどが登場する予定です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7b4ad36cde7f7788",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102120597",
-   "title_original": "小田急「もころん」・京王「けい太くん」がユニクロTシャツに！世田谷千歳台店で10月23日発売",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483670621370844396/origin_1.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T03:39:49+00:00",
-   "title_ja": "小田急「もころん」と京王「けい太くん」のユニクロTシャツが世田谷千歳台店で発売",
-   "summary_ja": "小田急電鉄のキャラクター「もころん」と京王電鉄の「けい太くん」をデザインしたオリジナルTシャツが、ユニクロ世田谷千歳台店にて10月23日より発売されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "62694cef49eb7dad",
-   "url": "https://s.inside-games.jp/article/2026/10/16/189356.html",
-   "title_original": "ユニクロから「スヌーピー」のキッズコレクションが12月上旬発売！“ミュージックタイム”がテーマのスウェットシャツ、UVカットキャップ全8種",
-   "source": "インサイド",
-   "image": "https://www.inside-games.jp/imgs/ogp_f/1794751.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T03:25:02+00:00",
-   "title_ja": "ユニクロが「スヌーピー」のキッズコレクションを12月上旬に発売",
-   "summary_ja": "ユニクロから「スヌーピー」をあしらったキッズコレクションが12月上旬に発売されます。“ミュージックタイム”をテーマに、スウェットシャツやUVカットキャップなど全8種が登場します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "db86823929f8fe8d",
-   "url": "https://dengekionline.com/article/202610/91159",
-   "title_original": "【ジョジョ×GU】歴代の強敵コラボが12月11日発売！ 柱の男やディオたちのアパレルが登場",
-   "source": "電撃オンライン",
-   "image": "https://cimg.kgl-systems.io/camion/files/91159/ogp_HEit.jpg?x=1280",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T03:20:00+00:00",
-   "title_ja": "GUとジョジョの歴代強敵コラボが12月発売",
-   "summary_ja": "GUは、「ジョジョの奇妙な冒険」シリーズの歴代の敵キャラクターをデザインしたコラボアパレルを12月11日に発売する。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "45804df7db3c60e2",
-   "url": "https://lasisa.net/post/164788",
-   "title_original": "【きょう発売】「一番気になってる」…ユニクロ、注目コラボの 《ショートブルゾン》！ 男女兼用で「シンプルにおしゃれ」「着回し最強」",
-   "source": "LASISA",
-   "image": "https://lasisa.net/wp-content/uploads/2027/10/261016-usb-01.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T03:03:00+00:00",
-   "title_ja": "ユニクロが注目のコラボアイテム「ショートブルゾン」を本日発売",
-   "summary_ja": "ユニクロから注目のコラボレーション新作「ショートブルゾン」が本日発売を開始しました。性別を問わず着用可能な男女兼用のシンプルなデザインで、幅広い着こなしに対応する一着となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2598c119f99523c3",
-   "url": "https://www.famitsu.com/article/202610/91150",
-   "title_original": "【ジョジョ】歴代の宿敵たちを落とし込んだアイテムがGUより12月11日発売。DIO、柱の男、石仮面、吉良吉影のネクタイ柄のカーディガンなど並ぶ",
-   "source": "ファミ通.com",
-   "image": "https://cimg.kgl-systems.io/camion/files/91150/thumbnail_AYmD.jpg?x=1280",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T01:25:00+00:00",
-   "title_ja": "GUが「ジョジョ」とコラボした商品を12月11日に発売へ、歴代の宿敵モチーフが登場",
-   "summary_ja": "GUは、人気アニメ「ジョジョの奇妙な冒険」の歴代宿敵をモチーフにしたコラボアイテムを12月11日より発売します。DIOや柱の男、石仮面などの要素を取り入れたデザインのほか、吉良吉影のネクタイ柄カーディガンなどが展開される予定です。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "ea02172c1e9925cf",
-   "url": "https://jimoharu.net/mina-tsudanuma-renewal-20261016",
-   "title_original": "ミーナ津田沼の営業時間・駐車場・フロア別の店｜ユニクロは2・3階、ジーユーは4階、駐車場は買い物で2時間半サービス・約800台(他施設と共用)、2026年10月16日にリニューアル",
-   "source": "ジモはる",
-   "image": "https://jimoharu.net/wp-content/uploads/2026/10/mina-tsudanuma-1016-eye.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T01:06:38+00:00",
-   "title_ja": "ミーナ津田沼がリニューアル、ユニクロとGUのフロア案内も",
-   "summary_ja": "2026年10月16日にリニューアルされたミーナ津田沼のフロア情報が公開され、ユニクロが2・3階、ジーユーが4階に入居していることが案内されています。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "97ed790ff1a009bd",
-   "url": "https://dime.jp/genre/2162665",
-   "title_original": "演劇などのアカデミックな文化から着想を得た「UNIQLO and JW ANDERSON」の秋冬コレクション",
-   "source": "@DIME アットダイム",
-   "image": "https://dime.jp/wp-content/uploads/2026/10/1-39-770x513.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T00:00:00+00:00",
-   "title_ja": "演劇文化に着想を得たユニクロとJWアンダーソン秋冬",
-   "summary_ja": "アカデミックな演劇文化からインスピレーションを受けた、「UNIQLO and JW ANDERSON」の秋冬コレクションが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
