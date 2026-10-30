@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:10:53.874409+09:00",
+ "updated_at": "2026-10-30T12:22:33.243802+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,7 +19,6 @@
   "- PeopleAsia",
   "36Kr",
   "5 Dariya News",
-  "7NEWS",
   "@DIME アットダイム",
   "ABEMA",
   "AD HOC NEWS",
@@ -48,7 +47,6 @@
   "ELLE",
   "EVOKE",
   "Excite エキサイト",
-  "Explosion Network",
   "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
   "FashionNetwork India",
@@ -143,7 +141,6 @@
   "Who What Wear",
   "Women Love Tech",
   "X",
-  "Yahoo Life UK",
   "Yahoo News Canada",
   "Yahoo!ニュース",
   "YorkRegion.com",
@@ -223,50 +220,161 @@
  "count": 400,
  "detail_count": 238,
  "digest": {
-  "headline": "ユニクロが靴下の値上げとまとめ買い終了を撤回、新店舗やコラボも続々",
+  "headline": "ユニクロが靴下値上げを撤回、中国事業の再構築や初のエッセイ誌創刊も発表",
   "points": [
    {
-    "text": "ユニクロは、消費者からの強い反発や生活必需品としての重要性を考慮し、予定していた靴下の値上げと「まとめ買い」割引の終了方針を撤回し、従来の価格を継続することを発表しました。",
+    "text": "ファーストリテイリングの2026年8月期の売上高が3兆9633億円に到達し、グループ全体の業績が大きく拡大している。",
+    "ids": [
+     "28127c63360b6b32"
+    ]
+   },
+   {
+    "text": "ユニクロは消費者からの反発や批判を受け、予定していた靴下の100円値上げやまとめ買い割引の終了方針を撤回した。",
     "ids": [
      "548c1c53632dc963",
-     "9f668290a7a0d43d",
-     "a00d8df7e7f79979"
+     "a00d8df7e7f79979",
+     "3f3573bf01d1c88b"
     ]
    },
    {
-    "text": "ファーストリテイリングが売上高10兆円を目指す中、中国・上海のグローバル旗艦店の刷新など海外事業の再強化や、京都や新大阪での店舗オープン・リニューアルが進められています。",
+    "text": "上海の旗艦店刷新など中国事業の個店経営を推進するほか、俳優のケイト・ブランシェット氏らと協業し初の公募エッセイ誌を創刊する。",
     "ids": [
-     "63fdc78ea5348a77",
+     "c7ca1668f4cdf4c7",
      "8042cc7bf7c26077",
-     "6ff88de02b20d765"
+     "768adeb8973b385a"
     ]
    },
    {
-    "text": "ユニクロはエフ・リッソとのコラボ商品の発売や、ケイト・ブランシェット氏や東京大学と協業した女性支援プロジェクトおよび初のエッセイ誌創刊を発表しました。",
+    "text": "GUが「ちいかわ」との新作コラボを発表したほか、ユニクロでは「F.RISSO」とのコラボニットが発売された。",
     "ids": [
-     "a60e5a07c81c204a",
-     "fda8ac7568b2f784",
-     "c12ebac36f9e13cf"
+     "3794d33715cb4537",
+     "0190078ce7f426db"
     ]
    },
    {
-    "text": "GUでは、「ちいかわ」との新しいコラボレーションラインとして、寒くなる季節に向けたニットやルームウェアなどの豊富なアイテムが発表されました。",
-    "ids": [
-     "3794d33715cb4537"
-    ]
-   },
-   {
-    "text": "SNSではユニクロのクルーネックセーターが注目を集め、Xで13件の投稿が確認されています。",
+    "text": "SNSではユニクロのクルーネックセーターが話題となり、Xで3日に14件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-27T07:16:37.828168+09:00",
-  "generated_at": "2026-10-30T07:16:40.114668+09:00",
+  "from": "2026-10-27T12:28:59.674109+09:00",
+  "generated_at": "2026-10-30T12:29:01.795323+09:00",
   "article_count": 24,
-  "sig": "376bd3040fc4"
+  "sig": "7ec02e4ef2f1"
  },
  "items": [
+  {
+   "id": "c7ca1668f4cdf4c7",
+   "url": "https://www.nikkei.com/article/DGXZQOUC274HN0X21C26A0000000",
+   "title_original": "ユニクロ、中国事業を再構築 上海・旗艦店で「個店経営」を進化",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3789253027102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a985da9b4794769562bca12889657b9f",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T03:15:00+00:00",
+   "title_ja": "ユニクロが中国事業を再構築　上海の旗艦店などで地域密着の個店経営を推進",
+   "summary_ja": "ユニクロは、中国での事業体制を再構築する取り組みを進めています。上海の旗艦店などを拠点に、地域ごとの需要に応じた「個店経営」の仕組みをさらに進化させ、中国市場における成長を図る考えです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "ba54388e3ed3fa99",
+   "url": "https://news.yahoo.co.jp/articles/2811e7877f7a8db3187bbfc1a8bbc4153f626296",
+   "title_original": "ユニクロ「50色ソックス」値上げを撤回、内藤剛志さん「決定を変えられることが素晴らしい、宣伝戦略かな」",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00000003-jct-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T02:45:00+00:00",
+   "title_ja": "ユニクロが「50色ソックス」の値上げを撤回　タレントの内藤剛志さんも言及",
+   "summary_ja": "ユニクロが定番商品「50色ソックス」の値上げ方針を撤回したことに対し、タレントの内藤剛志さんがコメントしました。一度下した判断を素早く変更できる姿勢を評価しつつ、注目を集めるための戦略の可能性についても述べています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f145fa95bd62b513",
+   "url": "https://www.vietnam.vn/ja/uniqlo-tang-9-bac-trong-bang-xep-hang-thuong-hieu-toan-cau",
+   "title_original": "ユニクロは世界ブランドランキングで9ランク上昇した。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/30/1793324656867_tnw-17932623511892008660563256370364730097731705373697423040ce1033e65c3cf6c5b95115de1eb-17932682563201715484393-464-0-1536-2048-crop-17932682980812012.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T01:36:00+00:00",
+   "title_ja": "ユニクロが世界のブランドランキングで順位を9ランク切り上げ",
+   "summary_ja": "ユニクロが、世界のブランド評価ランキングにおいて前回から順位を9ランク上昇させたことが明らかになりました。グローバル市場におけるブランド価値や知名度の高まりが数値として反映された形です。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "28127c63360b6b32",
+   "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/fast-retailing-stock-fy2026-revenue-reaches-jpy-3-9633-trillion/70431822",
+   "title_original": "Fast Retailing stock: FY2026 revenue reaches JPY 3.9633 trillion",
+   "source": "ad-hoc-news.de",
+   "image": "https://mdb.ad-hoc-news.de/bild/bild-2404982_1920_1080.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T01:20:41+00:00",
+   "title_ja": "ファーストリテイリング、2026年8月期売上高は約3.96兆円に",
+   "summary_ja": "ファーストリテイリングの2026年8月期の売上高が3兆9633億円に到達したことが明らかになった。国内外での堅調な事業展開を背景に、グループ全体の業績が大きく拡大している。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
+  {
+   "id": "c2ffa3b76ad684cf",
+   "url": "https://news.yahoo.co.jp/articles/83a0e54a8b27c98802e28cf1ce373bfea62d8eca",
+   "title_original": "【ユニクロ】自分だけの「モンチッチ」服が作れちゃう！UTmeの新スタンプや700円からの本格刺繍で自分色にカスタム（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00143881-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T00:45:58+00:00",
+   "title_ja": "ユニクロのUTme!に「モンチッチ」の新スタンプと刺繍が登場",
+   "summary_ja": "ユニクロのカスタムサービス「UTme!」に、モンチッチの新スタンプや本格的な店頭刺繍が追加された。Tシャツやトートバッグを自分好みにアレンジできる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1ff03ee7d970b85c",
+   "url": "https://www.fastretailing.com/eng/group/news/2610301000.html",
+   "title_original": "UNIQLO and Cate Blanchett Launch \"stories she tells\" to Share Women's Stories and Foster New Dialogue and Connections - Inaugural issue of new literary magazine planned for autumn 2027; the University of Tokyo joins as first university partner | FAST RE",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:00:00+00:00",
+   "title_ja": "ユニクロがケイト・ブランシェット氏と新プロジェクト始動　文芸誌も発刊へ",
+   "summary_ja": "ユニクロはケイト・ブランシェット氏と協力し、女性の物語を共有する新プロジェクトを始動しました。2027年秋には新たな文芸誌の創刊を予定しており、初の大学パートナーとして東京大学が参加することも発表されています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "34d41ad81f7f5325",
+   "url": "https://www.asiae.co.kr/en/article/world-general/2026103008213519756",
+   "title_original": "\"I bought it because it was cheap, and now this?\" Uniqlo backs down in less than two weeks after consumer backlash",
+   "source": "아시아경제",
+   "image": "https://cphoto.asiae.co.kr/listimglink/1/2026103008004480135_1793314844.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T23:30:33+00:00",
+   "title_ja": "ユニクロが反発を受け対応撤回　購入者の批判高まり2週間で方針変更",
+   "summary_ja": "ユニクロの施策に対し、購入した消費者から不満や反発の声が相次ぎました。批判が高まったことを受け、同社は開始から2週間足らずで方針の撤回や対応の変更を余儀なくされています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "ca8157f05dbf22a5",
    "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69980274-cascale-fast-retailing-turning-data-into-supply-chain-action-200.htm",
@@ -393,7 +501,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4bfcc576d226c51e",
@@ -6551,118 +6659,6 @@
    "title_ja": "ユニクロがアンケート回答で服のリペアサービスを一部無料化",
    "summary_ja": "ユニクロにおいて、アンケートに回答した利用者を対象に、衣類修繕を行うリペアサービスの一部メニューを無料で提供する取り組みが実施されていることを伝える記事です。",
    "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9366c63246f5533e",
-   "url": "https://news.yahoo.co.jp/articles/a30a8c206ef9d02983ea5bfc06120d54537ed145/images/008",
-   "title_original": "【ユニクロ】ヘビロテ間違いなしの限定コラボ「キレイめ秋冬パンツ」ベーシックで季節感も！｜VERY (magacol)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaS3oGyF0cXhpHeJPlDcYVekpqjOZ069THu8ux5liBzQZ_7YYoDOAoaLH3DdY9WvFfd5ghIPA90vdhJ5kejAuoQ8iEG1zR5OyG7joZx4Fbu-UZzgxCugbCKCdWbmEWexfw==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T06:00:34+00:00",
-   "title_ja": "ユニクロのキレイめ秋冬パンツ新作が発売",
-   "summary_ja": "ヘビロテ間違いなしと注目を集める、ユニクロの限定コラボによるベーシックで季節感のあるキレイめ秋冬パンツを紹介します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "020b282b30c26c6f",
-   "url": "https://uk.style.yahoo.com/forget-knits-jackets-uniqlo-x-060000057.html",
-   "title_original": "‘Forget knits and jackets, the Uniqlo x JW Anderson piece I'm waking up early for is the £8 socks'",
-   "source": "Yahoo Life UK",
-   "image": "https://s.yimg.com/lo/mysterio/api/08e3753a73ad9147bdf6eb8c65ce3afe27fde3fdf473cfac485cf2f004ef469d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_uk_129%2F1c85ebc28d234e6c2259e9b75d006e2c.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T06:00:00+00:00",
-   "title_ja": "ユニクロとJWアンダーソンのコラボソックスが注目",
-   "summary_ja": "ユニクロとJWアンダーソンの最新コラボレーションから、手頃な価格で購入できるソックスが話題を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "20683fb03c629b04",
-   "url": "https://www.mk.co.kr/jp/business/12176717",
-   "title_original": "ユニクロが古着を直接修繕して長く着る文化を知らせる体験プログラムを用意した。 衣類のリサイクルを越え、修繕とリメークを通じて服の使用期間を増やす循環ファッション活動を強化する姿だ。ユニクロは国際修繕の..",
-   "source": "매일경제",
-   "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.07a8f1b1a52743388df2391b664b5a9f_R.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-15T05:54:12+00:00",
-   "title_ja": "ユニクロが服の修繕・リメイク体験プログラムを実施、循環型ファッションを推進",
-   "summary_ja": "ユニクロは、古着を修繕やリメイクして長く着用する文化を伝える体験プログラムを開始した。衣類のリサイクルにとどまらず、修繕などを通じて服の使用期間を延ばすことで、循環型ファッションの取り組みを強化している。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "df87d8c2459bad44",
-   "url": "https://www.mk.co.kr/en/business/12176717",
-   "title_original": "Uniqlo has prepared an experience program to promote the culture of repairing old clothes and wearin..",
-   "source": "매일경제",
-   "image": "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.07a8f1b1a52743388df2391b664b5a9f_R.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T05:54:12+00:00",
-   "title_ja": "ユニクロが服を補修して長く着る文化を広める体験プログラムを開始",
-   "summary_ja": "ユニクロが、古くなった服を修繕して着用し続ける文化を促進するため、利用者が参加できる体験型プログラムを用意しました。衣類を大切に長く使うサステナビリティの取り組みの一環として実施されています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f1d38e4e2fbea0b2",
-   "url": "https://explosionnetwork.com/uniqlo-pokemon-30th-anniversary-t-shirt-collection-launches-in-australia",
-   "title_original": "UNIQLO Pokémon 30th Anniversary T-Shirt Collection Launches In Australia",
-   "source": "Explosion Network",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T04:56:42+00:00",
-   "title_ja": "ユニクロが豪州でポケモン30周年記念Tシャツコレクションを発売",
-   "summary_ja": "ユニクロはオーストラリアにおいて、ポケモン30周年を記念したTシャツコレクションの販売を開始した。人気作品の節目を祝う特別なグラフィックTシャツのラインナップが現地に登場している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0e77ef00c6bff516",
-   "url": "https://7news.com.au/7you/fashion/this-new-uniqlo-collaboration-brings-a-slice-of-the-french-riviera-to-aussie-shores-c-23022923",
-   "title_original": "This new UNIQLO collaboration brings a slice of the French Riviera to Aussie shores",
-   "source": "7NEWS",
-   "image": "https://images.7news.com.au/publication/C-23022923/d2b4b305a3049d44a444a3067e477e8a54f524fe-16x9-x0y0w1920h1080.png?imwidth=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T03:44:25+00:00",
-   "title_ja": "ユニクロがフレンチリゾート風の新作コラボを豪州で発売",
-   "summary_ja": "ユニクロは、フランスのリゾート地フレンチ・リヴィエラの雰囲気を表現した新たなコラボレーション商品をオーストラリアで発売した。洗練されたフレンチスタイルのコレクションを現地の市場へ届ける。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a44726be35f71a0e",
-   "url": "https://www.passionateinmarketing.com/kriti-sanon-and-jasprit-bumrah-take-on-winter-dressing-with-easy-uniqlo-fleece",
-   "title_original": "Kriti Sanon and Jasprit Bumrah Take on Winter Dressing with Easy UNIQLO Fleece",
-   "source": "Passionate In Marketing",
-   "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/10/KJ7xmy87-uniqlo.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-15T03:04:20+00:00",
-   "title_ja": "インドで女優のクリティ・サノンらがユニクロのフリース姿を披露",
-   "summary_ja": "ユニクロの冬向けフリース製品を着用し、女優のクリティ・サノン氏とクリケット選手のジャスプリット・ブムラ氏が快適な着こなしを提案しています。有名タレントを通じてブランドや商品の魅力をアピールしています。",
-   "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
