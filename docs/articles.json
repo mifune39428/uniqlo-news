@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T12:07:16.928022+09:00",
+ "updated_at": "2026-10-31T20:23:08.967791+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -61,7 +61,6 @@
   "HOME広島ホームテレビ",
   "Hashtag Legend Hong Kong",
   "Hindustan Times",
-  "Honolulu Civil Beat",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
@@ -85,7 +84,6 @@
   "Manila Standard",
   "MarkeZine",
   "Marketing-Interactive",
-  "Metro.co.uk",
   "Mission Local",
   "Modaes",
   "Mothership",
@@ -119,7 +117,6 @@
   "The Economic Times",
   "The Fashion Post",
   "The Financial Express",
-  "The Times Australia",
   "The Vent Machine -",
   "Times Colonist",
   "Traders Union",
@@ -135,7 +132,6 @@
   "Vietnam.vn",
   "Village Pipol",
   "Vogue Japan",
-  "WWD",
   "WWDJAPAN",
   "Web eclat",
   "Who What Wear",
@@ -151,6 +147,8 @@
   "dhakamagazine.com",
   "fashion headline",
   "fashionunited.jp",
+  "https://www.japancanadatoday.ca/",
+  "khorasantimes.com",
   "marketech apac",
   "puck.news",
   "shiritomo",
@@ -167,6 +165,7 @@
   "サカイタイムズ",
   "サッカー批評Web",
   "サンスポ",
+  "スクリーンオンライン",
   "ダイヤモンド・オンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
@@ -183,7 +182,6 @@
   "ラブすぽ",
   "レスポンス（Response.jp）",
   "下野新聞社",
-  "中日新聞Web",
   "北海道新聞デジタル",
   "千葉テレビ放送",
   "千葉テレビ放送株式会社",
@@ -219,51 +217,122 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 234,
+ "detail_count": 231,
  "digest": {
-  "headline": "ファーストリテイリングの業績拡大と、中国市場での戦略刷新",
+  "headline": "ユニクロの中国戦略転換や靴下値上げ撤回、最新動向まとめ",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高が3兆9633億円に到達し、グループ全体の業績が大きく拡大しています。",
+    "text": "ファーストリテイリングの2026年8月期の売上高は3兆9633億円に到達し、グループ全体の業績が大きく拡大しています。",
     "ids": [
      "28127c63360b6b32"
     ]
    },
    {
-    "text": "ユニクロは消費者からの反発を受け、日本国内における靴下の値上げ方針を撤回することを明らかにしました。",
+    "text": "ユニクロは、消費者からの反発を受けて靴下の値上げ方針を撤回することを明らかにしました。",
     "ids": [
      "548c1c53632dc963",
      "9f668290a7a0d43d",
-     "8042cc7bf7c26077"
+     "7d3eecd9bf8b4fa6"
     ]
    },
    {
-    "text": "中国市場において、ユニクロは新規出店のペースよりも個々の店舗の収益性を重視する「選択と集中」へと戦略を転換しました。",
+    "text": "中国市場において、ユニクロは大量出店から収益性重視や「選択 and 集中」へと戦略を転換し、上海の店舗を改装刷新しました。",
     "ids": [
      "7836d009d26359f2",
-     "8cfc84d03f18fd4e",
-     "d6a41e3a444bfcf9"
+     "1f1ca5c2fab7edc0",
+     "8cfc84d03f18fd4e"
     ]
    },
    {
-    "text": "ユニクロはケイト・ブランシェット氏を迎え、女性の物語や対話を生み出すグローバルプロジェクト「stories she tells」を開始しました。",
+    "text": "俳優のケイト・ブランシェット氏とユニクロが共同でグローバルプロジェクト「stories she tells」を始動させました。",
     "ids": [
-     "2a616680dd657102",
-     "20a1408767c8d7ab"
+     "48a44e542e9abe3e",
+     "2a616680dd657102"
     ]
    },
    {
-    "text": "SNSではユニクロ クルーネックセーターが話題となり、Xで15件の投稿が確認されています。",
+    "text": "梅田店1周年を記念し、ミャクミャクをあしらったTシャツとバッグが発売され、カスタマイズサービスも展開されます。",
+    "ids": [
+     "81c5ebebf47e4f7d",
+     "38ff8400b35a9d93"
+    ]
+   },
+   {
+    "text": "SNSではユニクロ ルーズソックスが話題となり、Xで3日に5件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-28T12:13:39.748604+09:00",
-  "generated_at": "2026-10-31T12:13:41.518450+09:00",
+  "from": "2026-10-28T20:33:14.666539+09:00",
+  "generated_at": "2026-10-31T20:33:20.739923+09:00",
   "article_count": 24,
-  "sig": "84cc559180fa"
+  "sig": "7fb44c381ec1"
  },
  "items": [
+  {
+   "id": "4dc87b5f02cd69d8",
+   "url": "https://news.yahoo.co.jp/articles/c7c46dc6713522a85faaf9eac7c6a0571b9c91d6",
+   "title_original": "ユニクロ新作〈スヌーピーTシャツ＆スウェット〉プリント＆刺繍で描かれたPEANUTSの仲間たちの「さりげないユーモア」がキュートです（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00143000-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-31T08:31:02+00:00",
+   "title_ja": "ユニクロからPEANUTSデザインの新作スウェットとTシャツが登場",
+   "summary_ja": "ユニクロから、スヌーピーをはじめとするPEANUTSのキャラクターを描いた新作スウェットやTシャツが登場。プリントや刺繍を取り入れたシンプルかつキュートなデザインが特徴です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "15e3042945d19c84",
+   "url": "https://limo.media/articles/-/143000",
+   "title_original": "スヌーピーの「さりげないユーモア」が素敵。ユニクロ新作〈PEANUTS スウェット＆Tシャツ〉シンプルでおしゃれ。刺繍入りアイテムも！",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/d/4/1200w/img_d41ee77b6ebcabae23f639f5f24fb754216857.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-31T08:30:00+00:00",
+   "title_ja": "ユニクロがPEANUTS新作スウェット＆Tシャツを発売",
+   "summary_ja": "ユニクロがPEANUTSコレクションの新作としてスウェットやTシャツを発売。スヌーピーたちのユーモアあふれる姿を表現した刺繍やシンプルなデザインのアイテムがそろっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "48a44e542e9abe3e",
+   "url": "https://screenonline.jp/_ct/17873392?o=0&us=16924755",
+   "title_original": "ケイト・ブランシェットがグローバルプロジェクト「stories she tells（ストーリーズ シー テルズ）」をユニクロと共同で始動",
+   "source": "スクリーンオンライン",
+   "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782943/rc/2026/10/31/8b47b803bab20934b33ede08685e603f87d049bd_xlarge.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-31T08:15:00+00:00",
+   "title_ja": "ケイト・ブランシェット氏とユニクロが共同プロジェクトを発足",
+   "summary_ja": "俳優のケイト・ブランシェット氏が、ユニクロと共同でグローバルプロジェクト「stories she tells（ストーリーズ シー テルズ）」を始動させたことが明らかになりました。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bc0a368ad554ac82",
+   "url": "https://khorasantimes.com/?kh=8557&tname=Uniqlo-Okachimachi-Store-Exclusive-Panda-Illustration-Tote-Bag",
+   "title_original": "Uniqlo Okachimachi Store Exclusive! Panda Illustration Tote Bag khorasantimes.com",
+   "source": "khorasantimes.com",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-31T04:20:42+00:00",
+   "title_ja": "ユニクロ御徒町店でパンダイラストの限定トートバッグが登場",
+   "summary_ja": "ユニクロ御徒町店において、パンダのイラストがデザインされた限定トートバッグが登場しました。御徒町店でしか手に入らない特別な限定アイテムとして注目を集めています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "9ba74811da210f43",
    "url": "http://www.oricon.co.jp/pressrelease/3064743",
@@ -278,7 +347,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9fe90654c6cc7738",
@@ -327,6 +396,22 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
+  },
+  {
+   "id": "45f3a27330aab817",
+   "url": "https://www.sanyonews.jp/article/1954834?rct=oricon_news&kw=%E7%A6%8F%E7%A5%88",
+   "title_original": "ユニクロ、猛暑の“服選び” オフィス・真夏のキッチン・熱帯夜の寝室…“8つのシーン”で紹介",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/d/0/1/3/d013a4015587b5d61826489fb81611b1_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T16:43:07+00:00",
+   "title_ja": "ユニクロが猛暑対策の服選びを提案 8つのシーン別着こなしを紹介",
+   "summary_ja": "ユニクロは猛暑に向けた服選びのポイントを提案した。オフィスや真夏のキッチン、熱帯夜の寝室など8つの具体的なシーンに合わせ、快適に過ごすための着こなしを紹介している。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "95d1e920ddb8e152",
@@ -873,6 +958,22 @@
    "has_detail": true
   },
   {
+   "id": "73a55336cc4afa9a",
+   "url": "https://www.asiae.co.kr/en/article/2026103008213519756",
+   "title_original": "\"Uniqlo at This Price?\"... Consumers Up in Arms After Price Hike Announcement",
+   "source": "아시아경제",
+   "image": "https://cphoto.asiae.co.kr/listimglink/1/2026103008004480135_1793314844.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T23:30:33+00:00",
+   "title_ja": "ユニクロの値上げ発表に対し消費者の間で不満や反発の声が相次ぐ",
+   "summary_ja": "ユニクロによる商品の値上げ発表を受け、消費者から困惑や反発の声が広がっています。「この価格帯で購入すべきか」といった疑問が呈されており、価格改定が顧客の支持や購入動向に影響を与える可能性が懸念されています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "34d41ad81f7f5325",
    "url": "https://www.asiae.co.kr/en/article/world-general/2026103008213519756",
    "title_original": "\"I bought it because it was cheap, and now this?\" Uniqlo backs down in less than two weeks after consumer backlash",
@@ -901,6 +1002,22 @@
    "summary_ja": "ファーストリテイリングがサプライチェーンにおけるデータ活用を進めています。アパレルサステナビリティ機関のCascaleを通じ、データを具体的なサプライチェーン上の改善行動へつなげる取り組みが紹介されました。",
    "category": "サステナビリティ",
    "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "74fcdc4753a27faa",
+   "url": "https://ouispeakfashion.com/jp/uniqlo-cate-blanchett-stories-she-tells-literary-magazine",
+   "title_original": "ユニクロ（UNIQLO）、ケイト・ブランシェットと共に女性の声を届ける文芸誌を2027年秋に創刊",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/jp/wp-content/uploads/2025/08/OSF-Main-11.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T20:11:01+00:00",
+   "title_ja": "ユニクロがケイト・ブランシェットと連携し2027年秋に文芸誌を創刊",
+   "summary_ja": "ユニクロは、俳優のケイト・ブランシェット氏と共に女性の発信を支援する文芸誌を2027年秋に創刊することを発表しました。多様な女性の声を社会へ届けることを目的とした文化的なプロジェクトです。",
+   "category": "その他",
+   "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
   },
@@ -1015,22 +1132,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "d6e917119441610b",
-   "url": "https://wwd.com/fashion-news/fashion-features/uniqlo-cate-blanchett-literary-magazine-launch-1239390854",
-   "title_original": "Cate Blanchett and Uniqlo Launch \"Stories She Tells\" Literary Magazine",
-   "source": "WWD",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T09:14:33+00:00",
-   "title_ja": "ユニクロがケイト・ブランシェットと文芸誌を創刊",
-   "summary_ja": "ユニクロが俳優のケイト・ブランシェットとともに、新たな文芸誌「Stories She Tells」を創刊したことが発表されました。ブランドの新たな取り組みとして注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   },
   {
    "id": "7d3eecd9bf8b4fa6",
@@ -1353,6 +1454,22 @@
    "has_detail": true
   },
   {
+   "id": "5ad941fb653b36a5",
+   "url": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/112519",
+   "title_original": "宇部市・小羽山小学校、リユース・リサイクル学ぶ/山口県とファーストリテイリングが連携し環境学習",
+   "source": "山口新聞 電子版",
+   "image": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/picture/id/96397/fn/Et26x280045m.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T21:00:00+00:00",
+   "title_ja": "ファーストリテイリングと山口県が連携し小学校で環境学習を実施",
+   "summary_ja": "山口県とファーストリテイリングが連携し、宇部市立小羽山小学校にて衣料品のリユースやリサイクルをテーマにした環境授業が開催されました。児童たちが服の循環や環境保護の大切さについて学びを深めました。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "beb62ca5d4aca33b",
    "url": "https://www.mundodeportivo.com/en/20261028/1004244379/nike-adidas-and-uniqlo-remain-among-the-world-s-100-most-valuable-brands.html?facet=amp",
    "title_original": "Nike, Adidas, and Uniqlo remain among the world’s 100 most valuable brands",
@@ -1415,6 +1532,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "bf5a9712ac351e34",
+   "url": "https://www.japancanadatoday.ca/2026/10/28/uniqlo-canada-vancouver-flagship-af-pacific-centre-2027-spring",
+   "title_original": "ユニクロ、来春バンクーバーダウンタウンに旗艦店オープン",
+   "source": "https://www.japancanadatoday.ca/",
+   "image": "https://www.japancanadatoday.ca/wp-content/uploads/2026/10/UNIQLO-opening-MetroTown_2017-10.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T17:00:00+00:00",
+   "title_ja": "ユニクロが来春バンクーバーのダウンタウンに旗艦店を出店",
+   "summary_ja": "ユニクロは来年春、カナダ・バンクーバーのダウンタウン地区に新たな旗艦店をオープンする。現地市場におけるブランドの存在感をさらに高める取り組みとして期待されている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "6dfb1cc4852cfcae",
@@ -1815,6 +1948,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "da247e3a7b53aceb",
+   "url": "https://s.inside-games.jp/article/img/2026/10/28/189963/1792683.html",
+   "title_original": "ユニクロから「ミッフィー」の新作UTが12月下旬登場！上品でモダンなデザインの全4種 2枚目の写真・画像",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1792683.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-28T03:50:02+00:00",
+   "title_ja": "ユニクロから「ミッフィー」の新作UTが12月下旬に登場",
+   "summary_ja": "ユニクロのTシャツブランド「UT」より、「ミッフィー」をモチーフにした新作アイテムが12月下旬に発売される。上品かつモダンなデザインを採用した全4種類のラインナップを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "30b2904577144eee",
@@ -2333,7 +2482,7 @@
    "url": "https://www.vancouverisawesome.com/business/japanese-retailer-downtown-vancouver-flagship-nordstrom--12940105",
    "title_original": "Japanese retailer announces downtown Vancouver flagship in former Nordstrom space",
    "source": "Vancouver Is Awesome",
-   "image": "",
+   "image": "https://www.vmcdn.ca/f/files/via/images/business/uniqlo_coming-soon-announvement_vancouver.jpg;w=1200;h=800;mode=crop",
    "lang": "en",
    "region": "global",
    "published": "2026-10-27T03:15:00+00:00",
@@ -6518,150 +6667,6 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "2a0a6407486b42a0",
-   "url": "https://www.vietnam.vn/ja/uniqlo-mo-rong-ket-noi-voi-thanh-hoa-tu-san-xuat-con-nguoi-den-cong-dong",
-   "title_original": "ユニクロは、生産、人材、地域社会といったあらゆる面で、タインホア省とのつながりを拡大する。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/17/1792199431491_uniqlo-mo-rong-w720t0-di2641d180d5173330t11200l1-chi-o-thi-hien1.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T01:00:00+00:00",
-   "title_ja": "ユニクロがベトナム・タインホア省との連携を拡大　生産や人材、地域社会の面で関係強化へ",
-   "summary_ja": "ユニクロがベトナムのタインホア省において、生産体制の強化や人材の育成、さらには地域社会への寄与を含めた包括的な連携関係を拡大させている。多角的な面から地域とのつながりを深め、現地における事業基盤の強化を図る動きとして注目される。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8ec24ec1c1ea6a0b",
-   "url": "https://www.indianretailer.com/franchisetv/archives/news/uniqlo-opens-first-store-thane-lake-shore",
-   "title_original": "UNIQLO Opens First Store in Thane at Lake Shore",
-   "source": "Indian Retailer",
-   "image": "https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/dejfhubecj.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T00:00:00+00:00",
-   "title_ja": "ユニクロがインド・ターネーのレイクショアに地域初店舗をオープン",
-   "summary_ja": "ユニクロがインドのターネーにあるショッピングモール「レイクショア」に初出店を果たした。同地域への初進出店舗として、現地での新たな顧客層開拓や店舗網拡大を目指す。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a20a7da6cbc4707f",
-   "url": "https://www.chunichi.co.jp/article/1326406?rct=aichi",
-   "title_original": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
-   "source": "中日新聞Web",
-   "image": "https://static.chunichi.co.jp/image/article/size1/e/7/7/7/e777ae7227d38b3f9def9378a77b6c29_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T20:05:00+00:00",
-   "title_ja": "愛知・知多市の岡田小児童が難民支援の古着回収協力を地域に呼びかけ",
-   "summary_ja": "愛知県知多市の岡田小学校の児童が「古着を、難民の子のチカラに。」を掲げ、難民支援に向けた古着回収への協力を地域の住民へ呼びかけた。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "e82c679796172d40",
-   "url": "https://thetimes.com.au/australia/53196-uniqlo-announces-opening-date-of-australian-store-at-sunshine-plaza-queensland",
-   "title_original": "UNIQLO Announces Opening Date of Australian Store at Sunshine Plaza, Queensland",
-   "source": "The Times Australia",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T17:06:08+00:00",
-   "title_ja": "ユニクロが豪クイーンズランド州サンシャイン・プラザ店舗のオープン日を発表",
-   "summary_ja": "ユニクロが、オーストラリアのクイーンズランド州にある商業施設「サンシャイン・プラザ」に出店する新店舗のオープン日を発表した。豪州における事業展開の一環として注目を集めている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fef63f05c31434c0",
-   "url": "https://www.wwdjapan.com/articles/2527983",
-   "title_original": "1位は、「ジーユー」×「エンジニアド ガーメンツ」第3弾が登場 ミリタリー＆ワークスタイルの全8型を発売｜週間アクセスランキング TOP10（10月8〜14日）",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T12:03:53+00:00",
-   "title_ja": "GUが「エンジニアド ガーメンツ」コラボ第3弾を発表　全8型を展開",
-   "summary_ja": "GUとエンジニアド ガーメンツによるコラボレーションの第3弾が登場します。ミリタリーやワークスタイルを取り入れた全8型の商品が展開されます。アクセスランキングでも首位を獲得するなど高い関心を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "5e9c0c8fa1f56b17",
-   "url": "https://metro.co.uk/2026/10/16/jw-andersons-latest-uniqlo-collection-packed-autumn-buys-29711339",
-   "title_original": "JW Anderson’s latest Uniqlo collection is packed with autumn buys",
-   "source": "Metro.co.uk",
-   "image": "https://metro.co.uk/wp-content/uploads/2026/10/SEC_316735781-fc66_1792074098.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T12:00:00+00:00",
-   "title_ja": "JWアンダーソンとユニクロの秋冬新作コレクション",
-   "summary_ja": "JWアンダーソンとユニクロによる最新の秋冬コレクションが発表されました。季節感あふれるアイテムが多数揃い、注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7226067e7fcbcea2",
-   "url": "https://www.gqjapan.jp/article/20261016-uniqlo-jw-anderson-2026-aw-editor-news",
-   "title_original": "ユニクロ×JW アンダーソンの2026年秋冬コレクションが発売へ──GQエディターのベストバイ",
-   "source": "GQ Japan",
-   "image": "https://media.gqjapan.jp/photos/6ad06a75401dfd396fbdcf63/16:9/w_1280,c_limit/uniqlo-jw-anderson-2026-aw-editor-6.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T11:45:00+00:00",
-   "title_ja": "ユニクロとJWアンダーソンの2026年秋冬コラボコレクションが登場",
-   "summary_ja": "ユニクロとJWアンダーソンによる2026年秋冬コラボレーションコレクションが発売される。人気デザイナーとの最新コラボレーションについて、注目のアイテムやおすすめのラインナップを紹介している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c21cd380783d20f4",
-   "url": "https://news.yahoo.co.jp/articles/fcfbdf91b7ea7475ab0d4e518b97acbd5dc22668",
-   "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬最新作で買うべきアイテムは？【10月26日発売】（UOMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00010002-webuomo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T10:02:50+00:00",
-   "title_ja": "GUがエンジニアド ガーメンツとの秋冬コラボ新作を10月26日に発売",
-   "summary_ja": "ジーユーがエンジニアド ガーメンツとのコラボレーションによる秋冬最新作を10月26日に発売します。大人の男性に向けた注目の新作コレクションから、秋冬の着こなしに使えるおすすめのアイテムが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "435af6d688792169",
-   "url": "https://www.civilbeat.org/2026/10/uniqlo-founder-accuses-maui-water-provider-of-textbook-financial-fraud",
-   "title_original": "Uniqlo Founder Accuses Maui Water Provider Of ‘Textbook Financial Fraud’",
-   "source": "Honolulu Civil Beat",
-   "image": "https://www.civilbeat.org/wp-content/uploads/2025/08/AP25238836324338-scaled.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T10:01:00+00:00",
-   "title_ja": "ユニクロ創業者がマウイの水道事業者を財務詐欺の疑いで告発",
-   "summary_ja": "ユニクロの創業者が、ハワイ・マウイ島の水道事業者に対し、典型的な財務詐欺を行っているとして告発しました。事業者の財務や会計処理をめぐる不正疑惑についての追及が報じられています。",
-   "category": "その他",
-   "brand": "グループ",
-   "importance": 3,
    "has_detail": true
   }
  ]
