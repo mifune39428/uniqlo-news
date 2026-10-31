@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T01:31:18.293882+09:00",
+ "updated_at": "2026-11-01T05:48:41.614595+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2862,
+ "catalog_size": 2864,
  "count": 54,
  "items": [
   {
@@ -418,7 +418,7 @@
    ],
    "price": 1990,
    "promo": 1990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487585/item/jpgoods_09_487585_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487585/item/jpgoods_69_487585_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487585-000/00?colorDisplayCode=09",
    "rating": 4.4,
    "reviews": 127,
