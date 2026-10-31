@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T20:23:08.967791+09:00",
+ "updated_at": "2026-11-01T01:28:19.888154+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -132,6 +132,7 @@
   "Vietnam.vn",
   "Village Pipol",
   "Vogue Japan",
+  "WWD",
   "WWDJAPAN",
   "Web eclat",
   "Who What Wear",
@@ -217,58 +218,66 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 231,
+ "detail_count": 230,
  "digest": {
-  "headline": "ユニクロの中国戦略転換や靴下値上げ撤回、最新動向まとめ",
+  "headline": "ユニクロの中国戦略転換や靴下の値上げ撤回、上海旗艦店の刷新などが話題に",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高は3兆9633億円に到達し、グループ全体の業績が大きく拡大しています。",
+    "text": "ファーストリテイリングの2026年8月期の売上高が約3.96兆円に到達し、国内外で事業が拡大している。",
     "ids": [
      "28127c63360b6b32"
     ]
    },
    {
-    "text": "ユニクロは、消費者からの反発を受けて靴下の値上げ方針を撤回することを明らかにしました。",
-    "ids": [
-     "548c1c53632dc963",
-     "9f668290a7a0d43d",
-     "7d3eecd9bf8b4fa6"
-    ]
-   },
-   {
-    "text": "中国市場において、ユニクロは大量出店から収益性重視や「選択 and 集中」へと戦略を転換し、上海の店舗を改装刷新しました。",
+    "text": "ユニクロは中国市場で新規出店よりも収益性を重視する「選択と集中」へ戦略を転換し、上海のグローバル旗艦店をリニューアルオープンした。",
     "ids": [
      "7836d009d26359f2",
-     "1f1ca5c2fab7edc0",
-     "8cfc84d03f18fd4e"
+     "8e6c34656f9415dd",
+     "f00ed4d5b382add2"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェット氏とユニクロが共同でグローバルプロジェクト「stories she tells」を始動させました。",
+    "text": "消費者からの反発を受け、ユニクロは靴下の100円値上げ方針をわずか11日間で撤回することを明らかにした。",
+    "ids": [
+     "548c1c53632dc963",
+     "9f668290a7a0d43d"
+    ]
+   },
+   {
+    "text": "俳優のケイト・ブランシェット氏とユニクロが共同で、グローバルプロジェクト「stories she tells」を始動させた。",
     "ids": [
      "48a44e542e9abe3e",
      "2a616680dd657102"
     ]
    },
    {
-    "text": "梅田店1周年を記念し、ミャクミャクをあしらったTシャツとバッグが発売され、カスタマイズサービスも展開されます。",
-    "ids": [
-     "81c5ebebf47e4f7d",
-     "38ff8400b35a9d93"
-    ]
-   },
-   {
-    "text": "SNSではユニクロ ルーズソックスが話題となり、Xで3日に5件投稿されました。",
+    "text": "SNSでは「ユニクロ ルーズソックス」が話題となり、Xで3日に4件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-28T20:33:14.666539+09:00",
-  "generated_at": "2026-10-31T20:33:20.739923+09:00",
+  "from": "2026-10-29T01:35:04.270390+09:00",
+  "generated_at": "2026-11-01T01:35:05.928706+09:00",
   "article_count": 24,
-  "sig": "7fb44c381ec1"
+  "sig": "ef3107ba7248"
  },
  "items": [
+  {
+   "id": "8e6c34656f9415dd",
+   "url": "https://www.nishinippon.co.jp/image/1098021",
+   "title_original": "ユニクロ上海グローバル旗艦店の開店でテープカットをするファーストリテイリング幹部ら＝30日、中国上海市（共同） - ユニクロ上海リニューアル 店舗数拡大から選択集中へ - 写真・画像(1/1)",
+   "source": "西日本新聞me",
+   "image": "https://www.nishinippon.co.jp/uploads/image/1954873/sns_PN2026103001001924.-.-.CI0003.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T01:28:25+00:00",
+   "title_ja": "ユニクロ上海グローバル旗艦店がリニューアルオープン",
+   "summary_ja": "ファーストリテイリング幹部らが出席し、上海のグローバル旗艦店の開店記念テープカットが行われました。店舗数の拡大から選択と集中へと戦略を移行する中でのリニューアルを伝えています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "4dc87b5f02cd69d8",
    "url": "https://news.yahoo.co.jp/articles/c7c46dc6713522a85faaf9eac7c6a0571b9c91d6",
@@ -299,7 +308,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "48a44e542e9abe3e",
@@ -331,7 +340,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9ba74811da210f43",
@@ -411,7 +420,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "95d1e920ddb8e152",
@@ -1132,6 +1141,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "d6e917119441610b",
+   "url": "https://wwd.com/fashion-news/fashion-features/uniqlo-cate-blanchett-literary-magazine-launch-1239390854",
+   "title_original": "Cate Blanchett and Uniqlo Launch \"Stories She Tells\" Literary Magazine",
+   "source": "WWD",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-29T09:14:33+00:00",
+   "title_ja": "ケイト・ブランシェットとユニクロが文学誌を創刊",
+   "summary_ja": "俳優のケイト・ブランシェットとユニクロがパートナーシップを組み、文学誌「Stories She Tells」を立ち上げました。文化的支援や女性のストーリー発信を目的としています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "7d3eecd9bf8b4fa6",
@@ -1963,7 +1988,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "30b2904577144eee",
@@ -6636,38 +6661,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "54cc9450483e946e",
-   "url": "https://news.yahoo.co.jp/articles/f4a80447fdaac0091bd61b811f2627f9773d3b0c",
-   "title_original": "新津田沼で「まちびらき」 京成・イオン・ファストリ、商業施設刷新（朝日新聞）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00000066-asahi-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T02:15:01+00:00",
-   "title_ja": "京成・イオン・ファストリが新津田沼で商業施設を刷新し「まちびらき」",
-   "summary_ja": "新津田沼駅周辺で、京成電鉄やイオン、ファーストリテイリングなどが進めていた商業施設の刷新が完了し、「まちびらき」が実施された。各社が連携して地域の魅力向上を図る。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "2b6d2208acee1054",
-   "url": "https://www.mlb.com/dodgers/tickets/events/savannah-bananas",
-   "title_original": "Savannah Bananas coming to UNIQLO Field at Dodger Stadium | Los Angeles Dodgers",
-   "source": "MLB.com",
-   "image": "https://www.mlbstatic.com/team-logos/share/119.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T01:29:01+00:00",
-   "title_ja": "ドジャー・スタジアムの「ユニクロ・フィールド」にサバンナ・バナナズが登場",
-   "summary_ja": "ロサンゼルス・ドジャースの本拠地ドジャー・スタジアムにある「ユニクロ・フィールド」にて、人気エンターテインメント球団サバンナ・バナナズの試合開催が決定した。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
