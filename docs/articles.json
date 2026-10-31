@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T06:46:23.458684+09:00",
+ "updated_at": "2026-10-31T12:07:16.928022+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -77,6 +77,7 @@
   "Koubo",
   "L'Officiel Philippines",
   "LEE",
+  "LIMO | くらしとお金の経済メディア",
   "LifeVancouver カナダ・バンクーバー現地情報",
   "LionhearTV",
   "Lmaga.jp",
@@ -87,7 +88,6 @@
   "Metro.co.uk",
   "Mission Local",
   "Modaes",
-  "Moomoo",
   "Mothership",
   "Mundo Deportivo",
   "NHKニュース",
@@ -180,7 +180,6 @@
   "マイナビ子育て",
   "マイライフニュース",
   "モデルプレス",
-  "ヨムーノ",
   "ラブすぽ",
   "レスポンス（Response.jp）",
   "下野新聞社",
@@ -199,6 +198,7 @@
   "日テレNEWS NNN",
   "日本経済新聞",
   "日経CNBC online",
+  "映画.com",
   "時事通信ニュース",
   "朝日新聞",
   "東京報道新聞",
@@ -207,7 +207,6 @@
   "毎日新聞",
   "流通スーパーニュース",
   "流通ニュース",
-  "玩具人 TOY PEOPLE",
   "産経ニュース",
   "繊研新聞",
   "西日本新聞me",
@@ -220,9 +219,9 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 232,
+ "detail_count": 234,
  "digest": {
-  "headline": "ファーストリテイリングの業績拡大と中国戦略の転換",
+  "headline": "ファーストリテイリングの業績拡大と、中国市場での戦略刷新",
   "points": [
    {
     "text": "ファーストリテイリングの2026年8月期の売上高が3兆9633億円に到達し、グループ全体の業績が大きく拡大しています。",
@@ -231,37 +230,88 @@
     ]
    },
    {
-    "text": "ユニクロは中国市場で大量出店路線から収益性重視や「選択と集中」へと戦略を転換し、上海の旗艦店などをリニューアルしました。",
+    "text": "ユニクロは消費者からの反発を受け、日本国内における靴下の値上げ方針を撤回することを明らかにしました。",
+    "ids": [
+     "548c1c53632dc963",
+     "9f668290a7a0d43d",
+     "8042cc7bf7c26077"
+    ]
+   },
+   {
+    "text": "中国市場において、ユニクロは新規出店のペースよりも個々の店舗の収益性を重視する「選択と集中」へと戦略を転換しました。",
     "ids": [
      "7836d009d26359f2",
-     "f00ed4d5b382add2",
+     "8cfc84d03f18fd4e",
      "d6a41e3a444bfcf9"
     ]
    },
    {
-    "text": "日本国内では、消費者からの反発を受けて靴下の値上げ方針をわずか11日間で撤回することを明らかにしました。",
+    "text": "ユニクロはケイト・ブランシェット氏を迎え、女性の物語や対話を生み出すグローバルプロジェクト「stories she tells」を開始しました。",
     "ids": [
-     "548c1c53632dc963"
+     "2a616680dd657102",
+     "20a1408767c8d7ab"
     ]
    },
    {
-    "text": "ユニクロ梅田店の1周年を記念し、ミャクミャクをあしらったTシャツやバッグの限定発売とカスタマイズサービスが開始されました。",
-    "ids": [
-     "81c5ebebf47e4f7d"
-    ]
-   },
-   {
-    "text": "ユニクロのクルーネックセーターがXで14件投稿されるなど話題を集めています。",
+    "text": "SNSではユニクロ クルーネックセーターが話題となり、Xで15件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-28T06:51:30.415737+09:00",
-  "generated_at": "2026-10-31T06:51:32.245630+09:00",
+  "from": "2026-10-28T12:13:39.748604+09:00",
+  "generated_at": "2026-10-31T12:13:41.518450+09:00",
   "article_count": 24,
-  "sig": "07c6a5011efe"
+  "sig": "84cc559180fa"
  },
  "items": [
+  {
+   "id": "9ba74811da210f43",
+   "url": "http://www.oricon.co.jp/pressrelease/3064743",
+   "title_original": "ミーナ町田、地域とつくる新たな体験プロジェクト「やってみようメイト」を始動",
+   "source": "オリコンニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-31T02:46:00+00:00",
+   "title_ja": "商業施設「ミーナ町田」が地域連携プロジェクト「やってみようメイト」を開始",
+   "summary_ja": "ファーストリテイリングが運営する商業施設「ミーナ町田」が、地域社会と協働して新たな体験を提供する「やってみようメイト」を始動しました。地域との繋がりを通じて顧客に新しい体験を創出する取り組みです。",
+   "category": "店舗・出店",
+   "brand": "グループ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "9fe90654c6cc7738",
+   "url": "https://news.yahoo.co.jp/articles/86ee93d19197df9c4c21b2b9370a60cf7d18c9d3",
+   "title_original": "「デニムが一番人気、フリースは9000円、レザーは2万円も…」“オールドユニクロ”を高くても買いたい理由（文春オンライン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00092517-bunshun-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-31T01:12:17+00:00",
+   "title_ja": "中古市場で人気高まる「オールドユニクロ」高価格でも買われる背景とは",
+   "summary_ja": "過去に販売されたユニクロ製品「オールドユニクロ」が古着市場で注目を集めています。デニムやフリース、レザー商品などが高値で取引される理由や、価値が見直されている背景について伝えられています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a2b2262cbd5748c3",
+   "url": "https://eiga.com/news/20261031/1",
+   "title_original": "ケイト・ブランシェットが読書と“つながり”を語るユニクロ女性文芸プロジェクト 川上未映子らとディスカッション",
+   "source": "映画.com",
+   "image": "https://media.eiga.com/images/buzz/130172/1a99c89e3b8ec695.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T22:00:00+00:00",
+   "title_ja": "ユニクロの女性文芸プロジェクトにケイト・ブランシェット登壇　読書と絆語る",
+   "summary_ja": "ユニクロが展開する女性文芸プロジェクトのイベントに、俳優のケイト・ブランシェットや作家の川上未映子らが登壇した。参加者たちは読書や他者との対話を通じた「つながり」をテーマにディスカッションを行った。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "7836d009d26359f2",
    "url": "https://asia.nikkei.com/business/retail/uniqlo-shakes-up-china-strategy-with-focus-on-store-profitability",
@@ -786,6 +836,38 @@
    "title_ja": "ユニクロのUTme!に「モンチッチ」の新スタンプと刺繍が登場",
    "summary_ja": "ユニクロのカスタムサービス「UTme!」に、モンチッチの新スタンプや本格的な店頭刺繍が追加された。Tシャツやトートバッグを自分好みにアレンジできる。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2a23418ea9564683",
+   "url": "https://limo.media/articles/-/143881",
+   "title_original": "【ユニクロ】自分だけの「モンチッチ」グッズが作れちゃう！UTmeの新スタンプ追加や700円からの店頭刺繍にファン歓喜 Tシャツやトートバッグもお揃いで愛らしく変身！心ときめく新作イラストで特別なプレゼントにも最適 | 概要 | LIMO | くらしとお金の経済メディア",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/7/8/1200w/img_783a1aa5dcde3798dbfcc0defd0b2aa775357.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-30T00:45:00+00:00",
+   "title_ja": "ユニクロの「UTme!」にモンチッチの新作スタンプ登場　店頭刺繍サービスも実施",
+   "summary_ja": "ユニクロは、オリジナルグッズが作れる「UTme!」に「モンチッチ」の新スタンプを追加した。さらに店舗では700円から利用できるモンチッチの刺繍サービスも提供し、Tシャツやトートバッグなどをカスタマイズできる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1ff03ee7d970b85c",
+   "url": "https://www.fastretailing.com/eng/group/news/2610301000.html",
+   "title_original": "UNIQLO and Cate Blanchett Launch \"stories she tells\" to Share Women's Stories and Foster New Dialogue and Connections - Inaugural issue of new literary magazine planned for autumn 2027; the University of Tokyo joins as first university partner | FAST RE",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-10-30T00:00:00+00:00",
+   "title_ja": "ユニクロ、ケイト・ブランシェット氏と新プロジェクト開始　27年秋に文芸誌創刊へ",
+   "summary_ja": "ユニクロはケイト・ブランシェット氏と協働し、女性のストーリー共有と対話を目的としたプロジェクトを発足した。2027年秋には新しい文芸誌の創刊を計画しており、東京大学が初のパートナー大学として参加する。",
+   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -6580,86 +6662,6 @@
    "category": "その他",
    "brand": "グループ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "06cb9c229353462a",
-   "url": "https://media.unisba.ac.id/fb8a2d09/48b6aa1fkoOT2NNJowQ/?share=telegram&nb=1",
-   "title_original": "ファーストリテイリング過去最高益 アパレル業界で世界2位の見通し（2026年10月09日） Opposizione (KXViqzi1vq)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T09:32:10+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益、アパレル世界2位へ浮上の見通し",
-   "summary_ja": "ファーストリテイリングの業績が過去最高益を更新し、世界のアパレル業界で売上規模第2位へ浮上する見通しとなった。事業の好調により業界内での存在感が一段と高まっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "cc261609770a8c60",
-   "url": "https://yomuno.jp/posts/143424",
-   "title_original": "今だけ「700円→無料」に!?すぐ【ユニクロ】に走らなきゃ!!「穴やシミができても安心」「お気に入りを長く着れる」",
-   "source": "ヨムーノ",
-   "image": "https://image.yomuno.jp/store/article/143424/header_image/large-140738fde94af9b0b5c9a402d2039689.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T08:26:04+00:00",
-   "title_ja": "ユニクロで服の補修・リペアサービスが期間限定で無料になるキャンペーン",
-   "summary_ja": "ユニクロにて通常700円かかる服の補修サービスが期間限定で無料となる施策が注目されています。穴やシミができたお気に入りの衣類を修繕し、長く着用できるサステナブルな取り組みとして話題です。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "362b5e450bdb44b2",
-   "url": "https://www.moomoo.com/news/post/1001408514/report-on-change-in-shareholding-9983-fast-retailing-38-25",
-   "title_original": "Report on Change in Shareholding Fast Retailing (38.25% → 6.67%) Teruyo Yanai, et al.",
-   "source": "Moomoo",
-   "image": "https://pubimg.futunn.com/20220509000002914f8cb245ecb.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T07:36:00+00:00",
-   "title_ja": "ファーストリテイリングの株式保有割合の変動に関する報告",
-   "summary_ja": "ファーストリテイリングに関する株式保有割合の変更についての報告が公開されています。関係者の保有比率が大きく変動しました。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "e8211ff3d558f416",
-   "url": "https://www.moomoo.com/news/post/1001408004/shareholding-change-report-9983-fast-retailing-38-25-27-30",
-   "title_original": "Shareholding Change Report Fast Retailing (38.25% → 27.30%) TY Asset Management, et al.",
-   "source": "Moomoo",
-   "image": "https://pubimg.futunn.com/2022050900000183801109a1f4d.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-16T07:31:00+00:00",
-   "title_ja": "ファーストリテイリング株の主要保有比率が38.25%から27.30%へ変更",
-   "summary_ja": "TYアセットマネジメント等によるファーストリテイリング株式の変更報告書が開示された。対象となる株式の保有割合が、従来の38.25％から27.30％に減少したことが判明している。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "755f9113604676ef",
-   "url": "https://www.toy-people.com/jp/?p=115524",
-   "title_original": "GU×『ジョジョの奇妙な冒険』新作コラボが12月11日発売！ 石仮面カーディガンなど“悪役”モチーフの秋冬ウェアが登場",
-   "source": "玩具人 TOY PEOPLE",
-   "image": "https://img.toy-people.com/member/179213365393.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-16T07:24:25+00:00",
-   "title_ja": "GUが『ジョジョの奇妙な冒険』との新作コラボ商品を12月11日に発売",
-   "summary_ja": "GUはアニメ『ジョジョの奇妙な冒険』との新作コラボレーションウェアを12月11日より発売します。石仮面カーディガンなど、作中の悪役をモチーフにした秋冬アイテムが登場します。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
    "has_detail": true
   }
  ]
