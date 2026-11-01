@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T12:01:46.908843+09:00",
+ "updated_at": "2026-11-01T21:14:38.333098+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -22,7 +22,6 @@
   "ABEMA",
   "AD HOC NEWS",
   "ADWEEK",
-  "AERA DIGITAL",
   "All About ニュース",
   "Apparel Resources",
   "Apparel Views",
@@ -135,7 +134,6 @@
   "WWD",
   "WWDJAPAN",
   "Web eclat",
-  "Who What Wear",
   "Women Love Tech",
   "X",
   "Yahoo News Canada",
@@ -177,6 +175,7 @@
   "ネットショップ担当者フォーラム",
   "ハフポスト",
   "ファッションプレス",
+  "フロントロウ",
   "マイナビニュース",
   "マイナビ子育て",
   "マイライフニュース",
@@ -219,50 +218,130 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 232,
  "digest": {
-  "headline": "ユニクロの中国戦略転換や靴下の値上げ撤回、上海旗艦店の刷新などが話題に",
+  "headline": "ファーストリテイリング業績拡大と中国での事業戦略転換",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高が約3.96兆円に到達し、国内外で事業が拡大している。",
+    "text": "ファーストリテイリングの2026年8月期売上高は約3.96兆円に到達し、業績を大きく拡大させています。",
     "ids": [
      "28127c63360b6b32"
     ]
    },
    {
-    "text": "ユニクロは中国市場で新規出店よりも収益性を重視する「選択と集中」へ戦略を転換し、上海のグローバル旗艦店をリニューアルオープンした。",
+    "text": "中国市場では出店ペース重視から店舗の収益性を高める「選択と集中」へ戦略を転換しています。",
     "ids": [
      "7836d009d26359f2",
      "8e6c34656f9415dd",
-     "f00ed4d5b382add2"
+     "21d7d82dbbc47693"
     ]
    },
    {
-    "text": "消費者からの反発を受け、ユニクロは靴下の100円値上げ方針をわずか11日間で撤回することを明らかにした。",
-    "ids": [
-     "548c1c53632dc963",
-     "9f668290a7a0d43d"
-    ]
-   },
-   {
-    "text": "俳優のケイト・ブランシェット氏とユニクロが共同で、グローバルプロジェクト「stories she tells」を始動させた。",
+    "text": "俳優のケイト・ブランシェット氏と共に、グローバルプロジェクト「stories she tells」を開始しました。",
     "ids": [
      "48a44e542e9abe3e",
      "2a616680dd657102"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ ルーズソックス」が話題となり、Xで3日に4件投稿された。",
+    "text": "「UNIQLO UMEDA」にて、大阪・関西万博のミャクミャクをあしらった限定商品が発売されました。",
+    "ids": [
+     "81c5ebebf47e4f7d",
+     "38ff8400b35a9d93"
+    ]
+   },
+   {
+    "text": "SNSでは「GUコラボ」が注目を集めており、Xで3日に96件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-29T01:35:04.270390+09:00",
-  "generated_at": "2026-11-01T01:35:05.928706+09:00",
+  "from": "2026-10-29T21:23:25.381512+09:00",
+  "generated_at": "2026-11-01T21:23:40.801215+09:00",
   "article_count": 24,
-  "sig": "ef3107ba7248"
+  "sig": "e5c943c04524"
  },
  "items": [
+  {
+   "id": "c202a3c3790e7fc6",
+   "url": "https://www.fashionsnap.com/article/roundup-october-31",
+   "title_original": "山本耀司がBFCファッションアワード受賞、ユニクロが世界のブランド価値ランキングトップ100に2年連続選出…【5分でわかる主要ニュース 10/25〜10/31】",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/80eac0c2-0408-45a9-8faf-ff8c8a478e37.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T10:00:30+00:00",
+   "title_ja": "ユニクロが世界のブランド価値ランキングトップ100に2年連続で選出",
+   "summary_ja": "10月25日から31日までの主要ファッションニュース。山本耀司氏の受賞などに加え、ユニクロが世界のブランド価値ランキングトップ100に2年連続で選出されたニュースが取り上げられている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d28847a25d3f3760",
+   "url": "https://news.yahoo.co.jp/polls/75163",
+   "title_original": "近年注目される「オールドユニクロ」について、どのような点に関心がありますか？",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/dk/news-polls/2026/11/01/b7f54192ec2b1654d6d47d0584ff6384a895799cac60b86b2272e6bdfc9bcf17.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T07:21:03+00:00",
+   "title_ja": "近年注目が集まる「オールドユニクロ」への関心や魅力を探る話題",
+   "summary_ja": "過去に販売されたユニクロの旧作や古着「オールドユニクロ」が近年注目されている現象について、人々がどのような点に関心を寄せているのかやその魅力について考察する記事です。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "604a7b5e30125616",
+   "url": "https://front-row.jp/_ct/131856",
+   "title_original": "ケイト・ブランシェット、来日中に役所広司とサプライズ対面！ユニクロの特注スーツも話題に",
+   "source": "フロントロウ",
+   "image": "https://front-row.jp/wp-content/uploads/2019/12/096399b5df62b4c54f2bd97737b97f91b91b8ef3_xlarge.jpg?type=original",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T04:30:00+00:00",
+   "title_ja": "ケイト・ブランシェットが役所広司と対面、ユニクロの特注スーツも話題",
+   "summary_ja": "来日した女優のケイト・ブランシェットが俳優の役所広司とサプライズ対面を果たしたニュースとともに、その場で着用されたユニクロの特注スーツが関心を集めていることを報じています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "21d7d82dbbc47693",
+   "url": "https://www.vietnam.vn/ja/uniqlo-thay-doi-chien-luoc-kinh-doanh-tai-trung-quoc",
+   "title_original": "ユニクロは中国における事業戦略を変更する。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/01/1793501177941_https-cms-image-bucket-productionv3-ap-northeast-1-a7d2s3ap-northeast-1amazonaws-7-jpg.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T02:18:04+00:00",
+   "title_ja": "ユニクロが中国市場における事業戦略の見直し方針を発表",
+   "summary_ja": "ユニクロが中国における事業戦略を変更することが報じられた。急速に変化する現地市場の環境や消費者の動向に対応するため、店舗展開や事業運用の見直しを進めていく方針だ。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fc05c0b4338d716b",
+   "url": "https://news.yahoo.co.jp/articles/e490e14ecb39bc2abafb3464883239f298188de6",
+   "title_original": "ユニクロ「スヌーピーUT」レディース12月新作！“しあわせは、あったかい子犬”の名言＆刺しゅうのビンテージ調コレクション",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-01451337-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T02:00:00+00:00",
+   "title_ja": "ユニクロが12月発売のスヌーピーUT新作を発表 刺繍入りのビンテージ調デザイン",
+   "summary_ja": "ユニクロはスヌーピーをモチーフにした「スヌーピーUT」のレディース向け12月新作コレクションを発表した。名言や刺繍をあしらったビンテージ調のデザインが特徴となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "8e6c34656f9415dd",
    "url": "https://www.nishinippon.co.jp/image/1098021",
@@ -6582,86 +6661,6 @@
    "brand": "グループ",
    "importance": 5,
    "has_detail": true
-  },
-  {
-   "id": "1854be8752bd3bc6",
-   "url": "https://www.whowhatwear.com/fashion/shopping/uniqlo-jw-anderson-collection-winter-2026",
-   "title_original": "Uniqlo x JW Anderson Is Back—9 Seriously Chic Winter Staples I Predict Won't Stay In Stock for Long",
-   "source": "Who What Wear",
-   "image": "https://cdn.mos.cms.futurecdn.net/dNbYZabAwQBqQJPXdDxQV4-1920-80.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T08:00:00+00:00",
-   "title_ja": "ユニクロがJWアンダーソンとのコラボ冬コレクションを再び展開",
-   "summary_ja": "ユニクロとJWアンダーソンのコラボレーションによる冬の定番アイテムが登場します。シックなデザインのアイテムがそろっており、人気商品は早期に売り切れることが予想されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "e08c493bef4266e1",
-   "url": "https://www.passionateinmarketing.com/uniqlo-opens-new-store-at-lake-shore-thane",
-   "title_original": "UNIQLO Opens New Store at Lake Shore, Thane",
-   "source": "Passionate In Marketing",
-   "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/10/UNIQLO.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T06:00:41+00:00",
-   "title_ja": "ユニクロがインドのターネーにあるレイクショアに新店舗を出店",
-   "summary_ja": "ユニクロは、インドのターネーに位置するショッピングエリア「レイクショア」に新店舗をオープンしました。地域における店舗網を拡充し、現地のお客さまへ向けた展開を強化します。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "03e5eeb52d80e225",
-   "url": "https://dot.asahi.com/articles/-/295277",
-   "title_original": "ユニクロCMにも「ダイアン津田」 イジられキャラのベテラン芸人がCMに引っ張りだこなワケ〈お笑いの日2026きょう〉",
-   "source": "AERA DIGITAL",
-   "image": "https://aeradot.ismcdn.jp/mwimgs/6/1/1200xm/img_61e5704f5166ede6306baf5f8584fc0d112662.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T05:00:00+00:00",
-   "title_ja": "ユニクロのCMに出演するお笑いコンビ・ダイアン津田の人気の理由を解説",
-   "summary_ja": "ユニクロのCMにも起用されているお笑いコンビ「ダイアン」の津田篤宏氏が、多数のCMで活躍しています。いじられキャラとして親しまれるベテラン芸人の魅力が評価されています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "f373db934dbc90bd",
-   "url": "https://youtu.be/r9Wg59Socnw?si=HBp6Z0qrl4QpLjFC",
-   "title_original": "Why Indians Are Paying ₹2,500 For Plain T-Shirts | The UNIQLO Strategy",
-   "source": "YouTube",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T03:30:09+00:00",
-   "title_ja": "インドで高価格帯の無地Tシャツが売れるユニクロの戦略",
-   "summary_ja": "インド市場において、約2500ルピーという価格帯のシンプルなTシャツがなぜ消費者に受け入れられているのかを分析した動画。ユニクロの現地におけるブランディングやマーケティング戦略の成功要因を掘り下げている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "309f5199bee57e1e",
-   "url": "https://www.asahi.com/and/w/article/16971322/31451796?ro=16971322&ri=0",
-   "title_original": "穴あきやシミの服が無料でよみがえる！？ 【ユニクロ】100種の刺繡や補修が無料＆割引になる「リペアウィーク」が10/17より実施",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/8f26-p/picture/31451796/6a30c7aa229ef8359a1a37b6049485f3.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T03:18:15+00:00",
-   "title_ja": "ユニクロが衣服の補修や刺繍サービスを割引提供する「リペアウィーク」を10月17日より実施",
-   "summary_ja": "ユニクロは、衣類の穴あきやシミなどの補修および100種類の刺繍サービスが無料または割引価格で利用できる「リペアウィーク」を10月17日より開始する。服を長く大切に着るためのサポート施策となっている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
