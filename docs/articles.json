@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T21:14:38.333098+09:00",
+ "updated_at": "2026-11-02T06:27:44.414994+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -160,6 +160,7 @@
   "アニメ！アニメ！",
   "アラブニュース",
   "インサイド",
+  "ウォーカープラス",
   "オリコンニュース",
   "ガジェット通信",
   "サカイタイムズ",
@@ -220,46 +221,46 @@
  "count": 400,
  "detail_count": 232,
  "digest": {
-  "headline": "ファーストリテイリング業績拡大と中国での事業戦略転換",
+  "headline": "ユニクロの中国戦略転換と上海店リニューアル、業績動向",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期売上高は約3.96兆円に到達し、業績を大きく拡大させています。",
+    "text": "ファーストリテイリングの2026年8月期の売上高が約3.96兆円に到達し、グループ全体の業績が拡大している。",
     "ids": [
      "28127c63360b6b32"
     ]
    },
    {
-    "text": "中国市場では出店ペース重視から店舗の収益性を高める「選択と集中」へ戦略を転換しています。",
+    "text": "ユニクロは中国市場で新規出店のペースから個々の店舗の収益性を重視する「選択と集中」へ戦略を転換した。",
     "ids": [
      "7836d009d26359f2",
-     "8e6c34656f9415dd",
-     "21d7d82dbbc47693"
+     "8cfc84d03f18fd4e"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェット氏と共に、グローバルプロジェクト「stories she tells」を開始しました。",
+    "text": "上海のグローバル旗艦店がリニューアルオープンし、行列ができるなどインバウンド需要への対応や個店経営を強化している。",
+    "ids": [
+     "8e6c34656f9415dd",
+     "e7519ad40f123ef1",
+     "d6a41e3a444bfcf9"
+    ]
+   },
+   {
+    "text": "俳優のケイト・ブランシェット氏を迎え、グローバルプロジェクト「stories she tells」が始動した。",
     "ids": [
      "48a44e542e9abe3e",
      "2a616680dd657102"
     ]
    },
    {
-    "text": "「UNIQLO UMEDA」にて、大阪・関西万博のミャクミャクをあしらった限定商品が発売されました。",
-    "ids": [
-     "81c5ebebf47e4f7d",
-     "38ff8400b35a9d93"
-    ]
-   },
-   {
-    "text": "SNSでは「GUコラボ」が注目を集めており、Xで3日に96件投稿されています。",
+    "text": "SNSでは「GU GUコラボ」が注目を集め、Xで3日に96件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-29T21:23:25.381512+09:00",
-  "generated_at": "2026-11-01T21:23:40.801215+09:00",
+  "from": "2026-10-30T06:33:50.048476+09:00",
+  "generated_at": "2026-11-02T06:33:51.705040+09:00",
   "article_count": 24,
-  "sig": "e5c943c04524"
+  "sig": "3af87f961f07"
  },
  "items": [
   {
@@ -276,7 +277,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d28847a25d3f3760",
@@ -292,7 +293,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "604a7b5e30125616",
@@ -1298,6 +1299,22 @@
    "title_ja": "ユニクロが中国・上海の旗艦店を刷新！伸び悩む中国事業の再強化へ",
    "summary_ja": "ユニクロが中国・上海にある旗艦店をリニューアルオープンした。成長ペースが鈍化している中国事業の再強化を図り、現地でのブランド認知度や店舗体験を向上させて巻き返しを目指す。",
    "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "9a9ba9fa7780b7f9",
+   "url": "https://www.walkerplus.com/article/1185718",
+   "title_original": "スヌーピーデザインの「ユニクロUT」新作はPEANUTSファンも唸る出来栄え？変装シリーズ4型がラインナップ",
+   "source": "ウォーカープラス",
+   "image": "https://news.walkerplus.com/article/1185718/12785117_615.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-10-29T07:00:00+00:00",
+   "title_ja": "スヌーピーの変装シリーズ！ユニクロUT新作4型が登場",
+   "summary_ja": "PEANUTSファンも納得の出来栄えとなる、ユニクロUTの新作コレクションが登場しました。お馴染みのスヌーピーが様々な姿に変装した全4型がラインナップされています。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -6645,22 +6662,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "71ed05fb66c21e8a",
-   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fast-retailing-reports-record-profit-for-fast-retailing-stock/70346852",
-   "title_original": "Fast Retailing reports record profit for Fast Retailing stock",
-   "source": "ad-hoc-news.de",
-   "image": "https://mdb.ad-hoc-news.de/bild/bild-2405025_1920_1080.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-17T08:54:36+00:00",
-   "title_ja": "ファーストリテイリングが過去最高益を計上　好調な業績を発表",
-   "summary_ja": "ファーストリテイリングが最新の業績を発表し、過去最高益を達成したことが明らかになりました。グループ全体の好調な事業展開が業績の押し上げに寄与しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
   }
  ]
 }
