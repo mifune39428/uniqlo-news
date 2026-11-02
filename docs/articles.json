@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:27:44.414994+09:00",
+ "updated_at": "2026-11-02T12:12:32.056172+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -52,6 +52,7 @@
   "Fashionsnap.com",
   "Fast Retailing Co",
   "FinanzNachrichten.de",
+  "GAME Watch",
   "GQ Japan",
   "Global News",
   "GlobeNewswire",
@@ -70,12 +71,14 @@
   "Indian Television Dot Com",
   "Inside Retail Asia",
   "Investing.com 日本",
+  "JBpress",
   "Japan Wire by Kyodo News",
   "KAB 熊本朝日放送",
   "Koubo",
   "L'Officiel Philippines",
   "LEE",
   "LIMO | くらしとお金の経済メディア",
+  "Leaf KYOTO",
   "LifeVancouver カナダ・バンクーバー現地情報",
   "LionhearTV",
   "Lmaga.jp",
@@ -90,7 +93,6 @@
   "NHKニュース",
   "Newswav",
   "Nikkei Asia",
-  "OCEANS オーシャンズ",
   "Oui Speak Fashion (OSF)",
   "PR Newswire Canada",
   "PR TIMES",
@@ -133,7 +135,6 @@
   "Vogue Japan",
   "WWD",
   "WWDJAPAN",
-  "Web eclat",
   "Women Love Tech",
   "X",
   "Yahoo News Canada",
@@ -221,48 +222,112 @@
  "count": 400,
  "detail_count": 232,
  "digest": {
-  "headline": "ユニクロの中国戦略転換と上海店リニューアル、業績動向",
+  "headline": "ユニクロの中国戦略転換や上海旗艦店リニューアル、京都店開業などの動き",
   "points": [
    {
-    "text": "ファーストリテイリングの2026年8月期の売上高が約3.96兆円に到達し、グループ全体の業績が拡大している。",
-    "ids": [
-     "28127c63360b6b32"
-    ]
-   },
-   {
-    "text": "ユニクロは中国市場で新規出店のペースから個々の店舗の収益性を重視する「選択と集中」へ戦略を転換した。",
+    "text": "ユニクロは中国市場で新規出店ペースから収益性重視の「選択と集中」へ戦略を転換し、上海のグローバル旗艦店をリニューアルオープンさせました。",
     "ids": [
      "7836d009d26359f2",
+     "8e6c34656f9415dd",
      "8cfc84d03f18fd4e"
     ]
    },
    {
-    "text": "上海のグローバル旗艦店がリニューアルオープンし、行列ができるなどインバウンド需要への対応や個店経営を強化している。",
+    "text": "京都府内最大の「ユニクロ 京都」が11月6日に開業し、西日本初となる「UNIQLO COFFEE」も併設されます。",
     "ids": [
-     "8e6c34656f9415dd",
-     "e7519ad40f123ef1",
-     "d6a41e3a444bfcf9"
+     "bc9b264128030855"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェット氏を迎え、グローバルプロジェクト「stories she tells」が始動した。",
+    "text": "俳優のケイト・ブランシェット氏を迎え、グローバルプロジェクト「stories she tells」が始動しました。",
     "ids": [
      "48a44e542e9abe3e",
      "2a616680dd657102"
     ]
    },
    {
-    "text": "SNSでは「GU GUコラボ」が注目を集め、Xで3日に96件投稿された。",
+    "text": "サンエックスのラウンジウェアや、スヌーピーモチーフの新作コレクションなど、12月発売の新商品情報が発表されています。",
+    "ids": [
+     "aecb171e41f9d39a",
+     "fc05c0b4338d716b"
+    ]
+   },
+   {
+    "text": "SNSでは「GU ちいかわ ヘアバンド」が話題となり、Xで3日に42件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-30T06:33:50.048476+09:00",
-  "generated_at": "2026-11-02T06:33:51.705040+09:00",
+  "from": "2026-10-30T12:17:50.204838+09:00",
+  "generated_at": "2026-11-02T12:17:51.783119+09:00",
   "article_count": 24,
-  "sig": "3af87f961f07"
+  "sig": "d72334e32c08"
  },
  "items": [
+  {
+   "id": "bc9b264128030855",
+   "url": "https://www.leafkyoto.net/261026-kyoto-uniqlo",
+   "title_original": "京都最大の［ユニクロ 京都］が11月6日（金）オープン！限定企画や西日本初の［UNIQLO COFFEE］にも注目",
+   "source": "Leaf KYOTO",
+   "image": "https://www.leafkyoto.net/leaf/wp-content/uploads/2026/10/261023-uniqlo-2.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T02:00:08+00:00",
+   "title_ja": "京都最大の「ユニクロ 京都」が11月6日開業、カフェも西日本初併設",
+   "summary_ja": "京都府内最大の店舗となる「ユニクロ 京都」が11月6日にオープンします。オープンを記念した限定企画が実施されるほか、カフェコーナーの「UNIQLO COFFEE」が西日本で初めて併設されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "aecb171e41f9d39a",
+   "url": "https://game.watch.impress.co.jp/docs/news/2152953.html",
+   "title_original": "すみっコぐらしやリラックマも！ ユニクロ、サンエックスユニバースのラウンジウェアコレクションを12月中旬発売",
+   "source": "GAME Watch",
+   "image": "https://game.watch.impress.co.jp/img/gmw/list/2152/953/005.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T01:09:26+00:00",
+   "title_ja": "ユニクロ、サンエックスのラウンジウェアを12月中旬に発売",
+   "summary_ja": "ユニクロは、すみっコぐらしやリラックマといった人気キャラクターが集結する「サンエックスユニバース」のラウンジウェアコレクションを、12月中旬より発売することを発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "c9bffac9ca54dbaa",
+   "url": "https://www.mk.co.kr/en/world/12193093",
+   "title_original": "Japanese clothing brand Uniqlo has reportedly withdrawn its policy to raise the price of socks.Accor..",
+   "source": "매일경제",
+   "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.1c1e7eb67a2c4306ae27c1393c1aeec8_R.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-01T23:47:38+00:00",
+   "title_ja": "ユニクロが靴下の値上げ方針を撤回したと報道",
+   "summary_ja": "日本のファストファッションブランドであるユニクロが、靴下の販売価格を引き上げる方針を撤回したと報じられた。価格引き上げを取りやめる判断についての企業対応が関心を集めている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "71fe2ef5933f4ce9",
+   "url": "https://jbpress.ismedia.jp/articles/-/97803",
+   "title_original": "客数・売上減のニトリ、ユニクロは最高益 渡辺広明氏が語る物価高でも売れる売り場",
+   "source": "JBpress",
+   "image": "https://jbpress.ismcdn.jp/mwimgs/2/6/1200mw/img_263f731b89a2f95d21065c18d0311f53237246.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-01T21:00:00+00:00",
+   "title_ja": "ユニクロが最高益を達成　物価高でも売れる売り場の強みを解説",
+   "summary_ja": "ニトリが客数と売上を落とす中でユニクロが最高益を達成した理由について専門家が解説。物価高が続く環境下でも消費者に選ばれ続ける売り場づくりや経営戦略が評価されている。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "c202a3c3790e7fc6",
    "url": "https://www.fashionsnap.com/article/roundup-october-31",
@@ -6597,70 +6662,6 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "659da968143f05db",
-   "url": "https://oceans.tokyo.jp/article/detail/55750?page=5",
-   "title_original": "【GU×エンジニアドガーメンツ 第3弾】全種類を先行試着！完売必至な“秋冬アウター”【前編】",
-   "source": "OCEANS オーシャンズ",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T15:42:00+00:00",
-   "title_ja": "GUとエンジニアドガーメンツのコラボ第3弾、注目の秋冬アウターを先行試着",
-   "summary_ja": "GUとファッションブランド「エンジニアド ガーメンツ」のコラボレーション第3弾が登場します。注目の秋冬アウターをはじめとする全ラインナップを発売前に試着し、仕上がりを検証しています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d57cc1d9262338e2",
-   "url": "https://eclat.hpplus.jp/fashion/topics/205965",
-   "title_original": "【ユニクロ2026新作】極暖ヒートテックカシミヤブレンドに新色＆新作登場！タートルネックTなど話題のラインナップを解説",
-   "source": "Web eclat",
-   "image": "https://img-eclat.hpplus.jp/ogp/image/fb/fbef1b8f-ab7b-47de-a47b-faf6290419ed-2100x1102.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T12:10:00+00:00",
-   "title_ja": "ユニクロ「極暖ヒートテックカシミヤブレンド」に新色と新作が登場",
-   "summary_ja": "ユニクロの「極暖ヒートテックカシミヤブレンド」シリーズに、2026年の新作アイテムとしてタートルネックTや新色が加わり、注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "53e41bf6fff7df85",
-   "url": "https://www.vietnam.vn/ja/trang-phuc-co-ban-cua-nhat-da-den-thanh-hoa",
-   "title_original": "日本のベーシックな衣料品がタインホアに入荷しました。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/17/1792239890431_dong-san-pham-giu-nhiet-heattech-duoc-nhieu-khach-hang-ua-chuong-1792233657377327235598-108-0-841-1400-crop-1792233713300788526168.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T12:00:00+00:00",
-   "title_ja": "ベトナム・タインホアに日本のベーシック衣料ブランドの商品が入荷",
-   "summary_ja": "ベトナムのタインホアにて、日本のベーシックな衣料品が入荷したことが報じられました。現地の消費者に向けて、日本の定番衣料品が供給されている状況を伝えています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7e860c8ac115ee61",
-   "url": "https://media.unisba.ac.id/c2ad4b05/0268731cHDQIEVQbQC0_IQE",
-   "title_original": "ユニクロ 初の“本店”オープン 世界一の売り上げ目指す【WBS】 Clayton Carpenter (nsAxjADDsr)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-17T11:10:05+00:00",
-   "title_ja": "ユニクロ、初の「本店」オープンへ世界一を目指す",
-   "summary_ja": "ユニクロが世界一の売り上げを目指し、初となる「本店」をオープンすることがWBSの報道で明らかになりました。新たな店舗展開の動向として注目を集めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
    "detail_tries": 2
   }
  ]

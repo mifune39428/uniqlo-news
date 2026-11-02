@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:30:10.753240+09:00",
+ "updated_at": "2026-11-02T12:15:01.341738+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2865,
+ "catalog_size": 2879,
  "count": 47,
  "items": [
   {
@@ -784,8 +784,8 @@
    ],
    "price": 4990,
    "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360440/item/jpgoods_07_360440_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E360440-000/00?colorDisplayCode=07",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360440/item/jpgoods_09_360440_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360440-000/00?colorDisplayCode=09",
    "rating": 4.7,
    "reviews": 21,
    "reviews7": 13,
@@ -824,48 +824,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E488861-000",
-   "rank": 33,
-   "brand": "ユニクロ",
-   "name": "ボディスーツ",
-   "genders": [
-    "キッズ"
-   ],
-   "price": 790,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488861/item/goods_32_488861_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488861-000/00?colorDisplayCode=32",
-   "rating": 4.5,
-   "reviews": 12,
-   "reviews7": 4,
-   "capped": false,
-   "prev7": 1,
-   "mentions7": 4,
-   "mention_titles": [
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種（インサイド）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/1c52e16c33eae454be1d32d99c943dc9d5170491"
-    },
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 1枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ieVo1aVhycGRyRjR0alQ3dHE3ODB6ODJiTkNWRnBqc0tnVVFEajlHdno3a2VGdy11Y0k0NHkxMlV1dGhCUWtfMWFwbXNDWDk2RFdaeXZRQnVEMWZNUVlRUS12MXp3anRLMFpBVEswWFV6QWhEZkZBb0hn?oc=5"
-    },
-    {
-     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 2枚目の写真・画像",
-     "s": "インサイド",
-     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sYzFza1JMdWwzWnltMU05al9QZTR6blBaV1VMTmpTWVVfSnZZZ2pJZTRXMzkxTVNXNmtqOVRraVBNUU1xQkFGcTlKTzhOdnFucUc3V2wyeTJWUkhhc09jWWRETHFBY2FzblZKalVDV1RMNEJidUtaSk1R?oc=5"
-    }
-   ],
-   "score": 27,
-   "momentum": 1.67,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E360872-000",
-   "rank": 34,
+   "rank": 33,
    "brand": "GU",
    "name": "ダブルブレストオーバーサイズジャケット",
    "genders": [
@@ -890,7 +850,7 @@
   },
   {
    "key": "UQ:E491700-000",
-   "rank": 35,
+   "rank": 34,
    "brand": "ユニクロ",
    "name": "エアリズム3Dマスク/2枚組",
    "genders": [
@@ -916,7 +876,7 @@
   },
   {
    "key": "UQ:E488163-000",
-   "rank": 36,
+   "rank": 35,
    "brand": "ユニクロ",
    "name": "ドライスウェットワイドパンツ",
    "genders": [
@@ -940,7 +900,7 @@
   },
   {
    "key": "GU:E360647-000",
-   "rank": 37,
+   "rank": 36,
    "brand": "GU",
    "name": "3Dバレルジーンズ",
    "genders": [
@@ -965,7 +925,7 @@
   },
   {
    "key": "UQ:E488643-000",
-   "rank": 38,
+   "rank": 37,
    "brand": "ユニクロ",
    "name": "絵本コレクション パジャマ/はらぺこあおむし",
    "genders": [
@@ -989,7 +949,7 @@
   },
   {
    "key": "UQ:E485422-000",
-   "rank": 39,
+   "rank": 38,
    "brand": "ユニクロ",
    "name": "GIRLS エアリズムウルトラストレッチセット",
    "genders": [
@@ -1013,7 +973,7 @@
   },
   {
    "key": "UQ:E474860-000",
-   "rank": 40,
+   "rank": 39,
    "brand": "ユニクロ",
    "name": "エアリズムウルトラストレッチセット",
    "genders": [
@@ -1037,7 +997,7 @@
   },
   {
    "key": "UQ:E491377-000",
-   "rank": 41,
+   "rank": 40,
    "brand": "ユニクロ",
    "name": "マリオカートワールド スウェットシャツ",
    "genders": [
@@ -1056,6 +1016,36 @@
    "mention_titles": [],
    "score": 12,
    "momentum": 2.0,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488861-000",
+   "rank": 41,
+   "brand": "ユニクロ",
+   "name": "ボディスーツ",
+   "genders": [
+    "キッズ"
+   ],
+   "price": 790,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488861/item/goods_32_488861_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488861-000/00?colorDisplayCode=32",
+   "rating": 4.5,
+   "reviews": 12,
+   "reviews7": 4,
+   "capped": false,
+   "prev7": 1,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 (インサイド)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmpVdGpBRzBSQlVUZnlnZ0VuSjhzQVp1bVhNVGlaaWRsR0RfbThYSFEwa2dlNXRVbjE5UWdlMkNjNmFMci1scEM1U0RWYXlXdGphd0lKc01aQVBaY0Z6clVkNlVoR182OW1zYW1CNmZJXzhfc01FWUZMVDh1OEF1dEpEN1BNeFBTOFNCd0t3?oc=5"
+    }
+   ],
+   "score": 12,
+   "momentum": 1.67,
    "new": false,
    "rising": false
   },
