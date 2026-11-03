@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T23:05:42.072599+09:00",
+ "updated_at": "2026-11-03T09:09:34.360945+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -17,7 +17,6 @@
  ],
  "sources": [
   "- PeopleAsia",
-  "36Kr",
   "5 Dariya News",
   "ABEMA",
   "AD HOC NEWS",
@@ -68,7 +67,6 @@
   "IFAB MEDIA",
   "IMPACT Magazine",
   "ITmedia",
-  "Il Sole 24 ORE",
   "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
@@ -89,6 +87,7 @@
   "MLB.com",
   "MarkeZine",
   "Marketing-Interactive",
+  "Men's Folio",
   "Mission Local",
   "Modaes",
   "Mothership",
@@ -107,6 +106,7 @@
   "Popbee",
   "QAB 琉球朝日放送",
   "RBB TODAY",
+  "Ragtrader.com.au",
   "Record China",
   "Retail & Leisure International",
   "Retail Insider",
@@ -127,10 +127,8 @@
   "TheIndustry.fashion",
   "Times Colonist",
   "Traders Union",
-  "TradingView",
   "Trend Hunter",
   "UOMO",
-  "UP TO DATE",
   "UQライフ",
   "Unisba Media",
   "VICTORY [ビクトリー]",
@@ -200,7 +198,6 @@
   "地域ニュースサイト号外NET",
   "大分合同新聞",
   "山口新聞 電子版",
-  "山形新聞",
   "山陽新聞",
   "新潟日報",
   "日テレNEWS NNN",
@@ -228,50 +225,197 @@
   "재경일보"
  ],
  "count": 400,
- "detail_count": 242,
+ "detail_count": 241,
  "digest": {
-  "headline": "ユニクロの最高益達成と中国市場の戦略転換、ウェールズ初出店などが話題に",
+  "headline": "ユニクロが最高益を達成し、国内外で新たな展開や支援活動を発表",
   "points": [
    {
-    "text": "ユニクロは中国市場での戦略を刷新し、新規出店ペースよりも個々の店舗における収益性を高める方針へ転換しました。",
+    "text": "ユニクロは物価高でも選ばれる売り場づくりにより最高益を達成し、韓国事業でも二桁の増収増益を記録して売上高が不買運動前のピークを回復しました。",
     "ids": [
-     "7836d009d26359f2",
+     "feb55848e3f045d0",
+     "1726ef1ceb2b10eb",
+     "71fe2ef5933f4ce9"
+    ]
+   },
+   {
+    "text": "来年にウェールズ初となる店舗をカーディフの「セント・デイヴィッズ」へ出店することを正式に発表し、イギリス国内での店舗ネットワーク拡大を進めています。",
+    "ids": [
+     "b71bef54ae3ba8d7",
+     "e5a0c042f5be6ec6",
+     "f2bb0a9edf877fe4"
+    ]
+   },
+   {
+    "text": "京都府内最大の「ユニクロ 京都」が11月6日に開業し、西日本初となるカフェ「UNIQLO COFFEE」が併設されるほか、中国市場戦略の見直しや上海グローバル旗艦店のリニューアルも行われました。",
+    "ids": [
+     "bc9b264128030855",
      "21d7d82dbbc47693",
      "8e6c34656f9415dd"
     ]
    },
    {
-    "text": "ユニクロは英国ウェールズのカーディフにある商業施設「セント・デイヴィッズ」に、同地域初となる店舗をオープンすることを発表しました。",
+    "text": "国内外の被災地や難民キャンプなど支援を必要とする人々に向けて、「ヒートテック」を全世界で100万点以上寄贈する社会貢献活動が実施されました。",
     "ids": [
-     "e5a0c042f5be6ec6",
-     "598881c1bb29c2c1",
-     "1d8b5eba776804bd"
+     "3e11818719ddf65a",
+     "d340717c624e20b3"
     ]
    },
    {
-    "text": "京都府内最大の店舗となる「ユニクロ 京都」が11月6日にオープンし、西日本初となるカフェコーナーも併設されます。",
-    "ids": [
-     "bc9b264128030855"
-    ]
-   },
-   {
-    "text": "専門家が物価高でも消費者に選ばれ続ける売り場づくりや経営戦略を解説し、ユニクロが最高益を達成したことが伝えられました。",
-    "ids": [
-     "71fe2ef5933f4ce9"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ GU」がXで70件投稿されるなど話題を集めています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が注目を集め、Xで3日に92件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-30T23:16:15.113592+09:00",
-  "generated_at": "2026-11-02T23:16:17.226361+09:00",
+  "from": "2026-10-31T09:15:43.131124+09:00",
+  "generated_at": "2026-11-03T09:15:46.947313+09:00",
   "article_count": 24,
-  "sig": "aab2217abf9b"
+  "sig": "8da6098e82bd"
  },
  "items": [
+  {
+   "id": "056bf1ada132575a",
+   "url": "https://www.ragtrader.com.au/news/uniqlo-targets-queensland-amid-australia-surge",
+   "title_original": "Uniqlo targets Queensland amid Australia surge",
+   "source": "Ragtrader.com.au",
+   "image": "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_630,h_320,g_faces:center,f_auto/http%3A%2F%2Fcdn%2Eyaffa%2Ecom%2Eau%2Fyaffadsp%2Fimages%2FdmImage%2FSourceImage%2Funiqlo%2Dstore%2D2%2D%2D%2Dmar%2D22%2Ejpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T23:58:16+00:00",
+   "title_ja": "ユニクロが豪クイーンズランド州での展開を強化　豪州事業の好調背景に",
+   "summary_ja": "オーストラリア事業が好調な推移を見せるなか、ユニクロが同国のクイーンズランド州をターゲットとして事業展開を強化していることが分かった。現地市場でのさらなる成長と拡大を目指す。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "144fb2bc7e42aeba",
+   "url": "https://news.yahoo.co.jp/articles/94b52150f997392abe933346cceb4f0ef88b108f",
+   "title_original": "ユニクロ、「スヌーピーUT」メンズコレクションに“クスっと笑える”スウェット＆UT全12アイテム！12月中旬発売（ウォーカープラス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-01452063-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T23:30:00+00:00",
+   "title_ja": "ユニクロが「スヌーピーUT」メンズ新作を12月中旬発売　全12型を展開",
+   "summary_ja": "ユニクロは「スヌーピーUT」のメンズコレクション新作を12月中旬から発売する。思わず笑みがこぼれるようなデザインを施したスウェットやUTなど、全12アイテムをラインナップしている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "565d2367b29425ae",
+   "url": "https://news.yahoo.co.jp/articles/8228986fd5b1ec90af6a8194ce5491d1cbd94e1c",
+   "title_original": "65歳女性、仕事着がなく“ユニクロ”へ駆け込んだら…… 驚きの姿に「超高級品に見える」「私の着てるユニクロと同じ？」（ねとらぼ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-10174931-it_nlab-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T23:30:00+00:00",
+   "title_ja": "65歳女性がユニクロの服で大変身　ネットで「高級品に見える」と話題",
+   "summary_ja": "仕事着に困った65歳女性がユニクロで揃えたコーディネートを披露し、ネット上で大きな注目を集めている。上品に着こなした姿に対し、高見えして見えるといった驚きの声が寄せられている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 1,
+   "has_detail": true
+  },
+  {
+   "id": "3e11818719ddf65a",
+   "url": "https://www.wwdjapan.com/articles/2541320",
+   "title_original": "ユニクロ、災害被災地や難民キャンプに“ヒートテック”100万点超を寄贈",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T22:00:23+00:00",
+   "title_ja": "ユニクロが被災地や難民キャンプへ「ヒートテック」を100万点以上寄贈",
+   "summary_ja": "ユニクロは、国内外の災害被災地や難民キャンプに向けて「ヒートテック」を100万点以上寄贈した。寒さ対策や生活支援を目的とした社会貢献活動の一環として実施された取り組みである。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "feb55848e3f045d0",
+   "url": "https://biz.chosun.com/jp/jp-retail/2026/11/03/C6XU6G3UCZHDHIBJDE2BMVWTAY/?outputType=amp",
+   "title_original": "ユニクロ韓国が2桁増収増益 店舗集約で収益改善",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/HA2DSMBUGUZWEZBVGI3TEMDBGA.jpg?auth=b3d2eb5a30d6b10aa30ae9650e14ce875eb2349afa8f3ad669542ca0c58a18c3&width=1000&height=525&smart=true",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T21:00:59.349000+00:00",
+   "title_ja": "ユニクロ韓国法人が二桁の増収増益を達成　店舗集約で収益改善",
+   "summary_ja": "ユニクロの韓国事業が二桁の増収増益を達成したことが明らかになった。店舗の集約や経営の効率化を進めたことで収益性の改善が実現しており、同地域での事業基盤が強固になっている。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1726ef1ceb2b10eb",
+   "url": "https://biz.chosun.com/en/en-retail/2026/11/03/DDWJJW26MFA6LDYESTWR2HVYFQ/?outputType=amp",
+   "title_original": "Uniqlo rebounds in South Korea as sales top pre–No Japan peak",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/HA2DSMBUGUZWEZBVGI3TEMDBGA.jpg?auth=b3d2eb5a30d6b10aa30ae9650e14ce875eb2349afa8f3ad669542ca0c58a18c3&width=1000&height=525&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T21:00:33.545000+00:00",
+   "title_ja": "韓国のユニクロ売上高、不買運動前のピークを回復",
+   "summary_ja": "韓国におけるユニクロの売上高が回復を見せ、不買運動前の最高潮だった水準を上回る実績を記録したことが分かりました。アジア市場での堅調な事業展開を示しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "b71bef54ae3ba8d7",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%9D%A5%E5%B9%B4%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%83%95%E3%81%AE%E3%82%BB%E3%83%B3%E3%83%88-%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%82%BA%E3%81%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E5%88%9D%E3%81%AE%E5%BA%97%E8%88%97%E3%82%92%E5%87%BA%E5%BA%97%E3%81%B8,1881012.html",
+   "title_original": "ユニクロ、来年カーディフのセント・デイビッズにウェールズ初の店舗を出店へ",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T16:24:52+00:00",
+   "title_ja": "ユニクロ、来年カーディフのセント・デイビッズにウェールズ初出店",
+   "summary_ja": "ユニクロは、来年にカーディフの商業施設「セント・デイビッズ」へ出店することを発表しました。これがウェールズにおける記念すべき第一号店となります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "76f5d631d91991a7",
+   "url": "https://uk.fashionnetwork.com/news/Uniqlo-to-open-first-welsh-store-next-year-at-st-david-s-cardiff,1880909.html",
+   "title_original": "Uniqlo to open first Welsh store next year at St David's, Cardiff",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T16:24:52+00:00",
+   "title_ja": "ユニクロ、来年ウェールズ初の店舗をカーディフに出店へ",
+   "summary_ja": "ファーストリテイリングが展開するユニクロは、来年ウェールズの首都カーディフにあるショッピングセンター「セント・デイビッズ」に同地域初となる店舗をオープンする予定です。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "d905b99e9641c80f",
+   "url": "https://www.mens-folio.com/lifestyle/uniqlo-singapore-partners-community-chest",
+   "title_original": "T-Shirts for Good: Uniqlo Singapore Partners Community Chest as Part of Its PEACE FOR ALL Initiative",
+   "source": "Men's Folio",
+   "image": "https://mensfolio-sg-production.s3.ap-southeast-1.amazonaws.com/2026/11/Uniqlo_KV-Portrait-copy.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T15:19:19+00:00",
+   "title_ja": "シンガポールのユニクロ、PEACE FOR ALLで寄付",
+   "summary_ja": "シンガポールのユニクロが、チャリティ活動「PEACE FOR ALL」の一環としてCommunity Chestと提携しました。チャリティTシャツを通じた社会貢献を行います。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "e5a0c042f5be6ec6",
    "url": "https://lexpress-franchise.com/en/news/uniqlo-first-welsh-store-cardiff",
@@ -334,7 +478,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0d9f62a49a9c4443",
@@ -389,7 +533,7 @@
    "url": "https://itsoncardiff.co.uk/its-official-uniqlo-confirms-first-welsh-store-will-open-in-cardiff-in-2027",
    "title_original": "It’s Official! UNIQLO Confirms First Welsh Store Will Open in Cardiff in 2027",
    "source": "It's On Cardiff",
-   "image": "",
+   "image": "https://itsoncardiff.co.uk/wp-content/uploads/2026/11/UNIQLO.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-11-02T07:04:43+00:00",
@@ -446,7 +590,23 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "f78443e2331b8c63",
+   "url": "https://newswav.com/article/uniqlo-brings-back-its-popular-sold-out-airism-hijab-on-6-november-A2611_Pk65yK",
+   "title_original": "UNIQLO Brings Back Its Popular Sold-Out AIRism Hijab On 6 November",
+   "source": "Newswav",
+   "image": "https://thestoly.com/wp-content/uploads/2026/11/Offer-post-26-150x150.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T02:27:07+00:00",
+   "title_ja": "ユニクロ、完売続出のエアリズムヒジブを11月6日に再販",
+   "summary_ja": "人気のため完売していたユニクロの「エアリズムヒジブ」が、11月6日より再び販売されることが決定しました。多くのファンから期待が寄せられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "bc9b264128030855",
@@ -6511,166 +6671,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "9e29d54f1a6b7b94",
-   "url": "https://www.yamagata-np.jp/oricon/print.php?id=2487384",
-   "title_original": "ユニクロの値上げ発表、SNSでさまざまな声「ずっーとお世話になってきました」「値上げのタイミングに企業の考えが出ます」",
-   "source": "山形新聞",
-   "image": "https://www.yamagata-np.jp/",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T09:12:00+00:00",
-   "title_ja": "ユニクロの値上げ発表に対しSNS上でさまざまな反応",
-   "summary_ja": "ユニクロによる商品の値上げ発表を受けて、SNS上では消費者から多角的な反応が寄せられています。これまで愛用してきた感謝の声や、値上げの時期や企業の姿勢に対する考察など、多様な意見が上がっています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "628a48e5361dfd88",
-   "url": "https://www.sankei.com/article/20261019-XFY5LMNR7BO4DL2IGROWBPFLMM",
-   "title_original": "ユニクロ、11・10より値上げを発表 「感動ジャケット」6990円→7990円 ソックス“まとめ買い”販売も終了へ",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/P335QRRCBVJ4HMU2FHVBTINCG4.jpg?auth=a2eb9f98828c04a2d8687516f0fdf5fcadec2b6ff0e5cf52e642a7f1dc296109&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T09:01:12+00:00",
-   "title_ja": "ユニクロが11月10日からの値上げを発表、「感動ジャケット」など改定へ",
-   "summary_ja": "ユニクロは11月10日からの価格改定を発表しました。「感動ジャケット」が6,990円から7,990円に値上げされるほか、ソックスのまとめ買い販売の終了も明らかになりました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7af0cc9046568324",
-   "url": "https://media.unisba.ac.id/b7390b14/e6bbbb54xQD3E9U68Lg//?share=telegram&nb=1",
-   "title_original": "【UNIQLO】スヌーピーの新作が止まらない！！ The Mandalorian And Grogu (s1dDFFIo1L)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T08:32:28+00:00",
-   "title_ja": "ユニクロから「スヌーピー」などの新作コラボアイテムが続々登場",
-   "summary_ja": "ユニクロにて「スヌーピー」や「マンダロリアン＆グローグー」といった人気キャラクターとコラボレーションした新作アイテムが続々と登場しており、ファンの注目を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "4b2b6abf9e200737",
-   "url": "https://www.nikkei.com/article/DGXZQOUC195SF0Z11C26A0000000",
-   "title_original": "ユニクロ、インフルエンサー向けフリース撮影会 平成文化に注目",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3747902019102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=8a3b07b6d037c8dc63c38976ea2223cb",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T08:12:26+00:00",
-   "title_ja": "ユニクロが平成カルチャーに着目しインフルエンサー向けフリース撮影会を開催",
-   "summary_ja": "ユニクロは平成文化に注目し、インフルエンサーを対象としたフリースの撮影会を実施しました。SNSやインフルエンサーの発信力を生かしたプロモーション展開を推進しています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6afc8dbb1496faa0",
-   "url": "https://en.ilsole24ore.com/art/uniqlos-formula-is-breaking-records-with-a-fifth-shop-in-italia-due-in-2027-AJGGGznB",
-   "title_original": "Uniqlo’s business model is breaking records. And in 2027, a fifth shop in Italia",
-   "source": "Il Sole 24 ORE",
-   "image": "https://i2.res.24o.it/images2010/S24/Documenti/2026/10/20/Immagini/Ritagli/$RLM5Z4G-U51444762358hfi-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T07:55:20+00:00",
-   "title_ja": "ユニクロが好調維持、2027年にイタリア5店舗目の出店を計画",
-   "summary_ja": "ユニクロのビジネスモデルが好調を維持し、過去最高水準の業績を記録しています。海外市場での展開も推進しており、2027年にはイタリア国内で5番目となる店舗を出店する計画であることが報じられました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0e5c98db9ed215d1",
-   "url": "https://uptodate.tokyo/gu-x-pokemon-26fw",
-   "title_original": "GU x Pokémon “森の中でポケモンと暮らすトレーナーのライフスタイル”をテーマにした新作コラボが国内10月23日より発売",
-   "source": "UP TO DATE",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T06:22:50+00:00",
-   "title_ja": "GUがポケモンとコラボ、新作を10月23日より発売",
-   "summary_ja": "ジーユーは、森の中でポケモンと暮らすトレーナーのライフスタイルをテーマにした新作コラボレーションアイテムを、10月23日より国内で発売すると発表しました。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "817fa856a41aaaee",
-   "url": "https://eu.36kr.com/en/p/4029535928652161",
-   "title_original": "Uniqlo's Strategy to Become the World's Second Largest: Shifting Focus Beyond China Market",
-   "source": "36Kr",
-   "image": "https://img.36krcdn.com/hsossms/20261017/v2_266e7f0de4f4435b992e8acdcc43a816@5922386_oswg807094oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T06:22:37+00:00",
-   "title_ja": "ユニクロが世界2位を目指す新戦略、中国以外の市場へ注力",
-   "summary_ja": "アパレル世界第2位を目指すユニクロが、戦略の軸足を中国以外の海外市場へと移行させています。主要市場だった中国に依存しない成長体制を構築し、さらなるグローバル拡大を進める方針です。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4f51bab178caca04",
-   "url": "https://www.tradingview.com/news/moodys:49f80ccc39787:0-uniqlo-india-net-rises-41-to-rs-253-cr-in-fy26-plans-to-expand-presence",
-   "title_original": "Uniqlo India Net Rises 41% to Rs 253 cr in FY26; Plans to Expand Presence",
-   "source": "TradingView",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T04:15:23+00:00",
-   "title_ja": "インドユニクロ、2026年度純利益が41%増",
-   "summary_ja": "ユニクロのインド事業における2026年度の純利益は41%増加し、今後はさらに出店を拡大する計画です。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "ffa9586b382f5d6f",
-   "url": "https://www.ryutsuu.biz/sales/s101943.html",
-   "title_original": "カジュアル衣料4社／9月の既存店売上高はユニクロ10.8％増、しまむら10.4％増",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T02:50:29+00:00",
-   "title_ja": "9月のカジュアル衣料大手、ユニクロの既存店売上高は10.8％増",
-   "summary_ja": "カジュアル衣料4社の9月既存店売上高が発表され、ユニクロは10.8％増となった。同業のしまむらも10.4％増を記録するなど、各社の売上状況が明らかになっている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "50bbee70205c8365",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-15-Kwij4g",
-   "title_original": "【大人のユニクロ】「UNIQLO and JW ANDERSON」新作試着ルポ。今冬のニットは丸首じゃない。浅いVネックが気分です【10月16日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/b6/b63e9dcb-5e16-4cd5-baf4-665ccc094232-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T02:00:00+00:00",
-   "title_ja": "10月16日発売「UNIQLO and JW ANDERSON」新作の試着ルポ",
-   "summary_ja": "10月16日に発売された「UNIQLO and JW ANDERSON」の新作コレクションに関する試着レポート。今冬注目のニットアイテムなど、実際に着用した印象や魅力を紹介している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
