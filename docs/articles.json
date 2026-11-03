@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T09:09:34.360945+09:00",
+ "updated_at": "2026-11-03T22:12:21.306008+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,6 +18,7 @@
  "sources": [
   "- PeopleAsia",
   "5 Dariya News",
+  "A1 Retail Magazine",
   "ABEMA",
   "AD HOC NEWS",
   "ADWEEK",
@@ -43,7 +44,6 @@
   "Connect CRE Canada",
   "Daily Hive",
   "Dellows News",
-  "ELLE",
   "Estates Gazette",
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
@@ -70,6 +70,7 @@
   "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
+  "Insider Media Ltd",
   "Investing.com 日本",
   "It's On Cardiff",
   "JBpress",
@@ -108,7 +109,6 @@
   "RBB TODAY",
   "Ragtrader.com.au",
   "Record China",
-  "Retail & Leisure International",
   "Retail Insider",
   "SEVENTIE TWO",
   "STRAIGHT PRESS",
@@ -124,6 +124,7 @@
   "The Financial Express",
   "The Vent Machine -",
   "The Western Telegraph",
+  "TheFutureParty",
   "TheIndustry.fashion",
   "Times Colonist",
   "Traders Union",
@@ -181,6 +182,7 @@
   "ナタリー",
   "ネットショップ担当者フォーラム",
   "ハフポスト",
+  "ハリウッド・リポーター・ジャパン",
   "ファッションプレス",
   "フロントロウ",
   "マイナビニュース",
@@ -222,56 +224,214 @@
   "매일경제",
   "아시아경제",
   "인사이트코리아",
-  "재경일보"
+  "재경일보",
+  "조선일보"
  ],
  "count": 400,
- "detail_count": 241,
+ "detail_count": 240,
  "digest": {
-  "headline": "ユニクロが最高益を達成し、国内外で新たな展開や支援活動を発表",
+  "headline": "ユニクロ・グループ、海外出店と業績好調で躍進",
   "points": [
    {
-    "text": "ユニクロは物価高でも選ばれる売り場づくりにより最高益を達成し、韓国事業でも二桁の増収増益を記録して売上高が不買運動前のピークを回復しました。",
+    "text": "ユニクロ、英国ウェールズへ初出店を正式発表、カーディフのセント・デイビッズに2027年開店予定。",
+    "ids": [
+     "629f44d140d8dea7",
+     "f1cde7a7facf7000",
+     "1d8b5eba776804bd"
+    ]
+   },
+   {
+    "text": "韓国事業で二桁増収増益を達成し、売上は不買運動前のピークを回復。",
     "ids": [
      "feb55848e3f045d0",
-     "1726ef1ceb2b10eb",
+     "1726ef1ceb2b10eb"
+    ]
+   },
+   {
+    "text": "物価高でも最高益を達成、売れる売り場の強みが評価された。",
+    "ids": [
      "71fe2ef5933f4ce9"
     ]
    },
    {
-    "text": "来年にウェールズ初となる店舗をカーディフの「セント・デイヴィッズ」へ出店することを正式に発表し、イギリス国内での店舗ネットワーク拡大を進めています。",
+    "text": "AIブームと経済回復を背景にサンフランシスコへ再出店し、長蛇の列ができた。",
     "ids": [
-     "b71bef54ae3ba8d7",
-     "e5a0c042f5be6ec6",
-     "f2bb0a9edf877fe4"
+     "a1bd23c5664dd7e2",
+     "70583b62eb30b591"
     ]
    },
    {
-    "text": "京都府内最大の「ユニクロ 京都」が11月6日に開業し、西日本初となるカフェ「UNIQLO COFFEE」が併設されるほか、中国市場戦略の見直しや上海グローバル旗艦店のリニューアルも行われました。",
-    "ids": [
-     "bc9b264128030855",
-     "21d7d82dbbc47693",
-     "8e6c34656f9415dd"
-    ]
-   },
-   {
-    "text": "国内外の被災地や難民キャンプなど支援を必要とする人々に向けて、「ヒートテック」を全世界で100万点以上寄贈する社会貢献活動が実施されました。",
-    "ids": [
-     "3e11818719ddf65a",
-     "d340717c624e20b3"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ポーチ」が注目を集め、Xで3日に92件の投稿が確認されています。",
+    "text": "GUちいかわポーチが3日間で101件投稿、合計反応数は253件。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-31T09:15:43.131124+09:00",
-  "generated_at": "2026-11-03T09:15:46.947313+09:00",
+  "from": "2026-10-31T22:25:16.479539+09:00",
+  "generated_at": "2026-11-03T22:25:23.525877+09:00",
   "article_count": 24,
-  "sig": "8da6098e82bd"
+  "sig": "bb63df72edfa"
  },
  "items": [
+  {
+   "id": "629f44d140d8dea7",
+   "url": "https://www.a1retailmagazine.com/new-stores/uniqlo-to-open-in-wales-in-autumn-2027",
+   "title_original": "UNIQLO announces to open in Wales in autumn 2027",
+   "source": "A1 Retail Magazine",
+   "image": "https://www.a1retailmagazine.com/wp-content/uploads/2026/11/Uniqlo-x-St-Davids.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T10:34:21+00:00",
+   "title_ja": "ユニクロがウェールズ初出店を発表　2027年秋オープン予定",
+   "summary_ja": "ユニクロは、2027年秋にウェールズへ初出店を行うと発表した。イギリス地域における店舗網をさらに拡大し、現地の顧客に向けたブランドの浸透と事業成長を推進する。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1d0f5a7926b54d41",
+   "url": "https://hollywoodreporter.jp/fest/tokyo/229005",
+   "title_original": "【第39回東京国際映画祭】ユニクロ支援の難民映画5本が日本初上映！ケイト・ブランシェット、役所広司らが登壇",
+   "source": "ハリウッド・リポーター・ジャパン",
+   "image": "https://hollywoodreporter.jp/wp-content/uploads/2026/11/01_N_1_0040_11zon.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T10:10:56+00:00",
+   "title_ja": "ユニクロ支援の難民映画5本が東京国際映画祭で初上映、役所広司らが登壇",
+   "summary_ja": "第39回東京国際映画祭にて、ユニクロが支援する難民をテーマにした映画5作品が日本で初めて上映された。登壇イベントにはケイト・ブランシェットや役所広司らが参加した。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "92aca9ada9111623",
+   "url": "https://news.yahoo.co.jp/articles/3238a029b6170ff1d348378abff3616731c43e31",
+   "title_original": "モノトーン調だから大人女性にも！ユニクロ新作「ミッフィーTシャツ」4種。シルバー箔の花柄やオバケデザインも！全部キュートです（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00143005-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T08:31:03+00:00",
+   "title_ja": "ユニクロから大人女性向けの新作「ミッフィーTシャツ」4種が登場",
+   "summary_ja": "ユニクロからモノトーン調で大人女性にも適した「ミッフィーTシャツ」新作4種が登場。シルバー箔の花柄やおばけデザインなど、シックで洗練された柄が揃っている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "85964ca48176e05a",
+   "url": "https://limo.media/articles/-/143005",
+   "title_original": "祝！100周年アニバーサリー！ユニクロ新作「ミッフィーTシャツ1990円」4種。〈ぷっくり花柄〉や〈おばけ〉など、モノトーンやシルバー箔がシック！大人女性にも 2027年はディック・ブルーナ生誕100周年！2026年12月中旬発売予定です | 概要 | LIMO | くらしとお金の経済メディア",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/d/6/1200w/img_d6daf8d0416db28ff4e1b689721874a6176044.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T08:30:00+00:00",
+   "title_ja": "ユニクロがブルーナ100周年記念のミッフィーTシャツを12月中旬発売",
+   "summary_ja": "ディック・ブルーナ生誕100周年を記念し、ユニクロは新作「ミッフィーTシャツ」4種を2026年12月中旬に発売予定。価格は1990円で、ぷっくり花柄やおばけデザインなどが展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8ae72d999a7a0326",
+   "url": "https://www.futureparty.com/p/uniqlo-launches-magazine-with-cate-blanchett",
+   "title_original": "UNIQLO Launches Magazine With Cate Blanchett",
+   "source": "TheFutureParty",
+   "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/73ffee67-1d5d-49e7-8c95-3c92afb277a4/uniqlo_nov_3.jpg?t=1793681595",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T08:09:52.708000+00:00",
+   "title_ja": "ユニクロ、俳優ケイト・ブランシェットを起用した新マガジンを発刊",
+   "summary_ja": "ユニクロが俳優のケイト・ブランシェットを起用した新しいマガジンを発刊した。ブランドの世界観や魅力を伝える新たな取り組みとして注目を集めている。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f1cde7a7facf7000",
+   "url": "https://www.insidermedia.com/news/wales/first-welsh-store-revealed-for-global-apparel-retailer-marks-next-step-in-uk-expansion",
+   "title_original": "First Welsh store revealed for global apparel retailer - marks next step in UK expansion",
+   "source": "Insider Media Ltd",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T06:24:22+00:00",
+   "title_ja": "ユニクロがウェールズ初の店舗を出店へ　英国での事業拡大を加速",
+   "summary_ja": "グローバルアパレル展開を進めるユニクロが、ウェールズ初となる店舗を出店することが明らかになった。英国全域での店舗網拡大に向けた新たな一歩となる。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a1bd23c5664dd7e2",
+   "url": "https://www.chosun.com/jp/economy-jp/2026/11/03/6O6KQVOH6BBAJLP6ICYXHS2SAM",
+   "title_original": "買い物客が長蛇の列…「ゾンビ都市」を去ったユニクロ、AIブームでサンフランシスコに復帰",
+   "source": "조선일보",
+   "image": "https://www.chosun.com/resizer/v2/LCY3Q7QZGNGRJEGK3SPHO5YPLE.jpg?auth=a53305d3e1f759bd353342ec06fbbe95eb2d453c644d2e27a858a2c4b11e2f87&width=1200&height=630&smart=true",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T06:05:12.399000+00:00",
+   "title_ja": "AIブームで復活のサンフランシスコにユニクロが再出店　行列も",
+   "summary_ja": "一度サンフランシスコから撤退したユニクロが、AIブームによる街の活気を取り戻した現地に再出店を果たした。オープン当日には長蛇の列ができる賑わいを見せている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "70583b62eb30b591",
+   "url": "https://www.chosun.com/english/industry-en/2026/11/03/L53UP46ETVDIVIQNBX4IRATYQE",
+   "title_original": "AI Boom Fuels Uniqlo's San Francisco Return",
+   "source": "조선일보",
+   "image": "https://www.chosun.com/resizer/v2/LCY3Q7QZGNGRJEGK3SPHO5YPLE.jpg?auth=a53305d3e1f759bd353342ec06fbbe95eb2d453c644d2e27a858a2c4b11e2f87&width=1200&height=630&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T06:03:57.603000+00:00",
+   "title_ja": "AIブームの好調を受けユニクロがサンフランシスコへ再出店",
+   "summary_ja": "サンフランシスコにおけるAIブームと経済活動の回復を背景に、ユニクロが同都市へ再出店することが明らかになった。現地での需要取り込みを目指す。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "00835126f1b4106d",
+   "url": "https://hypebeast.com/2026/11/ayumu-hiranos-style-distilled-into-a-400-gram-down-jacket",
+   "title_original": "Ayumu Hirano's Style, Distilled Into a 400-Gram Down Jacket",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F31%2Fayumu-hiranos-style-distilled-into-a-400-gram-down-jacket-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T01:00:55+00:00",
+   "title_ja": "平野歩夢のこだわりを反映した軽量ダウンジャケット",
+   "summary_ja": "アスリートの平野歩夢選手のスタイルを凝縮した、約400gの軽量なユニクロのライトダウンボリュームジャケットについて紹介します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8cc2d9dc05b5b825",
+   "url": "https://hypebeast.com/jp/2026/11/uniqlo-ayumu-hirano-light-down-volume-jacket-interview",
+   "title_original": "約400gのダウンに宿る平野歩夢のスタイル ── UNIQLO ライトダウンボリュームジャケット | Interviews",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F11%2F03%2Funiqlo-ayumu-hirano-light-down-volume-jacket-interview-ft.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T01:00:39+00:00",
+   "title_ja": "平野歩夢のスタイルが宿る約400gのダウンジャケット",
+   "summary_ja": "アスリートの平野歩夢選手のこだわりが詰まったユニクロのライトダウンボリュームジャケットの特徴や開発背景に迫ります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "056bf1ada132575a",
    "url": "https://www.ragtrader.com.au/news/uniqlo-targets-queensland-amid-australia-surge",
@@ -334,7 +494,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "feb55848e3f045d0",
@@ -382,7 +542,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "76f5d631d91991a7",
@@ -398,7 +558,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d905b99e9641c80f",
@@ -414,7 +574,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e5a0c042f5be6ec6",
@@ -6510,166 +6670,6 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8097dd1720e743a3",
-   "url": "https://news.yahoo.co.jp/articles/a5c581fdde7d7af4ea10269affed75f5b2b2ebe4",
-   "title_original": "ユニクロ、平均4％値上げへ（共同通信）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T12:51:43+00:00",
-   "title_ja": "ユニクロが平均4％の値上げへ移行",
-   "summary_ja": "ユニクロの商品が平均で4％値上げされることが明らかになりました。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "cae4bfc02126bf06",
-   "url": "https://www.vietnam.vn/en/jonathan-anderson-dua-ky-uc-san-khau-vao-bst-thu-dong-2026-cua-uniqlo",
-   "title_original": "Jonathan Anderson brings stage memories to Uniqlo's Fall/Winter 2026 collection.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/19/1792414563708_thumb.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T12:00:54+00:00",
-   "title_ja": "JWアンダーソンがユニクロの2026年秋冬コレクションに舞台の思い出を表現",
-   "summary_ja": "デザイナーのジョナサン・アンダーソンが、ユニクロとのコラボレーションとなる2026年秋冬コレクションにおいて、舞台芸術に関する自身の思い出を落とし込んだデザインを展開しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1fd3c7b48da5ffcc",
-   "url": "https://www.vietnam.vn/ja/jonathan-anderson-dua-ky-uc-san-khau-vao-bst-thu-dong-2026-cua-uniqlo",
-   "title_original": "ジョナサン・アンダーソンが、ユニクロの2026年秋冬コレクションに舞台での思い出を持ち込む。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/19/1792414563708_thumb.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T12:00:54+00:00",
-   "title_ja": "ジョナサン・アンダーソンが手掛けるユニクロ2026年秋冬",
-   "summary_ja": "ジョナサン・アンダーソンが、ユニクロの2026年秋冬コレクションのデザインに舞台での思い出を取り入れている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c67a9cbeefb77793",
-   "url": "https://www.nikkei.com/article/DGXZQOUC198PQ0Z11C26A0000000",
-   "title_original": "ユニクロ、「感動ジャケット」など平均4%値上げ 原材料価格を転嫁",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3749399019102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=edb31df8eb70bab9eb49612d85a8bc40",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T11:39:01+00:00",
-   "title_ja": "ユニクロ、「感動ジャケット」など平均4%値上げ",
-   "summary_ja": "ユニクロは「感動ジャケット」などを対象に平均4%の値上げを実施します。高騰する原材料価格を適切に価格へ転嫁する狙いです。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "3134cc03e74475dc",
-   "url": "https://sp.m.jiji.com/article/show/3892582",
-   "title_original": "ユニクロ、「感動ジャケット」値上げ＝１１月１０日から、原材料高や円安で＝",
-   "source": "時事通信ニュース",
-   "image": "https://sp.m.jiji.com/summary_large_image.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T11:17:00+00:00",
-   "title_ja": "ユニクロが11月10日から「感動ジャケット」を値上げ、原材料高や円安が影響",
-   "summary_ja": "ユニクロは、定番商品である「感動ジャケット」を11月10日から値上げすることを発表しました。値上げの背景には、原材料価格の高騰や円安の影響があるとされています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "ce779e454f95d49b",
-   "url": "https://www.elle.com/uk/fashion/a73977101/uniqlo-clare-waight-keller-aw26",
-   "title_original": "Want To Understand Clare Waight Keller’s Vision For Uniqlo? Look To The Details",
-   "source": "ELLE",
-   "image": "https://hips.hearstapps.com/hmg-prod/images/f36cd681-0d97-4d10-9747-28299aaebbdb.jpg?crop=1xw:0.5xh;center,top&resize=1200:*",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T10:51:47+00:00",
-   "title_ja": "クレア・ウェイ・ケラーが手掛けるユニクロのビジョン、着目すべきこだわりとは",
-   "summary_ja": "デザイナーのクレア・ウェイ・ケラー氏がユニクロで提示するビジョンについて、服の細部へのこだわりに着目しながら解説する記事です。シンプルさの中に宿るデザインの真意を紐解いています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "b94520f35ac92403",
-   "url": "https://news.yahoo.co.jp/articles/9d5f64f9e49cdc31806bb5ae4688ed456da4d6f7/images/000",
-   "title_original": "ユニクロが平成リバイバルを追い風にフリース訴求を強化 Z世代向けイベントを開催 (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWTpXIvmiqAF4uPO5L-U2VueRUkaHy8WASR8QYMnYAZdSyJ61d6y8-7O_5icYQmjhBu2F5dMb3XP-DmLF0sUkwJ5seUMGGTv9Nw3h4ZV4FrD_58dpxD7eUEInXEngiL2AQ==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T10:20:18+00:00",
-   "title_ja": "ユニクロが平成リバイバルを背景にフリース訴求を強化",
-   "summary_ja": "ユニクロは平成リバイバルのトレンドを追い風に、フリース商品の魅力をアピールするZ世代向けのイベントを開催しました。若い世代に向けた新たな訴求アプローチを展開しています。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f4bc28e5e39e942a",
-   "url": "https://www.fashionsnap.com/article/2026-10-19/uniqlo-fleece",
-   "title_original": "ユニクロがフリースの需要拡大に手応え 平成リバイバルを追い風にZ世代へアプローチ",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/05f1b69b-6de8-4004-b7d0-3c40066b9ac3.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T10:20:18+00:00",
-   "title_ja": "ユニクロ、フリース需要の拡大に好感触　平成リバイバルでZ世代への訴求を強化",
-   "summary_ja": "ユニクロは、平成ファッションのトレンド再燃を追い風に、フリース商品の需要拡大へ手応えを示しています。若年層であるZ世代に向けたマーケティングや商品提案を一層強化していく方針です。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ae52f57d1c53b214",
-   "url": "https://www.rli.uk.com/uniqlo-now-open-at-the-trafford-centre",
-   "title_original": "UNIQLO now Open at the Trafford Centre",
-   "source": "Retail & Leisure International",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T10:06:59+00:00",
-   "title_ja": "英トラフォード・センターにユニクロの新店舗がオープン",
-   "summary_ja": "英国の大型商業施設「トラフォード・センター」にユニクロの新しい店舗が開業しました。現地での知名度向上やさらなる顧客層の開拓を目指し、新たな出店として注目を集めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d22856cf5aca5ad3",
-   "url": "https://news.yahoo.co.jp/pickup/6599375",
-   "title_original": "ユニクロ ソックス3点990円終了へ",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/19/6f2506bc3c45a3018298920e09f9711ea49b8a964b93e37dc50ea0b647da99b4.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T09:36:29+00:00",
-   "title_ja": "ユニクロがソックス3点で990円のセット販売価格を終了へ",
-   "summary_ja": "ユニクロが定番施策として展開してきた、ソックス3点を990円で販売する価格体系を終了することが明らかになりました。長年親しまれてきたまとめ買いのお得な価格設定の見直しに関する報道です。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
