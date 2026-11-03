@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:12:21.306008+09:00",
+ "updated_at": "2026-11-04T07:39:53.153615+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -112,6 +112,7 @@
   "Retail Insider",
   "SEVENTIE TWO",
   "STRAIGHT PRESS",
+  "Secret Miami",
   "Seoul Economic Daily",
   "Simply Wall Street",
   "SmartNews",
@@ -201,13 +202,13 @@
   "大分合同新聞",
   "山口新聞 電子版",
   "山陽新聞",
-  "新潟日報",
   "日テレNEWS NNN",
   "日本経済新聞",
   "日経CNBC online",
   "映画.com",
   "時事通信ニュース",
   "朝日新聞",
+  "東京バーゲンマニア",
   "東京報道新聞",
   "横浜で暮らそう",
   "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
@@ -228,50 +229,116 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 242,
  "digest": {
-  "headline": "ユニクロ・グループ、海外出店と業績好調で躍進",
+  "headline": "ユニクロ京都のオープンやウェールズ初出店、韓国での増収増益など国内外の動向をまと",
   "points": [
    {
-    "text": "ユニクロ、英国ウェールズへ初出店を正式発表、カーディフのセント・デイビッズに2027年開店予定。",
+    "text": "京都最大のグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初となるカフェ併設や地域コラボが展開されています。",
     "ids": [
-     "629f44d140d8dea7",
-     "f1cde7a7facf7000",
-     "1d8b5eba776804bd"
+     "7aa0406a97c2cd32",
+     "bc9b264128030855"
     ]
    },
    {
-    "text": "韓国事業で二桁増収増益を達成し、売上は不買運動前のピークを回復。",
+    "text": "ユニクロはウェールズへの初出店を発表し、カーディフの商業施設へ店舗を開設して英国での事業拡大を加速させます。",
+    "ids": [
+     "629f44d140d8dea7",
+     "b71bef54ae3ba8d7",
+     "76f5d631d91991a7"
+    ]
+   },
+   {
+    "text": "韓国のユニクロ事業が店舗集約や経営効率化により二桁の増収増益を達成し、売上高が不買運動前のピークを回復しました。",
     "ids": [
      "feb55848e3f045d0",
      "1726ef1ceb2b10eb"
     ]
    },
    {
-    "text": "物価高でも最高益を達成、売れる売り場の強みが評価された。",
+    "text": "俳優のケイト・ブランシェットが主導するユニクロの新文芸誌が発刊され、東京国際映画祭では支援する難民映画が初上映されました。",
     "ids": [
-     "71fe2ef5933f4ce9"
+     "adb31a4ea98d4380",
+     "57a488839c51806c",
+     "1d0f5a7926b54d41"
     ]
    },
    {
-    "text": "AIブームと経済回復を背景にサンフランシスコへ再出店し、長蛇の列ができた。",
-    "ids": [
-     "a1bd23c5664dd7e2",
-     "70583b62eb30b591"
-    ]
-   },
-   {
-    "text": "GUちいかわポーチが3日間で101件投稿、合計反応数は253件。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に92件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-10-31T22:25:16.479539+09:00",
-  "generated_at": "2026-11-03T22:25:23.525877+09:00",
+  "from": "2026-11-01T07:45:25.632631+09:00",
+  "generated_at": "2026-11-04T07:45:27.770777+09:00",
   "article_count": 24,
-  "sig": "bb63df72edfa"
+  "sig": "7709e4334c71"
  },
  "items": [
+  {
+   "id": "adb31a4ea98d4380",
+   "url": "https://uk.fashionnetwork.com/news/Cate-blanchett-to-lead-new-literary-magazine-by-uniqlo,1881547.html",
+   "title_original": "Cate Blanchett to lead new literary magazine by Uniqlo",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T19:05:48+00:00",
+   "title_ja": "ユニクロ創刊の文芸誌、ケイト・ブランシェットが立ち上げを主導",
+   "summary_ja": "ユニクロが新たに発行する文芸雑誌において、俳優のケイト・ブランシェットが主導的な役割を務めることが明らかになりました。文化・出版分野における同ブランドの新たな試みです。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "7aa0406a97c2cd32",
+   "url": "https://ouispeakfashion.com/uniqlo-kyoto-global-flagship-store-kawaramachi",
+   "title_original": "UNIQLO Opens Global Flagship UNIQLO Kyoto in Kawaramachi: Western Japan’s First Café and 14 Local Collaborations",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2026/11/uniqlo-kyoto-main-image.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T18:23:05+00:00",
+   "title_ja": "京都・河原町に「ユニクロ京都」がオープン　西日本初のカフェや地域コラボを展開",
+   "summary_ja": "ユニクロが京都の河原町にグローバル旗艦店「ユニクロ京都」を開店しました。店内には西日本初登場となるカフェが併設されるほか、地元の事業者やブランドとの14のコラボレーションが展開されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "35e22c14093acf2a",
+   "url": "https://secretmiami.com/uniqlo-aventura-mall-first-miami-location-opening-celebration",
+   "title_original": "Miami's first Uniqlo store opens at Aventura Mall this week",
+   "source": "Secret Miami",
+   "image": "https://offloadmedia.feverup.com/secretmiami.com/wp-content/uploads/2026/11/03103307/shutterstock_2274975731-2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-03T17:11:13+00:00",
+   "title_ja": "マイアミ初のユニクロ店舗がアベンチュラ・モールにオープン",
+   "summary_ja": "マイアミ初となるユニクロの店舗が、アベンチュラ・モール内に今週オープンします。アメリカ国内でのさらなる店舗網の拡大として注目されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "57a488839c51806c",
+   "url": "https://jp.fashionnetwork.com/news/%E3%82%B1%E3%82%A4%E3%83%88-%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%83%E3%83%88-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AE%E6%96%B0%E6%96%87%E8%8A%B8%E8%AA%8C%E3%81%A7%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E5%8B%99%E3%82%81%E3%82%8B,1881512.html",
+   "title_original": "ケイト・ブランシェット、ユニクロの新文芸誌でトップを務める",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T16:44:41+00:00",
+   "title_ja": "ケイト・ブランシェットがユニクロの新文芸誌のトップに",
+   "summary_ja": "俳優のケイト・ブランシェットが、ユニクロが新たに発行する文芸誌のトップに就任しました。ブランドの新たな文化的発信として話題を集めています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "629f44d140d8dea7",
    "url": "https://www.a1retailmagazine.com/new-stores/uniqlo-to-open-in-wales-in-autumn-2027",
@@ -334,7 +401,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8ae72d999a7a0326",
@@ -366,7 +433,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a1bd23c5664dd7e2",
@@ -382,7 +449,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "70583b62eb30b591",
@@ -398,7 +465,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "00835126f1b4106d",
@@ -751,6 +818,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "97b924860b1e3de9",
+   "url": "https://bg-mania.jp/2026/11/02703852.html",
+   "title_original": "京都らしい伝統を生かしたユニクロの旗艦店が誕生！",
+   "source": "東京バーゲンマニア",
+   "image": "https://cdn.bg-mania.jp/images/2026/10/tbm_20261029133803.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-02T03:16:39+00:00",
+   "title_ja": "京都の伝統を生かしたユニクロの新しい旗艦店が誕生",
+   "summary_ja": "京都らしい伝統的な要素を取り入れた、ユニクロの新しい旗艦店がオープンしたことを伝えるニュースです。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "f78443e2331b8c63",
@@ -6591,86 +6674,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "eaac1763856e89b7",
-   "url": "https://english.kyodonews.net/articles/-/88733",
-   "title_original": "BREAKING NEWS: Uniqlo to raise average selling prices by about 4%",
-   "source": "Japan Wire by Kyodo News",
-   "image": "https://english-kyodo.ismcdn.jp/mwimgs/f/0/1200x/img_f04ab8cf4feb2039ac6638aa72ee6798451735.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T13:38:00+00:00",
-   "title_ja": "ユニクロ、11月より販売価格を平均約4％引き上げへ",
-   "summary_ja": "ユニクロは、11月より一部商品の平均販売価格を約4％引き上げる方針を明らかにしました。秋冬の主力商品などが対象となります。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "ba2b6cec77adaf4d",
-   "url": "https://www.chiba-tv.com/plus/detail/amp/2026102133018",
-   "title_original": "ユニクロ4％値上げへ 靴下まとめ買いも終了",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1484907193178702383/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:31:05+00:00",
-   "title_ja": "ユニクロが約4％の値上げを発表、靴下のまとめ買い割引も終了",
-   "summary_ja": "ユニクロは一部商品の平均約4％の値上げに加え、靴下のまとめ買いサービスを終了することを明らかにしました。見直しに伴う価格改定が行われます。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "e0f45219a809c742",
-   "url": "https://www.shimotsuke.co.jp/articles/-/1443485",
-   "title_original": "ユニクロ４％値上げへ",
-   "source": "下野新聞社",
-   "image": "https://soon.ismcdn.jp/mwimgs/2/e/1200wm/img_2edfec64d9029bcde237300c6ae0b32021372.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:13:18+00:00",
-   "title_ja": "ユニクロ、約4%の値上げを実施へ",
-   "summary_ja": "ユニクロが国内の店頭価格について、約4%の値上げを予定していることが明らかになった。今後の動向や詳細な対象商品に注目が集まっている。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "27ba23a64b317d7a",
-   "url": "https://news.yahoo.co.jp/articles/cb1233134d37dffc4a4bb4d4ce7e02d95b823a22",
-   "title_original": "ユニクロ、１１商品を１１月１０日に平均４％値上げ…１２月以降も実施見通し（読売新聞オンライン）",
-   "source": "Yahoo!ニュース",
-   "image": "https://s.yimg.jp/images/news-web/versions/20261019-3b4e3d2/all/images/ogp_default.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T12:59:44+00:00",
-   "title_ja": "ユニクロが11商品を11月に値上げへ、12月以降も継続の見通し",
-   "summary_ja": "ユニクロは、11月10日から11商品を平均4%値上げすることを明らかにしました。さらに、12月以降についても値上げを実施していく見通しとなっています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "af71984bfcd23b75",
-   "url": "https://www.niigata-nippo.co.jp/articles/-/927217",
-   "title_original": "【速報】ユニクロ、平均4％値上げへ",
-   "source": "新潟日報",
-   "image": "https://niigata-nippo.ismcdn.jp/mwimgs/f/0/1200m/img_f00fb4cc8fb5c85704d395ce544571a7167641.jpg?rd=202610141744",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T12:52:00+00:00",
-   "title_ja": "ユニクロ、商品の平均4％値上げを発表",
-   "summary_ja": "ユニクロが製品の平均4％値上げを決定したことが速報として伝えられました。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
