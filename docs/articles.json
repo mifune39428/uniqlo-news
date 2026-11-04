@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T07:39:53.153615+09:00",
+ "updated_at": "2026-11-04T12:46:53.663060+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,7 +24,6 @@
   "ADWEEK",
   "AOL.co.uk",
   "All About ニュース",
-  "Apparel Resources",
   "Apparel Views",
   "Archiproducts",
   "AsiaOne.com",
@@ -109,13 +108,13 @@
   "RBB TODAY",
   "Ragtrader.com.au",
   "Record China",
+  "Retail Gazette",
   "Retail Insider",
   "SEVENTIE TWO",
   "STRAIGHT PRESS",
   "Secret Miami",
   "Seoul Economic Daily",
   "Simply Wall Street",
-  "SmartNews",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
   "The Business of Fashion",
@@ -147,7 +146,6 @@
   "X",
   "Yahoo News Canada",
   "Yahoo!ニュース",
-  "YorkRegion.com",
   "YouTube",
   "ad-hoc-news.de",
   "adobo Magazine",
@@ -181,7 +179,6 @@
   "デイリースポーツ",
   "トラベル Watch",
   "ナタリー",
-  "ネットショップ担当者フォーラム",
   "ハフポスト",
   "ハリウッド・リポーター・ジャパン",
   "ファッションプレス",
@@ -219,7 +216,6 @@
   "産経ニュース",
   "繊研新聞",
   "西日本新聞me",
-  "読売新聞",
   "週刊女性PRIME",
   "風傳媒",
   "매일경제",
@@ -229,52 +225,165 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 242,
+ "detail_count": 244,
  "digest": {
-  "headline": "ユニクロ京都のオープンやウェールズ初出店、韓国での増収増益など国内外の動向をまと",
+  "headline": "ユニクロ京都のオープンやセシリー バンセンコラボ発表など新情報が続々",
   "points": [
    {
-    "text": "京都最大のグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初となるカフェ併設や地域コラボが展開されています。",
+    "text": "ユニクロとセシリー バンセンのコラボ第2弾となる2026年秋冬コレクションの発売が決定し、小花刺繍のフリースなどがラインナップされています。",
+    "ids": [
+     "34fbf5fb7a6af085",
+     "f1d7aef67eb4f196",
+     "0e7ab55be701f6e3"
+    ]
+   },
+   {
+    "text": "京都の河原町に西日本初登場のカフェを併設したグローバル旗艦店「ユニクロ京都」がオープンし、地域企業との多彩なコラボが展開されます。",
     "ids": [
      "7aa0406a97c2cd32",
+     "ede04919d0c5315d",
      "bc9b264128030855"
     ]
    },
    {
-    "text": "ユニクロはウェールズへの初出店を発表し、カーディフの商業施設へ店舗を開設して英国での事業拡大を加速させます。",
+    "text": "ユニクロは2027年秋にウェールズ初出店となるカーディフ店をオープンすることを発表し、イギリス国内の店舗網をさらに拡大します。",
     "ids": [
      "629f44d140d8dea7",
      "b71bef54ae3ba8d7",
-     "76f5d631d91991a7"
+     "1d8b5eba776804bd"
     ]
    },
    {
-    "text": "韓国のユニクロ事業が店舗集約や経営効率化により二桁の増収増益を達成し、売上高が不買運動前のピークを回復しました。",
+    "text": "韓国のユニクロ事業が二桁の増収増益を達成し、売上高が不買運動前の最高潮だった水準を上回る実績を記録しました。",
     "ids": [
      "feb55848e3f045d0",
      "1726ef1ceb2b10eb"
     ]
    },
    {
-    "text": "俳優のケイト・ブランシェットが主導するユニクロの新文芸誌が発刊され、東京国際映画祭では支援する難民映画が初上映されました。",
-    "ids": [
-     "adb31a4ea98d4380",
-     "57a488839c51806c",
-     "1d0f5a7926b54d41"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に92件の投稿が確認されています。",
+    "text": "GUの「ちいかわ ポーチ」がXで3日に94件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-01T07:45:25.632631+09:00",
-  "generated_at": "2026-11-04T07:45:27.770777+09:00",
+  "from": "2026-11-01T12:54:02.183928+09:00",
+  "generated_at": "2026-11-04T12:54:03.979988+09:00",
   "article_count": 24,
-  "sig": "7709e4334c71"
+  "sig": "1d68056272d5"
  },
  "items": [
+  {
+   "id": "137229e73c6180c9",
+   "url": "https://prtimes.jp/main/html/rd/p/000000063.000137064.html",
+   "title_original": "【「ユニクロ 京都」×「ヤサカ」初のコラボレーション】UTme！とRE.UNIQLO STUDIOに店舗限定のヤサカデザインが登場します",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/137064/63/137064-63-e23e674e45928ba0323a30826ced3d2a-2400x1260.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T11:10:02+00:00",
+   "title_ja": "ユニクロ京都店とヤサカが初のコラボ展開",
+   "summary_ja": "ユニクロ京都店と「ヤサカ」が初のコラボレーションを実施。「UTme!」や「RE.UNIQLO STUDIO」にて、店舗限定のヤサカデザインが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "34fbf5fb7a6af085",
+   "url": "https://prtimes.jp/main/html/rd/p/000000129.000076227.html",
+   "title_original": "UNIQLO and Cecilie Bahnsen (ユニクロ アンド セシリー バンセン)2026秋冬コレクション 2026年11月20日（金）発売",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/76227/129/76227-129-7c2e76e0d9959c7042ed32aeb62d1879-1458x1823.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T11:00:01+00:00",
+   "title_ja": "「ユニクロ アンド セシリー バンセン」秋冬",
+   "summary_ja": "「UNIQLO and Cecilie Bahnsen」2026年秋冬コレクションの発売が決定しました。2026年11月20日（金）より全国で販売が開始されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "feff7b9790f52e14",
+   "url": "https://news.shoninsha.co.jp/csr/323185",
+   "title_original": "ユニクロnews｜世界の難民や子どもたちにヒートテックなど100万点寄贈",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T03:26:27+00:00",
+   "title_ja": "ユニクロが世界の難民や子どもたちにヒートテックなど100万点を寄贈",
+   "summary_ja": "ユニクロが世界の難民や子どもたちに向けて、ヒートテックなどの衣料品100万点を寄贈したことが明らかになった。難民支援や子どもたちへの継続的な衣料支援活動の一環として実施された。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "0e7ab55be701f6e3",
+   "url": "https://hypebeast.com/jp/2026/11/uniqlo-and-cecilie-bahnsen-2026-autumn-winter-collection-release-info",
+   "title_original": "UNIQLO and Cecilie Bahnsen の2026年秋冬コレクションが登場",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F11%2F04%2Funiqlo-and-cecilie-bahnsen-2026-autumn-winter-collection-release-info-01-1.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T03:18:00+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コレクションが登場",
+   "summary_ja": "ユニクロとセシリー バンセンによるコラボレーション「UNIQLO and Cecilie Bahnsen」の2026年秋冬コレクションが登場した。両ブランドの要素を融合させた注目の新作ラインナップとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f1d7aef67eb4f196",
+   "url": "https://www.fashion-press.net/news/152847",
+   "title_original": "ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
+   "source": "ファッションプレス",
+   "image": "https://www.fashion-press.net/img/news/152847/top.jpg?1793761251",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T03:15:58+00:00",
+   "title_ja": "ユニクロ×セシリー バンセン第2弾コラボを発表",
+   "summary_ja": "ユニクロとセシリー バンセンによるコラボレーション第2弾が発表されました。小花刺繍をあしらったフリースジャケットやシアーロンTなどがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4dd1558566ff1182",
+   "url": "https://news.yahoo.co.jp/articles/2de7aab9a17d757488cf11ec51ffbd206b09f6af",
+   "title_original": "ユニクロ＞「セシリー バンセン」と2度目のコラボ 秋冬コレクションのビジュアル公開 北欧ムードの女性・女児向けフリースアイテム発売へ（毎日キレイ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000007-maikirei-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T03:10:00+00:00",
+   "title_ja": "ユニクロがセシリー バンセンと2度目のコラボ フリースなど発売へ",
+   "summary_ja": "ユニクロはブランド「セシリー バンセン」と2度目となるコラボレーションを発表し、秋冬コレクションのビジュアルを公開した。北欧のムードが漂う女性向けや女児向けのフリースアイテムなどを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "857d11f44d94dcb5",
+   "url": "https://www.fashionsnap.com/article/2026-11-04/uniqlo-cecilie-bahnsen-26aw",
+   "title_original": "ユニクロ × セシリー バンセン26年秋冬新作 フリースジャケットやスカートを発売",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/11/8e7db103-ff6f-45c2-ad0f-f8b74718f9b4.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T02:47:53+00:00",
+   "title_ja": "ユニクロ×セシリー バンセンの26年秋冬新作 フリースやスカート発売",
+   "summary_ja": "ユニクロとセシリー バンセンによる2026年秋冬の新作コラボレーションコレクションが発表された。フリースジャケットやスカートなど、秋冬シーズンに向けた注目の新アイテムが発売される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "adb31a4ea98d4380",
    "url": "https://uk.fashionnetwork.com/news/Cate-blanchett-to-lead-new-literary-magazine-by-uniqlo,1881547.html",
@@ -289,7 +398,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7aa0406a97c2cd32",
@@ -302,6 +411,22 @@
    "published": "2026-11-03T18:23:05+00:00",
    "title_ja": "京都・河原町に「ユニクロ京都」がオープン　西日本初のカフェや地域コラボを展開",
    "summary_ja": "ユニクロが京都の河原町にグローバル旗艦店「ユニクロ京都」を開店しました。店内には西日本初登場となるカフェが併設されるほか、地元の事業者やブランドとの14のコラボレーションが展開されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "ede04919d0c5315d",
+   "url": "https://ouispeakfashion.com/jp/uniqlo-kyoto-global-flagship-store-kawaramachi",
+   "title_original": "ユニクロ（UNIQLO）、京都・河原町にグローバル旗艦店「ユニクロ 京都」をオープン：西日本初のカフェと京都14の企業・文化人コラボ",
+   "source": "Oui Speak Fashion (OSF)",
+   "image": "https://i0.wp.com/ouispeakfashion.com/jp/wp-content/uploads/2026/11/OSF-main-image.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-03T18:16:57+00:00",
+   "title_ja": "京都・河原町にグローバル旗艦店がオープン",
+   "summary_ja": "ユニクロは京都・河原町に西日本初となるカフェを併設したグローバル旗艦店を開業し、現地企業や文化人とのコラボも展開する。",
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
@@ -337,7 +462,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "629f44d140d8dea7",
@@ -724,6 +849,22 @@
    "has_detail": true
   },
   {
+   "id": "53203455f17aee2c",
+   "url": "https://www.retailgazette.co.uk/blog/2026/11/uniqlo-wales-store",
+   "title_original": "UNIQLO to open first Welsh store",
+   "source": "Retail Gazette",
+   "image": "https://www.retailgazette.co.uk/wp-content/uploads/2024/04/uniqlo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T10:38:10+00:00",
+   "title_ja": "ユニクロ、ウェールズ1号店をカーディフに開設予定",
+   "summary_ja": "ユニクロがウェールズ初出店となる新店舗をカーディフにオープンする計画を進めていることが報じられた。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "598881c1bb29c2c1",
    "url": "https://www.westerntelegraph.co.uk/news/26688732.uniqlo-open-first-wales-store-st-davids-cardiff",
    "title_original": "UNIQLO confirms first-ever Welsh store after 'phenomenal demand' from shoppers",
@@ -833,7 +974,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f78443e2331b8c63",
@@ -1416,7 +1557,7 @@
    "url": "https://news.tv-asahi.co.jp/news_international/articles/000544160.html",
    "title_original": "ユニクロ上海が刷新 海外からの旅行客“過去最多”でインバウンド需要を意識",
    "source": "テレ朝NEWS",
-   "image": "",
+   "image": "https://news.tv-asahi.co.jp/articles_img/000544160_1200.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-10-30T09:34:25+00:00",
@@ -3656,7 +3797,7 @@
    "url": "https://www.adobomagazine.com/fashion/uniqlo-f-risso-reimagines-the-rules-of-everyday-dressing",
    "title_original": "UNIQLO F.RISSO reimagines the rules of everyday dressing",
    "source": "adobo Magazine",
-   "image": "",
+   "image": "https://www.adobomagazine.com/wp-content/uploads/2026/10/Uniqlo.jpg",
    "lang": "en",
    "region": "global",
    "published": "2026-10-26T09:11:15+00:00",
@@ -6529,150 +6670,6 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ef3032349ef94e34",
-   "url": "https://netshop.impress.co.jp/n/2026/10/20/16891",
-   "title_original": "ファーストリテイリング柳井社長が語った「世界一のブランドになる」決意とは",
-   "source": "ネットショップ担当者フォーラム",
-   "image": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16891-ogp.png?itok=HpugTR7g",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T22:00:00+00:00",
-   "title_ja": "柳井社長が語る「世界一」への決意",
-   "summary_ja": "ファーストリテイリングの柳井社長が、世界一のブランドを目指す強い決意について語りました。経営トップの言葉から今後の企業戦略に注目が集まります。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2a307401cdc3eaaa",
-   "url": "https://news.yahoo.co.jp/articles/423bae124afbdb3a12e87e3fa8628c83db001a87",
-   "title_original": "ユニクロ 秋冬物11商品を平均4％値上げへ 11月10日から ソックスまとめ買いも終了（FNNプライムオンライン（フジテレビ系））",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-01235937-fnn-000-1-thumb.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T21:39:22+00:00",
-   "title_ja": "ユニクロが11月10日から秋冬物11商品を平均4％値上げ、ソックスまとめ買い割も終了へ",
-   "summary_ja": "ユニクロは11月10日より、秋冬商品のうち11商品を平均4％値上げすることを決定しました。あわせて、これまで実施されていたソックスのまとめ買い割引サービスも終了となります。商品価格改定に伴う施策の変化として関心を集めています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "9671f0c40b53a2c3",
-   "url": "https://mainichi.jp/articles/20261020/ddl/k29/040/224000c",
-   "title_original": "たけまるくん Tシャツに トートバッグも 23日、ユニクロで発売 生駒 ／奈良",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/10/20/20261020ddlk29040348000p/0c10.jpg?2",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T20:05:43+00:00",
-   "title_ja": "奈良・生駒のキャラクター「たけまるくん」Tシャツ・バッグが23日ユニクロで発売",
-   "summary_ja": "奈良県生駒市のキャラクター「たけまるくん」がプリントされたTシャツやトートバッグが、10月23日からユニクロで発売される。ご当地キャラクターをあしらった限定感のあるラインアップとなっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b69424334eeaf56b",
-   "url": "https://www.yorkregion.com/business/people-line-up-for-uniqlo-store-at-richmond-hill-s-hillcrest/article_aabad8c4-9db3-5f6c-b67e-37971b7467a9.html",
-   "title_original": "‘We’re excited’: UNIQLO finally gets a store at Richmond Hill’s Hillcrest Mall and 300 people line up to be the first inside",
-   "source": "YorkRegion.com",
-   "image": "https://bloximages.chicago2.vip.townnews.com/yorkregion.com/content/tncms/assets/v3/editorial/2/5b/25bfa102-3d54-5650-b3bf-d8fb7ea5c48a/6ad66c8502083.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T20:03:00+00:00",
-   "title_ja": "カナダのリッチモンドヒルにユニクロ新店舗が開業、開店前に約300人の行列",
-   "summary_ja": "カナダのリッチモンドヒルにあるヒルクレスト・モールにユニクロの新店舗がオープンしました。現地での待望の開店となり、一番乗りを目指して約300人もの顧客がオープン前に列を作るほどの賑わいを見せました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "cac07d7e47059c0e",
-   "url": "https://www.yomiuri.co.jp/shimen/20261019-GYT9T00317",
-   "title_original": "ユニクロ秋冬物値上げ",
-   "source": "読売新聞",
-   "image": "https://www.yomiuri.co.jp/ogp.jpg?type=ogp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T20:00:00+00:00",
-   "title_ja": "ユニクロ、秋冬物を値上げへ",
-   "summary_ja": "ユニクロが秋冬商品の価格を引き上げることが明らかになりました。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "89205b478793ac67",
-   "url": "https://apparelresources.com/business-news/retail/uniqlo-india-revenue-rises-44-rs-1724-crore-fy26",
-   "title_original": "Uniqlo India Revenue Rises 44% to Rs 1,724 Crore in FY26",
-   "source": "Apparel Resources",
-   "image": "https://apparelresources.com/wp-content/uploads/2026/10/Uniqlo-India-Revenue-Rises-44-to-Rs-1724-Crore-in-FY26.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-19T18:38:39+00:00",
-   "title_ja": "ユニクロのインド事業、売上高が44%増を記録",
-   "summary_ja": "2026年度におけるユニクロのインド事業の売上高が、前年から44%増加して1724クロールに達した。同市場での堅調な成長ぶりが示されている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "369365720efc9116",
-   "url": "https://news.yahoo.co.jp/articles/70b479a97e36860cd5b614f9f437f3677b074794",
-   "title_original": "「ユニクロさん、どうしてこんな商品を…」2歳娘が肌身離さず持つ〝お気に入り〟⇒ 一体なぜ？〝意外すぎる〟姿に「リアル、ライナスの毛布」（西日本新聞me）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00010010-nishinp-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T14:20:01+00:00",
-   "title_ja": "2歳娘が手放さないユニクロ商品は何？",
-   "summary_ja": "2歳の娘が常に抱えているユニクロのある商品が話題に。意外なデザインと実用性が注目され、親子での人気が広がっている。その理由や子どもが選んだ理由を専門家が分析し、商品開発のヒントになる可能性も指摘されている。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "8faa9d7ee62f43c6",
-   "url": "https://news.yahoo.co.jp/pickup/6599401",
-   "title_original": "ユニクロが値上げ 11商品を11月に",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/19/91aba5c306e63991720c5d0487e8442c4fb05b6c6dfed6d35744ef231e2d4dac.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:41:25+00:00",
-   "title_ja": "ユニクロ、11商品を11月に価格改定",
-   "summary_ja": "ユニクロは11月に計11商品の価格を改定する予定だと発表した。対象商品は公式サイトで確認でき、消費者は事前にチェックが必要になる。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b5778aeb5a677938",
-   "url": "https://www.smartnews.com/news/article/5002965303487900058-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%8C11%E6%9C%8810%E6%97%A5%E3%81%8B%E3%82%89%E4%B8%80%E9%83%A8%E5%95%86%E5%93%81%E3%82%92%E5%B9%B3%E5%9D%87%E7%B4%844%EF%BC%85%E5%80%A4%E4%B8%8A%E3%81%92",
-   "title_original": "ユニクロが11月10日から一部商品を平均約4％値上げ",
-   "source": "SmartNews",
-   "image": "https://smartnews-se-public-img-prd.s3.ap-northeast-1.amazonaws.com/thumbnail/5002965224769194382/aa9a39c0226677ab8da93deb6371ea46.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-19T13:41:00+00:00",
-   "title_ja": "ユニクロ、11月10日より一部商品を平均約4％値上げへ",
-   "summary_ja": "ユニクロは11月10日から、一部商品の価格を平均で約4％引き上げると発表しました。原材料費や輸送コストの高騰に対応するものです。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]

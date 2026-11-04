@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T07:42:17.783105+09:00",
+ "updated_at": "2026-11-04T12:50:26.154819+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2861,
+ "catalog_size": 2880,
  "count": 52,
  "items": [
   {
@@ -394,49 +394,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E482605-000",
-   "rank": 16,
-   "brand": "ユニクロ",
-   "name": "50色ソックス",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 290,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482605/item/goods_47_482605_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E482605-000/00?colorDisplayCode=47",
-   "rating": 4.4,
-   "reviews": 806,
-   "reviews7": 56,
-   "capped": false,
-   "prev7": 41,
-   "mentions7": 3,
-   "mention_titles": [
-    {
-     "t": "ユニクロ「50色ソックス」値上げを撤回、内藤剛志さん「決定を変えられることが素晴らしい、宣伝戦略かな」",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/2811e7877f7a8db3187bbfc1a8bbc4153f626296"
-    },
-    {
-     "t": "ユニクロ、「50色ソックス」価格改定の“中止”を発表 これまで通り単品290円＆「まとめ買い」4点990円",
-     "s": "山陽新聞",
-     "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdU1zOC1jNWNUVk45bHZwa2JINzFhbWhVUFZwbjhWN3Fza2M4c1dPVi10a0hMZTVwZjZQMHpnRHFSVUdiYUpHdXVSSnM1NDY0WFU4b01uRnVWdG9m?oc=5"
-    },
-    {
-     "t": "ユニクロ「ソックスまとめ買い」の販売終了を取りやめ 「50色ソックス」の値上げも中止 「靴下は生活必需品を象徴する商品」",
-     "s": "UQライフ",
-     "u": "https://portal.uqmobile.jp/detail/1/3/6/10401_6_r_20261028_1793158352743419"
-    }
-   ],
-   "score": 79,
-   "momentum": 1.14,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E471809-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "スウェットワイドパンツ",
    "genders": [
@@ -456,6 +415,42 @@
    "mention_titles": [],
    "score": 76,
    "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E482605-000",
+   "rank": 17,
+   "brand": "ユニクロ",
+   "name": "50色ソックス",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 290,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482605/item/goods_47_482605_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E482605-000/00?colorDisplayCode=47",
+   "rating": 4.4,
+   "reviews": 806,
+   "reviews7": 56,
+   "capped": false,
+   "prev7": 41,
+   "mentions7": 2,
+   "mention_titles": [
+    {
+     "t": "ユニクロ「50色ソックス」値上げを撤回、内藤剛志さん「決定を変えられることが素晴らしい、宣伝戦略かな」",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/2811e7877f7a8db3187bbfc1a8bbc4153f626296"
+    },
+    {
+     "t": "ユニクロ、「50色ソックス」価格改定の“中止”を発表 これまで通り単品290円＆「まとめ買い」4点990円",
+     "s": "山陽新聞",
+     "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GdU1zOC1jNWNUVk45bHZwa2JINzFhbWhVUFZwbjhWN3Fza2M4c1dPVi10a0hMZTVwZjZQMHpnRHFSVUdiYUpHdXVSSnM1NDY0WFU4b01uRnVWdG9m?oc=5"
+    }
+   ],
+   "score": 74,
+   "momentum": 1.14,
    "new": false,
    "rising": false
   },
@@ -534,8 +529,49 @@
    "rising": false
   },
   {
-   "key": "UQ:E453754-000",
+   "key": "UQ:E469956-000",
    "rank": 21,
+   "brand": "ユニクロ",
+   "name": "フリースジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 2990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/469956/item/jpgoods_76_469956_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E469956-000/00?colorDisplayCode=76",
+   "rating": 4.3,
+   "reviews": 1659,
+   "reviews7": 22,
+   "capped": false,
+   "prev7": 12,
+   "mentions7": 8,
+   "mention_titles": [
+    {
+     "t": "ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
+     "s": "ファッションプレス",
+     "u": "https://www.fashion-press.net/news/152847"
+    },
+    {
+     "t": "ユニクロ × セシリー バンセン26年秋冬新作 フリースジャケットやスカートを発売",
+     "s": "Fashionsnap.com",
+     "u": "https://www.fashionsnap.com/article/2026-11-04/uniqlo-cecilie-bahnsen-26aw"
+    },
+    {
+     "t": "ユニクロ × セシリー バンセン26年秋冬 フリースジャケットやスカートを発売（FASHIONSNAP）",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/33482fb70b9c31594a09e927d8270145bfad0305"
+    }
+   ],
+   "score": 63,
+   "momentum": 1.03,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E453754-000",
+   "rank": 22,
    "brand": "ユニクロ",
    "name": "ウォッシャブルミラノリブクルーネックセーター",
    "genders": [
@@ -557,30 +593,6 @@
    "momentum": 1.02,
    "new": false,
    "rising": true
-  },
-  {
-   "key": "UQ:E447780-000",
-   "rank": 22,
-   "brand": "ユニクロ",
-   "name": "感動パンツ",
-   "genders": [
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/447780/item/jpgoods_08_447780_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E447780-000/00?colorDisplayCode=08",
-   "rating": 4.5,
-   "reviews": 15433,
-   "reviews7": 58,
-   "capped": false,
-   "prev7": 59,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 59,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
   },
   {
    "key": "GU:E360451-000",

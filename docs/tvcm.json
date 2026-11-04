@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T07:45:25.631493+09:00",
+ "updated_at": "2026-11-04T12:54:02.182847+09:00",
  "criteria": [
   "ユニクロ公式YouTubeのCM動画と、公式のプレスリリース・ニュースの「新CM放映」の発表から集めています。",
   "公式発表やニュースでテレビCMと確かめられたもの、または公式のCM動画が10万回以上再生されているものを載せています。",
@@ -86,6 +86,23 @@
    "views": 13965375,
    "url": "https://www.youtube.com/watch?v=Yl_qY-RTR0U",
    "image": "https://i.ytimg.com/vi/Yl_qY-RTR0U/hqdefault.jpg",
+   "sources": []
+  },
+  {
+   "key": "ユニクロ:スウェット:気づけばいちばん着ている",
+   "brand": "ユニクロ",
+   "product": "スウェット",
+   "name": "気づけば、いちばん着ている",
+   "talents": [],
+   "song": "",
+   "start": "2026-09-17",
+   "until": "2026-11-12",
+   "until_reason": "推定",
+   "tv_confirmed": false,
+   "video_id": "V2--V7kysBo",
+   "views": 355789,
+   "url": "https://www.youtube.com/watch?v=V2--V7kysBo",
+   "image": "https://i.ytimg.com/vi/V2--V7kysBo/hqdefault.jpg",
    "sources": []
   },
   {
