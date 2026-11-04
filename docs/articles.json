@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T22:26:13.580665+09:00",
+ "updated_at": "2026-11-05T07:58:29.023755+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -37,6 +37,7 @@
   "BroadwayWorld",
   "Business Examiner",
   "CTV News",
+  "Cate Blanchett Fan",
   "China Daily",
   "Chosunbiz",
   "Citizens Journal",
@@ -85,12 +86,12 @@
   "Lmaga.jp",
   "L’Express Franchise",
   "MLB.com",
+  "Marie Claire",
   "MarkeZine",
   "Marketing-Interactive",
   "Men's Folio",
   "Mission Local",
   "Modaes",
-  "Mothership",
   "Mundo Deportivo",
   "NHKニュース",
   "Nation.Cymru",
@@ -107,6 +108,7 @@
   "RBB TODAY",
   "Ragtrader.com.au",
   "Record China",
+  "Red Carpet Fashion Awards",
   "Retail Gazette",
   "Retail Insider",
   "SEVENTIE TWO",
@@ -114,6 +116,7 @@
   "Secret Miami",
   "Seoul Economic Daily",
   "Simply Wall Street",
+  "Stylist",
   "TBS NEWS DIG",
   "THE FIRST TIMES",
   "The Business of Fashion",
@@ -151,13 +154,13 @@
   "ad-hoc-news.de",
   "adobo Magazine",
   "dhakamagazine.com",
-  "fashion headline",
   "fashionunited.jp",
   "https://mediadogs.jp/",
   "https://www.japancanadatoday.ca/",
   "khorasantimes.com",
   "marketech apac",
   "puck.news",
+  "stupidDOPE",
   "www.daily-sun.com",
   "| 繊研新聞",
   "ИФЗ РАН",
@@ -188,6 +191,7 @@
   "モデルプレス",
   "ラブすぽ",
   "レスポンス（Response.jp）",
+  "一般財団法人 日本気象協会",
   "下野新聞社",
   "北海道新聞デジタル",
   "千葉テレビ放送",
@@ -199,6 +203,7 @@
   "山陽新聞",
   "日テレNEWS NNN",
   "日本経済新聞",
+  "日経ビジネス電子版",
   "映画.com",
   "時事通信ニュース",
   "朝日新聞",
@@ -221,53 +226,117 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 242,
+ "detail_count": 240,
  "digest": {
-  "headline": "ユニクロとセシリー・バンセンのコラボ発表や国内外の新店舗オープンが話題",
+  "headline": "ユニクロのセシリーコラボや国内10月売上、国内外の店舗展開の動き",
   "points": [
    {
-    "text": "ユニクロはデザイナーのセシリー・バンセンとのコラボレーション第2弾となる2026年秋冬コレクションを11月20日に発売すると発表しました。",
+    "text": "ユニクロはデザイナーのセシリー・バンセンと再びタッグを組み、花柄や小花刺繍を取り入れた2026年秋冬コラボコレクションを11月20日に発売すると発表しました。",
     "ids": [
-     "34fbf5fb7a6af085",
-     "3f1fc4845f109fc8",
-     "f268bc4a136d9d3d"
+     "f44f3fb0d2b77171",
+     "18e6355ac8de03b8",
+     "34fbf5fb7a6af085"
     ]
    },
    {
-    "text": "京都の河原町に西日本初カフェ併設のグローバル旗艦店「ユニクロ京都」がオープンしたほか、上海への出店やマイアミ初店舗の開設など国内外で店舗展開が進められています。",
-    "ids": [
-     "379210be2e5ae8db",
-     "7aa0406a97c2cd32",
-     "ede04919d0c5315d"
-    ]
-   },
-   {
-    "text": "ユニクロは2027年秋にウェールズ初出店となる店舗をカーディフにオープンすると発表し、英国での店舗網拡大を進めています。",
-    "ids": [
-     "629f44d140d8dea7",
-     "b71bef54ae3ba8d7",
-     "76f5d631d91991a7"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングが発表した10月度の国内ユニクロ既存店売上高は、気温が高く推移し冬物商品が苦戦したことで前年同月比5.5％のマイナスとなりました。",
+    "text": "ユニクロの10月度の国内既存店売上高は、月後半の気温上昇に伴う冬物衣料の販売苦戦により、前年同月比5.5%の減少となりました。",
     "ids": [
      "40a176a928c9de9a",
+     "4670d34e9c6b3aed",
      "959d731100fee9cb"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ セシリー・バンセン シアーロンT」が話題となり、Xで3日に4件投稿されました。",
+    "text": "京都・河原町に西日本初のカフェ併設のグローバル旗艦店「ユニクロ京都」がオープンしたほか、上海への旗艦店出店やウェールズ初出店などが発表されました。",
+    "ids": [
+     "379210be2e5ae8db",
+     "7aa0406a97c2cd32",
+     "629f44d140d8dea7"
+    ]
+   },
+   {
+    "text": "ファーストリテイリングが世界規模での事業拡大の中で店舗網を縮小する一方、ユニクロ韓国法人が店舗集約により二桁の増収増益を達成しました。",
+    "ids": [
+     "dc85d81d4ff0f609",
+     "feb55848e3f045d0"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ セシリー・バンセン シアーロンT」が話題となり、Xで3日に5件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-01T22:36:16.770141+09:00",
-  "generated_at": "2026-11-04T22:36:19.714543+09:00",
+  "from": "2026-11-02T08:05:37.428412+09:00",
+  "generated_at": "2026-11-05T08:05:39.466940+09:00",
   "article_count": 24,
-  "sig": "624828480c0b"
+  "sig": "4ea0e71f519b"
  },
  "items": [
+  {
+   "id": "a0e764c7e05c3f92",
+   "url": "https://business.nikkei.com/atcl/gen/19/00087/110200572",
+   "title_original": "無印良品の「タイムマシン経営」 ファストリ出身役員が増える理由",
+   "source": "日経ビジネス電子版",
+   "image": "https://business.nikkei.com/atcl/gen/19/00087/110200572/fb.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T20:00:00+00:00",
+   "title_ja": "無印良品でファーストリテイリング出身役員が増加　「タイムマシン経営」の背景",
+   "summary_ja": "日経ビジネスが、良品計画（無印良品）においてファーストリテイリング出身の役員が増加している背景を分析しています。ファストリで培われた経営手法や店舗運営ノウハウが、無印良品の事業展開にどのような影響を与えているかを考察しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f44f3fb0d2b77171",
+   "url": "https://www.marieclaire.com/fashion/winter-fashion/uniqlo-cecilie-bahnsen-winter-2026-collaboration",
+   "title_original": "Uniqlo x Cecilie Bahnsen Is Back With a \"Nordic Winter\" Take on Scandi Girl Style",
+   "source": "Marie Claire",
+   "image": "https://cdn.mos.cms.futurecdn.net/PtPSeKtcP3BWcb7uCJmtDn-1920-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T18:23:01+00:00",
+   "title_ja": "ユニクロとセシリー・バンセンのコラボが再登場　北欧の冬スタイルを展開",
+   "summary_ja": "ファッション誌Marie Claireが、ユニクロとデザイナーのセシリー・バンセンによるコラボレーションの再登場を報じています。「ノーディック・ウィンター」をテーマに、スカンジナビアスタイルの要素を取り入れたコレクションが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "18e6355ac8de03b8",
+   "url": "https://stupiddope.com/2026/11/uniqlo-x-cecilie-bahnsen-fw26-gives-everyday-fleece-a-floral-identity",
+   "title_original": "Uniqlo x Cecilie Bahnsen FW26 Gives Everyday Fleece a Floral Identity",
+   "source": "stupidDOPE",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T14:37:04+00:00",
+   "title_ja": "ユニクロ×セシリー バンセンの2026秋冬、フリースに花柄を取り入れた新作が登場",
+   "summary_ja": "ユニクロとセシリー バンセンによる2026年秋冬コラボレーションにおいて、定番のフリースアイテムに花柄の要素を取り入れたコレクションが展開されることが分かりました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "7c6008e08243f672",
+   "url": "https://www.cate-blanchett.com/2026/11/04/cate-blanchett-at-tokyo-international-film-festival-and-uniqlo-stories-she-tells-launch",
+   "title_original": "Cate Blanchett at Tokyo International Film Festival, and Uniqlo ‘Stories She Tells’ Launch",
+   "source": "Cate Blanchett Fan",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T13:35:39+00:00",
+   "title_ja": "ケイト・ブランシェットが東京国際映画祭に登場、ユニクロのプロジェクトも始動",
+   "summary_ja": "ケイト・ブランシェットが東京国際映画祭に出席したことにあわせ、ユニクロの「Stories She Tells」プロジェクトの立ち上げが発表されました。映画祭での登壇とともに注目を集めています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "137229e73c6180c9",
    "url": "https://prtimes.jp/main/html/rd/p/000000063.000137064.html",
@@ -283,6 +352,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "70f70a1947db1281",
+   "url": "https://www.stylist.co.uk/fashion/uniqlo-cecilie-bahnsen-collab/1076930",
+   "title_original": "Uniqlo’s new Cecilie Bahnsen collaboration is giving our winter wardrobes a pretty upgrade",
+   "source": "Stylist",
+   "image": "https://media.stylist.co.uk/app/uploads/2026/04/uniqlo-cbpj_kv04_2098-1920x1080.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T11:00:11+00:00",
+   "title_ja": "ユニクロがセシリー・バンセンとの新作コラボを発表！冬のワードローブを彩る",
+   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンとの新たなコラボレーションコレクションを発表しました。華やかで洗練されたデザインが特徴で、冬のコーディネートを格上げする注目のラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "34fbf5fb7a6af085",
@@ -314,7 +399,7 @@
    "category": "店舗・出店",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3f1fc4845f109fc8",
@@ -361,6 +446,22 @@
    "summary_ja": "ファーストリテイリングは、10月度における国内ユニクロの売上推移速報を公表した。月次の売上動向を示すデータとして、前年同月と比較した売上推移などの実績が提示されている。",
    "category": "業績・経営",
    "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "4670d34e9c6b3aed",
+   "url": "https://www.nikkei.com/article/DGXZQOUC0465S0U6A101C2000000",
+   "title_original": "ユニクロ、10月国内売上高5.5%減 冬物衣料が苦戦",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3827155004112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.4&fp-y=0.55&h=630&w=1200&s=7297be08fb12c2a14b42e933e91b1a32",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T07:46:46+00:00",
+   "title_ja": "ユニクロの10月国内売上高5.5%減、冬物衣料の販売が苦戦",
+   "summary_ja": "国内のユニクロにおける10月の売上高は、前年同月比で5.5%の減少となりました。月後半に気温が高い日が続いたことが影響し、冬物衣料の販売が苦戦しました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 1
   },
@@ -413,6 +514,22 @@
    "has_detail": true
   },
   {
+   "id": "f3f9af7f506682e9",
+   "url": "https://news.yahoo.co.jp/articles/eebea65678334a10bd112bab6b1fae337d151a1c",
+   "title_original": "ユニクロ、10月国内既存店売上高5.5％減 後半に冬物伸び悩み（ロイター）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000099-reut-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T06:50:03+00:00",
+   "title_ja": "ユニクロ10月既存店売上高が5.5％減少、月後半の冬物伸び悩みで",
+   "summary_ja": "ユニクロの10月における国内既存店売上高は前年同月比5.5％減となったことが分かりました。月後半の気温上昇に伴い、主力である冬物商品の売上が伸び悩んだことが主な原因と報じられています。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "8614a3e068978454",
    "url": "https://newswav.com/article/two-new-uniqlo-stores-are-coming-to-kl-with-exclusive-opening-rewards-up-fo-A2611_CPI8Yd",
    "title_original": "Two New UNIQLO Stores Are Coming To KL, With Exclusive Opening Rewards Up For Grabs",
@@ -433,7 +550,7 @@
    "url": "https://www.brandinginasia.com/uniqlo-and-cecilie-bahnsen-unveil-new-collection-based-on-wandering-together",
    "title_original": "UNIQLO and Cecilie Bahnsen Unveil New Collection Based on ‘Wandering Together’",
    "source": "Branding in Asia",
-   "image": "",
+   "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/UNIQLO-and-Cecilie-Bahnsen-FallWinter-Collection-2.webp",
    "lang": "en",
    "region": "global",
    "published": "2026-11-04T05:53:29+00:00",
@@ -442,7 +559,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "959d731100fee9cb",
@@ -458,7 +575,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4d1284991a8dc199",
@@ -474,7 +591,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "feff7b9790f52e14",
@@ -554,7 +671,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "857d11f44d94dcb5",
@@ -570,6 +687,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "37d7e1c126d83fa7",
+   "url": "https://www.jwa.or.jp/news/2026/11/49610",
+   "title_original": "日本気象協会、「気温×服装」の知見を活用し、ユニクロのリーフレット制作を支援 ～気象情報を生活者の行動につなげるマーケティング支援の取り組み～ | ニュース",
+   "source": "一般財団法人 日本気象協会",
+   "image": "https://www.jwa.or.jp/wp-content/uploads/2025/12/ogp_jp.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T02:02:36+00:00",
+   "title_ja": "日本気象協会がユニクロのリーフレット制作支援、「気温と服装」の知見活用",
+   "summary_ja": "日本気象協会は、保有する「気温と服装」に関する知見を生かし、ユニクロのリーフレット制作を支援したと発表しました。気象データを活用して生活者の購買・着用行動へつなげるマーケティング支援の取り組みです。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -955,6 +1088,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "15f9100fc238c161",
+   "url": "https://www.redcarpet-fashionawards.com/2026/11/02/cate-blanchetts-uniqlo-suit-recalls-clare-waight-kellers-givenchy-era",
+   "title_original": "Cate Blanchett in Uniqlo at the 2026 Praemium Imperiale Awards",
+   "source": "Red Carpet Fashion Awards",
+   "image": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/11/cate-blanchett-uniqlo-black-suit-tokyo-portrait.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-02T13:56:48+00:00",
+   "title_ja": "ケイト・ブランシェットが世界文化賞でユニクロを着用",
+   "summary_ja": "高松宮殿下記念世界文化賞の授賞式にて、俳優のケイト・ブランシェットがユニクロの服を着用して登場したことを伝えている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "e5a0c042f5be6ec6",
@@ -6522,150 +6671,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "45f7a3b829a52406",
-   "url": "https://media.unisba.ac.id/873f1c5b/77a20d8dAqw1m31t1Ag/?share=facebook&nb=1",
-   "title_original": "熊本県内最大の売り場面積「ユニクロ」ゆめタウン光の森店リニューアル 八代市では仮設店舗も Lluvia (uwVTKs6aK8)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T04:17:07+00:00",
-   "title_ja": "熊本の「ユニクロ ゆめタウン光の森店」が県内最大規模でリニューアル",
-   "summary_ja": "熊本県内最大級の売り場面積を誇るユニクロゆめタウン光の森店が、リニューアルオープンを迎えました。あわせて八代市では仮設店舗の営業が行われるなど、地域における店舗展開が進められています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "496cfece43bed3a4",
-   "url": "https://news.yahoo.co.jp/articles/799764f38b449055d5a2b69f0fd6d5c55a2c98e6",
-   "title_original": "ユニクロ、プラダやマルニで経験積んだデザイナーの“ニット”新コレクション 10・30発売（オリコン）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000430-oric-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T04:11:44+00:00",
-   "title_ja": "ユニクロが名門出身デザイナーによる新ニットを10月30日発売",
-   "summary_ja": "ユニクロは、ハイブランドで経験を積んだデザイナーによる新たなニットコレクションを10月30日に発売します。上質な素材とデザイン性を兼ね備えた注目ラインナップとなります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "144f3450275f1716",
-   "url": "https://www.fashion-headline.com/en/article/488120",
-   "title_original": "Francesco Risso Brings the Warmth of Handcraft and Playful Design to UNIQLO F.RISSO’s Second Collection",
-   "source": "fashion headline",
-   "image": "https://www.fashion-headline.com/images/upload/2026/10/f9eca93d830b835b7964b07edb6c51ed.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-20T04:01:38+00:00",
-   "title_ja": "フランチェスコ・リッソによるユニクロの第2弾コレクション",
-   "summary_ja": "手仕事の温もりと遊び心あふれるデザインを取り入れた、フランチェスコ・リッソ手掛けるユニクロの第2弾コレクションが発表されました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "6c036b154bea46a5",
-   "url": "https://mothership.sg/2026/10/uniqlo-store-manager-shoplifters",
-   "title_original": "Waterway Point Uniqlo store manager memorises 2 suspected shoplifters' faces, catches them when they came back",
-   "source": "Mothership",
-   "image": "https://static.mothership.sg/1/2026/10/uniqlo-waterway-point.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-20T03:54:10+00:00",
-   "title_ja": "店舗マネージャーが万引き犯の顔を記憶し再来店時に確保",
-   "summary_ja": "Waterway Pointのユニクロ店舗にて、店長が不審な万引き犯2人の顔を記憶し、再び来店した際に取り押さえる事案が発生しました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "dc4f74066951051b",
-   "url": "https://www.fashionsnap.com/article/2026-10-20/uniqlo-f-risso-26-knit",
-   "title_original": "ユニクロ × フランチェスコ・リッソ新作、ニットウェアのコレクション発売",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/4d0981c7-595f-498b-b2d6-087eff8bd66b.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T03:30:11+00:00",
-   "title_ja": "ユニクロ、フランチェスコ・リッソとの新作ニット発売",
-   "summary_ja": "ユニクロは、フランチェスコ・リッソ氏手掛ける新作ニットウェアコレクションを発売します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "67354cc44045a943",
-   "url": "https://www.nishinippon.co.jp/image/1093994",
-   "title_original": "ユニクロの看板 - ユニクロ4％値上げへ 靴下まとめ買いも終了 - 写真・画像(1/1)",
-   "source": "西日本新聞me",
-   "image": "https://www.nishinippon.co.jp/uploads/image/1950722/sns_PN2026101901001742.-.-.CI0003.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T02:54:50+00:00",
-   "title_ja": "ユニクロ、全商品4％値上げへ 靴下まとめ買いも終了",
-   "summary_ja": "ユニクロは来月から全商品を平均4％値上げし、これまで実施していた靴下のまとめ買いサービスを終了することを発表した。価格改定は全国の店舗で適用され、消費者は事前に価格を確認する必要がある。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "fccfe694ec921e06",
-   "url": "https://www.fashion-press.net/news/152221",
-   "title_original": "ユニクロ×元マルニのフランチェスコ・リッソ第2弾“ヴィンテージ着想”ニット、ツートーンカラーで",
-   "source": "ファッションプレス",
-   "image": "https://www.fashion-press.net/img/news/152221/top.jpg?1792464001",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T02:45:00+00:00",
-   "title_ja": "ユニクロと元マルニのフランチェスコ・リッソ第2弾",
-   "summary_ja": "ユニクロと元マルニのフランチェスコ・リッソによるコラボレーション第2弾が発表されました。ヴィンテージから着想を得たツートーンカラーのニットなどが展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "f8817464237f8769",
-   "url": "https://www.nikkei.com/article/DGXZRSP714068_Q6A021C2000000",
-   "title_original": "ユニクロ、「UNIQLO F.RISSO」Knitwear Capsule Collection 2026を発売",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3751721020102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=2801896c266ff9a8be8ea88dddb97ee0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T02:43:33+00:00",
-   "title_ja": "ユニクロ、「UNIQLO F.RISSO」2026年ニットウェアカプセルコレクション発売",
-   "summary_ja": "ユニクロは、新たに「UNIQLO F.RISSO」Knitwear Capsule Collection 2026の発売を開始しました。秋冬の季節に向けて、こだわりの詰まった特別なニットウェアコレクションを展開します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "fb7028c482288431",
-   "url": "https://news.yahoo.co.jp/articles/d670e9b6201f454cfe4cb5dc62e2c087eeec78fb",
-   "title_original": "ユニクロ、11月10日から値上げへ 「感動ジャケット」など対象の全11商品まとめ 「ソックスまとめ買い」も終了",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-01235973-fnn-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T02:04:20+00:00",
-   "title_ja": "ユニクロが11月10日より値上げを実施、「感動ジャケット」など11商品が対象に",
-   "summary_ja": "ユニクロは11月10日から価格改定を行い、「感動ジャケット」をはじめとする全11商品を値上げする。これに合わせて、これまで実施されていたソックスのまとめ買い割引施策も終了することが明らかになった。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
