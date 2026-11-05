@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T08:01:47.669681+09:00",
+ "updated_at": "2026-11-05T13:08:07.882979+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,8 +19,8 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2874,
- "count": 55,
+ "catalog_size": 2880,
+ "count": 56,
  "items": [
   {
    "key": "GU:E361035-000",
@@ -144,8 +144,49 @@
    "rising": true
   },
   {
-   "key": "UQ:E482766-000",
+   "key": "UQ:E469956-000",
    "rank": 6,
+   "brand": "ユニクロ",
+   "name": "フリースジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 2990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/469956/item/jpgoods_76_469956_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E469956-000/00?colorDisplayCode=76",
+   "rating": 4.3,
+   "reviews": 1662,
+   "reviews7": 21,
+   "capped": false,
+   "prev7": 14,
+   "mentions7": 18,
+   "mention_titles": [
+    {
+     "t": "【ユニクロ】と【セシリー バンセン】のコラボレーションが再び！ フラワー刺しゅうがポイントの、フリースジャケットやスカートなどがラインナップ〈全アイテム掲載〉",
+     "s": "SPUR（シュプール）",
+     "u": "https://spur.hpplus.jp/fashion/news/2026-11-07-FHnp3g"
+    },
+    {
+     "t": "写真8/73｜ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
+     "s": "ファッションプレス",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sVDhmdnRqcjExbEItS1lid0lTY2k4T2kyN05fdW1lRUJya1RhSnJ6T0J3RF9iY2x2WnJqNUF1cDFVdjYzUU9PbEdYYUhqTmo5djRFdVdyZDV6VWdmN2pZLXlmM0xRbm1I?oc=5"
+    },
+    {
+     "t": "写真63/73｜ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
+     "s": "ファッションプレス",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KeDlaVk9JbWhxU2RubzA2LVZ1Vzc1U1g5YjRkNEpVbWN5aHZGWU02NVpsc3Z2Z1M0ZUptRXI2UlRrbmYyb2FoUlFkdlM5NkZfVHkySlBPT1JqRWFBYnhiV2pSNkNBVWlp?oc=5"
+    }
+   ],
+   "score": 112,
+   "momentum": 1.03,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E482766-000",
+   "rank": 7,
    "brand": "ユニクロ",
    "name": "ワッフルヘンリーネックTシャツ",
    "genders": [
@@ -165,47 +206,6 @@
    "mention_titles": [],
    "score": 108,
    "momentum": 1.11,
-   "new": false,
-   "rising": false
-  },
-  {
-   "key": "UQ:E469956-000",
-   "rank": 7,
-   "brand": "ユニクロ",
-   "name": "フリースジャケット",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 2990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/469956/item/jpgoods_76_469956_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E469956-000/00?colorDisplayCode=76",
-   "rating": 4.3,
-   "reviews": 1662,
-   "reviews7": 21,
-   "capped": false,
-   "prev7": 14,
-   "mentions7": 16,
-   "mention_titles": [
-    {
-     "t": "写真8/73｜ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
-     "s": "ファッションプレス",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sVDhmdnRqcjExbEItS1lid0lTY2k4T2kyN05fdW1lRUJya1RhSnJ6T0J3RF9iY2x2WnJqNUF1cDFVdjYzUU9PbEdYYUhqTmo5djRFdVdyZDV6VWdmN2pZLXlmM0xRbm1I?oc=5"
-    },
-    {
-     "t": "写真63/73｜ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
-     "s": "ファッションプレス",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KeDlaVk9JbWhxU2RubzA2LVZ1Vzc1U1g5YjRkNEpVbWN5aHZGWU02NVpsc3Z2Z1M0ZUptRXI2UlRrbmYyb2FoUlFkdlM5NkZfVHkySlBPT1JqRWFBYnhiV2pSNkNBVWlp?oc=5"
-    },
-    {
-     "t": "写真9/73｜ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
-     "s": "ファッションプレス",
-     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFeWVkVWR1Nzd6U1g0ekpXOU0yanVGR0gzQ0FvSUxjOGExZVBiNWt3TnpTRVJGZm5LRk40S2pxVzZ2dzhGQ2l3U3VndGMyM2sxQ2M3aDIyanlGemRjVUNiLTFlRDNpTl81?oc=5"
-    }
-   ],
-   "score": 102,
-   "momentum": 1.03,
    "new": false,
    "rising": false
   },
@@ -244,8 +244,8 @@
    ],
    "price": 3990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_34_475053_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475053-000/00?colorDisplayCode=34",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_42_475053_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475053-000/00?colorDisplayCode=42",
    "rating": 4.5,
    "reviews": 3354,
    "reviews7": 79,
@@ -1009,8 +1009,33 @@
    "rising": false
   },
   {
-   "key": "GU:E360457-000",
+   "key": "GU:E360719-000",
    "rank": 40,
+   "brand": "GU",
+   "name": "ユーティリティシャツジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 990,
+   "promo": 990,
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360719/item/jpgoods_36_360719_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360719-000/00?colorDisplayCode=36",
+   "rating": 4.2,
+   "reviews": 49,
+   "reviews7": 14,
+   "capped": false,
+   "prev7": 13,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 22,
+   "momentum": 1.57,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E360457-000",
+   "rank": 41,
    "brand": "GU",
    "name": "トラックジャケット(オーバーサイズフィット)",
    "genders": [
@@ -1035,7 +1060,7 @@
   },
   {
    "key": "GU:E360524-000",
-   "rank": 41,
+   "rank": 42,
    "brand": "GU",
    "name": "コーデュロイスーパーワイドパンツ",
    "genders": [
@@ -1060,7 +1085,7 @@
   },
   {
    "key": "GU:E361311-000",
-   "rank": 42,
+   "rank": 43,
    "brand": "GU",
    "name": "フルジップニットジャケット Pokémon",
    "genders": [
@@ -1085,7 +1110,7 @@
   },
   {
    "key": "GU:E361185-000",
-   "rank": 43,
+   "rank": 44,
    "brand": "GU",
    "name": "2WAYトートバッグ ENGINEERED GARMENTS",
    "genders": [
@@ -1110,7 +1135,7 @@
   },
   {
    "key": "GU:E360522-000",
-   "rank": 44,
+   "rank": 45,
    "brand": "GU",
    "name": "ヘビーウェイトスウェットジョガーパンツ",
    "genders": [
@@ -1135,7 +1160,7 @@
   },
   {
    "key": "UQ:E474860-000",
-   "rank": 45,
+   "rank": 46,
    "brand": "ユニクロ",
    "name": "エアリズムウルトラストレッチセット",
    "genders": [
@@ -1159,7 +1184,7 @@
   },
   {
    "key": "UQ:E487337-000",
-   "rank": 46,
+   "rank": 47,
    "brand": "ユニクロ",
    "name": "ピーナッツ ドライスウェットシャツ",
    "genders": [
@@ -1183,7 +1208,7 @@
   },
   {
    "key": "UQ:E488643-000",
-   "rank": 47,
+   "rank": 48,
    "brand": "ユニクロ",
    "name": "絵本コレクション パジャマ/はらぺこあおむし",
    "genders": [
@@ -1207,7 +1232,7 @@
   },
   {
    "key": "GU:E361435-000",
-   "rank": 48,
+   "rank": 49,
    "brand": "GU",
    "name": "KIDSウルトラストレッチスキニージーンズ",
    "genders": [
@@ -1231,7 +1256,7 @@
   },
   {
    "key": "UQ:E486660-000",
-   "rank": 49,
+   "rank": 50,
    "brand": "ユニクロ",
    "name": "フリースフルジップジャケット",
    "genders": [
@@ -1255,7 +1280,7 @@
   },
   {
    "key": "UQ:E486631-000",
-   "rank": 50,
+   "rank": 51,
    "brand": "ユニクロ",
    "name": "バレルレッグジーンズ",
    "genders": [
@@ -1285,7 +1310,7 @@
   },
   {
    "key": "UQ:E486624-000",
-   "rank": 51,
+   "rank": 52,
    "brand": "ユニクロ",
    "name": "ダウンパーカ",
    "genders": [
@@ -1320,7 +1345,7 @@
   },
   {
    "key": "GU:E361665-002",
-   "rank": 52,
+   "rank": 53,
    "brand": "GU",
    "name": "KIDSコットンスウェットラウンジセット TOM and JERRY",
    "genders": [
@@ -1344,7 +1369,7 @@
   },
   {
    "key": "GU:E361672-000",
-   "rank": 53,
+   "rank": 54,
    "brand": "GU",
    "name": "TEENフェイクレザーブルゾンJR",
    "genders": [
@@ -1368,7 +1393,7 @@
   },
   {
    "key": "GU:E360490-000",
-   "rank": 54,
+   "rank": 55,
    "brand": "GU",
    "name": "GIRLSヌクヌクニットコールフレアパンツ",
    "genders": [
@@ -1392,7 +1417,7 @@
   },
   {
    "key": "GU:E361143-000",
-   "rank": 55,
+   "rank": 56,
    "brand": "GU",
    "name": "TEENヘビーウェイトスウェット3DバレルパンツJR",
    "genders": [

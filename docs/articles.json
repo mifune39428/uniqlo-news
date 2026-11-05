@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T07:58:29.023755+09:00",
+ "updated_at": "2026-11-05T13:04:27.636449+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -71,7 +71,6 @@
   "Indian Television Dot Com",
   "Inside Retail Asia",
   "Insider Media Ltd",
-  "Investing.com 日本",
   "It's On Cardiff",
   "JBpress",
   "KAB 熊本朝日放送",
@@ -105,7 +104,6 @@
   "Pokde.Net",
   "Popbee",
   "QAB 琉球朝日放送",
-  "RBB TODAY",
   "Ragtrader.com.au",
   "Record China",
   "Red Carpet Fashion Awards",
@@ -133,6 +131,7 @@
   "Traders Union",
   "Trend Hunter",
   "UOMO",
+  "UP TO DATE",
   "UQライフ",
   "Unisba Media",
   "VICTORY [ビクトリー]",
@@ -226,53 +225,134 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 241,
  "digest": {
-  "headline": "ユニクロのセシリーコラボや国内10月売上、国内外の店舗展開の動き",
+  "headline": "ユニクロの10月売上減やセシリー・バンセンコラボ発表の動き",
   "points": [
    {
-    "text": "ユニクロはデザイナーのセシリー・バンセンと再びタッグを組み、花柄や小花刺繍を取り入れた2026年秋冬コラボコレクションを11月20日に発売すると発表しました。",
+    "text": "ユニクロの10月国内既存店売上高は前年同月比5.5%減となりました。月後半に気温が高い日が続いたことが影響し、冬物衣料の販売が苦戦しました。",
     "ids": [
-     "f44f3fb0d2b77171",
-     "18e6355ac8de03b8",
-     "34fbf5fb7a6af085"
-    ]
-   },
-   {
-    "text": "ユニクロの10月度の国内既存店売上高は、月後半の気温上昇に伴う冬物衣料の販売苦戦により、前年同月比5.5%の減少となりました。",
-    "ids": [
-     "40a176a928c9de9a",
      "4670d34e9c6b3aed",
+     "f3f9af7f506682e9",
      "959d731100fee9cb"
     ]
    },
    {
-    "text": "京都・河原町に西日本初のカフェ併設のグローバル旗艦店「ユニクロ京都」がオープンしたほか、上海への旗艦店出店やウェールズ初出店などが発表されました。",
+    "text": "ユニクロとデザイナーのセシリー・バンセンによる2026年秋冬コラボレーションコレクションの発売が決定し、11月20日から展開されます。",
     "ids": [
-     "379210be2e5ae8db",
-     "7aa0406a97c2cd32",
-     "629f44d140d8dea7"
+     "34fbf5fb7a6af085",
+     "f1a7034ed47d4a95",
+     "a6ab33211ebb6801"
     ]
    },
    {
-    "text": "ファーストリテイリングが世界規模での事業拡大の中で店舗網を縮小する一方、ユニクロ韓国法人が店舗集約により二桁の増収増益を達成しました。",
+    "text": "京都・河原町に西日本初となるカフェ併設のグローバル旗艦店「ユニクロ京都」がオープンしたほか、国内外で新規店舗の出店や店舗網の縮小が進められています。",
     "ids": [
      "dc85d81d4ff0f609",
-     "feb55848e3f045d0"
+     "7aa0406a97c2cd32",
+     "35e22c14093acf2a"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ セシリー・バンセン シアーロンT」が話題となり、Xで3日に5件投稿されました。",
+    "text": "韓国をはじめとするアジア市場では二桁成長を記録し、2027年も堅調な見通しが示されるなど、海外展開の強化が進められています。",
+    "ids": [
+     "949bf7c2f2431a18",
+     "8712ebacddd5c0fe",
+     "379210be2e5ae8db"
+    ]
+   },
+   {
+    "text": "SNSではユニクロ セシリー・バンセン フリースジャケットがXで11件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-02T08:05:37.428412+09:00",
-  "generated_at": "2026-11-05T08:05:39.466940+09:00",
+  "from": "2026-11-02T13:11:05.476953+09:00",
+  "generated_at": "2026-11-05T13:11:24.073851+09:00",
   "article_count": 24,
-  "sig": "4ea0e71f519b"
+  "sig": "6f7311b65062"
  },
  "items": [
+  {
+   "id": "11e13d9bb10638dd",
+   "url": "https://www.nikkei.com/article/DGXZQOFL051710V01C26A1000000",
+   "title_original": "ファーストリテイリング株価が4カ月ぶり高値 半導体株から資金シフト",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3831611005112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=80bab089f329ab1bfce043f3b4f345ae",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T03:58:54+00:00",
+   "title_ja": "ファーストリテイリングの株価が4ヶ月ぶりの高値を記録",
+   "summary_ja": "ファーストリテイリングの株価が約4ヶ月ぶりの高値を記録しました。株式市場において、これまで買われていた半導体関連銘柄から同社をはじめとする銘柄へ資金が移動したことが背景にあると分析されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "949bf7c2f2431a18",
+   "url": "https://www.mk.co.kr/jp/business/12198064",
+   "title_original": "韓などアジアで二桁の成長 2027年も成長の見通し機能性·品質を前面に押し出し、 SNSの人気商品まで",
+   "source": "매일경제",
+   "image": "https://pimg.mk.co.kr/news/cms/202611/05/rcv.NEWSIS.NEWSIS.20260522.NISI20260522_0021293382_R.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T00:58:55+00:00",
+   "title_ja": "韓国などアジア市場で二桁成長、2027年も堅調な見通し",
+   "summary_ja": "韓国をはじめとするアジア市場で二桁成長を記録し、2027年も成長が見込まれている。機能性と品質を重視した商品展開やSNSで人気のアイテムが好調を支えている。（2026年11月5日）",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "8712ebacddd5c0fe",
+   "url": "https://www.mk.co.kr/en/business/12198064",
+   "title_original": "Uniqlo is re-establishing its position in the domestic SPA market by rebounding from the Korean mark..",
+   "source": "매일경제",
+   "image": "https://pimg.mk.co.kr/news/cms/202611/05/rcv.NEWSIS.NEWSIS.20260522.NISI20260522_0021293382_R.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T00:58:55+00:00",
+   "title_ja": "ユニクロが韓国SPA市場で反発し地位を再確立",
+   "summary_ja": "韓国のSPA市場においてユニクロが業績を回復させ、市場での地位を再び確固たるものにしている。（2026年11月5日）",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bf4bec48d28773ff",
+   "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g7qrf4&t=https%3A%2F%2Fwww.nikkei.com%2Fnkd%2Fdisclosure%2Ftdnr%2F20261104564720%2F",
+   "title_original": "ファーストリテイリング[9983]：Notice of 2026 General Meeting of Shareholders 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261104564720/thumbnail/?ttype=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T23:00:00+00:00",
+   "title_ja": "ファーストリテイリングが2026年定時株主総会の招集通知を開示",
+   "summary_ja": "ファーストリテイリングは2026年11月5日付で、2026年定時株主総会の招集通知に関する適時開示を行いました。株主に対して総会の開催概要や議案内容をお知らせしています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "456efff8db49c171",
+   "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261104564742",
+   "title_original": "ファーストリテイリング[9983]：Other items provided electronically for the 2026 General Meeting of Shareholders (Items Omitted from the hard copy submission) 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261104564742/thumbnail/?ttype=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T23:00:00+00:00",
+   "title_ja": "ファーストリテイリング、株主総会関連資料を電子提供",
+   "summary_ja": "ファーストリテイリングは2026年株主総会に向け、電子提供制度に基づく関連資料を開示した。書面交付省略事項を含む詳細情報を株主に提供する。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "a0e764c7e05c3f92",
    "url": "https://business.nikkei.com/atcl/gen/19/00087/110200572",
@@ -303,7 +383,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "c2f84f168ccc7241",
+   "url": "https://hypebae.com/2026/11/cecilie-bahnsen-uniqlo-fw26-fleece-kids-collection-lifewear-release-date-where-to-buy",
+   "title_original": "Cecilie Bahnsen and UNIQLO Reunite for Fall/Winter 2026",
+   "source": "Hypebae",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F11%2F04%2Fcecilie-bahnsen-uniqlo-fw26-fleece-kids-collection-lifewear-release-date-where-to-buy-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T18:00:34+00:00",
+   "title_ja": "ユニクロとセシリー・バンセンが秋冬コレクションで再タッグ",
+   "summary_ja": "ユニクロとセシリー・バンセンが再びタッグを組み、2026年秋冬コレクションを展開することを発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "18e6355ac8de03b8",
@@ -319,7 +415,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "7c6008e08243f672",
@@ -335,7 +431,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "137229e73c6180c9",
@@ -367,7 +463,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "34fbf5fb7a6af085",
@@ -402,22 +498,6 @@
    "detail_tries": 2
   },
   {
-   "id": "3f1fc4845f109fc8",
-   "url": "https://hypebeast.com/2026/11/cecilie-bahnsen-uniqlo-fall-winter-2026-collaboration-capsule-collection-lookbook-release-info-dvxx",
-   "title_original": "Cecilie Bahnsen Reconnects With Uniqlo for a FW26 Capsule Collection",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2Ftwcecilie-bahnsen-uniqlo-fall-winter-2026-collaboration-capsule-collection-lookbook-release-info-dvxx.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-04T09:32:15+00:00",
-   "title_ja": "ユニクロがセシリー・バンセンと再びコラボ、26年秋冬コレクション発表",
-   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンと再びタッグを組み、2026年秋冬のカプセルコレクションを展開することが明らかになりました。注目のコラボレーションとして新たなデザインアイテムが登場します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
    "id": "f268bc4a136d9d3d",
    "url": "https://www.vogue.co.jp/article/2026-11-04-uniqlo-cecilie-bahnsen",
    "title_original": "【全アイテム公開】ユニクロ×セシリーバンセンのコラボコレクションが11月20日（金）発売！",
@@ -450,6 +530,22 @@
    "detail_tries": 2
   },
   {
+   "id": "f1a7034ed47d4a95",
+   "url": "https://uptodate.tokyo/uniqlo-x-cecilie-bahnsen-2026fw",
+   "title_original": "UNIQLO x Cecilie Bahnsen 2026年秋冬コラボコレクションが国内11月20日より発売",
+   "source": "UP TO DATE",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/11/IMG_2436_8E62774C-1024x1024.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T07:54:13+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コラボが11月20日より発売決定",
+   "summary_ja": "ユニクロとセシリー・バンセンによる2026年秋冬コラボレーションコレクションが、日本国内で11月20日から発売されることが決定した。注目の最新アイテムが店頭およびオンラインで展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "4670d34e9c6b3aed",
    "url": "https://www.nikkei.com/article/DGXZQOUC0465S0U6A101C2000000",
    "title_original": "ユニクロ、10月国内売上高5.5%減 冬物衣料が苦戦",
@@ -463,7 +559,23 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "2de1792ecc9c83b1",
+   "url": "https://news.yahoo.co.jp/articles/8dbdf83a4e79d73049f1ed1c8b35ee40e327b47d",
+   "title_original": "「ユニクロ」が「セシリー バンセン」とコラボした秋冬コレクションを発売 北欧の冬をイメージしたカラーのフリースやスカート",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-02542389-wwdjapan-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T07:45:00+00:00",
+   "title_ja": "ユニクロがセシリー バンセンとの秋冬コラボを発表　フリースやスカートを展開",
+   "summary_ja": "ユニクロがブランド「セシリー バンセン」とのコラボによる秋冬コレクションの発売を発表した。北欧の冬をイメージしたカラーリングが特徴で、フリースやスカートといったアイテムを取り揃える。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "9b4e6963bb7938f4",
@@ -527,7 +639,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8614a3e068978454",
@@ -575,22 +687,6 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "4d1284991a8dc199",
-   "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-schedules-2026-shareholder-meeting-for-november",
-   "title_original": "Fast Retailing Schedules 2026 Shareholder Meeting for November",
-   "source": "TipRanks",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-04T05:11:51+00:00",
-   "title_ja": "ファーストリテイリング、2026年の定時株主総会を11月に開催へ",
-   "summary_ja": "ファーストリテイリングが、2026年11月に株主総会を開催する日程を公開しました。同社のIRスケジュールの一環として、株主向けに年次総会の開催予定が案内されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
    "detail_tries": 2
   },
   {
@@ -703,6 +799,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a6ab33211ebb6801",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/84799",
+   "title_original": "【UNIQLO and Cecilie Bahnsen（ユニクロ アンド セシリー バンセン）】2026秋冬コレクション登場！ やわらかなフリースやウィンターアクセサリー",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/b4/b49cfa4d-221a-42a2-95e2-58f8a44f3282-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T00:00:00+00:00",
+   "title_ja": "ユニクロが「セシリー バンセン」との2026年秋冬コラボコレクションを発表",
+   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンとコラボレーションした2026年秋冬コレクションを発表。柔らかいフリース素材のウェアや冬向けアクセサリーなど、北欧の冬を意識したアイテムを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -6559,118 +6671,6 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "51ba9b874cf71ddb",
-   "url": "https://biz.chosun.com/en/en-international/2026/10/20/ZHMNK56F7RD6DPER6O3ADZJD2M/?outputType=amp",
-   "title_original": "Uniqlo hikes Japan prices as weak yen and costs squeeze SPA model - CHOSUNBIZ",
-   "source": "Chosunbiz",
-   "image": "https://biz.chosun.com/resizer/v2/J2LR3YZMOVLYXMWZEKYCHBMVJ4.jpg?auth=82c98fc4d31185ac9a8c7aab87157f025e0dd18e853393bb5d10daf9c93bafee&width=1200&height=630&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-20T05:36:39.953000+00:00",
-   "title_ja": "円安とコスト高でSPAモデル悪化、ユニクロが日本国内で値上げへ",
-   "summary_ja": "円安の進行やコスト増加がSPA（製造小売り）ビジネスモデルを圧迫する中、ユニクロが日本国内での販売価格改定を実施することが判明しました。コスト増への対応として価格引き上げに踏み切ります。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4ab75d02e918bee9",
-   "url": "https://www.ryutsuu.biz/strategy/s102046.html",
-   "title_original": "アパレル売上高ランキング／ユニクロが1位独走、来年はファッション業界再編の動きも",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/10/20261020-apparel-ranking-3.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:36:37+00:00",
-   "title_ja": "アパレル売上高ランキングでユニクロが1位を独走、業界再編の予測も",
-   "summary_ja": "国内のアパレル売上高ランキングにおいて、ユニクロが首位を独走していることが分かりました。また、来年に向けてファッション業界全体で再編の動きが進む可能性についても指摘されています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "fe713eea2afbf3c1",
-   "url": "https://jp.investing.com/news/stock-market-news/article-1716924",
-   "title_original": "ファーストリテ---反発、国内ユニクロ製品の値上げ実施を発表 執筆",
-   "source": "Investing.com 日本",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:32:00+00:00",
-   "title_ja": "ファーストリテイリングが国内ユニクロ製品の値上げを発表",
-   "summary_ja": "ファーストリテイリングは、国内のユニクロ製品における値上げの実施を発表しました。今後の商品価格改定に注目が集まります。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "7eb4a3d8a745dbe1",
-   "url": "https://www.rbbtoday.com/article/2026/10/20/254682.html",
-   "title_original": "とんかつ新宿さぼてん×ユニクロ、限定Tシャツとバッグを新宿西口店で発売",
-   "source": "RBB TODAY",
-   "image": "https://www.rbbtoday.com/imgs/ogp_f/1052885.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:24:43+00:00",
-   "title_ja": "とんかつ新宿さぼてんとユニクロが限定Tシャツなどを発売",
-   "summary_ja": "「とんかつ新宿さぼてん」とユニクロがコラボレーションし、限定デザインのTシャツとバッグを新宿西口店で発売します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a6d5e3ed359cd13e",
-   "url": "https://news.yahoo.co.jp/articles/d65f8b0dfbb123045f1183befecbfc85ee827952",
-   "title_original": "綾瀬はるか出演、ユニクロ「パフテック」のCM「LifeとWear／嘘だ！」篇で流れる曲は？（CDJournal）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000032-cdj-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:04:15+00:00",
-   "title_ja": "綾瀬はるか出演のユニクロ「パフテック」新CMが放映",
-   "summary_ja": "綾瀬はるかさんが出演するユニクロ「パフテック」の新CM「LifeとWear／嘘だ！」篇が公開され、劇中で流れる楽曲にも注目が集まっています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "fea3b6d1da916df1",
-   "url": "https://www.sankei.com/article/20261020-TGLA65MD7BPOVDVRF6SJGUCRYQ/photo/NVCE4XMBGZMWXGD5WL76ULTPLM",
-   "title_original": "フランチェスコ・リッソ氏とのコラボ「UNIQLO F. RISSO（ユニクロ エフ・リッソ）」",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/NVCE4XMBGZMWXGD5WL76ULTPLM.jpg?auth=7202d4531e0e9aa2b1d32dbc1e232109927a7e13f40f9988716ad9bcac00adfe&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:01:10+00:00",
-   "title_ja": "フランチェスコ・リッソ氏とのコラボ「UNIQLO F. RISSO」",
-   "summary_ja": "フランチェスコ・リッソ氏との新たなコラボレーションとなるコレクション「UNIQLO F. RISSO（ユニクロ エフ・リッソ）」が発表されました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "a83ec0a8b44fe1ea",
-   "url": "https://getnews.jp/archives/3747626",
-   "title_original": "ユニクロとドジャースが日米交流の次世代育成プログラムを開始！ ２度目となる冠イベント「UNIQLO LifeWear Day at Dodger Stadium」も開催",
-   "source": "ガジェット通信",
-   "image": "https://getnews.jp/img/archives/2026/10/KV-2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T05:00:10+00:00",
-   "title_ja": "ユニクロとドジャースが次世代育成プログラムと冠イベントを実施",
-   "summary_ja": "ユニクロと米大リーグのロサンゼルス・ドジャースが、日米交流を目指す次世代育成プログラムを開始。ドジャー・スタジアムでの2度目となる冠イベントの開催も決定しました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
