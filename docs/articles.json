@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T07:59:52.273697+09:00",
+ "updated_at": "2026-11-06T13:02:02.089012+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -19,14 +19,11 @@
   "- PeopleAsia",
   "5 Dariya News",
   "A1 Retail Magazine",
-  "ABEMA",
   "AD HOC NEWS",
   "ADWEEK",
   "AOL.co.uk",
   "All About ニュース",
-  "Apparel Views",
   "Archiproducts",
-  "AsiaOne.com",
   "AugustMan Singapore",
   "BAILA（バイラ）",
   "Banglanews24",
@@ -44,7 +41,6 @@
   "Citizens Journal",
   "Connect CRE Canada",
   "Daily Hive",
-  "Dellows News",
   "Estates Gazette",
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
@@ -84,6 +80,8 @@
   "Lmaga.jp",
   "L’Express Franchise",
   "MLB.com",
+  "Mantan Web",
+  "Marie Claire",
   "MarkeZine",
   "Marketing-Interactive",
   "Men's Folio",
@@ -151,12 +149,14 @@
   "dhakamagazine.com",
   "fashionunited.jp",
   "https://mediadogs.jp/",
+  "https://miyoca.jp/",
   "https://www.japancanadatoday.ca/",
   "khorasantimes.com",
   "ktv.jp",
   "marketech apac",
   "marketscreener.com",
   "puck.news",
+  "selecta bisso",
   "stupidDOPE",
   "vietnamnews.vn",
   "www.daily-sun.com",
@@ -186,12 +186,10 @@
   "マイライフニュース",
   "モデルプレス",
   "ラブすぽ",
-  "レスポンス（Response.jp）",
   "一般財団法人 日本気象協会",
   "下野新聞社",
   "京都新聞デジタル",
   "北海道新聞デジタル",
-  "千葉テレビ放送",
   "千葉テレビ放送株式会社",
   "四季報オンライン",
   "地域ニュースサイト号外NET",
@@ -225,45 +223,96 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 231,
  "digest": {
-  "headline": "京都のグローバル旗艦店オープンやセシリー・バンセンコラボが話題",
+  "headline": "ユニクロ・グループ最新動向と京都旗艦店オープン",
   "points": [
    {
-    "text": "京都に国内5カ所目となるユニクロのグローバル旗艦店がオープンし、西日本初のカフェや地元企業との限定品が展開されています。",
+    "text": "ファーストリテイリングが投資単位引き下げ方針を開示し、株主の投資しやすさと流動性向上を示した。",
     "ids": [
+     "024c40631e807b9d"
+    ]
+   },
+   {
+    "text": "同社は11月に株主総会を開催し、今後の経営方針や事業戦略を議論する予定だ。",
+    "ids": [
+     "4d1284991a8dc199"
+    ]
+   },
+   {
+    "text": "京都でユニクロのグローバル旗艦店がオープン、カフェ併設や地元企業との限定商品が話題に。",
+    "ids": [
+     "5b115b6ac6a73c5e",
      "71a8c1d4cc481fd7",
-     "a3bde5c5c34bf0ea",
-     "61ba807bb35f35b1"
+     "94d30014092d6ee0"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンによる、花柄を取り入れたフリースなど温かみのある北欧スタイルの2026年秋冬コレクションが11月20日に発売されます。",
+    "text": "韓国をはじめアジア市場で二桁成長を記録、2027年も堅調な見通しが示された。",
     "ids": [
-     "8ebc9de5d755867d",
-     "34fbf5fb7a6af085",
-     "18e6355ac8de03b8"
+     "949bf7c2f2431a18"
     ]
    },
    {
-    "text": "韓国をはじめとするアジア市場でユニクロが二桁成長を記録し、SPA市場での地位を再び確固たるものにしています。",
-    "ids": [
-     "949bf7c2f2431a18",
-     "8712ebacddd5c0fe"
-    ]
-   },
-   {
-    "text": "ユニクロのイージーワイドパンツがXで11件投稿されるなどSNSで話題を集めています。",
+    "text": "Xで3日間にユニクロ イージーワイドパンツが11件投稿され、急上昇中。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-03T08:07:38.818288+09:00",
-  "generated_at": "2026-11-06T08:07:41.259710+09:00",
+  "from": "2026-11-03T13:08:19.332570+09:00",
+  "generated_at": "2026-11-06T13:08:25.896817+09:00",
   "article_count": 24,
-  "sig": "be63f389b214"
+  "sig": "10d3a2c3bfff"
  },
  "items": [
+  {
+   "id": "5b115b6ac6a73c5e",
+   "url": "https://news.yahoo.co.jp/articles/8ade67ec5ee62e4dffc9341194854def61834958",
+   "title_original": "ユニクロが京都・河原町通に「グローバル旗艦店」、従来店舗を約２００平方メートル拡大…西日本初の「ユニクロコーヒー」や地元企業とのコラボＴシャツも（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://s.yimg.jp/images/news-web/versions/20261105-74025fe/all/images/ogp_default.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T01:33:38+00:00",
+   "title_ja": "ユニクロが京都・河原町通の店舗を拡大しグローバル旗艦店を出店",
+   "summary_ja": "ユニクロは京都・河原町通の店舗を約200平方メートル拡大し、グローバル旗艦店としてオープンする。西日本初出店となる「ユニクロコーヒー」を設置するほか、地元企業とコラボレーションした限定Tシャツも取り扱う。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "858bfb84003b2f36",
+   "url": "https://www.asahi.com/articles/ASVC55HFYVC5PLZB00HM.html",
+   "title_original": "「白いユニクロ」が京都に登場 ロゴの配色を反転 古都の景観に配慮 [京都府]",
+   "source": "朝日新聞",
+   "image": "https://imgopt.asahi.com/ogp/AS20261106000311_comm.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T01:05:00+00:00",
+   "title_ja": "京都の景観に配慮しロゴの配色を反転させた「白いユニクロ」が登場",
+   "summary_ja": "京都府内に古都の景観に配慮した「白いユニクロ」がオープンした。通常のブランドロゴとは異なり配色を反転させた看板デザインを採用しており、地域の歴史的な街並みになじむ店舗デザインを追求している。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "695e0d971ef37814",
+   "url": "https://mantan-web.jp/movie/hJLxQBlXoHs.html",
+   "title_original": "【動画】本田紗来、「ユニクロ京都」に来場 「LIBERTY LONDON」限定商品の魅力もアピール",
+   "source": "Mantan Web",
+   "image": "https://i.ytimg.com/vi/hJLxQBlXoHs/hqdefault.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T00:37:00+00:00",
+   "title_ja": "本田紗来がユニクロ京都に来場し限定商品をアピール",
+   "summary_ja": "本田紗来さんが「ユニクロ 京都」に来場しました。リバティ・ロンドンとの限定商品の魅力を直接アピールしています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "71a8c1d4cc481fd7",
    "url": "https://www.nishinippon.co.jp/image/1099821",
@@ -294,7 +343,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "333f342cde70be8b",
@@ -326,7 +375,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "54e0877bb1a84f6d",
@@ -342,7 +391,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "db23da0347ba2c56",
@@ -358,7 +407,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9bd68e30200e2efc",
@@ -377,6 +426,22 @@
    "detail_tries": 2
   },
   {
+   "id": "f977533d0b0b4504",
+   "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-declares-jpy-5-3-final-dividend-per-hdr",
+   "title_original": "Fast Retailing Declares JPY 5.3 Final Dividend Per HDR",
+   "source": "TipRanks",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T13:23:35+00:00",
+   "title_ja": "ファーストリテイリング、HDR当たりの期末配当を発表",
+   "summary_ja": "ファーストリテイリングは、HDR（米ドル建て預託証券）当たり5.3日本円の期末配当を実施することを発表しました。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "fc0e1c4335490f0e",
    "url": "https://news.yahoo.co.jp/articles/7921196ea00c09f2acc5e86b90f9d06bcb6b1383",
    "title_original": "佐々木蔵之介、実家の酒蔵がユニクロ京都店限定でコラボ「ぜひお越しやす」 （サンケイスポーツ）",
@@ -390,6 +455,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a0338666420ad94d",
+   "url": "https://infashionbusiness.com/home/news_details/8841/16",
+   "title_original": "UNIQLO And Cecilie Bahnsen Announce Second Collaboration For Fall/winter 2026",
+   "source": "IFAB MEDIA",
+   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1793879288.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T12:45:35+00:00",
+   "title_ja": "ユニクロとセシリー・バンセン、2026年秋冬で第2弾コラボ",
+   "summary_ja": "ユニクロとセシリー・バンセンが、2026年秋冬シーズンに向けた2度目のコラボレーションを発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -438,7 +519,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4e25645ad33e85c3",
@@ -553,22 +634,6 @@
    "has_detail": true
   },
   {
-   "id": "7beb75c295ec4b99",
-   "url": "https://gigazine.net/gsc_news/en/20261105-uniqlo-kyoto-open-event-guide",
-   "title_original": "This is what the inside of Uniqlo's global flagship store, 'Uniqlo Kyoto,' looks like. It also carries products related to Kyoto, such as T-shirts in collaboration with the Randen railway.",
-   "source": "GIGAZINE",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-05T09:07:00+00:00",
-   "title_ja": "ユニクロ京都のグローバル旗艦店の内観を紹介",
-   "summary_ja": "嵐電とのコラボTシャツなど京都ゆかりの製品も取り扱う、ユニクロ京都のグローバル旗艦店の店内の様子を紹介しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 1
-  },
-  {
    "id": "989c48da438acc46",
    "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-guide",
    "title_original": "嵐電コラボTシャツなど京都ゆかりの商品もあるユニクロのグローバル旗艦店「ユニクロ 京都」の内部はこんな感じ",
@@ -589,7 +654,7 @@
    "url": "https://mdpr.jp/other/detail/4871506",
    "title_original": "ユニクロ、京都店をグローバル旗艦店に改装 地元との協業強化",
    "source": "モデルプレス",
-   "image": "",
+   "image": "https://img-mdpr.freetls.fastly.net/article/38yM/nm/38yMk-XXH6oBjYnqqKOxuB3kXaUmx6USATKlmwBflwQ.png?width=700&disable=upscale&auto=webp&quality=80",
    "lang": "ja",
    "region": "jp",
    "published": "2026-11-05T09:00:00+00:00",
@@ -646,7 +711,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "563e487dbcd26201",
@@ -662,7 +727,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8b908e50ff1fdbcb",
@@ -678,7 +743,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3c84381e5c349b50",
@@ -729,6 +794,22 @@
    "detail_tries": 2
   },
   {
+   "id": "3aee031ce9ba70ea",
+   "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event",
+   "title_original": "ユニクロのグローバル旗艦店「ユニクロ 京都」が京都河原町にオープンするので記者発表会＆メディア先行内覧会に行ってきたよレポート",
+   "source": "GIGAZINE",
+   "image": "https://i.gzn.jp/img/2026/11/05/uniqlo-kyoto-open-event/00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:55:00+00:00",
+   "title_ja": "「ユニクロ 京都」がオープン、記者発表会と内覧会を開催",
+   "summary_ja": "京都河原町にオープンするグローバル旗艦店「ユニクロ 京都」の記者発表会およびメディア向け先行内覧会のレポートです。（100文字）",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "1f8f504107c4000f",
    "url": "https://www.marketscreener.com/news/fast-retailing-to-pay-530-yen-per-share-in-dividends-ce785fdcdb8af625",
    "title_original": "Fast Retailing to Pay 530 Yen per Share in Dividends",
@@ -745,6 +826,86 @@
    "detail_tries": 2
   },
   {
+   "id": "4571fb8ea5927557",
+   "url": "https://www.nikkei.com/article/DGXZQOUF052SJ0V01C26A1000000",
+   "title_original": "ユニクロ、京都にグローバル旗艦店を6日開業 宝酒造などとコラボ",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3831593005112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.88&fp-y=0.85&h=630&w=1200&s=de1c65ea54a2f55f836893956a9cb7f3",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:38:03+00:00",
+   "title_ja": "ユニクロ、京都にグローバル旗艦店を6日開業",
+   "summary_ja": "ユニクロが6日、京都にグローバル旗艦店を開業した。宝酒造など地元企業とのコラボレーションも実施し、ブランド価値向上の拠点とする。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d4b229097c39d9e3",
+   "url": "https://news.yahoo.co.jp/articles/d4b6492c1bec88fe9c3903744e2287efe2b985a7",
+   "title_original": "佐々木蔵之介 京都弁でユニクロの新店舗をアピール「ユニクロ京都、ぜひおこしやす」（東スポWEB）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00408900-tospoweb-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:35:24+00:00",
+   "title_ja": "佐々木蔵之介が京都弁でユニクロの新店舗をアピール",
+   "summary_ja": "ユニクロの新店舗オープンを記念した発表会が行われ、俳優の佐々木蔵之介が京都弁で「ぜひおこしやす」と新しい店舗への来店を呼びかけた。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "7a84b97319164152",
+   "url": "https://www.daily.co.jp/society/economics/2026/11/05/0021003085.shtml",
+   "title_original": "ユニクロ、京都に旗艦店",
+   "source": "デイリースポーツ",
+   "image": "https://i.daily.jp/society/economics/2026/11/05/Images/f_21003429.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:19:00+00:00",
+   "title_ja": "ユニクロ、京都にグローバル旗艦店を開業",
+   "summary_ja": "ユニクロが京都に新たなグローバル旗艦店をオープンした。話題の新店舗として多くのメディアや注目を集めている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3ff7bac770b959a4",
+   "url": "https://miyoca.jp/check/4987",
+   "title_original": "【京都】 佐々木蔵之介「ぜひおこしやす」ユニクロのグローバル旗艦店が河原町に誕生！300円から楽しめる西日本初の「UNIQLO COFFEE」も登場【内覧会レポ】",
+   "source": "https://miyoca.jp/",
+   "image": "https://d1lidgpwyeyeml.cloudfront.net/tenants/1417/articles/images/000/005/439/medium/6baa6c4e-ae3d-4cc6-aba3-5656f270cd96.jpg?1793852138",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:00:10+00:00",
+   "title_ja": "ユニクロ京都旗艦店が河原町に誕生、内覧会レポ",
+   "summary_ja": "京都の河原町にユニクロのグローバル旗艦店が誕生した。内覧会では、西日本初となる「UNIQLO COFFEE」などもお披露目された。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "1c5490442736f5bc",
+   "url": "https://www.lmaga.jp/news/2026/11/1116869",
+   "title_original": "佐々木蔵之介、実家がユニクロとコラボで驚き「ほんまかー？うちは個人商店なのに…」",
+   "source": "Lmaga.jp",
+   "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/uniqlokyoto_202611_12.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T06:00:00+00:00",
+   "title_ja": "佐々木蔵之介氏、実家とユニクロのコラボ決定に「ほんまかー」と驚く",
+   "summary_ja": "俳優の佐々木蔵之介氏が、自身の実家とユニクロがコラボレーションすることについて驚きを明かした。個人商店である実家が大手ブランドと提携することに対し、驚きとともに率直なコメントを寄せている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "be58c3f54d044118",
    "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-supports-reducing-share-investment-unit",
    "title_original": "Fast Retailing Supports Reducing Share Investment Unit",
@@ -759,6 +920,38 @@
    "brand": "グループ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "225c76ac1471c1ae",
+   "url": "https://www.lmaga.jp/news/2026/11/1116868",
+   "title_original": "【関西初上陸】「ユニクロコーヒー」あす開店！1杯300円、地元の“老舗パン”＆名物饅頭も",
+   "source": "Lmaga.jp",
+   "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/uniqlokyoto_202611_7.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T04:10:00+00:00",
+   "title_ja": "関西初の「ユニクロコーヒー」がオープン、地元名物も",
+   "summary_ja": "関西初となるユニクロコーヒーが明日開店します。1杯300円のコーヒーに加え、地元の老舗パンや名物饅頭も提供されます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "024c40631e807b9d",
+   "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261105564990",
+   "title_original": "ファーストリテイリング[9983]：投資単位の引き下げに対する考え方及び方針について 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261105564990/thumbnail/?ttype=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T04:00:00+00:00",
+   "title_ja": "ファーストリテイリング、投資単位の引き下げ方針を開示",
+   "summary_ja": "ファーストリテイリングは2026年11月5日付で、投資単位の引き下げに関する考え方及び方針について適時開示を行いました。株主の投資しやすい環境づくりや株式流動性に関する同社のスタンスが示されています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "11e13d9bb10638dd",
@@ -905,6 +1098,22 @@
    "has_detail": true
   },
   {
+   "id": "f44f3fb0d2b77171",
+   "url": "https://www.marieclaire.com/fashion/winter-fashion/uniqlo-cecilie-bahnsen-winter-2026-collaboration",
+   "title_original": "Uniqlo x Cecilie Bahnsen Is Back With a \"Nordic Winter\" Take on Scandi Girl Style",
+   "source": "Marie Claire",
+   "image": "https://cdn.mos.cms.futurecdn.net/PtPSeKtcP3BWcb7uCJmtDn-1920-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T18:23:01+00:00",
+   "title_ja": "ユニクロとセシリー・バンセンが再びコラボ、秋冬新作",
+   "summary_ja": "ユニクロとセシリー・バンセンが再びタッグを組み、北欧の冬を意識した秋冬シーズンのカプセルコレクションを発表しました。スカンジナビアン・スタイルを取り入れたデザインが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "c2f84f168ccc7241",
    "url": "https://hypebae.com/2026/11/cecilie-bahnsen-uniqlo-fw26-fleece-kids-collection-lifewear-release-date-where-to-buy",
    "title_original": "Cecilie Bahnsen and UNIQLO Reunite for Fall/Winter 2026",
@@ -919,6 +1128,38 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "c3c0d4c53bbddf08",
+   "url": "https://newswav.com/article/uniqlo-opens-two-new-kuala-lumpur-stores-at-aeon-mall-kl-midtown-and-118-ma-A2611_877Ffb",
+   "title_original": "UNIQLO Opens Two New Kuala Lumpur Stores at AEON Mall KL Midtown and 118 Mall in 2026",
+   "source": "Newswav",
+   "image": "https://imgproxy.newswav.com/1000x0,q50=/https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Jbpg3Dm0-s34kL1CJmtUaLeyFpnnuwhbN4T90QYH9fjVPupCSqlM7BT0ioI814OIuLsoJG6pEge-UfUxZ-MYhaFllZNAm0J4i-SAJvwJbWZ9pUD-0hFOjCRsxTGDM6ZuQ961kuUgvfrlDU1BxspH_53z_XqgRBIxPa9kjvf2IoFx3866i__uTW9y21Aq/s16000/UNIQLO%20is%20coming%20to%20AEON%20KL%20Midtown%20this%20November%205!.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T17:18:21+00:00",
+   "title_ja": "ユニクロ、クアラルンプールに2店舗を新規オープンへ",
+   "summary_ja": "ユニクロは2026年に向け、マレーシアのクアラルンプールにあるAEONモールKLミッドタウンと118モールの2箇所に新店舗をオープンする予定です。現地での事業拡大を進めます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fb3b0d60e8becf36",
+   "url": "https://selectabisso.com/en/Cecilie-Bahnsen-returns-to-Uniqlo-for-a-new-Autumn-Winter-2026-capsule-collection",
+   "title_original": "Cecilie Bahnsen returns to Uniqlo for a new Autumn-Winter 2026 capsule collection",
+   "source": "selecta bisso",
+   "image": "https://selectabisso.com/wp-content/uploads/2026/11/IMG_9347.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T16:24:49+00:00",
+   "title_ja": "セシリー・バンセンとユニクロが2026年秋冬カプセルで再タッグ",
+   "summary_ja": "セシリー・バンセンがユニクロと再びタッグを組み、新たな2026年秋冬カプセルコレクションを展開します。両者のコラボレーションによる洗練されたデザインの新作発表が話題となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "18e6355ac8de03b8",
@@ -1031,6 +1272,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "4d1284991a8dc199",
+   "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-schedules-2026-shareholder-meeting-for-november",
+   "title_original": "Fast Retailing Schedules 2026 Shareholder Meeting for November",
+   "source": "TipRanks",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T09:07:22+00:00",
+   "title_ja": "ファーストリテイリング、11月に株主総会を開催予定",
+   "summary_ja": "ファーストリテイリングは、2026年11月に株主総会を開催することを発表しました。今後の経営方針や事業戦略について議論される重要な場となります。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "40a176a928c9de9a",
@@ -6407,262 +6664,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "6841e61e32a75061",
-   "url": "https://infashionbusiness.com/home/news_details/8748/14",
-   "title_original": "UNIQLO To Open First Store In Jaipur On November 13, Marking Rajasthan Debut",
-   "source": "IFAB MEDIA",
-   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1792568346.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T07:56:24+00:00",
-   "title_ja": "ユニクロ、ラジャスタン州初の店舗をジャイプールに11月13日オープン",
-   "summary_ja": "ユニクロは、インド・ラジャスタン州への初進出となるジャイプール店を11月13日にオープンすると発表した。現地での店舗網をさらに拡大させる。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "1184cf3700750c1d",
-   "url": "https://www.apparelviews.com/uniqlo-india-net-profit-rises-41-to-253cr-in-fy26",
-   "title_original": "Uniqlo India net profit rises 41% to 253cr in FY26",
-   "source": "Apparel Views",
-   "image": "https://www.apparelviews.com/wp-content/uploads/2026/10/Uniqlo-India-net-profit-rises-41.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T05:33:50+00:00",
-   "title_ja": "ユニクロのインド法人が2026年度純利益で41%増を達成",
-   "summary_ja": "ユニクロのインドにおける2026年度の純利益が、前年比41%増の253クロールに達したことが分かりました。インド市場での事業展開が順調に推移しており、大幅な増益を達成したことが報じられています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "d21cf380aefdc343",
-   "url": "https://news.shoninsha.co.jp/merchandising/321918",
-   "title_original": "ユニクロnews｜11/6開店の｢ユニクロ 京都｣最新・最旬商品紹介",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T05:05:55+00:00",
-   "title_ja": "11月6日オープンの「ユニクロ 京都」が最新商品を公開",
-   "summary_ja": "11月6日に開店する「ユニクロ 京都」において展開される最新や最旬の取扱商品が紹介されました。新店舗のオープンに合わせて注目のラインナップを取り揃え、店舗の魅力を発信しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "d121bcf2ed1793dc",
-   "url": "https://news.yahoo.co.jp/articles/419f9dfba20cab0cab1113cc0b11cb754ced0ceb",
-   "title_original": "ユニクロが初のトップ10入り、日本16ブランドの平均は世界を0.6ポイント上回る カーニー「サーキュラー・ファッション・インデックス2026」",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-02531271-wwdjapan-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T05:00:00+00:00",
-   "title_ja": "ユニクロが循環型ファッション指数で初のトップ10入り",
-   "summary_ja": "コンサルティング会社カーニーの「サーキュラー・ファッション・インデックス2026」で、ユニクロが初のトップ10入りを果たした。日本ブランドの平均評価も世界を上回っている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "55cd0fc98c17f3e5",
-   "url": "https://s.response.jp/article/2026/10/21/418059.html",
-   "title_original": "ホンダとGUがコラボ！ 80～90年代レトロなモトクロスの世界観を最新アパレルに",
-   "source": "レスポンス（Response.jp）",
-   "image": "https://response.jp/imgs/ogp_f/2253332.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T03:46:36+00:00",
-   "title_ja": "GUがホンダとコラボ、80〜90年代モトクロスのレトロなデザインが登場",
-   "summary_ja": "GUがホンダとコラボレーションした最新コレクションを発売します。1980年代から90年代のモトクロス文化やレトロな世界観を現代のアパレルに落とし込んだアイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "8faa6a0efced132c",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102139571",
-   "title_original": "ユニクロで『古着』が買えるって知ってた？Tシャツ500円、シャツ790円から！全国3店舗限定の「UNIQLO 古着」とは",
-   "source": "千葉テレビ放送",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1485281225326036361/origin_1.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T03:00:25+00:00",
-   "title_ja": "全国3店舗限定で展開される「UNIQLO 古着」の取り組み",
-   "summary_ja": "ユニクロが全国の3店舗限定で実施している「UNIQLO 古着」では、Tシャツが500円から、シャツが790円から購入できる。独自の古着販売の試みとして注目を集めている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0ac099a02261e708",
-   "url": "https://www.nikkei.com/article/DGXZRSP714132_R21C26A0000000",
-   "title_original": "ユニクロ、グローバル旗艦店「ユニクロ 京都」を京都・河原町通りにオープン",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3758018021102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=d088d81d399a065245b89d5a2657eb6e",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T02:41:30+00:00",
-   "title_ja": "ユニクロが京都・河原町通りにグローバル旗艦店をオープン",
-   "summary_ja": "ユニクロは、京都の河原町通りにグローバル旗艦店「ユニクロ 京都」を開店した。地域の新たな拠点として、国内外からの来店客に向けてブランドの魅力を発信していく。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1ce034ca231a9e54",
-   "url": "https://news.yahoo.co.jp/articles/2077612ce2864967824dfad64c7addea8a34c7af",
-   "title_original": "【ユニクロ】ベーシックだけど華やか「限定カシミヤニット」は見逃し厳禁！｜VERY（magacol）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000021-magacol-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T02:30:08+00:00",
-   "title_ja": "ユニクロから華やかな限定カシミヤニットが登場",
-   "summary_ja": "ベーシックでありながら華やかな印象をあたえる、ユニクロのカシミヤニットがラインアップ。見逃せない注目の秋冬アイテムとなっています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4037059b9fcfd4e0",
-   "url": "https://www.trendhunter.com/trends/sculpted-3d-knit-collections",
-   "title_original": "Sculpted 3D Knit Collections",
-   "source": "Trend Hunter",
-   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/645/645871/645871_1_1200.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T02:01:00+00:00",
-   "title_ja": "立体的なフォルムの「3Dニット」コレクションが登場",
-   "summary_ja": "立体的なシルエットが特徴の「3Dニット」コレクションが展開されている。独自の技術を活かしたデザイン性と快適な着心地を両立し、上質な着こなしを提案するラインナップとなっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f38b01362c25d6d4",
-   "url": "https://news.dellows.jp/827109/?from=related-reading-list",
-   "title_original": "ユニクロ 京都が河原町通りにオープンへ 限定商品や地元企業とのコラボ刺繍を展開",
-   "source": "Dellows News",
-   "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827109_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T02:00:00+00:00",
-   "title_ja": "ユニクロ京都が河原町通りに移転オープンへ",
-   "summary_ja": "ユニクロ 京都が河原町通りにオープン予定。限定商品の販売や、地元企業とのコラボレーションによる刺繍サービスが展開される。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7e3112853990d79e",
-   "url": "https://www.inside-games.jp/article/2026/10/21/189580.html",
-   "title_original": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！仲間たちとの心温まるシーンをデザインした全6種",
-   "source": "インサイド",
-   "image": "https://www.inside-games.jp/imgs/ogp_f/1796465.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T01:15:03+00:00",
-   "title_ja": "ユニクロ「スヌーピー」新作UT全6種が12月中旬に発売決定",
-   "summary_ja": "スヌーピーや仲間たちの心温まるシーンをデザインした新作UTが、12月中旬より発売されます。全6種のラインナップです。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a9a284ebc88c5d58",
-   "url": "https://www.asiaone.com/singapore/uniqlo-manager-waterway-point-catches-2-shoplifters-police",
-   "title_original": "Uniqlo manager at Waterway Point catches 2 suspected shoplifters after recognising them on a repeat visit",
-   "source": "AsiaOne.com",
-   "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/uniqlo_police_stealing_facebook.jpg?itok=CvBThiyH",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T00:30:00+00:00",
-   "title_ja": "シンガポールのユニクロ店長が再来店した万引き容疑者2人を捕捉",
-   "summary_ja": "シンガポールのウォーターウェイ・ポイント店にあるユニクロの店長が、再来店した万引き容疑者2人を特定して確保に貢献した。過去の来店時の記憶をもとに防犯へ繋げた。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "f33108c26fc049b6",
-   "url": "https://baila.hpplus.jp/blogs/kamiya_erena/84209",
-   "title_original": "【ユニクロ×JW アンダーソン2026秋冬】新作ニットを全型レポ！｜＠BAILA（バイラ）",
-   "source": "BAILA（バイラ）",
-   "image": "https://img-baila.hpplus.jp/ogp/image/c3/c39f82fa-e774-4635-bfcc-7ab6a623d516-1280x672.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T00:00:00+00:00",
-   "title_ja": "バイラが「ユニクロ×JW アンダーソン」新作ニットを全型レポ",
-   "summary_ja": "女性ファッション誌「BAILA」が、ユニクロとJW アンダーソンの2026年秋冬コラボレーションによる新作ニットを全種類レポートしています。注目のコラボアイテムの着心地やデザインを詳しく紹介する内容となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "908f9b5aa127f390",
-   "url": "https://hypebeast.com/jp/2026/10/uniqlo-f-risso-collection-collaboration-2026-knitwear-info",
-   "title_original": "フランチェスコ・リッソが手がける UNIQLO F.RISSO から2026年ニットウェアコレクションが登場",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F10%2Funiqlo-f-risso-collection-collaboration-2026-knitwear-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T23:59:19+00:00",
-   "title_ja": "フランチェスコ・リッソ手掛ける「UNIQLO F.RISSO」2026年ニットコレクション",
-   "summary_ja": "フランチェスコ・リッソが手掛ける「UNIQLO F.RISSO」から、2026年秋冬のニットウェアコレクションが新たに登場する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9f4601bbaf5db009",
-   "url": "https://abema.tv/video/episode/89-44_s0_p541552",
-   "title_original": "“安さの象徴”に変化 ユニクロ、ソックス3足990円終了へ 最新の経済ニュース【随時更新】",
-   "source": "ABEMA",
-   "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-44_s0_p541552/thumb001.png?height=720&quality=75&version=1792495797&width=1280",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T23:02:03+00:00",
-   "title_ja": "ユニクロが「ソックス3足990円」を終了へ 価格設定を見直し",
-   "summary_ja": "ユニクロが定番の「ソックス3足990円」という販売設定を終了することが明らかになりました。低価格の象徴的存在だった商品の価格体系変更であり、企業の価格戦略の変化を示しています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9b6d34a8f32672ff",
-   "url": "https://news.yahoo.co.jp/articles/b2df99ccebbe2d952b60c6d07716593bf633f1b2/images/001",
-   "title_original": "ユニクロが車いすバスケ日本代表をサポート 国枝慎吾氏がつないだ“縁”から生まれる「服の力」 (VICTORY)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXEsuE_091Zz1hK0mitNM1fz7ZamSOALAgQYADHGL2CfbKDCoIczQFfiL18B1W2Q7-I2fFlxnkw1BDhMLupqCtZHyTHGIqwBo569Nq3rMe7NT58WuWbNJl36Z2BiCAZPjw==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-20T22:03:47+00:00",
-   "title_ja": "ユニクロ、車いすバスケ日本代表をサポート",
-   "summary_ja": "国枝慎吾氏の縁をきっかけに、ユニクロが車いすバスケットボール日本代表のサポートを行っている取り組みについて伝えています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }

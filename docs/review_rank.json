@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T08:03:56.713058+09:00",
+ "updated_at": "2026-11-06T13:04:48.913709+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2870,
+ "catalog_size": 2869,
  "count": 59,
  "items": [
   {
@@ -267,8 +267,8 @@
    ],
    "price": 1990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_02_465751_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E465751-000/00?colorDisplayCode=02",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465751/item/jpgoods_67_465751_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E465751-000/00?colorDisplayCode=67",
    "rating": 4.6,
    "reviews": 5322,
    "reviews7": 82,
@@ -410,44 +410,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E482605-000",
-   "rank": 16,
-   "brand": "ユニクロ",
-   "name": "50色ソックス",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 290,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482605/item/goods_47_482605_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E482605-000/00?colorDisplayCode=47",
-   "rating": 4.4,
-   "reviews": 832,
-   "reviews7": 58,
-   "capped": false,
-   "prev7": 55,
-   "mentions7": 2,
-   "mention_titles": [
-    {
-     "t": "ユニクロ、「50色ソックス」価格改定の“中止”を発表 これまで通り単品290円＆「まとめ買い」4点990円",
-     "s": "山陽新聞",
-     "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVkFXdzdSZXhEQ2dOTDl3cHhNOG1FNTZ5eW9WVmduODhCamtyMGVXbzZBU0dSa0lzLWZJeU4tOFBwRW1Lam40NDJLR2llQUlndm9SSERnS0NYMzQ?oc=5"
-    },
-    {
-     "t": "ユニクロ「50色ソックス」値上げを撤回、内藤剛志さん「決定を変えられることが素晴らしい、宣伝戦略かな」",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/2811e7877f7a8db3187bbfc1a8bbc4153f626296"
-    }
-   ],
-   "score": 76,
-   "momentum": 1.14,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E475344-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "ジャージーバレルレッグパンツ",
    "genders": [
@@ -472,7 +436,7 @@
   },
   {
    "key": "UQ:E471809-000",
-   "rank": 18,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "スウェットワイドパンツ",
    "genders": [
@@ -492,6 +456,37 @@
    "mention_titles": [],
    "score": 72,
    "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E482605-000",
+   "rank": 18,
+   "brand": "ユニクロ",
+   "name": "50色ソックス",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 290,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482605/item/goods_47_482605_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E482605-000/00?colorDisplayCode=47",
+   "rating": 4.4,
+   "reviews": 832,
+   "reviews7": 58,
+   "capped": false,
+   "prev7": 55,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "ユニクロ、「50色ソックス」価格改定の“中止”を発表 これまで通り単品290円＆「まとめ買い」4点990円",
+     "s": "山陽新聞",
+     "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VVkFXdzdSZXhEQ2dOTDl3cHhNOG1FNTZ5eW9WVmduODhCamtyMGVXbzZBU0dSa0lzLWZJeU4tOFBwRW1Lam40NDJLR2llQUlndm9SSERnS0NYMzQ?oc=5"
+    }
+   ],
+   "score": 71,
+   "momentum": 1.14,
    "new": false,
    "rising": false
   },
@@ -773,8 +768,8 @@
    ],
    "price": 790,
    "promo": 790,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/358176/item/jpgoods_30_358176_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E358176-000/00?colorDisplayCode=30",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/358176/item/jpgoods_09_358176_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E358176-000/00?colorDisplayCode=09",
    "rating": 4.5,
    "reviews": 4970,
    "reviews7": 33,
@@ -797,8 +792,8 @@
    ],
    "price": 1990,
    "promo": 1990,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361414/item/jpgoods_68_361414_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E361414-000/00?colorDisplayCode=68",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361414/item/jpgoods_08_361414_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E361414-000/00?colorDisplayCode=08",
    "rating": 4.5,
    "reviews": 125,
    "reviews7": 24,
@@ -934,28 +929,29 @@
    "rising": false
   },
   {
-   "key": "GU:E356423-000",
+   "key": "GU:E360719-000",
    "rank": 37,
    "brand": "GU",
-   "name": "スリムフレアジーンズ",
+   "name": "ユーティリティシャツジャケット",
    "genders": [
-    "ウィメンズ"
+    "ウィメンズ",
+    "メンズ"
    ],
-   "price": 2990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/356423/item/jpgoods_68_356423_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E356423-000/00?colorDisplayCode=68",
-   "rating": 4.6,
-   "reviews": 3603,
-   "reviews7": 25,
+   "price": 990,
+   "promo": 990,
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360719/item/jpgoods_36_360719_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360719-000/00?colorDisplayCode=36",
+   "rating": 4.2,
+   "reviews": 51,
+   "reviews7": 16,
    "capped": false,
-   "prev7": 12,
+   "prev7": 9,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 25,
-   "momentum": 1.01,
+   "score": 26,
+   "momentum": 1.63,
    "new": false,
-   "rising": true
+   "rising": false
   },
   {
    "key": "GU:E360524-000",
