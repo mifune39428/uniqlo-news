@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T13:02:02.089012+09:00",
+ "updated_at": "2026-11-06T22:24:39.735185+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -34,6 +34,7 @@
   "Branding in Asia",
   "BroadwayWorld",
   "Business Examiner",
+  "BusinessMirror",
   "CTV News",
   "Cate Blanchett Fan",
   "China Daily",
@@ -55,7 +56,6 @@
   "GQ Japan",
   "Global News",
   "GlobeNewswire",
-  "GoodsPress Web",
   "HOME広島ホームテレビ",
   "Hashtag Legend Hong Kong",
   "Hindustan Times",
@@ -109,8 +109,10 @@
   "STRAIGHT PRESS",
   "Secret Miami",
   "Simply Wall Street",
+  "Speed",
   "Stylist",
   "TBS NEWS DIG",
+  "TVer",
   "The Business of Fashion",
   "The CSR Universe",
   "The Economic Times",
@@ -223,48 +225,258 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 231,
+ "detail_count": 229,
  "digest": {
-  "headline": "ユニクロ・グループ最新動向と京都旗艦店オープン",
+  "headline": "ファストリ株主総会や京都の旗艦店開業、中国事業の強化が話題",
   "points": [
    {
-    "text": "ファーストリテイリングが投資単位引き下げ方針を開示し、株主の投資しやすさと流動性向上を示した。",
+    "text": "ファーストリテイリングが11月の株主総会開催を発表し、投資単位の引き下げ方針も開示した。",
     "ids": [
+     "4d1284991a8dc199",
      "024c40631e807b9d"
     ]
    },
    {
-    "text": "同社は11月に株主総会を開催し、今後の経営方針や事業戦略を議論する予定だ。",
+    "text": "ユニクロが中国事業の強化に向け、現地店舗数を現在の3倍以上に拡大する目標を掲げた。",
     "ids": [
-     "4d1284991a8dc199"
+     "7d29eb424f4b615c"
     ]
    },
    {
-    "text": "京都でユニクロのグローバル旗艦店がオープン、カフェ併設や地元企業との限定商品が話題に。",
+    "text": "京都に西日本初カフェ併設のグローバル旗艦店「ユニクロ 京都」が開業した。",
     "ids": [
-     "5b115b6ac6a73c5e",
-     "71a8c1d4cc481fd7",
-     "94d30014092d6ee0"
+     "0a19f0a644c8f786",
+     "a3bde5c5c34bf0ea",
+     "61ba807bb35f35b1"
     ]
    },
    {
-    "text": "韓国をはじめアジア市場で二桁成長を記録、2027年も堅調な見通しが示された。",
+    "text": "ユニクロとセシリー・バンセンによる2026年秋冬の第2弾コラボが発表された。",
     "ids": [
-     "949bf7c2f2431a18"
+     "a0338666420ad94d",
+     "8ebc9de5d755867d"
     ]
    },
    {
-    "text": "Xで3日間にユニクロ イージーワイドパンツが11件投稿され、急上昇中。",
+    "text": "SNSでは「ユニクロ セシリー・バンセン フリースジャケット」がXで3日に16件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-03T13:08:19.332570+09:00",
-  "generated_at": "2026-11-06T13:08:25.896817+09:00",
+  "from": "2026-11-03T22:33:04.871347+09:00",
+  "generated_at": "2026-11-06T22:33:19.829922+09:00",
   "article_count": 24,
-  "sig": "10d3a2c3bfff"
+  "sig": "f9be879415d8"
  },
  "items": [
+  {
+   "id": "7d29eb424f4b615c",
+   "url": "https://www.nishinippon.co.jp/image/1100269",
+   "title_original": "取材に応じるユニクロの現地事業トップ・潘寧氏＝6日、中国・上海（共同） - 日系企業、中国事業を強化 ユニクロは店舗3倍超目標 - 写真・画像(1/2)",
+   "source": "西日本新聞me",
+   "image": "https://www.nishinippon.co.jp/uploads/image/1957052/sns_PN2026110601001965.-.-.CI0003.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T22:24:42+00:00",
+   "title_ja": "ユニクロが中国事業を強化へ 店舗数を現在の3倍以上に拡大目標",
+   "summary_ja": "ユニクロの中国事業トップである潘寧氏が6日に上海で取材に応じ、現地事業を強化する考えを示した。今後の成長に向け、店舗数を現在の3倍以上に増やす目標を掲げる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "0a19f0a644c8f786",
+   "url": "https://news.yahoo.co.jp/articles/c434bf6fc67f912d9f8c34e846aff0234b46f5a9",
+   "title_original": "旗艦店「ユニクロ 京都」６日開業 ブランド価値向上へ（KBS京都（京都放送））",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T12:02:27+00:00",
+   "title_ja": "旗艦店「ユニクロ 京都」が11月6日に開業 ブランド向上へ",
+   "summary_ja": "京都市内に新たなグローバル旗艦店「ユニクロ 京都」が11月6日に開業した。地域の歴史や文化を取り入れた店舗づくりを通じて、ブランド価値のさらなる向上を目指す。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1272365dea3b586d",
+   "url": "http://www.excite.co.jp/news/article/kbs_1491406057013199431",
+   "title_original": "旗艦店「ユニクロ 京都」６日開業 ブランド価値向上へ",
+   "source": "Excite エキサイト",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T11:55:00+00:00",
+   "title_ja": "「ユニクロ 京都」が6日オープン 地域の魅力を伝える旗艦店に",
+   "summary_ja": "京都に新たな旗艦店「ユニクロ 京都」が11月6日に開業した。地域に根ざした店舗運営を進めることで、ユニクロのブランド価値向上と国内外からの客層拡大を図る。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "6aa4709af2e0e856",
+   "url": "https://businessmirror.com.ph/2026/11/06/a-merrier-christmas-together-gh-mall-uniqlo-bring-more-magic-more-fun-and-more-reasons-to-celebrate",
+   "title_original": "A merrier Christmas together: GH Mall, UNIQLO bring more magic, more fun, and more reasons to celebrate",
+   "source": "BusinessMirror",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T11:31:41+00:00",
+   "title_ja": "ユニクロがショッピングモール「GH Mall」とクリスマスを彩る企画を展開",
+   "summary_ja": "ユニクロがショッピングモールのGH Mallと連携し、クリスマスシーズンに向けた特別な取り組みを開始します。現地でのお祝いムードを高め、買い物客へ向けて楽しい体験や特別な機会を提供する企画となっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "9baada70ff0bbee1",
+   "url": "https://news.yahoo.co.jp/articles/f7509a9064abaebaa027e342cbe01499ffbf9555",
+   "title_original": "西日本初・京都にカフェ併設のユニクロがオープン 地元企業や文化人とのコラボも 初日からにぎわう",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00083461-asahibcv-000-1-thumb.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T10:16:21+00:00",
+   "title_ja": "京都にカフェ併設のユニクロがオープン　地元企業や文化人とのコラボも実施",
+   "summary_ja": "西日本で初めてとなるカフェ併設型のユニクロが京都にオープンしました。店舗では地元企業や地元の文化人とのコラボレーション企画も展開されており、開店初日から多くの買い物客でにぎわっています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "2fef2055424f0722",
+   "url": "https://www.speed.ph/gh-mall-lights-up-christmas-with-uniqlo-collab-festive-activities",
+   "title_original": "GH Mall lights up Christmas season with UNIQLO collaboration, festive activities",
+   "source": "Speed",
+   "image": "https://www.speed.ph/wp-content/uploads/GH-Mall-x-Uniqlo-a.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T09:15:49+00:00",
+   "title_ja": "GHモールがユニクロとのコラボ企画でクリスマスシーズンを展開",
+   "summary_ja": "GHモールがユニクロとのコラボレーションや各種イベントを実施し、クリスマスシーズンに向けた賑やかな取り組みを展開していることが報じられました。来場者が楽しめる催しが用意されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1d7f02fafff7ccd9",
+   "url": "https://tver.jp/episodes/epu9wusrrd",
+   "title_original": "ニトリやユニクロが「超大型旗艦店」を相次ぎ出店 ネット通販時代にあえて“リアル店舗”へ注力する狙いとは",
+   "source": "TVer",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T05:39:53+00:00",
+   "title_ja": "ニトリやユニクロが超大型旗艦店を出店　実店舗へ注力する戦略の狙い",
+   "summary_ja": "ネット通販の利用が広がる中、ユニクロやニトリなどの大手企業が超大型旗艦店を相次ぎ出店している。あえて実店舗での体験価値や展開に注力する経営戦略の目的や狙いについて分析している。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f4e7ed085a0bdaac",
+   "url": "https://news.yahoo.co.jp/articles/14c0d0f5bc88993ca8794f6f8247ea484aa02cce",
+   "title_original": "【きょうから】「ユニクロ京都」オープンで無料配布！京都銘菓を3日間限定で、初日から大盛況（Lmaga.jp）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-01116870-lmaga-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T05:00:00+00:00",
+   "title_ja": "「ユニクロ京都」が開店し初日から盛況、京都銘菓を3日間限定で無料配布",
+   "summary_ja": "新規店舗「ユニクロ京都」がオープンし、初日から多くの来場者で賑わいを見せています。オープンを記念して、京都の銘菓が3日間の期間限定で無料配布されています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "9531b3c15335e4a2",
+   "url": "https://news.yahoo.co.jp/articles/5b8d2601cbaf4f7b334129b106ca0f366043e7c2",
+   "title_original": "ユニクロ「100株で配当年9万円」予想！ 2023年から“約3.1倍”ですが、夫は「もっと配当利回りが高い株がある」と言います。“高配当株投資には向かない”のでしょうか？ 配当金・株価の推移も確認（ファイナンシャルフィールド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00010016-ffield-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T04:50:01+00:00",
+   "title_ja": "ユニクロ株の年間配当予想と推移を解説、高配当株投資としての特徴とは",
+   "summary_ja": "ファーストリテイリング（ユニクロ）の配当金が100株あたり年間9万円と予想されるなか、過去の推移を踏まえて高配当株投資としての特徴や評価について解説しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "87a1efbe79b8aef9",
+   "url": "https://news.yahoo.co.jp/articles/44c7ccb5fe0f3719e9c6bc92f110a3eafab90215",
+   "title_original": "「コミックのユーモアを普段着に！」ユニクロのスヌーピーコラボは1990円から！UT6柄・スウェット4柄にUVカットキャップも加えた全11アイテム（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00144633-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T04:45:59+00:00",
+   "title_ja": "ユニクロがスヌーピーとのコラボ新作を発売、UTやスウェットなど全11種",
+   "summary_ja": "ユニクロがスヌーピーとコラボレーションした新作アイテムを発売します。UTが6柄、スウェットが4柄、UVカットキャップが加わった全11型を展開し、価格は1990円から提供されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4e9af2dae94d99d",
+   "url": "https://limo.media/articles/-/144633",
+   "title_original": "「スヌーピー好きへ届け」ユニクロの新作は1990円から！UT・スウェット・UVカットキャップ全11アイテムでコミックのユーモアを楽しめる",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://limo.ismcdn.jp/mwimgs/2/7/1200w/img_276cf465466d4040e13716139da72b4f84391.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T04:45:00+00:00",
+   "title_ja": "ユニクロのスヌーピーコラボ新作が登場、UTやキャップなど全11アイテム",
+   "summary_ja": "ユニクロからスヌーピーとコラボした新作コレクションが登場しました。UTやスウェット、UVカットキャップなど全11種類のアイテムが用意され、1990円からの手頃な価格で楽しめるラインナップとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c93f64cae3e27f57",
+   "url": "https://news.yahoo.co.jp/articles/e535e4e4828c275556523da60d9bf5a75abcc49e",
+   "title_original": "「ユニクロ」グローバル旗艦店が京都にオープン ほぼ全商品取りそろえ 京の文化や魅力発信にも",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00083453-asahibcv-000-2-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T04:15:07+00:00",
+   "title_ja": "ユニクロが京都にグローバル旗艦店を開業　ほぼ全商品を揃え文化魅力も発信",
+   "summary_ja": "ユニクロが京都に新たなグローバル旗艦店をオープンしました。店舗ではほぼすべての商品を取り扱うほか、京都の文化や地域の魅力を国内外へ発信する拠点としても活用される取り組みが行われています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a5950444837cdcd6",
+   "url": "https://news.tv-asahi.co.jp/news_geinou/articles/000545723.html",
+   "title_original": "佐々木蔵之介、実家とユニクロ“コラボT” 京都で着用スタッフ発見「えっこれ！」",
+   "source": "テレ朝NEWS",
+   "image": "https://news.tv-asahi.co.jp/articles_img/000545723_1200.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T04:03:32+00:00",
+   "title_ja": "佐々木蔵之介が京都で実家とユニクロのコラボTシャツ着用スタッフを発見",
+   "summary_ja": "俳優の佐々木蔵之介さんが、京都にて自身の実家とユニクロがコラボレーションしたTシャツを着用しているスタッフを発見し、驚きを見せました。地域に根ざしたコラボレーションアイテムが現地で親しまれている様子が伺えます。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "5b115b6ac6a73c5e",
    "url": "https://news.yahoo.co.jp/articles/8ade67ec5ee62e4dffc9341194854def61834958",
@@ -362,6 +574,22 @@
    "has_detail": true
   },
   {
+   "id": "ef037d09281a6b8c",
+   "url": "https://diamond-rm.net/market/accounting/562648/2",
+   "title_original": "無印良品はユニクロに勝てないのか？広がる効率格差と給与格差",
+   "source": "ダイヤモンド・チェーンストア",
+   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/11/IMG_2202.jpeg?auto=format%2Ccompress&ixlib=php-3.3.0",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T20:30:40+00:00",
+   "title_ja": "無印良品とユニクロの経営格差を分析　店舗効率と給与格差の背景とは",
+   "summary_ja": "無印良品とユニクロを比較し、両社の間に生じている店舗の運営効率や従業員給与の格差について解説した記事。ユニクロが持つ高い収益性と経営スピードの強みについて考察している。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "94d30014092d6ee0",
    "url": "https://www.yomiuri.co.jp/local/kansai/news/20261105-GYO1T00140",
    "title_original": "ユニクロが京都・河原町通に「グローバル旗艦店」、従来店舗を約200平方メートル拡大…地元企業とのコラボＴシャツも販売へ",
@@ -439,7 +667,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fc0e1c4335490f0e",
@@ -775,7 +1003,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b3de601804046da9",
@@ -871,7 +1099,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3ff7bac770b959a4",
@@ -887,7 +1115,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "1c5490442736f5bc",
@@ -951,7 +1179,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "11e13d9bb10638dd",
@@ -1111,7 +1339,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c2f84f168ccc7241",
@@ -1159,7 +1387,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "18e6355ac8de03b8",
@@ -1287,7 +1515,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "40a176a928c9de9a",
@@ -6437,230 +6665,6 @@
    "title_ja": "ユニクロ「F.Risso」2026年コレクション、配色豊かなニットウェアを展開",
    "summary_ja": "ユニクロが「F.Risso」との2026年新コレクションを発表した。独自の鮮やかなカラーリングやユニークな色づかいを特徴としたニットウェアを中心にラインナップし、デザイン性の高いアイテムを提案している。",
    "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f09b0714b80e839e",
-   "url": "https://www.vietnam.vn/ja/uniqlo-f-risso-2026-loat-thiet-ke-len-voi-nghe-thuat-phoi-mau-doc-dao",
-   "title_original": "ユニクロ F.Risso 2026：ユニークな色の組み合わせが特徴のニットウェアコレクション。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/21/1792586720278_fpj_fw26_c_01_kv_3x2.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T12:00:53+00:00",
-   "title_ja": "F.Rissoによる独創的カラーのニットウェア公開",
-   "summary_ja": "ユニークな色の組み合わせを特徴とした、F.Rissoによる新たなニットウェアコレクションが発表されました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "217a347feac0fb14",
-   "url": "https://www.indianretailer.com/news/uniqlo-open-first-jaipur-store-november-13-expands-india-network-22-outlets",
-   "title_original": "UNIQLO to Open First Jaipur Store on November 13, Expands India Network to 22 Outlets",
-   "source": "Indian Retailer",
-   "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Untitled%20design%20-%202026-10-21T173102.351.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T11:59:18+00:00",
-   "title_ja": "インド初のジャイプール店を11月13日にオープン",
-   "summary_ja": "ユニクロは11月13日にジャイプール初となる店舗を開設し、インド国内の店舗網を22店舗へと拡大します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "08f6b7a1efb3bf6a",
-   "url": "https://getnews.jp/archives/3750307",
-   "title_original": "ユニクロが世田谷に新たな買い物体験を提案！世田谷千歳台店がコーヒーや骨格診断も楽しめる店舗へリニューアル",
-   "source": "ガジェット通信",
-   "image": "https://torso-jack.com/wp-content/uploads/2026/10/img1-15-1024x575.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T11:35:23+00:00",
-   "title_ja": "ユニクロ世田谷千歳台店がリニューアル、コーヒー提供や骨格診断を実施",
-   "summary_ja": "ユニクロ世田谷千歳台店がリニューアルオープンし、カフェサービスや骨格診断などを導入した。単なる衣類の販売にとどまらず、体験型サービスを取り入れた新たな買い物体験を顧客へ提案する。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6d1980529a05768a",
-   "url": "https://portal.uqmobile.jp/detail/1/3/6/10425_6_r_20261021_1792581996934370",
-   "title_original": "ユニクロ値上げ“服の選び方”変化 靴下3足990円のセット販売終了…駆け込みで“まとめ買い” “1100円フリース”や“季節レス”も",
-   "source": "UQライフ",
-   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T11:24:00+00:00",
-   "title_ja": "ユニクロの値上げやセット販売終了で変化する消費者の服の選び方と駆け込み需要",
-   "summary_ja": "ユニクロでの価格変更やソックスのセット販売終了などに伴い、消費者の購買行動が変化している。値上げ前のまとめ買いや、長期間着回せる季節レス商品の需要が高まっている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "ee116653db4fbc9e",
-   "url": "https://www.goodspress.jp/news/750359",
-   "title_original": "【ユニクロ】絶妙なショート丈とリラックス感が映える！UNIQLO and JW ANDERSONの新作ブルゾン＆アウター",
-   "source": "GoodsPress Web",
-   "image": "https://static.andgp.net/cms/wp-content/uploads/2026/10/261013_uniqlo_01-720x480.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T11:00:45+00:00",
-   "title_ja": "UNIQLO and JW ANDERSONの新作アウター",
-   "summary_ja": "絶妙なショート丈とリラックス感が特徴的な、UNIQLO and JW ANDERSONによる新作ブルゾンやアウターが登場します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1f2d74c170b981fc",
-   "url": "https://prtimes.jp/main/html/rd/p/000000164.000068741.html",
-   "title_original": "グローバル旗艦店「ユニクロ 京都」が、いよいよ11月6日（金）オープン",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/68741/164/68741-164-3a9f182d34f568aba3ad9627e9cf263e-1484x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T11:00:02+00:00",
-   "title_ja": "ユニクロ 京都、11月6日にグローバル旗艦店としてオープン",
-   "summary_ja": "ユニクロのグローバル旗艦店「ユニクロ 京都」が、11月6日にオープンすることが決定しました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "a5c3832c561cc5d4",
-   "url": "https://hypebae.com/2026/10/uniqlo-francesco-risso-knitwear-collaboration-collection-sweaters-where-to-buy-release-date",
-   "title_original": "UNIQLO Tapped Francesco Risso for a Fresh Knitwear Drop",
-   "source": "Hypebae",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F10%2F21%2FSingle-Image-687.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T09:31:48+00:00",
-   "title_ja": "ユニクロ、伊デザイナーのリッソ氏と協業したニットを発売へ",
-   "summary_ja": "ユニクロがイタリアのデザイナーであるフランチェスコ・リッソ氏とタッグを組み、新たなニットウェアコレクションを展開することが分かりました。独創的なデザインの新作ニットラインナップに注目が集まっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "76549a1d41629dcb",
-   "url": "https://www.mylifenews.net/drink-food/131274",
-   "title_original": "ユニクロ、伊デザイナーのフランチェスコ・リッソ氏とのコラボ「UNIQLO F.RISSO」Knitwear Capsule Collection 2026を発売",
-   "source": "マイライフニュース",
-   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20261021_uniqro00.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T09:05:57+00:00",
-   "title_ja": "ユニクロ、フランチェスコ・リッソ氏とコラボ",
-   "summary_ja": "イタリア人デザイナーのフランチェスコ・リッソ氏とコラボレーションした「UNIQLO F.RISSO」ニットウェアカプセルコレクション2026が発売されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7185d0fc471d921b",
-   "url": "https://www.mylifenews.net/tag/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%82%A8%E3%83%95%E3%83%BB%E3%83%AA%E3%83%83%E3%82%BD",
-   "title_original": "ユニクロエフ・リッソ アーカイブ",
-   "source": "マイライフニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T09:05:00+00:00",
-   "title_ja": "ユニクロエフ・リッソ アーカイブ情報",
-   "summary_ja": "ユニクロエフ・リッソに関する過去の情報や関連するコンテンツをまとめて掲載しています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "b43e3b47d3a5e484",
-   "url": "https://news.yahoo.co.jp/articles/58abc3224c9b813e7d4a5debdf9a7d7466e229e3/images/004",
-   "title_original": "【ユニクロ】超話題のコラボ「ユニクロ エフ・リッソ」大人が着たいニットが登場！ (＠BAILA)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnX2AQPSn7Jgowv5zQcGQQ-U09Xl1ic0En_1VZWp229bOpxfw-xUnY9a7T80jtW3euhy-vULcVoi0MY1v3UW2batXsKmymFXATzz42JFm15n2",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T08:50:08+00:00",
-   "title_ja": "ユニクロ エフ・リッソコラボの大人向けニット",
-   "summary_ja": "話題を集めるコラボレーションラインから、大人世代が着こなしやすい上品なニットが登場しました。洗練されたデザインが魅力の新作アイテムです。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "75145808ec22f440",
-   "url": "https://www.ryutsuu.biz/report/s102144.html",
-   "title_original": "ユニクロ／都内の超大型店「世田谷千歳台店」リニューアル、地域密着で多彩な協業",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/10/20261021-uniqlo-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T08:30:27+00:00",
-   "title_ja": "ユニクロが東京都内の超大型店「世田谷千歳台店」をリニューアル",
-   "summary_ja": "ユニクロは東京都内にある超大型店舗「世田谷千歳台店」をリニューアルオープンした。地域密着を掲げ、地元の事業者や団体と連携した多彩な協業企画を展開する。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d2249e0f074aa44a",
-   "url": "https://tradersunion.com/news/brokers-news/show/3904804-gate-io-launches-four-new-futures",
-   "title_original": "Gate.io adds Fast Retailing, Taiyo Yuden, Interactive Brokers, and Valero futures contracts",
-   "source": "Traders Union",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T08:12:22+00:00",
-   "title_ja": "暗号資産取引所Gate.ioがファーストリテイリングの先物を提供開始",
-   "summary_ja": "暗号資産取引プラットフォームのGate.ioが、ファーストリテイリングを含む複数の銘柄に関する先物取引契約を新しく追加したことを発表した。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "5d4e5cec61769e90",
-   "url": "https://www.vietnam.vn/en/uniqlo-giam-hon-90-phat-thai-mo-rong-cac-du-an-cong-dong-tai-viet-nam",
-   "title_original": "UNIQLO reduces emissions by over 90%, expands community projects in Vietnam.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/21/1792570921603_op-voi-trung-tam-bao-ton-thien-nhien-gaia-gop-phan-phuc-hoi-rung-tai-khu-bao-ton-thien-nhien-ta-kou-1792567861592110526637-418-0-1608-2273-crop-179256.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-21T07:58:00+00:00",
-   "title_ja": "ベトナムのユニクロが温室効果ガス排出を9割削減、地域貢献活動も拡大へ",
-   "summary_ja": "ベトナムのユニクロが事業に伴う温室効果ガスの排出量を90％以上削減することに成功した。同時に、現地の地域社会に向けたコミュニティ支援プロジェクトの規模も拡大しており、サステナビリティへの取り組みを推進している。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a717a21a8e971123",
-   "url": "https://www.vietnam.vn/ja/uniqlo-giam-hon-90-phat-thai-mo-rong-cac-du-an-cong-dong-tai-viet-nam",
-   "title_original": "ユニクロは排出量を90％以上削減し、ベトナムでの地域社会貢献プロジェクトを拡大した。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/21/1792570921603_op-voi-trung-tam-bao-ton-thien-nhien-gaia-gop-phan-phuc-hoi-rung-tai-khu-bao-ton-thien-nhien-ta-kou-1792567861592110526637-418-0-1608-2273-crop-179256.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T07:58:00+00:00",
-   "title_ja": "ユニクロ、ベトナムで排出量90％削減と地域貢献プロジェクト拡大",
-   "summary_ja": "ユニクロがベトナムにおいて事業活動に伴う温室効果ガスなどの排出量を90％以上削減したことが明らかになりました。現地での地域社会貢献プロジェクトも拡大し、持続可能な社会の実現に向けた取り組みを推進しています。",
-   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
