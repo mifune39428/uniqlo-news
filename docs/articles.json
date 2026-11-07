@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:02:05.962765+09:00",
+ "updated_at": "2026-11-08T06:11:46.060408+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -46,7 +46,6 @@
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
-  "FashionNetwork India",
   "Fashionista",
   "Fashionsnap.com",
   "Fast Retailing Co",
@@ -163,7 +162,6 @@
   "いこーよニュース",
   "ねとらぼ",
   "アセアンポータル",
-  "アニメ！アニメ！",
   "アラブニュース",
   "インサイド",
   "ウォーカープラス",
@@ -222,34 +220,34 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 232,
+ "detail_count": 233,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益、京都に新旗艦店開業",
+  "headline": "ユニクロが京都に旗艦店を開業し、最高益や中国事業の強化も発表",
   "points": [
    {
-    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高4兆円規模へと成長を遂げている。",
+    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、投資単位の引き下げ方針も開示しました。",
     "ids": [
-     "586c9f749a614b23"
+     "586c9f749a614b23",
+     "024c40631e807b9d"
     ]
    },
    {
-    "text": "ユニクロの中国事業トップである潘寧氏が、現地での店舗数を現在の3倍以上に増やす目標を掲げた。",
+    "text": "ユニクロの中国事業では、店舗数を現在の3倍以上に拡大する目標が掲げられました。",
     "ids": [
      "7d29eb424f4b615c",
-     "10d01bace2c43e2b",
-     "e60883a522f30898"
+     "10d01bace2c43e2b"
     ]
    },
    {
-    "text": "京都に西日本初のカフェ併設や景観に配慮したデザインを取り入れたグローバル旗艦店が開業した。",
+    "text": "京都に西日本初のカフェ併設や景観に配慮した「白いユニクロ」を含む新たなグローバル旗艦店が開業しました。",
     "ids": [
-     "0a19f0a644c8f786",
+     "6b3ea10bef5d9e01",
      "9baada70ff0bbee1",
      "858bfb84003b2f36"
     ]
    },
    {
-    "text": "ユニクロがセシリー バンセンとの2026年秋冬コラボレーション第2弾を発表した。",
+    "text": "セシリー・バンセンとのコラボ第2弾となる花刺繍フリースなどの2026年秋冬コレクションが発表されました。",
     "ids": [
      "95c3317568fda465",
      "17230a8623e4d79b",
@@ -257,15 +255,15 @@
     ]
    },
    {
-    "text": "SNSではユニクロのフーデッドリブTがXで3日に8件投稿されました。",
+    "text": "SNSではユニクロのフーデッドリブTが注目を集め、Xで3日に9件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-04T21:10:33.837312+09:00",
-  "generated_at": "2026-11-07T21:10:35.263963+09:00",
+  "from": "2026-11-05T06:17:34.265070+09:00",
+  "generated_at": "2026-11-08T06:17:35.718691+09:00",
   "article_count": 24,
-  "sig": "31ccb8f04b4a"
+  "sig": "b4ece867e9a4"
  },
  "items": [
   {
@@ -285,6 +283,22 @@
    "has_detail": true
   },
   {
+   "id": "74de8dba7b529155",
+   "url": "https://news.yahoo.co.jp/articles/f8b757e900db86c5af11b84a4de818bfc4bdc4af",
+   "title_original": "【ユニクロ and セシリー バンセン】2026秋冬は大人可愛いフリースが登場！（＠BAILA）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00010002-baila-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-07T09:50:02+00:00",
+   "title_ja": "ユニクロとセシリー バンセンのコラボより2026年秋冬の新作フリースが登場",
+   "summary_ja": "ユニクロとデザイナーブランド「セシリー バンセン」によるコラボレーションラインから、2026年秋冬の新作アウターとしてフリースアイテムが登場した。大人らしさと可愛らしさを兼ね備えたデザインが特徴となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "5efe3a54cc09c5f6",
    "url": "https://khorasantimes.com/?kh=14715516&tname=Uniqlo-Ines-De-La-Fressange-wool-alpaca-blend-cable-knit-hat",
    "title_original": "Uniqlo Ines De La Fressange wool/alpaca blend cable knit hat",
@@ -298,7 +312,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "586c9f749a614b23",
@@ -330,7 +344,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "35bde6477ffda0c3",
@@ -794,7 +808,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "71a8c1d4cc481fd7",
@@ -1307,6 +1321,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "8e27e01b6ab2a5cb",
+   "url": "https://gigazine.net/gsc_news/en/20261105-uniqlo-kyoto-open-event-sasaki-kuranosuke",
+   "title_original": "Kuranosuke Sasaki appeared at a talk event ahead of the opening of 'Uniqlo Kyoto'.",
+   "source": "GIGAZINE",
+   "image": "https://i.gzn.jp/img/2026/11/05/uniqlo-kyoto-open-event-sasaki-kuranosuke/00.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-05T07:43:00+00:00",
+   "title_ja": "「ユニクロ京都」オープンに先立ち佐々木蔵之介がトークイベントに登場",
+   "summary_ja": "新店舗「ユニクロ京都」のオープンに先駆け、記念のトークイベントが開催された。イベントには俳優の佐々木蔵之介が登場し、開店に向けたプロモーション活動が行われた。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "3c84381e5c349b50",
@@ -6635,38 +6665,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "dbd780e189c85bc3",
-   "url": "https://animeanime.jp/article/2026/10/22/104091.html",
-   "title_original": "「モンチッチ」かわいすぎる刺繍をカスタマイズ♪ ユニクロのリメイクサービスとコラボした刺繍サービスが新登場",
-   "source": "アニメ！アニメ！",
-   "image": "https://animeanime.jp/imgs/ogp_f/946469.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T10:45:03+00:00",
-   "title_ja": "ユニクロのリメイクサービスにモンチッチの刺繍が登場",
-   "summary_ja": "ユニクロのリメイクサービスに、可愛らしいモンチッチの刺繍をカスタマイズできる新サービスが登場しました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "aa6801194f5011f1",
-   "url": "https://in.fashionnetwork.com/news/Uniqlo-will-open-its-first-store-in-jaipur-this-november,1878155.html",
-   "title_original": "Uniqlo will open its first store in Jaipur this November",
-   "source": "FashionNetwork India",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T10:29:39+00:00",
-   "title_ja": "ユニクロが11月にインド・ジャイプールへ初の店舗をオープン",
-   "summary_ja": "ユニクロが11月にインドの都市ジャイプールで初となる店舗を開設することが報じられた。同地域への初進出により、現地でのブランド展開と店舗網の拡充を進めていく。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
