@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T07:29:33.542767+09:00",
+ "updated_at": "2026-11-07T12:38:10.899408+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -42,6 +42,7 @@
   "Connect CRE Canada",
   "Daily Hive",
   "Dtimes",
+  "ELLE",
   "Estates Gazette",
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
@@ -55,7 +56,6 @@
   "GIGAZINE",
   "GQ Japan",
   "Global News",
-  "HOME広島ホームテレビ",
   "Hashtag Legend Hong Kong",
   "Hindustan Times",
   "Hypebae",
@@ -81,7 +81,6 @@
   "MLB.com",
   "Mantan Web",
   "Marie Claire",
-  "MarkeZine",
   "Marketing-Interactive",
   "Men's Folio",
   "Modaes",
@@ -99,13 +98,13 @@
   "Philstar Life",
   "Pokde.Net",
   "Popbee",
-  "QAB 琉球朝日放送",
   "Ragtrader.com.au",
   "Record China",
   "Red Carpet Fashion Awards",
   "Retail Gazette",
   "Retail Insider",
   "SEVENTIE TWO",
+  "SPUR（シュプール）",
   "STRAIGHT PRESS",
   "Secret Miami",
   "Simply Wall Street",
@@ -119,6 +118,7 @@
   "The Fashion Post",
   "The Financial Express",
   "The Independent",
+  "The Sole Supplier",
   "The Vent Machine -",
   "The Western Telegraph",
   "TheFutureParty",
@@ -131,7 +131,6 @@
   "UP TO DATE",
   "UQライフ",
   "Unisba Media",
-  "VICTORY [ビクトリー]",
   "VZ VermögensZentrum",
   "Vancouver Is Awesome",
   "Vancouver Sun",
@@ -183,7 +182,6 @@
   "ハリウッド・リポーター・ジャパン",
   "ファッションプレス",
   "フロントロウ",
-  "マイナビニュース",
   "マイナビ子育て",
   "マイライフニュース",
   "モデルプレス",
@@ -226,48 +224,88 @@
  "count": 400,
  "detail_count": 231,
  "digest": {
-  "headline": "ユニクロ 京都旗艦店の開業と中国事業・セシリーコラボ",
+  "headline": "ユニクロが京都に新旗艦店を開業、中国事業拡大やコラボ発表も",
   "points": [
    {
-    "text": "京都市内に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」が6日に開業し、西日本初のカフェ併設や地域コラボなどが話題となっています。",
+    "text": "京都に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」が6日に開業し、西日本初のカフェ併設や景観に配慮した白い外観などが話題となっています。",
     "ids": [
+     "6b3ea10bef5d9e01",
      "0a19f0a644c8f786",
-     "9baada70ff0bbee1",
-     "71a8c1d4cc481fd7"
+     "858bfb84003b2f36"
     ]
    },
    {
-    "text": "ユニクロの中国事業トップである潘寧氏が上海で取材に応じ、今後の成長に向け店舗数を現在の3倍以上に増やす目標を掲げました。",
+    "text": "ユニクロの中国事業トップである潘寧氏が上海で取材に応じ、将来的に店舗数を現在の3倍以上に増やす方針を明らかにし、現地事業を強化する考えを示しました。",
     "ids": [
      "7d29eb424f4b615c",
      "10d01bace2c43e2b"
     ]
    },
    {
-    "text": "ユニクロは、セシリー・バンセンとの2026年秋冬コレクションを発表し、お花モチーフの刺繍をあしらったフリースなどを展開します。",
+    "text": "ユニクロとセシリー・バンセンによる2026年秋冬シーズンの第2弾コラボレーションが発表され、花刺繍をあしらったフリース素材などの新作アイテムが登場します。",
     "ids": [
      "95c3317568fda465",
+     "17230a8623e4d79b",
      "a0338666420ad94d"
     ]
    },
    {
-    "text": "10月の国内ユニクロ売上高は、真夏日となった影響で冬物の売れ行きが伸び悩み、5.5％のマイナスとなりました。",
+    "text": "10月は真夏日となった影響で冬物の売れ行きが伸び悩み、国内ユニクロの売上高は5.5％のマイナスとなりました。",
     "ids": [
      "d5eaf1c5299e28a1"
     ]
    },
    {
-    "text": "SNSではユニクロ フーデッドリブTがXで7件投稿されています。",
+    "text": "ファーストリテイリングは2026年11月5日付で投資単位の引き下げに関する方針を開示したほか、11月に株主総会を開催する予定です。",
+    "ids": [
+     "024c40631e807b9d",
+     "4d1284991a8dc199"
+    ]
+   },
+   {
+    "text": "SNSではユニクロのブラッシュドジャージーワイドパンツが注目を集め、Xで3日に8件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-04T07:37:03.511493+09:00",
-  "generated_at": "2026-11-07T07:37:05.193403+09:00",
+  "from": "2026-11-04T12:44:02.563951+09:00",
+  "generated_at": "2026-11-07T12:44:06.732990+09:00",
   "article_count": 24,
-  "sig": "2e43621883f5"
+  "sig": "1e307cde93fa"
  },
  "items": [
+  {
+   "id": "35bde6477ffda0c3",
+   "url": "https://tver.jp/episodes/ep56bxxc94",
+   "title_original": "ユニクロの大人気商品「エアリズム3Dマスク」が復活!",
+   "source": "TVer",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-07T03:27:24+00:00",
+   "title_ja": "ユニクロの人気商品「エアリズム3Dマスク」が再登場",
+   "summary_ja": "ユニクロで過去に人気を集めた「エアリズム3Dマスク」が復活することが分かった。快適な着用感で話題を呼んだヒット商品の再登場として注目を集めている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a352d3a82ed9ee4b",
+   "url": "https://peopleasia.ph/gh-mall-and-uniqlo-bring-more-magic-and-fun-to-your-christmas-celebration",
+   "title_original": "GH Mall and UNIQLO bring more magic and fun to your Christmas celebration",
+   "source": "- PeopleAsia",
+   "image": "https://peopleasia.ph/wp-content/uploads/2026/11/GH-Mall-Christmas-Tree-Lighting.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-07T01:09:18+00:00",
+   "title_ja": "ユニクロがGHモールと連携しクリスマスキャンペーンを実施",
+   "summary_ja": "ユニクロが海外のショッピングモール「GH Mall」と協力し、クリスマスシーズンを彩る企画を展開する。ホリデーシーズンに向けた特別な体験や催しを提供する。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "7d29eb424f4b615c",
    "url": "https://www.nishinippon.co.jp/image/1100269",
@@ -299,6 +337,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "6b3ea10bef5d9e01",
+   "url": "https://mainichi.jp/articles/20261107/ddl/k26/020/162000c",
+   "title_original": "ユニクロ 旗艦店開店 河原町に全国5店舗目 ／京都",
+   "source": "毎日新聞",
+   "image": "https://cdn.mainichi.jp/vol1/2026/11/07/20261107ddlk26020330000p/0c10.jpg?1",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T20:05:19+00:00",
+   "title_ja": "京都・河原町にユニクロの旗艦店がオープン",
+   "summary_ja": "京都市の河原町に、ユニクロの新たな旗艦店が開店しました。全国で5店舗目となる大型店舗の開業となります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "580ee83d5d16cf3e",
@@ -378,7 +432,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9baada70ff0bbee1",
@@ -408,6 +462,22 @@
    "title_ja": "10月の国内ユニクロ売上高は5.5％減、真夏日が影響",
    "summary_ja": "10月に真夏日となった影響で冬物の売れ行きが伸び悩み、国内アパレル関連大手のユニクロは5.5％のマイナスとなった。気温の変化がアパレル需要に影響を与えた月次動向を伝えている。",
    "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "17230a8623e4d79b",
+   "url": "https://www.elle.com/jp/fashion/a74341786/uniqlo-ceciliebahnsen-collab2-2611-hns-p",
+   "title_original": "「ユニクロ」×「セシリー バンセン」待望のコラボ第2弾！冬のフリースコレクションが登場",
+   "source": "ELLE",
+   "image": "https://hips.hearstapps.com/hmg-prod/images/44cb400e-9a57-44be-b13c-d2e70011c466.jpg?crop=1.00xw:0.565xh;0,0.275xh&resize=1200:*",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T09:17:00+00:00",
+   "title_ja": "ユニクロがセシリー バンセンとのコラボ第2弾を発表 冬のフリース商品が登場",
+   "summary_ja": "ユニクロとファッションブランド「セシリー バンセン」によるコラボレーションの第2弾が発表された。今期は冬に活躍するフリースコレクションを中心にラインナップされており、注目の新作アイテムとして期待が高まっている。",
+   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -1325,6 +1395,22 @@
    "has_detail": true
   },
   {
+   "id": "db7495a0f24575b9",
+   "url": "https://spur.hpplus.jp/fashion/news/2026-11-07-FHnp3g",
+   "title_original": "【ユニクロ】と【セシリー バンセン】のコラボレーションが再び！ フラワー刺しゅうがポイントの、フリースジャケットやスカートなどがラインナップ〈全アイテム掲載〉",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/f6/f60caa48-19e2-44aa-a234-83c59ebd5df4-1200x630.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-05T02:11:00+00:00",
+   "title_ja": "ユニクロとセシリー・バンセンのコラボ第2弾、全アイテム公開",
+   "summary_ja": "ユニクロとセシリー・バンセンによるコラボレーションの再登場が決定。フラワー刺しゅうが施されたフリースジャケットやスカートなどがラインナップする。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "949bf7c2f2431a18",
    "url": "https://www.mk.co.kr/jp/business/12198064",
    "title_original": "韓などアジアで二桁の成長 2027年も成長の見通し機能性·品質を前面に押し出し、 SNSの人気商品まで",
@@ -1469,6 +1555,22 @@
    "has_detail": true
   },
   {
+   "id": "cd7045e8cced1aaa",
+   "url": "https://thesolesupplier.co.uk/news/Uniqlo-cecilie-bahnsen-collaboration-winter-collection-2026",
+   "title_original": "Uniqlo and Cecilie Bahnsen Are Back for Round Two",
+   "source": "The Sole Supplier",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T17:43:00+00:00",
+   "title_ja": "ユニクロとセシリー バンセンが再びコラボコレクションを展開",
+   "summary_ja": "ユニクロと「セシリー バンセン」がタッグを組み、新たなコラボレーションコレクションを展開します。両ブランドによる2度目のカプセルコレクションとなります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "c3c0d4c53bbddf08",
    "url": "https://newswav.com/article/uniqlo-opens-two-new-kuala-lumpur-stores-at-aeon-mall-kl-midtown-and-118-ma-A2611_877Ffb",
    "title_original": "UNIQLO Opens Two New Kuala Lumpur Stores at AEON Mall KL Midtown and 118 Mall in 2026",
@@ -1597,6 +1699,22 @@
    "detail_tries": 2
   },
   {
+   "id": "3f1fc4845f109fc8",
+   "url": "https://hypebeast.com/2026/11/cecilie-bahnsen-uniqlo-fall-winter-2026-collaboration-capsule-collection-lookbook-release-info-dvxx",
+   "title_original": "Cecilie Bahnsen Reconnects With Uniqlo for a FW26 Capsule Collection",
+   "source": "Hypebeast",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F04%2Ftwcecilie-bahnsen-uniqlo-fall-winter-2026-collaboration-capsule-collection-lookbook-release-info-dvxx.jpg?w=1080&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-04T09:32:15+00:00",
+   "title_ja": "ユニクロとセシリー バンセンがFW26カプセルコレクションを発表",
+   "summary_ja": "ユニクロは、「セシリー バンセン」とのパートナーシップによるFW26カプセルコレクションを発表しました。両ブランドの魅力が融合したアイテムが登場します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "f268bc4a136d9d3d",
    "url": "https://www.vogue.co.jp/article/2026-11-04-uniqlo-cecilie-bahnsen",
    "title_original": "【全アイテム公開】ユニクロ×セシリーバンセンのコラボコレクションが11月20日（金）発売！",
@@ -1659,6 +1777,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "682515aaf4eefb96",
+   "url": "https://news.shoninsha.co.jp/catmonthly/323266",
+   "title_original": "ユニクロnews｜10月既存店94.5％も客数10％減/後半の高気温で冬物失速",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-04T07:47:25+00:00",
+   "title_ja": "ユニクロの10月既存店売上高は94.5％、客数は10％減",
+   "summary_ja": "ユニクロの10月国内既存店売上高は前年同月比94.5％となりました。客数は10％減少しており、月後半の高気温の影響で冬物衣料の動きが鈍くなりました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "4670d34e9c6b3aed",
@@ -6538,134 +6672,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a4ea138631f096fd",
-   "url": "https://www.mylifenews.net/fashion-style/131324",
-   "title_original": "ユニクロ、グローバル旗艦店「ユニクロ 京都」を京都・河原町通りにオープン、最新・最旬の商品ラインアップと売場を展開",
-   "source": "マイライフニュース",
-   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20261022_uniqro00.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T01:35:00+00:00",
-   "title_ja": "京都・河原町にグローバル旗艦店「ユニクロ 京都」が開業",
-   "summary_ja": "京都の河原町通りに、新たなグローバル旗艦店となる「ユニクロ 京都」がオープンしました。最新かつ最旬の商品を取り揃えた売場が展開されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "0833fadd34e46f89",
-   "url": "https://www.qab.co.jp/quebee/video/000542031",
-   "title_original": "“平成リバイバル”フリース再び 若者の半数「今っぽい」 ユニクロなど新作販売 – Quebee キュエビー",
-   "source": "QAB 琉球朝日放送",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T00:28:19+00:00",
-   "title_ja": "ユニクロなどが「平成リバイバル」フリース新作を販売 若者層から高評価",
-   "summary_ja": "「平成リバイバル」のトレンドを受け、ユニクロなどがフリースの新作を展開している。アンケートでは若者の約半数が「今っぽい」と感じており、過去の流行アイテムが再び支持を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "fb0f73025073cb0d",
-   "url": "https://news.yahoo.co.jp/articles/1157845c59a5d3764c34346c5fd1cab1555867c2",
-   "title_original": "“平成リバイバル”フリース再び 若者の半数「今っぽい」 ユニクロなど新作販売（テレビ朝日系（ANN））",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000018-ann-000-2-thumb.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T00:28:19+00:00",
-   "title_ja": "平成ブームでフリース人気が再燃　ユニクロなど新作アイテム販売",
-   "summary_ja": "平成リバイバルの影響でフリースの人気が再び高まり、若者の半数が肯定的な印象を抱いている。これに合わせてユニクロなどの各社が、トレンドを取り入れた新作フリースを販売している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "dbecdf2bdece847c",
-   "url": "https://www.home-tv.co.jp/news/content/?news_id=000542031",
-   "title_original": "“平成リバイバル”フリース再び 若者の半数「今っぽい」 ユニクロなど新作販売",
-   "source": "HOME広島ホームテレビ",
-   "image": "https://news.tv-asahi.co.jp/articles_img/000542031_640.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T00:28:00+00:00",
-   "title_ja": "平成リバイバルのフリース新作、若者から「今っぽい」",
-   "summary_ja": "平成のトレンドであるフリースが再び注目を集めており、ユニクロなどが展開する新作に若者の間で新鮮だという声が上がっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9410e2fa10af8224",
-   "url": "https://markezine.jp/news/detail/77898",
-   "title_original": "ユニクロ、グローバル旗艦店「ユニクロ 京都」を11月6日にオープン：commercezine",
-   "source": "MarkeZine",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T23:00:00+00:00",
-   "title_ja": "「ユニクロ 京都」11月6日オープン、最新売場を展開",
-   "summary_ja": "ユニクロは、京都・河原町通りにグローバル旗艦店「ユニクロ 京都」を11月6日にオープンすると発表した。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "55ee1cff0b8e9720",
-   "url": "https://www.sankei.com/article/20261022-LEFZCJUYKBJCBLA5M4JCGGLFOM",
-   "title_original": "生駒市キャラ「たけまるくん」あしらったTシャツとトート発売 ユニクロ新店23日開業で",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/OV3JP72JC5IABHWC4BRWLCMFDE.jpg?auth=8fd3ade1ba68ed952968edeb59fcfded1dc50b2f7e40d4a2c6026e670f2a68fd&quality=50&focal=2429%2C1850&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T23:00:00+00:00",
-   "title_ja": "生駒市の「たけまるくん」デザインTシャツ等を新店開業で発売",
-   "summary_ja": "2026年10月23日の新店開業に合わせて、生駒市のマスコットキャラクター「たけまるくん」をあしらったオリジナルTシャツとトートバッグが発売されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "73064138d69834e6",
-   "url": "https://news.mynavi.jp/article/20261022-5164066",
-   "title_original": "【ユニクロ】昔の定番「フリース」、若者には「今っぽい」アイテムに!? 世代で異なるイメージが明らかに",
-   "source": "マイナビニュース",
-   "image": "https://news.mynavi.jp/article/20261022-5164066/ogp_images/ogp.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T22:00:00+00:00",
-   "title_ja": "ユニクロのフリースに対する印象に世代差、若者の間ではトレンドアイテムに",
-   "summary_ja": "ユニクロの定番商品である「フリース」について、世代ごとに抱くイメージの差異が明らかになった。かつての定番アイテムという印象を持つ世代がいる一方、若い世代にとってはトレンド感のある「今っぽい」ファッションアイテムとして受け止められている。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a259ef812efed4e9",
-   "url": "https://victorysportsnews.com/articles/9307",
-   "title_original": "世界のトップカーラーが軽井沢に集結 ユニクロがサポートするスウェーデン代表金メダリストと吉田知那美が語る夢の叶え方",
-   "source": "VICTORY [ビクトリー]",
-   "image": "https://s3-ap-northeast-1.amazonaws.com/vsn-p/contents/9307/81e9704d75843ab1061ea01db42f832d841fa3b65d97f43e62e6a4cfa0fa585f.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-21T22:00:00+00:00",
-   "title_ja": "ユニクロ支援のカーリング金メダリストと吉田知那美選手が軽井沢で夢を語る",
-   "summary_ja": "ユニクロがサポートするスウェーデン代表のカーリング金メダリストと吉田知那美選手が軽井沢に集結し、夢の叶え方について語り合いました。世界のトップカーラーによる対談企画となっています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
    "has_detail": true
   }
  ]
