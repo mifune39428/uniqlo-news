@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T12:10:14.314139+09:00",
+ "updated_at": "2026-11-08T21:23:22.647131+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -161,6 +161,7 @@
   "www.daily-sun.com",
   "| 繊研新聞",
   "ИФЗ РАН",
+  "│BABYDOT（ベイビードット）",
   "いこーよニュース",
   "ねとらぼ",
   "アセアンポータル",
@@ -221,48 +222,50 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 232,
+ "detail_count": 234,
  "digest": {
-  "headline": "ファーストリテイリング過去最高益、京都に新旗艦店開業も",
+  "headline": "ファーストリテイリングが過去最高益、京都に新旗艦店開業",
   "points": [
    {
-    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高4兆円規模への成長と今後の展望が注目されています。",
+    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高4兆円規模への成長に向けた展望に注目が集まっている。",
     "ids": [
      "586c9f749a614b23"
     ]
    },
    {
-    "text": "ユニクロの中国事業トップである潘寧氏が上海で取材に応じ、現地での店舗数を現在の3倍以上に増やす目標を掲げました。",
+    "text": "ユニクロは中国事業における店舗数を現在の3倍以上に拡大する目標を掲げ、現地でのさらなる事業強化を進める方針を示した。",
     "ids": [
      "7d29eb424f4b615c",
-     "10d01bace2c43e2b"
+     "10d01bace2c43e2b",
+     "e60883a522f30898"
     ]
    },
    {
-    "text": "京都に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」が開業し、西日本初となるカフェなども併設されています。",
+    "text": "京都市に西日本初のカフェを併設したグローバル旗艦店「ユニクロ 京都」が開業し、地域の文化や魅力を発信する拠点となる。",
     "ids": [
-     "0a19f0a644c8f786",
-     "63cf9ade1b73051c",
-     "71a8c1d4cc481fd7"
+     "6b3ea10bef5d9e01",
+     "9baada70ff0bbee1",
+     "c93f64cae3e27f57"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンによる、花刺繍のフリースなどを展開する2026年秋冬コラボレーションが発表されました。",
+    "text": "ユニクロとセシリー・バンセンによる、お花モチーフの刺繍をあしらったフリースなどの2026年秋冬コラボコレクションが発表された。",
     "ids": [
      "95c3317568fda465",
-     "17230a8623e4d79b"
+     "17230a8623e4d79b",
+     "a0338666420ad94d"
     ]
    },
    {
-    "text": "SNSではユニクロ フーデッドリブTが急上昇し、Xで3日に9件投稿されました。",
+    "text": "SNSでは、ユニクロのデニムトラッカージャケットがXで17件投稿されるなど話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-05T12:15:47.723912+09:00",
-  "generated_at": "2026-11-08T12:15:49.503352+09:00",
+  "from": "2026-11-05T21:31:54.814997+09:00",
+  "generated_at": "2026-11-08T21:31:56.574501+09:00",
   "article_count": 24,
-  "sig": "1253428b7321"
+  "sig": "2b5feca573a8"
  },
  "items": [
   {
@@ -279,7 +282,71 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "382c1a96c4598218",
+   "url": "https://www.baby-babys.com/entry/uniqlo-sanrio11-er21",
+   "title_original": "可愛さの破壊力エグすぎ…2500円以下は破格！大ヒットの予感！【ユニクロ】サンリオキャラクターズUT11月下旬～発売！",
+   "source": "│BABYDOT（ベイビードット）",
+   "image": "https://www.baby-babys.com/wp-content/uploads/2023/12/IMG_4192.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T09:15:45+00:00",
+   "title_ja": "ユニクロ「サンリオキャラクターズUT」が11月下旬より発売決定",
+   "summary_ja": "ユニクロは、サンリオのキャラクターをデザインした新作グラフィックTシャツ「サンリオキャラクターズUT」を11月下旬から発売します。2,500円以下の手頃な価格帯で展開され、コレクションの登場に期待が高まっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "68c9cff6e9da7cd7",
+   "url": "https://news.yahoo.co.jp/articles/796e70a9cbd7330fc6594fd5b9efb9ad57dcab64",
+   "title_original": "ユニクロの「おさるのジョージ」子ども向けパジャマコレクションが可愛い！服にはジョージをワッペンでデザイン（インサイド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000031-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T08:25:02+00:00",
+   "title_ja": "ユニクロから「おさるのジョージ」デザインの子ども向けパジャマが登場",
+   "summary_ja": "ユニクロから、人気キャラクター「おさるのジョージ」をモチーフにした子ども向けパジャマコレクションが登場します。服にはジョージのワッペンがあしらわれるなど、可愛らしいデザインが魅力です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1f895f74984857a9",
+   "url": "https://nlab.itmedia.co.jp/research/articles/4086650",
+   "title_original": "「これ以外履けないんです」「廃盤は死活問題」 ユニクロの“黒のレギンスパンツ”が復活 「動きやすさとフィット感が最高」「冗談ではなく50枚は買った」の声 | ファッション ねとらぼリサーチ",
+   "source": "ねとらぼ",
+   "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2025/08/1754294708_8a24481edccab8172590418d529d9167.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T04:40:00+00:00",
+   "title_ja": "ユニクロの「黒レギンスパンツ」が復活、高いフィット感と動きやすさで話題",
+   "summary_ja": "ユニクロで人気の「黒のレギンスパンツ」が再登場し、愛用者から喜びの声が上がっています。優れたフィット感と動きやすさが評価されており、長年愛用するファンを中心に注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a131a2ba684e30aa",
+   "url": "https://news.yahoo.co.jp/articles/a10aec70e6807bdfd9992c5370dd9ab67d544f10?page=2",
+   "title_original": "「10本以上買っています」 ユニクロの“大好評パンツ”がもうすぐ値上げ 「仕事にもゴルフにも使える」「締め付け感が全くなくて最高です」（ねとらぼ）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-10176160-it_nlab-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-07T13:20:00+00:00",
+   "title_ja": "ユニクロで人気を集めるパンツが近々値上げへ　愛用者からは惜しむ声も",
+   "summary_ja": "仕事からゴルフまで幅広く活用でき、締め付け感のない履き心地でリピーターも多いユニクロのパンツが、まもなく値上げされる予定です。愛用者からは複数本所有しているという声も上がっており、価格改定に注目が集まっています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "fd808b5800501287",
@@ -6600,70 +6667,6 @@
    "brand": "グループ",
    "importance": 2,
    "has_detail": true
-  },
-  {
-   "id": "677166f29dfeb91d",
-   "url": "https://pokde.net/lifestyle/shopping/monchhichi-embroidery-re-uniqlo-studio",
-   "title_original": "UNIQLO Brings Monchhichi Embroidery Designs to RE.UNIQLO STUDIO in Malaysia",
-   "source": "Pokde.Net",
-   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/23002325/uniqlo-monchhichi-embroidery-re-uniqlo-studio-featured.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T16:50:35+00:00",
-   "title_ja": "マレーシアの「RE.UNIQLO STUDIO」にモンチッチの刺繍デザインが登場",
-   "summary_ja": "マレーシアの「RE.UNIQLO STUDIO」において、モンチッチの刺繍デザインが導入された。利用者は手持ちの服の補修やリメイクなどのカスタマイズサービスを利用する際、モンチッチのデザインを選択することができる。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "34e99f940fdf4057",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102146813",
-   "title_original": "「もころん」や京王電鉄「けい太くん」と「もころん×けい太くん」コラボも登場♪ユニクロ世田谷千歳台店リニューアルオープンを記念しコラボ商品が登場！",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1486001530820919457/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T14:01:02+00:00",
-   "title_ja": "ユニクロ世田谷千歳台店、リニューアルでコラボ商品を発売",
-   "summary_ja": "ユニクロ世田谷千歳台店のリニューアルオープンを記念し、「もころん」や京王電鉄の「けい太くん」などとコラボレーションした限定商品が登場します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "bf84526d821f0405",
-   "url": "https://www.indianretailer.com/brandlicense/archives/news/uniqlo-and-francesco-risso-collaborate-2026-knitwear-capsule.n6124",
-   "title_original": "UNIQLO and Francesco Risso Collaborate on 2026 Knitwear Capsule",
-   "source": "Indian Retailer",
-   "image": "https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Untitled%20design%20-%202026-10-22T165817.153.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-22T12:25:30+00:00",
-   "title_ja": "ユニクロ、フランチェスコ・リッソとの2026年ニットウェアを発表",
-   "summary_ja": "ユニクロは、フランチェスコ・リッソ氏とタッグを組んだ2026年向けのニットウェアカプセルコレクションを発表しました。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1fa7ad6053154050",
-   "url": "http://www.excite.co.jp/news/article/SmartFLASH_1485970584669700564",
-   "title_original": "ユニクロ、一部商品値上げ発表で消費者思わず「高級服」SNSで悲痛な叫び…会社に聞いた「隙あらば安く」の可能性",
-   "source": "Excite エキサイト",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T11:56:00+00:00",
-   "title_ja": "ユニクロの一部商品値上げに対しSNSで反響　価格方針について企業へ取材",
-   "summary_ja": "ユニクロの一部商品値上げ発表に対し、SNS上では消費者から驚きや悲痛の声があがっている。記事ではユニクロを展開するファーストリテイリングに対し、今後の価格設定や値下げの可能性などについて取材を行っている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
