@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T06:11:46.060408+09:00",
+ "updated_at": "2026-11-08T12:10:14.314139+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -32,6 +32,7 @@
   "Branding in Asia",
   "BroadwayWorld",
   "Business Examiner",
+  "Business News Wales",
   "BusinessMirror",
   "CTV News",
   "Cate Blanchett Fan",
@@ -145,6 +146,7 @@
   "ad-hoc-news.de",
   "adobo Magazine",
   "dhakamagazine.com",
+  "hicbc.com",
   "https://mediadogs.jp/",
   "https://miyoca.jp/",
   "https://www.japancanadatoday.ca/",
@@ -179,7 +181,6 @@
   "ファッションプレス",
   "フロントロウ",
   "マイナビ子育て",
-  "マイライフニュース",
   "モデルプレス",
   "ラブすぽ",
   "一般財団法人 日本気象協会",
@@ -220,52 +221,66 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 232,
  "digest": {
-  "headline": "ユニクロが京都に旗艦店を開業し、最高益や中国事業の強化も発表",
+  "headline": "ファーストリテイリング過去最高益、京都に新旗艦店開業も",
   "points": [
    {
-    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、投資単位の引き下げ方針も開示しました。",
+    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高4兆円規模への成長と今後の展望が注目されています。",
     "ids": [
-     "586c9f749a614b23",
-     "024c40631e807b9d"
+     "586c9f749a614b23"
     ]
    },
    {
-    "text": "ユニクロの中国事業では、店舗数を現在の3倍以上に拡大する目標が掲げられました。",
+    "text": "ユニクロの中国事業トップである潘寧氏が上海で取材に応じ、現地での店舗数を現在の3倍以上に増やす目標を掲げました。",
     "ids": [
      "7d29eb424f4b615c",
      "10d01bace2c43e2b"
     ]
    },
    {
-    "text": "京都に西日本初のカフェ併設や景観に配慮した「白いユニクロ」を含む新たなグローバル旗艦店が開業しました。",
+    "text": "京都に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」が開業し、西日本初となるカフェなども併設されています。",
     "ids": [
-     "6b3ea10bef5d9e01",
-     "9baada70ff0bbee1",
-     "858bfb84003b2f36"
+     "0a19f0a644c8f786",
+     "63cf9ade1b73051c",
+     "71a8c1d4cc481fd7"
     ]
    },
    {
-    "text": "セシリー・バンセンとのコラボ第2弾となる花刺繍フリースなどの2026年秋冬コレクションが発表されました。",
+    "text": "ユニクロとセシリー・バンセンによる、花刺繍のフリースなどを展開する2026年秋冬コラボレーションが発表されました。",
     "ids": [
      "95c3317568fda465",
-     "17230a8623e4d79b",
-     "a0338666420ad94d"
+     "17230a8623e4d79b"
     ]
    },
    {
-    "text": "SNSではユニクロのフーデッドリブTが注目を集め、Xで3日に9件投稿されました。",
+    "text": "SNSではユニクロ フーデッドリブTが急上昇し、Xで3日に9件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-05T06:17:34.265070+09:00",
-  "generated_at": "2026-11-08T06:17:35.718691+09:00",
+  "from": "2026-11-05T12:15:47.723912+09:00",
+  "generated_at": "2026-11-08T12:15:49.503352+09:00",
   "article_count": 24,
-  "sig": "b4ece867e9a4"
+  "sig": "1253428b7321"
  },
  "items": [
+  {
+   "id": "a25aec93010bf8d3",
+   "url": "https://hicbc.com/tv/program/?p=238623&s=0x0C18&e=46866&ed=20261107",
+   "title_original": "サタプラ🈑試して！ツナマヨおにぎり★新企画！ユニクロ秋冬アイテムの裏ワザましまし",
+   "source": "hicbc.com",
+   "image": "https://api2.bangumi.org/repix/monomedia/pgmst/207/media/onair/20250927/b034d056-363c-4314-9303-9afeb1b21a14.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T10:40:00+00:00",
+   "title_ja": "「サタプラ」でユニクロ秋冬アイテムの活用法や裏ワザを特集",
+   "summary_ja": "テレビ番組「サタプラ」にて、ユニクロの秋冬アイテムを活用する裏ワザが紹介される企画が放送される。ツナマヨおにぎりの検証企画とともに、日常で使える着こなしや商品の裏ワザなどが取り上げられる予定。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "fd808b5800501287",
    "url": "https://news.yahoo.co.jp/articles/69689470c46abfbef6cf4b8a988f6f86b15181b8",
@@ -409,6 +424,22 @@
    "brand": "ユニクロ",
    "importance": 5,
    "detail_tries": 2
+  },
+  {
+   "id": "1fd927016ac06ab4",
+   "url": "https://businessnewswales.com/uniqlo-announces-plans-to-open-first-welsh-store-in-cardiff",
+   "title_original": "UNIQLO Announces Plans to Open First Welsh Store in Cardiff",
+   "source": "Business News Wales",
+   "image": "https://businessnewswales.com/wp-content/uploads/uniqlo-announces-to-open-in-wales-in-autumn-2027-thumbnail.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T22:20:33+00:00",
+   "title_ja": "ユニクロがウェールズ初の店舗をカーディフに出店へ　拡大計画を発表",
+   "summary_ja": "ユニクロは、ウェールズ第1号店となる新店舗をカーディフにオープンする計画を発表しました。同地域への初進出となり、イギリス国内での店舗ネットワーク拡大に向けた取り組みの一環となります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "95c3317568fda465",
@@ -6633,38 +6664,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "69de18f91a253e5f",
-   "url": "https://prtimes.jp/main/html/rd/p/000000165.000068741.html",
-   "title_original": "RE.UNIQLO STUDIOでモンチッチの刺繍サービスが10月23日（金）より開始",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/68741/165/68741-165-9a731e691e47eba7118f726d973895eb-1600x1200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T11:00:02+00:00",
-   "title_ja": "ユニクロのRE.UNIQLO STUDIOでモンチッチ刺繍サービス開始",
-   "summary_ja": "ユニクロのリペア・リメイクサービス「RE.UNIQLO STUDIO」にて、人気キャラクター「モンチッチ」の刺繍サービスが提供される。利用者はアイテムを自分好みにカスタマイズできる。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "9d3e095a765b77c3",
-   "url": "https://www.mylifenews.net/fashion-style/131403",
-   "title_original": "ユニクロ、超大型店舗「ユニクロ 世田谷千歳台店」をリニューアルオープン、地域密着型店舗として「街の交流拠点」に進化",
-   "source": "マイライフニュース",
-   "image": "https://www.mylifenews.net/wp/wp-content/uploads/20261022uniq_000.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T10:56:48+00:00",
-   "title_ja": "超大型店舗「ユニクロ 世田谷千歳台店」が地域密着型の交流拠点へリニューアル",
-   "summary_ja": "ユニクロは、超大型店舗である「ユニクロ 世田谷千歳台店」をリニューアルオープンしました。地域密着型の店舗運営を推し進め、街の交流拠点としての進化を目指します。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
