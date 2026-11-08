@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T21:23:22.647131+09:00",
+ "updated_at": "2026-11-09T06:26:50.328349+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,6 +24,7 @@
   "Archiproducts",
   "AugustMan Singapore",
   "BAILA（バイラ）",
+  "BRABO News",
   "Banglanews24",
   "BigGo Finance",
   "BigGo ファイナンス",
@@ -222,7 +223,7 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 234,
+ "detail_count": 232,
  "digest": {
   "headline": "ファーストリテイリングが過去最高益、京都に新旗艦店開業",
   "points": [
@@ -233,7 +234,7 @@
     ]
    },
    {
-    "text": "ユニクロは中国事業における店舗数を現在の3倍以上に拡大する目標を掲げ、現地でのさらなる事業強化を進める方針を示した。",
+    "text": "ユニクロは中国での店舗数を現在の3倍以上に拡大する目標を掲げ、現地事業の強化を進めている。",
     "ids": [
      "7d29eb424f4b615c",
      "10d01bace2c43e2b",
@@ -241,33 +242,65 @@
     ]
    },
    {
-    "text": "京都市に西日本初のカフェを併設したグローバル旗艦店「ユニクロ 京都」が開業し、地域の文化や魅力を発信する拠点となる。",
+    "text": "京都に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初のカフェ併設や景観に配慮したデザインを採用した。",
     "ids": [
      "6b3ea10bef5d9e01",
-     "9baada70ff0bbee1",
-     "c93f64cae3e27f57"
+     "0a19f0a644c8f786",
+     "9baada70ff0bbee1"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンによる、お花モチーフの刺繍をあしらったフリースなどの2026年秋冬コラボコレクションが発表された。",
+    "text": "セシリー バンセンとの2026年秋冬コラボコレクションや、サンリオ・ムーミンなどの新作アイテムが発表された。",
     "ids": [
      "95c3317568fda465",
-     "17230a8623e4d79b",
-     "a0338666420ad94d"
+     "f4b58569a4aa8342",
+     "382c1a96c4598218"
     ]
    },
    {
-    "text": "SNSでは、ユニクロのデニムトラッカージャケットがXで17件投稿されるなど話題を集めている。",
+    "text": "SNSではユニクロ ウォッシャブルニットがXで11件投稿されるなど話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-05T21:31:54.814997+09:00",
-  "generated_at": "2026-11-08T21:31:56.574501+09:00",
+  "from": "2026-11-06T06:33:17.606758+09:00",
+  "generated_at": "2026-11-09T06:33:19.436536+09:00",
   "article_count": 24,
-  "sig": "2b5feca573a8"
+  "sig": "5812e4088bdb"
  },
  "items": [
+  {
+   "id": "f4b58569a4aa8342",
+   "url": "https://s.inside-games.jp/article/img/2026/11/08/190564/1798922.html",
+   "title_original": "ユニクロで「ムーミン」グッズが12月上旬に展開！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 3枚目の写真・画像",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1798922.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T13:00:03+00:00",
+   "title_ja": "ユニクロが12月上旬に「ムーミン」コラボのベビー用ボディスーツを発売",
+   "summary_ja": "ユニクロは12月上旬から、「ムーミン」のキャラクターを描いたベビー用ボディスーツ全6種を展開します。ムーミン谷の仲間たちをあしらった愛らしいデザインが特徴の新作アイテムです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "154400e6ff656a42",
+   "url": "https://news.yahoo.co.jp/articles/7042215fea29f48143b0ed0cb93f80e667b92f5c/images/000",
+   "title_original": "「3着も買いました」 ユニクロの“大好評ジャケット”が間もなく値上げ 「もう普通のスーツは要らない」「着ていて疲れにくく、スマートに見えます」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26nep1KdW1zIaAqjxvl0ootOZubdRG1rHqYwOGhiAHMYib4JtGL-T7JDuhuL5TvAUZKVR-h5SxPwmbMDzW-D261ILR00ZXaNhD45NeOBya4TGze5mH4su2UxtUvxGNWBt7A==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T12:00:00+00:00",
+   "title_ja": "ユニクロの注目ジャケットが値上げ間近 愛用者から高評価",
+   "summary_ja": "ユニクロの評判のジャケットが近く値上げされる見込みとなり、注目を集めています。疲れにくさとスマートな見た目を兼ね備えており、まとめ買いする愛用者も出るなど支持されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
   {
    "id": "a25aec93010bf8d3",
    "url": "https://hicbc.com/tv/program/?p=238623&s=0x0C18&e=46866&ed=20261107",
@@ -730,6 +763,22 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "1f84b82129051199",
+   "url": "https://brabonewsph.com/2026/11/06/metro-manila/gh-mall-unveils-dazzling-holiday-celebrations-and-uniqlo-partnership-marking-ortigas-lands-95th-anniversary/?amp=1",
+   "title_original": "GH Mall unveils dazzling holiday celebrations and UNIQLO partnership, marking Ortigas Land's 95th anniversary",
+   "source": "BRABO News",
+   "image": "https://brabonewsph.com/wp-content/uploads/2026/11/GH-Mall-Uniqlo-1.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-06T06:10:07+00:00",
+   "title_ja": "GHモールがホリデー祝祭とユニクロとの提携を発表",
+   "summary_ja": "オルティガス・ランドの95周年を記念し、GHモールが華やかなホリデーイベントの開催とユニクロとの提携を発表した。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6618,54 +6667,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "275420339b40487e",
-   "url": "https://www.lmaga.jp/news/2026/10/1111590",
-   "title_original": "【きょうオープン】生駒市民の知名度100％！？ ユニクロとコラボ、駅前の老舗文具店に「激アツすぎる」の声",
-   "source": "Lmaga.jp",
-   "image": "https://www.lmaga.jp/wp-content/uploads/2026/10/uniqloikoma_bungunoinamori1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T22:00:00+00:00",
-   "title_ja": "ユニクロが奈良・生駒の老舗文具店とコラボ、店舗オープンで話題に",
-   "summary_ja": "奈良県生駒市の駅前にある老舗文具店のオープンに合わせ、ユニクロとのコラボレーションが話題を呼んでいます。地元で高い知名度を誇る文具店とユニクロによる取り組みに注目が集まっています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7fe4c1813dfbc743",
-   "url": "https://news.yahoo.co.jp/articles/12d2a3ac5babfe98dbd50023e462e2223f70cd33",
-   "title_original": "【きょうオープン】生駒市民の知名度100％！？ ユニクロとコラボ、駅前の老舗文具店に「激アツすぎる」の声続出…限定アイテム登場（Lmaga.jp）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01111590-lmaga-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T22:00:00+00:00",
-   "title_ja": "生駒駅前の老舗文具店がユニクロとコラボ、限定品も",
-   "summary_ja": "生駒市民に馴染みのある老舗文具店とユニクロがコラボレーションし、限定アイテムが登場して大きな話題となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "51b25b041c1e5241",
-   "url": "https://news.yahoo.co.jp/articles/440c2976ca7510c71fe41a72e99fab55828efe56",
-   "title_original": "さすがだわ…ユニクロ柳井正が「オフィスが揺れる」ほど激怒した「わずかなミス」とは？（ダイヤモンド・オンライン）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00401718-diamond-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T20:30:36+00:00",
-   "title_ja": "柳井正氏が激怒した「わずかなミス」とは ファーストリテイリングの妥協なき姿勢",
-   "summary_ja": "ユニクロを傘下に持つファーストリテイリングの柳井正会長兼社長が、オフィスが揺れるほど激怒した過去のミスについて紹介する記事。同社の細部への徹底したこだわりや品質・経営に対する厳しい姿勢が伺えるエピソードが語られている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
    "has_detail": true
   }
  ]
