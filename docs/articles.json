@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T12:31:40.190992+09:00",
+ "updated_at": "2026-11-09T23:37:52.703446+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -49,6 +49,7 @@
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
+  "FashionNetwork USA",
   "Fashionista",
   "Fashionsnap.com",
   "Fast Retailing Co",
@@ -71,6 +72,7 @@
   "Insider Media Ltd",
   "It's On Cardiff",
   "JBpress",
+  "Korea JoongAng Daily",
   "Kyotopi [キョウトピ]",
   "LASISA",
   "LEE",
@@ -102,6 +104,7 @@
   "Ragtrader.com.au",
   "Record China",
   "Red Carpet Fashion Awards",
+  "Retail & Leisure International",
   "Retail Gazette",
   "Retail Insider",
   "SEVENTIE TWO",
@@ -184,7 +187,6 @@
   "フロントロウ",
   "マイナビ子育て",
   "モデルプレス",
-  "ラブすぽ",
   "一般財団法人 日本気象協会",
   "下野新聞社",
   "京都新聞デジタル",
@@ -216,60 +218,162 @@
   "繊研新聞",
   "西日本新聞me",
   "読売新聞",
-  "風傳媒",
   "매일경제",
   "아시아경제",
   "재경일보",
   "조선일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 227,
  "digest": {
-  "headline": "ファーストリテイリング最高益更新、京都の新旗艦店や海外展開も",
+  "headline": "ファーストリテイリング過去最高益、国内外の出店加速",
   "points": [
    {
-    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、柳井正会長は売上高10兆円に向け毎年5000億円の増収を目指す方針を示しました。",
+    "text": "ファーストリテイリングは競合を抑えて過去最高益を記録し、柳井会長は売上高10兆円に向け毎年5000億円の増収を目指す方針を示しました。",
     "ids": [
      "0824459de0fcf063",
      "586c9f749a614b23"
     ]
    },
    {
-    "text": "ユニクロは中国での店舗数を現在の3倍以上に拡大する目標を掲げ、イギリスのカーディフやシンガポールのノースポイント・シティ店など国内外で出店やリニューアルを進めています。",
+    "text": "ユニクロは中国での店舗数を3倍以上に増やす目標を掲げたほか、カナダ・バンクーバーへの旗艦店オープンやウェールズ初出店など海外展開を加速させています。",
     "ids": [
      "7d29eb424f4b615c",
-     "1fd927016ac06ab4",
-     "5f155f15cea4bd95"
+     "c3d5082cfb28e3bb",
+     "1fd927016ac06ab4"
     ]
    },
    {
-    "text": "京都にカフェ併設のグローバル旗艦店「ユニクロ 京都」がオープンした一方、10月は真夏日の影響で国内売上高がマイナスとなりました。",
+    "text": "セシリー バンセンとの再コラボ新作や花刺繍フリースなどの2026年秋冬コレクションが発表され、全型試着レビューも公開されています。",
     "ids": [
-     "6b3ea10bef5d9e01",
-     "9baada70ff0bbee1",
-     "d5eaf1c5299e28a1"
+     "9d0c307bdfd7e284",
+     "95c3317568fda465"
     ]
    },
    {
-    "text": "セシリー バンセンとの第2弾コラボフリースや、ハローキティ、スヌーピー、サンリオキャラクターズなどの新作UT・パジャマの発売が発表されました。",
-    "ids": [
-     "95c3317568fda465",
-     "17230a8623e4d79b",
-     "9696fc65e14424d8"
-    ]
-   },
-   {
-    "text": "SNSではユニクロのウォッシャブルニットがXで3日に11件投稿されたほか、ソフトニットフリースクルーネックTのレビューが7日で220件増加しています。",
+    "text": "SNSでは「ユニクロ ウォッシャブルニット」が話題となり、直近3日で14件の投稿を記録しています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-06T12:37:10.668950+09:00",
-  "generated_at": "2026-11-09T12:37:12.795458+09:00",
+  "from": "2026-11-06T23:50:35.922739+09:00",
+  "generated_at": "2026-11-09T23:50:40.942143+09:00",
   "article_count": 24,
-  "sig": "e4e4c0b06187"
+  "sig": "61c4ed103211"
  },
  "items": [
+  {
+   "id": "9d0c307bdfd7e284",
+   "url": "https://spur.hpplus.jp/fashion/wear/2026-11-09-tw4RTQ",
+   "title_original": "【ユニクロ×セシリー バンセン】再コラボの新作を全型試着！毎日着たいアウターから注目アイテムまで本音レビュー",
+   "source": "SPUR（シュプール）",
+   "image": "https://img-spur.hpplus.jp/image/cb/cb0b586e-bc51-41ff-8631-3857474d171e-1200x629.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T13:30:00+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの再コラボ新作が登場 全型試着レビュー公開",
+   "summary_ja": "ユニクロとセシリー バンセンによる再コラボレーションの新作コレクションが登場した。注目を集めるアウターをはじめとする全型アイテムを実際に試着し、仕上がりや着用感を詳しくレビューしている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "57297ac647455f68",
+   "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-sets-final-dividend-at-jpy-5-3-per-hdr",
+   "title_original": "Fast Retailing Sets Final Dividend at JPY 5.3 per HDR",
+   "source": "TipRanks",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T10:38:24+00:00",
+   "title_ja": "ファーストリテイリングがHDR1株あたり5.3円の期末配当を決定",
+   "summary_ja": "ファーストリテイリングが香港預託証券（HDR）の期末配当金を1株あたり5.3円に決定した。株主への利益還元に関わる決定であり、経営・投資観点から関心を集めている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "dbc5e134595ce660",
+   "url": "https://www.koreajoongangdaily.com/lifestyle/fashion-turns-a-new-page-uniqlo-launches-literary-magazine-as-books-become-cool-again/12953745",
+   "title_original": "Fashion turns a new page: Uniqlo launches literary magazine as books become cool again",
+   "source": "Korea JoongAng Daily",
+   "image": "https://image.koreajoongangdaily.com/12953804.jpg?imageId=12953804&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T09:56:31+00:00",
+   "title_ja": "ユニクロが文学雑誌を刊行 ファッションと読書文化を融合",
+   "summary_ja": "ユニクロが本の魅力を再発見する潮流に合わせて新たな文学雑誌を発行した。ファッションと読書を繋ぐ新しいカルチャーの発信を通じて、ブランドのファン層拡大を目指している。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "26e0a719f55f39ea",
+   "url": "https://www.rli.uk.com/uniqlo-steps-up-singapore-expansion",
+   "title_original": "Uniqlo Steps up Singapore Expansion",
+   "source": "Retail & Leisure International",
+   "image": "https://www.rli.uk.com/wp-content/uploads/2026/11/7b03e52e-d006-4ebe-ba78-69895b5da6f9.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T08:00:00+00:00",
+   "title_ja": "ユニクロがシンガポールでの店舗拡大を加速",
+   "summary_ja": "ユニクロがシンガポールにおける店舗網の拡大をさらに加速させています。東南アジア市場での存在感を高めるため、現地での出店ペースを上げ、事業の成長を図っています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "580f2e92559c5257",
+   "url": "https://news.yahoo.co.jp/articles/4f01897812b3aeacde74abaefb346fa2349d116e/images/000",
+   "title_original": "「何年も復活を切望してました」 ユニクロの“半袖ヒートテックT”が再登場！「やっと買い替えができる」「余分な重ね着をしなくてすみます」の声 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26nP4kLqHHBVxDKXHhBcsVqWz0cIuqxr44cUVU0XuTsQCxTwJSyPuC5sFJpDSRqncGUqVLF2s-7zrC9tYfx5VnleD9uoYWAJNbECsVQpcQ98EqMtZTht31_CQ7jw2oYRJUg==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T07:00:00+00:00",
+   "title_ja": "ユニクロの「半袖ヒートテックT」が再登場し話題に",
+   "summary_ja": "ユニクロの「半袖ヒートテックT」が再登場し、ユーザーから喜びの声が上がっています。余分な重ね着を減らせるアイテムとして、長年再発売を望んでいたファンから買い替えや買い増しを期待する反響が寄せられています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "c3d5082cfb28e3bb",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AB%E6%97%97%E8%89%A6%E5%BA%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%97-%E3%82%AB%E3%83%8A%E3%83%80%E3%81%A7%E3%81%AE%E5%BA%97%E8%88%97%E7%B6%B2%E3%82%92%E6%8B%A1%E5%A4%A7,1883032.html",
+   "title_original": "ユニクロ、バンクーバーに旗艦店をオープンし、カナダでの店舗網を拡大",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T05:18:02+00:00",
+   "title_ja": "ユニクロがカナダ・バンクーバーに旗艦店をオープン 店舗網を拡大",
+   "summary_ja": "ユニクロがカナダのバンクーバーに新たな旗艦店を開店し、現地の店舗ネットワークを拡大させていることが分かった。北米市場での更なる成長を目指し、カナダ国内での出店戦略を推し進めている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "b31a9ff37e65424e",
+   "url": "https://us.fashionnetwork.com/news/Uniqlo-expands-canadian-retail-footprint-with-vancouver-flagship,1882954.html",
+   "title_original": "Uniqlo expands Canadian retail footprint with Vancouver flagship",
+   "source": "FashionNetwork USA",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T05:18:02+00:00",
+   "title_ja": "ユニクロがバンクーバー旗艦店を開設しカナダ市場を拡大",
+   "summary_ja": "ユニクロがバンクーバーに旗艦店を開設し、カナダにおける出店ペースを加速させています。現地でのブランド認知度向上と北米事業の強化を図る取り組みとなっています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "8fe6d02d0bfe8e06",
    "url": "https://www.wazzup.ph/uniqlo-bgc-high-street-anniversary-sale-holiday-promo",
@@ -300,7 +404,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9696fc65e14424d8",
@@ -316,7 +420,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "19c426df68d30953",
@@ -364,7 +468,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0824459de0fcf063",
@@ -380,7 +484,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6ab5aa94de331909",
@@ -396,7 +500,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f4b58569a4aa8342",
@@ -6554,118 +6658,6 @@
    "title_ja": "ユニクロ、ハロンに初店舗を11月オープンへ",
    "summary_ja": "タインホアへの出店に続き、ユニクロが2026年11月にハロンで初となる店舗をオープン予定であることが発表されました。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4388c63a55dd6f5e",
-   "url": "https://www.vietnam.vn/ja/sau-thanh-hoa-uniqlo-tiep-tuc-khai-truong-cua-hang-dau-tien-tai-ha-long-vao-thang-11-2026",
-   "title_original": "ユニクロはタインホアでの開店に続き、2026年11月にはハロン湾に初の店舗をオープンする予定です。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/23/1792761355032_uniqlo-aeon-mall-ha-long-se-khai-truong-vao-11112026-png.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T09:11:36+00:00",
-   "title_ja": "ユニクロがベトナムのタインホアに続き2026年11月にハロン湾へ初出店へ",
-   "summary_ja": "ユニクロはベトナムのタインホアでの店舗オープンに続き、2026年11月にハロン湾エリア初となる店舗を開店する予定だ。同国での店舗網拡大をさらに推し進めている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4da4b34e57c6bc49",
-   "url": "https://mdpr.jp/other/4864053",
-   "title_original": "ユニクロ、東京のロードサイド大型店を20年ぶりにリニューアル 地域住民に寄り添う",
-   "source": "モデルプレス",
-   "image": "https://img-mdpr.freetls.fastly.net/article/Y_oc/nm/Y_occ_8B6PZ8K-j-gNjJzrG4hKZ_TLoBm65Hh63o2dk.jpg?width=700&disable=upscale&auto=webp&quality=80",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T07:45:00+00:00",
-   "title_ja": "ユニクロが東京都内のロードサイド大型店舗を20年ぶりにリニューアルオープン",
-   "summary_ja": "ユニクロが東京都内にあるロードサイドの大型店舗を20年ぶりにリニューアルしました。地域住民の暮らしに寄り添う店舗を目指し、店内やサービスを刷新しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "c38bf2e21fa33d6f",
-   "url": "https://news.yahoo.co.jp/articles/31be80adaec6c190b87398ecd9740a10764deccb",
-   "title_original": "千歳台のユニクロが開業20年で大規模改装 コーヒーや生花、骨格診断も（みんなの経済新聞ネットワーク）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000033-minkei-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T07:15:58+00:00",
-   "title_ja": "千歳台のユニクロが開業20周年で大規模改装、カフェや生花販売も導入",
-   "summary_ja": "開業から20周年を迎えた千歳台のユニクロ店舗が大規模な改装を実施しました。売場の刷新にとどまらず、コーヒーの提供や生花販売、骨格診断など新たな体験サービスを開始しています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3e0acc03ebdeff14",
-   "url": "https://news.shoninsha.co.jp/promotion/322211",
-   "title_original": "ユニクロnews｜10/23から｢モンチッチ｣刺繍サービス開始",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T05:48:30+00:00",
-   "title_ja": "ユニクロが「モンチッチ」の刺繍サービスを開始　10月23日より提供",
-   "summary_ja": "ユニクロは2026年10月23日より、人気キャラクター「モンチッチ」のデザインを選べる刺繍サービスを開始した。オリジナルのウェアやグッズを作れるカスタマイズサービスとして提供される。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1d35b541d58a58a8",
-   "url": "https://love-spo.com/article/plst%EF%BC%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86%EF%BC%89%E3%80%81%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA%E5%BA%97%E3%82%92%E3%80%8C%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86-%E4%BA%AC%E9%83%BD",
-   "title_original": "PLST（プラステ）、京都河原町店を「プラステ 京都店」として11月6日（金）リニューアルオープン",
-   "source": "ラブすぽ",
-   "image": "https://love-spo.com/wp-content/uploads/2026/10/134893-82-f293b8cf2797ded4a66b2181a70882be-1200x400-1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T05:30:00+00:00",
-   "title_ja": "PLST京都河原町店が「プラステ 京都店」として11月6日にリニューアル",
-   "summary_ja": "ファーストリテイリンググループのブランド「PLST（プラステ）」が、京都河原町店を「プラステ 京都店」として11月6日（金）にリニューアルオープンします。店舗名称を変更して営業を再開する告知です。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f3c20d18309177bb",
-   "url": "https://japan.storm.mg/articles/1175221",
-   "title_original": "ユニクロのRE.UNIQLO STUDIOにモンチッチの刺繍が新登場 全14種のデザインで10月23 日より提供開始",
-   "source": "風傳媒",
-   "image": "https://images.storm.mg/cloud/c94c329db30bba8c86adcac4e7ec99fd61b181ec.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2238237%2FBRH3y8u30W8m5Y2mHySVea9cPEpAh7qAMAyV2ocN.jpg&g=sm&h=900&resize=fill&w=1600&format=jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T04:15:00+00:00",
-   "title_ja": "リウニクロスタジオにモンチッチの刺繍デザインが登場",
-   "summary_ja": "ユニクロのRE.UNIQLO STUDIOにて、モンチッチの刺繍サービスが10月23日より開始された。全14種類のデザインが提供される。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "ed14491d1bcbeb46",
-   "url": "https://newswav.com/article/uniqlo-f-risso-returns-with-a-knitwear-collection-made-for-dreaming-A2610_Q0v3BL",
-   "title_original": "UNIQLO F.RISSO Returns with a Knitwear Collection ‘Made for Dreaming’",
-   "source": "Newswav",
-   "image": "https://thestoly.com/wp-content/uploads/2026/10/Offer-post-46-150x150.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T03:54:44+00:00",
-   "title_ja": "ユニクロ、ニットウェアコレクションを発表",
-   "summary_ja": "ユニクロは、新たなニットウェアコレクション「Made for Dreaming」の展開を開始する。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
