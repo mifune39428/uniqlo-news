@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T06:28:42.437868+09:00",
+ "updated_at": "2026-11-09T12:34:00.253003+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -20,7 +20,7 @@
  "history_since": "2026-09-19",
  "history_days": 17,
  "catalog_size": 2882,
- "count": 54,
+ "count": 55,
  "items": [
   {
    "key": "UQ:E470143-000",
@@ -307,39 +307,8 @@
    "rising": true
   },
   {
-   "key": "UQ:E475053-000",
-   "rank": 12,
-   "brand": "ユニクロ",
-   "name": "スムースコットンクルーネックセーター",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_42_475053_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475053-000/00?colorDisplayCode=42",
-   "rating": 4.5,
-   "reviews": 3397,
-   "reviews7": 92,
-   "capped": false,
-   "prev7": 54,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【UNIQLO:C】もう一色欲しい！話題のユニクロコラボ新作「スムースコットンクルーネックセーター」を正直レビュー",
-     "s": "BAILA（バイラ）",
-     "u": "https://baila.hpplus.jp/blogs/fujino_mari/84524"
-    }
-   ],
-   "score": 102,
-   "momentum": 1.05,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E487585-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "ハーフボタンスウェットプルオーバー",
    "genders": [
@@ -362,8 +331,57 @@
    "rising": false
   },
   {
-   "key": "UQ:E484710-000",
+   "key": "UQ:E487396-000",
+   "rank": 13,
+   "brand": "ユニクロ",
+   "name": "ユーティリティコットンブレンドパーカ",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 2990,
+   "promo": 2990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487396/item/jpgoods_57_487396_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E487396-000/00?colorDisplayCode=57",
+   "rating": 4.5,
+   "reviews": 166,
+   "reviews7": 58,
+   "capped": false,
+   "prev7": 47,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 99,
+   "momentum": 1.7,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E475053-000",
    "rank": 14,
+   "brand": "ユニクロ",
+   "name": "スムースコットンクルーネックセーター",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 3990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475053/item/jpgoods_42_475053_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475053-000/00?colorDisplayCode=42",
+   "rating": 4.5,
+   "reviews": 3397,
+   "reviews7": 92,
+   "capped": false,
+   "prev7": 54,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 97,
+   "momentum": 1.05,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E484710-000",
+   "rank": 15,
    "brand": "ユニクロ",
    "name": "ウルトラストレッチスウェットセット",
    "genders": [
@@ -386,8 +404,39 @@
    "rising": false
   },
   {
+   "key": "UQ:E475344-000",
+   "rank": 16,
+   "brand": "ユニクロ",
+   "name": "ジャージーバレルレッグパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 3990,
+   "promo": 3990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
+   "rating": 4.5,
+   "reviews": 6110,
+   "reviews7": 80,
+   "capped": false,
+   "prev7": 109,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "【64歳マダム】無印良品の薄手コート×ユニクロのジャージーバレルレッグパンツで秋コーデ！“ヒョウ柄ストールの差し色”が映える着こなしに魅了（LIMO）",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/f4d8ff8e9bf8e03952a4e10f4e83fcda6177ba89"
+    }
+   ],
+   "score": 87,
+   "momentum": 1.03,
+   "new": false,
+   "rising": false
+  },
+  {
    "key": "UQ:E482605-000",
-   "rank": 15,
+   "rank": 17,
    "brand": "ユニクロ",
    "name": "50色ソックス",
    "genders": [
@@ -412,7 +461,7 @@
   },
   {
    "key": "UQ:E453754-000",
-   "rank": 16,
+   "rank": 18,
    "brand": "ユニクロ",
    "name": "ウォッシャブルミラノリブクルーネックセーター",
    "genders": [
@@ -421,8 +470,8 @@
    ],
    "price": 3990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/453754/item/jpgoods_31_453754_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E453754-000/00?colorDisplayCode=31",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/453754/item/jpgoods_52_453754_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E453754-000/00?colorDisplayCode=52",
    "rating": 4.6,
    "reviews": 5135,
    "reviews7": 82,
@@ -437,7 +486,7 @@
   },
   {
    "key": "UQ:E487488-000",
-   "rank": 17,
+   "rank": 19,
    "brand": "ユニクロ",
    "name": "メリノブレンドシャツカラーカーディガン",
    "genders": [
@@ -461,33 +510,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E475344-000",
-   "rank": 18,
-   "brand": "ユニクロ",
-   "name": "ジャージーバレルレッグパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": 3990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
-   "rating": 4.5,
-   "reviews": 6110,
-   "reviews7": 80,
-   "capped": false,
-   "prev7": 109,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 82,
-   "momentum": 1.03,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E471809-000",
-   "rank": 19,
+   "rank": 20,
    "brand": "ユニクロ",
    "name": "スウェットワイドパンツ",
    "genders": [
@@ -512,7 +536,7 @@
   },
   {
    "key": "UQ:E447780-000",
-   "rank": 20,
+   "rank": 21,
    "brand": "ユニクロ",
    "name": "感動パンツ",
    "genders": [
@@ -536,7 +560,7 @@
   },
   {
    "key": "UQ:E488163-000",
-   "rank": 21,
+   "rank": 22,
    "brand": "ユニクロ",
    "name": "ドライスウェットワイドパンツ",
    "genders": [
@@ -560,7 +584,7 @@
   },
   {
    "key": "GU:E361309-000",
-   "rank": 22,
+   "rank": 23,
    "brand": "GU",
    "name": "フェザーヤーンVネックカーディガン",
    "genders": [
@@ -585,7 +609,7 @@
   },
   {
    "key": "GU:E360578-000",
-   "rank": 23,
+   "rank": 24,
    "brand": "GU",
    "name": "ウォームリブクルーネックT(12分袖)",
    "genders": [
@@ -609,7 +633,7 @@
   },
   {
    "key": "UQ:E486451-000",
-   "rank": 24,
+   "rank": 25,
    "brand": "ユニクロ",
    "name": "絵本コレクション キルトパジャマ/パンどろぼう",
    "genders": [
@@ -633,7 +657,7 @@
   },
   {
    "key": "GU:E361840-000",
-   "rank": 25,
+   "rank": 26,
    "brand": "GU",
    "name": "ウォームシアークルーネックT(12分袖)",
    "genders": [
@@ -657,7 +681,7 @@
   },
   {
    "key": "GU:E360451-000",
-   "rank": 26,
+   "rank": 27,
    "brand": "GU",
    "name": "フリースフーデッドオーバーサイズベスト ENGINEERED GARMENTS (オーバーサイズフィット)",
    "genders": [
@@ -682,7 +706,7 @@
   },
   {
    "key": "GU:E357378-000",
-   "rank": 27,
+   "rank": 28,
    "brand": "GU",
    "name": "ウォームパデッドパーカ(2025年度冬商品)",
    "genders": [
@@ -707,7 +731,7 @@
   },
   {
    "key": "GU:E360868-000",
-   "rank": 28,
+   "rank": 29,
    "brand": "GU",
    "name": "フェイクムートンショートブーツ",
    "genders": [
@@ -731,7 +755,7 @@
   },
   {
    "key": "UQ:E487337-000",
-   "rank": 29,
+   "rank": 30,
    "brand": "ユニクロ",
    "name": "ピーナッツ ドライスウェットシャツ",
    "genders": [
@@ -755,7 +779,7 @@
   },
   {
    "key": "UQ:E488426-000",
-   "rank": 30,
+   "rank": 31,
    "brand": "ユニクロ",
    "name": "ドライスウェットパンツ",
    "genders": [
@@ -779,7 +803,7 @@
   },
   {
    "key": "GU:E358176-000",
-   "rank": 31,
+   "rank": 32,
    "brand": "GU",
    "name": "ソフトシアークルーネックT(長袖)",
    "genders": [
@@ -803,7 +827,7 @@
   },
   {
    "key": "GU:E360457-000",
-   "rank": 32,
+   "rank": 33,
    "brand": "GU",
    "name": "トラックジャケット(オーバーサイズフィット)",
    "genders": [
@@ -828,7 +852,7 @@
   },
   {
    "key": "GU:E361591-000",
-   "rank": 33,
+   "rank": 34,
    "brand": "GU",
    "name": "コージーメルトンスカート",
    "genders": [
@@ -852,7 +876,7 @@
   },
   {
    "key": "GU:E360524-000",
-   "rank": 34,
+   "rank": 35,
    "brand": "GU",
    "name": "コーデュロイスーパーワイドパンツ",
    "genders": [
@@ -877,7 +901,7 @@
   },
   {
    "key": "UQ:E491700-000",
-   "rank": 35,
+   "rank": 36,
    "brand": "ユニクロ",
    "name": "エアリズム3Dマスク/2枚組",
    "genders": [
@@ -903,7 +927,7 @@
   },
   {
    "key": "GU:E361513-000",
-   "rank": 36,
+   "rank": 37,
    "brand": "GU",
    "name": "スーパーオーバーサイズニットガウン",
    "genders": [
@@ -927,7 +951,7 @@
   },
   {
    "key": "UQ:E486658-000",
-   "rank": 37,
+   "rank": 38,
    "brand": "ユニクロ",
    "name": "ソフトニットフリースクルーネックTシャツ",
    "genders": [
@@ -951,7 +975,7 @@
   },
   {
    "key": "UQ:E474860-000",
-   "rank": 38,
+   "rank": 39,
    "brand": "ユニクロ",
    "name": "エアリズムウルトラストレッチセット",
    "genders": [
@@ -975,7 +999,7 @@
   },
   {
    "key": "UQ:E483447-000",
-   "rank": 39,
+   "rank": 40,
    "brand": "ユニクロ",
    "name": "ドライスウェットシャツ",
    "genders": [
@@ -999,7 +1023,7 @@
   },
   {
    "key": "GU:E361311-000",
-   "rank": 40,
+   "rank": 41,
    "brand": "GU",
    "name": "フルジップニットジャケット Pokémon",
    "genders": [
@@ -1024,7 +1048,7 @@
   },
   {
    "key": "GU:E360521-000",
-   "rank": 41,
+   "rank": 42,
    "brand": "GU",
    "name": "スムーススウェット3Dバレルパンツ",
    "genders": [
@@ -1049,7 +1073,7 @@
   },
   {
    "key": "GU:E361310-000",
-   "rank": 42,
+   "rank": 43,
    "brand": "GU",
    "name": "ケーブルクルーネックカーディガン ENGINEERED GARMENTS",
    "genders": [
@@ -1074,7 +1098,7 @@
   },
   {
    "key": "GU:E360875-000",
-   "rank": 43,
+   "rank": 44,
    "brand": "GU",
    "name": "フェイクレザーバルーンヘムパーカ",
    "genders": [
@@ -1099,7 +1123,7 @@
   },
   {
    "key": "GU:E361338-000",
-   "rank": 44,
+   "rank": 45,
    "brand": "GU",
    "name": "マシュマロフィールラウンジセット(長袖＆ロングパンツ)",
    "genders": [
@@ -1124,7 +1148,7 @@
   },
   {
    "key": "UQ:E486660-000",
-   "rank": 45,
+   "rank": 46,
    "brand": "ユニクロ",
    "name": "フリースフルジップジャケット",
    "genders": [
@@ -1159,7 +1183,7 @@
   },
   {
    "key": "UQ:E488861-000",
-   "rank": 46,
+   "rank": 47,
    "brand": "ユニクロ",
    "name": "ボディスーツ",
    "genders": [
@@ -1194,7 +1218,7 @@
   },
   {
    "key": "UQ:E490470-000",
-   "rank": 47,
+   "rank": 48,
    "brand": "ユニクロ",
    "name": "パデッドブルゾン",
    "genders": [
@@ -1218,7 +1242,7 @@
   },
   {
    "key": "UQ:E486631-000",
-   "rank": 48,
+   "rank": 49,
    "brand": "ユニクロ",
    "name": "バレルレッグジーンズ",
    "genders": [
@@ -1248,7 +1272,7 @@
   },
   {
    "key": "GU:E361672-000",
-   "rank": 49,
+   "rank": 50,
    "brand": "GU",
    "name": "TEENフェイクレザーブルゾンJR",
    "genders": [
@@ -1272,7 +1296,7 @@
   },
   {
    "key": "GU:E361435-000",
-   "rank": 50,
+   "rank": 51,
    "brand": "GU",
    "name": "KIDSウルトラストレッチスキニージーンズ",
    "genders": [
@@ -1296,7 +1320,7 @@
   },
   {
    "key": "GU:E360863-000",
-   "rank": 51,
+   "rank": 52,
    "brand": "GU",
    "name": "GIRLSフェザーヤーンフラワーボタンカーディガン",
    "genders": [
@@ -1320,7 +1344,7 @@
   },
   {
    "key": "GU:E361790-000",
-   "rank": 52,
+   "rank": 53,
    "brand": "GU",
    "name": "GIRLSウォームリブフリルネックT(12分袖)",
    "genders": [
@@ -1344,7 +1368,7 @@
   },
   {
    "key": "GU:E358474-000",
-   "rank": 53,
+   "rank": 54,
    "brand": "GU",
    "name": "KIDSヘビーウェイトスウェットフルジップパーカ",
    "genders": [
@@ -1368,7 +1392,7 @@
   },
   {
    "key": "GU:E362895-000",
-   "rank": 54,
+   "rank": 55,
    "brand": "GU",
    "name": "GIRLSライトデニムバルーンパンツ",
    "genders": [

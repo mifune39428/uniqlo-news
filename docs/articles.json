@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T06:26:50.328349+09:00",
+ "updated_at": "2026-11-09T12:31:40.190992+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -21,6 +21,7 @@
   "5 Dariya News",
   "A1 Retail Magazine",
   "AOL.co.uk",
+  "Alvinology",
   "Archiproducts",
   "AugustMan Singapore",
   "BAILA（バイラ）",
@@ -114,7 +115,6 @@
   "TVer",
   "The Business of Fashion",
   "The CSR Universe",
-  "The Economic Times",
   "The Financial Express",
   "The Independent",
   "The Sole Supplier",
@@ -140,6 +140,7 @@
   "WWDJAPAN",
   "Wales 247",
   "Wales Online",
+  "Wazzup.PH",
   "Women Love Tech",
   "Yahoo News Canada",
   "Yahoo!ニュース",
@@ -160,12 +161,11 @@
   "stupidDOPE",
   "vietnamnews.vn",
   "www.daily-sun.com",
-  "| 繊研新聞",
   "ИФЗ РАН",
   "│BABYDOT（ベイビードット）",
   "いこーよニュース",
+  "にじめん",
   "ねとらぼ",
-  "アセアンポータル",
   "アラブニュース",
   "インサイド",
   "ウォーカープラス",
@@ -223,52 +223,181 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 232,
+ "detail_count": 230,
  "digest": {
-  "headline": "ファーストリテイリングが過去最高益、京都に新旗艦店開業",
+  "headline": "ファーストリテイリング最高益更新、京都の新旗艦店や海外展開も",
   "points": [
    {
-    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高4兆円規模への成長に向けた展望に注目が集まっている。",
+    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、柳井正会長は売上高10兆円に向け毎年5000億円の増収を目指す方針を示しました。",
     "ids": [
+     "0824459de0fcf063",
      "586c9f749a614b23"
     ]
    },
    {
-    "text": "ユニクロは中国での店舗数を現在の3倍以上に拡大する目標を掲げ、現地事業の強化を進めている。",
+    "text": "ユニクロは中国での店舗数を現在の3倍以上に拡大する目標を掲げ、イギリスのカーディフやシンガポールのノースポイント・シティ店など国内外で出店やリニューアルを進めています。",
     "ids": [
      "7d29eb424f4b615c",
-     "10d01bace2c43e2b",
-     "e60883a522f30898"
+     "1fd927016ac06ab4",
+     "5f155f15cea4bd95"
     ]
    },
    {
-    "text": "京都に国内5カ所目となるグローバル旗艦店「ユニクロ 京都」がオープンし、西日本初のカフェ併設や景観に配慮したデザインを採用した。",
+    "text": "京都にカフェ併設のグローバル旗艦店「ユニクロ 京都」がオープンした一方、10月は真夏日の影響で国内売上高がマイナスとなりました。",
     "ids": [
      "6b3ea10bef5d9e01",
-     "0a19f0a644c8f786",
-     "9baada70ff0bbee1"
+     "9baada70ff0bbee1",
+     "d5eaf1c5299e28a1"
     ]
    },
    {
-    "text": "セシリー バンセンとの2026年秋冬コラボコレクションや、サンリオ・ムーミンなどの新作アイテムが発表された。",
+    "text": "セシリー バンセンとの第2弾コラボフリースや、ハローキティ、スヌーピー、サンリオキャラクターズなどの新作UT・パジャマの発売が発表されました。",
     "ids": [
      "95c3317568fda465",
-     "f4b58569a4aa8342",
-     "382c1a96c4598218"
+     "17230a8623e4d79b",
+     "9696fc65e14424d8"
     ]
    },
    {
-    "text": "SNSではユニクロ ウォッシャブルニットがXで11件投稿されるなど話題を集めている。",
+    "text": "SNSではユニクロのウォッシャブルニットがXで3日に11件投稿されたほか、ソフトニットフリースクルーネックTのレビューが7日で220件増加しています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-06T06:33:17.606758+09:00",
-  "generated_at": "2026-11-09T06:33:19.436536+09:00",
+  "from": "2026-11-06T12:37:10.668950+09:00",
+  "generated_at": "2026-11-09T12:37:12.795458+09:00",
   "article_count": 24,
-  "sig": "5812e4088bdb"
+  "sig": "e4e4c0b06187"
  },
  "items": [
+  {
+   "id": "8fe6d02d0bfe8e06",
+   "url": "https://www.wazzup.ph/uniqlo-bgc-high-street-anniversary-sale-holiday-promo",
+   "title_original": "Style, Community, and Holiday Cheer: UNIQLO BGC High Street Marks Its First Year",
+   "source": "Wazzup.PH",
+   "image": "https://www.wazzup.ph/wp-content/uploads/2026/11/Style-Community-and-Holiday-Cheer-UNIQLO-BGC-High-Street-Marks-Its-First-Year.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T03:11:08+00:00",
+   "title_ja": "ユニクロ BGCハイストリート店が開業1周年を迎える",
+   "summary_ja": "フィリピンのユニクロBGCハイストリート店が開業1周年を迎えました。スタイルや地域コミュニティ、ホリデーシーズンの雰囲気を盛り込む取り組みとともに、オープン1周年の節目を記念しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "5f155f15cea4bd95",
+   "url": "https://alvinology.com/2026/11/09/uniqlo-northpoint-city-reopen-as-its-largest-store-in-the-north",
+   "title_original": "UNIQLO Northpoint City Reopen as Its Largest Store in the North",
+   "source": "Alvinology",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T02:46:06+00:00",
+   "title_ja": "ユニクロ ノースポイント・シティ店が地域北部で最大の店舗としてリニューアル",
+   "summary_ja": "ユニクロのノースポイント・シティ店が、地域北部で最大規模の店舗としてリニューアルオープンしました。装いを新たにし、拡大した店舗空間で利用客を出迎えています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "9696fc65e14424d8",
+   "url": "https://s.inside-games.jp/article/img/2026/11/09/190586/1798890.html",
+   "title_original": "ユニクロから「ハローキティ」新作UTが12月上旬に登場！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン 4枚目の写真・画像",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1798890.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T02:15:02+00:00",
+   "title_ja": "ユニクロからハローキティ新作UTが12月上旬発売　リボンモチーフの大人向け4種",
+   "summary_ja": "ユニクロからハローキティの新作UTコレクションが12月上旬に発売されます。リボンにフィーチャーしたデザインが特徴で、大人が着用しやすいシンプルな全4種類が展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "19c426df68d30953",
+   "url": "https://www.asahi.com/sdgs/article/17029789",
+   "title_original": "女性の物語は時を超えて誰かに届く ユニクロ「stories she tells」 パートナーは東大",
+   "source": "朝日新聞",
+   "image": "https://p0.potaufeu.asahi.com/076d-p/picture/31537966/a7b8d76045bb000a3d9e872d2540a9dd.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T00:02:51+00:00",
+   "title_ja": "ユニクロが東大と連携 「stories she tells」を推進",
+   "summary_ja": "ユニクロが東京大学をパートナーに迎え、女性の物語を未来へ届けるプロジェクト「stories she tells」を展開。女性たちの想いや背景にあるストーリーに焦点を当てる企画となっている。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f4d85235e03e411a",
+   "url": "https://nijimen.kusuguru.co.jp/topics/651714",
+   "title_original": "『おさるのジョージ』のワッペン付きキルトパジャマがユニクロで11月9日発売！BROWN・BLUEの2色、80〜120サイズで登場",
+   "source": "にじめん",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/c37f8b187585420688a2c9164ed9fe39.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T23:45:36+00:00",
+   "title_ja": "ユニクロから『おさるのジョージ』キルトパジャマが11月9日発売",
+   "summary_ja": "ユニクロは11月9日より、『おさるのジョージ』のワッペンが付いたキルトパジャマを発売する。ブラウンとブルーの2色を取り揃え、80から120までのサイズを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ac98e38d69748f1e",
+   "url": "https://www.inside-games.jp/article/2026/11/09/190569.html",
+   "title_original": "「スヌーピー」の新作UTがユニクロから12月中旬に発売！心温まるシーンをデザインした全6種",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/ogp_f/1796465.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T22:30:03+00:00",
+   "title_ja": "ユニクロから「スヌーピー」の新作UTが12月中旬に発売、心温まるシーン描いた全6種",
+   "summary_ja": "ユニクロは「スヌーピー」とコラボレーションした新作UTを12月中旬に発売します。作中の心温まるシーンをデザインした商品など、全6種類がラインナップされます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "0824459de0fcf063",
+   "url": "https://senken.co.jp/posts/fastretailing-261109",
+   "title_original": "《詳報》ファストリ売上高10兆円への打ち手と課題 柳井会長「毎年5000億円伸ばす」",
+   "source": "繊研新聞",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/428578/facebook_IMG_760.JPG",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T21:30:00+00:00",
+   "title_ja": "ファーストリテイリングの柳井会長、売上高10兆円に向け毎年5000億円増収を目指す",
+   "summary_ja": "ファーストリテイリングの柳井正会長が、売上高10兆円の達成に向けた具体的な方針と課題について語りました。毎年5000億円規模で業績を伸ばしていく計画を示しています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "6ab5aa94de331909",
+   "url": "https://www.inside-games.jp/article/2026/11/09/190567.html",
+   "title_original": "「サンリオキャラクターズ」新作UTがユニクロに登場！デコレーションシール風デザインのキッズ向け合計7種",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/ogp_f/1798902.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-08T21:25:02+00:00",
+   "title_ja": "ユニクロに「サンリオキャラクターズ」の新作UTが登場、キッズ向け全7種を発売",
+   "summary_ja": "ユニクロから「サンリオキャラクターズ」の新作UTが登場します。デコレーションシール風のデザインを採用したキッズ向け商品で、合計7種類のラインナップが展開される予定です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "f4b58569a4aa8342",
    "url": "https://s.inside-games.jp/article/img/2026/11/08/190564/1798922.html",
@@ -283,7 +412,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "154400e6ff656a42",
@@ -299,7 +428,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a25aec93010bf8d3",
@@ -6539,134 +6668,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "24b95a0906944905",
-   "url": "https://www.asahi.com/and/w/article/16985300/31472627",
-   "title_original": "新宿でしか買えない！ 【ユニクロ】「とんかつ新宿さぼてん」コラボが10/23発売。公式キャラやあのロゴがTシャツやバッグに",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/4bae-p/picture/31472627/e6a2968085583e88749d0320a280cbd9.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T03:47:49+00:00",
-   "title_ja": "ユニクロが「とんかつ新宿さぼてん」コラボ商品を新宿限定で10月23日発売",
-   "summary_ja": "ユニクロは10月23日より、「とんかつ新宿さぼてん」とコラボレーションした限定商品を新宿店舗で発売する。公式キャラクターや店舗ロゴをあしらったTシャツやバッグが展開される。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b310e1ae4007fe0d",
-   "url": "https://newswav.com/article/customise-it-your-own-with-uniqlo-s-new-14-monchhichi-embroidery-designs-A2610_Lyacc6",
-   "title_original": "Customise It Your Own with UNIQLO’s New 14 Monchhichi Embroidery Designs",
-   "source": "Newswav",
-   "image": "https://thestoly.com/wp-content/uploads/2026/10/Offer-post-44-150x150.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T03:27:48+00:00",
-   "title_ja": "ユニクロ、モンチッチの刺繍デザイン14種を追加",
-   "summary_ja": "ユニクロは、オリジナルの刺繍サービスにモンチッチの新しいデザイン14種類を追加し、自分好みのカスタマイズを提供する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8a06bb6a7e715b35",
-   "url": "https://diamond-rm.net/flash_news/561651",
-   "title_original": "ユニクロ、11月6日、京都府京都市にグローバル旗艦店「ユニクロ 京都」をオープン",
-   "source": "ダイヤモンド・チェーンストア",
-   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/10/image2-16.png?auto=format%2Ccompress&ixlib=php-3.3.0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T02:00:01+00:00",
-   "title_ja": "ユニクロが11月6日に京都市でグローバル旗艦店「ユニクロ 京都」を開店",
-   "summary_ja": "ユニクロは11月6日、京都府京都市にグローバル旗艦店「ユニクロ 京都」をオープンすることを発表しました。国内外から多くの人々が集まる京都の拠点店舗として期待が集まります。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "e1c5230c2a08bd45",
-   "url": "https://senken.co.jp/posts/uniqlo-francesco-risso-261023",
-   "title_original": "ユニクロ、フランチェスコ・リッソ氏と協業 ニットのカプセルコレクション発売",
-   "source": "| 繊研新聞",
-   "image": "https://senken.co.jp/production/uploads/file_content/file/427144/facebook_760570_-_2026-10-23T101354.474.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T01:59:00+00:00",
-   "title_ja": "ユニクロがフランチェスコ・リッソ氏と協業、ニットのカプセルコレクションを発売へ",
-   "summary_ja": "ユニクロは、デザイナーのフランチェスコ・リッソ氏と協業した新たなコレクションの展開を発表しました。ニットを中心としたカプセルコレクションが発売される予定となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "6b4ff98d6fd2c3d5",
-   "url": "https://m.economictimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/a-japanese-giant-is-quietly-taking-a-bigger-share-of-indias-wardrobes-uniqlo-shoppers-stop-zara/articleshow/135127187.cms",
-   "title_original": "A Japanese giant is quietly taking a bigger shelf in India’s wardrobes",
-   "source": "The Economic Times",
-   "image": "https://img.etimg.com/thumb/msid-135127215,width-1200,height-900,imgsize-119690,overlay-economictimes/articleshow.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T01:30:00+00:00",
-   "title_ja": "ユニクロがインド市場で順調に拡大 現地での存在感を高める",
-   "summary_ja": "日本のアパレル大手であるユニクロが、インド市場において着実にシェアを拡大している。現地の消費者のワードローブに浸透し、店舗展開や売上を通じて存在感を強めている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "409b446ce00d530e",
-   "url": "https://portal-worlds.com/news/asean/40589",
-   "title_original": "高市総理やユニクロなどのオールジャパンで難民支援へ、政府はUNHCR に7,473万ドル拠出",
-   "source": "アセアンポータル",
-   "image": "https://portal-worlds.com/wp-content/uploads/2026/10/asean1992.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T01:25:06+00:00",
-   "title_ja": "日本政府とユニクロなどが連携し難民支援 UNHCRへ資金拠出",
-   "summary_ja": "日本政府はユニクロをはじめとする民間企業などと連携したオールジャパン体制で難民支援に取り組む。政府は国連難民高等弁務官事務所（UNHCR）に対して7473万ドルの拠出を行う。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0cd7c7c64c58c25e",
-   "url": "https://diamond-rm.net/management/561245",
-   "title_original": "ユニクロはなぜ給与水準を6割も上げられたのか？驚異の生産性向上を実現した3つの仕掛け",
-   "source": "ダイヤモンド・チェーンストア",
-   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/10/IMG_0593.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T23:03:59+00:00",
-   "title_ja": "ユニクロの大幅な給料引き上げを支えた、生産性向上に関する3つの施策を解説",
-   "summary_ja": "ユニクロが給与水準を大幅に引き上げることができた背景にある、生産性向上の取り組みについて取り上げています。同社が成果を出した3つの具体的な仕掛けについて詳しく解説しています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "465c686ce7cfb2b9",
-   "url": "https://news.yahoo.co.jp/articles/02e29eb9f293fa2ac7e6012037a7eb034810d9a1",
-   "title_original": "「え、待って！」ユニクロの\"意外なコラボ\"に驚きの声。新宿でしか買えないTシャツ&トートを発売",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-11800491-asahiand-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-22T22:30:25+00:00",
-   "title_ja": "ユニクロが新宿店舗限定で話題のコラボTシャツとトートバッグを発売",
-   "summary_ja": "ユニクロが新宿の店舗限定で、話題のコラボレーションによるTシャツとトートバッグを発売しました。新宿でしか購入できない限定商品として注目を集めています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
