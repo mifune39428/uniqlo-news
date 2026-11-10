@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T23:37:52.703446+09:00",
+ "updated_at": "2026-11-10T09:57:20.837333+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -59,8 +59,6 @@
   "GIGAZINE",
   "GQ Japan",
   "Global News",
-  "Hashtag Legend Hong Kong",
-  "Hindustan Times",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
@@ -86,6 +84,7 @@
   "Marie Claire",
   "Marketing-Interactive",
   "Men's Folio",
+  "Metro Mode",
   "Modaes",
   "MorungExpress",
   "Mundo Deportivo",
@@ -194,6 +193,7 @@
   "共同通信PRワイヤー",
   "北海道新聞デジタル",
   "千葉テレビ放送株式会社",
+  "号外NET 世田谷区",
   "四季報オンライン",
   "大分合同新聞",
   "山口新聞 電子版",
@@ -224,44 +224,109 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 227,
+ "detail_count": 226,
  "digest": {
   "headline": "ファーストリテイリング過去最高益、国内外の出店加速",
   "points": [
    {
-    "text": "ファーストリテイリングは競合を抑えて過去最高益を記録し、柳井会長は売上高10兆円に向け毎年5000億円の増収を目指す方針を示しました。",
+    "text": "ファーストリテイリングが競合を抑えて過去最高益を記録し、売上高10兆円に向け毎年5000億円の増収を目指す方針を示しました。",
     "ids": [
      "0824459de0fcf063",
      "586c9f749a614b23"
     ]
    },
    {
-    "text": "ユニクロは中国での店舗数を3倍以上に増やす目標を掲げたほか、カナダ・バンクーバーへの旗艦店オープンやウェールズ初出店など海外展開を加速させています。",
+    "text": "ユニクロは京都・河原町に新・グローバル旗艦店をオープンしたほか、南仏カンヌやカナダ・バンクーバーでも新店や旗艦店を開設しました。",
     "ids": [
-     "7d29eb424f4b615c",
-     "c3d5082cfb28e3bb",
-     "1fd927016ac06ab4"
+     "dc7b37e672f9c7fd",
+     "36e22ea22483e89e",
+     "c3d5082cfb28e3bb"
     ]
    },
    {
-    "text": "セシリー バンセンとの再コラボ新作や花刺繍フリースなどの2026年秋冬コレクションが発表され、全型試着レビューも公開されています。",
+    "text": "セシリー バンセンとの再コラボコレクションや、ハローキティ・スヌーピーなどの新作UT、半袖ヒートテックTが話題となっています。",
     "ids": [
      "9d0c307bdfd7e284",
-     "95c3317568fda465"
+     "99ca8ed6b1207339",
+     "580f2e92559c5257"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ ウォッシャブルニット」が話題となり、直近3日で14件の投稿を記録しています。",
+    "text": "SNSでは「ユニクロ ガードル」がXで3日に6件投稿され、話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-06T23:50:35.922739+09:00",
-  "generated_at": "2026-11-09T23:50:40.942143+09:00",
+  "from": "2026-11-07T10:02:54.025595+09:00",
+  "generated_at": "2026-11-10T10:02:55.562556+09:00",
   "article_count": 24,
-  "sig": "61c4ed103211"
+  "sig": "8e163a5475c3"
  },
  "items": [
+  {
+   "id": "603d8aa1d57cc8d9",
+   "url": "https://www.wwdjapan.com/articles/2546142",
+   "title_original": "ユニクロの靴下とサイゼリヤのミラノ風ドリア：記者談話室vol.243",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T22:35:48+00:00",
+   "title_ja": "WWDJAPANの記者談話室が語るユニクロの靴下とサイゼリヤの定番メニュー",
+   "summary_ja": "WWDJAPANの記者コラム「記者談話室」において、ユニクロの靴下とサイゼリヤのミラノ風ドリアをテーマにした談話が展開されています。ファッション業界の視点から、身近なヒット商品や定番アイテムの魅力について語られています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "7737ea789327afdd",
+   "url": "https://setagaya.goguynet.jp/2026/11/10/uniqlo-2",
+   "title_original": "【世田谷区】10月にリニューアルオープンしたユニクロ世田谷千歳台店に行ってみました。",
+   "source": "号外NET 世田谷区",
+   "image": "https://setagaya.goguynet.jp/wp-content/uploads/sites/145/2026/11/IMG_0596.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T22:35:06+00:00",
+   "title_ja": "10月にリニューアルオープンしたユニクロ世田谷千歳台店の現地訪問レポート",
+   "summary_ja": "2026年10月にリニューアルオープンを迎えたユニクロ世田谷千歳台店への訪問レポートです。新しく生まれ変わった店舗の様子や魅力、現地の雰囲気などを地域のニュースとして伝えています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "dc7b37e672f9c7fd",
+   "url": "https://senken.co.jp/posts/uniqlo-261110",
+   "title_original": "ユニクロ、南仏カンヌに新店 映画祭の街で地元企業やアーティストと協業",
+   "source": "繊研新聞",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/428645/facebook_760570.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T21:27:00+00:00",
+   "title_ja": "ユニクロが南仏カンヌに新店オープン 地元アーティストらと協業",
+   "summary_ja": "ユニクロがフランス南部の都市カンヌに新しい店舗をオープンした。映画祭で知られる同地にて、地元の企業やアーティストとコラボレーションした企画を展開していく。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "36e22ea22483e89e",
+   "url": "https://diamond-rm.net/store/newstorereport/562989",
+   "title_original": "なぜ京都・河原町なのか。ユニクロ「新・グローバル旗艦店」のしたたかなねらい",
+   "source": "ダイヤモンド・チェーンストア",
+   "image": "https://diamond-rm.imgix.net/wp-content/uploads/2026/11/1ef3ddeff6b0d1d2f8bdb1fb58087827-3.jpg?auto=format%2Ccompress&ixlib=php-3.3.0",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T20:06:39+00:00",
+   "title_ja": "京都・河原町にオープンしたユニクロ「新・グローバル旗艦店」の狙い",
+   "summary_ja": "ユニクロが京都の河原町エリアにオープンした「新・グローバル旗艦店」について、なぜこの場所を選んだのか、その背景にある企業側のねらいや店舗戦略を詳細に分析・解説する。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "9d0c307bdfd7e284",
    "url": "https://spur.hpplus.jp/fashion/wear/2026-11-09-tw4RTQ",
@@ -289,6 +354,22 @@
    "published": "2026-11-09T10:38:24+00:00",
    "title_ja": "ファーストリテイリングがHDR1株あたり5.3円の期末配当を決定",
    "summary_ja": "ファーストリテイリングが香港預託証券（HDR）の期末配当金を1株あたり5.3円に決定した。株主への利益還元に関わる決定であり、経営・投資観点から関心を集めている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "1cec4646a5ac8fd0",
+   "url": "https://www.tipranks.com/news/company-announcements/fast-retailing-sets-net-hdr-dividend-at-hk0-169686",
+   "title_original": "Fast Retailing Sets Net HDR Dividend at HK$0.169686",
+   "source": "TipRanks",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T10:07:32+00:00",
+   "title_ja": "ファーストリテイリング、HDR配当を1株あたり0.169686香港ドルに設定",
+   "summary_ja": "ファーストリテイリングは、香港預託証券（HDR）の配当金を1株あたり0.169686香港ドルに設定したと発表した。",
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
@@ -340,7 +421,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c3d5082cfb28e3bb",
@@ -356,7 +437,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b31a9ff37e65424e",
@@ -372,7 +453,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8fe6d02d0bfe8e06",
@@ -436,6 +517,22 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "99ca8ed6b1207339",
+   "url": "https://metromode.se/en/mode/uniqlo-och-cecilie-bahnsen-slapper-mysig-fleece-for-dam-och-barn",
+   "title_original": "Uniqlo and Cecilie Bahnsen release cosy fleece for women and children",
+   "source": "Metro Mode",
+   "image": "https://metromode.se/files/2026/11/uniqlo-cecilie-bahnsen-fleece-dam-barn-brygga.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-09T00:00:00+00:00",
+   "title_ja": "ユニクロがセシリー バンセンとコラボ、ウィメンズとキッズのフリースを発売",
+   "summary_ja": "ユニクロがデザイナーブランドのセシリー バンセンとコラボレーションし、ウィメンズおよびキッズ向けの温かいフリースアイテムを発売した。洗練されたデザインと保温性を兼ね備えたコレクションとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -1029,6 +1126,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "64f8f48ab4634f14",
+   "url": "https://www.lmaga.jp/news/2026/11/1116870",
+   "title_original": "「ユニクロ京都」オープンで無料配布！京都銘菓を3日間限定で、初日から大盛況",
+   "source": "Lmaga.jp",
+   "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/uniqlokyoto_202611_9.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-06T05:00:00+00:00",
+   "title_ja": "「ユニクロ京都」オープン記念で京都銘菓を3日間限定無料配布",
+   "summary_ja": "「ユニクロ京都」のオープンを記念し、京都銘菓の無料配布が3日間限定で実施され、初日から大きな賑わいを見せました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "f4e7ed085a0bdaac",
@@ -6548,118 +6661,6 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "63ecf087618a2f94",
-   "url": "https://www.hindustantimes.com/lifestyle/fashion/uniqlo-introduces-its-fall-winter-2026-fleece-collection-with-versatile-winter-essentials-101792759056459.html",
-   "title_original": "UNIQLO introduces its Fall/Winter 2026 fleece collection with versatile winter essentials | Fashion Trends",
-   "source": "Hindustan Times",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T16:44:13+00:00",
-   "title_ja": "ユニクロが2026年秋冬フリースコレクションを発表",
-   "summary_ja": "ユニクロが2026年秋冬シーズンのフリースコレクションを発表した。冬の定番アイテムとして、多彩なシーンで着回せる汎用性の高いラインナップを展開する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e6d83fac5e372d7d",
-   "url": "https://hashtaglegend.com/th/post/uniqlo-f-risso-2026-knitwear-collection",
-   "title_original": "Uniqlo Unveils 2026 Knitwear Capsule Collection from \"UNIQLO F.RISSO\"",
-   "source": "Hashtag Legend Hong Kong",
-   "image": "http://localhost:3000/th/api/media/file/UNIQLO%20F.RISSO%20cover.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T11:50:09+00:00",
-   "title_ja": "ユニクロが「UNIQLO F.RISSO」2026年ニットコレクション発表",
-   "summary_ja": "ユニクロが「UNIQLO F.RISSO」ラインより、2026年のニットウェアカプセルコレクションを発表したと報じられています。注目の新規コラボレーションによるカプセルコレクションとして展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "5ae0c0621edad74b",
-   "url": "https://www.wwdjapan.com/articles/2532925",
-   "title_original": "「ユニクロ」がモンチッチの刺しゅうサービスを開始 “ユーティーミー”には88種の新デザインも",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T11:25:30+00:00",
-   "title_ja": "ユニクロがモンチッチの刺しゅうサービスを開始 UTme!に88種の新デザイン追加",
-   "summary_ja": "ユニクロはキャラクター「モンチッチ」の刺しゅうサービスの提供を開始しました。あわせて、オリジナルのTシャツやグッズが作れるサービス「UTme!」にも88種類の新しいデザインが追加され、利用者は好みのアイテムをカスタマイズして楽しむことができます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "41e9894ffdc3145c",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-22-mrFqmg",
-   "title_original": "【大人のユニクロ】欲しいニットだらけ。「ユニクロ エフ・リッソ」コラボ第2弾、全部見せます【10月30日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/4c/4cdaf2a7-fc0b-44ee-928f-61e073a09086-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T11:00:00+00:00",
-   "title_ja": "ユニクロ エフ・リッソコラボ第2弾の全アイテム公開",
-   "summary_ja": "大人向けファッション誌で、「ユニクロ エフ・リッソ」コラボレーションの第2弾となる全ラインナップが10月30日の発売に向けて紹介されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "5ebd8d882126fce3",
-   "url": "https://prtimes.jp/main/html/rd/p/000000300.000011182.html",
-   "title_original": "昭和の名曲『スーダラ節』に乗せて描く、自由なファッション ジーユー新CM「なんでもいいけど、どうでもよくない」",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/11182/300/11182-300-04918ce1e96d2e204726146ad9330184-1995x543.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T10:00:02+00:00",
-   "title_ja": "GUが「スーダラ節」に乗せた新CMを開始 ファッションの自由描く",
-   "summary_ja": "ジーユーは昭和の名曲「スーダラ節」を使用した新テレビCM「なんでもいいけど、どうでもよくない」を開始した。自由なファッションの楽しさを表現した映像となっている。",
-   "category": "広告・タレント",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f983015610e97aef",
-   "url": "https://prtimes.jp/main/html/rd/p/000000117.000080611.html",
-   "title_original": "「まちの珈琲」がユニクロ世田谷千歳台店と共同開発。街の昼と夕方を表現したコーヒー「千歳台ブレンド」2種を発売",
-   "source": "PR TIMES",
-   "image": "https://prcdn.freetls.fastly.net/release_image/80611/117/80611-117-b54f9c01a5b1c2f1b245498e1bac5114-1774x887.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-23T10:00:02+00:00",
-   "title_ja": "「まちの珈琲」がユニクロ世田谷千歳台店と共同開発したコーヒー「千歳台ブレンド」を発売",
-   "summary_ja": "「まちの珈琲」がユニクロ世田谷千歳台店と共同で開発したコーヒー「千歳台ブレンド」2種を発売しました。街の昼と夕方の風景を表現した、地域密着型の取り組みによる新商品です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "abbf3ad6907f3a18",
-   "url": "https://www.vietnam.vn/en/sau-thanh-hoa-uniqlo-tiep-tuc-khai-truong-cua-hang-dau-tien-tai-ha-long-vao-thang-11-2026",
-   "title_original": "Following its opening in Thanh Hoa, UNIQLO will continue to open its first store in Ha Long in November 2026.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/23/1792761355032_uniqlo-aeon-mall-ha-long-se-khai-truong-vao-11112026-png.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-23T09:11:36+00:00",
-   "title_ja": "ユニクロ、ハロンに初店舗を11月オープンへ",
-   "summary_ja": "タインホアへの出店に続き、ユニクロが2026年11月にハロンで初となる店舗をオープン予定であることが発表されました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
