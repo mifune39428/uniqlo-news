@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T22:55:05.892513+09:00",
+ "updated_at": "2026-11-11T07:38:01.626250+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -46,6 +46,7 @@
   "Dtimes",
   "ELLE",
   "Emo!miu",
+  "Essential Japan",
   "Estates Gazette",
   "Excite エキサイト",
   "FashionNetwork - The World's Fashion Business News",
@@ -98,6 +99,7 @@
   "Oui Speak Fashion (OSF)",
   "Out of Town Blog",
   "PAUSE Online",
+  "PR EDGE",
   "PR Newswire Canada",
   "PR TIMES",
   "Philstar Life",
@@ -224,20 +226,26 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 235,
  "digest": {
-  "headline": "ユニクロの海外展開加速やヒートテックの日イベントが話題",
+  "headline": "ファーストリテイリングの成長戦略と新商品・海外展開の動き",
   "points": [
    {
-    "text": "ファーストリテイリングは売上高10兆円に向け毎年5000億円の増収を目指す方針を示し、香港預託証券の期末配当を決定しました。",
+    "text": "ファーストリテイリングの柳井正会長が売上高10兆円達成へ向け、毎年5000億円規模で業績を伸ばす方針を示しました。",
     "ids": [
-     "0824459de0fcf063",
-     "57297ac647455f68",
-     "1cec4646a5ac8fd0"
+     "0824459de0fcf063"
     ]
    },
    {
-    "text": "ユニクロはカナダでの店舗網拡大やバンクーバーの旗艦店オープン、南仏カンヌやシンガポールでの新店・出店加速など海外展開を急ピッチで進めています。",
+    "text": "ユニクロはスタジオジブリとのコラボコレクションや、セシリー・バンセンとの再コラボ新作を発表しました。",
+    "ids": [
+     "91ff1bcada27ef16",
+     "e835a5d4ac2b9dbc",
+     "99ca8ed6b1207339"
+    ]
+   },
+   {
+    "text": "カナダでの店舗数拡大や南仏カンヌへの新店オープンなど、海外市場での出店戦略を加速させています。",
     "ids": [
      "9559a8e8c5f895ce",
      "dc7b37e672f9c7fd",
@@ -245,33 +253,41 @@
     ]
    },
    {
-    "text": "京都・河原町の新グローバル旗艦店オープンおよび増床リニューアルに加え、セシリー・バンセンやジブリとの新コラボ、UNIQLO : Cの発表など新商品も多数登場しました。",
+    "text": "京都の河原町店が増床リニューアルし西日本初のカフェがオープンしたほか、ヒートテックの日PR発表会が開催されました。",
     "ids": [
-     "e835a5d4ac2b9dbc",
-     "45ff093049bb1482",
-     "36e22ea22483e89e"
+     "36e22ea22483e89e",
+     "78740e5dbeed2a8c",
+     "7b87a604e6a50319"
     ]
    },
    {
-    "text": "11月10日の「ヒートテックの日」にはPR発表会が開催され、タレントを起用したイベントやヒートテックの販促活動が行われました。",
-    "ids": [
-     "157e9463125a81c0",
-     "7b87a604e6a50319",
-     "b979ca59273f2da8"
-    ]
-   },
-   {
-    "text": "SNSでは「ユニクロ ジブリ UT」が話題となり、Xで3日に7件投稿されました。",
+    "text": "SNSでは「ユニクロ ジブリ UT」が急上昇し、Xで7件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-07T23:08:00.489464+09:00",
-  "generated_at": "2026-11-10T23:08:08.748515+09:00",
+  "from": "2026-11-08T07:44:14.846436+09:00",
+  "generated_at": "2026-11-11T07:44:20.176048+09:00",
   "article_count": 24,
-  "sig": "a866a8b20dba"
+  "sig": "c264d2c3e263"
  },
  "items": [
+  {
+   "id": "0d49135a567d7340",
+   "url": "https://predge.jp/364700",
+   "title_original": "服を届ける力を物語にも ユニクロ初の公募エッセイ誌が2027年秋創刊へ",
+   "source": "PR EDGE",
+   "image": "https://predge.jp/wp-content/uploads/2026/11/predge2611-uniqlo-01-1024x683.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T22:00:27+00:00",
+   "title_ja": "ユニクロが初の公募エッセイ誌を2027年秋に創刊へ",
+   "summary_ja": "ユニクロが初となる公募形式のエッセイ誌を2027年秋に創刊する。服を届ける力をテーマにエッセイを公募し、ストーリーを収めた冊子として刊行する新たな取り組みだ。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d0170e2d5be36a50",
    "url": "https://www.malaymail.com/amp/news/life/2026/11/10/pikachu-i-choose-you-pokemon-fans-can-meet-the-yellow-superstar-at-uniqlo-trx-in-kl-this-weekend/242712",
@@ -289,6 +305,22 @@
    "has_detail": true
   },
   {
+   "id": "91ff1bcada27ef16",
+   "url": "https://essential-japan.com/news/uniqlo-reveals-new-studio-ghibli-collection-featuring-four-classic-anime-movies",
+   "title_original": "UNIQLO Reveals New Studio Ghibli Collection Featuring Four Classic Anime Movies",
+   "source": "Essential Japan",
+   "image": "https://cdn.essential-japan.com/wp-content/uploads/2026/11/DsLrYKLp-ghibliuniqlo2maincustom.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T14:28:08+00:00",
+   "title_ja": "ユニクロがスタジオジブリとの新作コラボを発表 名作アニメ4作品を題材に",
+   "summary_ja": "ユニクロがスタジオジブリとの新しいコラボレーションコレクションを発表しました。今回のコレクションでは、スタジオジブリの不朽の名作アニメ映画4作品をモチーフにした限定アイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "157e9463125a81c0",
    "url": "https://mantan-web.jp/movie/1-nxEhQilYI.html",
    "title_original": "【動画】齋藤飛鳥＆M！LK塩崎太智、ユニクロ「ヒートテック」を触り比べ",
@@ -302,7 +334,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "51b275e75fd1d639",
@@ -369,6 +401,22 @@
    "has_detail": true
   },
   {
+   "id": "3968ec9be5383966",
+   "url": "https://uptodate.tokyo/uniqlo-x-studio-ghibli-2026",
+   "title_original": "UNIQLO UT x スタジオジブリ 新作コラボコレクションが12月中旬より海外で発売",
+   "source": "UP TO DATE",
+   "image": "https://uptodate.tokyo/wp-content/uploads/2026/11/IMG_4105_194FA5DF-768x1024.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T10:52:02+00:00",
+   "title_ja": "ユニクロ「UT」とスタジオジブリの新作コラボが12月中旬に海外発売",
+   "summary_ja": "ユニクロのグラフィックTシャツブランド「UT」とスタジオジブリによる新作コラボレーションコレクションについて、12月中旬より海外各地で順次発売されることが明らかになった。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "b979ca59273f2da8",
    "url": "https://emomiu.jp/news/273955",
    "title_original": "【塩﨑太智】11月10日は「ヒートテックの日」!! 齋藤飛鳥とともにスペシャルサポーターとしてユニクロ「ヒートテックの日PR発表会」に登場！",
@@ -414,7 +462,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "965b3a03ed568b19",
@@ -427,6 +475,22 @@
    "published": "2026-11-10T07:55:27+00:00",
    "title_ja": "ユニクロがヒートテックの販促イベントを開催　集めた消費者の声をCMに活用",
    "summary_ja": "ユニクロはヒートテックの販売促進イベントを実施し、参加した消費者からの声を集めて今後のCM制作に活用する。実際の利用者のリアルな意見を広告活動に反映させる狙いがある。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "af10c8ad4e444785",
+   "url": "https://news.yahoo.co.jp/articles/f89e543eb54c467dd81fbba40e2b00cd4c8ddb42",
+   "title_original": "「M！LK」の塩崎太智「年がら年中着られます」 齋藤飛鳥とともにユニクロ「ヒートテックの日」にスペシャルサポーター就任",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000062-chuspo-000-4-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T07:14:53+00:00",
+   "title_ja": "塩崎太智と齋藤飛鳥がユニクロ「ヒートテックの日」サポーターに就任",
+   "summary_ja": "M！LKの塩崎太智と齋藤飛鳥が、ユニクロの「ヒートテックの日」スペシャルサポーターに就任したことが発表され、イベント内で商品の魅力や着用感についてコメントした。",
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
@@ -462,7 +526,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e835a5d4ac2b9dbc",
@@ -478,7 +542,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "aefee61537bc5a80",
@@ -494,6 +558,22 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2c04b67ed7a148f2",
+   "url": "https://www.ryutsuu.biz/sales/s111041.html",
+   "title_original": "カジュアル衣料4社／10月の既存店売上高はユニクロ5.5％減、しまむら4.0％増",
+   "source": "流通ニュース",
+   "image": "https://www.ryutsuu.biz/common/img/cat-sales.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T03:00:01+00:00",
+   "title_ja": "カジュアル衣料4社 10月売上高 ユニクロ5.5%減",
+   "summary_ja": "カジュアル衣料主要4社の10月既存店売上高が発表され、ユニクロは前年同月比5.5%の減少となりました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -526,7 +606,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "603d8aa1d57cc8d9",
@@ -606,6 +686,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f19c305ddf73701b",
+   "url": "https://sp.m.jiji.com/movie/show/14130",
+   "title_original": "齋藤飛鳥、M!LK塩﨑太智のハイテンションに爆笑 「めっちゃ声がデカいんですね」 アフレコで親子役に挑戦、ユニクロ「ヒートテックの日」PR発表会",
+   "source": "時事通信ニュース",
+   "image": "https://i.ytimg.com/vi/g1wZ6P_pRmY/hqdefault.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T12:58:40+00:00",
+   "title_ja": "齋藤飛鳥と塩﨑太智がヒートテックの日PR発表会に登壇",
+   "summary_ja": "ユニクロの「ヒートテックの日」PR発表会が開催され、アフレコで親子役に挑戦した齋藤飛鳥とM!LKの塩﨑太智が登場した。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6574,102 +6670,6 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "b9bd28e80c84caee",
-   "url": "https://www.oricon.co.jp/news/2485570/comment",
-   "title_original": "コメント | 【きょうから】ジーユー×エンジニアド ガーメンツ、コラボ新作10・26発売 コート＆ジャケット、グッズなど全8型",
-   "source": "オリコンニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T22:29:54+00:00",
-   "title_ja": "GUが「エンジニアド ガーメンツ」とのコラボ新作を本日発売",
-   "summary_ja": "ジーユーは「エンジニアド ガーメンツ」とのコラボレーションによる新作コレクションを10月26日に発売した。アウターやジャケット、各種グッズを含めた全8型が展開されている。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f90774f4abeaa850",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/U068zQ",
-   "title_original": "【大人のジーユー】「GU×エンジニアド ガーメンツ」秋冬試着ルポ。今買ってすぐ着られるベストとカーディガンが狙い目【10月26日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/8e/8eb574c7-d8a6-4a2c-8fa4-e12060f019ad-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T21:00:00+00:00",
-   "title_ja": "GUとエンジニアド ガーメンツの秋冬コラボ商品を試着レビュー",
-   "summary_ja": "10月26日に発売されたGUとエンジニアド ガーメンツによる秋冬コラボコレクションについて、試着した着用感や今すぐ着られるベスト、カーディガンなどの注目商品をレポートしている。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6497d7b99513505b",
-   "url": "https://media.unisba.ac.id/b433ac9d/943f91d4sr7zbHtyuGw/?share=telegram&nb=1",
-   "title_original": "【GU 26年秋冬展示会】新しいジーユー、はじまる。新作展示会にモーガン蔵人が潜入！ Cagliari Vs Udinese (XdsrICTPrq)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T18:29:13+00:00",
-   "title_ja": "GUが2026年秋冬の新作展示会を開催 モデルのモーガン蔵人が取材",
-   "summary_ja": "GUが2026年秋冬コレクションの新作展示会を開催しました。会場にはモデルのモーガン蔵人氏が潜入し、ブランドの新しい展開や注目の新作アイテムを紹介しています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "45bade1457be463d",
-   "url": "https://media.unisba.ac.id/ff375ec4/24d0273af_DH08tDFt0/?share=facebook&nb=1",
-   "title_original": "熊本県最大の「ユニクロ」に大行列 向かい側にはGUも 「ゆめタウン光の森」にリニューアルオープン 菊陽町 Eritrea (mJ4wHF1XmL)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T17:36:31+00:00",
-   "title_ja": "熊本最大のユニクロがリニューアルオープン",
-   "summary_ja": "熊本県のゆめタウン光の森に、県内最大規模となるユニクロがリニューアルオープンしました。向かい側にはGUも出店しており、多くの来店客で賑わいを見せています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "245395c73c6c3717",
-   "url": "https://media.unisba.ac.id/f387bcdc/37434ebcAPm7GdOXXC4/?share=facebook&nb=1",
-   "title_original": "ユニクロはなぜ世界で売れる？「普通の服」を巨大ビジネスに変える仕組み【企業解説】 Mls (NqWLqbwrhk)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T16:52:30+00:00",
-   "title_ja": "ユニクロが世界で支持される理由とは ベーシック衣料を成長させたビジネスの仕組み",
-   "summary_ja": "ユニクロが世界中で支持され、巨大なビジネスへと成長を遂げた仕組みを分析・解説する記事です。「普通の服」を世界規模のビジネスに変えた強みや戦略に迫ります。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "bc733aee5ffd192e",
-   "url": "https://media.unisba.ac.id/d4b1e38f/ef8f635d6HwUeEYcBtY",
-   "title_original": "「ユニクロ」のファストリ売上高3.4兆円 世界2位のH&Mに肉薄 Court (gM9JJcrcO5)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-25T15:27:10+00:00",
-   "title_ja": "ファーストリテイリングの売上高が3.4兆円に達し世界2位のH&Mに迫る",
-   "summary_ja": "ユニクロを展開するファーストリテイリングの売上高が3.4兆円規模に達し、競合である世界2位のH&Mに肉薄していることがわかりました。グローバル市場での存在感を高めています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
    "detail_tries": 2
   }
  ]
