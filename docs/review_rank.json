@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T07:40:56.015149+09:00",
+ "updated_at": "2026-11-11T12:41:07.524553+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2866,
+ "catalog_size": 2865,
  "count": 48,
  "items": [
   {
@@ -64,7 +64,7 @@
    "reviews7": 49,
    "capped": false,
    "prev7": 25,
-   "mentions7": 24,
+   "mentions7": 22,
    "mention_titles": [
     {
      "t": "着た瞬間から幸せ＞【ユニクロ】冬の定番フリースジャケットが1990円に。「首元までふわふわ」「暖房費も節約できる」「まるで毛布」 (婦人公論.jp)",
@@ -82,7 +82,7 @@
      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1SUgzaTRYYU50T2JqVVJlX3lWeXMwY3c4Q3hDRkhrb0Y1eU41ZlFXYThRTi1aalljWU5pWXNwb3lkVXU2WXdTZDY3d1JnWEJfLXJzdzNnOTV2TGZhNTBVdk8wWdIBaEFVX3lxTE1xRkQwa3BUYUQzZEYtT2tZa04xMlRuX24xVTFmck91cEp6VUNvcVdRUmpuNFlJTkRHWWNOMlJYdWpVdnloOVc4b0ViTzJ3cFNmU3cxcHM1YWJ3TjdoVDRka2RpM3l4Q1pu?oc=5"
     }
    ],
-   "score": 170,
+   "score": 160,
    "momentum": 1.02,
    "new": false,
    "rising": false
@@ -274,7 +274,7 @@
    ],
    "price": 2990,
    "promo": 2990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487832/item/jpgoods_09_487832_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487832/item/jpgoods_18_487832_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487832-000/00?colorDisplayCode=09",
    "rating": 4.4,
    "reviews": 218,
