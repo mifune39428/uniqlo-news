@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T22:08:08.722296+09:00",
+ "updated_at": "2026-11-12T08:48:32.069011+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -42,7 +42,6 @@
   "Chosunbiz",
   "Citizens Journal",
   "Connect CRE Canada",
-  "Daily Hive",
   "Dtimes",
   "ELLE",
   "Emo!miu",
@@ -71,6 +70,7 @@
   "Inside Retail Asia",
   "Insider Media Ltd",
   "It's On Cardiff",
+  "J-CAST ニュース",
   "JBpress",
   "Korea JoongAng Daily",
   "Kyotopi [キョウトピ]",
@@ -100,7 +100,6 @@
   "Out of Town Blog",
   "PAUSE Online",
   "PR EDGE",
-  "PR Newswire Canada",
   "PR TIMES",
   "Philstar Life",
   "Pokde.Net",
@@ -139,7 +138,6 @@
   "Unisba Media",
   "VZ VermögensZentrum",
   "Vancouver Is Awesome",
-  "Vancouver Sun",
   "Vietnam.vn",
   "Village Pipol",
   "Vogue Japan",
@@ -186,6 +184,7 @@
   "ファッションプレス",
   "フロントロウ",
   "マイナビ子育て",
+  "マグミクス",
   "モデルプレス",
   "一般財団法人 日本気象協会",
   "下野新聞社",
@@ -225,51 +224,62 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 236,
+ "detail_count": 235,
  "digest": {
-  "headline": "ファーストリテイリングの売上拡大方針や国内外の新店・コラボ情報が続々",
+  "headline": "ユニクロとジブリの新作コラボ発表や海外展開の拡大が話題",
   "points": [
    {
-    "text": "ファーストリテイリングの柳井会長が、売上高10兆円達成に向け毎年5000億円増収を目指す方針を語りました。",
+    "text": "ユニクロはスタジオジブリの名作アニメ4作品をモチーフにした新作コラボUTコレクションを発表し、一部デザインの日本未発売に注目が集まっています。",
     "ids": [
-     "0824459de0fcf063"
+     "fa0d61fc093f130d",
+     "91ff1bcada27ef16",
+     "e835a5d4ac2b9dbc"
     ]
    },
    {
-    "text": "ユニクロはカナダでの店舗網拡大や仏カンヌ、ベトナム・ハロンへの新規出店など海外展開を加速させています。",
+    "text": "北米市場での成長を加速させるユニクロは、カナダ国内の店舗数を2倍以上に拡大させ、バンクーバーへ新たに旗艦店を開店しました。",
     "ids": [
      "9559a8e8c5f895ce",
-     "dc7b37e672f9c7fd",
-     "256d47eb9f890bde"
+     "c3d5082cfb28e3bb",
+     "b31a9ff37e65424e"
     ]
    },
    {
-    "text": "京都・河原町のグローバル旗艦店が増床リニューアルし、西日本初のカフェが併設されるなど国内店舗も強化されています。",
+    "text": "ジーユーは「エンジニアド ガーメンツ」とのコラボ全8型を発売するほか、ユニクロは京都河原町店の増床リニューアルなどを実施しています。",
     "ids": [
+     "943588ce7ee24b46",
      "36e22ea22483e89e",
      "78740e5dbeed2a8c"
     ]
    },
    {
-    "text": "スタジオジブリやセシリー・バンセンとのコラボ新作発表に加え、GUとエンジニアド ガーメンツの新作全8型が発売されました。",
-    "ids": [
-     "943588ce7ee24b46",
-     "91ff1bcada27ef16",
-     "99ca8ed6b1207339"
-    ]
-   },
-   {
-    "text": "ユニクロ ジブリ コラボはXで3日に26件投稿されました。",
+    "text": "SNSではユニクロのジブリ UTが話題となり、Xで3日に8件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-08T22:17:37.832310+09:00",
-  "generated_at": "2026-11-11T22:17:43.393594+09:00",
+  "from": "2026-11-09T08:57:51.609766+09:00",
+  "generated_at": "2026-11-12T08:57:53.298683+09:00",
   "article_count": 24,
-  "sig": "2538d9f4951e"
+  "sig": "8c47dbff729f"
  },
  "items": [
+  {
+   "id": "310f1c1309c30162",
+   "url": "https://www.nikkei.com/article/DGXZQOCD091CD0Z01C26A1000000",
+   "title_original": "「明治チョコ」100年、ブランドは文学だ! ユニクロも文芸誌",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3848842009112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=e82c2b37c8f18305153c50af06f44c64",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T20:00:00+00:00",
+   "title_ja": "明治チョコ100周年に見るブランドの発信力　ユニクロの文芸誌展開にも注目",
+   "summary_ja": "明治チョコレートの誕生100年を機にブランド発信のあり方が注目される中、ユニクロによる文芸誌の発行など、独自の文化や世界観を伝える企業の試みが紹介されています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "256d47eb9f890bde",
    "url": "https://www.vietnam.vn/ja/uniqlo-chinh-thuc-khai-truong-cua-hang-dau-tien-tai-ha-long-chao-don-khach-hang-voi-trai-nghiem-mua-sam-chuan-nhat",
@@ -284,7 +294,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a5d708af1bb891b6",
@@ -300,7 +310,23 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "fa0d61fc093f130d",
+   "url": "https://magmix.jp/post/385009",
+   "title_original": "ジブリ×ユニクロコラボ新作が発売決定！ “日本は発売未定”の特別デザインに注目集まる",
+   "source": "マグミクス",
+   "image": "https://magmix.jp/wp-content/uploads/2027/11/261111_yunikurojiburi_00.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T09:10:00+00:00",
+   "title_ja": "ユニクロとスタジオジブリの新作コラボが発売決定、一部デザインは日本未定",
+   "summary_ja": "ユニクロとスタジオジブリによる新たなコラボレーション商品の発売が決定しました。海外などで発表された特別デザインについて、日本での発売が未定となっているアイテムに注目が集まっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "e6e359d93c4608bd",
@@ -428,6 +454,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "f3e2d80b1f3e3c62",
+   "url": "https://www.j-cast.com/news/provider/biznews365/91d240e5ccfd0c6662067e15369b5dd3",
+   "title_original": "塩崎太智(M!LK)＆齋藤飛鳥 登壇！ ユニクロ「ヒートテックの日」PR 発表会 塩崎「たくさんヒートテックに助けてもらいました」",
+   "source": "J-CAST ニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T14:23:00+00:00",
+   "title_ja": "ユニクロ「ヒートテックの日」PR発表会にM!LKの塩崎太智と齋藤飛鳥が登壇",
+   "summary_ja": "ユニクロが開催した「ヒートテックの日」PR発表会に、M!LKの塩崎太智と齋藤飛鳥が登壇した。塩崎はこれまでにヒートテックに助けられてきたエピソードなどを明かした。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -876,7 +918,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "26e0a719f55f39ea",
@@ -6620,54 +6662,6 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "efa963f45eab031b",
-   "url": "https://dailyhive.com/vancouver/uniqlo-downtown-vancouver-flagship-store-cf-pacific-centre-announcement",
-   "title_original": "Uniqlo flagship store to open at CF Pacific Centre in Downtown Vancouver",
-   "source": "Daily Hive",
-   "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/10/uniqlo-pacific-centre-downtown-vancouver-f.jpg?format=auto",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T16:20:56+00:00",
-   "title_ja": "バンクーバー中心部のCFパシフィック・センターにユニクロ旗艦店が出店へ",
-   "summary_ja": "バンクーバーのダウンタウンに位置する商業施設「CFパシフィック・センター」内に、ユニクロの新たな旗艦店がオープンすることが明らかになりました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "36687129394efa07",
-   "url": "https://vancouversun.com/life/fashion-beauty/uniqlo-confirmed-to-take-over-part-of-the-old-nordstrom-store-in-downtown-vancouver",
-   "title_original": "Uniqlo confirmed to take over part of the old Nordstrom store in downtown Vancouver",
-   "source": "Vancouver Sun",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T13:00:59+00:00",
-   "title_ja": "ユニクロがバンクーバー中心部の旧ノードストローム跡地へ出店決定",
-   "summary_ja": "カナダ・バンクーバーのダウンタウンに位置する旧ノードストロームの店舗跡地の一部に、ユニクロが出店することが決定しました。現地中心部でのブランド展開強化につながる出店となります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a89aea8f61080045",
-   "url": "https://www.newswire.ca/news-releases/vancouver-flagship-opening-at-cf-pacific-centre-in-spring-2027-847622387.html",
-   "title_original": "Vancouver Flagship Opening at CF Pacific Centre in Spring 2027",
-   "source": "PR Newswire Canada",
-   "image": "https://mmx.prnewswire.com/media/MS1141115/UNIQLO-Vancouver-Flagship-Opening-at-CF-Pacific-Centre-in-Spring.jpg?id=OA3037414&p=facebook",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T13:00:00+00:00",
-   "title_ja": "カナダ・バンクーバーのCFパシフィック・センターに2027年春に旗艦店が開店へ",
-   "summary_ja": "カナダのバンクーバーにある商業施設「CFパシフィック・センター」において、2027年春に新たな旗艦店がオープンすることが発表されました。現地での大規模な店舗展開が期待されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
    "has_detail": true
   }
  ]
