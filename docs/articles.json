@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T12:38:45.326693+09:00",
+ "updated_at": "2026-11-11T22:08:08.722296+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -152,7 +152,6 @@
   "Yahoo!ニュース",
   "YouTube",
   "ad-hoc-news.de",
-  "adobo Magazine",
   "dhakamagazine.com",
   "hicbc.com",
   "https://mediadogs.jp/",
@@ -226,52 +225,131 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 234,
+ "detail_count": 236,
  "digest": {
-  "headline": "ファストリ売上10兆円目標や国内外の店舗・コラボ展開の動き",
+  "headline": "ファーストリテイリングの売上拡大方針や国内外の新店・コラボ情報が続々",
   "points": [
    {
-    "text": "ファーストリテイリングの柳井正会長は、売上高10兆円の達成に向け、毎年5000億円規模で業績を伸ばす計画を示しました。",
+    "text": "ファーストリテイリングの柳井会長が、売上高10兆円達成に向け毎年5000億円増収を目指す方針を語りました。",
     "ids": [
      "0824459de0fcf063"
     ]
    },
    {
-    "text": "ユニクロはカナダでの店舗数を2倍以上に拡大させ、バンクーバーに新たな旗艦店をオープンするなど北米事業を加速させています。",
+    "text": "ユニクロはカナダでの店舗網拡大や仏カンヌ、ベトナム・ハロンへの新規出店など海外展開を加速させています。",
     "ids": [
      "9559a8e8c5f895ce",
-     "c3d5082cfb28e3bb",
-     "b31a9ff37e65424e"
+     "dc7b37e672f9c7fd",
+     "256d47eb9f890bde"
     ]
    },
    {
-    "text": "京都の河原町店が増床リニューアルし、西日本初のUNIQLO COFFEEがオープンしたほか、南仏カンヌへの新店出店も行われました。",
+    "text": "京都・河原町のグローバル旗艦店が増床リニューアルし、西日本初のカフェが併設されるなど国内店舗も強化されています。",
     "ids": [
      "36e22ea22483e89e",
-     "dc7b37e672f9c7fd",
      "78740e5dbeed2a8c"
     ]
    },
    {
-    "text": "スタジオジブリやセシリー・バンセンとのコラボ新作発表やGUとエンジニアド ガーメンツの新作発売など、各ブランドで新商品が展開されました。",
+    "text": "スタジオジブリやセシリー・バンセンとのコラボ新作発表に加え、GUとエンジニアド ガーメンツの新作全8型が発売されました。",
     "ids": [
      "943588ce7ee24b46",
      "91ff1bcada27ef16",
-     "9d0c307bdfd7e284"
+     "99ca8ed6b1207339"
     ]
    },
    {
-    "text": "ユニクロのジブリコラボに関連し、Xでユニクロ ジブリ UTが7件投稿されました。",
+    "text": "ユニクロ ジブリ コラボはXで3日に26件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-08T12:45:09.955324+09:00",
-  "generated_at": "2026-11-11T12:45:12.039387+09:00",
+  "from": "2026-11-08T22:17:37.832310+09:00",
+  "generated_at": "2026-11-11T22:17:43.393594+09:00",
   "article_count": 24,
-  "sig": "b895bca35535"
+  "sig": "2538d9f4951e"
  },
  "items": [
+  {
+   "id": "256d47eb9f890bde",
+   "url": "https://www.vietnam.vn/ja/uniqlo-chinh-thuc-khai-truong-cua-hang-dau-tien-tai-ha-long-chao-don-khach-hang-voi-trai-nghiem-mua-sam-chuan-nhat",
+   "title_original": "ユニクロはハロン湾に初の店舗を正式にオープンし、本格的な日本のショッピング体験でお客様をお迎えします。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/11/1794395913214_chinh-thuc-khai-truong-cua-hang-uniqlo-aeon-mall-ha-long-ngay-1111-2-jpg.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T09:46:00+00:00",
+   "title_ja": "ユニクロがハロン湾エリアに初の店舗を正式オープン",
+   "summary_ja": "ユニクロがベトナムのハロン湾地域において、初となる店舗を正式にオープンしました。日本式の本格的なショッピング体験を現地で提供し、多くのお客様を出迎えます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "a5d708af1bb891b6",
+   "url": "https://www.vietnam.vn/en/uniqlo-chinh-thuc-khai-truong-cua-hang-dau-tien-tai-ha-long-chao-don-khach-hang-voi-trai-nghiem-mua-sam-chuan-nhat",
+   "title_original": "UNIQLO officially opens its first store in Ha Long, welcoming customers with an authentic Japanese shopping experience.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/11/1794395913214_chinh-thuc-khai-truong-cua-hang-uniqlo-aeon-mall-ha-long-ngay-1111-2-jpg.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T09:46:00+00:00",
+   "title_ja": "ユニクロがベトナムのハロンに初店舗をオープン",
+   "summary_ja": "ユニクロがベトナムのハロン地区において、同地域では初となる店舗を正式にオープンしました。本格的な日本式のショッピング体験を現地で提供し、顧客を迎えます。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e6e359d93c4608bd",
+   "url": "https://news.yahoo.co.jp/articles/ef9cccbd95bc696f5c9fbcabe156a1d8039073bf",
+   "title_original": "ジブリ×ユニクロコラボ決定「やったーと思ったら…」日本”発売未定”の特別デザインに「なぜ…」「またかよ」（マグミクス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00385009-magmix-000-7-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T09:10:00+00:00",
+   "title_ja": "ジブリとユニクロのコラボ発表、国内未発売のデザインに反響",
+   "summary_ja": "スタジオジブリとユニクロのコラボレーション商品の展開が決定した。一方で、特定の特別デザインが日本での発売未定とされていることについてファンの間で注目を集めている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "09d2338d17a1e547",
+   "url": "https://biz.chosun.com/jp/jp-retail/2026/11/11/ZN27KMT6HBFCNM2BDGCLOVRAPM",
+   "title_original": "ユニクロ江南店を倍増し月渓に新店出す",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/GFQTONTDHBSGEMRTHE2DIMJRMI.jpg?auth=8be1afcfb5c10e8a6418aa068fc3d96ee2c815f3f999d0cb6049b03d312427b5&width=648&height=340&smart=true",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T05:46:44.985000+00:00",
+   "title_ja": "ユニクロが韓国・江南店を拡大増床し月渓エリアに新店舗を出店",
+   "summary_ja": "ユニクロが韓国における店舗網の展開を強化し、江南店の店舗規模を倍増させるとともに月渓エリアへ新店舗を出店することが報じられた。現地での店舗展開を推進する動きとして注目される。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1639f8af9dc7b72d",
+   "url": "https://biz.chosun.com/en/en-retail/2026/11/11/BK442BNVIRADRFG2EBJVM3UFO4/?outputType=amp",
+   "title_original": "Uniqlo to reopen larger Gangnam store and open Wolgye branch in Seoul",
+   "source": "Chosunbiz",
+   "image": "https://biz.chosun.com/resizer/v2/GFQTONTDHBSGEMRTHE2DIMJRMI.jpg?auth=8be1afcfb5c10e8a6418aa068fc3d96ee2c815f3f999d0cb6049b03d312427b5&width=648&height=340&smart=true",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T05:46:33.200000+00:00",
+   "title_ja": "ユニクロ、韓国のソウルで江南店を拡大再オープン＆月渓店を新規出店へ",
+   "summary_ja": "ユニクロが韓国・ソウルでの店舗戦略を推進しています。既存の江南店を大型化してリニューアルオープンするほか、新たにソウル市内に月渓店を開設する計画が明らかになりました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "943588ce7ee24b46",
    "url": "https://www.sanyonews.jp/article/2010540?rct=oricon_news&kw=2024%3Cbr+%2F%3E%E2%80%9D+target%3D%E2%80%9D_blank%E2%80%9D%3Ehttps%3A%2F%2Fwww.sanyonews.jp%2Far",
@@ -286,7 +364,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0d49135a567d7340",
@@ -318,7 +396,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d0170e2d5be36a50",
@@ -783,6 +861,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "9315264691c59d7f",
+   "url": "https://www.wwdjapan.com/articles/2543826",
+   "title_original": "「ユニクロ」京都のグローバル旗艦店 地元客・観光客に京都らしさ訴求",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-09T08:00:00+00:00",
+   "title_ja": "ユニクロの京都グローバル旗艦店、地元客や観光客に向け「京都らしさ」を訴求",
+   "summary_ja": "ユニクロが京都のグローバル旗艦店にて、地元の顧客や訪れる観光客に向けて京都ならではの要素を取り入れた店舗展開を行っている。地域性を活かした取り組みを通じて、国内外の多様な来店客へのアピールを図る。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "26e0a719f55f39ea",
@@ -6575,102 +6669,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "87943da63cb851d6",
-   "url": "https://news.yahoo.co.jp/articles/0081df0038ed50d81d116aa234a9a7d6a99796df",
-   "title_original": "【UNIQLO and JW ANDERSON】10/16発売！30代・40代におすすめの新作【2026年秋冬コレクション】（LEE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00010001-lee-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T10:50:02+00:00",
-   "title_ja": "ユニクロとJW ANDERSONの2026年秋冬コレクションが10月16日に発売",
-   "summary_ja": "ユニクロとJW ANDERSONによる2026年秋冬コラボレーションコレクションが10月16日に登場します。大人世代におすすめの新作アイテムが多数ラインナップされており、秋冬のコーディネートで活躍する注目のコレクションとなっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "a57b26e1b6f77e15",
-   "url": "https://www.adobomagazine.com/fashion/uniqlo-f-risso-reimagines-the-rules-of-everyday-dressing",
-   "title_original": "UNIQLO F.RISSO reimagines the rules of everyday dressing",
-   "source": "adobo Magazine",
-   "image": "https://www.adobomagazine.com/wp-content/uploads/2026/10/Uniqlo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T09:11:15+00:00",
-   "title_ja": "ユニクロがデザイナーのフランチェスコ・リッソと日常着を刷新",
-   "summary_ja": "ユニクロとデザイナーのフランチェスコ・リッソによる取り組みについての記事。独自のデザインアプローチを通じて日常着の概念を再解釈し、新たなスタイルを提案している。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "11c6df1f4d1b21d6",
-   "url": "https://www.wwdjapan.com/articles/2537955",
-   "title_original": "「ユニクロ」が靴下の価格改定とまとめ買い終了を撤回",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T07:00:00+00:00",
-   "title_ja": "ユニクロ、靴下の価格改定とまとめ買い終了を撤回",
-   "summary_ja": "ユニクロが実施予定だった靴下の価格改定と、まとめ買いサービスの終了を撤回しました。（抜粋なし）",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "900d97d310fd1320",
-   "url": "https://travel.watch.impress.co.jp/docs/news/2151175.html",
-   "title_original": "ユニクロ、「ハローキティ」新作UTを12月発売。リボンをテーマに大人のシンプルデザイン",
-   "source": "トラベル Watch",
-   "image": "https://travel.watch.impress.co.jp/img/trw/list/2151/175/00.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T05:10:09+00:00",
-   "title_ja": "ユニクロがハローキティの新作UTを12月発売 リボンがテーマ",
-   "summary_ja": "ユニクロは「ハローキティ」とコラボレーションした新作Tシャツ「UT」を12月に発売する。リボンをテーマにした、大人向けの上品でシンプルなデザインが特徴となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "dac1883593fe3c41",
-   "url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDMwMS4wMDAwMTExODIuaHRtbA==",
-   "title_original": "ジーユーとジョイセフによるファッションを通じた次世代支援活動レポート",
-   "source": "繊研新聞",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T04:53:07+00:00",
-   "title_ja": "ジーユーとジョイセフによるファッション次世代支援",
-   "summary_ja": "ジーユーとジョイセフが実施している、ファッションを通じた次世代支援活動のレポートです。（抜粋なし）",
-   "category": "サステナビリティ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "db0932c311d911fb",
-   "url": "https://news.yahoo.co.jp/articles/1c52e16c33eae454be1d32d99c943dc9d5170491",
-   "title_original": "ユニクロで「ムーミン」グッズが12月上旬発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種（インサイド）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000011-isd-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T02:30:04+00:00",
-   "title_ja": "ユニクロが「ムーミン」ベビー用ボディスーツ全6種を12月上旬に発売",
-   "summary_ja": "ユニクロは「ムーミン」のキャラクターを描いたベビー用ボディスーツ全6種を12月上旬から販売します。ムーミン谷の仲間たちがデザインされた愛らしい新作グッズとして展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
