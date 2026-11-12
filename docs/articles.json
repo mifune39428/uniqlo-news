@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T08:48:32.069011+09:00",
+ "updated_at": "2026-11-12T13:46:39.071489+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -59,7 +59,6 @@
   "GAME Watch",
   "GIGAZINE",
   "GamerBraves",
-  "Global News",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
@@ -78,11 +77,9 @@
   "LEE",
   "LIMO | くらしとお金の経済メディア",
   "Leaf KYOTO",
-  "LifeVancouver カナダ・バンクーバー現地情報",
   "Lifestyle Asia Hong Kong",
   "Lmaga.jp",
   "L’Express Franchise",
-  "MLB.com",
   "Malay Mail",
   "Mantan Web",
   "Marie Claire",
@@ -109,6 +106,7 @@
   "Retail & Leisure International",
   "Retail Gazette",
   "Retail Insider",
+  "SAYS",
   "SEVENTIE TWO",
   "SPUR（シュプール）",
   "STRAIGHT PRESS",
@@ -128,7 +126,6 @@
   "The Western Telegraph",
   "TheFutureParty",
   "TheIndustry.fashion",
-  "Times Colonist",
   "TipRanks",
   "Traders Union",
   "Trend Hunter",
@@ -151,6 +148,7 @@
   "YouTube",
   "ad-hoc-news.de",
   "dhakamagazine.com",
+  "fashion tech news",
   "hicbc.com",
   "https://mediadogs.jp/",
   "https://miyoca.jp/",
@@ -214,9 +212,11 @@
   "沖縄タイムス社",
   "流通スーパーニュース",
   "流通ニュース",
+  "玩具人 TOY PEOPLE",
   "産経ニュース",
   "繊研新聞",
   "西日本新聞me",
+  "観光経済新聞",
   "読売新聞",
   "매일경제",
   "아시아경제",
@@ -224,46 +224,109 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 233,
  "digest": {
-  "headline": "ユニクロとジブリの新作コラボ発表や海外展開の拡大が話題",
+  "headline": "ユニクロとジブリのコラボ発表や海外出店、GUの新商品情報",
   "points": [
    {
-    "text": "ユニクロはスタジオジブリの名作アニメ4作品をモチーフにした新作コラボUTコレクションを発表し、一部デザインの日本未発売に注目が集まっています。",
+    "text": "ユニクロはスタジオジブリの4作品をモチーフにした新作コラボUTコレクションの発売を発表しました。",
     "ids": [
-     "fa0d61fc093f130d",
      "91ff1bcada27ef16",
+     "82f26452263ddd66",
      "e835a5d4ac2b9dbc"
     ]
    },
    {
-    "text": "北米市場での成長を加速させるユニクロは、カナダ国内の店舗数を2倍以上に拡大させ、バンクーバーへ新たに旗艦店を開店しました。",
+    "text": "カナダやベトナム、韓国など海外市場におけるユニクロの新規店舗オープンや店舗網拡大の動きが相次いで報じられています。",
     "ids": [
      "9559a8e8c5f895ce",
      "c3d5082cfb28e3bb",
-     "b31a9ff37e65424e"
+     "256d47eb9f890bde"
     ]
    },
    {
-    "text": "ジーユーは「エンジニアド ガーメンツ」とのコラボ全8型を発売するほか、ユニクロは京都河原町店の増床リニューアルなどを実施しています。",
+    "text": "ジーユーは「エンジニアド ガーメンツ」とのコラボ全8型を発売するほか、ユニクロではセシリー バンセンとのコラボ第2弾などが登場しています。",
     "ids": [
      "943588ce7ee24b46",
-     "36e22ea22483e89e",
-     "78740e5dbeed2a8c"
+     "3339fc1619d0f5be"
     ]
    },
    {
-    "text": "SNSではユニクロのジブリ UTが話題となり、Xで3日に8件の投稿が確認されています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に50件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-09T08:57:51.609766+09:00",
-  "generated_at": "2026-11-12T08:57:53.298683+09:00",
+  "from": "2026-11-09T13:53:41.064398+09:00",
+  "generated_at": "2026-11-12T13:54:05.586373+09:00",
   "article_count": 24,
-  "sig": "8c47dbff729f"
+  "sig": "4e28b0758a8b"
  },
  "items": [
+  {
+   "id": "e9b5ec38a7a33ace",
+   "url": "https://www.inside-games.jp/article/2026/11/12/190807.html",
+   "title_original": "ユニクロの「ハローキティ」新作UTが素敵！「リボン」にフィーチャーした、“大人向け”デザイン",
+   "source": "インサイド",
+   "image": "https://www.inside-games.jp/imgs/ogp_f/1798887.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T03:25:02+00:00",
+   "title_ja": "ユニクロが「ハローキティ」の新作UTを発売　リボンモチーフの大人向けデザイン",
+   "summary_ja": "ユニクロから「ハローキティ」とコラボレーションした新作UTが登場。トレードマークであるリボンにスポットを当てた大人向けのデザインとなっており、シンプルかつ上品に着用できるコレクションを紹介している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "09ac2f5b69546d8f",
+   "url": "https://www.kankokeizai.com/2611121030kks",
+   "title_original": "「ユニクロ 京都」限定でヤサカタクシーのTシャツとトートバッグが登場 刺繍デザインも初コラボ",
+   "source": "観光経済新聞",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T01:30:06+00:00",
+   "title_ja": "「ユニクロ 京都」限定でヤサカタクシーとのコラボ商品が発売",
+   "summary_ja": "ユニクロ京都店限定で、地元のヤサカタクシーとコラボレーションしたTシャツやトートバッグが登場します。今回の取り組みでは、初となる刺繍デザインをあしらったアイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "3339fc1619d0f5be",
+   "url": "https://baila.hpplus.jp/fashion/petitprice/84910",
+   "title_original": "【UNIQLO and Cecilie Bahnsen（ユニクロ アンド セシリー バンセン）】コラボ第2弾はフリースが主役！ 大人可愛い服全4型を試着レビュー",
+   "source": "BAILA（バイラ）",
+   "image": "https://img-baila.hpplus.jp/ogp/image/fa/fabfa2fe-cfbb-402c-b644-1750a2a995d2-1280x672.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T00:00:00+00:00",
+   "title_ja": "「ユニクロ アンド セシリー バンセン」コラボ第2弾　フリースなど全4型を展開",
+   "summary_ja": "ユニクロと「セシリー バンセン」によるコラボレーションコレクションの第2弾が登場。フリースを中心とした大人可愛いデザインのウェア全4型を展開しており、試着した着用感とともに紹介している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "32db2718265edede",
+   "url": "https://www.sanyonews.jp/article/1983635?kw=%E4%BA%AC",
+   "title_original": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップ購入可能に",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/3/e/f/4/3ef41262f25317220eb95e050d7e70bf_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T22:09:10+00:00",
+   "title_ja": "ユニクロ、ベビー取り扱い店舗で「ベビー肌着」全ラインナップを販売開始",
+   "summary_ja": "ユニクロは、ベビー用品の取り扱いがある店舗において「ベビー肌着」の全ラインナップを購入できるようにしました。顧客は対象店舗にて、すべてのベビー肌着商品を実際に確認して購入できるようになります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "310f1c1309c30162",
    "url": "https://www.nikkei.com/article/DGXZQOCD091CD0Z01C26A1000000",
@@ -278,7 +341,23 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "0f483a532b286433",
+   "url": "https://says.com/my/lifestyle/pikachu-is-coming-to-uniqlo-the-exchange-trx-for-a-free-meet-greet-this-week",
+   "title_original": "Pikachu Is Coming To UNIQLO The Exchange TRX For A Free Meet & Greet This Week",
+   "source": "SAYS",
+   "image": "https://media.says.com/2026/11/URr22V0K-Tammys-cover-image.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T11:28:58+00:00",
+   "title_ja": "ユニクロマレーシア店舗にピカチュウが登場、今週無料イベントを開催",
+   "summary_ja": "マレーシアの商業施設「The Exchange TRX」にあるユニクロ店舗にて、ピカチュウが登場するグリーティングイベントが今週開催されます。参加費は無料で、現地店舗でキャラクターと直接交流できる催しとなっています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "256d47eb9f890bde",
@@ -375,6 +454,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "5dcce637525c7d48",
+   "url": "https://fashiontechnews.zozo.com/en/articles/uniqlo_americancasual",
+   "title_original": "A Modern Take on Coveralls, Fleece, and Sweatshirts: How UNIQLO Is Evolving American Casual Staples",
+   "source": "fashion tech news",
+   "image": "https://images.microcms-assets.io/assets/1775a3633c8b428d9f011c6a758a8a5c/d5b28b8966084256a3953a4111c6735d/UCC.png?h=630&w=1200&fit=crop",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T01:00:00+00:00",
+   "title_ja": "ユニクロがアメカジ定番商品をモダンに進化　カバーオールやフリースなどを刷新",
+   "summary_ja": "ユニクロは、カバーオールやフリース、スウェットといったアメリカンカジュアルの定番アイテムをモダンに刷新し、進化させています。現代的な視点を取り入れることで、従来の定番スタイルを新たな形で展開しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "943588ce7ee24b46",
@@ -585,6 +680,22 @@
    "has_detail": true
   },
   {
+   "id": "82f26452263ddd66",
+   "url": "https://www.toy-people.com/en/?p=116331",
+   "title_original": "Uniqlo x Studio Ghibli UT Collection Arrives in December, Bringing Animated Classics to Your Wardrobe!",
+   "source": "玩具人 TOY PEOPLE",
+   "image": "https://img.toy-people.com/member/179430110087.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-10T09:32:52+00:00",
+   "title_ja": "ユニクロとスタジオジブリの「UT」コラボコレクションが12月に発売決定",
+   "summary_ja": "ユニクロから、スタジオジブリとコラボレーションした「UT」コレクションが12月に登場することが決定しました。ジブリの名作アニメーションの世界観を表現した各種ウェアが展開される予定です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "9f168aba72a7573c",
    "url": "https://www.fashionsnap.com/article/2026-11-10/uniqlo-heattech-day",
    "title_original": "「ヒートテックなくして今の僕はありません」M!LK 塩崎太智がユニクロのイベントに登壇",
@@ -631,6 +742,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "a08f5f034ddc2193",
+   "url": "https://natalie.mu/music/news/697381",
+   "title_original": "ヒートテックなくして今の僕なし！塩﨑太智がユニクロ会見で熱弁、“初期装備”の衣替え事情も明かされる【詳報版レポート】",
+   "source": "ナタリー",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T07:15:00+00:00",
+   "title_ja": "塩﨑太智さんが登壇、ユニクロの会見でヒートテックを熱弁",
+   "summary_ja": "ユニクロの会見に塩﨑太智さんが登壇し、ヒートテックへの思いや自身の衣替え事情について熱く語りました。商品の魅力を伝える発表会の詳細なレポートが公開されています。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "af10c8ad4e444785",
@@ -6535,134 +6662,6 @@
    "brand": "GU",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "e1cbfe18534eed39",
-   "url": "https://news.yahoo.co.jp/articles/028564968309ff0d15d9914d82c9d75b6bf9fb3a/images/000",
-   "title_original": "【GU】ジーユー、ポケモンとの新作「スペシャルコレクション」 “森の中”をモチーフにフリースやニットジャケットなど8型を展開",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfn0wwjBlRrzHLsSeih_lo-N74qL8UUryRQV3DujHxNKXrFUS9O6kNHMwp5bMD4xXdhRU5axQJlcFIsT-DdQwLZA0MgGznyiZ2jnn2AxCKPj",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T22:20:00+00:00",
-   "title_ja": "GUがポケモンとの新作コレクションを発表。「森の中」テーマに全8型",
-   "summary_ja": "ジーユーが「ポケモン」との最新コラボ「スペシャルコレクション」を発表しました。「森の中」をテーマに掲げ、フリースやニットジャケットなど計8型のアイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "30a0b3dc0687d591",
-   "url": "https://globalnews.ca/news/12121819/uniqlo-move-nordstrom-building-downtown-vancouver",
-   "title_original": "Uniqlo to move into old Nordstrom building in downtown Vancouver",
-   "source": "Global News",
-   "image": "https://globalnews.ca/wp-content/uploads/2015/01/tok401-47_2010_141232_high.jpg?quality=65&strip=all&w=650&h=379&crop=1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T21:27:27+00:00",
-   "title_ja": "カナダ・バンクーバー中心部の旧ノードストローム跡地にユニクロが進出へ",
-   "summary_ja": "カナダ・バンクーバーのダウンタウンにある旧ノードストロームのビルへ、ユニクロが入居して出店することが明らかになった。北米エリアにおける店舗展開の一環として注目されている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "455da39600480649",
-   "url": "http://www.excite.co.jp/news/article/football_zone_1487544162642592716",
-   "title_original": "Jリーグ待望グッズ「これすごくない…？」 47都道府県を網羅、ユニクロとコラボに「注文しちゃった」",
-   "source": "Excite エキサイト",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T20:09:00+00:00",
-   "title_ja": "Jリーグとユニクロがコラボ、全47都道府県を網羅したグッズが話題に",
-   "summary_ja": "Jリーグとユニクロがコラボレーションし、全国47都道府県を網羅したオリジナルグッズが登場した。ファンから「すごい」といった驚きの声や購入報告など多くの反響を呼んでいる。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "39cc2e6193d6bc82",
-   "url": "https://news.yahoo.co.jp/articles/c5f9061b1f2a0f2f0846b6349cb316108649fec1",
-   "title_original": "Jリーグ待望グッズ「これすごくない…？」 47都道府県を網羅、ユニクロとコラボに「注文しちゃった」（FOOTBALL ZONE）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00681037-soccermzw-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T20:01:00+00:00",
-   "title_ja": "Jリーグが47都道府県を網羅するユニクロとのコラボ商品を発売",
-   "summary_ja": "Jリーグが全47都道府県を網羅したユニクロとのコラボレーションアイテムを発表し、話題を呼んでいます。ファンの間では充実したラインナップに驚きの声が上がり、購入報告も相次いでいます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "646bc91872f39a13",
-   "url": "https://www.mlb.com/news/savannah-bananas-to-make-their-uniqlo-field-at-dodger-stadium-debut-from-april-23-24-2027",
-   "title_original": "Savannah Bananas to Make Their Uniqlo Field at Dodger Stadium Debut from April 23-24, 2027",
-   "source": "MLB.com",
-   "image": "https://images.ctfassets.net/iiozhi00a8lc/7rLiL2FzRtYvRA6WljKhNY/359c3d0e14e8deced16d006ecb2f4218/mlb_fallback_2.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T18:40:22.345000+00:00",
-   "title_ja": "サバナ・バナナズが2027年4月にドジャースタジアムのユニクロフィールドで試合開催",
-   "summary_ja": "エンタメ野球チームのサバナ・バナナズが、2027年4月23日から24日にかけてドジャー・スタジアム内の「ユニクロ・フィールド」で初披露を行うことが発表された。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "85be0613ad5e05e7",
-   "url": "https://www.timescolonist.com/real-estate/uniqlo-to-open-first-downtown-location-at-pacific-centre-12939067",
-   "title_original": "UNIQLO to open first downtown location at Pacific Centre",
-   "source": "Times Colonist",
-   "image": "https://www.vmcdn.ca/f/files/biv/images/business/uniqlo-pac-1.jpg;w=1200;h=800;mode=crop",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T17:47:32+00:00",
-   "title_ja": "ユニクロがパシフィック・センターにダウンタウン初店舗を出店へ",
-   "summary_ja": "カナダのパシフィック・センターにユニクロが出店することが明らかになりました。同地区のダウンタウンエリアにおいては初店舗となり、地域でのプレゼンス向上が期待されます。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e6508f1d8bb9dd95",
-   "url": "https://retail-insider.com/retail-insider/2026/10/uniqlo-to-open-approximately-37000-square-foot-flagship-at-vancouvers-cf-pacific-centre",
-   "title_original": "UNIQLO to Open Flagship at Vancouver’s CF Pacific Centre",
-   "source": "Retail Insider",
-   "image": "https://retail-insider.com/wp-content/uploads/2026/10/image-72.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T17:44:56+00:00",
-   "title_ja": "カナダ・バンクーバーに大型店をオープンへ",
-   "summary_ja": "ユニクロがバンクーバーのショッピングセンター「CFパシフィック・センター」にフラッグシップ店舗を開設する計画です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "5da6c6f51e26af8f",
-   "url": "https://lifevancouver.jp/uniqlo-open-vancouver-downtown-2027",
-   "title_original": "ユニクロがバンクーバーのダウンタウンに初出店を発表！新しい旗艦店2027年オープン予定",
-   "source": "LifeVancouver カナダ・バンクーバー現地情報",
-   "image": "https://lifevancouver.jp/wp/wp-content/uploads/2026/10/uniqlo-downtown-vancouver-1024x538.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T17:20:00+00:00",
-   "title_ja": "ユニクロがバンクーバー中心部に初出店へ、2027年に旗艦店を開業予定",
-   "summary_ja": "ユニクロがカナダ・バンクーバーのダウンタウン地区への初出店を発表しました。2027年に新たな旗艦店としてオープンする予定となっており、現地でのブランド展開の加速が注目されています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
