@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T23:11:02.049421+09:00",
+ "updated_at": "2026-11-13T07:56:55.285424+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -36,12 +36,11 @@
   "Business Examiner",
   "Business News Wales",
   "BusinessMirror",
-  "CTV News",
   "Cate Blanchett Fan",
   "China Daily",
   "Chosunbiz",
-  "Citizens Journal",
   "Connect CRE Canada",
+  "Daily Hive",
   "Dtimes",
   "ELLE",
   "Emo!miu",
@@ -110,6 +109,8 @@
   "SPUR（シュプール）",
   "STRAIGHT PRESS",
   "Secret Miami",
+  "Siliconera",
+  "Smartkarma",
   "Speed",
   "Stylist",
   "TBS NEWS DIG",
@@ -121,7 +122,6 @@
   "The Financial Express",
   "The Independent",
   "The Sole Supplier",
-  "The Vent Machine -",
   "The Western Telegraph",
   "TheFutureParty",
   "TheIndustry.fashion",
@@ -133,7 +133,6 @@
   "UQライフ",
   "Unisba Media",
   "VZ VermögensZentrum",
-  "Vancouver Is Awesome",
   "Vietnam.vn",
   "Village Pipol",
   "Vogue Japan",
@@ -142,7 +141,6 @@
   "Wales 247",
   "Wales Online",
   "Wazzup.PH",
-  "Yahoo News Canada",
   "Yahoo!ニュース",
   "YouTube",
   "ad-hoc-news.de",
@@ -156,6 +154,7 @@
   "ktv.jp",
   "marketech apac",
   "marketscreener.com",
+  "purplerevolver.com",
   "selecta bisso",
   "stupidDOPE",
   "vietnamnews.vn",
@@ -221,51 +220,125 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 234,
  "digest": {
-  "headline": "ユニクロのジブリコラボや海外展開、GUの新作情報まとめ",
+  "headline": "海外展開の加速や価格戦略、ユニクロ・GUの注目の新作情報",
   "points": [
    {
-    "text": "ユニクロとスタジオジブリによる名作アニメを題材にしたコラボコレクションやUTの12月発売が発表されました。",
-    "ids": [
-     "fa0d61fc093f130d",
-     "91ff1bcada27ef16",
-     "17b1530e1e25d7fd"
-    ]
-   },
-   {
-    "text": "ユニクロは中国事業の構造改革や3000店舗体制を見据えた店舗戦略の再構築を進めています。",
+    "text": "ユニクロは中国事業の構造改革を進め店舗戦略見直しや人材採用を図る一方、カナダの店舗数を2倍以上に拡大しています。",
     "ids": [
      "e443a79f49ba026c",
-     "4e3719f6a40c2a11"
+     "4e3719f6a40c2a11",
+     "9559a8e8c5f895ce"
     ]
    },
    {
-    "text": "GUはポケモンとの新作コレクションやエンジニアド ガーメンツとのコラボ新作全8型を発表・発売しました。",
+    "text": "ファーストリテイリングが売上目標に向け価格改定を進める一方、ユニクロの10月既存店売上高は前年同月比5.5%減となりました。",
     "ids": [
+     "e9961b87adf78abf",
+     "2c04b67ed7a148f2"
+    ]
+   },
+   {
+    "text": "ユニクロのジブリやセシリー・バンセン、GUのポケモンやエンジニアド ガーメンツとのコラボ新作コレクションが発表されました。",
+    "ids": [
+     "fd734cfb1c9d346a",
      "8f855b868ecab365",
      "943588ce7ee24b46"
     ]
    },
    {
-    "text": "ユニクロはカナダでの店舗数拡大や南仏カンヌへの新店オープンなど、海外展開を加速させています。",
-    "ids": [
-     "9559a8e8c5f895ce",
-     "dc7b37e672f9c7fd"
-    ]
-   },
-   {
-    "text": "ユニクロのジブリ UTはXで3日に10件投稿され話題を集めました。",
+    "text": "SNSでは「GU ちいかわ ポーチ」がXで3日に63件投稿され、注目を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-09T23:23:33.142338+09:00",
-  "generated_at": "2026-11-12T23:23:35.106969+09:00",
+  "from": "2026-11-10T08:06:40.756673+09:00",
+  "generated_at": "2026-11-13T08:06:56.124790+09:00",
   "article_count": 24,
-  "sig": "f72f86ac9c6f"
+  "sig": "3f7575c8633d"
  },
  "items": [
+  {
+   "id": "61a5ff9512805ca5",
+   "url": "https://dailyhive.com/vancouver/vancouver-cafe-uniqlo-collab-little-pisces",
+   "title_original": "Metro Vancouver cafe gets its own 'dream' Uniqlo collab",
+   "source": "Daily Hive",
+   "image": "https://images-dh-production-baselayer.dailyhive.com/uploads/2026/11/vancouver-cafe-uniqlo.jpg?format=auto",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T21:40:42+00:00",
+   "title_ja": "カナダ・バンクーバーの地元カフェがユニクロと夢のコラボを展開",
+   "summary_ja": "カナダのメトロバンクーバーにあるカフェが、ユニクロとのコラボレーション企画を実現させたことがわかりました。地元の人気カフェとユニクロが手を組み、オリジナルのコラボレーションアイテムなどを展開する試みとして注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "44f6c6958c11da7b",
+   "url": "https://news.yahoo.co.jp/articles/19dd36b21bf2e86c3cf584693bd537871eec5bec",
+   "title_original": "「ユニクロって韓国の会社じゃないの？」アメリカのジムで聞かれた“まさかの質問”…DHCまで「韓国製」と誤解されてしまう“残念すぎる現実”（文春オンライン）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00093281-bunshun-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T21:21:16+00:00",
+   "title_ja": "米国でユニクロが韓国企業と誤認される事例、海外での認知に課題",
+   "summary_ja": "アメリカのジムなどでユニクロをはじめとする日本ブランドが韓国企業や韓国製と誤認されている実態について伝えられています。海外市場において日本の有名ブランドの認知やイメージがどのように受け取られているかが浮き彫りになりました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "e23d9e0e470c472e",
+   "url": "https://www.siliconera.com/4-new-hello-kitty-t-shirts-head-to-uniqlo-next-month",
+   "title_original": "4 New Hello Kitty T-shirts Head to Uniqlo Next Month",
+   "source": "Siliconera",
+   "image": "https://www.siliconera.com/wp-content/uploads/2026/11/4-new-hello-kitty-t-shirts-head-to-uniqlo-next-month.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T19:00:00+00:00",
+   "title_ja": "ユニクロから「ハローキティ」の新作Tシャツ4種が翌月に発売へ",
+   "summary_ja": "ユニクロから「ハローキティ」とコラボレーションした新作Tシャツ4種が翌月に発売されることが明らかになりました。人気キャラクターをデザインした新たなコレクションとして注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "26976807587baa0e",
+   "url": "https://purplerevolver.com/style/uniqlo-fw26-winter-essentials",
+   "title_original": "UNIQLO Unveils Its FW26 Essentials: Effortless Layers, Cosy Knitwear and Winter Wardrobe Staples",
+   "source": "purplerevolver.com",
+   "image": "https://purplerevolver.com/wp-content/uploads/2026/11/Uniqlo-Winter-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-12T12:00:00+00:00",
+   "title_ja": "ユニクロが2026年秋冬コレクションを発表　ニットや着回せるレイヤード服が展開",
+   "summary_ja": "ユニクロは、2026年秋冬シーズンのエッセンシャルコレクションを発表しました。冬の定番アイテムをはじめ、重ね着しやすいレイヤードウェアや着心地のよいニットウェアなど、日常着として活躍する幅広いラインナップを披露しています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "658e1a5e6920b024",
+   "url": "https://www.oricon.co.jp/news/2492281",
+   "title_original": "『サタプラ』、新コーナー「ましましアップデート術」スタート 初回は“ユニクロ活用術”披露",
+   "source": "オリコンニュース",
+   "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492281/20261111_220830_p_o_16097556.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T10:00:00+00:00",
+   "title_ja": "テレビ番組「サタプラ」の新コーナーでユニクロ活用術を披露",
+   "summary_ja": "情報番組「サタプラ」にて新コーナー「ましましアップデート術」がスタートした。記念すべき初回放送ではユニクロの活用術が取り上げられ、日常の着こなしをアップデートする術が披露される。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "e443a79f49ba026c",
    "url": "https://business.nikkei.com/atcl/gen/19/00485/111000149",
@@ -408,7 +481,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0f483a532b286433",
@@ -424,6 +497,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "a1912eed50040d78",
+   "url": "https://newswav.com/article/uniqlo-and-studio-ghibli-announce-new-live-for-today-my-dear-ut-collection-A2611_AjpomM",
+   "title_original": "UNIQLO and Studio Ghibli Announce New LIVE FOR TODAY, MY DEAR UT Collection",
+   "source": "Newswav",
+   "image": "https://www.jetset.my/wp-content/uploads/2026/11/UT_1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T11:20:00+00:00",
+   "title_ja": "ユニクロとスタジオジブリが新たなUTコレクションを発表",
+   "summary_ja": "ユニクロとスタジオジブリがコラボレーションした「LIVE FOR TODAY, MY DEAR UT」コレクションを発表しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -537,6 +626,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "e9961b87adf78abf",
+   "url": "https://www.smartkarma.com/insights/uniqlo-raises-and-lowers-prices-as-it-dreams-of-10-trillion-revenues",
+   "title_original": "Uniqlo raises and lowers prices as it dreams of ¥10 trillion revenues",
+   "source": "Smartkarma",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-11T00:37:03+00:00",
+   "title_ja": "売上高10兆円を目指すファーストリテイリングの価格戦略",
+   "summary_ja": "壮大な売上目標の達成に向けて、ファーストリテイリングが商品の価格改定や戦略的な見直しを進めている動向を伝えています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "943588ce7ee24b46",
@@ -760,7 +865,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "82f26452263ddd66",
@@ -6553,118 +6658,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "c96bfa026125a6e3",
-   "url": "https://report.iko-yo.net/articles/35164/digest",
-   "title_original": "モンチッチがのぞく限定ドーナツ！ベビチッチ初イベント＆ユニクロも｜秋コラボ9選",
-   "source": "いこーよニュース",
-   "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35289/normal.png?1793075414",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T04:33:15+00:00",
-   "title_ja": "モンチッチの限定ドーナツやユニクロコラボが秋のイベントに登場",
-   "summary_ja": "モンチッチの初イベントや限定ドーナツに加え、ユニクロとのコラボレーションなど、秋のおすすめ企画情報が紹介されています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "e5cf4bd0dc138725",
-   "url": "https://www.vancouverisawesome.com/business/japanese-retailer-downtown-vancouver-flagship-nordstrom--12940105",
-   "title_original": "Japanese retailer announces downtown Vancouver flagship in former Nordstrom space",
-   "source": "Vancouver Is Awesome",
-   "image": "https://www.vmcdn.ca/f/files/via/images/business/uniqlo_coming-soon-announvement_vancouver.jpg;w=1200;h=800;mode=crop",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T03:15:00+00:00",
-   "title_ja": "バンクーバー中心部の元ノードストローム跡地にフラッグシップ店",
-   "summary_ja": "日本の大手アパレルブランドが、バンクーバー中心街の旧ノードストロームが入居していたスペースに新たな大型店舗を出店すると発表しました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "5cf6b18a0523105b",
-   "url": "https://cj.my/160006/sunway-ipoh-mall-is-80-leased-with-uniqlo-and-muji-signed",
-   "title_original": "Sunway Ipoh Mall is 80% leased, with Uniqlo and Muji signed",
-   "source": "Citizens Journal",
-   "image": "https://cj.my/wp-content/uploads/2026/10/sunway_mall_ipoh_02.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T02:48:04+00:00",
-   "title_ja": "マレーシアのサンウェイ・イポー・モールに出店へ",
-   "summary_ja": "マレーシア国内の商業施設サンウェイ・イポー・モールにおいて、テナント契約が8割に達し、ユニクロと無印良品の出店が決定しました。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7f1fce1cab08fc74",
-   "url": "https://theventmachine.com/2026/10/27/uniqlo-peace-for-all-for-sg-families/?amp=1",
-   "title_original": "UNIQLO PEACE FOR ALL supports families in Singapore",
-   "source": "The Vent Machine -",
-   "image": "https://i0.wp.com/theventmachine.com/wp-content/uploads/2026/10/UNIQLOs-PEACE-FOR-ALL-Global-Event.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T02:44:35+00:00",
-   "title_ja": "ユニクロの「PEACE FOR ALL」がシンガポールの家庭を支援",
-   "summary_ja": "ユニクロのチャリティプロジェクト「PEACE FOR ALL」が、シンガポールの家庭や家族を支援する取り組みを展開しています。利益還元や寄付を通じて現地の支援を広げる活動となっています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "973840ae3460453c",
-   "url": "https://www.ctvnews.ca/vancouver/article/uniqlo-to-join-aritzia-simons-in-vancouvers-former-nordstrom-space",
-   "title_original": "Uniqlo to join Aritzia, Simons in Vancouver’s former Nordstrom space",
-   "source": "CTV News",
-   "image": "https://www.ctvnews.ca/resizer/v2/NSHKZLXGUVYGRMTBEJ5CLAI7OM.jpg?smart=true&auth=50e3aeb2fa5d0955c96cb3643b16f7e5b4b6bf0072ced50cd1faa838a5be3d3f&width=1200&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T02:27:13.201000+00:00",
-   "title_ja": "バンクーバーの旧ノードストローム施設にユニクロなどが出店予定",
-   "summary_ja": "カナダ・バンクーバーにある旧ノードストロームの商業スペースに、ユニクロがアリツィアやシモンズといったブランドとともに入居して出店することが報じられている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9f04363cae43a35f",
-   "url": "https://www.ctvnews.ca/vancouver/video/2026/10/27/uniqlo-coming-to-downtown-vancouver",
-   "title_original": "Uniqlo coming to downtown Vancouver",
-   "source": "CTV News",
-   "image": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fd3g70guqh4mw9g.cloudfront.net%2F10-27-2026%2Ft_34b62f93fe4b4272829b6851a8e53ede_name_26_RAW_VAN_UNIQLO_frame_1849.jpeg?smart=true&auth=1f4351c79798d402a81253819d001c9cfcf4d48952f10aecca19422fe75e8d6e&width=1200&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T02:23:29+00:00",
-   "title_ja": "ユニクロがカナダ・バンクーバーの中心部に新店舗を出店へ",
-   "summary_ja": "ユニクロがカナダのバンクーバー中心部に出店することが分かりました。現地主要都市のダウンタウン地区への出店により、北米エリアにおけるブランドの認知度向上と顧客層の拡大を図ります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "06b559a90567cc1c",
-   "url": "https://ca.news.yahoo.com/uniqlo-opening-old-nordstrom-building-005938793.html",
-   "title_original": "Uniqlo opening in old Nordstrom building",
-   "source": "Yahoo News Canada",
-   "image": "https://s.yimg.com/lo/mysterio/api/e64e5b687b9f626010c677f70de12cd742f5211b9e525daa4f864622de06b870/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.globalnews.com%2F00f535f7d69f3a39e288c4741a8f6005.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T00:59:38+00:00",
-   "title_ja": "ユニクロが旧ノードストロームのビルへ新規出店へ",
-   "summary_ja": "商業施設として使用されていた旧ノードストロームの建物に、ユニクロが新しく店舗をオープンする計画が進められています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
