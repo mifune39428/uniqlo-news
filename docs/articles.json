@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T13:46:39.071489+09:00",
+ "updated_at": "2026-11-12T23:11:02.049421+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -77,7 +77,6 @@
   "LEE",
   "LIMO | くらしとお金の経済メディア",
   "Leaf KYOTO",
-  "Lifestyle Asia Hong Kong",
   "Lmaga.jp",
   "L’Express Franchise",
   "Malay Mail",
@@ -161,7 +160,6 @@
   "stupidDOPE",
   "vietnamnews.vn",
   "www.daily-sun.com",
-  "ИФЗ РАН",
   "│BABYDOT（ベイビードット）",
   "いこーよニュース",
   "にじめん",
@@ -213,7 +211,6 @@
   "流通スーパーニュース",
   "流通ニュース",
   "玩具人 TOY PEOPLE",
-  "産経ニュース",
   "繊研新聞",
   "西日本新聞me",
   "観光経済新聞",
@@ -226,43 +223,81 @@
  "count": 400,
  "detail_count": 233,
  "digest": {
-  "headline": "ユニクロとジブリのコラボ発表や海外出店、GUの新商品情報",
+  "headline": "ユニクロのジブリコラボや海外展開、GUの新作情報まとめ",
   "points": [
    {
-    "text": "ユニクロはスタジオジブリの4作品をモチーフにした新作コラボUTコレクションの発売を発表しました。",
+    "text": "ユニクロとスタジオジブリによる名作アニメを題材にしたコラボコレクションやUTの12月発売が発表されました。",
     "ids": [
+     "fa0d61fc093f130d",
      "91ff1bcada27ef16",
-     "82f26452263ddd66",
-     "e835a5d4ac2b9dbc"
+     "17b1530e1e25d7fd"
     ]
    },
    {
-    "text": "カナダやベトナム、韓国など海外市場におけるユニクロの新規店舗オープンや店舗網拡大の動きが相次いで報じられています。",
+    "text": "ユニクロは中国事業の構造改革や3000店舗体制を見据えた店舗戦略の再構築を進めています。",
+    "ids": [
+     "e443a79f49ba026c",
+     "4e3719f6a40c2a11"
+    ]
+   },
+   {
+    "text": "GUはポケモンとの新作コレクションやエンジニアド ガーメンツとのコラボ新作全8型を発表・発売しました。",
+    "ids": [
+     "8f855b868ecab365",
+     "943588ce7ee24b46"
+    ]
+   },
+   {
+    "text": "ユニクロはカナダでの店舗数拡大や南仏カンヌへの新店オープンなど、海外展開を加速させています。",
     "ids": [
      "9559a8e8c5f895ce",
-     "c3d5082cfb28e3bb",
-     "256d47eb9f890bde"
+     "dc7b37e672f9c7fd"
     ]
    },
    {
-    "text": "ジーユーは「エンジニアド ガーメンツ」とのコラボ全8型を発売するほか、ユニクロではセシリー バンセンとのコラボ第2弾などが登場しています。",
-    "ids": [
-     "943588ce7ee24b46",
-     "3339fc1619d0f5be"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ポーチ」が話題となり、Xで3日に50件投稿されています。",
+    "text": "ユニクロのジブリ UTはXで3日に10件投稿され話題を集めました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-09T13:53:41.064398+09:00",
-  "generated_at": "2026-11-12T13:54:05.586373+09:00",
+  "from": "2026-11-09T23:23:33.142338+09:00",
+  "generated_at": "2026-11-12T23:23:35.106969+09:00",
   "article_count": 24,
-  "sig": "4e28b0758a8b"
+  "sig": "f72f86ac9c6f"
  },
  "items": [
+  {
+   "id": "e443a79f49ba026c",
+   "url": "https://business.nikkei.com/atcl/gen/19/00485/111000149",
+   "title_original": "ユニクロが中国事業改革 不景気逆手に採用増、人材を海外派遣",
+   "source": "日経ビジネス電子版",
+   "image": "https://business.nikkei.com/atcl/gen/19/00485/111000149/fb.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T08:00:00+00:00",
+   "title_ja": "ユニクロが中国事業の改革に着手 不景気を好機と捉え採用増と海外派遣へ",
+   "summary_ja": "ユニクロが中国事業の構造改革を進めています。現地での不景気を好機と捉えて採用活動を強化するとともに、採用した人材を海外拠点へ派遣し育成する取り組みに注力する方針です。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "4e3719f6a40c2a11",
+   "url": "https://news.yahoo.co.jp/articles/a92bd6548c4d766e8eea3f7417bac7c5ee81e88f",
+   "title_original": "ユニクロ、中国事業の改革急ぐ 3000店舗視野に店舗戦略見直し（毎日新聞）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00000029-mai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T07:30:21+00:00",
+   "title_ja": "ユニクロが中国事業の改革を急ぐ 3000店を視野に店舗戦略を再構築",
+   "summary_ja": "ユニクロが中国における事業改革を速やかなスピードで進めています。将来的な3000店舗体制を見据え、既存の出店計画や店舗の配置戦略について見直しを図る意向を示しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "e9b5ec38a7a33ace",
    "url": "https://www.inside-games.jp/article/2026/11/12/190807.html",
@@ -277,7 +312,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "fd734cfb1c9d346a",
+   "url": "https://senken.co.jp/posts/uniqlo-261112",
+   "title_original": "ユニクロ、セシリー・バンセンとの協業第2弾 花モチーフのフリースアイテムなど",
+   "source": "繊研新聞",
+   "image": "https://senken.co.jp/production/uploads/file_content/file/429067/facebook_760570_-_2026-11-12T103119.517.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T02:00:00+00:00",
+   "title_ja": "ユニクロ、セシリー・バンセンとのコラボ第2弾を発表",
+   "summary_ja": "ユニクロは、セシリー・バンセンとのコラボレーション第2弾を実施する。花をモチーフにしたフリース素材のアイテムなどが登場予定。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "09ac2f5b69546d8f",
@@ -325,7 +376,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "310f1c1309c30162",
@@ -342,6 +393,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "8f855b868ecab365",
+   "url": "https://www.sanyonews.jp/article/2011130",
+   "title_original": "【GU】ジーユー、ポケモンとの新作「スペシャルコレクション」 “森の中”をモチーフにフリースやニットジャケットなど8型を展開",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/0/3/5/3/0353149b6d7cd6721cde55eb86a16b12_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-11T19:47:03+00:00",
+   "title_ja": "GU、ポケモンとの新作コレクションを発表",
+   "summary_ja": "GUは、ポケモンをモチーフにしたフリースやニットジャケットなど全8型の新作コレクションを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "0f483a532b286433",
@@ -469,7 +536,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "943588ce7ee24b46",
@@ -680,6 +747,22 @@
    "has_detail": true
   },
   {
+   "id": "17b1530e1e25d7fd",
+   "url": "https://www.toy-people.com/jp/?p=116331",
+   "title_original": "ユニクロ×スタジオジブリのコラボUTが12月発売！ 名作キャラクターがコーデを彩る",
+   "source": "玩具人 TOY PEOPLE",
+   "image": "https://img.toy-people.com/member/179430110087.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-10T09:32:52+00:00",
+   "title_ja": "ユニクロがスタジオジブリとのコラボUTを12月に発売",
+   "summary_ja": "ユニクロはスタジオジブリ作品とコラボレーションした「UT」グラフィックTシャツを12月に発売します。ジブリの名作キャラクターたちが描かれ、コーディネートを彩るコレクションとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "82f26452263ddd66",
    "url": "https://www.toy-people.com/en/?p=116331",
    "title_original": "Uniqlo x Studio Ghibli UT Collection Arrives in December, Bringing Animated Classics to Your Wardrobe!",
@@ -757,7 +840,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "af10c8ad4e444785",
@@ -805,22 +888,6 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "e835a5d4ac2b9dbc",
-   "url": "https://www.lifestyleasia.com/hk/style/uniqlo-studio-ghibli-ut-collection-mens-kids",
-   "title_original": "UNIQLO x Studio Ghibli UT Collection: Wearable Art in Men’s and Kids’ Sizes",
-   "source": "Lifestyle Asia Hong Kong",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-10T05:14:00+00:00",
-   "title_ja": "ユニクロがスタジオジブリとのコラボUTコレクションを発表",
-   "summary_ja": "ユニクロは、メンズとキッズ向けにスタジオジブリの世界観を表現した「UT」コレクションを発表しました。着用できるアートとして展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
    "detail_tries": 2
   },
   {
@@ -6596,70 +6663,6 @@
    "summary_ja": "商業施設として使用されていた旧ノードストロームの建物に、ユニクロが新しく店舗をオープンする計画が進められています。",
    "category": "店舗・出店",
    "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "37db1599f5fc4779",
-   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_HumanMade_20261027",
-   "title_original": "HUMAN MADEが9.26％高で急伸 ファストリは2日続落、「ユニクロ」はソックスの価格改定を中止｜「SVT インデックス」13,489ポイント（10月27日）",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/03/840-19.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T00:00:00+00:00",
-   "title_ja": "ファーストリテイリングが2日続落、ユニクロは靴下の価格改定中止を発表",
-   "summary_ja": "10月27日の株式市場でファーストリテイリングの株価が2日続落しました。あわせて、ユニクロが実施予定だったソックスの価格改定を中止したことなども伝えられています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "552682eb1147b651",
-   "url": "https://www.seventietwo.com/ja/business/SVTglobal_asics_20261026",
-   "title_original": "アシックスが5.92％安、ファストリが2.50％安で日本勢が下落率で上位2位 ケリングは0.81％高と反発｜「SVT グローバル」10月26日",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2026/03/840-22.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T00:00:00+00:00",
-   "title_ja": "ファストリ株が2.50％安、グローバル市場で下落率上位に",
-   "summary_ja": "10月26日のグローバル市場において、ファーストリテイリングの株価が2.50％安を記録しました。アシックスとともに下落率上位となった一方、仏ケリングは反発するなど企業ごとに明暗が分かれています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "f4cecd4dacf3e800",
-   "url": "https://geosirius.ifz.ru/uniqlo-finally-taking-old-nordstrom-space-changes-downtown-vancouver",
-   "title_original": "Why Uniqlo Finally Taking Over The Old Nordstrom Space Changes Downtown Vancouver Forever",
-   "source": "ИФЗ РАН",
-   "image": "https://globalnews.ca/wp-content/uploads/2015/01/tok401-47_2010_141232_high.jpg?quality=65&strip=all",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-26T23:25:04+00:00",
-   "title_ja": "旧ノードストロームへのユニクロ進出がダウンタウンに変革",
-   "summary_ja": "バンクーバー中心部の旧ノードストロームの店舗跡地へユニクロが新たに進出することが、地域の商業環境に大きな影響を与えると伝えています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "406eca5e288612b8",
-   "url": "https://www.sankei.com/article/20261027-74L6PZ3UWBP4NAVWMPZYH4DCE4/photo/FUMI7AYPWJKONBFUF55OMTSZ5Y",
-   "title_original": "ジーユー×ポケモン、新作「スペシャルコレクション」",
-   "source": "産経ニュース",
-   "image": "https://www.sankei.com/resizer/v2/FUMI7AYPWJKONBFUF55OMTSZ5Y.jpg?auth=614625c8971e74061486bce7411c45030cc473c02be8729c26b18dc17fc19b83&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-26T23:01:08+00:00",
-   "title_ja": "GUがポケモンとの新作コラボ「スペシャルコレクション」を発表",
-   "summary_ja": "ジーユー（GU）がポケモンとのコラボレーションによる新作「スペシャルコレクション」を発表しました。人気キャラクターを取り入れた注目のファッションラインナップとなっています。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
    "importance": 3,
    "detail_tries": 2
   }
