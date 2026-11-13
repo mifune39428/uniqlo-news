@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T12:57:57.554927+09:00",
+ "updated_at": "2026-11-13T22:35:19.584086+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -33,7 +33,6 @@
   "Bloomberg.com",
   "Branding in Asia",
   "BroadwayWorld",
-  "Business Examiner",
   "Business News Wales",
   "BusinessMirror",
   "Cate Blanchett Fan",
@@ -58,6 +57,7 @@
   "GAME Watch",
   "GIGAZINE",
   "GamerBraves",
+  "Howl.Link",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
@@ -128,8 +128,6 @@
   "TheIndustry.fashion",
   "TipRanks",
   "Traders Union",
-  "Trend Hunter",
-  "UOMO",
   "UP TO DATE",
   "UQライフ",
   "Unisba Media",
@@ -220,53 +218,92 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 231,
  "digest": {
-  "headline": "ユニクロとGUが新コラボを続々発表、海外展開や価格戦略も話題",
+  "headline": "ユニクロとGUの新作コラボ続々、中国事業改革も",
   "points": [
    {
-    "text": "ユニクロはスタジオジブリやハローキティとの新作コラボコレクションの発売を発表しました。",
+    "text": "ユニクロはセシリー・バンセンとのコラボ新作やスタジオジブリ、スヌーピーなどの新コレクションを発表しました。",
     "ids": [
-     "a1912eed50040d78",
-     "91ff1bcada27ef16",
-     "e23d9e0e470c472e"
-    ]
-   },
-   {
-    "text": "ユニクロとセシリー・バンセンによるコラボレーション第2弾の展開が明らかにされました。",
-    "ids": [
+     "926ff1ce5ec122a1",
      "fd734cfb1c9d346a",
-     "eeff0a1ca9cbc070",
-     "3339fc1619d0f5be"
+     "eeff0a1ca9cbc070"
     ]
    },
    {
-    "text": "GUはポケモンやエンジニアド ガーメンツとの新作コレクションを展開しています。",
+    "text": "GUではポケモンやエンジニアド ガーメンツとの新作コレクションを展開しています。",
     "ids": [
      "8f855b868ecab365",
      "943588ce7ee24b46"
     ]
    },
    {
-    "text": "ユニクロは中国事業の構造改革やカナダでの店舗数拡大など海外展開を加速させています。",
+    "text": "ユニクロは中国事業の構造改革を進め、採用強化や将来的な3000店舗体制を見据えた店舗戦略の再構築に注力しています。",
     "ids": [
      "e443a79f49ba026c",
-     "4e3719f6a40c2a11",
-     "9559a8e8c5f895ce"
+     "4e3719f6a40c2a11"
     ]
    },
    {
-    "text": "GUのちいかわ ポーチが話題を集め、Xで3日に66件投稿されています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」がXで73件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-10T13:08:09.338509+09:00",
-  "generated_at": "2026-11-13T13:08:11.121093+09:00",
+  "from": "2026-11-10T22:42:22.927124+09:00",
+  "generated_at": "2026-11-13T22:42:24.569011+09:00",
   "article_count": 24,
-  "sig": "59976ebc01a3"
+  "sig": "a2078abbdfc6"
  },
  "items": [
+  {
+   "id": "2742c4e6f8e6ab75",
+   "url": "https://prtimes.jp/main/html/rd/p/000000026.000088575.html",
+   "title_original": "【ユニクロ長野南店限定企画】 『UTme！』にホクトオリジナルキャラクターきのこ組のスタンプを公開！",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/88575/26/88575-26-218e12f40063bbc532587f49b5e0b3c5-1500x2167.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-13T13:00:02+00:00",
+   "title_ja": "ユニクロ長野南店でホクトのUTme！スタンプ",
+   "summary_ja": "ユニクロ長野南店の限定企画として、ホクトのオリジナルキャラクター「きのこ組」のUTme！スタンプが公開されました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "36e6f4db4019f647",
+   "url": "https://t.co/N6kAjwFBSt",
+   "title_original": "【豪華コラボ】UNIQLO×Jリーグ！世界に一つだけのオリジナルグッズを作ってみた！",
+   "source": "Howl.Link",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-13T12:00:28+00:00",
+   "title_ja": "ユニクロとJリーグがコラボ、自分だけのオリジナルグッズ作成が展開",
+   "summary_ja": "ユニクロとJリーグによるコラボレーション企画において、世界に一つだけのオリジナルグッズを作れるサービスが話題となっています。ファンが自分好みのデザインを楽しめる取り組みです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8aa0f63c37e5bd91",
+   "url": "https://news.yahoo.co.jp/articles/c062dbe20b5a2f99555cc3554eadff555a5fb871",
+   "title_original": "ユニクロ「スヌーピーUT」キッズの新作は“ミュージック タイム”！DJスヌーピー＆ギター弾きチャーリー・ブラウンのスウェット全4色",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-01451988-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-13T08:30:00+00:00",
+   "title_ja": "ユニクロのキッズUTに「スヌーピー」新作、音楽テーマの全4色",
+   "summary_ja": "ユニクロの人気キッズ向け「スヌーピーUT」から、音楽をテーマにした新作スウェットが登場します。DJスヌーピーやギターを手にしたチャーリー・ブラウンをあしらった全4色展開となっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "926ff1ce5ec122a1",
    "url": "https://www.lifestyleasia.com/kl/style/fashion/uniqlo-and-cecilie-bahnsen-return-with-a-softer-side-of-winter-for-fall-winter-2026",
@@ -281,7 +318,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d8d79c02923d86ac",
@@ -313,7 +350,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "61a5ff9512805ca5",
@@ -346,6 +383,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "77e34a7df8bb303a",
+   "url": "https://news.yahoo.co.jp/articles/9b478d2c78d751d9a7124f27fcb89045c3419da1/images/000",
+   "title_original": "ユニクロ、感謝祭ノベルティは全5色「パッカブルビッグトートバッグ」。撥水加工とキャリーオン機能付き (トラベル Watch)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gXeBvz4bb7fxyB0T-t6KhUeRsKcJzhQBhuPLsRYSfpt-wNYDpeMECFSDpjb5uN8LTlPAEOjtp8-E2KgErfRqM4hUlQnA0QHgAmGtTljxbLPzdwYJGASm7lYF80MLg_YCA==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-12T21:00:00+00:00",
+   "title_ja": "ユニクロ感謝祭のノベルティはビッグトート",
+   "summary_ja": "ユニクロ感謝祭の限定ノベルティとして、全5色のパッカブルビッグトートバッグが登場。撥水加工やキャリーオン機能付きです。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "e23d9e0e470c472e",
@@ -441,7 +494,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e9b5ec38a7a33ace",
@@ -6599,70 +6652,6 @@
    "title_ja": "ユニクロが靴下の値上げを撤回 まとめ買い継続「靴下は必需品」",
    "summary_ja": "ユニクロは靴下の値上げ方針を撤回し、まとめ買い割引の継続を発表しました。「靴下は必需品」であるという判断に基づき、消費者の暮らしを守るため従来通りの価格設定を維持します。",
    "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d5648287358a4420",
-   "url": "https://www.webuomo.jp/fashion/uniqlo_gu/2026-10-26-qMl3nw",
-   "title_original": "【大人のユニクロ】ブルース・リーが「ユニクロ エフ・リッソ」秋冬コラボにいるらしい【10月30日発売】",
-   "source": "UOMO",
-   "image": "https://img.webuomo.jp/article/sns/image/1f/1ff7a3ff-ed48-4213-bf90-0cb91fff6bc4-1200x630.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T11:00:00+00:00",
-   "title_ja": "「ユニクロ エフ・リッソ」の秋冬コラボが10月30日に発売、ブルース・リーの柄も登場",
-   "summary_ja": "ユニクロが「ユニクロ エフ・リッソ」との秋冬コラボレーション商品を10月30日に発売します。コレクションの中にはブルース・リーをあしらったデザインなども用意されている模様です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fe13cc06cbac5da7",
-   "url": "https://businessexaminer.ca/bc-news/item/uniqlo-pacific-centre-downtown-vancouver-flagship",
-   "title_original": "Uniqlo to Open Downtown Vancouver Flagship at Pacific Centre",
-   "source": "Business Examiner",
-   "image": "https://businessexaminer.ca/wp-content/uploads/2026/10/stack-of-folded-plain-sweaters-5710046.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T09:40:56+00:00",
-   "title_ja": "ユニクロがバンクーバーのパシフィックセンターに新店舗",
-   "summary_ja": "カナダ・バンクーバーのダウンタウンにあるパシフィックセンターに、ユニクロが新しいフラッグシップショップをオープンすることが明らかになりました。海外展開における新たな大型店舗として注目されます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4ff1c9dc26e91052",
-   "url": "https://news.yahoo.co.jp/pickup/6600324",
-   "title_original": "ユニクロ ソックス価格改定を中止",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/27/867c8787b0c9c1aa2e77510116928ab362aee22fb37c5e8b21e4cb1a63b48b24.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T09:22:21+00:00",
-   "title_ja": "ユニクロがソックスの価格改定を取りやめ",
-   "summary_ja": "ユニクロが実施を予定していたソックス（靴下）の価格改定を取りやめることが判明しました。当初計画していた価格の見直しを行わず、改定を中止する対応を取っています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c77506bccde7089c",
-   "url": "https://www.trendhunter.com/trends/limited-run-graphic-tees",
-   "title_original": "Limited-Run Graphic Tees: UNIQLO Canada Brings DRIFTER UTme! to Canada",
-   "source": "Trend Hunter",
-   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/647/647812/647812_1_1200.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T07:53:00+00:00",
-   "title_ja": "ユニクロカナダが限定グラフィックTシャツ「DRIFTER UTme!」を展開",
-   "summary_ja": "ユニクロカナダが、限定グラフィックTシャツコレクション「DRIFTER UTme!」をカナダで展開することが分かりました。現地で限定デザインのTシャツが投入されます。",
-   "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
