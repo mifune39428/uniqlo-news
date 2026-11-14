@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T21:40:22.810775+09:00",
+ "updated_at": "2026-11-15T06:47:07.480542+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -99,7 +99,6 @@
   "PAUSE Online",
   "PR EDGE",
   "PR TIMES",
-  "Philstar Life",
   "Pokde.Net",
   "Popbee",
   "Ragtrader.com.au",
@@ -110,7 +109,6 @@
   "SAYS",
   "SEVENTIE TWO",
   "SPUR（シュプール）",
-  "STRAIGHT PRESS",
   "Secret Miami",
   "Siliconera",
   "Smartkarma",
@@ -175,6 +173,7 @@
   "デイリースポーツ",
   "トラベル Watch",
   "ナタリー",
+  "ハフポスト",
   "ハリウッド・リポーター・ジャパン",
   "ファッションプレス",
   "フロントロウ",
@@ -218,20 +217,35 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 234,
+ "detail_count": 233,
  "digest": {
-  "headline": "セシリー・バンセンコラボやジブリ新作など最新情報まとめ",
+  "headline": "ユニクロ感謝祭やセシリー・バンセンコラボが続々発表",
   "points": [
    {
-    "text": "ユニクロはセシリー・バンセンとのコラボ新作や、スタジオジブリの冬向けコレクションの発売を発表しました。",
+    "text": "ユニクロは11月20日からの「ユニクロ感謝祭」の開催を発表し、全5色のパッカブルビッグトートバッグなどの豪華なノベルティを用意しています。",
     "ids": [
-     "0741e30a3446f3dd",
-     "f8506d50c1b868f7",
-     "926ff1ce5ec122a1"
+     "fa06332655830dd6",
+     "77e34a7df8bb303a"
     ]
    },
    {
-    "text": "京都の河原町通に新店舗「ユニクロ 京都」がオープンしたほか、インドや中国など海外展開の強化も進められています。",
+    "text": "セシリー・バンセンとのコラボレーション新作が発表され、花柄の刺しゅうを施したフリースなどが11月16日から順次発売されます。",
+    "ids": [
+     "0741e30a3446f3dd",
+     "926ff1ce5ec122a1",
+     "eeff0a1ca9cbc070"
+    ]
+   },
+   {
+    "text": "スタジオジブリとの冬向けコラボ新作が発表され、トトロやハウルの動く城のデザインが登場するほか、全米やシンガポールでも展開されます。",
+    "ids": [
+     "f8506d50c1b868f7",
+     "bf1d055723cf5701",
+     "8af5d08d8a180f2d"
+    ]
+   },
+   {
+    "text": "京都の河原町通に限定アイテムを展開する「ユニクロ 京都」がオープンしたほか、中国事業の改革やインドでの新店舗オープンが進められています。",
     "ids": [
      "76699cb6541544d7",
      "e443a79f49ba026c",
@@ -239,23 +253,15 @@
     ]
    },
    {
-    "text": "ユニクロ感謝祭の限定ノベルティとしてパッカブルビッグトートバッグが登場するほか、各種コラボ企画も話題です。",
-    "ids": [
-     "77e34a7df8bb303a",
-     "61363456f3d22590",
-     "36e6f4db4019f647"
-    ]
-   },
-   {
-    "text": "SNSではGUコラボがXで129件投稿されました。",
+    "text": "SNSではユニクロのジブリ UTがXで4件投稿されるなど話題を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-11T21:46:38.646471+09:00",
-  "generated_at": "2026-11-14T21:46:39.886752+09:00",
+  "from": "2026-11-12T06:53:46.733558+09:00",
+  "generated_at": "2026-11-15T06:53:48.347962+09:00",
   "article_count": 24,
-  "sig": "9c655c823c58"
+  "sig": "fd20cbfa2f8c"
  },
  "items": [
   {
@@ -272,7 +278,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4cf18fe6d79bf766",
@@ -302,6 +308,22 @@
    "title_ja": "「ユニクロ and セシリー バンセン」のフリース全4型をレビュー",
    "summary_ja": "コラボライン「ユニクロ and セシリー バンセン」から登場したフリース全4型の試着レビュー記事が公開されました。大人可愛いデザインが特徴で、主役級の存在感を放つアイテムの魅力が詳しく紹介されています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "2448fb417eb6d4a1",
+   "url": "https://www.huffingtonpost.jp/entry/story_jp_6ae31698e4b09cd24b6c3859",
+   "title_original": "ケイト・ブランシェットが難民の映画監督を支援する理由。ユニクロと始めた基金、大事なのは「自由を与えること」",
+   "source": "ハフポスト",
+   "image": "https://img.huffingtonpost.com/asset/6aeaca4e1800001c5f2516fb.jpeg?ops=1200_630",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T02:31:59+00:00",
+   "title_ja": "ユニクロとケイト・ブランシェットが難民映画監督を支援する基金を発足",
+   "summary_ja": "俳優のケイト・ブランシェットとユニクロが、難民の映画監督を支援する基金を立ち上げた。クリエイターに表現の自由と機会を提供し、難民支援の取り組みを広げる目的について語られている。",
+   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
@@ -494,6 +516,38 @@
    "title_ja": "ユニクロのキッズUTに「スヌーピー」新作、音楽テーマの全4色",
    "summary_ja": "ユニクロの人気キッズ向け「スヌーピーUT」から、音楽をテーマにした新作スウェットが登場します。DJスヌーピーやギターを手にしたチャーリー・ブラウンをあしらった全4色展開となっています。",
    "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1c945ab0ba53cd8c",
+   "url": "https://www.sanyonews.jp/article/1887543",
+   "title_original": "ららぽーと豊洲、大規模リニューアルで「31店舗」順次オープン 江東区初のスーパーマーケットやゴディパン、ユニクロ拡大など【一覧】",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/8/7/8/0/8780faad541889a858107f94325ccf5e_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-13T08:00:00+00:00",
+   "title_ja": "ららぽーと豊洲の大規模リニューアル、ユニクロ拡大など",
+   "summary_ja": "ららぽーと豊洲が大規模リニューアルを実施し、江東区初出店となるスーパーやゴディパン、ユニクロの売場拡大など31店舗が順次オープンします。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "fa06332655830dd6",
+   "url": "https://news.yahoo.co.jp/articles/12becaec748c61fe8de95a6a4ddb9c3d966e9d38?page=2",
+   "title_original": "【ユニクロ感謝祭】「発表キター！」11月20日スタート！豪華ノベルティ2種に「行くだけであんぱん！？」SNS歓喜（LASISA）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-10169522-lasisa-000-31-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-13T05:30:00+00:00",
+   "title_ja": "ユニクロが11月20日から「ユニクロ感謝祭」を開催　2種類の豪華ノベルティも用意",
+   "summary_ja": "ユニクロは11月20日より「ユニクロ感謝祭」を開始することを発表した。来場者向けのあんぱんを含む2種類の豪華なノベルティが用意されており、SNSなどでも大きな反響を呼んでいる。",
+   "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
@@ -6608,54 +6662,6 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "fc8427de81696056",
-   "url": "https://news.yahoo.co.jp/articles/d703fc2deab53be237f4d2d82747a4189d6e8a7a",
-   "title_original": "ユニクロのフリースをおしゃれに！平成レトロ空間で人気インフルエンサーたちがお手本コーデを披露（ウォーカープラス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-01451201-tkwalk-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T23:00:00+00:00",
-   "title_ja": "ユニクロのフリースを使った秋コーデをインフルエンサーが披露",
-   "summary_ja": "平成レトロな空間を舞台に、人気インフルエンサーたちがユニクロのフリースを取り入れた着こなしを披露しました。定番のフリースアイテムをおしゃれに着こなすためのコーディネート方法が紹介されています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "827ba79a84a1f2be",
-   "url": "https://philstarlife.com/style/500152-peace-for-all-uniqlo",
-   "title_original": "Peace for All: The power of a T-shirt",
-   "source": "Philstar Life",
-   "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/Fashion%20and%20Beauty/1-2026-Oct-28/pam%20630.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T21:06:05+00:00",
-   "title_ja": "ユニクロのチャリティTシャツプロジェクトの取り組み",
-   "summary_ja": "平和を願うチャリティTシャツプロジェクト「PEACE FOR ALL」の社会的影響力や、1枚のTシャツが持つ力について伝えています。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6298d29631b06c07",
-   "url": "https://straightpress.jp/20261027/1748105",
-   "title_original": "京都・河原町通りに、最新＆最旬の商品ラインナップを展開するグローバル旗艦店「ユニクロ 京都」OPEN！",
-   "source": "STRAIGHT PRESS",
-   "image": "https://straightpress.jp/wp-content/uploads/2026/10/sato202610260900-300x225.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T14:00:31+00:00",
-   "title_ja": "京都・河原町通りにグローバル旗艦店「ユニクロ 京都」が開業",
-   "summary_ja": "京都の河原町通りに、最新かつ最旬の商品ラインナップを取り揃えたグローバル旗艦店「ユニクロ 京都」が新たにオープンしました。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
