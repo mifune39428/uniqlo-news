@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T08:03:21.831841+09:00",
+ "updated_at": "2026-11-14T13:00:40.775363+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2849,
+ "catalog_size": 2853,
  "count": 64,
  "items": [
   {
@@ -183,7 +183,7 @@
    ],
    "price": 2990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487598/item/jpgoods_51_487598_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487598/item/jpgoods_69_487598_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487598-000/00?colorDisplayCode=19",
    "rating": 4.4,
    "reviews": 45,
@@ -198,8 +198,49 @@
    "rising": false
   },
   {
-   "key": "UQ:E493708-002",
+   "key": "UQ:E450195-000",
    "rank": 8,
+   "brand": "ユニクロ",
+   "name": "フリースジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 2990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/450195/item/jpgoods_08_450195_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E450195-000/00?colorDisplayCode=08",
+   "rating": 4.4,
+   "reviews": 5868,
+   "reviews7": 91,
+   "capped": false,
+   "prev7": 33,
+   "mentions7": 6,
+   "mention_titles": [
+    {
+     "t": "「軽いので肩凝らずに着られそう」 ユニクロの“ボアフリースジャケット”が大好評 「軽いし暖かいし体も動かしやすい」「すごくもふもふ！」（ねとらぼ）",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/8a26bb1c47028dbecca9b95fd6c2f1f5f5b70beb"
+    },
+    {
+     "t": "着た瞬間から幸せ＞【ユニクロ】冬の定番フリースジャケットが1990円に。「首元までふわふわ」「暖房費も節約できる」「まるで毛布」 (婦人公論.jp)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/8252190d952d6bafbe1eda20bd307453f89fb974/images/000"
+    },
+    {
+     "t": "＜着た瞬間から幸せ＞【ユニクロ】冬の定番フリースジャケットが1990円に。「首元までふわふわ」「暖房費も節約できる」「まるで毛布」",
+     "s": "婦人公論.jp",
+     "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GWnZJa0ZPS2VkNkt2ZmNFNDMzeXhwSUF2Q0puNXlTdDk1dUw0VWtMTWkyb1E3OHlXYTU2ZDY5OWVhaGpoY0tpRGJtQzgzRlpHcWRKbg?oc=5"
+    }
+   ],
+   "score": 124,
+   "momentum": 1.03,
+   "new": false,
+   "rising": true
+  },
+  {
+   "key": "UQ:E493708-002",
+   "rank": 9,
    "brand": "ユニクロ",
    "name": "ヒートテックタートルネックT",
    "genders": [
@@ -220,47 +261,6 @@
    "momentum": 2.95,
    "new": false,
    "rising": false
-  },
-  {
-   "key": "UQ:E450195-000",
-   "rank": 9,
-   "brand": "ユニクロ",
-   "name": "フリースジャケット",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 2990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/450195/item/jpgoods_08_450195_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E450195-000/00?colorDisplayCode=08",
-   "rating": 4.4,
-   "reviews": 5868,
-   "reviews7": 91,
-   "capped": false,
-   "prev7": 33,
-   "mentions7": 5,
-   "mention_titles": [
-    {
-     "t": "着た瞬間から幸せ＞【ユニクロ】冬の定番フリースジャケットが1990円に。「首元までふわふわ」「暖房費も節約できる」「まるで毛布」 (婦人公論.jp)",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/8252190d952d6bafbe1eda20bd307453f89fb974/images/000"
-    },
-    {
-     "t": "＜着た瞬間から幸せ＞【ユニクロ】冬の定番フリースジャケットが1990円に。「首元までふわふわ」「暖房費も節約できる」「まるで毛布」",
-     "s": "婦人公論.jp",
-     "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GWnZJa0ZPS2VkNkt2ZmNFNDMzeXhwSUF2Q0puNXlTdDk1dUw0VWtMTWkyb1E3OHlXYTU2ZDY5OWVhaGpoY0tpRGJtQzgzRlpHcWRKbg?oc=5"
-    },
-    {
-     "t": "「もう一枚買っちゃいました」 ユニクロの“2990円フリースジャケット”が大好評 「軽くて暖かく今の季節にぴったり」「ブルーに一目惚れ」 | ウェア ねとらぼリサーチ",
-     "s": "ねとらぼ",
-     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1SUgzaTRYYU50T2JqVVJlX3lWeXMwY3c4Q3hDRkhrb0Y1eU41ZlFXYThRTi1aalljWU5pWXNwb3lkVXU2WXdTZDY3d1JnWEJfLXJzdzNnOTV2TGZhNTBVdk8wWdIBaEFVX3lxTE1xRkQwa3BUYUQzZEYtT2tZa04xMlRuX24xVTFmck91cEp6VUNvcVdRUmpuNFlJTkRHWWNOMlJYdWpVdnloOVc4b0ViTzJ3cFNmU3cxcHM1YWJ3TjdoVDRka2RpM3l4Q1pu?oc=5"
-    }
-   ],
-   "score": 119,
-   "momentum": 1.03,
-   "new": false,
-   "rising": true
   },
   {
    "key": "UQ:E483285-000",
@@ -362,43 +362,8 @@
    "rising": true
   },
   {
-   "key": "UQ:E488723-000",
-   "rank": 14,
-   "brand": "ユニクロ",
-   "name": "ファーライクフーディージャケット",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 4990,
-   "promo": 4990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488723/item/jpgoods_37_488723_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488723-000/00?colorDisplayCode=37",
-   "rating": 4.5,
-   "reviews": 114,
-   "reviews7": 47,
-   "capped": false,
-   "prev7": 18,
-   "mentions7": 2,
-   "mention_titles": [
-    {
-     "t": "【UNIQLO】4,990円で高見え！「ファーライクフーディージャケット」をイメコンが本音レビュー＆ご近所コーデ3選",
-     "s": "BAILA（バイラ）",
-     "u": "https://baila.hpplus.jp/blogs/takeda_ayumi/84931"
-    },
-    {
-     "t": "話題のユニクロファーライクフーディージャケットや人気セレクトショップのおすすめコーデがランクイン【ファッション人気記事週間ランキング】",
-     "s": "Web eclat",
-     "u": "https://eclat.hpplus.jp/fashion/feature/206511"
-    }
-   ],
-   "score": 96,
-   "momentum": 1.82,
-   "new": false,
-   "rising": true
-  },
-  {
    "key": "UQ:E487404-000",
-   "rank": 15,
+   "rank": 14,
    "brand": "ユニクロ",
    "name": "パフテックコンパクトジャケット",
    "genders": [
@@ -417,6 +382,36 @@
    "mention_titles": [],
    "score": 92,
    "momentum": 2.0,
+   "new": false,
+   "rising": true
+  },
+  {
+   "key": "UQ:E488723-000",
+   "rank": 15,
+   "brand": "ユニクロ",
+   "name": "ファーライクフーディージャケット",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 4990,
+   "promo": 4990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488723/item/jpgoods_37_488723_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488723-000/00?colorDisplayCode=37",
+   "rating": 4.5,
+   "reviews": 114,
+   "reviews7": 47,
+   "capped": false,
+   "prev7": 18,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "【UNIQLO】4,990円で高見え！「ファーライクフーディージャケット」をイメコンが本音レビュー＆ご近所コーデ3選",
+     "s": "BAILA（バイラ）",
+     "u": "https://baila.hpplus.jp/blogs/takeda_ayumi/84931"
+    }
+   ],
+   "score": 91,
+   "momentum": 1.82,
    "new": false,
    "rising": true
   },
@@ -812,7 +807,7 @@
    ],
    "price": 990,
    "promo": 990,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360523/item/jpgoods_55_360523_3x4.jpg",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360523/item/jpgoods_09_360523_3x4.jpg",
    "url": "https://www.gu-global.com/jp/ja/products/E360523-000/00?colorDisplayCode=09",
    "rating": 4.5,
    "reviews": 94,
