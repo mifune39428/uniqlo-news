@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T12:56:14.647480+09:00",
+ "updated_at": "2026-11-14T21:40:22.810775+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -28,8 +28,6 @@
   "BAILA（バイラ）",
   "BRABO News",
   "Banglanews24",
-  "BigGo Finance",
-  "BigGo ファイナンス",
   "Billionaires.Africa",
   "Bloomberg.com",
   "Branding in Asia",
@@ -153,6 +151,7 @@
   "https://mediadogs.jp/",
   "https://miyoca.jp/",
   "https://www.japancanadatoday.ca/",
+  "https://www.misslobang.com/",
   "khorasantimes.com",
   "ktv.jp",
   "marketech apac",
@@ -170,7 +169,6 @@
   "ウォーカープラス",
   "オトナンサー",
   "オリコンニュース",
-  "サンスポ",
   "スクリーンオンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
@@ -217,55 +215,97 @@
   "読売新聞",
   "매일경제",
   "아시아경제",
-  "재경일보",
   "조선일보"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 234,
  "digest": {
-  "headline": "ユニクロとGUの最新コラボ・海外戦略まとめ",
+  "headline": "セシリー・バンセンコラボやジブリ新作など最新情報まとめ",
   "points": [
    {
-    "text": "ユニクロがスタジオジブリとの冬向けコラボ新作を発表し、全米での発売やシンガポールでのイベントも実施されます。",
+    "text": "ユニクロはセシリー・バンセンとのコラボ新作や、スタジオジブリの冬向けコレクションの発売を発表しました。",
     "ids": [
+     "0741e30a3446f3dd",
      "f8506d50c1b868f7",
-     "8af5d08d8a180f2d",
-     "bf1d055723cf5701"
+     "926ff1ce5ec122a1"
     ]
    },
    {
-    "text": "京都の河原町通に新店舗「ユニクロ 京都」がオープンし、地域限定アイテムが展開されています。",
+    "text": "京都の河原町通に新店舗「ユニクロ 京都」がオープンしたほか、インドや中国など海外展開の強化も進められています。",
     "ids": [
-     "76699cb6541544d7"
-    ]
-   },
-   {
-    "text": "中国事業の構造改革として採用強化や海外派遣、将来的な3000店舗体制を見据えた店舗戦略の再構築が進められています。",
-    "ids": [
+     "76699cb6541544d7",
      "e443a79f49ba026c",
-     "4e3719f6a40c2a11"
+     "4ba7df64b2f7665a"
     ]
    },
    {
-    "text": "セシリー・バンセンとのコラボ新作や感謝祭のノベルティ情報などが発表され、SNSでも注目を集めています。",
+    "text": "ユニクロ感謝祭の限定ノベルティとしてパッカブルビッグトートバッグが登場するほか、各種コラボ企画も話題です。",
     "ids": [
-     "926ff1ce5ec122a1",
      "77e34a7df8bb303a",
-     "61363456f3d22590"
+     "61363456f3d22590",
+     "36e6f4db4019f647"
     ]
    },
    {
-    "text": "SNSで話題のユニクロ 超極暖ヒートテックはXで11件投稿されました。",
+    "text": "SNSではGUコラボがXで129件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-11T13:05:57.955769+09:00",
-  "generated_at": "2026-11-14T13:05:59.649397+09:00",
+  "from": "2026-11-11T21:46:38.646471+09:00",
+  "generated_at": "2026-11-14T21:46:39.886752+09:00",
   "article_count": 24,
-  "sig": "77fa5eb3523e"
+  "sig": "9c655c823c58"
  },
  "items": [
+  {
+   "id": "0741e30a3446f3dd",
+   "url": "https://www.wwdjapan.com/articles/2451312",
+   "title_original": "「ユニクロ」×「セシリー バンセン」や「ファミリア」のクリスマスコレクション 来週発売のファッションアイテム10選【11/16〜11/22】",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T12:32:10+00:00",
+   "title_ja": "ユニクロ×セシリー バンセンなど注目の新作が11月16日から順次発売へ",
+   "summary_ja": "ユニクロとセシリー バンセンのコラボレーションをはじめ、注目のファッションアイテムが11月16日から順次発売される。クリスマスシーズンに向けたコレクションなど話題の新作が登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "4cf18fe6d79bf766",
+   "url": "https://news.yahoo.co.jp/expert/articles/491ca68e999771ad9ad7aab40155eb398948e505",
+   "title_original": "マックは絶好調、ユニクロは苦戦…物価高でも「売れる店・売れない店」を分ける日本人の消費の変化（渡辺広明） - エキスパート",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/watanabehiroaki/02765984/title-1794656960064.jpeg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T11:51:01+00:00",
+   "title_ja": "物価高の中で売れる店・売れない店の差が拡大。ユニクロ等の消費動向を分析",
+   "summary_ja": "物価高が加速するなかで消費者の行動が変化しており、好調な企業と苦戦する企業の明暗が分かれている。ユニクロの業績動向や物価高における日本人の購買行動の変化について専門家が解説している。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c077e01d7c023e4a",
+   "url": "https://news.yahoo.co.jp/articles/babe6d63711f0f309611e5c26ba53f980d37e880",
+   "title_original": "【ユニクロ and セシリー バンセン】フリースが主役の大人可愛い全4型を試着レビュー（＠BAILA）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00010001-baila-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T08:50:01+00:00",
+   "title_ja": "「ユニクロ and セシリー バンセン」のフリース全4型をレビュー",
+   "summary_ja": "コラボライン「ユニクロ and セシリー バンセン」から登場したフリース全4型の試着レビュー記事が公開されました。大人可愛いデザインが特徴で、主役級の存在感を放つアイテムの魅力が詳しく紹介されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "bf1d055723cf5701",
    "url": "https://www.contentgrip.com/uniqlo-ghibli-singapore-fan-experiences",
@@ -312,6 +352,38 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "4ba7df64b2f7665a",
+   "url": "https://www.indianretailer.com/franchisetv/archives/news/uniqlo-opens-new-store-thane",
+   "title_original": "UNIQLO Opens New Store in Thane",
+   "source": "Indian Retailer",
+   "image": "https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/2026-11/Uniqlo%20lead.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T00:00:00+00:00",
+   "title_ja": "ユニクロがインドのターネーに新店舗をオープン！市場拡大を加速",
+   "summary_ja": "ユニクロがインドのマハラシュトラ州ターネーに新たな店舗を開店した。インド市場における店舗ネットワークの拡張を進めており、現地の顧客に向けて高品質な日常着を展開していく。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "1546f6c1b5dbd783",
+   "url": "https://www.misslobang.com/article/uniqlo-mini-fluffy-fleece-charm-dbs-posb-s120-nov-2026-jan-2027",
+   "title_original": "UNIQLO Free Mini Fluffy Fleece Charm: Spend S$120 With a DBS/POSB Card at 4 Stores, to 3 Jan 2027",
+   "source": "https://www.misslobang.com/",
+   "image": "https://www.misslobang.com/images/covers/uniqlo-mini-fluffy-fleece-charm-dbs-posb-s120-nov-2026-jan-2027.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T00:00:00+00:00",
+   "title_ja": "シンガポールのユニクロ4店舗でカード利用者にフリースチャーム進呈キャンペーン",
+   "summary_ja": "シンガポールのユニクロ指定4店舗にて、DBSまたはPOSBカードで120シンガポールドル以上を購入した客を対象に、ミニサイズのフリースチャームをプレゼントする企画が実施されている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -6583,86 +6655,6 @@
    "summary_ja": "京都の河原町通りに、最新かつ最旬の商品ラインナップを取り揃えたグローバル旗艦店「ユニクロ 京都」が新たにオープンしました。",
    "category": "店舗・出店",
    "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "14147e21c6331297",
-   "url": "https://news.yahoo.co.jp/articles/99f7800ee3c0b3e76216bae03e9023516394ce8d",
-   "title_original": "ユニクロ、靴下の価格改定中止・まとめ買い価格継続へ…「ご迷惑をおかけしますことをお詫びいたします」（読売新聞オンライン）",
-   "source": "Yahoo!ニュース",
-   "image": "https://s.yimg.jp/images/news-web/versions/20261027-f70ba02/all/images/ogp_default.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T13:45:52+00:00",
-   "title_ja": "ユニクロが靴下の価格改定を取りやめ、まとめ買い割引の継続を発表",
-   "summary_ja": "ユニクロは、靴下の価格改定を中止し、まとめ買い割引を継続して提供すると発表した。生活必需品としての重要性を配慮し、顧客への影響を踏まえて販売方針を再検討した。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "66e65b586b0864dc",
-   "url": "https://www.sanspo.com/article/20261027-UDGIFQDPBNLX7KWESB3QC7ZGGY/?outputType=amp",
-   "title_original": "ユニクロ、靴下まとめ買い継続へ 「販売終了」から一転「生活必需品の象徴的な商品であるため再検討した」",
-   "source": "サンスポ",
-   "image": "https://www.sanspo.com/resizer/v2/https%3A%2F%2Fwww.sanspo.com%2Fcommon%2Fimages%2Fbasic%2Fthumb_shakai_og.jpg?auth=53811ef1b027dc3042c46414521b3dbbd2b387cf6df45b370e692f7cc5b004d2&quality=50&smart=true&width=1200&height=675",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T12:45:02+00:00",
-   "title_ja": "ユニクロが靴下まとめ買い終了を撤回、生活必需品として継続へ",
-   "summary_ja": "ユニクロは、終了予定だった靴下のまとめ買い販売を一転して継続することを決定した。生活必需品の象徴的な商品であることから、顧客の需要を踏まえて販売方針を再検討した。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7b146088b29adfc3",
-   "url": "https://finance.biggo.jp/news/9832dfef-1354-44af-8941-93a0c6cb817e",
-   "title_original": "ユニクロ、靴下の値上げ撤回 「生活必需品」に配慮、まとめ買いも継続",
-   "source": "BigGo ファイナンス",
-   "image": "https://img.biggo.com/_47nqs-CdPR8yzZPtQeIbp8n3zbNp9tyqweq7QlkJvA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzk4MzJkZmVmLTEzNTQtNDRhZi04OTQxLTkzYTBjNmNiODE3ZV8xNzkzMTA0ODU5X2RlZmF1bHQud2VicA.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T12:35:18+00:00",
-   "title_ja": "ユニクロ、靴下の値上げ撤回を発表",
-   "summary_ja": "ユニクロが靴下の値上げ方針を撤回したことが明らかになりました。生活必需品としての役割を考慮したもので、まとめ買いのお得な割引もそのまま継続されます。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "78659a57693c0ba8",
-   "url": "https://finance.biggo.com/news/9832dfef-1354-44af-8941-93a0c6cb817e",
-   "title_original": "Japan's UNIQLO Scraps Sock Price Hike, Citing 'Daily Necessities'; Bulk-Buy Discounts to Continue",
-   "source": "BigGo Finance",
-   "image": "https://img.biggo.com/_47nqs-CdPR8yzZPtQeIbp8n3zbNp9tyqweq7QlkJvA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzk4MzJkZmVmLTEzNTQtNDRhZi04OTQxLTkzYTBjNmNiODE3ZV8xNzkzMTA0ODU5X2RlZmF1bHQud2VicA.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-27T12:35:18+00:00",
-   "title_ja": "ユニクロが靴下の値上げを撤回、生活必需品に配慮",
-   "summary_ja": "ユニクロは生活必需品への配慮を理由に、予定していた靴下の価格改定を撤回しました。あわせて従来のまとめ買い割引も引き続き継続する方針を示しています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "886446e4b9c576f8",
-   "url": "https://news.jkn.co.kr/editions/japanese/post/1052995",
-   "title_original": "GU、「ちいかわ」コラボの先行予約販売を11月2日開始 冬物需要を取り込みへ : 国際 : 財経日報",
-   "source": "재경일보",
-   "image": "https://images.jkn.co.kr/data/images/full/109/52/1095285.jpg?v=1793104356&width=1200&height=630",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-27T12:32:36+00:00",
-   "title_ja": "GU、「ちいかわ」コラボの先行予約販売を11月2日開始",
-   "summary_ja": "GUは人気キャラクター「ちいかわ」とのコラボレーションアイテムについて、11月2日より先行予約販売を実施すると発表しました。本格的な冬物の需要を取り込む狙いです。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
    "importance": 4,
    "has_detail": true
   }
