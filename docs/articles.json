@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T12:40:04.195147+09:00",
+ "updated_at": "2026-11-15T22:06:28.154844+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -69,6 +69,7 @@
   "Indian Television Dot Com",
   "Inside Retail Asia",
   "Insider Media Ltd",
+  "Irish Examiner",
   "It's On Cardiff",
   "J-CAST ニュース",
   "JBpress",
@@ -134,7 +135,6 @@
   "Unisba Media",
   "VZ VermögensZentrum",
   "Vietnam.vn",
-  "Village Pipol",
   "Vogue Japan",
   "WWD",
   "WWDJAPAN",
@@ -218,51 +218,67 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 230,
+ "detail_count": 231,
  "digest": {
-  "headline": "新作コラボ発表や感謝祭告知、海外事業改革など注目の動き",
+  "headline": "ユニクロの新作コラボや店舗拡大、感謝祭開催に注目",
   "points": [
    {
-    "text": "セシリー バンセンとのコラボ第2弾やスタジオジブリとの冬向け新作コレクションの発表が相次いだ。",
+    "text": "セシリー バンセンやスタジオジブリとの注目コラボ新作の発表や発売が順次進んでいる。",
     "ids": [
-     "3ccaeeb66c310d2e",
+     "0741e30a3446f3dd",
      "f8506d50c1b868f7"
     ]
    },
    {
-    "text": "11月20日よりユニクロ感謝祭が開催され、あんぱんやビッグトートなどのノベルティが用意されている。",
+    "text": "11月20日よりユニクロ感謝祭が開催され、あんぱんやパッカブルビッグトートなどの豪華ノベルティも用意される。",
     "ids": [
      "fa06332655830dd6",
      "77e34a7df8bb303a"
     ]
    },
    {
-    "text": "中国事業での3000店を見据えた構造改革や採用強化に加え、インドでの新店舗開店など海外展開が進む。",
-    "ids": [
-     "e443a79f49ba026c",
-     "4e3719f6a40c2a11",
-     "4ba7df64b2f7665a"
-    ]
-   },
-   {
-    "text": "京都での新店舗オープンや、熊本での県内最大規模の店舗リニューアルなど国内の店舗展開も活発だ。",
+    "text": "京都・河原町通での新店舗オープンや、熊本での県内最大級店舗のリニューアルなど国内店舗が賑わいを見せる。",
     "ids": [
      "76699cb6541544d7",
      "a3b6e285b4cdfe34"
     ]
    },
    {
-    "text": "SNSではGUコラボがXで3日に106件投稿されるなど話題を集めている。",
+    "text": "アイルランドのダブリンでの物件確保やインド出店、ジブリコラボの海外展開など海外事業の拡大が進行中だ。",
+    "ids": [
+     "ca3b45f9f44c0eb4",
+     "4ba7df64b2f7665a",
+     "8af5d08d8a180f2d"
+    ]
+   },
+   {
+    "text": "SNSではGU GUコラボがXで3日に160件投稿され、大きな話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-12T12:46:04.381840+09:00",
-  "generated_at": "2026-11-15T12:46:25.209514+09:00",
+  "from": "2026-11-12T22:15:45.654770+09:00",
+  "generated_at": "2026-11-15T22:16:42.798488+09:00",
   "article_count": 24,
-  "sig": "6a388d7b27b5"
+  "sig": "f664cee3ee0e"
  },
  "items": [
+  {
+   "id": "ca3b45f9f44c0eb4",
+   "url": "https://www.irishexaminer.com/lifestyle/fashionandbeauty/arid-41937861.html",
+   "title_original": "Uniqlo secures city centre location in Dublin - reports",
+   "source": "Irish Examiner",
+   "image": "https://www.irishexaminer.com/cms_media/module_img/10585/5292771_5_org_iStock-1069672520_1_.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T12:25:00+00:00",
+   "title_ja": "ユニクロがダブリン中心部に店舗物件を確保か",
+   "summary_ja": "アイルランドのダブリン中心部において、ユニクロが店舗物件を確保したと現地メディアが報じた。同国への本格的な出店や海外事業の拡大に向けた具体的な動きとして今後の動向が注目されている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "0062243856a90fb6",
    "url": "https://news.yahoo.co.jp/articles/06dbdf4a8bb747744f016a4bc6e5917edfee6d1a",
@@ -277,7 +293,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "0741e30a3446f3dd",
@@ -341,7 +357,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2448fb417eb6d4a1",
@@ -373,7 +389,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bf1d055723cf5701",
@@ -629,6 +645,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "a4fc5d68069519f4",
+   "url": "https://infashionbusiness.com/home/news_details/7725",
+   "title_original": "UNIQLO X Cecilie Bahnsen Debut ‘Shapes Of Poetry’ Spring/summer 2026 Collection",
+   "source": "IFAB MEDIA",
+   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1777030305.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-13T00:47:54+00:00",
+   "title_ja": "ユニクロ、セシリー・バンセンとの2026年春夏コラボコレクションを発表",
+   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンと手掛ける2026年春夏コレクション「Shapes Of Poetry」を発表しました。詩的なシルエットを取り入れた注目のコラボアイテムを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -1740,7 +1772,7 @@
    "url": "https://alvinology.com/2026/11/09/uniqlo-northpoint-city-reopen-as-its-largest-store-in-the-north",
    "title_original": "UNIQLO Northpoint City Reopen as Its Largest Store in the North",
    "source": "Alvinology",
-   "image": "",
+   "image": "https://alvinology.com/wp-content/uploads/2026/11/image-15.png",
    "lang": "en",
    "region": "global",
    "published": "2026-11-09T02:46:06+00:00",
@@ -6630,38 +6662,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "832983be1fcbc0ee",
-   "url": "https://portal.uqmobile.jp/detail/1/3/6/10401_6_r_20261028_1793155687739928",
-   "title_original": "ユニクロ靴下値上げを中止「生活必需品を象徴する商品」 円安などでほかの商品は11月に予定通り値上げへ",
-   "source": "UQライフ",
-   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T02:46:00+00:00",
-   "title_ja": "ユニクロ、靴下の値上げを取りやめ　他商品は11月に予定通り値上げ",
-   "summary_ja": "ユニクロは、生活必需品を象徴する商品として靴下の値上げを取りやめました。一方で、円安などの影響を受けるその他の商品については、当初の予定通り11月に値上げを実施する見通しです。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "f53cbfc760de9d3c",
-   "url": "https://villagepipol.com/the-gifts-that-bring-us-together-uniqlo-philippines-begins-holiday-festivities",
-   "title_original": "‘The Gifts That Bring Us Together:’ UNIQLO Philippines Begins Holiday Festivities",
-   "source": "Village Pipol",
-   "image": "https://villagepipol.com/wp-content/uploads/2026/10/UNIQLO-Philippines-Begins-Holiday-Festivities-FI.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T01:42:41+00:00",
-   "title_ja": "フィリピンのユニクロがホリデーシーズンの記念イベントを開始",
-   "summary_ja": "フィリピンのユニクロが、「The Gifts That Bring Us Together」と題したホリデーシーズンのイベントや企画を開始した。現地で人々を結びつける贈り物をテーマにした各種催しを展開していく。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
