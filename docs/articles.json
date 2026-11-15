@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T22:06:28.154844+09:00",
+ "updated_at": "2026-11-16T07:14:57.936817+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -43,11 +43,13 @@
   "ContentGrip",
   "Daily Hive",
   "Dtimes",
+  "Dublin Live",
   "ELLE",
   "Emo!miu",
   "Essential Japan",
   "Estates Gazette",
   "Excite エキサイト",
+  "Extra.ie",
   "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
   "FashionNetwork USA",
@@ -131,7 +133,6 @@
   "TipRanks",
   "Traders Union",
   "UP TO DATE",
-  "UQライフ",
   "Unisba Media",
   "VZ VermögensZentrum",
   "Vietnam.vn",
@@ -159,7 +160,6 @@
   "selecta bisso",
   "stupidDOPE",
   "vietnamnews.vn",
-  "www.daily-sun.com",
   "│BABYDOT（ベイビードット）",
   "にじめん",
   "ねとらぼ",
@@ -218,51 +218,108 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 231,
+ "detail_count": 234,
  "digest": {
-  "headline": "ユニクロの新作コラボや店舗拡大、感謝祭開催に注目",
+  "headline": "ユニクロアイルランド初出店や感謝祭、話題の新作続々",
   "points": [
    {
-    "text": "セシリー バンセンやスタジオジブリとの注目コラボ新作の発表や発売が順次進んでいる。",
+    "text": "ユニクロがアイルランド初の店舗をダブリンのカレッジ・グリーンに開設し、海外市場の拡大を進めています。",
     "ids": [
-     "0741e30a3446f3dd",
-     "f8506d50c1b868f7"
+     "22588567cbf13828",
+     "5478a0ea974d77fa"
     ]
    },
    {
-    "text": "11月20日よりユニクロ感謝祭が開催され、あんぱんやパッカブルビッグトートなどの豪華ノベルティも用意される。",
+    "text": "11月20日からの「ユニクロ感謝祭」開催が発表され、豪華ノベルティやセシリー・バンセンコラボが話題です。",
     "ids": [
      "fa06332655830dd6",
-     "77e34a7df8bb303a"
+     "61363456f3d22590"
     ]
    },
    {
-    "text": "京都・河原町通での新店舗オープンや、熊本での県内最大級店舗のリニューアルなど国内店舗が賑わいを見せる。",
+    "text": "京都や熊本での新店舗オープンに加え、ジブリやスヌーピー、セシリー・バンセンなど注目の新作が発表されました。",
     "ids": [
      "76699cb6541544d7",
+     "f8506d50c1b868f7",
      "a3b6e285b4cdfe34"
     ]
    },
    {
-    "text": "アイルランドのダブリンでの物件確保やインド出店、ジブリコラボの海外展開など海外事業の拡大が進行中だ。",
-    "ids": [
-     "ca3b45f9f44c0eb4",
-     "4ba7df64b2f7665a",
-     "8af5d08d8a180f2d"
-    ]
-   },
-   {
-    "text": "SNSではGU GUコラボがXで3日に160件投稿され、大きな話題を集めている。",
+    "text": "GU GUコラボがXで3日に118件投稿されるなどSNSで話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-12T22:15:45.654770+09:00",
-  "generated_at": "2026-11-15T22:16:42.798488+09:00",
+  "from": "2026-11-13T07:22:41.439812+09:00",
+  "generated_at": "2026-11-16T07:22:43.067533+09:00",
   "article_count": 24,
-  "sig": "f664cee3ee0e"
+  "sig": "b255280370d4"
  },
  "items": [
+  {
+   "id": "9899ac200dfb97a9",
+   "url": "https://www.kyoto-np.co.jp/articles/-/1823008",
+   "title_original": "ユニクロがなぜ京都市に旗艦店を出店したのか「ここだけ」のレアな光景と世界を見据えた「京都戦略」",
+   "source": "京都新聞デジタル",
+   "image": "https://kyoto-np.ismcdn.jp/mwimgs/0/0/1200wm/img_001b21c14a3336ea49fb54611317cdb22253641.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-15T19:50:00+00:00",
+   "title_ja": "ユニクロが京都市に旗艦店を出店した背景と世界を見据えた京都戦略",
+   "summary_ja": "ユニクロが京都市内に旗艦店を開設した理由と、同店限定で見られる特徴的な光景を紹介しています。世界市場への展開を見据えたユニクロ独自の京都戦略について解説がなされています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "22588567cbf13828",
+   "url": "https://extra.ie/2026/11/15/news/irish-news/uniqlo-dublin",
+   "title_original": "Popular clothing brand Uniqlo set to open first store in Ireland",
+   "source": "Extra.ie",
+   "image": "https://extra.ie/wp-content/uploads/2026/11/uniqlo.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T17:24:50+00:00",
+   "title_ja": "ユニクロがアイルランドへの初出店を発表し現地初の店舗をオープンへ",
+   "summary_ja": "人気ファッションブランドのユニクロが、アイルランド初となる1号店をオープン予定であることが分かりました。海外市場の拡大を進めるユニクロによる、同国への新規進出動向を伝えるニュースです。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5478a0ea974d77fa",
+   "url": "https://www.dublinlive.ie/news/uniqlo-set-open-first-irish-34914856",
+   "title_original": "Uniqlo set to open first Irish store on College Green",
+   "source": "Dublin Live",
+   "image": "https://i2-prod.dublinlive.ie/article34914780.ece/ALTERNATES/s1200d/0_Uniqlo-is-set-to-move-into-23-27-College-Green.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T15:27:03+00:00",
+   "title_ja": "ユニクロがアイルランド初の店舗をダブリンのカレッジ・グリーンに出店へ",
+   "summary_ja": "ユニクロがアイルランド初出店となる新店舗をダブリンのカレッジ・グリーンに開設することが判明した。欧州市場におけるさらなる店舗網の拡大と認知度向上を目指す取り組みの一環である。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "560822dee4410c0c",
+   "url": "https://stupiddope.com/2026/11/cecilie-bahnsen-and-uniqlo-reunite-for-a-fleece-first-fw26-collection-wandering-together",
+   "title_original": "UNIQLO x Cecilie Bahnsen FW26 Collection: Fleece Jackets, Kids Skorts, Release Date and Where to Buy",
+   "source": "stupidDOPE",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-15T14:54:42+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コラボコレクションが発表",
+   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンとコラボレーションした2026年秋冬コレクションを発表。フリースジャケットやキッズ向けスコートなどのラインナップ、発売日や取扱店舗が紹介されている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "ca3b45f9f44c0eb4",
    "url": "https://www.irishexaminer.com/lifestyle/fashionandbeauty/arid-41937861.html",
@@ -3084,7 +3141,7 @@
    "url": "http://www.excite.co.jp/news/article/ytv_1490984656094544794",
    "title_original": "【西日本初のカフェも】京都にユニクロの超大型店 『よーじや』など地元企業とのコラボ商品多数",
    "source": "Excite エキサイト",
-   "image": "",
+   "image": "https://s.eximg.jp/exnews/feed/ytv/1b/ytv_1490984656094544794/ytv_1490984656094544794_1.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-11-05T08:00:00+00:00",
@@ -3564,7 +3621,7 @@
    "url": "https://thesolesupplier.co.uk/news/Uniqlo-cecilie-bahnsen-collaboration-winter-collection-2026",
    "title_original": "Uniqlo and Cecilie Bahnsen Are Back for Round Two",
    "source": "The Sole Supplier",
-   "image": "",
+   "image": "https://cms-cdn.thesolesupplier.co.uk/quad/images/33267073-49f3-4da6-a9d1-d55f630d4dac_w1200_h630_q80_.jpeg.jpeg",
    "lang": "en",
    "region": "global",
    "published": "2026-11-04T17:43:00+00:00",
@@ -6597,70 +6654,6 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a093ec0a403c55f4",
-   "url": "https://www.daily-sun.com/index.php/diplomacy/905811/tarique-urges-uniqlo-to-expand-investment-in-bangladesh-s-rmg-sector",
-   "title_original": "Tarique urges Uniqlo to expand investment in Bangladesh's RMG sector",
-   "source": "www.daily-sun.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T04:20:59+00:00",
-   "title_ja": "タリク氏がユニクロにバングラデシュの既製服分野への投資を要請",
-   "summary_ja": "バングラデシュのタリク氏が、ユニクロに対して同国の既製服（RMG）産業への投資拡大を強く求めました。同国での事業展開や生産分野でのパートナーシップ強化が期待されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "da247e3a7b53aceb",
-   "url": "https://s.inside-games.jp/article/img/2026/10/28/189963/1792683.html",
-   "title_original": "ユニクロから「ミッフィー」の新作UTが12月下旬登場！上品でモダンなデザインの全4種 2枚目の写真・画像",
-   "source": "インサイド",
-   "image": "https://www.inside-games.jp/imgs/p/qCesLc4C5kgKEmOgg5jIu28IuwZxBQQDAgEA/1792683.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T03:50:02+00:00",
-   "title_ja": "ユニクロから「ミッフィー」の新作UTが12月下旬に登場",
-   "summary_ja": "ユニクロのTシャツブランド「UT」より、「ミッフィー」をモチーフにした新作アイテムが12月下旬に発売される。上品かつモダンなデザインを採用した全4種類のラインナップを展開する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "30b2904577144eee",
-   "url": "https://news.yahoo.co.jp/articles/deed84442abd7670738477a10af48661754f4787",
-   "title_original": "ユニクロから「ミッフィー」の新作UTが12月下旬登場！上品でモダンなデザインの全4種（インサイド）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00000018-isd-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T03:50:02+00:00",
-   "title_ja": "ユニクロがミッフィーの新作UTを12月下旬に発売へ、全4種を展開",
-   "summary_ja": "ユニクロはキャラクター「ミッフィー」をあしらった新作グラフィックTシャツ「UT」を、12月下旬より発売する。上品でモダンなデザインを採用した全4種類のラインナップが用意される予定となっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "3f3573bf01d1c88b",
-   "url": "https://portal.uqmobile.jp/detail/1/3/6/10401_6_r_20261028_1793158352743419",
-   "title_original": "ユニクロ「ソックスまとめ買い」の販売終了を取りやめ 「50色ソックス」の値上げも中止 「靴下は生活必需品を象徴する商品」",
-   "source": "UQライフ",
-   "image": "https://www.uqwimax.jp/common2/images/ogp.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T03:30:00+00:00",
-   "title_ja": "ユニクロが靴下のまとめ買い販売終了と50色ソックスの値上げを撤回",
-   "summary_ja": "ユニクロは靴下のまとめ買い販売の終了方針を取りやめ、定番の「50色ソックス」で予定していた値上げも中止することを決定した。靴下を生活必需品の象徴的な商品と位置づけ、購入しやすい条件や価格を維持する。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
    "detail_tries": 2
   }
  ]
