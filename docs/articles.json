@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T06:47:07.480542+09:00",
+ "updated_at": "2026-11-15T12:40:04.195147+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -34,6 +34,7 @@
   "BroadwayWorld",
   "Business News Wales",
   "BusinessMirror",
+  "CLASSY.[クラッシィ]",
   "Cate Blanchett Fan",
   "China Daily",
   "Chosunbiz",
@@ -217,53 +218,67 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 233,
+ "detail_count": 230,
  "digest": {
-  "headline": "ユニクロ感謝祭やセシリー・バンセンコラボが続々発表",
+  "headline": "新作コラボ発表や感謝祭告知、海外事業改革など注目の動き",
   "points": [
    {
-    "text": "ユニクロは11月20日からの「ユニクロ感謝祭」の開催を発表し、全5色のパッカブルビッグトートバッグなどの豪華なノベルティを用意しています。",
+    "text": "セシリー バンセンとのコラボ第2弾やスタジオジブリとの冬向け新作コレクションの発表が相次いだ。",
+    "ids": [
+     "3ccaeeb66c310d2e",
+     "f8506d50c1b868f7"
+    ]
+   },
+   {
+    "text": "11月20日よりユニクロ感謝祭が開催され、あんぱんやビッグトートなどのノベルティが用意されている。",
     "ids": [
      "fa06332655830dd6",
      "77e34a7df8bb303a"
     ]
    },
    {
-    "text": "セシリー・バンセンとのコラボレーション新作が発表され、花柄の刺しゅうを施したフリースなどが11月16日から順次発売されます。",
+    "text": "中国事業での3000店を見据えた構造改革や採用強化に加え、インドでの新店舗開店など海外展開が進む。",
     "ids": [
-     "0741e30a3446f3dd",
-     "926ff1ce5ec122a1",
-     "eeff0a1ca9cbc070"
-    ]
-   },
-   {
-    "text": "スタジオジブリとの冬向けコラボ新作が発表され、トトロやハウルの動く城のデザインが登場するほか、全米やシンガポールでも展開されます。",
-    "ids": [
-     "f8506d50c1b868f7",
-     "bf1d055723cf5701",
-     "8af5d08d8a180f2d"
-    ]
-   },
-   {
-    "text": "京都の河原町通に限定アイテムを展開する「ユニクロ 京都」がオープンしたほか、中国事業の改革やインドでの新店舗オープンが進められています。",
-    "ids": [
-     "76699cb6541544d7",
      "e443a79f49ba026c",
+     "4e3719f6a40c2a11",
      "4ba7df64b2f7665a"
     ]
    },
    {
-    "text": "SNSではユニクロのジブリ UTがXで4件投稿されるなど話題を集めています。",
+    "text": "京都での新店舗オープンや、熊本での県内最大規模の店舗リニューアルなど国内の店舗展開も活発だ。",
+    "ids": [
+     "76699cb6541544d7",
+     "a3b6e285b4cdfe34"
+    ]
+   },
+   {
+    "text": "SNSではGUコラボがXで3日に106件投稿されるなど話題を集めている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-12T06:53:46.733558+09:00",
-  "generated_at": "2026-11-15T06:53:48.347962+09:00",
+  "from": "2026-11-12T12:46:04.381840+09:00",
+  "generated_at": "2026-11-15T12:46:25.209514+09:00",
   "article_count": 24,
-  "sig": "fd20cbfa2f8c"
+  "sig": "6a388d7b27b5"
  },
  "items": [
+  {
+   "id": "0062243856a90fb6",
+   "url": "https://news.yahoo.co.jp/articles/06dbdf4a8bb747744f016a4bc6e5917edfee6d1a",
+   "title_original": "「ハローキティ」新作UTがユニクロから12月上旬に発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00000027-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-15T03:20:02+00:00",
+   "title_ja": "ユニクロがハローキティの新作UTを12月上旬発売 リボンのデザイン4種",
+   "summary_ja": "ユニクロは「ハローキティ」の新作UTコレクションを12月上旬から販売します。トレードマークであるリボンをモチーフにし、大人が着用しやすいシンプルで落ち着いた4種類のデザインが用意されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "0741e30a3446f3dd",
    "url": "https://www.wwdjapan.com/articles/2451312",
@@ -313,6 +328,22 @@
    "has_detail": true
   },
   {
+   "id": "a3b6e285b4cdfe34",
+   "url": "https://media.unisba.ac.id/dd2474ea/34e11807LBcgDzgbAyoxN1I",
+   "title_original": "熊本県最大の「ユニクロ」に大行列 向かい側にはGUも 「ゆめタウン光の森」にリニューアルオープン 菊陽町 Davos (zY121Wkcf7)",
+   "source": "Unisba Media",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T03:31:38+00:00",
+   "title_ja": "熊本県菊陽町の「ゆめタウン光の森」に県内最大のユニクロがリニューアル出店",
+   "summary_ja": "熊本県菊陽町の商業施設「ゆめタウン光の森」にて、県内最大規模となるユニクロがリニューアルオープンしました。オープン当日には大勢の客が行列を作り、向かい側にはジーユーも出店するなど、賑わいを見せています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "2448fb417eb6d4a1",
    "url": "https://www.huffingtonpost.jp/entry/story_jp_6ae31698e4b09cd24b6c3859",
    "title_original": "ケイト・ブランシェットが難民の映画監督を支援する理由。ユニクロと始めた基金、大事なのは「自由を与えること」",
@@ -327,6 +358,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "3ccaeeb66c310d2e",
+   "url": "https://classy-online.jp/fashion/574361",
+   "title_original": "【ユニクロ】「セシリー バンセン」コラボ第2弾！主役はフェミニンに進化したフリース",
+   "source": "CLASSY.[クラッシィ]",
+   "image": "https://img.classy-online.jp/wp-content/uploads/2026/11/10093139/KV01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-14T01:30:22+00:00",
+   "title_ja": "ユニクロが「セシリー バンセン」コラボ第2弾を発表　フリースを女性らしく刷新",
+   "summary_ja": "ユニクロとデザイナーブランド「セシリー バンセン」によるコラボレーション第2弾が登場します。今回のコレクションでは、フェミニンなデザインへと進化を遂げたフリースアイテムが注目の主役商品として展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "bf1d055723cf5701",
@@ -534,7 +581,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "fa06332655830dd6",
@@ -6612,54 +6659,6 @@
    "title_ja": "フィリピンのユニクロがホリデーシーズンの記念イベントを開始",
    "summary_ja": "フィリピンのユニクロが、「The Gifts That Bring Us Together」と題したホリデーシーズンのイベントや企画を開始した。現地で人々を結びつける贈り物をテーマにした各種催しを展開していく。",
    "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f03fe877478e2e6c",
-   "url": "https://news.yahoo.co.jp/articles/f844f114d3b4e64396ab0edf78b13b9069f3c92c",
-   "title_original": "【ヤフコメで話題】「ユニクロ靴下の値上げ撤回に賛否」「消耗品の価格とブランド戦略」 - 靴下値上げ騒動が映す消費者心理",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T00:59:30+00:00",
-   "title_ja": "ユニクロの靴下値上げ撤回に賛否両論、消耗品の価格設定やブランド戦略が話題に",
-   "summary_ja": "ユニクロが靴下の値上げを撤回したことを受け、ネット上でさまざまな議論を呼んでいる。消耗品の価格維持に対する賛否や、今後のブランド戦略と消費者心理について分析がなされている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "77a2790969943b19",
-   "url": "https://www.fastretailing.com/jp/group/news/2610281500.html",
-   "title_original": "ユニクロがインターブランド「Best Global Brands」に2年連続選出 - LifeWearへの世界的な支持拡大と、優れた顧客体験への取り組みが評価 | FAST RETAILING CO., LTD.",
-   "source": "Fast Retailing Co",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T00:00:00+00:00",
-   "title_ja": "ユニクロが「Best Global Brands」に2年連続選出、顧客体験などが高評価",
-   "summary_ja": "ユニクロがインターブランド社の「Best Global Brands」に2年連続で選出されました。「LifeWear」への世界的な支持の拡大や、優れた顧客体験の提供に向けた継続的な取り組みが高く評価されています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "86e3065b29745328",
-   "url": "https://www.fastretailing.com/eng/group/news/2610281500.html",
-   "title_original": "UNIQLO Ranks in Interbrand's Best Global Brands for the Second Consecutive Year",
-   "source": "Fast Retailing Co",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T00:00:00+00:00",
-   "title_ja": "ユニクロ、インターブランド「ベスト・グローバル・ブランド」に2年連続選出",
-   "summary_ja": "ユニクロが、インターブランド社が発表する「ベスト・グローバル・ブランド」に2年連続で選出されました。世界的なブランド価値の高さとグローバル市場での存在感が評価されています。",
-   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true

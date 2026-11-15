@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T06:50:52.972140+09:00",
+ "updated_at": "2026-11-15T12:42:31.566088+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2837,
+ "catalog_size": 2835,
  "count": 64,
  "items": [
   {
@@ -134,7 +134,7 @@
    ],
    "price": 2990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487598/item/jpgoods_51_487598_3x4.jpg",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487598/item/jpgoods_69_487598_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E487598-000/00?colorDisplayCode=19",
    "rating": 4.4,
    "reviews": 49,
@@ -994,8 +994,33 @@
    "rising": true
   },
   {
-   "key": "GU:E361123-000",
+   "key": "GU:E360719-000",
    "rank": 39,
+   "brand": "GU",
+   "name": "ユーティリティシャツジャケット",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 990,
+   "promo": 990,
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360719/item/jpgoods_09_360719_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E360719-000/00?colorDisplayCode=36",
+   "rating": 4.3,
+   "reviews": 82,
+   "reviews7": 27,
+   "capped": false,
+   "prev7": 14,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 45,
+   "momentum": 1.66,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E361123-000",
+   "rank": 40,
    "brand": "GU",
    "name": "3Dバレルジーンズ",
    "genders": [
@@ -1016,31 +1041,6 @@
    "momentum": 1.26,
    "new": false,
    "rising": true
-  },
-  {
-   "key": "GU:E360457-000",
-   "rank": 40,
-   "brand": "GU",
-   "name": "トラックジャケット(オーバーサイズフィット)",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 1490,
-   "promo": 1490,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360457/item/jpgoods_69_360457_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E360457-000/00?colorDisplayCode=55",
-   "rating": 4.3,
-   "reviews": 110,
-   "reviews7": 29,
-   "capped": false,
-   "prev7": 23,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 44,
-   "momentum": 1.53,
-   "new": false,
-   "rising": false
   },
   {
    "key": "UQ:E491700-000",
