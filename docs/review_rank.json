@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T07:17:47.233597+09:00",
+ "updated_at": "2026-11-16T12:42:23.649440+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -630,8 +630,8 @@
    ],
    "price": 3990,
    "promo": null,
-   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361784/item/jpgoods_03_361784_3x4.jpg",
-   "url": "https://www.gu-global.com/jp/ja/products/E361784-000/00?colorDisplayCode=03",
+   "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/361784/item/jpgoods_30_361784_3x4.jpg",
+   "url": "https://www.gu-global.com/jp/ja/products/E361784-000/00?colorDisplayCode=30",
    "rating": 4.6,
    "reviews": 422,
    "reviews7": 58,
@@ -669,39 +669,8 @@
    "rising": true
   },
   {
-   "key": "UQ:E475344-000",
-   "rank": 26,
-   "brand": "ユニクロ",
-   "name": "ジャージーバレルレッグパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
-   "rating": 4.5,
-   "reviews": 6179,
-   "reviews7": 66,
-   "capped": false,
-   "prev7": 83,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【64歳マダム】無印良品の薄手コート×ユニクロのジャージーバレルレッグパンツで秋コーデ！“ヒョウ柄ストールの差し色”が映える着こなしに魅了（LIMO）",
-     "s": "Yahoo!ニュース",
-     "u": "https://news.yahoo.co.jp/articles/f4d8ff8e9bf8e03952a4e10f4e83fcda6177ba89"
-    }
-   ],
-   "score": 72,
-   "momentum": 1.02,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "GU:E361035-000",
-   "rank": 27,
+   "rank": 26,
    "brand": "GU",
    "name": "コージーメルトン3Dバレルパンツ",
    "genders": [
@@ -725,7 +694,7 @@
   },
   {
    "key": "GU:E360889-000",
-   "rank": 28,
+   "rank": 27,
    "brand": "GU",
    "name": "ウォームシアータートルネックT(12分袖)",
    "genders": [
@@ -749,7 +718,7 @@
   },
   {
    "key": "UQ:E492378-000",
-   "rank": 29,
+   "rank": 28,
    "brand": "ユニクロ",
    "name": "エアリズムメッシュロングボクサーブリーフ/前開き",
    "genders": [
@@ -772,6 +741,31 @@
    "rising": false
   },
   {
+   "key": "UQ:E475344-000",
+   "rank": 29,
+   "brand": "ユニクロ",
+   "name": "ジャージーバレルレッグパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/475344/item/jpgoods_30_475344_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E475344-000/00?colorDisplayCode=30",
+   "rating": 4.5,
+   "reviews": 6179,
+   "reviews7": 66,
+   "capped": false,
+   "prev7": 83,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 67,
+   "momentum": 1.02,
+   "new": false,
+   "rising": false
+  },
+  {
    "key": "UQ:E482766-000",
    "rank": 30,
    "brand": "ユニクロ",
@@ -782,8 +776,8 @@
    ],
    "price": 1990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482766/item/jpgoods_08_482766_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E482766-000/00?colorDisplayCode=08",
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/482766/item/jpgoods_57_482766_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E482766-000/00?colorDisplayCode=57",
    "rating": 4.5,
    "reviews": 1870,
    "reviews7": 63,

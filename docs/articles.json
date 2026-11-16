@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T07:14:57.936817+09:00",
+ "updated_at": "2026-11-16T12:39:53.005546+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -31,7 +31,6 @@
   "Billionaires.Africa",
   "Bloomberg.com",
   "Branding in Asia",
-  "BroadwayWorld",
   "Business News Wales",
   "BusinessMirror",
   "CLASSY.[クラッシィ]",
@@ -66,7 +65,6 @@
   "Hypebeast",
   "IFAB MEDIA",
   "IMPACT Magazine",
-  "ITmedia",
   "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
@@ -116,6 +114,7 @@
   "Secret Miami",
   "Siliconera",
   "Smartkarma",
+  "SoraNews24",
   "Speed",
   "Stylist",
   "TBS NEWS DIG",
@@ -131,7 +130,6 @@
   "TheFutureParty",
   "TheIndustry.fashion",
   "TipRanks",
-  "Traders Union",
   "UP TO DATE",
   "Unisba Media",
   "VZ VermögensZentrum",
@@ -145,7 +143,6 @@
   "Yahoo!ニュース",
   "YouTube",
   "ad-hoc-news.de",
-  "dhakamagazine.com",
   "fashion tech news",
   "hicbc.com",
   "https://mediadogs.jp/",
@@ -154,7 +151,6 @@
   "https://www.misslobang.com/",
   "khorasantimes.com",
   "ktv.jp",
-  "marketech apac",
   "marketscreener.com",
   "purplerevolver.com",
   "selecta bisso",
@@ -220,42 +216,123 @@
  "count": 400,
  "detail_count": 234,
  "digest": {
-  "headline": "ユニクロアイルランド初出店や感謝祭、話題の新作続々",
+  "headline": "ユニクロ新コラボや国内外の出店ラッシュ、感謝祭情報まとめ",
   "points": [
    {
-    "text": "ユニクロがアイルランド初の店舗をダブリンのカレッジ・グリーンに開設し、海外市場の拡大を進めています。",
+    "text": "ユニクロはスタジオジブリやセシリー・バンセン、スヌーピーなどの新作コラボやコレクションを発表・発売します。",
+    "ids": [
+     "658a0c83fdbf657b",
+     "0741e30a3446f3dd",
+     "3ccaeeb66c310d2e"
+    ]
+   },
+   {
+    "text": "アイルランド初出店となるダブリンの店舗オープンや、京都、熊本での新店・リニューアルオープンが行われています。",
     "ids": [
      "22588567cbf13828",
-     "5478a0ea974d77fa"
+     "5478a0ea974d77fa",
+     "76699cb6541544d7"
     ]
    },
    {
-    "text": "11月20日からの「ユニクロ感謝祭」開催が発表され、豪華ノベルティやセシリー・バンセンコラボが話題です。",
+    "text": "11月20日からのユニクロ感謝祭の開催決定に加え、GUのフランチェスコ・リッソ監修2026年秋冬コレクションが発表されました。",
     "ids": [
-     "fa06332655830dd6",
-     "61363456f3d22590"
+     "dc083487368553a5",
+     "fa06332655830dd6"
     ]
    },
    {
-    "text": "京都や熊本での新店舗オープンに加え、ジブリやスヌーピー、セシリー・バンセンなど注目の新作が発表されました。",
-    "ids": [
-     "76699cb6541544d7",
-     "f8506d50c1b868f7",
-     "a3b6e285b4cdfe34"
-    ]
-   },
-   {
-    "text": "GU GUコラボがXで3日に118件投稿されるなどSNSで話題となっています。",
+    "text": "SNSでは「GU ちいかわ ポーチ」が注目を集め、Xで3日に69件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-13T07:22:41.439812+09:00",
-  "generated_at": "2026-11-16T07:22:43.067533+09:00",
+  "from": "2026-11-13T12:46:19.058630+09:00",
+  "generated_at": "2026-11-16T12:46:21.260881+09:00",
   "article_count": 24,
-  "sig": "b255280370d4"
+  "sig": "127cefd326fb"
  },
  "items": [
+  {
+   "id": "f4f96c4e108c8c22",
+   "url": "https://prtimes.jp/main/html/rd/p/000000168.000068741.html",
+   "title_original": "プロスノーボーダー・平野歩夢選手の挑戦の軌跡と内面に迫る公式ドキュメンタリー『AYUMU』 12月5日（土）公開決定",
+   "source": "PR TIMES",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/168/68741-168-210941d8998c601a453305cdba91a0ca-1600x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-16T11:00:02+00:00",
+   "title_ja": "平野歩夢選手の公式ドキュメンタリー作品『AYUMU』が12月5日に公開決定",
+   "summary_ja": "プロスノーボーダーの平野歩夢選手に密着し、その挑戦の軌跡や内面に迫る公式ドキュメンタリー作品『AYUMU』が、12月5日に公開されることが決定した。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "8d9868a75c2507b0",
+   "url": "https://news.yahoo.co.jp/articles/b92ac9f794d19e220645f1e821176708851c1bf8",
+   "title_original": "ユニクロの「スヌーピー」キッズコレクションに注目！“ミュージックタイム”がテーマのスウェットシャツ、UVカットキャップ全8種",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000018-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-16T03:10:03+00:00",
+   "title_ja": "ユニクロが「スヌーピー」キッズコレクション発表 スウェットなど全8種",
+   "summary_ja": "ユニクロから「ミュージックタイム」をテーマにしたスヌーピーのキッズコレクションが登場します。ラインナップにはスウェットシャツやUVカットキャップなど全8種類のアイテムが揃っています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "658a0c83fdbf657b",
+   "url": "https://soranews24.com/2026/11/16/studio-ghibli-and-uniqlo-reveal-brand-new-t-shirt-collaboration-pics",
+   "title_original": "Studio Ghibli and Uniqlo reveal brand-new T-shirt collaboration [Pics]",
+   "source": "SoraNews24",
+   "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/11/0_90455f.jpg?w=1200&h=630&crop=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T03:00:29+00:00",
+   "title_ja": "ユニクロとスタジオジブリが新作コラボTシャツを発表 画像も公開",
+   "summary_ja": "ユニクロがスタジオジブリとの新たなコラボレーションTシャツを発表しました。新作Tシャツのデザイン画像が公開されており、ジブリ作品の世界観を楽しめるコレクションとなっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0887fe7ce821e054",
+   "url": "https://news.yahoo.co.jp/articles/b66fc7d1009c2ad037076ad5ddebe7b3127770b2",
+   "title_original": "「スヌーピー」の新作UTが可愛い！スウェットシャツ、UVカットキャップも揃えた全12アイテム（インサイド）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000010-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-16T02:20:02+00:00",
+   "title_ja": "スヌーピーの新作UTが登場 スウェットやキャップなど全12種を展開",
+   "summary_ja": "ユニクロからスヌーピーデザインの新作UTコレクションが登場します。スウェットシャツやUVカット機能付きキャップなどもラインナップされ、全12種類のアイテムが展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bce83effefeed783",
+   "url": "https://alvinology.com/2026/11/16/uniqlo-and-studio-ghibli-launch-new-live-for-today-my-dear-ut-collection-in-singapore-this-december",
+   "title_original": "UNIQLO and Studio Ghibli Launch New ‘LIVE FOR TODAY, MY DEAR’ UT Collection in Singapore This December",
+   "source": "Alvinology",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T01:30:00+00:00",
+   "title_ja": "ユニクロがスタジオジブリとの新作コラボUTをシンガポールで12月に発売へ",
+   "summary_ja": "ユニクロは、スタジオジブリとコラボレーションした新作UTコレクション「LIVE FOR TODAY, MY DEAR」を、12月にシンガポールで発売することを発表した。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "9899ac200dfb97a9",
    "url": "https://www.kyoto-np.co.jp/articles/-/1823008",
@@ -318,7 +395,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "ca3b45f9f44c0eb4",
@@ -335,6 +412,38 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "53b0e688eef15403",
+   "url": "https://nijimen.kusuguru.co.jp/topics/658542",
+   "title_original": "スヌーピーがケーキのろうそくを吹き消す姿も♪ ユニクロ WOMEN「ピーナッツ UT」6種が12月中旬販売予定！各1,990円（税込）",
+   "source": "にじめん",
+   "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/da1d3c8714034b78850d967ad17623f0.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-15T10:20:28+00:00",
+   "title_ja": "ユニクロ、ピーナッツの新作UTを12月中旬に発売へ",
+   "summary_ja": "ユニクロは、スヌーピーなどをデザインしたウィメンズの「ピーナッツ UT」全6種を12月中旬に発売予定です。価格は各1990円（税込）となります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "dc083487368553a5",
+   "url": "https://www.sanyonews.jp/article/1955730",
+   "title_original": "GU、フランチェスコ・リッソ監修の2026年秋冬コレクションを発表 多様なライフスタイルに寄り添う6つのコンセプト",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1/1/0/5/a/105a4051309093d24c9b7d4e50aab201_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-15T09:15:39+00:00",
+   "title_ja": "GU、フランチェスコ・リッソ監修の2026年秋冬を発表",
+   "summary_ja": "GUは、フランチェスコ・リッソ氏が監修する2026年秋冬コレクションの発表を行いました。多様なライフスタイルに合わせた6つのコンセプトを展開します。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "0062243856a90fb6",
@@ -399,6 +508,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "ff3ca09f11a8d010",
+   "url": "https://indianretailer.com/franchisetv/news/tag/uniqlo-new-store-opening",
+   "title_original": "UNIQLO new store opening",
+   "source": "Indian Retailer",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-14T07:54:51+00:00",
+   "title_ja": "ユニクロが新たな店舗のオープンを発表",
+   "summary_ja": "ユニクロが新たな店舗をオープンすることが報じられた。同ブランドによる店舗網の拡大に向けた取り組みの一環として、新店舗の出店オープンが進められている。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "a3b6e285b4cdfe34",
@@ -6526,134 +6651,6 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "bf12a48e3194289f",
-   "url": "https://news.yahoo.co.jp/articles/3f726108c08fd855cae11b57a0ed5a1c0aa0f0e1",
-   "title_original": "「ユニクロ」が靴下の価格改定とまとめ買い終了を撤回（WWDJAPAN.com）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-02537955-wwdjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T07:40:00+00:00",
-   "title_ja": "ユニクロが靴下の値上げとまとめ買い割引の終了方針を撤回",
-   "summary_ja": "ユニクロは、実施を予定していた靴下の価格引き上げおよびまとめ買い割引の終了を取りやめることを発表しました。生活に密着した商品である点に配慮し、価格設定の見直しを一転して見送る決定を行いました。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "2859236ccb22f358",
-   "url": "https://dhakamagazine.com/en/article/5529/prime-minister-urges-uniqlo-to-increase-investment-in-readymade-garment-sector",
-   "title_original": "Prime Minister urges Uniqlo to increase investment in rea...",
-   "source": "dhakamagazine.com",
-   "image": "https://dhakamagazine.com/storage/posts/featured/48ee27f0-17d7-46b4-b8f9-c509de0c1da2.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T07:23:29+00:00",
-   "title_ja": "バングラデシュ首相がユニクロへ投資拡大を呼びかけ",
-   "summary_ja": "バングラデシュの首相が、ユニクロに対して同国でのさらなる投資拡大を要請しました。現地の衣料品産業における協力体制の強化や事業の成長に向けた呼びかけが行われています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d4fbb5a419f6367f",
-   "url": "https://marketech-apac.com/uniqlo-expands-singapore-retail-network-with-larger-heartland-stores-airport-outlets",
-   "title_original": "UNIQLO expands Singapore retail network with larger heartland stores, airport outlets",
-   "source": "marketech apac",
-   "image": "https://marketech-apac.com/wp-content/uploads/2026/10/UNIQLO-expands-Singapore-retail-network.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T07:23:10+00:00",
-   "title_ja": "ユニクロがシンガポールで店舗網を拡大 住宅地での大型店や空港店舗を出店",
-   "summary_ja": "ユニクロがシンガポールにおける店舗ネットワークを強化し、事業を拡大しています。住宅エリアへの大型店舗の出店や空港ターミナル内への新規出店を通じて、現地での利便性とブランド認知の向上を図っています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "3794d33715cb4537",
-   "url": "https://natalie.mu/comic/news/695554",
-   "title_original": "ちいかわ×GU、寒い雪の日も楽しめる新作アイテム ニットやルームウェアなど（画像106枚）",
-   "source": "ナタリー",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T07:02:00+00:00",
-   "title_ja": "GUが「ちいかわ」との新作コラボ発表、ニットやルームウェアを発売",
-   "summary_ja": "GUが人気キャラクター「ちいかわ」との新しいコラボレーションラインを発表しました。寒くなる季節に向けたニットや部屋着など、雪の日も楽しめるアイテムが豊富に展開されます。",
-   "category": "新商品・コラボ",
-   "brand": "GU",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "63fdc78ea5348a77",
-   "url": "https://www.itmedia.co.jp/business/articles/2610/28/news038.html",
-   "title_original": "ユニクロ絶好調 「売上高10兆円」が視野に入ったファストリ、柳井氏が挙げる「最大の経営課題」（1/6 ページ）",
-   "source": "ITmedia",
-   "image": "https://image.itmedia.co.jp/business/articles/2610/28/cover_news038.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T07:00:00+00:00",
-   "title_ja": "売上高10兆円を目指すファーストリテイリングが直面する経営課題",
-   "summary_ja": "売上高10兆円の大台が視野に入るなど好業績を続けるファーストリテイリングについて、柳井正会長兼社長が挙げる最大の経営課題と今後の成長戦略のポイントを解説しています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "9aae34d6884985e3",
-   "url": "https://www.broadwayworld.com/philippines/article/UNIQLO-x-JW-ANDERSONS-Stage-Notes-Bridges-Theater-and-Everyday-Life-20261028",
-   "title_original": "UNIQLO x JW ANDERSON’S ‘Stage Notes’ Bridges Theater and Everyday Life",
-   "source": "BroadwayWorld",
-   "image": "https://cloudimages2.broadwayworld.com/columnpiccloud/Interview-Rem-Delos-Reyes-of-UNIQLO-X-JW-ANDERSON-S-STAGE-NOTES-BRIDGES-THEATER-AND-EVERYDAY-LIFE-at-Teatro-Marco-1793164184.jpg?format=jpeg&quality=80&width=1200",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T05:26:32+00:00",
-   "title_ja": "ユニクロとJW ANDERSONがコラボ「Stage Notes」を展開",
-   "summary_ja": "ユニクロがJW ANDERSONとのコラボレーション「Stage Notes」を発表しました。演劇と日常生活を繋ぐデザインをテーマにしており、日常に馴染むコレクションとなっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9bc5f1e7d5726a68",
-   "url": "https://dhakamagazine.com/en/article/5525/prime-minister-meets-uniqlo-s-top-executives-in-japan-calls-for-more-investment/amp",
-   "title_original": "Prime Minister meets Uniqlo's top executives in Japan, calls for more investment",
-   "source": "dhakamagazine.com",
-   "image": "https://dhakamagazine.com/storage/posts/featured/58a1286e-57f0-4afb-9185-e1803ad3ac78.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T04:49:05+00:00",
-   "title_ja": "バングラデシュ首相が日本でユニクロ幹部と会談、追加投資を要請",
-   "summary_ja": "バングラデシュの首相が日本でユニクロの経営幹部と会談を行い、同国へのさらなる投資を直接要請しました。現地における事業展開や投資拡大に向けた働きかけがなされています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "aaffd004d37cfd7a",
-   "url": "https://tradersunion.com/news/companies/show/3991073-bangladesh-uniqlo-investment-garment-sector",
-   "title_original": "Bangladesh seeks expanded Uniqlo investment in garment sector",
-   "source": "Traders Union",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T04:39:20+00:00",
-   "title_ja": "バングラデシュがユニクロに衣料品分野での投資拡大を求める",
-   "summary_ja": "バングラデシュが、ユニクロに対して同国の衣料品・アパレル分野における投資の拡大を求めていることが報じられました。現地での生産体制強化やさらなる経済的な協力が期待されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
