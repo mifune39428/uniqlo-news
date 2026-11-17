@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T10:24:00.279422+09:00",
+ "updated_at": "2026-11-18T00:21:15.700321+09:00",
  "criteria": [
   "ユニクロ公式YouTubeのCM動画と、公式のプレスリリース・ニュースの「新CM放映」の発表から集めています。",
   "公式発表やニュースでテレビCMと確かめられたもの、または公式のCM動画が10万回以上再生されているものを載せています。",
@@ -111,57 +111,6 @@
    "views": 13965375,
    "url": "https://www.youtube.com/watch?v=Yl_qY-RTR0U",
    "image": "https://i.ytimg.com/vi/Yl_qY-RTR0U/hqdefault.jpg",
-   "sources": []
-  },
-  {
-   "key": "ユニクロ:スウェット:気づけばいちばん着ている",
-   "brand": "ユニクロ",
-   "product": "スウェット",
-   "name": "気づけば、いちばん着ている",
-   "talents": [],
-   "song": "",
-   "start": "2026-09-17",
-   "until": "2026-11-16",
-   "until_reason": "推定",
-   "tv_confirmed": false,
-   "video_id": "V2--V7kysBo",
-   "views": 355789,
-   "url": "https://www.youtube.com/watch?v=V2--V7kysBo",
-   "image": "https://i.ytimg.com/vi/V2--V7kysBo/hqdefault.jpg",
-   "sources": []
-  },
-  {
-   "key": "ユニクロ:スマートパンツ:キマるでもラク篇",
-   "brand": "ユニクロ",
-   "product": "スマートパンツ",
-   "name": "キマる。でも、ラク。篇",
-   "talents": [],
-   "song": "",
-   "start": "2026-09-13",
-   "until": "2026-11-16",
-   "until_reason": "推定",
-   "tv_confirmed": false,
-   "video_id": "66JQYZfdaWY",
-   "views": 22912918,
-   "url": "https://www.youtube.com/watch?v=66JQYZfdaWY",
-   "image": "https://i.ytimg.com/vi/66JQYZfdaWY/hqdefault.jpg",
-   "sources": []
-  },
-  {
-   "key": "ユニクロ:メリノカシミヤ:lifeとwear往復書簡",
-   "brand": "ユニクロ",
-   "product": "メリノ・カシミヤ",
-   "name": "LifeとWear/往復書簡",
-   "talents": [],
-   "song": "",
-   "start": "2026-09-13",
-   "until": "2026-11-16",
-   "until_reason": "推定",
-   "tv_confirmed": false,
-   "video_id": "WuDwp8R3PAs",
-   "views": 15267068,
-   "url": "https://www.youtube.com/watch?v=WuDwp8R3PAs",
-   "image": "https://i.ytimg.com/vi/WuDwp8R3PAs/hqdefault.jpg",
    "sources": []
   }
  ]

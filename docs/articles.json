@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T10:15:28.934022+09:00",
+ "updated_at": "2026-11-18T00:06:04.318985+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,7 +18,6 @@
  "sources": [
   "- PeopleAsia",
   "47NEWS",
-  "5 Dariya News",
   "@DIME アットダイム",
   "A1 Retail Magazine",
   "AOL.co.uk",
@@ -27,7 +26,6 @@
   "AugustMan Singapore",
   "BAILA（バイラ）",
   "BRABO News",
-  "Banglanews24",
   "Billionaires.Africa",
   "Bloomberg.com",
   "Branding in Asia",
@@ -39,7 +37,6 @@
   "China Daily",
   "Chosunbiz",
   "Comic Book Resources",
-  "Connect CRE Canada",
   "ContentGrip",
   "Daily Hive",
   "Dtimes",
@@ -61,11 +58,14 @@
   "GAME Watch",
   "GIGAZINE",
   "GamerBraves",
+  "Great Deals Singapore",
+  "Her.ie",
   "Howl.Link",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
   "IMPACT Magazine",
+  "India Retailing",
   "Indian Retailer",
   "Indian Television Dot Com",
   "Inside Retail Asia",
@@ -127,7 +127,6 @@
   "TVer",
   "The Business of Fashion",
   "The CSR Universe",
-  "The Financial Express",
   "The Independent",
   "The Sole Supplier",
   "The Western Telegraph",
@@ -150,7 +149,6 @@
   "hicbc.com",
   "https://mediadogs.jp/",
   "https://miyoca.jp/",
-  "https://www.japancanadatoday.ca/",
   "https://www.misslobang.com/",
   "khorasantimes.com",
   "ktv.jp",
@@ -167,6 +165,7 @@
   "ウォーカープラス",
   "オトナンサー",
   "オリコンニュース",
+  "コラボカフェ",
   "スクリーンオンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
@@ -217,51 +216,148 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 235,
+ "detail_count": 240,
  "digest": {
-  "headline": "ユニクロのアイルランド進出やGU新作、注目のコラボが続々",
+  "headline": "ユニクロのアイルランド初出店やインド新店展開、キャラクターコラボが話題",
   "points": [
    {
-    "text": "ユニクロがアイルランド初の店舗を首都ダブリンのH&M跡地やカレッジ・グリーンに出店する計画を明かした。",
+    "text": "ユニクロはアイルランドの首都ダブリンに初出店することを発表し、欧州での店舗網拡大を進めています。",
     "ids": [
-     "b22e65ef1519c280",
-     "5478a0ea974d77fa",
-     "169f9aad7ffbe83b"
+     "6fdbcefbe6177c59",
+     "a3853ee4aba4b0de",
+     "5478a0ea974d77fa"
     ]
    },
    {
-    "text": "ユニクロはセシリー バンセンとのコラボ第2弾やスタジオジブリ、ピーナッツとの新作コレクションを発表した。",
+    "text": "インド・ジャイプールのパシフィック・モールに初出店し、同国内の店舗数が合計22店舗となりました。",
     "ids": [
-     "3ccaeeb66c310d2e",
-     "658a0c83fdbf657b",
-     "53b0e688eef15403"
+     "93496f5e928edc87",
+     "d9515f1ba4a126b9"
     ]
    },
    {
-    "text": "米国でのサンリオコレクション発売やシンガポールでのジブリUT発売など海外市場での展開も進む。",
+    "text": "ハローキティやサンリオ、スタジオジブリ、ピーナッツなどの新作コラボコレクションが続々と発表されています。",
     "ids": [
+     "720b564e36510186",
      "8ffcb5485d387dd3",
-     "bce83effefeed783"
+     "658a0c83fdbf657b"
     ]
    },
    {
-    "text": "GUはフランチェスコ・リッソ監修の2026年秋冬コレクションを発表し、6つのコンセプトを展開する。",
+    "text": "ファーストリテイリングはスウェーデンスキー連盟およびカーリング協会とのパートナーシップ継続を発表しました。",
     "ids": [
-     "dc083487368553a5"
+     "90d4b5173c8563c0",
+     "995d422b129a736b"
     ]
    },
    {
-    "text": "SNSではGU GUコラボがXで3日に155件投稿されるなど高い関心を集めている。",
+    "text": "SNSでは「GU ちいかわ ニット」がXで3日に22件投稿され、注目を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-14T10:24:00.280481+09:00",
-  "generated_at": "2026-11-17T10:24:12.559474+09:00",
+  "from": "2026-11-15T00:21:15.701036+09:00",
+  "generated_at": "2026-11-18T00:21:28.097827+09:00",
   "article_count": 24,
-  "sig": "7faa82f8c55f"
+  "sig": "6489781ac84e"
  },
  "items": [
+  {
+   "id": "93496f5e928edc87",
+   "url": "https://infashionbusiness.com/home/news_details/8865/15",
+   "title_original": "UNIQLO Opens First Store In Jaipur, Marks Entry Into Rajasthan With Local Collaborations",
+   "source": "IFAB MEDIA",
+   "image": "https://infashionbusiness.com/admin_assets/images/products/infashion-1794911587.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T10:35:39+00:00",
+   "title_ja": "ユニクロ、ジャイプールに初出店しラジャスタン州へ進出",
+   "summary_ja": "ユニクロがインド・ジャイプールのパシフィック・モールに初出店し、同州への進出を果たしました。現地でのコラボレーションも実施しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "d9515f1ba4a126b9",
+   "url": "https://www.indiaretailing.com/uniqlo-opens-first-store-in-jaipur-at-pacific-mall-takes-india-store-count-to-22",
+   "title_original": "UNIQLO opens first store in Jaipur at Pacific Mall; takes India store count to 22",
+   "source": "India Retailing",
+   "image": "https://cdn.indiaretailing.com/images/4FK0XFEG_Uniqlo_jaipur.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T10:16:51+00:00",
+   "title_ja": "ユニクロがインド・ジャイプールに初出店、国内22店舗目に",
+   "summary_ja": "ユニクロがパシフィック・モールにジャイプール1号店をオープンしました。今回の出店により、インド国内の店舗数は合計22店舗となりました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "995d422b129a736b",
+   "url": "https://news.shoninsha.co.jp/csr/324642",
+   "title_original": "ユニクロnews｜スウェーデンのスキー･カーリング代表支援を継続",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T09:46:10+00:00",
+   "title_ja": "ユニクロ、スウェーデンのスキー・カーリング代表支援",
+   "summary_ja": "ユニクロは、スウェーデンのスキーおよびカーリング代表チームへの公式選手団ウェア提供などの支援継続を発表しました。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "720b564e36510186",
+   "url": "https://collabo-cafe.com/events/collabo/hellokitty-uniqlo-ut-ribbon-2026",
+   "title_original": "ハローキティ × ユニクロ リボンがテーマのUT 12月上旬より発売!",
+   "source": "コラボカフェ",
+   "image": "https://collabo-cafe.com/wp-content/uploads/hellokitty-ut-kv.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T07:30:22+00:00",
+   "title_ja": "ハローキティとユニクロがコラボ、リボンテーマのUT発売",
+   "summary_ja": "ハローキティとユニクロによる「UT」のコラボレーションコレクションが発表された。リボンをテーマにしたデザインで、12月上旬より販売が開始される予定。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "0f560bbe02dc988d",
+   "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026",
+   "title_original": "UNIQLO Singapore Giving Away FREE Mini Fleece Jacket Charms and Travel Bags From Nov 20",
+   "source": "Great Deals Singapore",
+   "image": "https://cdn.greatdeals.com.sg/wp-content/uploads/2026/11/17143244/uniqlo-thank-you-festival-freebies-giveaway-nov-2026.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T06:44:22+00:00",
+   "title_ja": "シンガポールのユニクロ、11月20日からフリースチャームやバッグを無料配布",
+   "summary_ja": "シンガポールのユニクロが、11月20日よりミニフリースジャケットのチャームやトラベルバッグを無料でプレゼントするキャンペーンを実施する。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "ef04cca0cd1f1bf2",
+   "url": "https://lee.hpplus.jp/column/3793515",
+   "title_original": "【ユニクロ×セシリー バンセン】新作ウェア全試着！花刺繍×フリースの大人かわいいアイテムを本音レビュー【2026秋冬】",
+   "source": "LEE",
+   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/11/13/c34f9f7394c0bad87e25953fd155552f.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T03:00:00+00:00",
+   "title_ja": "ユニクロ×セシリー・バンセン新作ウェア全試着レビュー",
+   "summary_ja": "2026年秋冬コレクションとして登場したユニクロとセシリー・バンセンのコラボ新作を全試着。花刺繍やフリースを取り入れた大人かわいいアイテムを本音でレビューします。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "f6341478f9f700bb",
    "url": "https://limo.media/articles/-/146455",
@@ -276,7 +372,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "90d4b5173c8563c0",
+   "url": "https://www.fastretailing.com/jp/group/news/2611171100.html",
+   "title_original": "スウェーデンスキー連盟・カーリング協会とのパートナーシップを更新 軽井沢国際カーリングで次世代育成活動を実施",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T00:00:00+00:00",
+   "title_ja": "ファーストリテイリング、スウェーデン代表チームとのパートナーシップを更新",
+   "summary_ja": "ファーストリテイリングはスウェーデンスキー連盟およびカーリング協会とのパートナーシップ継続を発表した。軽井沢国際カーリングでは次世代育成活動も実施する。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "5582d8937683ef19",
@@ -359,6 +471,22 @@
    "has_detail": true
   },
   {
+   "id": "6fdbcefbe6177c59",
+   "url": "https://www.her.ie/news/uniqlo-set-to-open-dublin-city-location-1014690",
+   "title_original": "Uniqlo is finally opening a Dublin city location",
+   "source": "Her.ie",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T15:42:14+00:00",
+   "title_ja": "ユニクロがアイルランド・ダブリン中心部に初出店へ",
+   "summary_ja": "ユニクロがアイルランドの首都ダブリンの中心部に店舗をオープンすることが明らかになりました。海外市場でのさらなる店舗網拡大が進められています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
    "id": "b22e65ef1519c280",
    "url": "https://www.businesspost.ie/commercial-real-estate/retail-giant-uniqlo-to-open-first-irish-store-in-hms-location",
    "title_original": "Retail giant Uniqlo to open first Irish store in H&M’s location",
@@ -372,7 +500,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "169f9aad7ffbe83b",
@@ -436,7 +564,23 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "76e082bbad43cb5d",
+   "url": "https://www.vietnam.vn/en/ty-phu-nhat-ban-co-gan-70-ty-usd-4h-chieu-roi-van-phong-ve-an-com-voi-vo",
+   "title_original": "The Japanese billionaire, with nearly $70 billion, leaves the office at 4 PM to have dinner with his wife.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/16/1794816263182_tadashi-yanaiforbes-cropped-1794637913002.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T07:41:00+00:00",
+   "title_ja": "ファーストリテイリング柳井会長のライフスタイルを紹介",
+   "summary_ja": "ファーストリテイリングの経営トップである柳井正氏の日常や、夕方4時に退社して妻と夕食を共にする生活スタイルについて報じている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 2,
+   "has_detail": true
   },
   {
    "id": "8d9868a75c2507b0",
@@ -468,6 +612,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1f6e4b5dff42367d",
+   "url": "https://www.moneydigest.sg/uniqlo-is-giving-away-mini-fleece-charms-and-foldable-travel-bags-from-20-november",
+   "title_original": "UNIQLO Is Giving Away Mini Fleece Charms and Foldable Travel Bags From 20 November",
+   "source": "MoneyDigest",
+   "image": "https://www.moneydigest.sg/wp-content/uploads/2026/11/res-Unknown-218.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T02:35:22+00:00",
+   "title_ja": "ユニクロ、11月20日よりミニフリースチャーム等をプレゼント",
+   "summary_ja": "ユニクロは11月20日より、ミニフリースチャームや折りたたみ式トラベルバッグのプレゼント企画を実施することを発表しました。購入者向けの特別なキャンペーンとなります。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6501,166 +6661,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "b82679c6b4dc8f1d",
-   "url": "https://today.thefinancialexpress.com.bd/trade-market/uniqlo-urged-to-expand-investment-in-bd-rmg-sector-1793208401",
-   "title_original": "Uniqlo urged to expand investment in BD RMG sector",
-   "source": "The Financial Express",
-   "image": "https://today.thefinancialexpress.com.bd/uploads/1793208401.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T18:04:47+00:00",
-   "title_ja": "ユニクロ、バングラデシュの既製服産業への投資拡大を要請される",
-   "summary_ja": "ユニクロに対し、バングラデシュの既製服（RMG）産業における投資の拡大が求められていることが分かりました。現地での生産体制や調達に関する取り組みが注目されています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "5758f7f415e3d19a",
-   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AF%E6%9D%A5%E6%98%A5-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%A7%E6%96%B0%E3%81%9F%E3%81%AB2%E5%BA%97%E8%88%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%99%E3%82%8B%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%99,1879973.html",
-   "title_original": "ユニクロは来春、フランスで新たに2店舗をオープンする予定です",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T18:00:00+00:00",
-   "title_ja": "ユニクロが来年春にフランスで新たに2店舗を出店へ",
-   "summary_ja": "ユニクロが来年春に、フランスで新たに2店舗を出店する予定であることが明らかになりました。欧州エリアにおける店舗ネットワークの拡充を引き続き進めていく見込みです。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "f2df2f9dd880b3c2",
-   "url": "https://ww.fashionnetwork.com/news/Uniqlo-to-open-two-new-stores-in-france-in-spring-next-year,1879970.html",
-   "title_original": "Uniqlo to open two new stores in France in spring next year",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T18:00:00+00:00",
-   "title_ja": "ユニクロ、来春にフランスで新店舗を2店オープン予定",
-   "summary_ja": "ユニクロが来年春、フランス国内において新たに2店舗を出店する予定であることが報じられました。欧州市場におけるブランド展開と店舗網のさらなる拡大を図ります。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "bf5a9712ac351e34",
-   "url": "https://www.japancanadatoday.ca/2026/10/28/uniqlo-canada-vancouver-flagship-af-pacific-centre-2027-spring",
-   "title_original": "ユニクロ、来春バンクーバーダウンタウンに旗艦店オープン",
-   "source": "https://www.japancanadatoday.ca/",
-   "image": "https://www.japancanadatoday.ca/wp-content/uploads/2026/10/UNIQLO-opening-MetroTown_2017-10.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T17:00:00+00:00",
-   "title_ja": "ユニクロが来春バンクーバーのダウンタウンに旗艦店を出店",
-   "summary_ja": "ユニクロは来年春、カナダ・バンクーバーのダウンタウン地区に新たな旗艦店をオープンする。現地市場におけるブランドの存在感をさらに高める取り組みとして期待されている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "6dfb1cc4852cfcae",
-   "url": "https://www.connectcre.ca/stories/uniqlo-joins-nordstrom-replacement-at-vancouvers-cf-pacific-centre",
-   "title_original": "Uniqlo Joins Nordstrom Replacement At Vancouver’s CF Pacific Centre",
-   "source": "Connect CRE Canada",
-   "image": "https://www.connectcre.ca/wp-content/uploads/2026/10/BC-Uniqlo.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T12:13:37+00:00",
-   "title_ja": "カナダの商業施設「CFパシフィック・センター」のノードストローム跡地にユニクロが出店へ",
-   "summary_ja": "カナダ・バンクーバーにある商業施設「CFパシフィック・センター」において、退店した百貨店ノードストロームの跡地区画へユニクロが出店することが判明しました。北米市場における店舗網の拡充をさらに進めています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "bfccc147187d2f69",
-   "url": "https://news.yahoo.co.jp/articles/8d7e577531e69001188b270e050e885355f4ccef",
-   "title_original": "ユニクロ 靴下の“まとめ買い終了”を撤回（ABEMA TIMES）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-10284729-abemav-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T11:51:16+00:00",
-   "title_ja": "ユニクロ、靴下の「まとめ買い終了」施策を撤回",
-   "summary_ja": "ユニクロが、一度は終了を発表していた靴下のまとめ買い割引サービスについて、その方針を撤回したことが分かった。",
-   "category": "キャンペーン・セール",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a00d8df7e7f79979",
-   "url": "https://news.ntv.co.jp/category/economy/82a57223a62b4d74b51878b8dc765983",
-   "title_original": "「生活必需品の象徴的な商品でもあるため…」ユニクロ、靴下値上げ一転中止に まとめ買い990円も継続",
-   "source": "日テレNEWS NNN",
-   "image": "https://news.ntv.co.jp/gimage/n24/articles/2a69a40b99774fddbbd2c3e334b77559/87b8b7b797e538cba1480f64d6befa52901913110657a69793467edac9777a5b.jpg?w=1200",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T11:36:00+00:00",
-   "title_ja": "ユニクロが靴下の値上げと「まとめ買い」終了を一転中止、価格を維持",
-   "summary_ja": "ユニクロは、靴下の値上げおよび複数購入時の「まとめ買い」割引の終了決定を一転して取りやめた。靴下が生活必需品の象徴的な商品であることを考慮し、まとめ買いで990円となる従来の価格設定を継続することを決めた。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "88e8b2745730e769",
-   "url": "https://www.5dariyanews.com/amp/505307-UNIQLO-Extends-The-Heart-of-LifeWear-to-Ladakh-with-HEATTECH",
-   "title_original": "UNIQLO Extends The Heart of LifeWear to Ladakh with HEATTECH",
-   "source": "5 Dariya News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T10:52:20+00:00",
-   "title_ja": "ユニクロ、ラダック地方へ「ヒートテック」を寄贈",
-   "summary_ja": "ユニクロは、ライフウェアの理念のもと、インドのラダック地方の人々に向けて「ヒートテック」の提供などの支援活動を実施した。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a07bc80aefbe10df",
-   "url": "https://en.banglanews24.com/national/news/bd/197276.details",
-   "title_original": "PM urges Uniqlo to expand investment in Bangladesh",
-   "source": "Banglanews24",
-   "image": "https://en-cdn.banglanews24.com/public/news_images/2026/10/28/1793163553-655d8b191cc886c7a3e26257d4fff184.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T10:41:11+00:00",
-   "title_ja": "バングラデシュ首相がユニクロに対し同国での投資拡大を要請",
-   "summary_ja": "バングラデシュの首相が、ユニクロに対して同国における事業や投資のさらなる拡大を求めた。現地での経済協力や産業振興に向けて、ユニクロの積極的な事業展開に対する期待が示されている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "6f6438c877b3d92e",
-   "url": "https://media.unisba.ac.id/7cf4ef64/10e79983Zds8G0ik7tU///?share=facebook&nb=1",
-   "title_original": "スヌーピーとユニクロコラボがきた！！ Forge Fc (JthPlLcsZo)",
-   "source": "Unisba Media",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T10:30:00+00:00",
-   "title_ja": "スヌーピーとユニクロのコラボアイテムが登場",
-   "summary_ja": "スヌーピーとユニクロによるコラボレーション企画が新たに実施され、関連商品が展開されていることを伝えています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
