@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:09:42.494193+09:00",
+ "updated_at": "2026-11-18T23:44:35.698542+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -27,7 +27,6 @@
   "BAILA（バイラ）",
   "BRABO News",
   "Billionaires.Africa",
-  "Bloomberg.com",
   "Branding in Asia",
   "Business News Wales",
   "Business Post",
@@ -53,6 +52,7 @@
   "Fashionista",
   "Fashionsnap.com",
   "Fast Retailing Co",
+  "Fibre2Fashion",
   "FinanzNachrichten.de",
   "Forbes JAPAN",
   "GAME Watch",
@@ -104,8 +104,10 @@
   "PAUSE Online",
   "PR EDGE",
   "PR TIMES",
+  "Pirates and Princesses",
   "Pokde.Net",
   "Popbee",
+  "RBB TODAY",
   "Ragtrader.com.au",
   "Red Carpet Fashion Awards",
   "Retail & Leisure International",
@@ -162,6 +164,7 @@
   "│BABYDOT（ベイビードット）",
   "にじめん",
   "ねとらぼ",
+  "ぴあエンタメ情報",
   "アラブニュース",
   "インサイド",
   "ウォーカープラス",
@@ -188,7 +191,6 @@
   "佐賀新聞",
   "共同通信PRワイヤー",
   "北海道新聞デジタル",
-  "千葉テレビ放送株式会社",
   "号外NET 世田谷区",
   "四季報オンライン",
   "埼玉栄中学・高等学校",
@@ -219,46 +221,212 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 238,
+ "detail_count": 239,
  "digest": {
-  "headline": "ユニクロのアイルランド初出店やジブリ・コラボ発表が話題",
+  "headline": "ユニクロの海外初出店やコラボ、感謝週間情報など",
   "points": [
    {
-    "text": "ユニクロはアイルランドの首都ダブリンに初出店し、中心部に新店舗をオープンする計画を発表しました。",
+    "text": "ユニクロはインドのジャイプールに国内22店舗目となる初店舗をオープンし、アイルランドのダブリン中心部への初出店計画も進めています。",
     "ids": [
-     "6fdbcefbe6177c59",
-     "a3853ee4aba4b0de",
-     "ec730a21a12f5745"
+     "ba8e4fd263c8f580",
+     "b22e65ef1519c280",
+     "a3853ee4aba4b0de"
     ]
    },
    {
-    "text": "インド・ジャイプールへの初出店で同州へ進出したほか、中国の上海旗艦店の大幅縮小など海外展開の動きが見られます。",
+    "text": "スタジオジブリやハローキティ、サンリオとのコラボUTコレクションの発売が発表されたほか、セシリー・バンセンとの秋冬コレクションも登場しました。",
     "ids": [
-     "93496f5e928edc87",
-     "d9515f1ba4a126b9",
-     "d661fabcf4032d49"
-    ]
-   },
-   {
-    "text": "スタジオジブリやハローキティ、セシリー・バンセンとのコラボレーション、ピーナッツの新作UTなどの発売が発表されました。",
-    "ids": [
-     "a84ecae64896f0f7",
+     "fbc8e4c70354ce35",
      "720b564e36510186",
      "56c66cafe6db5bad"
     ]
    },
    {
-    "text": "SNSでは「GU ニットジャケット」がXで5件投稿され、注目を集めています。",
+    "text": "ユニクロは2026年秋冬シーズンの感謝週間を始動させ、イチロー氏を招いた中学生向けの野球イベントや、平野歩夢選手のドキュメンタリー公開も発表しています。",
+    "ids": [
+     "3bbb003d14adc133",
+     "706150b5346951f1",
+     "42a1ede65e965626"
+    ]
+   },
+   {
+    "text": "中国市場では上海の旗艦店の売り場を3分の1の規模へと大幅に縮小する方針が示され、海外店舗網の戦略が見直されています。",
+    "ids": [
+     "d661fabcf4032d49"
+    ]
+   },
+   {
+    "text": "SNSではGU ニットジャケットがXで7件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-15T09:19:49.136406+09:00",
-  "generated_at": "2026-11-18T09:19:50.634613+09:00",
+  "from": "2026-11-16T00:05:09.641679+09:00",
+  "generated_at": "2026-11-19T00:05:21.106843+09:00",
   "article_count": 24,
-  "sig": "0f0858b2333d"
+  "sig": "fcf6bb63fe3f"
  },
  "items": [
+  {
+   "id": "d91f8b3f36eab969",
+   "url": "https://lp.p.pia.jp/article/news/517042/index.html",
+   "title_original": "上質なファッションを追求する「UNIQLO U」2026年秋冬コレクションからシンプルできれいなワンピース登場",
+   "source": "ぴあエンタメ情報",
+   "image": "https://lp.p.pia.jp/shared/materials/cd10d376-23c1-4ee5-8a00-f509bbaeb2da/origin.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T12:00:00+00:00",
+   "title_ja": "UNIQLO Uの2026年秋冬コレクションからワンピース登場",
+   "summary_ja": "上質なファッションを追求する「UNIQLO U」の2026年秋冬コレクションより、シンプルで美しいシルエットのワンピースが登場しました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3bbb003d14adc133",
+   "url": "https://www.vietnam.vn/ja/uniqlo-khoi-dong-tuan-le-cam-on-mua-thu-dong-2026-cung-nhieu-hoat-dong-y-nghia",
+   "title_original": "ユニクロは、2026年秋冬シーズンの感謝週間を、数々の意義深い活動でスタートさせます。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/18/1794995483754_dong-san-pham-giu-nhiet-heattech-ultra-warm-jpg.webp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T09:39:31+00:00",
+   "title_ja": "ユニクロ、2026年秋冬の感謝週間を始動",
+   "summary_ja": "ユニクロが2026年秋冬シーズンの感謝週間をスタートさせ、さまざまな意義深い企画や活動を展開します。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fbc8e4c70354ce35",
+   "url": "https://www.fashionsnap.com/article/2026-11-18/uniqlo-ut-ghibli-2nd",
+   "title_original": "ユニクロUT × スタジオジブリ第2弾、今回も国外販売のみ 権利の都合により",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/11/294c17e4-7315-4ddd-b5c8-d5026d37f676.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T09:04:03+00:00",
+   "title_ja": "ユニクロUTとスタジオジブリの第2弾コラボ",
+   "summary_ja": "ユニクロUTとスタジオジブリの第2弾コラボレーションが発表されました。権利上の都合により、今回も日本国外でのみの販売となります。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "706150b5346951f1",
+   "url": "https://news.shoninsha.co.jp/csr/324797",
+   "title_original": "ユニクロnews｜イチロー氏とシアトルで中学生向け野球イベント開催",
+   "source": "流通スーパーニュース",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T08:41:59+00:00",
+   "title_ja": "ユニクロ、イチロー氏とシアトルで中学生向け野球教室",
+   "summary_ja": "ユニクロは、特別顧問を務めるイチロー氏とともに、米シアトルにて中学生向けの野球イベントを開催しました。スポーツを通じた次世代育成に取り組んでいます。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "6385fc44fcddb6a8",
+   "url": "https://news.yahoo.co.jp/articles/36fe187460f7c5bdbfe7e68e923d577ffeba3b6c",
+   "title_original": "【ヤフコメで話題】「ユニクロのカシミヤセーター高騰に驚き」「ファッションは着こなしが大事」 - 価格と価値観を巡る議論",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00000033-wordleafai-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T06:21:53+00:00",
+   "title_ja": "ユニクロのカシミヤ価格高騰を巡りネットで議論が活発化",
+   "summary_ja": "ユニクロのカシミヤセーターの価格上昇に対して驚きの声が上がる中、価格とファッションの価値観についてユーザー間で活発な意見交換が行われています。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "bcf2dd7fe8b15ced",
+   "url": "https://piratesandprincesses.net/uniqlos-hello-kitty-ut-tees-hit-the-us-in-mid-december-prices",
+   "title_original": "UNIQLO’s Hello Kitty UT tees hit the US in mid-December: prices",
+   "source": "Pirates and Princesses",
+   "image": "https://i0.wp.com/piratesandprincesses.net/wp-content/uploads/2026/11/uniqlos-hello-kitty-ut-tees-hit-the.jpeg?fit=1456%2C819&ssl=1",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T06:00:33+00:00",
+   "title_ja": "ユニクロのハローキティUT、12月中旬に米国発売へ",
+   "summary_ja": "ユニクロの人気グラフィックTシャツ「UT」シリーズから、ハローキティとのコラボレーションデザインが12月中旬に米国市場へ登場する予定であることが明らかになりました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "004eb682a9f0f6e7",
+   "url": "https://www.businesspost.ie/uncategorized/uniqlo-agreed-deal-in-principle-for-grafton-street-store-before-opting-for-college-green",
+   "title_original": "Uniqlo agreed deal in principle for Grafton Street store before opting for College Green",
+   "source": "Business Post",
+   "image": "https://imengine.public.prod.sbp.infomaker.io/?uuid=fe0d7255-f34f-550b-8ab7-ce53626cc3a4&type=preview&function=original",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T05:00:00+00:00",
+   "title_ja": "ユニクロ、アイルランドの出店地を変更か",
+   "summary_ja": "ダブリンのグラフトンストリートではなく、カレッジグリーンへの出店で基本合意に至ったと報じられました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "3b707a44fa9b3023",
+   "url": "https://www.rbbtoday.com/article/2026/11/18/256050.html",
+   "title_original": "イチローがシアトルで中学生を直接指導、ユニクロが参加者12人を募集",
+   "source": "RBB TODAY",
+   "image": "https://www.rbbtoday.com/imgs/ogp_f/1067761.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T04:23:57+00:00",
+   "title_ja": "イチロー氏がシアトルで中学生を指導、ユニクロが参加者募集",
+   "summary_ja": "ユニクロがスポンサーを務めるイベントの一環として、イチロー氏が米シアトルで中学生を直接指導するプログラムが実施されることになり、その参加者12名の募集が開始されました。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "40ac556179701493",
+   "url": "https://www.vietnam.vn/en/tong-giam-doc-uniqlo-viet-nam-hanh-phuc-khi-phuc-vu-nguoi-tieu-dung-viet",
+   "title_original": "General Director of Uniqlo Vietnam: “It is a pleasure to serve Vietnamese consumers”",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/18/1794971413065_49ceouniqlo-1-cropped-1794969419563.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T03:00:00+00:00",
+   "title_ja": "ユニクロベトナム総支配人「ベトナムの顧客に奉仕できる喜び」",
+   "summary_ja": "ユニクロベトナムの総支配人が現地メディアのインタビューに応じ、ベトナム市場に対する熱意や消費者へ商品とサービスを届けることへのやりがいについて語りました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "6d5b2aa26ff1e6ab",
+   "url": "https://www.vietnam.vn/en/viet-nam-la-thi-truong-quan-trong-voi-uniqlo",
+   "title_original": "Vietnam is an important market for UNIQLO.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/18/1794970276563_42_ceo_uniqlo_znews.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T02:32:19+00:00",
+   "title_ja": "ユニクロにとって極めて重要な市場であるベトナム",
+   "summary_ja": "ファーストリテイリングが展開するユニクロ事業において、ベトナム市場が今後の成長や事業戦略において極めて重要な位置を占めていることが伝えられています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "9eed9518d2d44d39",
    "url": "https://www.chugoku-np.co.jp/articles/-/916157",
@@ -273,7 +441,7 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "f0b50bc1e7cdf9c1",
@@ -289,7 +457,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a84ecae64896f0f7",
@@ -305,7 +473,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "c4568cbe87abe64d",
@@ -322,6 +490,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "ba8e4fd263c8f580",
+   "url": "https://www.fibre2fashion.com/news/fashion-news/japan-s-uniqlo-opens-first-jaipur-store-22nd-in-india-315094-newsdetails.htm",
+   "title_original": "Japan's Uniqlo opens first Jaipur store, 22nd in India",
+   "source": "Fibre2Fashion",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T13:54:57+00:00",
+   "title_ja": "インド初となるジャイプール店をオープン",
+   "summary_ja": "ユニクロがインド国内で22店舗目となる店舗をジャイプールに初出店したことを伝えています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "93496f5e928edc87",
@@ -433,7 +617,7 @@
    "category": "広告・タレント",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d661fabcf4032d49",
@@ -449,7 +633,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "56c66cafe6db5bad",
@@ -6482,182 +6666,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "980556cf45e90f7b",
-   "url": "https://news.yahoo.co.jp/articles/dd386f15e1b83e4adacfc2c2a228c0c652aad6e0",
-   "title_original": "ケイト・ブランシェットが心から愛する作家・川上未映子と語らう、ユニクロは文芸誌を創刊へ（映画ナタリー）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000067-nataliee-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T06:40:11+00:00",
-   "title_ja": "ユニクロが文芸誌を創刊へ　ケイト・ブランシェットと川上未映子の対談も掲載",
-   "summary_ja": "ユニクロが新たに文芸誌を創刊することが判明しました。創刊企画として俳優のケイト・ブランシェットと作家の川上未映子による対談記事などが掲載される見込みであり、同ブランドによる新しい文化発信の取り組みとして期待されています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "4d87f39eee776788",
-   "url": "https://www.chiba-tv.com/plus/detail/2026102173071",
-   "title_original": "ユニクロ広報直伝・ヒートテックの寿命を確認する裏ワザ 内側を「ひと目見れば分かる」と判明",
-   "source": "千葉テレビ放送株式会社",
-   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1488414138104121184/origin_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T05:46:30+00:00",
-   "title_ja": "ユニクロ広報が教えるヒートテックの寿命を見分ける裏ワザ",
-   "summary_ja": "ユニクロの広報担当者が、定番インナー「ヒートテック」の寿命や買い替え時期を判別する方法を明かしました。生地の内側を確かめることで、交換のタイミングを一目で簡単に判断できるとしています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "5634e8989f125f08",
-   "url": "https://www.vietnam.vn/en/dinh-manh-ninh-va-dan-kol-trai-nghiem-cong-nghe-giu-nhiet-cua-uniqlo",
-   "title_original": "Dinh Manh Ninh and a group of KOLs experience Uniqlo's thermal insulation technology.",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793250673175_thumb.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T05:00:38+00:00",
-   "title_ja": "ベトナムのKOLらがユニクロの保温技術を体験",
-   "summary_ja": "ベトナムで、歌手のディン・マイン・ニンをはじめとするインフルエンサーグループがユニクロの保温技術を体験したことが報じられました。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "fa5948cf0fee98f6",
-   "url": "https://www.vietnam.vn/ja/dinh-manh-ninh-va-dan-kol-trai-nghiem-cong-nghe-giu-nhiet-cua-uniqlo",
-   "title_original": "ディン・マン・ニン氏と数名のKOL（キーオピニオンリーダー）が、ユニクロの断熱技術を体験した。",
-   "source": "Vietnam.vn",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793250673175_thumb.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T05:00:38+00:00",
-   "title_ja": "著名KOLらがユニクロの断熱技術を体験",
-   "summary_ja": "ディン・マン・ニン氏をはじめとする複数のキーオピニオンリーダー（KOL）が、ユニクロの断熱技術を体験しました。ブランドが誇る機能性と技術力を体感し発信する取り組みとなっています。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a60e5a07c81c204a",
-   "url": "https://news.yahoo.co.jp/articles/55a49d65dc5281a987fe975522c3954e85e9d259/images/000",
-   "title_original": "ユニクロが女性の声を届ける新プロジェクト ケイト・ブランシェット＆東京大学と協業 (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYpTzGyqGYI7GqYR9JKtBql0tfw8vVcsZmHG_Emd-OjBb1qkW1YlxAvKD5or_kgfAxJEVgBMYwW3mqQluivSk1zotOTdKNrE20QY_LjWC8D6KfuOkkkvVgyLmj1FtiCwrA==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T05:00:00+00:00",
-   "title_ja": "ユニクロがケイト・ブランシェット氏や東京大学と協業し新プロジェクトを発足",
-   "summary_ja": "ユニクロは女性の声を社会へ届けるための新プロジェクトを始動しました。俳優のケイト・ブランシェット氏や東京大学と協力し、女性支援や社会的な発信を行う取り組みを開始します。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "768adeb8973b385a",
-   "url": "https://www.fashionsnap.com/article/2026-10-29/stories-she-tells",
-   "title_original": "ユニクロが初の公募エッセイ誌を2027年に創刊へ ケイト・ブランシェットが選考委員長に",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/f3428b0a-20ae-40f7-8c49-87983e1f03e2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T05:00:00+00:00",
-   "title_ja": "ユニクロが2027年に初の公募エッセイ誌を創刊、選考委員長にケイト・ブランシェット氏",
-   "summary_ja": "ユニクロは2027年にブランド初となる公募エッセイ誌の創刊を決定しました。選考委員長として俳優のケイト・ブランシェット氏が就任し、新たな文化施策として展開していく方針です。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c12ebac36f9e13cf",
-   "url": "https://www.nikkei.com/article/DGXZQOUC293OA0Z21C26A0000000",
-   "title_original": "ユニクロが初の文芸誌創刊、女性の声を発信 東大と組みエッセー募集",
-   "source": "日本経済新聞",
-   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3799782029102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.7&fp-y=0.84&h=630&w=1200&s=85421ee41fc38ff1ec0bf1667a726870",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T04:51:30+00:00",
-   "title_ja": "ユニクロが初の文芸誌を創刊へ　東大と連携して女性の声届けるエッセー募集",
-   "summary_ja": "ユニクロは女性の視点や思考を届ける取り組みとして、初となる文芸誌を創刊します。東京大学と連携してエッセー作品の募集を開始し、幅広い文章表現の発信を目指します。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "548c1c53632dc963",
-   "url": "https://www.bloomberg.com/jp/news/articles/2026-10-29/TNLZYKKK3NY800",
-   "title_original": "ユニクロ、靴下100円値上げを11日で撤回－顧客反発で一転、ANAも",
-   "source": "Bloomberg.com",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T03:37:00+00:00",
-   "title_ja": "ユニクロ、靴下の100円値上げを11日で撤回へ",
-   "summary_ja": "ユニクロは、顧客からの反発を受けて靴下の100円値上げ方針をわずか11日間で撤回することを明らかにしました。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 5,
-   "detail_tries": 2
-  },
-  {
-   "id": "ec0e2ea30790764e",
-   "url": "https://news.yahoo.co.jp/articles/7a19229f336c4cc8e383247d698dddd469c4c7f1",
-   "title_original": "「シンプルにうれしい」中間淳太、ユニクロ“靴下値上げ中止”に推測「比較的リーズナブルに買い物ができるというイメージなので…」（中日スポーツ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000043-chuspo-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T03:17:40+00:00",
-   "title_ja": "中間淳太がユニクロの靴下値上げ中止に言及「シンプルにうれしい」",
-   "summary_ja": "タレントの中間淳太氏が、ユニクロによる靴下の値上げ見送りについてコメントしました。手頃な価格帯というブランドイメージに触れつつ、値上げ中止に対する歓迎の意と自身の見解を示しています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "e8eace39b0bde272",
-   "url": "https://news.shoninsha.co.jp/strategy/322773",
-   "title_original": "ファストリnews｜インターブランド｢Best Global Brands｣2年連続選出",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T03:09:10+00:00",
-   "title_ja": "ファーストリテイリングがグローバルブランド評価で2年連続選出",
-   "summary_ja": "ファーストリテイリングが、インターブランド社による「Best Global Brands」に2年連続で選出されました。グローバル市場におけるブランド価値が高く評価されています。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0b3e79baac508ca7",
-   "url": "https://news.yahoo.co.jp/articles/f6eff3d44c4d9e977cf3de2c09e5f98903c1d966",
-   "title_original": "ケイト・ブランシェット＞東大に ユニクロ「stories she tells」で女性の“言葉”や“物語”を社会へ（毎日キレイ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000006-maikirei-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T02:44:00+00:00",
-   "title_ja": "ケイト・ブランシェット氏が東大に登壇 ユニクロの女性支援企画で",
-   "summary_ja": "俳優のケイト・ブランシェット氏が東京大学を訪問し、ユニクロの取り組み「stories she tells」関連イベントに登場しました。女性の言葉や物語を社会へ届ける活動の一環として開催されました。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
