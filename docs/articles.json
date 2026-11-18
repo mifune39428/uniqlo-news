@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T23:44:35.698542+09:00",
+ "updated_at": "2026-11-19T08:40:35.742916+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -33,7 +33,6 @@
   "BusinessMirror",
   "CLASSY.[クラッシィ]",
   "Cate Blanchett Fan",
-  "China Daily",
   "Chosunbiz",
   "Comic Book Resources",
   "ContentGrip",
@@ -46,7 +45,6 @@
   "Estates Gazette",
   "Excite エキサイト",
   "Extra.ie",
-  "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
   "FashionNetwork USA",
   "Fashionista",
@@ -104,6 +102,7 @@
   "PAUSE Online",
   "PR EDGE",
   "PR TIMES",
+  "PRESIDENT Online（プレジデントオンライン）",
   "Pirates and Princesses",
   "Pokde.Net",
   "Popbee",
@@ -127,7 +126,6 @@
   "TRP | The Rakyat Post",
   "TVer",
   "The Business Journals",
-  "The Business of Fashion",
   "The CSR Universe",
   "The Independent",
   "The Journal",
@@ -141,7 +139,6 @@
   "VZ VermögensZentrum",
   "Vietnam.vn",
   "Vogue Japan",
-  "WWD",
   "WWDJAPAN",
   "Wales 247",
   "Wales Online",
@@ -167,7 +164,6 @@
   "ぴあエンタメ情報",
   "アラブニュース",
   "インサイド",
-  "ウォーカープラス",
   "オトナンサー",
   "オリコンニュース",
   "コラボカフェ",
@@ -201,6 +197,7 @@
   "日本経済新聞",
   "日経ビジネス電子版",
   "映画.com",
+  "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
   "東京バーゲンマニア",
@@ -221,52 +218,81 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 239,
+ "detail_count": 240,
  "digest": {
-  "headline": "ユニクロの海外初出店やコラボ、感謝週間情報など",
+  "headline": "ユニクロとファーストリテイリングの最新動向まとめ",
   "points": [
    {
-    "text": "ユニクロはインドのジャイプールに国内22店舗目となる初店舗をオープンし、アイルランドのダブリン中心部への初出店計画も進めています。",
+    "text": "ファーストリテイリングの柳井正会長兼社長が今後の展望を語り、世界一の企業を目指すことは通過点にすぎず、新たな服の産業革命を起こす決意を示しました。",
     "ids": [
-     "ba8e4fd263c8f580",
-     "b22e65ef1519c280",
-     "a3853ee4aba4b0de"
+     "1e36812774e737b4"
     ]
    },
    {
-    "text": "スタジオジブリやハローキティ、サンリオとのコラボUTコレクションの発売が発表されたほか、セシリー・バンセンとの秋冬コレクションも登場しました。",
+    "text": "ユニクロとセシリー・バンセンのコラボレーションによる2026年秋冬コレクションが11月20日より発売開始となります。",
     "ids": [
-     "fbc8e4c70354ce35",
-     "720b564e36510186",
+     "a908ffe643a43184",
      "56c66cafe6db5bad"
     ]
    },
    {
-    "text": "ユニクロは2026年秋冬シーズンの感謝週間を始動させ、イチロー氏を招いた中学生向けの野球イベントや、平野歩夢選手のドキュメンタリー公開も発表しています。",
+    "text": "ユニクロはインド・ジャイプールに国内22店舗目となる初出店を果たしたほか、アイルランドの首都ダブリンへの初進出も明らかになりました。",
     "ids": [
-     "3bbb003d14adc133",
-     "706150b5346951f1",
-     "42a1ede65e965626"
+     "ba8e4fd263c8f580",
+     "6fdbcefbe6177c59",
+     "169f9aad7ffbe83b"
     ]
    },
    {
-    "text": "中国市場では上海の旗艦店の売り場を3分の1の規模へと大幅に縮小する方針が示され、海外店舗網の戦略が見直されています。",
+    "text": "ユニクロは、特別顧問を務めるイチロー氏とともに米シアトルで中学生向けの野球イベントを開催するなど、スポーツを通じた次世代育成に取り組んでいます。",
     "ids": [
-     "d661fabcf4032d49"
+     "706150b5346951f1"
     ]
    },
    {
-    "text": "SNSではGU ニットジャケットがXで7件投稿されています。",
+    "text": "SNSではGUコラボが話題を集め、Xで3日に130件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-16T00:05:09.641679+09:00",
-  "generated_at": "2026-11-19T00:05:21.106843+09:00",
+  "from": "2026-11-16T08:50:15.245650+09:00",
+  "generated_at": "2026-11-19T08:50:16.887986+09:00",
   "article_count": 24,
-  "sig": "fcf6bb63fe3f"
+  "sig": "6228a474b25f"
  },
  "items": [
+  {
+   "id": "a908ffe643a43184",
+   "url": "https://www.baby-babys.com/entry/uniqlo-and-cecilie-bahnsen-20261120-er21",
+   "title_original": "過去最高傑作爆誕！反則レベルの可愛さ…期待値超え！瞬殺の予感！【ユニクロアンドセシリーバンセン】新作11/20日～発売！",
+   "source": "│BABYDOT（ベイビードット）",
+   "image": "https://www.baby-babys.com/wp-content/uploads/2022/03/IMG_6877-1.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T22:00:15+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの新作が11月20日発売",
+   "summary_ja": "ユニクロとセシリー バンセンのコラボレーションによる新作コレクションが、11月20日より発売開始となります。可愛らしいデザインで注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bf60f1878ad16797",
+   "url": "https://www.moneydigest.sg/uniqlo-singapore-to-drop-new-hello-kitty-ut-collection-on-23-november-at-s19-90-each",
+   "title_original": "UNIQLO Singapore to drop new Hello Kitty UT collection on 23 November at S$19.90 each",
+   "source": "MoneyDigest",
+   "image": "https://www.moneydigest.sg/wp-content/uploads/2026/11/uniqlo-hello-kitty-ut-cover-closeup-res.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T12:08:16+00:00",
+   "title_ja": "シンガポールのユニクロ、ハローキティUTを発売",
+   "summary_ja": "シンガポールのユニクロは、11月23日に新しいハローキティのUTコレクションを発売します。価格はそれぞれ19.90シンガポールドルです。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "d91f8b3f36eab969",
    "url": "https://lp.p.pia.jp/article/news/517042/index.html",
@@ -282,6 +308,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "1e36812774e737b4",
+   "url": "https://www.nikkei.com/article/DGXZQOUC1818E0Y6A111C2000000",
+   "title_original": "ファストリ柳井正氏、「世界一は通過点、服の産業革命めざす」",
+   "source": "日本経済新聞",
+   "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3901430018112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.48&fp-y=0.25&h=630&w=1200&s=adad138ff8fff8f206e890b43f5cb799",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T10:03:21+00:00",
+   "title_ja": "ファストリ柳井氏「世界一は通過点、服の産業革命めざす」",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が今後の展望を語り、世界一の企業を目指すことは通過点にすぎず、新たな服の産業革命を起こす決意を示しました。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "detail_tries": 1
   },
   {
    "id": "3bbb003d14adc133",
@@ -329,7 +371,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6385fc44fcddb6a8",
@@ -364,6 +406,22 @@
    "has_detail": true
   },
   {
+   "id": "924abe0a4c017093",
+   "url": "https://www.businesspost.ie/companies/uniqlo-agreed-deal-in-principle-for-grafton-street-store-before-opting-for-college-green",
+   "title_original": "Eamon Waters’ Grafton Street store was almost home to Uniqlo",
+   "source": "Business Post",
+   "image": "https://imengine.public.prod.sbp.infomaker.io/?uuid=fe0d7255-f34f-550b-8ab7-ce53626cc3a4&type=preview&function=original",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-18T05:00:00+00:00",
+   "title_ja": "ダブリンのグラフトン街へのユニクロ出店計画が浮上",
+   "summary_ja": "アイルランド・ダブリンのグラフトン街にある店舗物件について、かつてユニクロの出店先として検討されていたことが明らかになりました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "004eb682a9f0f6e7",
    "url": "https://www.businesspost.ie/uncategorized/uniqlo-agreed-deal-in-principle-for-grafton-street-store-before-opting-for-college-green",
    "title_original": "Uniqlo agreed deal in principle for Grafton Street store before opting for College Green",
@@ -377,7 +435,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3b707a44fa9b3023",
@@ -396,6 +454,22 @@
    "has_detail": true
   },
   {
+   "id": "d40ededa07fce445",
+   "url": "https://www.vietnam.vn/ja/tong-giam-doc-uniqlo-viet-nam-hanh-phuc-khi-phuc-vu-nguoi-tieu-dung-viet",
+   "title_original": "ユニクロベトナムのゼネラルディレクター：「ベトナムの消費者の皆様にサービスを提供できることを嬉しく思います」",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/18/1794971413065_49ceouniqlo-1-cropped-1794969419563.jpeg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T03:00:00+00:00",
+   "title_ja": "ユニクロベトナム代表が意気込みを語る",
+   "summary_ja": "ユニクロベトナムのゼネラルディレクターが、現地の消費者に向けたサービス提供への喜びを表明しました。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
    "id": "40ac556179701493",
    "url": "https://www.vietnam.vn/en/tong-giam-doc-uniqlo-viet-nam-hanh-phuc-khi-phuc-vu-nguoi-tieu-dung-viet",
    "title_original": "General Director of Uniqlo Vietnam: “It is a pleasure to serve Vietnamese consumers”",
@@ -409,6 +483,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "5fcfd84f5ec34899",
+   "url": "https://www.jiji.com/jc/article?k=000000170.000068741&g=prt",
+   "title_original": "アメリカで、イチローさんに野球を教わる夢の１日 第3回 ユニクロ イチロー DREAM FIELD DAY in USA 2027年2月にシアトルで開催！",
+   "source": "時事ドットコム",
+   "image": "https://prcdn.freetls.fastly.net/release_image/68741/170/68741-170-ec92cec6adde4e9ef53898cb004032e3-1600x900.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T02:46:00+00:00",
+   "title_ja": "イチロー指導の野球イベントを27年2月に米国で開催",
+   "summary_ja": "米シアトルにて、イチロー氏から直接野球を学べるユニクロ主催のイベント「DREAM FIELD DAY」の第3回開催が発表されました。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
    "has_detail": true
   },
   {
@@ -444,6 +534,22 @@
    "detail_tries": 2
   },
   {
+   "id": "f70dade4e0b7764a",
+   "url": "https://president.jp/articles/-/122319?page=2",
+   "title_original": "17年前はGUを救う｢100万本ヒット｣だったのに…日本人がこの物価高でも｢1000円ジーンズ｣に熱狂しないワケ (2ページ目)",
+   "source": "PRESIDENT Online（プレジデントオンライン）",
+   "image": "https://president.ismcdn.jp/mwimgs/e/9/1200wm/img_e9ecf8b450410b52ae284768f0fb47f01923077.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T23:00:00+00:00",
+   "title_ja": "GUの過去の大ヒット商品1000円ジーンズと現在の消費意識の変化を考察",
+   "summary_ja": "17年前にGUを救う100万本の大ヒットとなった1000円ジーンズの事例を引き合いに、物価高が続く現代の日本において低価格ジーンズに対する消費者の意識がどのように変化したのかを分析している。",
+   "category": "業績・経営",
+   "brand": "GU",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "f0b50bc1e7cdf9c1",
    "url": "https://www.bizjournals.com/denver/news/2026/11/17/main-street-events-seasonal-markets-pavilions.html",
    "title_original": "Denver Pavilions lands seasonal market tenant for former Uniqlo space",
@@ -458,6 +564,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
+  },
+  {
+   "id": "a4ead364374900cb",
+   "url": "https://www.sanyonews.jp/article/1983909?kw=TED",
+   "title_original": "【ネパール大規模洪水・土砂災害 緊急支援】 ファーストリテイリング支援により瓦礫撤去とコミュニティインフラの復旧支援が決定",
+   "source": "山陽新聞",
+   "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/35080/398/resize/d35080-398-ddfa61795218d89a55d1-0.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T21:20:12+00:00",
+   "title_ja": "ネパール大規模洪水の復旧支援をファストリが決定",
+   "summary_ja": "ファーストリテイリングによるネパールの大規模洪水・土砂災害に対する支援が決定しました。瓦礫撤去やコミュニティインフラの復旧をサポートします。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "a84ecae64896f0f7",
@@ -505,7 +627,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "93496f5e928edc87",
@@ -6538,134 +6660,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "490dafddac98909a",
-   "url": "https://www.chinadaily.com.cn/a/202610/29/WS6ae3180ce4b06d4aa0565ea8.html",
-   "title_original": "Uniqlo to open brand-new global flagship store in Shanghai",
-   "source": "China Daily",
-   "image": "http://img2.chinadaily.com.cn/images/202610/29/6ae3180ce4b06d4a392f0c1e.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T09:55:23+00:00",
-   "title_ja": "ユニクロが中国・上海に新たなグローバル旗艦店を出店へ",
-   "summary_ja": "ユニクロが中国の上海に、新たなグローバル旗艦店をオープンすることが明らかになりました。海外市場でのブランド発信や顧客体験の強化に向けた積極的な出店計画の一環とみられます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9f668290a7a0d43d",
-   "url": "https://www.businessoffashion.com/news/retail/uniqlo-scraps-price-rise-on-2-socks-after-japanese-shopper-outcry",
-   "title_original": "Uniqlo Scraps Price Rise on $2 Socks After Japanese Shopper Outcry",
-   "source": "The Business of Fashion",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T09:42:15+00:00",
-   "title_ja": "ユニクロ、日本の消費者の反発を受け靴下の値上げを撤回",
-   "summary_ja": "ユニクロが約2ドルの靴下の値上げ計画を取りやめたことが報じられました。日本国内の消費者から寄せられた強い反発や不満の声に対応し、値上げを撤回した形となります。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d6e917119441610b",
-   "url": "https://wwd.com/fashion-news/fashion-features/uniqlo-cate-blanchett-literary-magazine-launch-1239390854",
-   "title_original": "Cate Blanchett and Uniqlo Launch \"Stories She Tells\" Literary Magazine",
-   "source": "WWD",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T09:14:33+00:00",
-   "title_ja": "ケイト・ブランシェットとユニクロが文学誌を創刊",
-   "summary_ja": "俳優のケイト・ブランシェットとユニクロがパートナーシップを組み、文学誌「Stories She Tells」を立ち上げました。文化的支援や女性のストーリー発信を目的としています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "7d3eecd9bf8b4fa6",
-   "url": "https://ww.fashionnetwork.com/news/Uniqlo-backtracks-on-planned-sock-price-hike-in-japan-following-public-outcry,1880160.html",
-   "title_original": "Uniqlo backtracks on planned sock price hike in Japan following public outcry",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T09:00:40+00:00",
-   "title_ja": "ユニクロが日本での靴下値上げ方針を撤回、批判を受け見直し",
-   "summary_ja": "ユニクロが日本国内で予定していた靴下の値上げ計画を撤回したことが判明した。引き上げ方針に対して消費者から反対や批判の声が寄せられ、それらを受けた判断とみられる。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "4bfcc576d226c51e",
-   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E4%B8%96%E8%AB%96%E3%81%AE%E5%8F%8D%E7%99%BA%E3%82%92%E5%8F%97%E3%81%91-%E6%97%A5%E6%9C%AC%E3%81%A7%E4%BA%88%E5%AE%9A%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E9%9D%B4%E4%B8%8B%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%82%92%E6%92%A4%E5%9B%9E,1880163.html",
-   "title_original": "ユニクロ、世論の反発を受け、日本で予定していた靴下の値上げを撤回",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T09:00:40+00:00",
-   "title_ja": "ユニクロが批判を受けて日本国内での靴下の値上げを撤回",
-   "summary_ja": "ユニクロが日本国内で予定していた靴下の値上げについて、消費者からの反発を受けて撤回したことが分かった。世論の批判的な反応を考慮し、従来の価格を維持する判断をしたとみられる。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8042cc7bf7c26077",
-   "url": "https://www.asahi.com/articles/ASVBX55WFVBXUHBI01YM.html",
-   "title_original": "ユニクロ、中国・上海の旗艦店を刷新 伸び鈍化の中国事業を再強化",
-   "source": "朝日新聞",
-   "image": "https://imgopt.asahi.com/ogp/AS20261029000214_comm.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T08:00:00+00:00",
-   "title_ja": "ユニクロが中国・上海の旗艦店を刷新！伸び悩む中国事業の再強化へ",
-   "summary_ja": "ユニクロが中国・上海にある旗艦店をリニューアルオープンした。成長ペースが鈍化している中国事業の再強化を図り、現地でのブランド認知度や店舗体験を向上させて巻き返しを目指す。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9a9ba9fa7780b7f9",
-   "url": "https://www.walkerplus.com/article/1185718",
-   "title_original": "スヌーピーデザインの「ユニクロUT」新作はPEANUTSファンも唸る出来栄え？変装シリーズ4型がラインナップ",
-   "source": "ウォーカープラス",
-   "image": "https://news.walkerplus.com/article/1185718/12785117_615.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T07:00:00+00:00",
-   "title_ja": "スヌーピーの変装シリーズ！ユニクロUT新作4型が登場",
-   "summary_ja": "PEANUTSファンも納得の出来栄えとなる、ユニクロUTの新作コレクションが登場しました。お馴染みのスヌーピーが様々な姿に変装した全4型がラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "01724f8e3f686d57",
-   "url": "https://jp.fashionnetwork.com/news/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B6%88%E8%B2%BB%E8%80%85%E3%81%8B%E3%82%89%E3%81%AE%E5%BC%B7%E3%81%84%E5%8F%8D%E7%99%BA%E3%82%92%E5%8F%97%E3%81%91-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AF290%E5%86%86-%E7%B4%842%E3%83%89%E3%83%AB-%E3%81%AE%E9%9D%B4%E4%B8%8B%E3%81%AE%E5%80%A4%E4%B8%8A%E3%81%92%E3%82%92%E8%A6%8B%E9%80%81%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%B1%BA%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F,1880125.html",
-   "title_original": "日本の消費者からの強い反発を受け、ユニクロは290円（約2ドル）の靴下の値上げを見送ることを決めました",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T06:51:05+00:00",
-   "title_ja": "ユニクロが290円靴下の値上げを見送りへ　消費者からの反発を受け判断",
-   "summary_ja": "ユニクロが定番商品である290円の靴下について、予定していた値上げの実施を見送る判断を下しました。値上げ方針に対して日本の消費者から寄せられた強い反発を踏まえ、従来の販売価格を維持することを決定した模様です。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
