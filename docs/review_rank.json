@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T00:16:13.030934+09:00",
+ "updated_at": "2026-11-18T09:14:47.650160+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2922,
+ "catalog_size": 2919,
  "count": 63,
  "items": [
   {
@@ -300,38 +300,8 @@
    "rising": false
   },
   {
-   "key": "UQ:E488723-000",
-   "rank": 12,
-   "brand": "ユニクロ",
-   "name": "ファーライクフーディージャケット",
-   "genders": [
-    "ウィメンズ"
-   ],
-   "price": 4990,
-   "promo": 4990,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488723/item/jpgoods_37_488723_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E488723-000/00?colorDisplayCode=37",
-   "rating": 4.5,
-   "reviews": 146,
-   "reviews7": 50,
-   "capped": false,
-   "prev7": 40,
-   "mentions7": 1,
-   "mention_titles": [
-    {
-     "t": "【UNIQLO】4,990円で高見え！「ファーライクフーディージャケット」をイメコンが本音レビュー＆ご近所コーデ3選",
-     "s": "BAILA（バイラ）",
-     "u": "https://baila.hpplus.jp/blogs/takeda_ayumi/84931"
-    }
-   ],
-   "score": 89,
-   "momentum": 1.68,
-   "new": false,
-   "rising": false
-  },
-  {
    "key": "UQ:E487929-000",
-   "rank": 13,
+   "rank": 12,
    "brand": "ユニクロ",
    "name": "フリースボタンナッププルオーバー",
    "genders": [
@@ -356,7 +326,7 @@
   },
   {
    "key": "UQ:E483285-000",
-   "rank": 14,
+   "rank": 13,
    "brand": "ユニクロ",
    "name": "スウェットストレートパンツ",
    "genders": [
@@ -376,6 +346,30 @@
    "mention_titles": [],
    "score": 86,
    "momentum": 1.06,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "UQ:E488723-000",
+   "rank": 14,
+   "brand": "ユニクロ",
+   "name": "ファーライクフーディージャケット",
+   "genders": [
+    "ウィメンズ"
+   ],
+   "price": 4990,
+   "promo": 4990,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488723/item/jpgoods_37_488723_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E488723-000/00?colorDisplayCode=37",
+   "rating": 4.5,
+   "reviews": 146,
+   "reviews7": 50,
+   "capped": false,
+   "prev7": 40,
+   "mentions7": 0,
+   "mention_titles": [],
+   "score": 84,
+   "momentum": 1.68,
    "new": false,
    "rising": false
   },
@@ -577,8 +571,39 @@
    "rising": true
   },
   {
-   "key": "GU:E360889-000",
+   "key": "UQ:E479284-000",
    "rank": 23,
+   "brand": "ユニクロ",
+   "name": "ブラッシュドジャージーワイドパンツ",
+   "genders": [
+    "ウィメンズ",
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479284/item/jpgoods_38_479284_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E479284-000/00?colorDisplayCode=38",
+   "rating": 4.5,
+   "reviews": 2154,
+   "reviews7": 61,
+   "capped": false,
+   "prev7": 81,
+   "mentions7": 1,
+   "mention_titles": [
+    {
+     "t": "大人気のユニクロ「ブラッシュドジャージーワイドパンツ」で5日間着まわし。体型カバー＆防寒できて最高 (ESSE-online)",
+     "s": "Yahoo!ニュース",
+     "u": "https://news.yahoo.co.jp/articles/6fe6fee92a80cf4ab737dcfcc6a6fb355904680b/images/000"
+    }
+   ],
+   "score": 70,
+   "momentum": 1.06,
+   "new": false,
+   "rising": false
+  },
+  {
+   "key": "GU:E360889-000",
+   "rank": 24,
    "brand": "GU",
    "name": "ウォームシアータートルネックT(12分袖)",
    "genders": [
@@ -602,7 +627,7 @@
   },
   {
    "key": "GU:E362229-000",
-   "rank": 24,
+   "rank": 25,
    "brand": "GU",
    "name": "ウォームシアーレースヘムT(長袖)",
    "genders": [
@@ -625,33 +650,32 @@
    "rising": false
   },
   {
-   "key": "UQ:E479284-000",
-   "rank": 25,
+   "key": "UQ:E486114-000",
+   "rank": 26,
    "brand": "ユニクロ",
-   "name": "ブラッシュドジャージーワイドパンツ",
+   "name": "フリースジャケット/ユニクロ 京都・オンライン限定色",
    "genders": [
-    "ウィメンズ",
     "メンズ"
    ],
-   "price": 4990,
+   "price": 2990,
    "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/479284/item/jpgoods_38_479284_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E479284-000/00?colorDisplayCode=38",
-   "rating": 4.5,
-   "reviews": 2154,
-   "reviews7": 61,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/486114/item/jpgoods_39_486114_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E486114-000/00?colorDisplayCode=39",
+   "rating": 4.6,
+   "reviews": 41,
+   "reviews7": 28,
    "capped": false,
-   "prev7": 81,
+   "prev7": null,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 65,
-   "momentum": 1.06,
+   "score": 66,
+   "momentum": 2.37,
    "new": false,
    "rising": false
   },
   {
    "key": "UQ:E493757-000",
-   "rank": 26,
+   "rank": 27,
    "brand": "ユニクロ",
    "name": "フリースリバーシブルブランケット",
    "genders": [
@@ -677,7 +701,7 @@
   },
   {
    "key": "UQ:E482766-000",
-   "rank": 27,
+   "rank": 28,
    "brand": "ユニクロ",
    "name": "ワッフルヘンリーネックTシャツ",
    "genders": [
@@ -702,7 +726,7 @@
   },
   {
    "key": "UQ:E484402-000",
-   "rank": 28,
+   "rank": 29,
    "brand": "ユニクロ",
    "name": "デニムトラッカージャケット",
    "genders": [
@@ -727,7 +751,7 @@
   },
   {
    "key": "GU:E358176-000",
-   "rank": 29,
+   "rank": 30,
    "brand": "GU",
    "name": "ソフトシアークルーネックT(長袖)",
    "genders": [
@@ -751,7 +775,7 @@
   },
   {
    "key": "GU:E361609-000",
-   "rank": 30,
+   "rank": 31,
    "brand": "GU",
    "name": "ソフトシアーボーダークルーネックT(長袖)",
    "genders": [
@@ -772,31 +796,6 @@
    "momentum": 1.37,
    "new": false,
    "rising": true
-  },
-  {
-   "key": "UQ:E471809-000",
-   "rank": 31,
-   "brand": "ユニクロ",
-   "name": "スウェットワイドパンツ",
-   "genders": [
-    "ウィメンズ",
-    "メンズ"
-   ],
-   "price": 3990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471809/item/jpgoods_05_471809_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E471809-000/00?colorDisplayCode=05",
-   "rating": 4.6,
-   "reviews": 8545,
-   "reviews7": 58,
-   "capped": false,
-   "prev7": 85,
-   "mentions7": 0,
-   "mention_titles": [],
-   "score": 59,
-   "momentum": 1.01,
-   "new": false,
-   "rising": false
   },
   {
    "key": "GU:E361524-000",

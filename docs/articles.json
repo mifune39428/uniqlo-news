@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T00:06:04.318985+09:00",
+ "updated_at": "2026-11-18T09:09:42.494193+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -94,7 +94,6 @@
   "Modaes",
   "MoneyDigest",
   "MorungExpress",
-  "Mundo Deportivo",
   "NHKニュース",
   "Nation.Cymru",
   "Newswav",
@@ -125,9 +124,11 @@
   "THE FIRST TIMES",
   "TRP | The Rakyat Post",
   "TVer",
+  "The Business Journals",
   "The Business of Fashion",
   "The CSR Universe",
   "The Independent",
+  "The Journal",
   "The Sole Supplier",
   "The Western Telegraph",
   "TheFutureParty",
@@ -147,6 +148,7 @@
   "ad-hoc-news.de",
   "fashion tech news",
   "hicbc.com",
+  "https://connec2.jp/",
   "https://mediadogs.jp/",
   "https://miyoca.jp/",
   "https://www.misslobang.com/",
@@ -181,6 +183,7 @@
   "モデルプレス",
   "一般財団法人 日本気象協会",
   "下野新聞社",
+  "中国新聞デジタル",
   "京都新聞デジタル",
   "佐賀新聞",
   "共同通信PRワイヤー",
@@ -189,7 +192,7 @@
   "号外NET 世田谷区",
   "四季報オンライン",
   "埼玉栄中学・高等学校",
-  "山口新聞 電子版",
+  "宮田理江",
   "山陽新聞",
   "日テレNEWS NNN",
   "日刊スポーツ",
@@ -216,52 +219,110 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 238,
  "digest": {
-  "headline": "ユニクロのアイルランド初出店やインド新店展開、キャラクターコラボが話題",
+  "headline": "ユニクロのアイルランド初出店やジブリ・コラボ発表が話題",
   "points": [
    {
-    "text": "ユニクロはアイルランドの首都ダブリンに初出店することを発表し、欧州での店舗網拡大を進めています。",
+    "text": "ユニクロはアイルランドの首都ダブリンに初出店し、中心部に新店舗をオープンする計画を発表しました。",
     "ids": [
      "6fdbcefbe6177c59",
      "a3853ee4aba4b0de",
-     "5478a0ea974d77fa"
+     "ec730a21a12f5745"
     ]
    },
    {
-    "text": "インド・ジャイプールのパシフィック・モールに初出店し、同国内の店舗数が合計22店舗となりました。",
+    "text": "インド・ジャイプールへの初出店で同州へ進出したほか、中国の上海旗艦店の大幅縮小など海外展開の動きが見られます。",
     "ids": [
      "93496f5e928edc87",
-     "d9515f1ba4a126b9"
+     "d9515f1ba4a126b9",
+     "d661fabcf4032d49"
     ]
    },
    {
-    "text": "ハローキティやサンリオ、スタジオジブリ、ピーナッツなどの新作コラボコレクションが続々と発表されています。",
+    "text": "スタジオジブリやハローキティ、セシリー・バンセンとのコラボレーション、ピーナッツの新作UTなどの発売が発表されました。",
     "ids": [
+     "a84ecae64896f0f7",
      "720b564e36510186",
-     "8ffcb5485d387dd3",
-     "658a0c83fdbf657b"
+     "56c66cafe6db5bad"
     ]
    },
    {
-    "text": "ファーストリテイリングはスウェーデンスキー連盟およびカーリング協会とのパートナーシップ継続を発表しました。",
-    "ids": [
-     "90d4b5173c8563c0",
-     "995d422b129a736b"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ニット」がXで3日に22件投稿され、注目を集めています。",
+    "text": "SNSでは「GU ニットジャケット」がXで5件投稿され、注目を集めています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-15T00:21:15.701036+09:00",
-  "generated_at": "2026-11-18T00:21:28.097827+09:00",
+  "from": "2026-11-15T09:19:49.136406+09:00",
+  "generated_at": "2026-11-18T09:19:50.634613+09:00",
   "article_count": 24,
-  "sig": "6489781ac84e"
+  "sig": "0f0858b2333d"
  },
  "items": [
+  {
+   "id": "9eed9518d2d44d39",
+   "url": "https://www.chugoku-np.co.jp/articles/-/916157",
+   "title_original": "ユニクロ世界展開、着々 ファーストリテイリング（山口市）柳井正会長兼社長",
+   "source": "中国新聞デジタル",
+   "image": "https://chugoku-np.ismcdn.jp/mwimgs/d/3/-/img_d36b09b7f2f21db649526ae2389041351059135.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T00:04:19+00:00",
+   "title_ja": "ファーストリテイリングの柳井正社長が語る世界展開",
+   "summary_ja": "ファーストリテイリングの柳井正会長兼社長が推進する、ユニクロのグローバル展開に関する動きが伝えられています。（山口市関連）",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "f0b50bc1e7cdf9c1",
+   "url": "https://www.bizjournals.com/denver/news/2026/11/17/main-street-events-seasonal-markets-pavilions.html",
+   "title_original": "Denver Pavilions lands seasonal market tenant for former Uniqlo space",
+   "source": "The Business Journals",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T22:12:00+00:00",
+   "title_ja": "デンバー・パビリオンズの旧ユニクロ店舗跡地に季節型市場",
+   "summary_ja": "デンバー・パビリオンズにあるかつてのユニクロのスペースに、新しい季節限定のマーケット店舗が入居することが決まりました。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
+  },
+  {
+   "id": "a84ecae64896f0f7",
+   "url": "https://www.lifestyleasia.com/bk/style/fashion/uniqlo-studio-ghibli-ut-collection-mens-kids",
+   "title_original": "UNIQLO x Studio Ghibli UT Collection set to drop on December",
+   "source": "Lifestyle Asia Hong Kong",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T21:11:15+00:00",
+   "title_ja": "ユニクロ、スタジオジブリとのコラボUTコレクションを発売へ",
+   "summary_ja": "ユニクロとスタジオジブリによる人気のUTコレクションが、12月に発売される予定であることが発表されました。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "c4568cbe87abe64d",
+   "url": "https://www.thejournal.ie/uniqlo-dublin-shop-irish-interest-7229156-Nov2026",
+   "title_original": "What’s the big deal about Uniqlo, and why are shoppers so keen to see it in Dublin?",
+   "source": "The Journal",
+   "image": "https://img2.thejournal.ie/article/7229156/river/?height=400&version=7229255",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T18:54:19+00:00",
+   "title_ja": "ユニクロがダブリンに進出、現地での関心の高さに迫る",
+   "summary_ja": "アイルランドのメディアが、ダブリンにおけるユニクロの初出店に向けた現地の期待感やブランドの魅力について報じている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "93496f5e928edc87",
    "url": "https://infashionbusiness.com/home/news_details/8865/15",
@@ -292,7 +353,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "995d422b129a736b",
@@ -359,6 +420,54 @@
    "has_detail": true
   },
   {
+   "id": "42a1ede65e965626",
+   "url": "https://www.wwdjapan.com/articles/2553507",
+   "title_original": "ユニクロが平野歩夢の公式ドキュメンタリー「AYUMU」を公開 平野選手が登壇する特別上映会も実施",
+   "source": "WWDJAPAN",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T02:03:12+00:00",
+   "title_ja": "ユニクロ、平野歩夢選手の公式ドキュメンタリー「AYUMU」を公開へ",
+   "summary_ja": "ユニクロは、スノーボーダー・スケートボーダーの平野歩夢選手に密着した公式ドキュメンタリー「AYUMU」の公開を発表しました。平野選手が登壇する特別上映会もあわせて実施されます。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "d661fabcf4032d49",
+   "url": "https://connec2.jp/23242",
+   "title_original": "ユニクロの「中国神話」に幕か、世界最大だった上海旗艦店を3分の1に縮小",
+   "source": "https://connec2.jp/",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T02:00:59+00:00",
+   "title_ja": "ユニクロ、世界最大級だった上海旗艦店を3分の1へ大幅縮小へ",
+   "summary_ja": "中国市場で展開してきたユニクロが、かつて世界最大規模を誇った上海の旗艦店の売り場を3分の1の規模へと大幅に縮小することが分かりました。中国における戦略の見直しが進められています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "56c66cafe6db5bad",
+   "url": "https://riemiyata.com/news/94109",
+   "title_original": "「UNIQLO and Cecilie Bahnsen（ユニクロ アンド セシリー バンセン）」2026秋冬コレクションを発売 フリースをフェミニンに",
+   "source": "宮田理江",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-17T01:42:40+00:00",
+   "title_ja": "ユニクロ、セシリー・バンセンとの2026秋冬コレクションを発売",
+   "summary_ja": "ユニクロは「UNIQLO and Cecilie Bahnsen」の2026年秋冬コレクションの発売を開始しました。フリース素材を取り入れ、フェミニンで柔らかなデザインに仕上げています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
    "id": "f6341478f9f700bb",
    "url": "https://limo.media/articles/-/146455",
    "title_original": "スヌーピーのハグに、花を抱えるウッドストックも！〈ユニクロ〈1990円スヌーピー新作Tシャツ〉3つ。レトロな古着のようなビンテージ感もいい 2026年12月中旬発売予定！仲間との心温まるシーンにほっこり！ | 概要 | LIMO | くらしとお金の経済メディア",
@@ -373,6 +482,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
+  },
+  {
+   "id": "bf7c94b7a935ebc4",
+   "url": "https://www.fastretailing.com/eng/group/news/2611171100.html",
+   "title_original": "UNIQLO Renews Partnership with the Swedish Ski Association and Swedish Curling Association - Also Supports Next-Generation Development through Event at Karuizawa International Curling | FAST RETAILING CO., LTD.",
+   "source": "Fast Retailing Co",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-17T00:00:00+00:00",
+   "title_ja": "ユニクロ、スウェーデン・スキーおよびカーリング協会とのパートナーシップを更新",
+   "summary_ja": "ユニクロはスウェーデン・スキーおよびカーリング協会とのパートナーシップ継続を発表しました。軽井沢国際カーリングでのイベントを通じて次世代育成も支援します。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "90d4b5173c8563c0",
@@ -484,7 +609,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b22e65ef1519c280",
@@ -709,22 +834,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "560822dee4410c0c",
-   "url": "https://stupiddope.com/2026/11/cecilie-bahnsen-and-uniqlo-reunite-for-a-fleece-first-fw26-collection-wandering-together",
-   "title_original": "UNIQLO x Cecilie Bahnsen FW26 Collection: Fleece Jackets, Kids Skorts, Release Date and Where to Buy",
-   "source": "stupidDOPE",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-15T14:54:42+00:00",
-   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コラボコレクションが発表",
-   "summary_ja": "ユニクロがデザイナーのセシリー・バンセンとコラボレーションした2026年秋冬コレクションを発表。フリースジャケットやキッズ向けスコートなどのラインナップ、発売日や取扱店舗が紹介されている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   },
   {
    "id": "ca3b45f9f44c0eb4",
@@ -6546,118 +6655,6 @@
    "title_ja": "ケイト・ブランシェット氏が東大に登壇 ユニクロの女性支援企画で",
    "summary_ja": "俳優のケイト・ブランシェット氏が東京大学を訪問し、ユニクロの取り組み「stories she tells」関連イベントに登場しました。女性の言葉や物語を社会へ届ける活動の一環として開催されました。",
    "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "6ff88de02b20d765",
-   "url": "https://www.sanyonews.jp/article/1945945?kw=2025",
-   "title_original": "「ユニクロJR新大阪店」増床リニューアルを発表 JR西日本・がんこ寿司とのコラボTシャツが登場へ",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/6/8/5/d/685dda143e2735590b970fa9115ce13a_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T00:53:44+00:00",
-   "title_ja": "ユニクロJR新大阪店が増床リニューアル、コラボTも登場",
-   "summary_ja": "ユニクロJR新大阪店の増床リニューアルが発表されました。JR西日本やがんこ寿司とのコラボレーションTシャツも登場予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "fda8ac7568b2f784",
-   "url": "https://www.asahi.com/and/w/article/16999780/31495417",
-   "title_original": "590円〜買える！【ユニクロ】『F.RISSOコラボ』10/30発売。「カジュアルだけどラグジュアリー」「かっこいい」と話題",
-   "source": "朝日新聞",
-   "image": "https://p.potaufeu.asahi.com/49bf-p/picture/31495417/612d6e2fba692c5bad4f4abc5854f4ee.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T23:56:54+00:00",
-   "title_ja": "ユニクロが「F.RISSO」とのコラボ商品を10月30日に発売",
-   "summary_ja": "ユニクロは「F.RISSO」とのコラボレーション商品を10月30日より発売する。カジュアルでありながらラグジュアリーな雰囲気を備えたデザインが注目を集めている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "777a99c55f45e041",
-   "url": "https://news.yahoo.co.jp/articles/0992b77e93691347be94b0a9e162d3f1ab461b5f",
-   "title_original": "「安さが正義」の時代は終わった。GU好調の裏で、ファストファッション各社が苦戦する“決定的な理由”（SPA!）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-02192346-sspa-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T23:53:02+00:00",
-   "title_ja": "安さ重視から変化するファストファッション業界とGU好調の理由",
-   "summary_ja": "単なる低価格の追求から消費者の意識が変化するなか、ファストファッション各社が苦戦を強いられる一方で、GUが好調を維持している決定的な理由を解説する。",
-   "category": "業績・経営",
-   "brand": "GU",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e1facc200a643f3c",
-   "url": "https://news.yahoo.co.jp/articles/8721e21f91f21de0e118dd2f2ca0a1ca1e97cbd9",
-   "title_original": "ユニクロ『新作ニット』元マルニデザイナーが手がけると…「ブルース・リーみたい」「着こなせるかな…」と話題",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-11802677-asahiand-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T23:01:08+00:00",
-   "title_ja": "元マルニデザイナー手掛けるユニクロの新作ニットが話題",
-   "summary_ja": "元マルニのデザイナーが手掛けたユニクロの新作ニットについて、独特なデザインがネット上でさまざまな反響を呼んでいます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "0190078ce7f426db",
-   "url": "https://lee.hpplus.jp/column/3771197",
-   "title_original": "【ユニクロ エフ・リッソ】10/30発売！30代・40代におすすめのニット全7アイテムをご紹介【2026年秋冬】",
-   "source": "LEE",
-   "image": "https://lee.hpplus.jp/wp-content/uploads/2026/10/22/c52883436ab976fab3caf6fb192f69e1.jpeg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T23:00:00+00:00",
-   "title_ja": "ユニクロとエフ・リッソのコラボニットが10月30日に発売",
-   "summary_ja": "30代や40代の大人世代に向けたユニクロとエフ・リッソのコラボレーションによる新作ニット全7アイテムが、10月30日に発売されます。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "5ad941fb653b36a5",
-   "url": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/112519",
-   "title_original": "宇部市・小羽山小学校、リユース・リサイクル学ぶ/山口県とファーストリテイリングが連携し環境学習",
-   "source": "山口新聞 電子版",
-   "image": "https://yama.minato-yamaguchi.co.jp/e-yama/articles/picture/id/96397/fn/Et26x280045m.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-28T21:00:00+00:00",
-   "title_ja": "ファーストリテイリングと山口県が連携し小学校で環境学習を実施",
-   "summary_ja": "山口県とファーストリテイリングが連携し、宇部市立小羽山小学校にて衣料品のリユースやリサイクルをテーマにした環境授業が開催されました。児童たちが服の循環や環境保護の大切さについて学びを深めました。",
-   "category": "サステナビリティ",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "beb62ca5d4aca33b",
-   "url": "https://www.mundodeportivo.com/en/20261028/1004244379/nike-adidas-and-uniqlo-remain-among-the-world-s-100-most-valuable-brands.html?facet=amp",
-   "title_original": "Nike, Adidas, and Uniqlo remain among the world’s 100 most valuable brands",
-   "source": "Mundo Deportivo",
-   "image": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/09/09/6aa13dd95bfa5.jpeg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-28T19:05:56+00:00",
-   "title_ja": "ユニクロ、ナイキやアディダスとともに世界で最も価値ある100ブランドに選出",
-   "summary_ja": "世界の最も価値ある100ブランドの中に、ナイキやアディダスと並んでユニクロが引き続きランクインしたことが明らかになりました。グローバルにおけるブランド力の高さが評価されています。",
-   "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
