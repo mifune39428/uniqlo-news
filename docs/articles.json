@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T08:40:35.742916+09:00",
+ "updated_at": "2026-11-19T13:55:03.213141+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -18,6 +18,7 @@
  "sources": [
   "- PeopleAsia",
   "47NEWS",
+  "7NEWS",
   "@DIME アットダイム",
   "A1 Retail Magazine",
   "AOL.co.uk",
@@ -40,6 +41,7 @@
   "Dtimes",
   "Dublin Live",
   "ELLE",
+  "EVOKE",
   "Emo!miu",
   "Essential Japan",
   "Estates Gazette",
@@ -47,7 +49,6 @@
   "Extra.ie",
   "FashionNetwork France",
   "FashionNetwork USA",
-  "Fashionista",
   "Fashionsnap.com",
   "Fast Retailing Co",
   "Fibre2Fashion",
@@ -97,6 +98,7 @@
   "Newswav",
   "Nikkei Asia",
   "Nova.ie",
+  "Oggi.jp",
   "Oui Speak Fashion (OSF)",
   "Out of Town Blog",
   "PAUSE Online",
@@ -162,7 +164,6 @@
   "にじめん",
   "ねとらぼ",
   "ぴあエンタメ情報",
-  "アラブニュース",
   "インサイド",
   "オトナンサー",
   "オリコンニュース",
@@ -218,49 +219,108 @@
   "조선일보"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 241,
  "digest": {
-  "headline": "ユニクロとファーストリテイリングの最新動向まとめ",
+  "headline": "ファストリ世界戦略やセシリー・バンセンコラボが話題",
   "points": [
    {
-    "text": "ファーストリテイリングの柳井正会長兼社長が今後の展望を語り、世界一の企業を目指すことは通過点にすぎず、新たな服の産業革命を起こす決意を示しました。",
+    "text": "ファーストリテイリングの柳井会長が今後の展望を語り、世界一の企業を目指すことは通過点にすぎず、新たな服の産業革命を起こす決意を示しました。",
     "ids": [
+     "14e5b3b66c8bf5ad",
      "1e36812774e737b4"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンのコラボレーションによる2026年秋冬コレクションが11月20日より発売開始となります。",
+    "text": "ユニクロとセシリー・バンセンによる、フラワーモチーフやフリースを取り入れたフェミニンな2026年秋冬コレクションの新作が発売されます。",
     "ids": [
+     "8c7c48155c9a1b3c",
      "a908ffe643a43184",
-     "56c66cafe6db5bad"
+     "2d993254ecf3d8c3"
     ]
    },
    {
-    "text": "ユニクロはインド・ジャイプールに国内22店舗目となる初出店を果たしたほか、アイルランドの首都ダブリンへの初進出も明らかになりました。",
+    "text": "ユニクロはインド初となるジャイプール店をオープンし同州への進出を果たした一方、中国の上海旗艦店の売り場を大幅に縮小する方針です。",
     "ids": [
      "ba8e4fd263c8f580",
-     "6fdbcefbe6177c59",
-     "169f9aad7ffbe83b"
+     "d661fabcf4032d49"
     ]
    },
    {
-    "text": "ユニクロは、特別顧問を務めるイチロー氏とともに米シアトルで中学生向けの野球イベントを開催するなど、スポーツを通じた次世代育成に取り組んでいます。",
-    "ids": [
-     "706150b5346951f1"
-    ]
-   },
-   {
-    "text": "SNSではGUコラボが話題を集め、Xで3日に130件投稿されました。",
+    "text": "SNSではGUコラボが話題となり、Xで3日に147件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-16T08:50:15.245650+09:00",
-  "generated_at": "2026-11-19T08:50:16.887986+09:00",
+  "from": "2026-11-16T14:05:07.955923+09:00",
+  "generated_at": "2026-11-19T14:05:09.772347+09:00",
   "article_count": 24,
-  "sig": "6228a474b25f"
+  "sig": "845e167a97b3"
  },
  "items": [
+  {
+   "id": "3752c7773c1df0a1",
+   "url": "http://www.excite.co.jp/news/article/Allabout_134048",
+   "title_original": "「これかわいい！」ユニクロの“新作リュック”に反響。11月下旬販売、ピンク・茶など絶妙カラー6種展開",
+   "source": "Excite エキサイト",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T04:40:00+00:00",
+   "title_ja": "ユニクロから11月下旬発売の新作リュックが話題",
+   "summary_ja": "ピンクやブラウンといった絶妙なニュアンスカラー全6色で展開されるユニクロの新作リュックに、可愛いと注目が集まっています。11月下旬の販売が予定されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "8c7c48155c9a1b3c",
+   "url": "https://popbee.com/en/fashion/uniqlo-x-cecilie-bahnsen-fall-winter-2026-6-must-have-pieces-and-hong-kong-taiwan-release-dates",
+   "title_original": "UNIQLO x Cecilie Bahnsen Shopping Guide: Save These 6 Pieces First, From Romantic Fleece Jackets to Floral Accessories!",
+   "source": "Popbee",
+   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fen.popbee.com%2Fimage%2Fsites%2F2%2F2026%2F11%2F1-1-1.jpg?w=960&cbr=1&q=90&fit=max",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T04:20:35+00:00",
+   "title_ja": "ユニクロとセシリー・バンセンの注目コラボアイテム6選",
+   "summary_ja": "ユニクロとセシリー・バンセンによるコレクションから、ロマンチックなフリースジャケットやフローラルなアクセサリーなど、チェックしておきたい6つのアイテムを紹介します。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "406cdcd295f29715",
+   "url": "https://7news.com.au/7you/fashion/the-uniqlo-collaboration-every-cool-girl-will-be-wearing-this-summer-c-23183672",
+   "title_original": "The UNIQLO collaboration every cool girl will be wearing this summer",
+   "source": "7NEWS",
+   "image": "https://images.7news.com.au/publication/C-23183672/c39efbc63e3cd4deabcdf13389c837dabfe9a29c-16x9-x0y0w1280h720.jpg?imwidth=1200",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T03:32:37+00:00",
+   "title_ja": "おしゃれな女性の間で話題を集めるユニクロの注目コラボ",
+   "summary_ja": "今季のファッションシーンで多くのスタイリッシュな女性たちから支持を集めている、ユニクロの特別なコラボレーションアイテムについて海外メディアが伝えています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "14e5b3b66c8bf5ad",
+   "url": "https://asia.nikkei.com/business/retail/uniqlo-s-yanai-looks-beyond-goal-of-becoming-world-s-top-apparel-company",
+   "title_original": "Uniqlo's Yanai looks beyond goal of becoming world's top apparel company",
+   "source": "Nikkei Asia",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F3%2F4%2F8%2F13458438-1-eng-GB%2F22ae96c80b32-photo_SXM2026111800011174t.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T01:42:18+00:00",
+   "title_ja": "ファーストリテイリング柳井氏、世界一の先を見据える戦略",
+   "summary_ja": "ファーストリテイリングの柳井会長が、世界トップのアパレル企業という目標のさらに先を見据えた展望を語っています。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 5,
+   "has_detail": true
+  },
   {
    "id": "a908ffe643a43184",
    "url": "https://www.baby-babys.com/entry/uniqlo-and-cecilie-bahnsen-20261120-er21",
@@ -272,6 +332,22 @@
    "published": "2026-11-18T22:00:15+00:00",
    "title_ja": "ユニクロとセシリー バンセンの新作が11月20日発売",
    "summary_ja": "ユニクロとセシリー バンセンのコラボレーションによる新作コレクションが、11月20日より発売開始となります。可愛らしいデザインで注目を集めています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "2d993254ecf3d8c3",
+   "url": "https://oggi.jp/7975323",
+   "title_original": "【ユニクロ アンド セシリー バンセン】フリースのセットアップやスマホ操作できるニット手袋など、フラワーモチーフを配した冬のデイリーウェア",
+   "source": "Oggi.jp",
+   "image": "https://oggi.jp/wp-content/uploads/2026/11/261104unitop1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-18T22:00:00+00:00",
+   "title_ja": "ユニクロとセシリー・バンセン、冬の新作デイリーウェア",
+   "summary_ja": "ユニクロとセシリー・バンセンによるコラボレーションから、フラワーモチーフをあしらったフリースセットアップや手袋などの冬物アイテムが登場します。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
@@ -323,7 +399,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "3bbb003d14adc133",
@@ -419,7 +495,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "004eb682a9f0f6e7",
@@ -579,7 +655,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a84ecae64896f0f7",
@@ -996,6 +1072,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "39f4aebd58e98e64",
+   "url": "https://evoke.ie/2026/11/16/style/fashion/uniqlo-ireland",
+   "title_original": "Japanese brand Uniqlo set to open first store in Ireland",
+   "source": "EVOKE",
+   "image": "https://evoke.ie/wp-content/uploads/2026/11/488793706_1103157245186291_7278586701732928840_n.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-16T08:36:30+00:00",
+   "title_ja": "ユニクロ、アイルランド初出店へ店舗オープンを計画",
+   "summary_ja": "日本発のブランドであるユニクロが、アイルランド国内に初となる店舗をオープンする予定であることが明らかになった。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
   },
   {
    "id": "76e082bbad43cb5d",
@@ -6562,102 +6654,6 @@
    "summary_ja": "ファーストリテイリングがサプライチェーンにおけるデータ活用を進めています。アパレルサステナビリティ機関のCascaleを通じ、データを具体的なサプライチェーン上の改善行動へつなげる取り組みが紹介されました。",
    "category": "サステナビリティ",
    "brand": "グループ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "74fcdc4753a27faa",
-   "url": "https://ouispeakfashion.com/jp/uniqlo-cate-blanchett-stories-she-tells-literary-magazine",
-   "title_original": "ユニクロ（UNIQLO）、ケイト・ブランシェットと共に女性の声を届ける文芸誌を2027年秋に創刊",
-   "source": "Oui Speak Fashion (OSF)",
-   "image": "https://i0.wp.com/ouispeakfashion.com/jp/wp-content/uploads/2025/08/OSF-Main-11.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-29T20:11:01+00:00",
-   "title_ja": "ユニクロがケイト・ブランシェットと連携し2027年秋に文芸誌を創刊",
-   "summary_ja": "ユニクロは、俳優のケイト・ブランシェット氏と共に女性の発信を支援する文芸誌を2027年秋に創刊することを発表しました。多様な女性の声を社会へ届けることを目的とした文化的なプロジェクトです。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "20a1408767c8d7ab",
-   "url": "https://ouispeakfashion.com/uniqlo-cate-blanchett-stories-she-tells-literary-magazine",
-   "title_original": "UNIQLO and Cate Blanchett Launch a Literary Magazine for Women’s Voices",
-   "source": "Oui Speak Fashion (OSF)",
-   "image": "https://i0.wp.com/ouispeakfashion.com/wp-content/uploads/2025/08/OSF-Main-10.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T20:10:40+00:00",
-   "title_ja": "ケイト・ブランシェットと女性の文学雑誌を発行へ",
-   "summary_ja": "ユニクロは俳優のケイト・ブランシェット氏と共に、女性の声を届けるための新しい文学雑誌を創刊し、グローバルプロジェクトを始動させました。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "91a5f23bdfaa2b2e",
-   "url": "https://fashionista.com/2026/10/uniqlo-cate-blanchett-launch-literary-magazine",
-   "title_original": "Must Read: Uniqlo and Cate Blanchett Launch Literary Magazine, Lady Gaga Is Now Haus Labs' CEO",
-   "source": "Fashionista",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T16:00:00+00:00",
-   "title_ja": "ユニクロとケイト・ブランシェットの文芸誌創刊など海外ファッション動向",
-   "summary_ja": "ファッション業界の話題として、ユニクロとケイト・ブランシェットによる文芸誌の立ち上げや、レディー・ガガに関する人事など、注目のトピックスが取り上げられている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "4293985648f248f3",
-   "url": "https://pokde.net/lifestyle/shopping/uniqlo-the-sweat-generation-campaign",
-   "title_original": "UNIQLO Malaysia Launches \"The Sweat Generation\" Campaign Featuring the UNIQLO C Sweat Collection",
-   "source": "Pokde.Net",
-   "image": "https://cdn.pokde.net/wp-content/uploads/2026/10/29004753/uniqlo-malaysia-sweat-generation-campaign-featured.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T13:25:24+00:00",
-   "title_ja": "ユニクロマレーシア、スウェット新作キャンペーンを開始",
-   "summary_ja": "ユニクロマレーシアが「UNIQLO : C」スウェットコレクションをフィーチャーした「The Sweat Generation」キャンペーンを始動しました。海外店舗における新作プロモーションの一環です。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "db662095d6fcac66",
-   "url": "https://www.indianretailer.com/videos/uniqlos-winterwear-innovation-technology-meets-everyday-comfort",
-   "title_original": "UNIQLO’s Winterwear Innovation: Technology Meets Everyday Comfort",
-   "source": "Indian Retailer",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T12:47:13+00:00",
-   "title_ja": "ユニクロの冬物ウェア、テクノロジーと快適性を両立",
-   "summary_ja": "ユニクロが展開する冬物ウェアについて報じている。最先端のテクノロジーを活用し、日常の快適性を追求したラインナップの魅力を伝えている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "06f16cc84a37c633",
-   "url": "https://www.arabnews.jp/en/business/uniqlo-cancels-socks-price-hikes-in-japan-as-inflation-bites-3001153",
-   "title_original": "Uniqlo cancels socks price hikes in Japan as inflation bites",
-   "source": "アラブニュース",
-   "image": "https://assets.maestronewsroom.com/media/c4aa1a27-6688-419d-801f-352634a88afc/proxies/94085a77-c2d2-4b6d-95eb-65776e0d39a6.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-29T12:02:54.001000+00:00",
-   "title_ja": "ユニクロ、物価高を受け日本での靴下値上げを取りやめ",
-   "summary_ja": "物価上昇が続く日本国内において、ユニクロが予定していた靴下の値上げをキャンセルしたことが明らかになった。インフレに伴う生活防衛意識の高まりに対応した動きとみられる。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
   }
