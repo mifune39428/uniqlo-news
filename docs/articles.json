@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T23:51:50.379741+09:00",
+ "updated_at": "2026-11-20T08:59:31.967013+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -34,6 +34,7 @@
   "BusinessMirror",
   "CLASSY.[クラッシィ]",
   "Cate Blanchett Fan",
+  "Chatelaine",
   "Chosunbiz",
   "Comic Book Resources",
   "ContentGrip",
@@ -67,7 +68,6 @@
   "IMPACT Magazine",
   "India Retailing",
   "Indian Retailer",
-  "Indian Television Dot Com",
   "Inside Retail Asia",
   "Insider Media Ltd",
   "Irish Examiner",
@@ -91,10 +91,8 @@
   "Marketing-Interactive",
   "Men's Folio",
   "Metro Mode",
-  "Modaes",
   "MoneyDigest",
   "MorungExpress",
-  "NHKニュース",
   "Nation.Cymru",
   "Newswav",
   "Nikkei Asia",
@@ -130,7 +128,6 @@
   "TRP | The Rakyat Post",
   "TVer",
   "The Business Journals",
-  "The CSR Universe",
   "The Independent",
   "The Journal",
   "The Sole Supplier",
@@ -147,6 +144,7 @@
   "Wales 247",
   "Wales Online",
   "Wazzup.PH",
+  "Who What Wear",
   "Yahoo!ニュース",
   "fashion tech news",
   "hicbc.com",
@@ -162,6 +160,7 @@
   "selecta bisso",
   "stupidDOPE",
   "vietnamnews.vn",
+  "www.bleague.jp",
   "www.marketscreener.com",
   "│BABYDOT（ベイビードット）",
   "にじめん",
@@ -188,6 +187,7 @@
   "下野新聞社",
   "中国新聞デジタル",
   "京都新聞デジタル",
+  "企業家倶楽部",
   "佐賀新聞",
   "共同通信PRワイヤー",
   "北海道新聞デジタル",
@@ -206,7 +206,6 @@
   "朝日新聞",
   "東京バーゲンマニア",
   "東京大学",
-  "横浜で暮らそう",
   "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
   "毎日キレイ",
   "毎日新聞",
@@ -225,10 +224,10 @@
  "count": 400,
  "detail_count": 237,
  "digest": {
-  "headline": "ファストリの未来戦略と注目のコラボ＆新作が続々発表",
+  "headline": "ファストリ事業戦略やセシリー・バンセン、ちいかわコラボなど最新動向",
   "points": [
    {
-    "text": "ファーストリテイリングの柳井会長が世界一の先を見据えた展望を語り、サステナビリティ説明会では事業成長と社会貢献の両立方針が示されました。",
+    "text": "ファーストリテイリングは年次サステナビリティ説明会を開催し、世界一の先を見据える戦略や新たな服の産業革命を起こす決意が語られた一方で、スコープ3排出量の増加見込みも公表された。",
     "ids": [
      "97d378d6e55e20d2",
      "14e5b3b66c8bf5ad",
@@ -236,33 +235,104 @@
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンのコラボ新作や、GUと「ちいかわ」のコラボコレクションなど、注目度抜群の新商品が発売されます。",
+    "text": "ユニクロはセシリー・バンセンとの2026年秋冬コラボコレクションを発売し、フリースやアクセサリーなど冬の新作デイリーウェアを展開している。",
     "ids": [
-     "74c881f71c9636bf",
-     "8b45401e6ac4fd7b",
-     "8c7c48155c9a1b3c"
+     "e4b279b167c3094c",
+     "8c7c48155c9a1b3c",
+     "2d993254ecf3d8c3"
     ]
    },
    {
-    "text": "ユニクロはインド・ジャイプールへの初出店や秋冬の感謝週間を始動したほか、スタジオジブリやハローキティとのコラボUTの発売も発表されました。",
+    "text": "ジーユーは“おでかけ着”をテーマにした「ちいかわ」との新作コラボ商品を発売し、ニットやポーチなどのアイテムをラインナップしている。",
     "ids": [
-     "3bbb003d14adc133",
+     "d9d0d48d2ddf8878",
+     "8b45401e6ac4fd7b"
+    ]
+   },
+   {
+    "text": "ユニクロはインド初となるジャイプール店をオープンし国内22店舗目としたほか、スタジオジブリコラボUTの発売やB.LEAGUEでのユニフォーム提供などを発表した。",
+    "ids": [
+     "5f9690d07566c882",
      "fbc8e4c70354ce35",
-     "93496f5e928edc87"
+     "ba8e4fd263c8f580"
     ]
    },
    {
-    "text": "SNSでは「GU ちいかわ ポーチ」がXで56件投稿され、大きな話題を集めています。",
+    "text": "GU ちいかわ ポーチはXで3日に124件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-17T00:36:10.103450+09:00",
-  "generated_at": "2026-11-20T00:36:50.581782+09:00",
+  "from": "2026-11-17T09:07:06.295428+09:00",
+  "generated_at": "2026-11-20T09:07:12.815446+09:00",
   "article_count": 24,
-  "sig": "7b0e023f0527"
+  "sig": "41409bc2d640"
  },
  "items": [
+  {
+   "id": "d9d0d48d2ddf8878",
+   "url": "https://www.oricon.co.jp/news/2494065",
+   "title_original": "【きょうから】ジーユー×「ちいかわ」、新作発売 第1弾は“おでかけ着”、ニットやポーチほか",
+   "source": "オリコンニュース",
+   "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494065/20261119_154037_p_o_39848315.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-20T06:05:00+00:00",
+   "title_ja": "ジーユーが「ちいかわ」との新作コラボを発売 ニットやポーチが登場",
+   "summary_ja": "ジーユーが人気キャラクター「ちいかわ」との新作コラボ商品を発売した。第1弾は“おでかけ着”をテーマにしており、ニットやポーチをはじめとする各種アイテムをラインナップしている。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "e44bf7f0e6a9ecf7",
+   "url": "https://chatelaine.com/style/uniqlo-cecilie-bahnsen-fall-winter-2026-collection",
+   "title_original": "Uniqlo’s New Designer Collab Puts A Chic Spin On Fleece",
+   "source": "Chatelaine",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T19:32:12+00:00",
+   "title_ja": "ユニクロがフリースをシックにアレンジした新デザイナーコラボを発表",
+   "summary_ja": "ユニクロが新たなデザイナーコラボレーションを発表した。定番素材であるフリースに洗練されたデザインを落とし込み、シックで新しい魅力を引き出したアイテムを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e4b279b167c3094c",
+   "url": "https://www.whowhatwear.com/fashion/shopping/uniqlo-cecilie-bahnsen",
+   "title_original": "Uniqlo's Highly Anticipated Cecilie Bahnsen F/W 26 Collection Is Finally Here—Shop Before It Sells Out",
+   "source": "Who What Wear",
+   "image": "https://cdn.mos.cms.futurecdn.net/P7idZsXof8ahZhzF536iHd-1200-80.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T16:31:53+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コラボが発売",
+   "summary_ja": "ユニクロがデザイナーのセシリー バンセンとコラボレーションした2026年秋冬コレクションの販売を開始した。注目度の高い話題の新作ラインナップとなっており、完売前の購入が呼びかけられている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "b755941bf1074f12",
+   "url": "https://www.vietnam.vn/ja/uniqlo-viet-nam-co-tan-tong-giam-doc-tung-dieu-hanh-tai-my-va-uc",
+   "title_original": "ユニクロベトナムに新しいゼネラルマネージャーが就任しました。この人物は以前、米国とオーストラリアの事業運営を統括していました。",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/19/1795098170859_tnw-anh-man-hinh-2026-11-19-luc-203254-17950956955971637968177-253-0-1007-1440-crop-179509575448366942434.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T14:11:00+00:00",
+   "title_ja": "ユニクロベトナムの新責任者に米・豪事業を統括した人物が就任",
+   "summary_ja": "ユニクロベトナムの新しいゼネラルマネージャーに、以前米国やオーストラリアの事業運営を統括していた人物が就任した。海外市場での事業統括経験を持つリーダーのもと、ベトナムでの事業展開を進める。",
+   "category": "海外展開",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "74c881f71c9636bf",
    "url": "https://trilltrill.jp/articles/5195890",
@@ -293,7 +363,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2e8dd53ada66dcc3",
@@ -341,7 +411,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "8b45401e6ac4fd7b",
@@ -357,7 +427,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9888e036ec8e29d9",
@@ -389,7 +459,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "76ca189ca0b97dac",
@@ -405,7 +475,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b3fd03fcd8089f51",
@@ -424,6 +494,22 @@
    "has_detail": true
   },
   {
+   "id": "e767786a98df6bb0",
+   "url": "https://kigyoka.com/archives/20261119.html",
+   "title_original": "【企業家賞20周年 ファーストリテイリング柳井正会長兼社長 講演録】柳井 正氏",
+   "source": "企業家倶楽部",
+   "image": "http://kigyoka.com/user/blog/607/_26qlt2ytmp9d9rct_e0x5e47-c28iuh.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T06:17:19+00:00",
+   "title_ja": "ファーストリテイリング柳井正会長の講演録が公開　企業家賞20周年で登壇",
+   "summary_ja": "企業家賞の20周年を記念し、ファーストリテイリングの柳井正会長兼社長が行った講演の内容が公開された。経営における考え方やこれまでの歩みなどが語られている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "7c2819133209105a",
    "url": "https://www.u-tokyo.ac.jp/focus/en/articles/z1311_00062.html",
    "title_original": "UNIQLO “Stories She Tells” Launch Commemorative",
@@ -438,6 +524,38 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "94279a035083ba9d",
+   "url": "https://news.yahoo.co.jp/articles/f2544fc4a2516b09736b27357d72d28563187ac1",
+   "title_original": "なぜ世界的スターはユニクロと組んだのか？映画俳優ケイト・ブランシェットさんが東大で語ったこととは（ウォーカープラス）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-01454113-tkwalk-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T06:00:00+00:00",
+   "title_ja": "俳優ケイト・ブランシェット氏が東大で講演　ユニクロとの協働理由を語る",
+   "summary_ja": "俳優のケイト・ブランシェット氏が東京大学で講演を行い、ユニクロとパートナーシップを結んだ理由や、持続可能な社会に向けた取り組みについての考えを語った。",
+   "category": "広告・タレント",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f9c0d669b567fcf5",
+   "url": "https://www.u-tokyo.ac.jp/focus/ja/articles/z1311_00080.html",
+   "title_original": "UNIQLO「Stories She Tells」ローンチ記念イベント",
+   "source": "東京大学",
+   "image": "https://www.u-tokyo.ac.jp/content/400299907.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T05:28:21+00:00",
+   "title_ja": "ユニクロ、「Stories She Tells」記念イベント開催",
+   "summary_ja": "ユニクロが「Stories She Tells」のローンチを記念したイベントを実施する。（東京大学の発表による）",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "3752c7773c1df0a1",
@@ -469,6 +587,38 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "5f9690d07566c882",
+   "url": "https://www.bleague.jp/en/news_detail/id=667704",
+   "title_original": "「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」での 株式会社ユニクロによる全9チームのユニフォーム提供とデザイン発表のお知らせ ～「B.BLACK」「B.WHITE」オーセンティックユニフォームの先行販売決定～",
+   "source": "www.bleague.jp",
+   "image": "https://www.bleague.jp/files/user/img/ogp_blg.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T04:05:16+00:00",
+   "title_ja": "B.LEAGUEオールスター戦でユニクロがユニフォーム提供",
+   "summary_ja": "2027年のB.LEAGUEオールスターゲーム愛知・名古屋大会において、ユニクロが全9チームのユニフォームを提供すると発表した。オーセンティックユニフォームの先行販売も決定している。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
+  {
+   "id": "0f0e372557eabff4",
+   "url": "https://www.fashion-press.net/news/153605",
+   "title_original": "ミャクミャクの47都道府県ご当地グッズ「日本ミャク景」”たこ焼き”姿のユニクロ限定Tシャツなど",
+   "source": "ファッションプレス",
+   "image": "https://www.fashion-press.net/img/news/153605/top.jpg?1795059904",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T03:55:00+00:00",
+   "title_ja": "ミャクミャクご当地グッズ「日本ミャク景」のユニクロ限定Tシャツ",
+   "summary_ja": "大阪・関西万博のミャクミャクをモチーフにした47都道府県ご当地グッズ「日本ミャク景」から、たこ焼き姿などをデザインしたユニクロ限定Tシャツが登場する。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
    "has_detail": true
   },
   {
@@ -6517,150 +6667,6 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "c4dbedb82727c621",
-   "url": "https://news.yahoo.co.jp/articles/e07af6681863f1e151165fa443efbfc59b89750c",
-   "title_original": "ユニクロ×「マイクラ」の新コレクションが11月下旬に発売決定（GAME Watch）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00000028-impgmw-000-2-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T08:42:00+00:00",
-   "title_ja": "ユニクロが「マインクラフト」とのコラボ商品を11月下旬に発売へ",
-   "summary_ja": "ユニクロは人気ゲーム「マインクラフト」とコラボレーションした新コレクションを11月下旬に発売する。スウェットシャツやコットンステテコなどのアイテムがラインナップされる。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "7d2f88bfc29275b5",
-   "url": "https://indiantelevision.com/mam/uniqlo-distributes-4000-heattech-garments-to-ladakh-communities",
-   "title_original": "UNIQLO distributes 4,000 HEATTECH garments to Ladakh communities",
-   "source": "Indian Television Dot Com",
-   "image": "https://indiantelevision.com/wp-content/uploads/2026/10/UNIQLO-1000x600.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T08:31:00+00:00",
-   "title_ja": "ユニクロがインドのラダック地域でヒートテック4000着を支援配布",
-   "summary_ja": "ユニクロはインドのラダック地域のコミュニティに向け、ヒートテック4,000着を寄付・配布した。寒冷地で生活する現地の住民を支援するための取り組みとなっている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "e7e0bdd13b5f8f40",
-   "url": "https://www.sumaitoseikatsu.yokohama/archives/68699",
-   "title_original": "本と遊びが融合した体験型キッズテーマパーク「Muchu Planet ユニクロパーク 横浜ベイサイド」10月31日(土)グランドオープン",
-   "source": "横浜で暮らそう",
-   "image": "https://www.sumaitoseikatsu.yokohama/wp-content/uploads/2020/08/2020080403.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T07:54:06+00:00",
-   "title_ja": "ユニクロパーク横浜ベイサイドに体験型キッズパークが開業へ",
-   "summary_ja": "「ユニクロパーク 横浜ベイサイド」内に、本と遊びが融合した体験型キッズテーマパーク「Muchu Planet」が10月31日にグランドオープンを迎える。子どもが楽しめる新しい体験型空間を提供する。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "d5604ae5df2b525a",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68469",
-   "title_original": "ユニクロ上海旗艦店刷新 日系小売中国で店舗見直しの動き",
-   "source": "NHKニュース",
-   "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68469/20261030de68469_E0000128017_1_l.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T07:26:00+00:00",
-   "title_ja": "ユニクロが上海旗艦店を刷新、中国での店舗再編が進む",
-   "summary_ja": "ユニクロが中国・上海にある旗艦店をリニューアルオープンした。中国における消費行動の変化に対応するため、日系小売企業が現地での店舗展開を見直す動きの一環となっている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "4d6e5cdb493978f1",
-   "url": "https://thecsruniverse.com/articles/uniqlo-distributes-4-000-thermal-clothing-items-in-ladakh",
-   "title_original": "UNIQLO Distributes 4,000 Thermal Clothing Items in Ladakh",
-   "source": "The CSR Universe",
-   "image": "https://thecsruniverse.com/media/20261030125814.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T07:26:00+00:00",
-   "title_ja": "ユニクロがインドのラダック地方で防寒衣料4000着を寄贈",
-   "summary_ja": "ユニクロがインド北部のラダック地方において、地域住民らを対象に4,000着の防寒衣料を配布した。CSR活動の一環として現地での温かい衣類の支援を行っている。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "c820e0063a31e2bf",
-   "url": "https://insideretail.asia/2026/10/30/uniqlo-opens-revamped-store-in-shanghai",
-   "title_original": "Uniqlo opens revamped store in Shanghai",
-   "source": "Inside Retail Asia",
-   "image": "https://insideretail.asia/wp-content/uploads/2026/10/IR-Uniqlo-opens-revamped-store-in-Shanghai.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T04:26:53+00:00",
-   "title_ja": "ユニクロが中国・上海で改装したリニューアル店舗をオープン",
-   "summary_ja": "ユニクロは、中国の上海にて店舗の改装を行い、リニューアルオープンを果たした。購買体験の向上を目指し、店内環境やサービスを新しく整えることで、現地顧客へのアプローチ強化を図っている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "39ce584d9c166d0a",
-   "url": "https://www.brandinginasia.com/uniqlo-announces-store-expansions-and-new-openings-in-singapore",
-   "title_original": "UNIQLO Announces Store Expansions and New Openings in Singapore",
-   "source": "Branding in Asia",
-   "image": "https://www.brandinginasia.com/wp-content/uploads/2026/10/UNIQLO-Changi-Airport-.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T04:00:52+00:00",
-   "title_ja": "ユニクロがシンガポールでの店舗拡大と新規出店を発表",
-   "summary_ja": "ユニクロは、シンガポール市場における事業基盤の強化に向けて、既存店舗の拡大および新たな店舗のオープン計画を発表した。東南アジア地域での積極的な出店戦略の一環として展開を進めていく。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "38916f7d1b088dcb",
-   "url": "https://www.modaes.com/global/markets/what-a-pair-of-uniqlo-socks-reveals-about-inflation-in-japan",
-   "title_original": "How a Pair of Uniqlo Socks Reflects Japan’s Inflation Shift",
-   "source": "Modaes",
-   "image": "https://www.modaes.com/global/thumb/eyJ0IjoiZCIsInciOjEyMDAsImgiOjY3NSwibSI6MSwibG0iOjE3OTMyOTM0NDR9/files/2026/15-redaccion-empresas/uniqlo/calcetines-1200.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T04:00:00+00:00",
-   "title_ja": "ユニクロの靴下の価格変化が映し出す日本経済のインフレ傾向",
-   "summary_ja": "ユニクロが販売する靴下の価格変動を通して、長年デフレが続いていた日本経済におけるインフレへのシフトを分析する報道がなされている。身近な定番商品の価格推移から物価上昇の影響が考察されている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "000b52c969919cb6",
-   "url": "https://news.yahoo.co.jp/articles/851c7265304da7025f902673d094ef92788a7769/images/000",
-   "title_original": "ハリウッド俳優が世界文化賞の授賞式で着用した黒スーツ、実は「ユニクロ」だった⇒「これは痺れます！」と驚きの声",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQtEeZEAgYrw-n02oQ-Sbldr6bPNVUmTyjBP-DMbQNLkegOwT_6pDJCEKygJ835GCRWB5Zkb40egf1G7Q1iSLa-erpU4MMbzGknSdJZOGL8PwtSx_DNgD7khSygbYfCA8g==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T03:36:07+00:00",
-   "title_ja": "ハリウッド俳優が世界文化賞でユニクロのスーツ着用",
-   "summary_ja": "世界文化賞の授賞式でハリウッド俳優が着用していた黒いスーツがユニクロのものだったことが判明し、大きな驚きと称賛の声が集まっています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
    "detail_tries": 2
   }
  ]
