@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T04:22:52.052020+09:00",
+ "updated_at": "2026-11-21T13:40:35.861735+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -23,11 +23,11 @@
   "A1 Retail Magazine",
   "AOL.co.uk",
   "Alvinology",
+  "Anime News Network",
   "Anmo Sugoi",
   "AugustMan Singapore",
   "BAILA（バイラ）",
   "BRABO News",
-  "Billionaires.Africa",
   "Branding in Asia",
   "Business News Wales",
   "Business Post",
@@ -61,12 +61,12 @@
   "Glitz",
   "Global South Opportunities",
   "Great Deals Singapore",
+  "HardwareZone Singapore",
   "Her.ie",
   "Howl.Link",
   "Hypebae",
   "Hypebeast",
   "IFAB MEDIA",
-  "IMPACT Magazine",
   "India Retailing",
   "Indian Retailer",
   "Inside Retail Asia",
@@ -74,6 +74,7 @@
   "Irish Examiner",
   "It's On Cardiff",
   "J-CAST ニュース",
+  "JAPAN HOUSE Los Angeles",
   "JBpress",
   "JOE.ie",
   "KISS.ie",
@@ -87,6 +88,7 @@
   "Lmaga.jp",
   "L’Express Franchise",
   "Malay Mail",
+  "Manila Bulletin",
   "Mantan Web",
   "Marie Claire",
   "Marketing-Interactive",
@@ -176,7 +178,6 @@
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "デイリースポーツ",
-  "トラベル Watch",
   "ナタリー",
   "ハフポスト",
   "ハリウッド・リポーター・ジャパン",
@@ -187,6 +188,7 @@
   "モデルプレス",
   "一般財団法人 日本気象協会",
   "中国新聞デジタル",
+  "亜州日報",
   "京都新聞デジタル",
   "企業家倶楽部",
   "佐賀新聞",
@@ -206,7 +208,6 @@
   "朝日新聞",
   "東京バーゲンマニア",
   "東京大学",
-  "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
   "毎日キレイ",
   "毎日新聞",
   "沖縄タイムス社",
@@ -224,51 +225,100 @@
   "파이낸셜뉴스"
  ],
  "count": 400,
- "detail_count": 239,
+ "detail_count": 240,
  "digest": {
-  "headline": "ファーストリテイリングが持続可能性と未来戦略を発表、各ブランドで注目コラボも続々",
+  "headline": "ファーストリテイリングの経営戦略と話題のコラボ新作まとめ",
   "points": [
    {
-    "text": "ファーストリテイリングは年次サステナビリティ説明会を開催し、社会貢献と事業成長の両立を目指す方針を示したが、サプライチェーン全体の排出量増加という課題も浮き彫りとなっている。",
+    "text": "ファーストリテイリングは年次サステナビリティ説明会を開催し、スコープ3排出量の増加見込みなど課題を抱えつつも、サステナビリティと事業成長の両立や次の成長段階を目指す方針を示しました。",
     "ids": [
      "97d378d6e55e20d2",
-     "2e8dd53ada66dcc3"
+     "2e8dd53ada66dcc3",
+     "68e890b70718ad5a"
     ]
    },
    {
-    "text": "柳井正会長兼社長が今後の展望を語り、世界一のアパレル企業という目標の先に見据える新たな服の産業革命を起こす決意を示した。",
+    "text": "柳井正会長兼社長は世界トップのアパレル企業という目標のさらに先を見据え、新たな服の産業革命を起こす決意を語っています。",
     "ids": [
      "14e5b3b66c8bf5ad",
      "1e36812774e737b4"
     ]
    },
    {
-    "text": "ユニクロはセシリー・バンセンとの冬向けコラボコレクションの販売を開始したほか、スタジオジブリやハローキティ、サンリオキャラクターズの新作UTも発表・発売されている。",
+    "text": "ユニクロではセシリー・バンセンとの冬向けコラボコレクションや、スタジオジブリ、サンリオ、ハローキティなどの新作UTが発表・発売され、注目を集めています。",
     "ids": [
+     "c429564cedc529a1",
      "dc6b52a5908298f1",
-     "0df8b6778b7f4d64",
-     "bbd5c3181de4ae2a"
+     "62165855005193e8"
     ]
    },
    {
-    "text": "ジーユーでは人気キャラクター「ちいかわ」との新作コラボ商品が発売され、整理券の配布や品切れに伴う追加予約が大きな話題となっている。",
+    "text": "GUでは「ちいかわ」との冬の新作コラボが発売され、整理券の配布や追加予約が行われるなど大きな話題となりました。",
     "ids": [
      "d9d0d48d2ddf8878",
      "0e6d3c46790fc61d"
     ]
    },
    {
-    "text": "SNSではGUのちいかわポーチがXで118件投稿されるなど話題を集めている。",
+    "text": "GU ちいかわ ニットはXで104件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-18T04:29:30.333630+09:00",
-  "generated_at": "2026-11-21T04:29:32.331887+09:00",
+  "from": "2026-11-18T13:48:25.075374+09:00",
+  "generated_at": "2026-11-21T13:48:26.653666+09:00",
   "article_count": 24,
-  "sig": "686a957d03e7"
+  "sig": "578f7b48efee"
  },
  "items": [
+  {
+   "id": "9edef289f2609663",
+   "url": "https://mb.com.ph/2026/11/21/uniqlo-invests-in-the-future-of-filipino-learners",
+   "title_original": "Uniqlo invests in the future of Filipino learners",
+   "source": "Manila Bulletin",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T03:22:12+00:00",
+   "title_ja": "ユニクロがフィリピンの学習者支援に投資、教育支援活動を推進",
+   "summary_ja": "ユニクロがフィリピンにおいて、将来を担う学習者を支援する取り組みを実施している。教育環境の整備や学習機会の提供を通じて、現地コミュニティへの貢献と持続可能な社会作りに取り組む。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e950dbdd4db194f2",
+   "url": "https://www.hardwarezone.com.sg/entertainment/uniqlo-studio-ghibli-ut-collection-singapore",
+   "title_original": "UNIQLO’s new Studio Ghibli UT collection arrives in Singapore on 18 December",
+   "source": "HardwareZone Singapore",
+   "image": "https://cassette.sphdigital.com.sg/image/hardwarezone/c7300a1ec8649d5d16ae2fd75e9bab73ffbb6ebf9e8336d9d5f4f3c32486de8f",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T01:45:00+00:00",
+   "title_ja": "ユニクロのジブリUT新作、シンガポールで12月18日発売へ",
+   "summary_ja": "ユニクロがスタジオジブリとコラボレーションした新しいUTコレクションが、12月18日にシンガポールで発売される。現地でも注目が集まる話題の新作コレクションとなる。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c429564cedc529a1",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-20/uniqlo-unfurls-new-studio-ghibli-t-shirts/.244028",
+   "title_original": "Uniqlo Unfurls New Studio Ghibli T-Shirts",
+   "source": "Anime News Network",
+   "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/herald/203242/usgoods-493591-sub6-3x4.jpg.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T22:00:00+00:00",
+   "title_ja": "ユニクロがスタジオジブリとの新作コラボTシャツを発表",
+   "summary_ja": "ユニクロがスタジオジブリとの新しいコラボTシャツコレクションを発表した。人気のジブリ作品をモチーフにしたデザインがラインナップされており、アニメファンやユニクロファンに向けて展開される。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "dc6b52a5908298f1",
    "url": "https://fashionmagazine.com/style/uniqlo-x-cecilie-bahnsen-is-back-with-a-winter-ready-collection-more-fashion-news",
@@ -283,7 +333,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "88343e1e64ac6ffa",
@@ -347,7 +397,23 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "a393a50a851164e4",
+   "url": "https://m.jp.ajunews.com/view/20261120180070617",
+   "title_original": "ユニクロ、低所得の独居高齢者3万5000人にヒートテック7万枚寄付",
+   "source": "亜州日報",
+   "image": "https://image.ajunews.com/content/image/2026/11/20/20261120175602505500.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-20T09:00:00+00:00",
+   "title_ja": "ユニクロが低所得の独居高齢者3万5000人にヒートテック7万枚を寄付",
+   "summary_ja": "ユニクロが低所得の独居高齢者3万5000人を対象に、ヒートテック計7万枚を寄付した。寒さの厳しくなる季節に向けて、困窮する高齢者の生活支援を目的とした取り組みとなっている。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "58f5cb8c5e9436e2",
@@ -363,7 +429,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d9d0d48d2ddf8878",
@@ -395,7 +461,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "07ae981fc94c6655",
@@ -408,6 +474,22 @@
    "published": "2026-11-20T04:46:00+00:00",
    "title_ja": "ユニクロ、シンガーBadaと協力し高齢者へHEATTECHとキムチを提供",
    "summary_ja": "ユニクロは歌手バダと共同で、冬季に高齢者が暖かく過ごせるようHEATTECHとキムチを配布する取り組みを開始した。防寒と健康支援を目的としたこの活動は、韓国の伝統食品と同社の保温インナーを組み合わせたものだ。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "c0946170c592e9b3",
+   "url": "https://www.asiae.co.kr/en/article/2026112013344533948",
+   "title_original": "[Photo] Singer Bada Joins Kimchi-Sharing Volunteer Effort in Geoje, Continuing Warm Partnership with Uniqlo for Second Year in a Row",
+   "source": "아시아경제",
+   "image": "https://cphoto.asiae.co.kr/listimglink/1/2026112013335817654_1795149238.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T04:45:00+00:00",
+   "title_ja": "歌手のBada Joが巨済でのキムチ分けボランティアに参加",
+   "summary_ja": "歌手のBada Joが巨済市で行われたキムチ分けボランティア活動に参加した。ユニクロとの温かいパートナーシップが2年連続で続いている。",
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
@@ -443,7 +525,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "bbd5c3181de4ae2a",
@@ -683,7 +765,7 @@
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e767786a98df6bb0",
@@ -828,6 +910,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "f643555d90f0983b",
+   "url": "https://www.japanhousela.com/events/jhlaf-mufg-bank-cultural-awareness-four-koji-yanai-uniqlo-dodgers-displacement-film-fund",
+   "title_original": "Made for All | UNIQLO’s Film & Social Impact An Evening with Koji Yanai",
+   "source": "JAPAN HOUSE Los Angeles",
+   "image": "https://www.japanhousela.com/wp-content/uploads/2026/11/UNIQLO-Dodgers-Heart-LifeWear-Featured.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T02:33:36+00:00",
+   "title_ja": "米ロサンゼルスでユニクロの映像作品と社会的影響を語るイベント開催",
+   "summary_ja": "ジャパン・ハウス ロサンゼルスにて、ユニクロの映像表現や社会的影響力に焦点を当てたイベントが開催されます。ファーストリテイリング幹部の柳井康治氏が登壇し、ブランドの取り組みや理念について紹介する予定です。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "detail_tries": 1
   },
   {
    "id": "14e5b3b66c8bf5ad",
@@ -6571,102 +6669,6 @@
    "category": "海外展開",
    "brand": "グループ",
    "importance": 5,
-   "has_detail": true
-  },
-  {
-   "id": "45f3a27330aab817",
-   "url": "https://www.sanyonews.jp/article/1954834?rct=oricon_news&kw=%E7%A6%8F%E7%A5%88",
-   "title_original": "ユニクロ、猛暑の“服選び” オフィス・真夏のキッチン・熱帯夜の寝室…“8つのシーン”で紹介",
-   "source": "山陽新聞",
-   "image": "https://static.sanyonews.jp/image/article/size1/d/0/1/3/d013a4015587b5d61826489fb81611b1_1.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T16:43:07+00:00",
-   "title_ja": "ユニクロが猛暑対策の服選びを提案 8つのシーン別着こなしを紹介",
-   "summary_ja": "ユニクロは猛暑に向けた服選びのポイントを提案した。オフィスや真夏のキッチン、熱帯夜の寝室など8つの具体的なシーンに合わせ、快適に過ごすための着こなしを紹介している。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "95d1e920ddb8e152",
-   "url": "https://www.billionaires.africa/2026/10/30/japanese-billionaire-tadashi-yanais-firm-sues-maui-landowner-over-water-bills",
-   "title_original": "Japanese billionaire Tadashi Yanai's firm sues Maui landowner over water bills",
-   "source": "Billionaires.Africa",
-   "image": "https://storage.ghost.io/c/08/35/0835e1b0-0cd7-4c1a-8c28-d6f7bc4d9c84/content/images/2026/10/IMG_5894.PNG",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T16:13:15+00:00",
-   "title_ja": "柳井正氏のファストリ、マウイ島の土地所有者を提訴",
-   "summary_ja": "ファーストリテイリングの柳井正会長兼社長の関連企業が、マウイ島の土地所有者に対して水道料金を巡る訴訟を起こしたと報じられた。詳細は現地での法的手続きに注目が集まっている。",
-   "category": "業績・経営",
-   "brand": "グループ",
-   "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "05ddb3b57ad798ac",
-   "url": "https://musashikosugi.blog.shinobi.jp/Entry/7401",
-   "title_original": "ユニクロ武蔵小杉東急スクエア店が拡張オープン、「三ちゃん食堂」「ぱぱぱぱーん」限定コラボなど地域密着コーナーも充実",
-   "source": "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
-   "image": "https://nblog.cnobi.jp/v1/blog/user/0ad47e9f18d9065b97b411739eb8d18f/1677403099",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T14:46:40+00:00",
-   "title_ja": "ユニクロ武蔵小杉東急スクエア店が売場を拡大して再オープン",
-   "summary_ja": "武蔵小杉東急スクエア店が売り場を広げてリニューアルオープンした。地元の名店「三ちゃん食堂」や「ぱぱぱぱーん」との限定コラボ商品など、地域に根差した企画コーナーも充実させている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "aed466353288529f",
-   "url": "https://www.impactonnet.com/more-from-impact/uniqlo-partners-with-17000-ft-foundation-to-distribute-heattech-thermals-in-ladakh-17376.html",
-   "title_original": "UNIQLO partners with 17000 ft Foundation to distribute HEATTECH thermals in Ladakh",
-   "source": "IMPACT Magazine",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T13:39:46+00:00",
-   "title_ja": "ユニクロ、ラダックの子供たちにヒートテックを寄贈へ",
-   "summary_ja": "ユニクロは17000 ft Foundationと提携し、インド・ラダック地方の住民や子供たちに向けて、寒さ対策として高機能保温衣料「ヒートテック」の配布を実施する。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "1f1ca5c2fab7edc0",
-   "url": "https://mainichi.jp/english/articles/20261030/p2g/00m/0bu/063000c",
-   "title_original": "Uniqlo opens revamped shop in Shanghai amid sluggish China consumption",
-   "source": "毎日新聞",
-   "image": "https://cdn.mainichi.jp/vol1/2026/10/30/20261030p2g00m0bu062000p/0c10.jpg?1",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T13:33:32+00:00",
-   "title_ja": "ユニクロ、消費低迷の中国・上海で大型店舗を改装刷新",
-   "summary_ja": "消費の鈍化が続く中国市場において、ユニクロは上海の店舗を改装して新たにオープンした。現地での販売強化に向けた戦略的な店舗リニューアルとして注目されている。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "81c5ebebf47e4f7d",
-   "url": "https://travel.watch.impress.co.jp/docs/news/2152794.html",
-   "title_original": "ユニクロ、梅田限定「ミャクミャク」Tシャツ＆バッグ本日発売。スタンプや刺繍でオリジナルも作れる 「UNIQLO UMEDA」1周年祭",
-   "source": "トラベル Watch",
-   "image": "https://travel.watch.impress.co.jp/img/trw/list/2152/794/00.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T11:53:16+00:00",
-   "title_ja": "ユニクロ梅田店、ミャクミャク限定商品を発売",
-   "summary_ja": "「UNIQLO UMEDA」の1周年を記念し、大阪・関西万博のミャクミャクをあしらったTシャツとバッグが本日より限定発売されます。刺繍やスタンプでカスタマイズも可能です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
    "has_detail": true
   }
  ]
