@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T13:40:35.861735+09:00",
+ "updated_at": "2026-11-21T22:51:17.839052+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -202,7 +202,6 @@
   "日刊スポーツ",
   "日本経済新聞",
   "日経ビジネス電子版",
-  "映画.com",
   "時事ドットコム",
   "時事通信ニュース",
   "朝日新聞",
@@ -227,48 +226,50 @@
  "count": 400,
  "detail_count": 240,
  "digest": {
-  "headline": "ファーストリテイリングの経営戦略と話題のコラボ新作まとめ",
+  "headline": "FRの戦略やサステナ課題、ユニクロ・GUの注目コラボが話題に",
   "points": [
    {
-    "text": "ファーストリテイリングは年次サステナビリティ説明会を開催し、スコープ3排出量の増加見込みなど課題を抱えつつも、サステナビリティと事業成長の両立や次の成長段階を目指す方針を示しました。",
-    "ids": [
-     "97d378d6e55e20d2",
-     "2e8dd53ada66dcc3",
-     "68e890b70718ad5a"
-    ]
-   },
-   {
-    "text": "柳井正会長兼社長は世界トップのアパレル企業という目標のさらに先を見据え、新たな服の産業革命を起こす決意を語っています。",
+    "text": "ファーストリテイリング柳井会長が世界一の先を見据える戦略を語り、サステナビリティ説明会では事業成長と排出削減の両立が課題とされた。",
     "ids": [
      "14e5b3b66c8bf5ad",
-     "1e36812774e737b4"
+     "97d378d6e55e20d2",
+     "2e8dd53ada66dcc3"
     ]
    },
    {
-    "text": "ユニクロではセシリー・バンセンとの冬向けコラボコレクションや、スタジオジブリ、サンリオ、ハローキティなどの新作UTが発表・発売され、注目を集めています。",
+    "text": "ユニクロはセシリー・バンセンとの冬向けコラボコレクションの販売を開始。フリースを北欧バレエコア調にしたアイテムなどを展開している。",
     "ids": [
-     "c429564cedc529a1",
      "dc6b52a5908298f1",
-     "62165855005193e8"
+     "88343e1e64ac6ffa",
+     "bbd5c3181de4ae2a"
     ]
    },
    {
-    "text": "GUでは「ちいかわ」との冬の新作コラボが発売され、整理券の配布や追加予約が行われるなど大きな話題となりました。",
+    "text": "GUが「ちいかわ」との冬の新作コラボを発売。ニットやポーチが登場し、整理券配布や品切れに伴う追加予約の実施など大きな話題を呼んでいる。",
     "ids": [
      "d9d0d48d2ddf8878",
-     "0e6d3c46790fc61d"
+     "0e6d3c46790fc61d",
+     "8b45401e6ac4fd7b"
     ]
    },
    {
-    "text": "GU ちいかわ ニットはXで104件投稿されました。",
+    "text": "ユニクロはスタジオジブリとの新作コラボUTを発表しシンガポールでも展開するほか、フィリピンでの学習者支援など教育支援を推進している。",
+    "ids": [
+     "c429564cedc529a1",
+     "e950dbdd4db194f2",
+     "9edef289f2609663"
+    ]
+   },
+   {
+    "text": "SNSでは「GU ちいかわ ポーチ」がXで3日に177件投稿されたほか、「GU ちいかわ ニット」もXで3日に118件投稿されている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-18T13:48:25.075374+09:00",
-  "generated_at": "2026-11-21T13:48:26.653666+09:00",
+  "from": "2026-11-18T23:03:56.258486+09:00",
+  "generated_at": "2026-11-21T23:05:13.676582+09:00",
   "article_count": 24,
-  "sig": "578f7b48efee"
+  "sig": "fa3489d5bcc8"
  },
  "items": [
   {
@@ -285,7 +286,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e950dbdd4db194f2",
@@ -464,6 +465,22 @@
    "detail_tries": 2
   },
   {
+   "id": "f5b6e5d1270ba2e6",
+   "url": "https://www.asiae.co.kr/en/article/2026112013364983244",
+   "title_original": "[Photo] \"We're Coming in Person\" Singer Bada and Uniqlo Make Kimchi and Visit Elderly People Living Alone, Bringing Warmth",
+   "source": "아시아경제",
+   "image": "https://cphoto.asiae.co.kr/listimglink/1/2026112013362017662_1795149379.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-20T04:47:00+00:00",
+   "title_ja": "韓国ユニクロが歌手パダとキムチ作り、高齢者宅を訪問し支援",
+   "summary_ja": "韓国のユニクロが歌手のパダとともにキムチ作りの支援活動を実施した。参加者は手作りのキムチを携えて一人暮らしの高齢者宅を直接訪問し、心温まる交流と支援を届けている。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "07ae981fc94c6655",
    "url": "https://www.asiae.co.kr/en/article/2026112013354458577",
    "title_original": "[Photo] Singer Bada and Uniqlo Deliver HEATTECH and Kimchi to Help Seniors Stay Warm This Winter",
@@ -574,6 +591,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
+  },
+  {
+   "id": "26393dd3ff36e8c9",
+   "url": "https://www.vietnam.vn/en/uniqlo-viet-nam-co-tan-tong-giam-doc-tung-dieu-hanh-tai-my-va-uc",
+   "title_original": "UNIQLO Vietnam has a new General Manager, who previously managed operations in the US and Australia.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/19/1795098170859_tnw-anh-man-hinh-2026-11-19-luc-203254-17950956955971637968177-253-0-1007-1440-crop-179509575448366942434.png",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-19T14:11:00+00:00",
+   "title_ja": "ベトナムユニクロの新事業責任者に米国・豪州を率いた人物が就任",
+   "summary_ja": "ベトナムユニクロの新しい最高責任者が着任した。新経営トップは、これまでに米国やオーストラリアでの事業運営や店舗展開を統括した実績を持つ。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "b755941bf1074f12",
@@ -925,7 +958,7 @@
    "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 2,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "14e5b3b66c8bf5ad",
@@ -6637,38 +6670,6 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 2,
-   "has_detail": true
-  },
-  {
-   "id": "a2b2262cbd5748c3",
-   "url": "https://eiga.com/news/20261031/1",
-   "title_original": "ケイト・ブランシェットが読書と“つながり”を語るユニクロ女性文芸プロジェクト 川上未映子らとディスカッション",
-   "source": "映画.com",
-   "image": "https://media.eiga.com/images/buzz/130172/1a99c89e3b8ec695.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-30T22:00:00+00:00",
-   "title_ja": "ユニクロの女性文芸プロジェクトにケイト・ブランシェット登壇　読書と絆語る",
-   "summary_ja": "ユニクロが展開する女性文芸プロジェクトのイベントに、俳優のケイト・ブランシェットや作家の川上未映子らが登壇した。参加者たちは読書や他者との対話を通じた「つながり」をテーマにディスカッションを行った。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7836d009d26359f2",
-   "url": "https://asia.nikkei.com/business/retail/uniqlo-shakes-up-china-strategy-with-focus-on-store-profitability",
-   "title_original": "Uniqlo shakes up China strategy with focus on store profitability",
-   "source": "Nikkei Asia",
-   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F3%2F4%2F4%2F13384437-1-eng-GB%2Fd10eeee990db-photo_SXM2026103000004185.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-30T19:05:58+00:00",
-   "title_ja": "ユニクロ、中国市場で店舗の収益性重視へ戦略を転換",
-   "summary_ja": "ファーストリテイリングは、中国市場における戦略を刷新し、新規出店のペースよりも個々の店舗における収益性を高める方針へと舵を切っています。海外展開における重要な転換点となります。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 5,
    "has_detail": true
   }
  ]
