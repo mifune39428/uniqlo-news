@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T22:51:17.839052+09:00",
+ "updated_at": "2026-11-22T07:33:08.663990+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -85,6 +85,7 @@
   "LIMO | くらしとお金の経済メディア",
   "Leaf KYOTO",
   "Lifestyle Asia Hong Kong",
+  "LionhearTV",
   "Lmaga.jp",
   "L’Express Franchise",
   "Malay Mail",
@@ -174,7 +175,6 @@
   "オリコンニュース",
   "コラボカフェ",
   "ゴゴ通信",
-  "スクリーンオンライン",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "デイリースポーツ",
@@ -224,20 +224,19 @@
   "파이낸셜뉴스"
  ],
  "count": 400,
- "detail_count": 240,
+ "detail_count": 241,
  "digest": {
-  "headline": "FRの戦略やサステナ課題、ユニクロ・GUの注目コラボが話題に",
+  "headline": "ファーストリテイリングの戦略と新作コラボが続々登場",
   "points": [
    {
-    "text": "ファーストリテイリング柳井会長が世界一の先を見据える戦略を語り、サステナビリティ説明会では事業成長と排出削減の両立が課題とされた。",
+    "text": "ファーストリテイリングはサステナビリティ説明会を開催し、スコープ3排出量の増加見込みなど事業成長と環境負荷低減の両立に課題を示した。",
     "ids": [
-     "14e5b3b66c8bf5ad",
      "97d378d6e55e20d2",
      "2e8dd53ada66dcc3"
     ]
    },
    {
-    "text": "ユニクロはセシリー・バンセンとの冬向けコラボコレクションの販売を開始。フリースを北欧バレエコア調にしたアイテムなどを展開している。",
+    "text": "ユニクロとセシリー・バンセンによるフリースを北欧バレエコア調に表現した冬向けコラボコレクションの販売が各地で開始された。",
     "ids": [
      "dc6b52a5908298f1",
      "88343e1e64ac6ffa",
@@ -245,33 +244,72 @@
     ]
    },
    {
-    "text": "GUが「ちいかわ」との冬の新作コラボを発売。ニットやポーチが登場し、整理券配布や品切れに伴う追加予約の実施など大きな話題を呼んでいる。",
+    "text": "GUから人気キャラクター「ちいかわ」との冬の新作おでかけ着コラボが発売され、整理券配布や追加予約の実施が話題となった。",
     "ids": [
      "d9d0d48d2ddf8878",
-     "0e6d3c46790fc61d",
-     "8b45401e6ac4fd7b"
+     "0e6d3c46790fc61d"
     ]
    },
    {
-    "text": "ユニクロはスタジオジブリとの新作コラボUTを発表しシンガポールでも展開するほか、フィリピンでの学習者支援など教育支援を推進している。",
-    "ids": [
-     "c429564cedc529a1",
-     "e950dbdd4db194f2",
-     "9edef289f2609663"
-    ]
-   },
-   {
-    "text": "SNSでは「GU ちいかわ ポーチ」がXで3日に177件投稿されたほか、「GU ちいかわ ニット」もXで3日に118件投稿されている。",
+    "text": "GU ちいかわ GUはXで170件投稿された。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-18T23:03:56.258486+09:00",
-  "generated_at": "2026-11-21T23:05:13.676582+09:00",
+  "from": "2026-11-19T07:40:02.695101+09:00",
+  "generated_at": "2026-11-22T07:40:04.517963+09:00",
   "article_count": 24,
-  "sig": "fa3489d5bcc8"
+  "sig": "09bfb2f597b1"
  },
  "items": [
+  {
+   "id": "bba58966b675249b",
+   "url": "https://news.yahoo.co.jp/articles/f69b4b678de6e58ba1d871a5ab7676be770910cc",
+   "title_original": "スヌーピーにほっこり！ユニクロ「ピーナッツ UT」新作は、〈ハートに囲まれた姿〉や〈刺しゅう入りボーダー〉も（LIMO）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-90000568-toushin-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-21T22:15:33+00:00",
+   "title_ja": "ユニクロ「ピーナッツ UT」新作が登場 刺繍入りボーダーやデザイン展開",
+   "summary_ja": "ユニクロのTシャツブランド「UT」からスヌーピーが登場する「ピーナッツ」の新作コレクションが発売される。ハートに囲まれたデザインや刺しゅう入りのボーダー柄などがラインナップされている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "0c6cc8f18c594d33",
+   "url": "https://limo.media/articles/-/146878",
+   "title_original": "〈スヌーピー〉好きは見逃せない！ユニクロ「PEANUTS」1990円Tシャツに新作3柄！ハートに囲まれた姿や刺しゅう入りボーダーも 2026年12月中旬発売予定！大人のカジュアルスタイルにも取り入れやすいアイテム | 概要 | LIMO | くらしとお金の経済メディア",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://img.limo.media/mw/d41ee77b6ebcabae23f639f5f24fb754216857.jpg?v=1&variant=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-21T22:10:00+00:00",
+   "title_ja": "ユニクロ「PEANUTS」Tシャツに新作3柄、12月中旬より発売へ",
+   "summary_ja": "ユニクロは「PEANUTS」コレクションの1990円Tシャツに新作3柄を追加し、2026年12月中旬に発売する。スヌーピーがハートに囲まれたデザインや刺繍入りのボーダー柄などが登場し、大人のカジュアルコーデにも取り入れやすいラインナップとなっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "2fd660f6c7cad652",
+   "url": "https://www.lionheartv.net/2026/11/uniqlo-philippines-launches-shop-win-promo-for-a-business-class-trip-for-two-to-tokyo",
+   "title_original": "UNIQLO Philippines Launches 'Shop & Win' Promo for a Business-Class Trip for Two to Tokyo",
+   "source": "LionhearTV",
+   "image": "https://www.lionheartv.net/wp-content/uploads/2026/11/UNIQLO-Philippines-Launches-Shop-amp-Win-Pro-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-21T17:44:19+00:00",
+   "title_ja": "フィリピンのユニクロ、東京行き航空券が当たるキャンペーンを開始",
+   "summary_ja": "ユニクロのフィリピン法人が、ペアで東京へのビジネスクラス旅行が当たる「Shop & Win」プロモーションを開始した。現地店舗やオンラインでの購入者を対象に特別企画を実施し、日本への旅行機会を提供するキャンペーンとなっている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
   {
    "id": "9edef289f2609663",
    "url": "https://mb.com.ph/2026/11/21/uniqlo-invests-in-the-future-of-filipino-learners",
@@ -513,6 +551,38 @@
    "has_detail": true
   },
   {
+   "id": "11f9bf33c819c696",
+   "url": "https://news.yahoo.co.jp/articles/69c1b4f0cf79d8e11ba8a5f7ba635cde9983ca39/images/000",
+   "title_original": "【ユニクロ感謝祭】店舗でもらえる“まさかのプレゼント“にネットざわつく「悩んでる場合じゃない。早く行かなきゃ」「かわいいサイズ」「すっごくうれしい」 (ねとらぼ)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26qaEGuSrN60KL-CXZOj-Y-SsPyebWMSd46cIVTPfCJjkLdNLOT6YAhIBdaO4VEJY0pXAICcL0NAxnEaT823MrimSSMBlMpiklWB-15IOIaha_ykjMrmpUQvCvvW9-k2bsg==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-20T04:20:00+00:00",
+   "title_ja": "ユニクロ感謝祭のプレゼントがネット上で話題に",
+   "summary_ja": "ユニクロが実施する「感謝祭」において、店舗で配布されるプレゼント企画がインターネット上で大きな反響を呼んでいる。訪れた客からは、早めの来店を促す声や配布アイテムへの喜びの投稿が寄せられている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "e5ff8f4444091574",
+   "url": "https://news.yahoo.co.jp/articles/e3e22611c3593967532dea3119184a73de11decd?page=2",
+   "title_original": "「朝から大盛況」ユニクロ『感謝祭』のお礼品に長蛇の列。豪華購入特典は4日間限定（朝日新聞デジタルマガジン＆［and］）",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-11810342-asahiand-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-20T03:51:56+00:00",
+   "title_ja": "ユニクロ感謝祭が開幕、4日間限定のお礼品に長蛇の列",
+   "summary_ja": "ユニクロのセールイベント「感謝祭」が始まり、4日間限定で用意された購入特典やお礼品を求めて朝から長蛇の列ができるなど大盛況となっている。初日から多くの買い物客が店舗へ詰めかけている。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "0e6d3c46790fc61d",
    "url": "https://gogotsu.com/archives/75422",
    "title_original": "GU×ちいかわ冬の新作コラボが発売開始！全店舗で整理券配布、品切れ即「追加予約」も話題に",
@@ -667,6 +737,22 @@
    "published": "2026-11-19T10:30:00+00:00",
    "title_ja": "ファーストリテイリングのスコープ3排出量が増加見込み 削減目標に課題",
    "summary_ja": "ファーストリテイリングのサプライチェーンにおける温室効果ガス（スコープ3）排出量が前年度比で増加する見通しとなった。目標引き上げから1年が経過し、事業の成長と排出量の削減を両立させる難しさが浮き彫りになっている。",
+   "category": "サステナビリティ",
+   "brand": "グループ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "bbb57c7035d6541e",
+   "url": "https://www.fashionsnap.com/article/2026-11-19/fast-retailing-sustainability-2026",
+   "title_original": "ファストリ、26年度のスコープ3での温室効果ガス排出量は増加見込み 事業成長との両立に苦戦",
+   "source": "Fashionsnap.com",
+   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/11/f5349437-4f99-44eb-983d-63c230807586.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T09:55:39+00:00",
+   "title_ja": "ファストリ、26年度のサプライチェーン温室効果ガス排出量が増加見込み",
+   "summary_ja": "ファーストリテイリングは、2026年度におけるサプライチェーンなどのスコープ3での温室効果ガス排出量が増加する見通しを示した。事業成長と環境負荷低減の両立に課題が生じている。",
    "category": "サステナビリティ",
    "brand": "グループ",
    "importance": 4,
@@ -6575,102 +6661,6 @@
    "brand": "ユニクロ",
    "importance": 2,
    "detail_tries": 2
-  },
-  {
-   "id": "4dc87b5f02cd69d8",
-   "url": "https://news.yahoo.co.jp/articles/c7c46dc6713522a85faaf9eac7c6a0571b9c91d6",
-   "title_original": "ユニクロ新作〈スヌーピーTシャツ＆スウェット〉プリント＆刺繍で描かれたPEANUTSの仲間たちの「さりげないユーモア」がキュートです（LIMO）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00143000-toushin-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T08:31:02+00:00",
-   "title_ja": "ユニクロからPEANUTSデザインの新作スウェットとTシャツが登場",
-   "summary_ja": "ユニクロから、スヌーピーをはじめとするPEANUTSのキャラクターを描いた新作スウェットやTシャツが登場。プリントや刺繍を取り入れたシンプルかつキュートなデザインが特徴です。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "15e3042945d19c84",
-   "url": "https://limo.media/articles/-/143000",
-   "title_original": "スヌーピーの「さりげないユーモア」が素敵。ユニクロ新作〈PEANUTS スウェット＆Tシャツ〉シンプルでおしゃれ。刺繍入りアイテムも！",
-   "source": "LIMO | くらしとお金の経済メディア",
-   "image": "https://limo.ismcdn.jp/mwimgs/d/4/1200w/img_d41ee77b6ebcabae23f639f5f24fb754216857.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T08:30:00+00:00",
-   "title_ja": "ユニクロがPEANUTS新作スウェット＆Tシャツを発売",
-   "summary_ja": "ユニクロがPEANUTSコレクションの新作としてスウェットやTシャツを発売。スヌーピーたちのユーモアあふれる姿を表現した刺繍やシンプルなデザインのアイテムがそろっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "48a44e542e9abe3e",
-   "url": "https://screenonline.jp/_ct/17873392?o=0&us=16924755",
-   "title_original": "ケイト・ブランシェットがグローバルプロジェクト「stories she tells（ストーリーズ シー テルズ）」をユニクロと共同で始動",
-   "source": "スクリーンオンライン",
-   "image": "https://d1uzk9o9cg136f.cloudfront.net/f/16782943/rc/2026/10/31/8b47b803bab20934b33ede08685e603f87d049bd_xlarge.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T08:15:00+00:00",
-   "title_ja": "ケイト・ブランシェット氏とユニクロが共同プロジェクトを発足",
-   "summary_ja": "俳優のケイト・ブランシェット氏が、ユニクロと共同でグローバルプロジェクト「stories she tells（ストーリーズ シー テルズ）」を始動させたことが明らかになりました。",
-   "category": "広告・タレント",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "bc0a368ad554ac82",
-   "url": "https://khorasantimes.com/?kh=8557&tname=Uniqlo-Okachimachi-Store-Exclusive-Panda-Illustration-Tote-Bag",
-   "title_original": "Uniqlo Okachimachi Store Exclusive! Panda Illustration Tote Bag khorasantimes.com",
-   "source": "khorasantimes.com",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-10-31T04:20:42+00:00",
-   "title_ja": "ユニクロ御徒町店でパンダイラストの限定トートバッグが登場",
-   "summary_ja": "ユニクロ御徒町店において、パンダのイラストがデザインされた限定トートバッグが登場しました。御徒町店でしか手に入らない特別な限定アイテムとして注目を集めています。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "9ba74811da210f43",
-   "url": "http://www.oricon.co.jp/pressrelease/3064743",
-   "title_original": "ミーナ町田、地域とつくる新たな体験プロジェクト「やってみようメイト」を始動",
-   "source": "オリコンニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T02:46:00+00:00",
-   "title_ja": "商業施設「ミーナ町田」が地域連携プロジェクト「やってみようメイト」を開始",
-   "summary_ja": "ファーストリテイリングが運営する商業施設「ミーナ町田」が、地域社会と協働して新たな体験を提供する「やってみようメイト」を始動しました。地域との繋がりを通じて顧客に新しい体験を創出する取り組みです。",
-   "category": "店舗・出店",
-   "brand": "グループ",
-   "importance": 2,
-   "detail_tries": 2
-  },
-  {
-   "id": "9fe90654c6cc7738",
-   "url": "https://news.yahoo.co.jp/articles/86ee93d19197df9c4c21b2b9370a60cf7d18c9d3",
-   "title_original": "「デニムが一番人気、フリースは9000円、レザーは2万円も…」“オールドユニクロ”を高くても買いたい理由（文春オンライン）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00092517-bunshun-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T01:12:17+00:00",
-   "title_ja": "中古市場で人気高まる「オールドユニクロ」高価格でも買われる背景とは",
-   "summary_ja": "過去に販売されたユニクロ製品「オールドユニクロ」が古着市場で注目を集めています。デニムやフリース、レザー商品などが高値で取引される理由や、価値が見直されている背景について伝えられています。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "has_detail": true
   }
  ]
 }
