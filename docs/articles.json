@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T07:33:08.663990+09:00",
+ "updated_at": "2026-11-22T12:55:09.502535+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -57,6 +57,7 @@
   "Forbes JAPAN",
   "GAME Watch",
   "GIGAZINE",
+  "GMA Network",
   "GamerBraves",
   "Glitz",
   "Global South Opportunities",
@@ -153,7 +154,6 @@
   "fashion tech news",
   "hicbc.com",
   "https://connec2.jp/",
-  "https://mediadogs.jp/",
   "https://miyoca.jp/",
   "https://www.misslobang.com/",
   "khorasantimes.com",
@@ -171,6 +171,7 @@
   "ねとらぼ",
   "ぴあエンタメ情報",
   "インサイド",
+  "ウォーカープラス",
   "オトナンサー",
   "オリコンニュース",
   "コラボカフェ",
@@ -226,42 +227,60 @@
  "count": 400,
  "detail_count": 241,
  "digest": {
-  "headline": "ファーストリテイリングの戦略と新作コラボが続々登場",
+  "headline": "ファーストリテイリングがサステナビリティ方針を発表、各ブランドでコラボ新作も続々",
   "points": [
    {
-    "text": "ファーストリテイリングはサステナビリティ説明会を開催し、スコープ3排出量の増加見込みなど事業成長と環境負荷低減の両立に課題を示した。",
+    "text": "ファーストリテイリングは年次サステナビリティ説明会を開催し、事業成長と社会貢献の両立を目指す方針を語りましたが、サプライチェーンの温室効果ガス排出量増加見込みという課題も浮き彫りになりました。",
     "ids": [
      "97d378d6e55e20d2",
-     "2e8dd53ada66dcc3"
+     "2e8dd53ada66dcc3",
+     "68e890b70718ad5a"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンによるフリースを北欧バレエコア調に表現した冬向けコラボコレクションの販売が各地で開始された。",
+    "text": "ユニクロはセシリー・バンセンとの冬向けコラボコレクションや、スタジオジブリ、サンリオ、ハローキティ、ピーナッツなどの多彩な新作UTを発表・発売し、大きな注目を集めています。",
     "ids": [
+     "c429564cedc529a1",
      "dc6b52a5908298f1",
-     "88343e1e64ac6ffa",
-     "bbd5c3181de4ae2a"
+     "58f5cb8c5e9436e2"
     ]
    },
    {
-    "text": "GUから人気キャラクター「ちいかわ」との冬の新作おでかけ着コラボが発売され、整理券配布や追加予約の実施が話題となった。",
+    "text": "ジーユーでは人気キャラクター「ちいかわ」との冬の新作コラボレーションが発売され、整理券の配布や追加予約が行われるなど大きな話題となりました。",
     "ids": [
      "d9d0d48d2ddf8878",
-     "0e6d3c46790fc61d"
+     "0e6d3c46790fc61d",
+     "8b45401e6ac4fd7b"
     ]
    },
    {
-    "text": "GU ちいかわ GUはXで170件投稿された。",
+    "text": "SNSでは「GU ちいかわ GU」がXで3日に210件投稿され、大きな話題となっています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-19T07:40:02.695101+09:00",
-  "generated_at": "2026-11-22T07:40:04.517963+09:00",
+  "from": "2026-11-19T13:04:55.739914+09:00",
+  "generated_at": "2026-11-22T13:04:57.393233+09:00",
   "article_count": 24,
-  "sig": "09bfb2f597b1"
+  "sig": "edae78858816"
  },
  "items": [
+  {
+   "id": "9b37edb6baf91ca0",
+   "url": "https://www.gmanetwork.com/lifestyle/shopping/141428/new-studio-ghibli-t-shirt-collab-to-drop-in-december/story",
+   "title_original": "New Studio Ghibli T-shirt collab to drop in December",
+   "source": "GMA Network",
+   "image": "https://aphrodite.gmanetwork.com/entertainment/articles/900_675_Main2026-06_1122_22-11-2026-1058_-20261122105808.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T10:58:10+00:00",
+   "title_ja": "スタジオジブリの新作コラボTシャツが12月に発売へ",
+   "summary_ja": "スタジオジブリの新しいコラボTシャツコレクションが12月に発売される予定であることが報じられている。ジブリ作品のデザインを取り入れた注目の新作アイテムとして期待が寄せられている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "bba58966b675249b",
    "url": "https://news.yahoo.co.jp/articles/f69b4b678de6e58ba1d871a5ab7676be770910cc",
@@ -292,7 +311,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "2fd660f6c7cad652",
@@ -564,7 +583,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "e5ff8f4444091574",
@@ -821,6 +840,22 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
+  },
+  {
+   "id": "51194a94051b5c8a",
+   "url": "https://www.walkerplus.com/article/1224313",
+   "title_original": "第一号店誕生から40周年！裏路地発のファッションブランド「ユニクロ」が世界を圧巻するビジネスに成長したワケ",
+   "source": "ウォーカープラス",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-19T08:00:00+00:00",
+   "title_ja": "ユニクロ40年の歩みと世界展開の軌跡",
+   "summary_ja": "第一号店の誕生から40周年を迎えたユニクロ。裏路地からスタートした小さなブランドが、いかにして世界的なファッションビジネスへと成長を遂げたのかを振り返ります。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "97d378d6e55e20d2",
@@ -6629,38 +6664,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "8e6c34656f9415dd",
-   "url": "https://www.nishinippon.co.jp/image/1098021",
-   "title_original": "ユニクロ上海グローバル旗艦店の開店でテープカットをするファーストリテイリング幹部ら＝30日、中国上海市（共同） - ユニクロ上海リニューアル 店舗数拡大から選択集中へ - 写真・画像(1/1)",
-   "source": "西日本新聞me",
-   "image": "https://www.nishinippon.co.jp/uploads/image/1954873/sns_PN2026103001001924.-.-.CI0003.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-01T01:28:25+00:00",
-   "title_ja": "ユニクロ上海グローバル旗艦店がリニューアルオープン",
-   "summary_ja": "ファーストリテイリング幹部らが出席し、上海のグローバル旗艦店の開店記念テープカットが行われました。店舗数の拡大から選択と集中へと戦略を移行する中でのリニューアルを伝えています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "813cf71c0c085b98",
-   "url": "https://mediadogs.jp/2026/10/31/mihra-old-uniqlo-researcher-profile",
-   "title_original": "オールドユニクロ研究家・mihra（ミフラ）さんとは何者？ 本業はシューズデザイナー、リサイクルショップの1着から約1000着を集めるまで",
-   "source": "https://mediadogs.jp/",
-   "image": "https://mediadogs.jp/wp-content/uploads/2026/10/eyecatch-138.webp",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-10-31T20:26:02+00:00",
-   "title_ja": "オールドユニクロ研究家・mihra氏が語る約1000着のコレクションと収集の魅力",
-   "summary_ja": "シューズデザイナーのかたわら「オールドユニクロ」を1000着近く収集するmihra氏を取材。リサイクルショップでの出会いをきっかけにコレクションを深めた経緯と魅力を語る。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 2,
-   "detail_tries": 2
   }
  ]
 }
