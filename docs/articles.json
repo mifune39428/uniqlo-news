@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T22:44:38.073482+09:00",
+ "updated_at": "2026-11-23T07:55:49.035898+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -76,7 +76,6 @@
   "It's On Cardiff",
   "J-CAST ニュース",
   "JAPAN HOUSE Los Angeles",
-  "JBpress",
   "JOE.ie",
   "KISS.ie",
   "Korea JoongAng Daily",
@@ -208,6 +207,7 @@
   "朝日新聞",
   "東京バーゲンマニア",
   "東京大学",
+  "東洋経済オンライン",
   "毎日キレイ",
   "毎日新聞",
   "沖縄タイムス社",
@@ -227,50 +227,98 @@
  "count": 400,
  "detail_count": 241,
  "digest": {
-  "headline": "ユニクロとGUの新作コラボ続々、駅伝での健闘も話題に",
+  "headline": "ユニクロとGUの冬の新作コラボや駅伝の入賞が話題",
   "points": [
    {
-    "text": "ユニクロはセシリー・バンセンとの冬向けコレクションやスタジオジブリ、ハローキティなどの新作コラボを発表・発売しました。",
+    "text": "ユニクロはスタジオジブリやセシリー・バンセン、サンリオなどとの冬向け新作コラボやUTコレクションを続々と発表・発売しています。",
     "ids": [
-     "dc6b52a5908298f1",
      "c429564cedc529a1",
-     "62165855005193e8"
+     "dc6b52a5908298f1",
+     "58f5cb8c5e9436e2"
     ]
    },
    {
-    "text": "GUでは「ちいかわ」との冬の新作コラボが発売され、整理券の配布や追加予約が行われるなど大きな話題となっています。",
+    "text": "GUと人気キャラクター「ちいかわ」の冬の新作コラボが発売され、全店舗での整理券配布や品切れに伴う追加予約が大きな話題となりました。",
     "ids": [
-     "d9d0d48d2ddf8878",
+     "bdc6969b2dc89184",
      "0e6d3c46790fc61d"
     ]
    },
    {
-    "text": "クイーンズ駅伝においてユニクロ陸上部は一時失格判定から上訴が認められ、チーム過去最高となる4位入賞を果たしました。",
+    "text": "全日本実業団対抗女子駅伝で、ユニクロ陸上部が一時失格判定を受けるも上訴が認められ、チーム過去最高となる4位入賞を果たしました。",
     "ids": [
      "58f3a70232d544c0",
      "e2e523a7ec55db96"
     ]
    },
    {
-    "text": "ユニクロは低所得の独居高齢者へヒートテックを寄付したほか、国内外で教育支援や地域社会への貢献活動を実施しています。",
+    "text": "ユニクロは感謝イベント「サンキューウィーク」を開催したほか、独居高齢者へのヒートテック寄付や教育支援などの活動を行っています。",
     "ids": [
-     "a393a50a851164e4",
+     "b7f4c5d5672e1239",
      "9edef289f2609663",
-     "56ae969111a1217e"
+     "a393a50a851164e4"
     ]
    },
    {
-    "text": "SNSではGUのちいかわポーチがXで3日に197件投稿されるなど大きな注目を集めました。",
+    "text": "SNSではGUの「ちいかわ ポーチ」が注目を集め、Xで3日に130件投稿されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-19T23:02:47.302532+09:00",
-  "generated_at": "2026-11-22T23:02:54.556233+09:00",
+  "from": "2026-11-20T08:02:46.466830+09:00",
+  "generated_at": "2026-11-23T08:02:48.007009+09:00",
   "article_count": 24,
-  "sig": "345b81eade14"
+  "sig": "8d4ed47ddb88"
  },
  "items": [
+  {
+   "id": "0085419f76c1dcaa",
+   "url": "https://toyokeizai.net/articles/-/965340",
+   "title_original": "｢ユニクロ服にさらにお金をかける！？｣ 若者､推し活勢､インバウンド客も注目《700円からの刺繍》が映す\"消費の変化\"",
+   "source": "東洋経済オンライン",
+   "image": "https://tk.ismcdn.jp/mwimgs/9/d/1200xm/img_9db8c0812eae07804df692abf8674164532016.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-22T22:30:00+00:00",
+   "title_ja": "ユニクロの700円から試せる刺繍サービスが若者や訪日客に人気",
+   "summary_ja": "ユニクロの服に700円からオリジナルの刺繍を入れられるカスタマイズサービスが注目を集めている。若者や推し活層、訪日外国人観光客などを中心に利用が広がり、消費傾向の変化を示している。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "d51a585d2703ea6c",
+   "url": "https://www.rikujyokyogi.co.jp/archives/223783",
+   "title_original": "パナソニック8年ぶり栄冠！積水化学は19秒差で2位、豊田自動織機が創業100年飾る3位 ユニクロが過去最高、ルートインホテルズ初シード／クイーンズ駅伝",
+   "source": "月刊陸上競技",
+   "image": "https://www.rikujyokyogi.co.jp/wp-content/uploads/2026/11/e4bd7135d7b966729340203026ce77d3.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-22T21:55:37+00:00",
+   "title_ja": "クイーンズ駅伝でユニクロ女子陸上部が過去最高順位を獲得",
+   "summary_ja": "全日本実業団対抗女子駅伝（クイーンズ駅伝）が開催され、ユニクロ女子陸上競技部がチーム過去最高となる順位を記録した。大会はパナソニックが8年ぶりに優勝を果たしている。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 2,
+   "has_detail": true
+  },
+  {
+   "id": "bdc6969b2dc89184",
+   "url": "https://piratesandprincesses.net/gus-snowy-chiikawa-collab-has-fluffy-sweaters-and-loungewear",
+   "title_original": "GU’s snowy Chiikawa collab has fluffy sweaters and loungewear",
+   "source": "Pirates and Princesses",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T12:05:09+00:00",
+   "title_ja": "GUが「ちいかわ」とコラボ、冬向けセーターや部屋着を発売へ",
+   "summary_ja": "GUが人気キャラクター「ちいかわ」との新たなコラボレーションを発表した。雪をイメージした冬向けコレクションとなっており、肌触りの良いセーターやラウンジウェアなどをラインナップする。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "9b37edb6baf91ca0",
    "url": "https://www.gmanetwork.com/lifestyle/shopping/141428/new-studio-ghibli-t-shirt-collab-to-drop-in-december/story",
@@ -340,7 +388,7 @@
    "url": "https://www.walkerplus.com/article/1296669",
    "title_original": "【2025年12月発売】スヌーピーデザインの「ユニクロUT」新作！遊び心あふれるピーナッツギャングのスウェット、初のコーチジャケットも",
    "source": "ウォーカープラス",
-   "image": "",
+   "image": "https://news.walkerplus.com/article/1296669/15392194_615.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-11-22T02:09:54+00:00",
@@ -349,7 +397,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "bba58966b675249b",
@@ -916,7 +964,7 @@
    "url": "https://www.walkerplus.com/article/1224313",
    "title_original": "第一号店誕生から40周年！裏路地発のファッションブランド「ユニクロ」が世界を圧巻するビジネスに成長したワケ",
    "source": "ウォーカープラス",
-   "image": "",
+   "image": "https://news.walkerplus.com/article/1224313/13659957_615.jpg",
    "lang": "ja",
    "region": "jp",
    "published": "2026-11-19T08:00:00+00:00",
@@ -6622,54 +6670,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "c9bffac9ca54dbaa",
-   "url": "https://www.mk.co.kr/en/world/12193093",
-   "title_original": "Japanese clothing brand Uniqlo has reportedly withdrawn its policy to raise the price of socks.Accor..",
-   "source": "매일경제",
-   "image": "https://pimg.mk.co.kr/news/cms/202611/02/news-p.v1.20261102.1c1e7eb67a2c4306ae27c1393c1aeec8_R.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-01T23:47:38+00:00",
-   "title_ja": "ユニクロが靴下の値上げ方針を撤回したと報道",
-   "summary_ja": "日本のファストファッションブランドであるユニクロが、靴下の販売価格を引き上げる方針を撤回したと報じられた。価格引き上げを取りやめる判断についての企業対応が関心を集めている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "71fe2ef5933f4ce9",
-   "url": "https://jbpress.ismedia.jp/articles/-/97803",
-   "title_original": "客数・売上減のニトリ、ユニクロは最高益 渡辺広明氏が語る物価高でも売れる売り場",
-   "source": "JBpress",
-   "image": "https://jbpress.ismcdn.jp/mwimgs/2/6/1200mw/img_263f731b89a2f95d21065c18d0311f53237246.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-01T21:00:00+00:00",
-   "title_ja": "ユニクロが最高益を達成　物価高でも売れる売り場の強みを解説",
-   "summary_ja": "ニトリが客数と売上を落とす中でユニクロが最高益を達成した理由について専門家が解説。物価高が続く環境下でも消費者に選ばれ続ける売り場づくりや経営戦略が評価されている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "c202a3c3790e7fc6",
-   "url": "https://www.fashionsnap.com/article/roundup-october-31",
-   "title_original": "山本耀司がBFCファッションアワード受賞、ユニクロが世界のブランド価値ランキングトップ100に2年連続選出…【5分でわかる主要ニュース 10/25〜10/31】",
-   "source": "Fashionsnap.com",
-   "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/80eac0c2-0408-45a9-8faf-ff8c8a478e37.png",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-01T10:00:30+00:00",
-   "title_ja": "ユニクロが世界のブランド価値ランキングトップ100に2年連続で選出",
-   "summary_ja": "10月25日から31日までの主要ファッションニュース。山本耀司氏の受賞などに加え、ユニクロが世界のブランド価値ランキングトップ100に2年連続で選出されたニュースが取り上げられている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
