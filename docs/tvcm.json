@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T13:43:12.610622+09:00",
+ "updated_at": "2026-11-24T02:05:52.438421+09:00",
  "criteria": [
   "ユニクロ公式YouTubeのCM動画と、公式のプレスリリース・ニュースの「新CM放映」の発表から集めています。",
   "公式発表やニュースでテレビCMと確かめられたもの、または公式のCM動画が10万回以上再生されているものを載せています。",
@@ -94,23 +94,6 @@
    "views": 412779,
    "url": "https://www.youtube.com/watch?v=vVhJouBMti8",
    "image": "https://i.ytimg.com/vi/vVhJouBMti8/hqdefault.jpg",
-   "sources": []
-  },
-  {
-   "key": "ユニクロ:フリース:暖かいって幸せだ",
-   "brand": "ユニクロ",
-   "product": "フリース",
-   "name": "暖かいって、幸せだ",
-   "talents": [],
-   "song": "",
-   "start": "2026-09-27",
-   "until": "2026-11-22",
-   "until_reason": "推定",
-   "tv_confirmed": false,
-   "video_id": "Yl_qY-RTR0U",
-   "views": 13965375,
-   "url": "https://www.youtube.com/watch?v=Yl_qY-RTR0U",
-   "image": "https://i.ytimg.com/vi/Yl_qY-RTR0U/hqdefault.jpg",
    "sources": []
   }
  ]
