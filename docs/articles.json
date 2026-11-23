@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T07:55:49.035898+09:00",
+ "updated_at": "2026-11-23T13:35:44.973316+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -118,7 +118,6 @@
   "Retail Gazette",
   "Retail Insider",
   "SAYS",
-  "SEVENTIE TWO",
   "SPUR（シュプール）",
   "Secret Miami",
   "Siliconera",
@@ -139,6 +138,7 @@
   "TheIndustry.fashion",
   "TipRanks",
   "TradingView",
+  "Trend Hunter",
   "UP TO DATE",
   "Unisba Media",
   "VZ VermögensZentrum",
@@ -169,6 +169,7 @@
   "にじめん",
   "ねとらぼ",
   "ぴあエンタメ情報",
+  "アニメ！アニメ！",
   "インサイド",
   "ウォーカープラス",
   "オトナンサー",
@@ -225,52 +226,67 @@
   "파이낸셜뉴스"
  ],
  "count": 400,
- "detail_count": 241,
+ "detail_count": 242,
  "digest": {
-  "headline": "ユニクロとGUの冬の新作コラボや駅伝の入賞が話題",
+  "headline": "ユニクロやGUの新作コラボ発表、駅伝4位入賞など話題多数",
   "points": [
    {
-    "text": "ユニクロはスタジオジブリやセシリー・バンセン、サンリオなどとの冬向け新作コラボやUTコレクションを続々と発表・発売しています。",
+    "text": "ユニクロがスタジオジブリやセシリー・バンセンとの冬向けコラボ新作を発表した。",
     "ids": [
      "c429564cedc529a1",
      "dc6b52a5908298f1",
-     "58f5cb8c5e9436e2"
+     "88343e1e64ac6ffa"
     ]
    },
    {
-    "text": "GUと人気キャラクター「ちいかわ」の冬の新作コラボが発売され、全店舗での整理券配布や品切れに伴う追加予約が大きな話題となりました。",
+    "text": "GUが人気キャラクター「ちいかわ」とのコラボを発表し、ニットなどを展開する。",
     "ids": [
      "bdc6969b2dc89184",
-     "0e6d3c46790fc61d"
+     "d9d0d48d2ddf8878"
     ]
    },
    {
-    "text": "全日本実業団対抗女子駅伝で、ユニクロ陸上部が一時失格判定を受けるも上訴が認められ、チーム過去最高となる4位入賞を果たしました。",
+    "text": "フィリピンでの教育支援推進や、学生向け国際経営プログラムの日本開催が発表された。",
+    "ids": [
+     "9edef289f2609663",
+     "a0e8753acc173224"
+    ]
+   },
+   {
+    "text": "クイーンズ駅伝ではユニクロが上訴を経て過去最高となる4位に入賞した。",
     "ids": [
      "58f3a70232d544c0",
      "e2e523a7ec55db96"
     ]
    },
    {
-    "text": "ユニクロは感謝イベント「サンキューウィーク」を開催したほか、独居高齢者へのヒートテック寄付や教育支援などの活動を行っています。",
-    "ids": [
-     "b7f4c5d5672e1239",
-     "9edef289f2609663",
-     "a393a50a851164e4"
-    ]
-   },
-   {
-    "text": "SNSではGUの「ちいかわ ポーチ」が注目を集め、Xで3日に130件投稿されています。",
+    "text": "SNSでは「GU ちいかわ GU」がXで3日に210件投稿され話題となっている。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-20T08:02:46.466830+09:00",
-  "generated_at": "2026-11-23T08:02:48.007009+09:00",
+  "from": "2026-11-20T13:43:12.611688+09:00",
+  "generated_at": "2026-11-23T13:43:23.754601+09:00",
   "article_count": 24,
-  "sig": "8d4ed47ddb88"
+  "sig": "5f030a057def"
  },
  "items": [
+  {
+   "id": "6ca1ff6ef9b5046d",
+   "url": "https://animeanime.jp/article/2026/11/23/105026.html",
+   "title_original": "スヌーピーがDJに♪「PEANUTS×ユニクロ」ミュージックタイムテーマのコレクションが登場【12月中旬発売】",
+   "source": "アニメ！アニメ！",
+   "image": "https://animeanime.jp/imgs/ogp_f/957182.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-23T04:00:03+00:00",
+   "title_ja": "ユニクロからピーナッツ新作コラボ スヌーピー柄コレクションが12月中旬発売",
+   "summary_ja": "ユニクロと「ピーナッツ」の新作コラボレーションコレクションが12月中旬に発売されます。ミュージックタイムをテーマに、DJ姿のスヌーピーなどがデザインされたアイテムがラインナップされています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "0085419f76c1dcaa",
    "url": "https://toyokeizai.net/articles/-/965340",
@@ -285,7 +301,7 @@
    "category": "その他",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d51a585d2703ea6c",
@@ -304,11 +320,27 @@
    "has_detail": true
   },
   {
+   "id": "0c68e56e9a9c5c93",
+   "url": "https://www.trendhunter.com/trends/functional-jackets",
+   "title_original": "Lightweight Winter Outwear: UNIQLO Spotlights Functional Jackets For The Season",
+   "source": "Trend Hunter",
+   "image": "https://cdn.trendhunterstatic.com/phpthumbnails/656/656063/656063_1_1200.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-22T20:12:00+00:00",
+   "title_ja": "ユニクロが冬向け機能性ジャケットなど軽量アウターを特集",
+   "summary_ja": "ユニクロが今シーズン向けに、軽やかさと高い機能性を兼ね備えた冬用ジャケットなどのアウター類を提案しています。寒さに対処しつつ快適に過ごせるラインナップをアピールしています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "bdc6969b2dc89184",
    "url": "https://piratesandprincesses.net/gus-snowy-chiikawa-collab-has-fluffy-sweaters-and-loungewear",
    "title_original": "GU’s snowy Chiikawa collab has fluffy sweaters and loungewear",
    "source": "Pirates and Princesses",
-   "image": "",
+   "image": "https://i0.wp.com/piratesandprincesses.net/wp-content/uploads/2026/11/gus-snowy-chiikawa-collab-has-fluffy.png?fit=1200%2C688&ssl=1",
    "lang": "en",
    "region": "global",
    "published": "2026-11-22T12:05:09+00:00",
@@ -317,7 +349,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 4,
-   "detail_tries": 1
+   "has_detail": true
   },
   {
    "id": "9b37edb6baf91ca0",
@@ -6638,38 +6670,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "9f65fb87af053048",
-   "url": "https://www.seventietwo.com/ja/business/SVTFashionBeautyIndex_Weekly_20261102",
-   "title_original": "「ユニクロ」の値上げ撤回の波紋と、10.42％高で週間上昇率トップのHUMAN MADEの底堅さ｜「SVT インデックス」週報",
-   "source": "SEVENTIE TWO",
-   "image": "https://www.seventietwo.com/uploads/2022/01/46c76d892ad33d93afd9774a4785ac88.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T00:00:00+00:00",
-   "title_ja": "ユニクロの値上げ撤回が広げる波紋　ファッション指数の週報で分析",
-   "summary_ja": "週刊のファッション指標レポートにて、ユニクロが実施した値上げ撤回の影響や波紋についての分析が取り上げられた。アパレル市場における同社の動向に注目が集まっている。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "115164464dfa44b3",
-   "url": "https://www.fastretailing.com/eng/group/news/2611021300.html",
-   "title_original": "UNIQLO Donates Over One Million Items of HEATTECH to People in Need Worldwide in 2026 - Contributing to Communities Together With Many Partners | FAST RETAILING CO., LTD.",
-   "source": "Fast Retailing Co",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T00:00:00+00:00",
-   "title_ja": "ユニクロ、2026年に世界で100万点以上のヒートテックを寄付へ",
-   "summary_ja": "ユニクロは2026年、世界中で支援を必要としている人々へ100万点を超えるヒートテックを寄付することを発表しました。多様なパートナーと協力しながら、地域社会への貢献活動に取り組む方針です。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
