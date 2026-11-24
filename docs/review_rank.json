@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T01:59:26.495677+09:00",
+ "updated_at": "2026-11-24T12:36:21.789327+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2901,
+ "catalog_size": 2903,
  "count": 66,
  "items": [
   {
@@ -324,13 +324,13 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/465193/item/jpgoods_30_465193_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E465193-000/00?colorDisplayCode=30",
    "rating": 4.5,
-   "reviews": 10392,
-   "reviews7": 117,
+   "reviews": 10391,
+   "reviews7": 116,
    "capped": false,
    "prev7": 97,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 119,
+   "score": 118,
    "momentum": 1.02,
    "new": false,
    "rising": false
@@ -396,60 +396,20 @@
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/471601/item/jpgoods_41_471601_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E471601-000/00?colorDisplayCode=41",
    "rating": 4.4,
-   "reviews": 15980,
-   "reviews7": 98,
+   "reviews": 15979,
+   "reviews7": 97,
    "capped": false,
    "prev7": 44,
    "mentions7": 0,
    "mention_titles": [],
-   "score": 99,
+   "score": 98,
    "momentum": 1.01,
    "new": false,
    "rising": true
   },
   {
-   "key": "UQ:E487239-000",
-   "rank": 16,
-   "brand": "ユニクロ",
-   "name": "ウォームスマートパンツ",
-   "genders": [
-    "メンズ"
-   ],
-   "price": 4990,
-   "promo": null,
-   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487239/item/jpgoods_69_487239_3x4.jpg",
-   "url": "https://www.uniqlo.com/jp/ja/products/E487239-000/00?colorDisplayCode=69",
-   "rating": 4.4,
-   "reviews": 86,
-   "reviews7": 42,
-   "capped": false,
-   "prev7": 20,
-   "mentions7": 3,
-   "mention_titles": [
-    {
-     "t": "【UNIQLO（ユニクロ）】新作「ウォームスマートパンツ」を試着レビュー！ 暖かいのに美脚見え、通勤にも使える優秀パンツ #BAILA読む試着室",
-     "s": "TRILL",
-     "u": "https://trilltrill.jp/articles/5205115"
-    },
-    {
-     "t": "【ユニクロ】新作「ウォームスマートパンツ」の着用感、素材、サイズ感を写真でチェック！｜＠BAILA（バイラ）",
-     "s": "BAILA（バイラ）",
-     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pWXd4MVFlbi1Ed1VOYmdacVlvT1dRSF84Yy1MX1RhdUNyYkp3WUt2bWxLaGxDYUZOczZkelNHM1ZJd0p4M1JiWHVZbm5mY3daNjJHZzJ3?oc=5"
-    },
-    {
-     "t": "【UNIQLO（ユニクロ）】新作「ウォームスマートパンツ」を試着レビュー！ 暖かいのに美脚見え、通勤にも使える優秀パンツ #BAILA読む試着室｜＠BAILA（バイラ）",
-     "s": "BAILA（バイラ）",
-     "u": "https://baila.hpplus.jp/fashion/petitprice/84798"
-    }
-   ],
-   "score": 98,
-   "momentum": 1.98,
-   "new": false,
-   "rising": true
-  },
-  {
    "key": "UQ:E491268-000",
-   "rank": 17,
+   "rank": 16,
    "brand": "ユニクロ",
    "name": "フリースジョガーパンツ",
    "genders": [
@@ -471,6 +431,41 @@
    "momentum": 1.86,
    "new": false,
    "rising": false
+  },
+  {
+   "key": "UQ:E487239-000",
+   "rank": 17,
+   "brand": "ユニクロ",
+   "name": "ウォームスマートパンツ",
+   "genders": [
+    "メンズ"
+   ],
+   "price": 4990,
+   "promo": null,
+   "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/487239/item/jpgoods_69_487239_3x4.jpg",
+   "url": "https://www.uniqlo.com/jp/ja/products/E487239-000/00?colorDisplayCode=69",
+   "rating": 4.4,
+   "reviews": 86,
+   "reviews7": 42,
+   "capped": false,
+   "prev7": 20,
+   "mentions7": 2,
+   "mention_titles": [
+    {
+     "t": "【UNIQLO（ユニクロ）】新作「ウォームスマートパンツ」を試着レビュー！ 暖かいのに美脚見え、通勤にも使える優秀パンツ #BAILA読む試着室",
+     "s": "TRILL",
+     "u": "https://trilltrill.jp/articles/5205115"
+    },
+    {
+     "t": "【ユニクロ】新作「ウォームスマートパンツ」の着用感、素材、サイズ感を写真でチェック！｜＠BAILA（バイラ）",
+     "s": "BAILA（バイラ）",
+     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pWXd4MVFlbi1Ed1VOYmdacVlvT1dRSF84Yy1MX1RhdUNyYkp3WUt2bWxLaGxDYUZOczZkelNHM1ZJd0p4M1JiWHVZbm5mY3daNjJHZzJ3?oc=5"
+    }
+   ],
+   "score": 93,
+   "momentum": 1.98,
+   "new": false,
+   "rising": true
   },
   {
    "key": "GU:E358176-000",
