@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T01:40:14.959467+09:00",
+ "updated_at": "2026-11-25T10:43:35.013530+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -55,6 +55,7 @@
   "Fast Retailing Co",
   "Fibre2Fashion",
   "Forbes JAPAN",
+  "Foro3D",
   "GIGAZINE",
   "GMA Network",
   "GamerBraves",
@@ -89,8 +90,8 @@
   "Manila Bulletin",
   "Mantan Web",
   "Marie Claire",
+  "MarkHub24",
   "Marketing-Interactive",
-  "Men's Folio",
   "Metro Mode",
   "Modaes",
   "MoneyDigest",
@@ -110,7 +111,6 @@
   "Popbee",
   "RBB TODAY",
   "Ragtrader.com.au",
-  "Red Carpet Fashion Awards",
   "Retail & Leisure International",
   "Retail Insider",
   "SAYS",
@@ -222,40 +222,94 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 246,
  "digest": {
-  "headline": "サステナ進捗と新作続々、海外展開と話題のパフテックが注目",
+  "headline": "ユニクロ個店経営の戦略やジブリ・ちいかわ等新作発表の動き",
   "points": [
    {
-    "text": "ファーストリテイリングが自社温室効果ガス削減と欧州規制対応を公表し、サステナビリティ進捗を示した。",
+    "text": "ユニクロは塚越社長が「個店経営」の重要性を明かしたほか、サステナビリティの進捗公表やヒートテック寄贈活動を行いました。",
     "ids": [
-     "d00fba1a3d58c148"
+     "3010a9bec5ee494d",
+     "d00fba1a3d58c148",
+     "95f45c649eab669d"
     ]
    },
    {
-    "text": "ユニクロ×セシリーバンセンのベストが3990円で発売、膨らまずスッキリ着心地が好評。",
+    "text": "セシリーバンセンとのコラボベストが好評を得ているほか、スタジオジブリやハローキティ、浮世絵などの新作コレクションが続々と発表されています。",
     "ids": [
-     "3cb3da4cc5fe9a3b"
+     "3cb3da4cc5fe9a3b",
+     "44b1569f32bc03fa",
+     "993da82d76b3aa7a"
     ]
    },
    {
-    "text": "韓国・済州島でユニクロが他ブランドと店舗展開競争を繰り広げ、戦略が注目されている。",
+    "text": "GUが「ちいかわ」との冬向けコレクションを発表したほか、韓国やタイなど海外での出店競争や記念イベントのニュースも報じられました。",
     "ids": [
-     "80426937f12a7b8c"
+     "bdc6969b2dc89184",
+     "80426937f12a7b8c",
+     "a9d3155ab29f89d8"
     ]
    },
    {
-    "text": "ユニクロ パフテックがXで3日に78件投稿、反応は5,496件で急上昇中。",
+    "text": "SNSでは「GU ちいかわ GU」が話題となり、Xで160件の投稿が確認されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-22T01:58:17.902217+09:00",
-  "generated_at": "2026-11-25T02:02:25.067092+09:00",
+  "from": "2026-11-22T10:49:48.614048+09:00",
+  "generated_at": "2026-11-25T10:49:50.165041+09:00",
   "article_count": 24,
-  "sig": "035d5bf784ae"
+  "sig": "d5d3538c79cd"
  },
  "items": [
+  {
+   "id": "a9fdf0b147c43149",
+   "url": "https://www.lionheartv.net/2026/11/uniqlos-thank-you-festival-returns-this-november-to-celebrate-a-season-of-appreciation",
+   "title_original": "UNIQLO's Thank You Festival Returns This November to Celebrate a Season of Appreciation",
+   "source": "LionhearTV",
+   "image": "https://www.lionheartv.net/wp-content/uploads/2026/11/UNIQLOs-Thank-You-Festival-Returns-This-November-to-Celebrate-a-Se.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T20:55:33+00:00",
+   "title_ja": "ユニクロ、感謝祭を11月に開催へ",
+   "summary_ja": "日頃のご愛顧に感謝を込めて、ユニクロの大規模セールイベント「感謝祭」が11月に開催されることが発表されました。冬の定番アイテムをお得に購入できる恒例の企画です。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3010a9bec5ee494d",
+   "url": "https://www.chiba-tv.com/plus/detail/2026112255874",
+   "title_original": "ユニクロ塚越社長が語った「世界一のブランドになるための個店経営」とは？",
+   "source": "千葉テレビ放送",
+   "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1498058886649283660/origin_1.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-24T20:31:13+00:00",
+   "title_ja": "ユニクロ塚越社長が明かす「個店経営」の戦略",
+   "summary_ja": "ユニクロの塚越社長がインタビューに応じ、世界一のブランドを目指す上で不可欠となる「個店経営」の重要性や具体的な取り組みについて語りました。",
+   "category": "業績・経営",
+   "brand": "ユニクロ",
+   "importance": 5,
+   "detail_tries": 1
+  },
+  {
+   "id": "95f45c649eab669d",
+   "url": "https://prtimes.jp/main/html/rd/p/000000171.000068741.html",
+   "title_original": "全世界で100万点のヒートテックを届ける「The Heart of LifeWear」元サッカー日本代表・内田篤人さんと令和8年熊本地震の復興応援で熊本県を訪問",
+   "source": "PR TIMES",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-24T16:25:48+00:00",
+   "title_ja": "内田篤人さんが熊本を訪問、ヒートテック寄贈",
+   "summary_ja": "「The Heart of LifeWear」の一環として、元サッカー日本代表の内田篤人さんが熊本県を訪問しました。令和8年熊本地震の復興応援として、全世界で100万点のヒートテックを届ける活動が行われています。",
+   "category": "サステナビリティ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
   {
    "id": "3cb3da4cc5fe9a3b",
    "url": "https://news.yahoo.co.jp/articles/15961f2208824d332221762578b0fa3e3e6460b9",
@@ -267,6 +321,22 @@
    "published": "2026-11-24T13:40:00+00:00",
    "title_ja": "ユニクロ×セシリーバンセン、3990円ベストが好評",
    "summary_ja": "ユニクロはセシリーバンセンと共同開発したベストを3990円で発売。フリースより高級感があり、膨らまずスッキリした着心地で、母へのプレゼントにも選ばれた。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "44b1569f32bc03fa",
+   "url": "https://foro3d.com/en/2026/noviembre/uniqlo-lanza-camisetas-de-studio-ghibli-para-llevar-el-anime-en-el-dia.html",
+   "title_original": "Uniqlo launches Studio Ghibli t-shirts to bring anime into everyday life",
+   "source": "Foro3D",
+   "image": "https://foro3d.com/2026/noviembre/imagenes/uniqlo-lanza-camisetas-de-studio-ghibli-para-llevar-el-anime-en-el-dia.webp",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T12:45:30+00:00",
+   "title_ja": "ユニクロがスタジオジブリのTシャツを発売",
+   "summary_ja": "アニメの世界を日常のファッションに取り入れられる、スタジオジブリとのコラボレーションTシャツをユニクロが新たに発売しました。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
@@ -302,7 +372,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "910c5b1f15e3bcc1",
@@ -363,6 +433,38 @@
    "published": "2026-11-24T03:56:50+00:00",
    "title_ja": "ユニクロ、ハローキティ新作Tシャツを12月7日に発売",
    "summary_ja": "「ハローキティ」のリボンをテーマにした大人のシンプルデザインの新作ボクシーTシャツ全4種類が、12月7日に発売される予定。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 2
+  },
+  {
+   "id": "e1bb18b1531da68e",
+   "url": "https://www.markhub24.com/post/uniqlo-s-lifewear-strategy-positioning-a-global-apparel-brand-around-everyday-clothing",
+   "title_original": "Uniqlo's LifeWear Strategy: Positioning a Global Apparel Brand Around Everyday Clothing",
+   "source": "MarkHub24",
+   "image": "https://static.wixstatic.com/media/8a841b_e20a74e04c4942119b69c16088e5d25d~mv2.jpg/v1/fill/w_1170,h_658,al_c,q_85/8a841b_e20a74e04c4942119b69c16088e5d25d~mv2.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-24T03:42:33.777000+00:00",
+   "title_ja": "ユニクロのライフウェア戦略とグローバル展開",
+   "summary_ja": "日常着を軸にしたユニクロのLifeWear戦略について、世界的なアパレルブランドとしてのポジションやそのブランディングの取り組みを解説しています。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "a0e9faf951d34067",
+   "url": "https://news.yahoo.co.jp/articles/56031c9e91c0fbc3acd932e99afe1a09c7df1183",
+   "title_original": "ユニクロの「浮世絵」UTが12月下旬発売！花見や蛍狩りなど日本の四季折々をモチーフにした、奥深い世界観が最高にオシャレ",
+   "source": "Yahoo!ニュース",
+   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00000017-isd-000-1-view.jpg?exp=10800",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-24T02:50:02+00:00",
+   "title_ja": "ユニクロの「浮世絵」UTが12月下旬に発売決定",
+   "summary_ja": "日本の四季折々をモチーフにした浮世絵のUTコレクションが12月下旬に発売されます。花見や蛍狩りなど、奥深い世界観をデザインに落とし込んでいます。",
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
@@ -6559,102 +6661,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
-  },
-  {
-   "id": "feb55848e3f045d0",
-   "url": "https://biz.chosun.com/jp/jp-retail/2026/11/03/C6XU6G3UCZHDHIBJDE2BMVWTAY/?outputType=amp",
-   "title_original": "ユニクロ韓国が2桁増収増益 店舗集約で収益改善",
-   "source": "Chosunbiz",
-   "image": "https://biz.chosun.com/resizer/v2/HA2DSMBUGUZWEZBVGI3TEMDBGA.jpg?auth=b3d2eb5a30d6b10aa30ae9650e14ce875eb2349afa8f3ad669542ca0c58a18c3&width=1000&height=525&smart=true",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T21:00:59.349000+00:00",
-   "title_ja": "ユニクロ韓国法人が二桁の増収増益を達成　店舗集約で収益改善",
-   "summary_ja": "ユニクロの韓国事業が二桁の増収増益を達成したことが明らかになった。店舗の集約や経営の効率化を進めたことで収益性の改善が実現しており、同地域での事業基盤が強固になっている。",
-   "category": "海外展開",
-   "brand": "グループ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "1726ef1ceb2b10eb",
-   "url": "https://biz.chosun.com/en/en-retail/2026/11/03/DDWJJW26MFA6LDYESTWR2HVYFQ/?outputType=amp",
-   "title_original": "Uniqlo rebounds in South Korea as sales top pre–No Japan peak",
-   "source": "Chosunbiz",
-   "image": "https://biz.chosun.com/resizer/v2/HA2DSMBUGUZWEZBVGI3TEMDBGA.jpg?auth=b3d2eb5a30d6b10aa30ae9650e14ce875eb2349afa8f3ad669542ca0c58a18c3&width=1000&height=525&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T21:00:33.545000+00:00",
-   "title_ja": "韓国のユニクロ売上高、不買運動前のピークを回復",
-   "summary_ja": "韓国におけるユニクロの売上高が回復を見せ、不買運動前の最高潮だった水準を上回る実績を記録したことが分かりました。アジア市場での堅調な事業展開を示しています。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "b71bef54ae3ba8d7",
-   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E6%9D%A5%E5%B9%B4%E3%82%AB%E3%83%BC%E3%83%87%E3%82%A3%E3%83%95%E3%81%AE%E3%82%BB%E3%83%B3%E3%83%88-%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%82%BA%E3%81%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E5%88%9D%E3%81%AE%E5%BA%97%E8%88%97%E3%82%92%E5%87%BA%E5%BA%97%E3%81%B8,1881012.html",
-   "title_original": "ユニクロ、来年カーディフのセント・デイビッズにウェールズ初の店舗を出店へ",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T16:24:52+00:00",
-   "title_ja": "ユニクロ、来年カーディフのセント・デイビッズにウェールズ初出店",
-   "summary_ja": "ユニクロは、来年にカーディフの商業施設「セント・デイビッズ」へ出店することを発表しました。これがウェールズにおける記念すべき第一号店となります。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "76f5d631d91991a7",
-   "url": "https://uk.fashionnetwork.com/news/Uniqlo-to-open-first-welsh-store-next-year-at-st-david-s-cardiff,1880909.html",
-   "title_original": "Uniqlo to open first Welsh store next year at St David's, Cardiff",
-   "source": "FashionNetwork France",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T16:24:52+00:00",
-   "title_ja": "ユニクロ、来年ウェールズ初の店舗をカーディフに出店へ",
-   "summary_ja": "ファーストリテイリングが展開するユニクロは、来年ウェールズの首都カーディフにあるショッピングセンター「セント・デイビッズ」に同地域初となる店舗をオープンする予定です。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "d905b99e9641c80f",
-   "url": "https://www.mens-folio.com/lifestyle/uniqlo-singapore-partners-community-chest",
-   "title_original": "T-Shirts for Good: Uniqlo Singapore Partners Community Chest as Part of Its PEACE FOR ALL Initiative",
-   "source": "Men's Folio",
-   "image": "https://mensfolio-sg-production.s3.ap-southeast-1.amazonaws.com/2026/11/Uniqlo_KV-Portrait-copy.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T15:19:19+00:00",
-   "title_ja": "シンガポールのユニクロ、PEACE FOR ALLで寄付",
-   "summary_ja": "シンガポールのユニクロが、チャリティ活動「PEACE FOR ALL」の一環としてCommunity Chestと提携しました。チャリティTシャツを通じた社会貢献を行います。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "15f9100fc238c161",
-   "url": "https://www.redcarpet-fashionawards.com/2026/11/02/cate-blanchetts-uniqlo-suit-recalls-clare-waight-kellers-givenchy-era",
-   "title_original": "Cate Blanchett in Uniqlo at the 2026 Praemium Imperiale Awards",
-   "source": "Red Carpet Fashion Awards",
-   "image": "https://www.redcarpet-fashionawards.com/wp-content/uploads/2026/11/cate-blanchett-uniqlo-black-suit-tokyo-portrait.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T13:56:48+00:00",
-   "title_ja": "ケイト・ブランシェットが世界文化賞でユニクロを着用",
-   "summary_ja": "高松宮殿下記念世界文化賞の授賞式にて、俳優のケイト・ブランシェットがユニクロの服を着用して登場したことを伝えている。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
   }
  ]
 }
