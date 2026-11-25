@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T10:43:35.013530+09:00",
+ "updated_at": "2026-11-26T01:23:46.549628+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -24,13 +24,16 @@
   "AFPBB News",
   "Alvinology",
   "Anime News Network",
+  "AnimeMojo.com",
   "Anmo Sugoi",
   "AugustMan Singapore",
   "BAILA（バイラ）",
   "BRABO News",
+  "Battersea Power Station",
   "Branding in Asia",
   "Business News Wales",
   "Business Post",
+  "BusinessLine",
   "BusinessMirror",
   "CLASSY.[クラッシィ]",
   "Cate Blanchett Fan",
@@ -43,6 +46,7 @@
   "Dtimes",
   "Dublin Live",
   "ELLE",
+  "ET BrandEquity",
   "EVOKE",
   "Emo!miu",
   "Essential Japan",
@@ -110,7 +114,6 @@
   "Pokde.Net",
   "Popbee",
   "RBB TODAY",
-  "Ragtrader.com.au",
   "Retail & Leisure International",
   "Retail Insider",
   "SAYS",
@@ -131,6 +134,7 @@
   "The Journal",
   "The Sole Supplier",
   "TheFutureParty",
+  "Times Now",
   "TipRanks",
   "TradingView",
   "Trend Hunter",
@@ -171,6 +175,7 @@
   "オリコンニュース",
   "コラボカフェ",
   "ゴゴ通信",
+  "サッカーキング",
   "ダイヤモンド・チェーンストア",
   "テレ朝NEWS",
   "デイリースポーツ",
@@ -224,44 +229,158 @@
  "count": 400,
  "detail_count": 246,
  "digest": {
-  "headline": "ユニクロ個店経営の戦略やジブリ・ちいかわ等新作発表の動き",
+  "headline": "ユニクロの個店経営やインド展開、セシリー バンセンコラボが話題",
   "points": [
    {
-    "text": "ユニクロは塚越社長が「個店経営」の重要性を明かしたほか、サステナビリティの進捗公表やヒートテック寄贈活動を行いました。",
+    "text": "ユニクロの塚越社長がインタビューに応じ、世界一を目指すうえで不可欠な「個店経営」の重要性を語りました。",
     "ids": [
-     "3010a9bec5ee494d",
-     "d00fba1a3d58c148",
-     "95f45c649eab669d"
+     "3010a9bec5ee494d"
     ]
    },
    {
-    "text": "セシリーバンセンとのコラボベストが好評を得ているほか、スタジオジブリやハローキティ、浮世絵などの新作コレクションが続々と発表されています。",
+    "text": "ファーストリテイリングはサステナビリティの取り組み状況を公表し、温室効果ガスの大幅削減などを進めています。",
     "ids": [
-     "3cb3da4cc5fe9a3b",
-     "44b1569f32bc03fa",
-     "993da82d76b3aa7a"
+     "d00fba1a3d58c148"
     ]
    },
    {
-    "text": "GUが「ちいかわ」との冬向けコレクションを発表したほか、韓国やタイなど海外での出店競争や記念イベントのニュースも報じられました。",
+    "text": "ユニクロはインド市場での店舗網の拡大を加速させており、国内外向けの調達や生産も強化する方針を示しています。",
     "ids": [
-     "bdc6969b2dc89184",
-     "80426937f12a7b8c",
-     "a9d3155ab29f89d8"
+     "cdf022fec651bab2",
+     "fa4863c9e6e2ad51"
     ]
    },
    {
-    "text": "SNSでは「GU ちいかわ GU」が話題となり、Xで160件の投稿が確認されました。",
+    "text": "セシリー バンセンとの2026年秋冬コラボコレクションが11月26日に発売され、ベストなどが好評を集めています。",
+    "ids": [
+     "1be871b5ea6cd26a",
+     "3cb3da4cc5fe9a3b"
+    ]
+   },
+   {
+    "text": "SNSではユニクロ パフテックが急上昇し、Xで75件投稿されました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-22T10:49:48.614048+09:00",
-  "generated_at": "2026-11-25T10:49:50.165041+09:00",
+  "from": "2026-11-23T01:39:47.852218+09:00",
+  "generated_at": "2026-11-26T01:39:50.670146+09:00",
   "article_count": 24,
-  "sig": "d5d3538c79cd"
+  "sig": "445fb26579ac"
  },
  "items": [
+  {
+   "id": "cdf022fec651bab2",
+   "url": "https://www.thehindubusinessline.com/companies/india-is-a-high-growth-market-for-uniqlo-accelerating-retail-expansion/article71743383.ece",
+   "title_original": "India is a high growth market for Uniqlo, accelerating retail expansion",
+   "source": "BusinessLine",
+   "image": "https://bl-i.thgim.com/public/incoming/m9k0cc/article71743380.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-25%20at%204.04.16%20PM.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T15:10:08+00:00",
+   "title_ja": "インドはユニクロにとって高成長市場であり、店舗網の拡大を加速させている",
+   "summary_ja": "ユニクロにとってインドは高い成長率を誇る重要市場となっており、現地における店舗網の拡大やリテール事業の成長をさらに加速させていることが報じられている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "1be871b5ea6cd26a",
+   "url": "https://batterseapowerstation.co.uk/events/uniqlo-and-cecilie-bahnsen-autumn-winter-2026-launching-26th-november",
+   "title_original": "UNIQLO and Cecilie Bahnsen Autumn/Winter 2026 – Launching 26th November",
+   "source": "Battersea Power Station",
+   "image": "https://batterseapowerstation.co.uk/content/uploads/2026/11/KV01_06360637_3_2-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T15:09:07+00:00",
+   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コラボコレクションが11月26日に発売",
+   "summary_ja": "ユニクロが「セシリー バンセン」との2026年秋冬コラボレーションコレクションを11月26日に発売する。注目のデザイナーとのコラボラインとして、秋冬の新作アイテムがリリースされる。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "fa4863c9e6e2ad51",
+   "url": "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/uniqlo-eyes-faster-expansion-in-india-to-increase-sourcing-for-local-and-global-markets/136159967",
+   "title_original": "Uniqlo eyes faster expansion in India, to increase sourcing for local and global markets",
+   "source": "ET BrandEquity",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-136159967,imgsize-57476,width-1200,height=627,overlay-etbrandequity,resizemode-75/business-of-brands/uniqlo-eyes-faster-expansion-in-india-to-increase-sourcing-for-local-and-global-markets.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T11:51:32+00:00",
+   "title_ja": "ユニクロ、インドでの出店拡大を加速へ　国内外向け調達も拡大方針",
+   "summary_ja": "ユニクロがインド市場における店舗網の拡大スピードを速める意向を示しました。また、インド国内および世界各国の店舗に向けた商品の調達・生産についても強化を図る方針です。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3f1a29dfe85fd3ab",
+   "url": "https://www.timesnownews.com/business-economy/companies/uniqlo-plans-faster-india-expansion-to-boost-sourcing-for-local-and-global-markets-article-156564792",
+   "title_original": "UNIQLO Plans Faster India Expansion, To Boost Sourcing For Local And Global Markets",
+   "source": "Times Now",
+   "image": "https://images.timesnownews.com/thumb/msid-156564829,thumbsize-28340,width-1280,height-720,resizemode-75/156564829.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T11:02:52+00:00",
+   "title_ja": "ユニクロ、インドでの出店加速と調達拡大を計画",
+   "summary_ja": "ユニクロがインドにおける出店ペースを加速させる方針を固めました。国内市場だけでなく世界市場への供給に向けた現地調達の拡大も進める計画で、急成長するインド市場での事業基盤強化とグローバルサプライチェーンの拡充を図ります。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "3b6724f9c145cc8b",
+   "url": "https://animemojo.com/shonen/pokemon/uniqlo-opens-the-second-pokmon-30th-anniversary-ut-collection-in-japan-with-monochrome-dot-art-tees-a21300",
+   "title_original": "UNIQLO Opens The Second Pokémon 30th Anniversary UT Collection In Japan, With Monochrome Dot-Art Tees",
+   "source": "AnimeMojo.com",
+   "image": "https://animemojo.com/images/articles/banners/uniqlo-opens-the-second-pokmon-30th-anniversary-ut-collection-in-japan-with-monochrome-dot-art-tees-ab21300.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-25T11:00:00+00:00",
+   "title_ja": "ユニクロ、ポケモン30周年記念「UT」第2弾を日本で発売　モノクロドット柄など",
+   "summary_ja": "ユニクロは、ポケモン30周年を記念したUTコレクションの第2弾を日本国内で開始しました。今回のラインナップでは、モノクロのドットアートを描いたTシャツなどが展開されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "189411f41b1f4706",
+   "url": "https://www.soccer-king.jp/news/japan/japan_other/20261125/2231182.html",
+   "title_original": "ユニクロサッカーキッズ、熊本自身復興応援の一環で特別開催 内田篤人が被災地訪問",
+   "source": "サッカーキング",
+   "image": "https://www.soccer-king.jp/wp-content/uploads/2026/11/20261125_uniqlo-4.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-25T09:33:34+00:00",
+   "title_ja": "ユニクロサッカーキッズが熊本で開催、内田篤人さんが被災地訪問",
+   "summary_ja": "熊本地震の復興支援の一環として「ユニクロサッカーキッズ」が特別開催された。イベントには元サッカー日本代表の内田篤人さんが参加し、被災地を訪れて子供たちと交流した。",
+   "category": "その他",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
+   "id": "f8df86a033e37de9",
+   "url": "https://news.yahoo.co.jp/articles/acec3eed76bdd66520e2805f9776c932d4e97239/images/000",
+   "title_original": "ユニクロで「ムーミン」グッズが12月7日発売！ムーミン谷の仲間たちを描いた、愛らしいベビー用ボディスーツ全6種 (インサイド)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26kdKDgsjF7_Kzp-kkQ_3sC2r7c8JJsNFIRUxq5602Ynr-HnQsCvVEyptP-XIzb9tgVeOu1rYADOn8n65XRfgkKZvUhG7TWup40tAklqgPi-a",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-25T03:00:03+00:00",
+   "title_ja": "ユニクロ、ムーミン谷の仲間たちを描いたベビー用ボディスーツを12月7日発売",
+   "summary_ja": "ユニクロは、愛らしいムーミン谷の仲間たちを描いたベビー用ボディスーツ全6種を12月7日に発売すると発表した。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
+  },
   {
    "id": "a9fdf0b147c43149",
    "url": "https://www.lionheartv.net/2026/11/uniqlos-thank-you-festival-returns-this-november-to-celebrate-a-season-of-appreciation",
@@ -292,7 +411,7 @@
    "category": "業績・経営",
    "brand": "ユニクロ",
    "importance": 5,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "95f45c649eab669d",
@@ -468,7 +587,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "d00fba1a3d58c148",
@@ -6546,118 +6665,6 @@
    "title_ja": "AIブームで復活のサンフランシスコにユニクロが再出店　行列も",
    "summary_ja": "一度サンフランシスコから撤退したユニクロが、AIブームによる街の活気を取り戻した現地に再出店を果たした。オープン当日には長蛇の列ができる賑わいを見せている。",
    "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "70583b62eb30b591",
-   "url": "https://www.chosun.com/english/industry-en/2026/11/03/L53UP46ETVDIVIQNBX4IRATYQE",
-   "title_original": "AI Boom Fuels Uniqlo's San Francisco Return",
-   "source": "조선일보",
-   "image": "https://www.chosun.com/resizer/v2/LCY3Q7QZGNGRJEGK3SPHO5YPLE.jpg?auth=a53305d3e1f759bd353342ec06fbbe95eb2d453c644d2e27a858a2c4b11e2f87&width=1200&height=630&smart=true",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-03T06:03:57.603000+00:00",
-   "title_ja": "AIブームの好調を受けユニクロがサンフランシスコへ再出店",
-   "summary_ja": "サンフランシスコにおけるAIブームと経済活動の回復を背景に、ユニクロが同都市へ再出店することが明らかになった。現地での需要取り込みを目指す。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "00835126f1b4106d",
-   "url": "https://hypebeast.com/2026/11/ayumu-hiranos-style-distilled-into-a-400-gram-down-jacket",
-   "title_original": "Ayumu Hirano's Style, Distilled Into a 400-Gram Down Jacket",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F31%2Fayumu-hiranos-style-distilled-into-a-400-gram-down-jacket-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-03T01:00:55+00:00",
-   "title_ja": "平野歩夢のこだわりを反映した軽量ダウンジャケット",
-   "summary_ja": "アスリートの平野歩夢選手のスタイルを凝縮した、約400gの軽量なユニクロのライトダウンボリュームジャケットについて紹介します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "8cc2d9dc05b5b825",
-   "url": "https://hypebeast.com/jp/2026/11/uniqlo-ayumu-hirano-light-down-volume-jacket-interview",
-   "title_original": "約400gのダウンに宿る平野歩夢のスタイル ── UNIQLO ライトダウンボリュームジャケット | Interviews",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F11%2F03%2Funiqlo-ayumu-hirano-light-down-volume-jacket-interview-ft.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-03T01:00:39+00:00",
-   "title_ja": "平野歩夢のスタイルが宿る約400gのダウンジャケット",
-   "summary_ja": "アスリートの平野歩夢選手のこだわりが詰まったユニクロのライトダウンボリュームジャケットの特徴や開発背景に迫ります。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "056bf1ada132575a",
-   "url": "https://www.ragtrader.com.au/news/uniqlo-targets-queensland-amid-australia-surge",
-   "title_original": "Uniqlo targets Queensland amid Australia surge",
-   "source": "Ragtrader.com.au",
-   "image": "https://res.cloudinary.com/yaffa-publishing/image/fetch/q_auto:best,c_fill,w_630,h_320,g_faces:center,f_auto/http%3A%2F%2Fcdn%2Eyaffa%2Ecom%2Eau%2Fyaffadsp%2Fimages%2FdmImage%2FSourceImage%2Funiqlo%2Dstore%2D2%2D%2D%2Dmar%2D22%2Ejpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-02T23:58:16+00:00",
-   "title_ja": "ユニクロが豪クイーンズランド州での展開を強化　豪州事業の好調背景に",
-   "summary_ja": "オーストラリア事業が好調な推移を見せるなか、ユニクロが同国のクイーンズランド州をターゲットとして事業展開を強化していることが分かった。現地市場でのさらなる成長と拡大を目指す。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "144fb2bc7e42aeba",
-   "url": "https://news.yahoo.co.jp/articles/94b52150f997392abe933346cceb4f0ef88b108f",
-   "title_original": "ユニクロ、「スヌーピーUT」メンズコレクションに“クスっと笑える”スウェット＆UT全12アイテム！12月中旬発売（ウォーカープラス）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-01452063-tkwalk-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T23:30:00+00:00",
-   "title_ja": "ユニクロが「スヌーピーUT」メンズ新作を12月中旬発売　全12型を展開",
-   "summary_ja": "ユニクロは「スヌーピーUT」のメンズコレクション新作を12月中旬から発売する。思わず笑みがこぼれるようなデザインを施したスウェットやUTなど、全12アイテムをラインナップしている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "565d2367b29425ae",
-   "url": "https://news.yahoo.co.jp/articles/8228986fd5b1ec90af6a8194ce5491d1cbd94e1c",
-   "title_original": "65歳女性、仕事着がなく“ユニクロ”へ駆け込んだら…… 驚きの姿に「超高級品に見える」「私の着てるユニクロと同じ？」（ねとらぼ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-10174931-it_nlab-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T23:30:00+00:00",
-   "title_ja": "65歳女性がユニクロの服で大変身　ネットで「高級品に見える」と話題",
-   "summary_ja": "仕事着に困った65歳女性がユニクロで揃えたコーディネートを披露し、ネット上で大きな注目を集めている。上品に着こなした姿に対し、高見えして見えるといった驚きの声が寄せられている。",
-   "category": "その他",
-   "brand": "ユニクロ",
-   "importance": 1,
-   "has_detail": true
-  },
-  {
-   "id": "3e11818719ddf65a",
-   "url": "https://www.wwdjapan.com/articles/2541320",
-   "title_original": "ユニクロ、災害被災地や難民キャンプに“ヒートテック”100万点超を寄贈",
-   "source": "WWDJAPAN",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-02T22:00:23+00:00",
-   "title_ja": "ユニクロが被災地や難民キャンプへ「ヒートテック」を100万点以上寄贈",
-   "summary_ja": "ユニクロは、国内外の災害被災地や難民キャンプに向けて「ヒートテック」を100万点以上寄贈した。寒さ対策や生活支援を目的とした社会貢献活動の一環として実施された取り組みである。",
-   "category": "サステナビリティ",
    "brand": "ユニクロ",
    "importance": 3,
    "detail_tries": 2
