@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T01:28:55.533200+09:00",
+ "updated_at": "2026-11-26T10:18:52.699919+09:00",
  "criteria": {
   "title": "レビュー人気の判断基準",
   "formula": "点数 ＝ 直近7日のレビュー増加数 × 勢い ＋ 見出しに出た回数 × 5",
@@ -19,7 +19,7 @@
  ],
  "history_since": "2026-09-19",
  "history_days": 17,
- "catalog_size": 2871,
+ "catalog_size": 2880,
  "count": 62,
  "items": [
   {
@@ -40,15 +40,20 @@
    "reviews7": 144,
    "capped": false,
    "prev7": 80,
-   "mentions7": 1,
+   "mentions7": 2,
    "mention_titles": [
+    {
+     "t": "【ユニクロ】SNSで話題！「フリースボタンナッププルオーバー」大人のコーデ術6選！人気の魅力も深掘りレポ",
+     "s": "LEE",
+     "u": "https://lee.hpplus.jp/column/3799916"
+    },
     {
      "t": "【ユニクロ】ゆるっとあざとい♡ “オーバーサイズ”コーデ！あったか「フリースボタンナッププルオーバー」を徹底レビュー",
      "s": "TRILL",
      "u": "https://trilltrill.jp/articles/5203530"
     }
    ],
-   "score": 287,
+   "score": 292,
    "momentum": 1.96,
    "new": false,
    "rising": false
@@ -318,8 +323,8 @@
    "genders": [
     "ウィメンズ"
    ],
-   "price": 4990,
-   "promo": 4990,
+   "price": 3990,
+   "promo": 3990,
    "image": "https://image.uniqlo.com/UQ/ST3/jp/imagesgoods/488723/item/jpgoods_37_488723_3x4.jpg",
    "url": "https://www.uniqlo.com/jp/ja/products/E488723-000/00?colorDisplayCode=37",
    "rating": 4.5,

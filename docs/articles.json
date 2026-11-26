@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T01:23:46.549628+09:00",
+ "updated_at": "2026-11-26T10:17:04.675377+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -75,7 +75,6 @@
   "India Retailing",
   "Indian Retailer",
   "Indian Television Dot Com",
-  "Insider Media Ltd",
   "Irish Examiner",
   "J-CAST ニュース",
   "JAPAN HOUSE Los Angeles",
@@ -222,53 +221,66 @@
   "読売新聞",
   "매일경제",
   "아시아경제",
-  "조선일보",
   "파이낸셜뉴스",
   "헤럴드경제"
  ],
  "count": 400,
  "detail_count": 246,
  "digest": {
-  "headline": "ユニクロの個店経営やインド展開、セシリー バンセンコラボが話題",
+  "headline": "ユニクロ、インド出店加速や個店経営を推進し、新作コラボも続々発表",
   "points": [
    {
-    "text": "ユニクロの塚越社長がインタビューに応じ、世界一を目指すうえで不可欠な「個店経営」の重要性を語りました。",
+    "text": "ユニクロはインド市場での店舗網拡大とサプライチェーンの強化を図っており、塚越社長は世界一を目指す上で「個店経営」の重要性を語りました。",
     "ids": [
-     "3010a9bec5ee494d"
-    ]
-   },
-   {
-    "text": "ファーストリテイリングはサステナビリティの取り組み状況を公表し、温室効果ガスの大幅削減などを進めています。",
-    "ids": [
-     "d00fba1a3d58c148"
-    ]
-   },
-   {
-    "text": "ユニクロはインド市場での店舗網の拡大を加速させており、国内外向けの調達や生産も強化する方針を示しています。",
-    "ids": [
+     "3010a9bec5ee494d",
      "cdf022fec651bab2",
      "fa4863c9e6e2ad51"
     ]
    },
    {
-    "text": "セシリー バンセンとの2026年秋冬コラボコレクションが11月26日に発売され、ベストなどが好評を集めています。",
+    "text": "ファーストリテイリングはサステナビリティの進捗を公表し温室効果ガス削減を進めるほか、メディア向け説明会や支援活動も実施しています。",
     "ids": [
-     "1be871b5ea6cd26a",
-     "3cb3da4cc5fe9a3b"
+     "d00fba1a3d58c148",
+     "95f45c649eab669d",
+     "e1e25aa29a4b62bf"
     ]
    },
    {
-    "text": "SNSではユニクロ パフテックが急上昇し、Xで75件投稿されました。",
+    "text": "ユニクロとセシリー バンセンの秋冬コラボコレクションが11月26日に発売され、ジブリやポケモン、ハローキティなどの新作も展開されます。",
+    "ids": [
+     "1be871b5ea6cd26a",
+     "3cb3da4cc5fe9a3b",
+     "8338bf977f5a2a40"
+    ]
+   },
+   {
+    "text": "SNSではユニクロのパフテックが話題となり、Xで3日に81件の投稿が確認されています。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-23T01:39:47.852218+09:00",
-  "generated_at": "2026-11-26T01:39:50.670146+09:00",
+  "from": "2026-11-23T10:22:58.664726+09:00",
+  "generated_at": "2026-11-26T10:23:02.344181+09:00",
   "article_count": 24,
-  "sig": "445fb26579ac"
+  "sig": "f8d6914d0a49"
  },
  "items": [
+  {
+   "id": "9f059e1927b055d5",
+   "url": "https://www.47news.jp/15287030.html",
+   "title_original": "ＴＯＷＮ タウン情報 【伊達】ＪＡふくしま未来・ユニクロとのコラボ商品販売",
+   "source": "47NEWS",
+   "image": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-25T20:29:00+00:00",
+   "title_ja": "伊達市でJAふくしま未来とユニクロのコラボ商品を販売",
+   "summary_ja": "伊達のタウン情報より、JAふくしま未来とユニクロによるコラボ商品の販売が伝えられています。地域に根ざした取り組みとして展開されます。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "cdf022fec651bab2",
    "url": "https://www.thehindubusinessline.com/companies/india-is-a-high-growth-market-for-uniqlo-accelerating-retail-expansion/article71743383.ece",
@@ -334,6 +346,22 @@
    "has_detail": true
   },
   {
+   "id": "21b273d6dd351a55",
+   "url": "https://news.yahoo.co.jp/articles/a956fb7a3c28594c4ae1dd74049b4c4407e91b5b/images/005",
+   "title_original": "11/20発売【ユニクロ】限定コラボのシアーTが優秀すぎる｜VERY (magacol)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26rrokRmjeyTBy_l166rLm_Mg9palytdYbYPHFSlDLXeOCSNjFC3GiNLt6VucxeImbW8mgQcEcwb83gwtvwSnvQPKIdNP6BLLq5uO5xVlFlEvk9X9wZWbCBWyT7HFI13nIg==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-25T11:00:00+00:00",
+   "title_ja": "11月20日発売のユニクロ限定コラボシアーT",
+   "summary_ja": "11月20日に発売されたユニクロの限定コラボレーションによるシアーTシャツについて、優秀なアイテムとして紹介されています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
    "id": "3b6724f9c145cc8b",
    "url": "https://animemojo.com/shonen/pokemon/uniqlo-opens-the-second-pokmon-30th-anniversary-ut-collection-in-japan-with-monochrome-dot-art-tees-a21300",
    "title_original": "UNIQLO Opens The Second Pokémon 30th Anniversary UT Collection In Japan, With Monochrome Dot-Art Tees",
@@ -347,7 +375,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "189411f41b1f4706",
@@ -379,7 +407,7 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "a9fdf0b147c43149",
@@ -6636,38 +6664,6 @@
    "brand": "ユニクロ",
    "importance": 3,
    "has_detail": true
-  },
-  {
-   "id": "f1cde7a7facf7000",
-   "url": "https://www.insidermedia.com/news/wales/first-welsh-store-revealed-for-global-apparel-retailer-marks-next-step-in-uk-expansion",
-   "title_original": "First Welsh store revealed for global apparel retailer - marks next step in UK expansion",
-   "source": "Insider Media Ltd",
-   "image": "https://www.insidermedia.com/uploads/news/images/uniqlo_image_credit_st_davids_cardiff_resized.jpg",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-03T06:24:22+00:00",
-   "title_ja": "ユニクロがウェールズ初の店舗を出店へ　英国での事業拡大を加速",
-   "summary_ja": "グローバルアパレル展開を進めるユニクロが、ウェールズ初となる店舗を出店することが明らかになった。英国全域での店舗網拡大に向けた新たな一歩となる。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "a1bd23c5664dd7e2",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/11/03/6O6KQVOH6BBAJLP6ICYXHS2SAM",
-   "title_original": "買い物客が長蛇の列…「ゾンビ都市」を去ったユニクロ、AIブームでサンフランシスコに復帰",
-   "source": "조선일보",
-   "image": "https://www.chosun.com/resizer/v2/LCY3Q7QZGNGRJEGK3SPHO5YPLE.jpg?auth=a53305d3e1f759bd353342ec06fbbe95eb2d453c644d2e27a858a2c4b11e2f87&width=1200&height=630&smart=true",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-03T06:05:12.399000+00:00",
-   "title_ja": "AIブームで復活のサンフランシスコにユニクロが再出店　行列も",
-   "summary_ja": "一度サンフランシスコから撤退したユニクロが、AIブームによる街の活気を取り戻した現地に再出店を果たした。オープン当日には長蛇の列ができる賑わいを見せている。",
-   "category": "店舗・出店",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
   }
  ]
 }
