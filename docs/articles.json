@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T10:15:05.021340+09:00",
+ "updated_at": "2026-11-28T00:46:26.003522+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -31,7 +31,6 @@
   "BAILA（バイラ）",
   "BRABO News",
   "Battersea Power Station",
-  "Branding in Asia",
   "Business News Wales",
   "Business Post",
   "BusinessLine",
@@ -232,50 +231,115 @@
  "count": 400,
  "detail_count": 244,
  "digest": {
-  "headline": "ユニクロ塚越社長が個店経営を語るほか、インド展開やコラボ新作が続々",
+  "headline": "ユニクロ塚越社長が語る個店経営と、インド展開やセシリー・バンセンコラボ",
   "points": [
    {
-    "text": "ユニクロの塚越社長がインタビューに応じ、世界一のブランドを目指す上で不可欠となる「個店経営」の重要性や具体的な取り組みについて語りました。",
+    "text": "ユニクロの塚越社長がインタビューに応じ、世界一を目指す上で不可欠な「個店経営」の重要性や具体的な取り組みを語りました。",
     "ids": [
      "3010a9bec5ee494d"
     ]
    },
    {
-    "text": "ユニクロのインド事業では、売上高の拡大や店舗網の迅速な拡大に加え、現地での調達基盤の強化に向けた取り組みが進められています。",
-    "ids": [
-     "39f1469c6ea596ba",
-     "6a63638b747af4a2",
-     "9b861dfb861f4b54"
-    ]
-   },
-   {
-    "text": "ユニクロとセシリー・バンセンによる、冬の防寒着に新しい選択肢を提供する2026年秋冬コラボレーションコレクション第2弾が発売されました。",
+    "text": "ユニクロとセシリー・バンセンによる、冬の防寒着や柔らかなニット、立体的なシルエットが特徴のコラボコレクションが発売されました。",
     "ids": [
      "14435a632384c1a6",
      "5301af46350501bb",
-     "4ae0d04a5336edfc"
+     "dd9a9f4164cc6176"
     ]
    },
    {
-    "text": "再販要望が多数寄せられていた人気レディースフリースアイテムが11月30日に復活するほか、ムーミン谷やハローキティ、浮世絵などの新作アイテムも発表されました。",
+    "text": "インド市場では店舗網の拡大や現地調達比率の引き上げが進められ、売上高の大幅な伸びを目標に事業拡大に注力する方針が示されています。",
+    "ids": [
+     "39f1469c6ea596ba",
+     "fa4863c9e6e2ad51",
+     "9bd37c88691b5103"
+    ]
+   },
+   {
+    "text": "再販の要望が多数寄せられていた人気のフリースアイテムが、11月30日に復活することが発表されました。",
     "ids": [
      "b6aebf0b8b7cedd6",
-     "f8df86a033e37de9",
-     "993da82d76b3aa7a"
+     "1a1e3909f49e9661"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ パフテック」が急上昇し、Xで81件の投稿を記録しました。",
-    "ids": []
+    "text": "GUと「ちいかわ」のコラボレーション第2弾となる温かい冬のルームウェアなどが発売され、Xで82件の投稿を記録しています。",
+    "ids": [
+     "91ad0e142950154b"
+    ]
    }
   ],
   "days": 3,
-  "from": "2026-11-24T10:21:39.620190+09:00",
-  "generated_at": "2026-11-27T10:21:41.477737+09:00",
+  "from": "2026-11-25T00:56:30.095642+09:00",
+  "generated_at": "2026-11-28T00:56:32.023534+09:00",
   "article_count": 24,
-  "sig": "19bd06a39a1d"
+  "sig": "b0f5af3ea6df"
  },
  "items": [
+  {
+   "id": "af469e169f2de928",
+   "url": "https://limo.media/articles/-/146366",
+   "title_original": "デイジーや色とりどりの花がかわいい！ユニクロのアートUT〈花柄Tシャツ〉3種は各1990円。四角い花のアートに、淡い総柄、ボーダーも ウォーホルの「Flowers」などをデザインしたUTは、2026年12月上旬に販売予定 | 概要 | LIMO | くらしとお金の経済メディア",
+   "source": "LIMO | くらしとお金の経済メディア",
+   "image": "https://img.limo.media/mw/01bc2613ebe071c16215f91da7bc2f8b243186.jpg?v=1&variant=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-27T13:30:00+00:00",
+   "title_ja": "ユニクロがウォーホルなどの花柄アートUT3種を12月上旬に発売へ",
+   "summary_ja": "ユニクロはアンディ・ウォーホルの「Flowers」などをデザインしたアートUT3種を2026年12月上旬に発売する。四角い花のアートや淡い総柄、ボーダー柄などを揃え、価格は各1,990円となっている。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "9bd37c88691b5103",
+   "url": "https://jp.fashionnetwork.com/news/%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD-%E3%83%90%E3%83%B3%E3%82%AC%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%AErmz%E3%82%A8%E3%82%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AB%E7%AC%AC4%E5%8F%B7%E5%BA%97%E3%82%92%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3,1888870.html",
+   "title_original": "ユニクロ、バンガロールのRMZエコワールドに第4号店をオープン",
+   "source": "FashionNetwork France",
+   "image": "",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-27T13:08:15+00:00",
+   "title_ja": "ユニクロがバンガロールのRMZエコワールドに第4号店をオープン",
+   "summary_ja": "ユニクロがインドのバンガロールにあるRMZエコワールドに、現地4号店目となる店舗を開店した。主要エリアへの出店を通じて、地域顧客へのリーチ拡大とブランド展開を強化する。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "4f40f4abecc941ec",
+   "url": "https://www.nikkei.com/nkd/disclosure/ednr/20261127S100ZJIE",
+   "title_original": "ファーストリテイリング[9983]：内部統制報告書－第65期(2025/09/01－2026/08/31) (有価証券報告書) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "image": "https://www.nikkei.com/nkd/disclosure/ednr/20261127S100ZJIE/thumbnail/?ttype=ogp",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-27T08:58:28+00:00",
+   "title_ja": "ファーストリテイリングが第65期内部統制報告書を提出",
+   "summary_ja": "ファーストリテイリングは、2025年9月1日から2026年8月31日までの第65期事業年度に関する内部統制報告書を提出した。自社の財務報告に係る内部統制の有効性を評価し、報告を行っている。",
+   "category": "業績・経営",
+   "brand": "グループ",
+   "importance": 1,
+   "detail_tries": 1
+  },
+  {
+   "id": "b5694aaa20ed0d42",
+   "url": "https://www.vietnam.vn/en/thi-truong-viet-nam-trong-buc-tranh-tang-truong-toan-cau-cua-uniqlo",
+   "title_original": "The Vietnamese market in UNIQLO's global growth picture.",
+   "source": "Vietnam.vn",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/27/1795741719256_quag4850-17957107984351999953990-207-0-1547-2560-crop-17957112589871918815594.jpeg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T01:00:00+00:00",
+   "title_ja": "ユニクロの世界的な成長戦略におけるベトナム市場の重要性と存在感",
+   "summary_ja": "ユニクロのグローバルな成長戦略において、ベトナム市場が重要な位置を占めている。世界規模での事業拡大が続く中、同国における市場の成長と貢献に期待が集まっている。",
+   "category": "海外展開",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
   {
    "id": "506a222701e3fa61",
    "url": "https://www.minyu-net.com/news/detail/2026112708442157737",
@@ -290,7 +354,7 @@
    "category": "店舗・出店",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "91ad0e142950154b",
@@ -306,7 +370,7 @@
    "category": "新商品・コラボ",
    "brand": "GU",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "39f1469c6ea596ba",
@@ -434,7 +498,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "5301af46350501bb",
@@ -6611,70 +6675,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
-  },
-  {
-   "id": "f3f9af7f506682e9",
-   "url": "https://news.yahoo.co.jp/articles/eebea65678334a10bd112bab6b1fae337d151a1c",
-   "title_original": "ユニクロ、10月国内既存店売上高5.5％減 後半に冬物伸び悩み（ロイター）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000099-reut-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T06:50:03+00:00",
-   "title_ja": "ユニクロ10月既存店売上高が5.5％減少、月後半の冬物伸び悩みで",
-   "summary_ja": "ユニクロの10月における国内既存店売上高は前年同月比5.5％減となったことが分かりました。月後半の気温上昇に伴い、主力である冬物商品の売上が伸び悩んだことが主な原因と報じられています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "8614a3e068978454",
-   "url": "https://newswav.com/article/two-new-uniqlo-stores-are-coming-to-kl-with-exclusive-opening-rewards-up-fo-A2611_CPI8Yd",
-   "title_original": "Two New UNIQLO Stores Are Coming To KL, With Exclusive Opening Rewards Up For Grabs",
-   "source": "Newswav",
-   "image": "https://thestoly.com/wp-content/uploads/2026/11/Offer-post-39-150x150.png",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-04T06:26:46+00:00",
-   "title_ja": "マレーシアのクアラルンプールにユニクロが新店2店舗を出店 限定特典も",
-   "summary_ja": "マレーシアのクアラルンプールにてユニクロの新店舗が2店オープンすることが決まりました。オープン時には、利用客に向けた限定のノベルティや特典が用意されます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "7e22f46fe4ec6b79",
-   "url": "https://www.brandinginasia.com/uniqlo-and-cecilie-bahnsen-unveil-new-collection-based-on-wandering-together",
-   "title_original": "UNIQLO and Cecilie Bahnsen Unveil New Collection Based on ‘Wandering Together’",
-   "source": "Branding in Asia",
-   "image": "https://www.brandinginasia.com/wp-content/uploads/2026/11/UNIQLO-and-Cecilie-Bahnsen-FallWinter-Collection-2.webp",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-04T05:53:29+00:00",
-   "title_ja": "ユニクロとセシリー バンセンが新作発表 『Wandering Together』がテーマ",
-   "summary_ja": "ユニクロは、デザイナーのセシリー バンセンとの最新コラボレーションコレクションを発表しました。「Wandering Together」をコンセプトに掲げた新たなコレクションを展開します。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "959d731100fee9cb",
-   "url": "https://www.ryutsuu.biz/sales/s110445.html",
-   "title_original": "ユニクロ／10月の既存店売上高5.5％減に、気温上がり冬物商品が伸び悩む",
-   "source": "流通ニュース",
-   "image": "https://www.ryutsuu.biz/main/images/2026/10/uniqlo-signboard-2.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T05:30:25+00:00",
-   "title_ja": "ユニクロの10月国内既存店売上高は5.5％減、気温上昇で冬物が苦戦",
-   "summary_ja": "ユニクロが発表した10月の国内既存店売上高は、前年同月比5.5％減少しました。月を通じて気温が高く推移したことが影響し、冬物商品の販売が伸び悩んだことが減収の要因となっています。",
-   "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
   }
  ]
 }
