@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:57:57.869134+09:00",
+ "updated_at": "2026-11-27T10:15:05.021340+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -219,6 +219,7 @@
   "玩具人 TOY PEOPLE",
   "環境ビジネスオンライン",
   "産経ニュース",
+  "福島民友新聞社",
   "繊研新聞",
   "西日本新聞me",
   "観光経済新聞",
@@ -229,9 +230,9 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 245,
+ "detail_count": 244,
  "digest": {
-  "headline": "ユニクロの個店経営やインド事業の拡大、セシリー・バンセンコラボが話題",
+  "headline": "ユニクロ塚越社長が個店経営を語るほか、インド展開やコラボ新作が続々",
   "points": [
    {
     "text": "ユニクロの塚越社長がインタビューに応じ、世界一のブランドを目指す上で不可欠となる「個店経営」の重要性や具体的な取り組みについて語りました。",
@@ -240,39 +241,73 @@
     ]
    },
    {
-    "text": "ファーストリテイリングがサステナビリティの取り組み状況を公表し、自社温室効果ガスの大幅削減や欧州の関連法規制への対応を進めています。",
-    "ids": [
-     "d00fba1a3d58c148"
-    ]
-   },
-   {
-    "text": "ユニクロのインド事業において出店加速や現地調達比率の引き上げが進められ、売上高の大幅な伸びを目標に掲げて事業拡大に注力する方針を示しています。",
+    "text": "ユニクロのインド事業では、売上高の拡大や店舗網の迅速な拡大に加え、現地での調達基盤の強化に向けた取り組みが進められています。",
     "ids": [
      "39f1469c6ea596ba",
-     "9b861dfb861f4b54",
-     "3f1a29dfe85fd3ab"
+     "6a63638b747af4a2",
+     "9b861dfb861f4b54"
     ]
    },
    {
-    "text": "ユニクロとセシリー・バンセンによる冬の新作となる第2弾コレクションが発売され、フリースやフェミニンなデザインのアイテムが展開されています。",
+    "text": "ユニクロとセシリー・バンセンによる、冬の防寒着に新しい選択肢を提供する2026年秋冬コラボレーションコレクション第2弾が発売されました。",
     "ids": [
      "14435a632384c1a6",
      "5301af46350501bb",
-     "dd9a9f4164cc6176"
+     "4ae0d04a5336edfc"
     ]
    },
    {
-    "text": "SNSでは「ユニクロ パフテック」が急上昇し、Xで3日に72件投稿されました。",
+    "text": "再販要望が多数寄せられていた人気レディースフリースアイテムが11月30日に復活するほか、ムーミン谷やハローキティ、浮世絵などの新作アイテムも発表されました。",
+    "ids": [
+     "b6aebf0b8b7cedd6",
+     "f8df86a033e37de9",
+     "993da82d76b3aa7a"
+    ]
+   },
+   {
+    "text": "SNSでは「ユニクロ パフテック」が急上昇し、Xで81件の投稿を記録しました。",
     "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-24T01:12:40.997943+09:00",
-  "generated_at": "2026-11-27T01:12:42.977241+09:00",
+  "from": "2026-11-24T10:21:39.620190+09:00",
+  "generated_at": "2026-11-27T10:21:41.477737+09:00",
   "article_count": 24,
-  "sig": "f5e234018490"
+  "sig": "19bd06a39a1d"
  },
  "items": [
+  {
+   "id": "506a222701e3fa61",
+   "url": "https://www.minyu-net.com/news/detail/2026112708442157737",
+   "title_original": "イオンモール伊達移転のユニクロがオリジナルTシャツ:地域ニュース",
+   "source": "福島民友新聞社",
+   "image": "https://www.minyu-net.com/common/news/2026112708442157737_0.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-26T23:40:00+00:00",
+   "title_ja": "イオンモール伊達移転のユニクロがオリジナルTシャツ発売",
+   "summary_ja": "イオンモール伊達への移転に伴い、ユニクロが地域向けのオリジナルTシャツを販売するニュースが報じられています。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
+  {
+   "id": "91ad0e142950154b",
+   "url": "https://www.oricon.co.jp/news/2494303/full",
+   "title_original": "【きょうから第2弾】ジーユー×「ちいかわ」、ルームウェア販売へ テーマは“さむ～い雪の日も楽しもう!”",
+   "source": "オリコンニュース",
+   "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494303/20261119_154037_p_o_39848315.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-26T20:05:00+00:00",
+   "title_ja": "ジーユー×「ちいかわ」コラボ第2弾が本日発売！冬のルームウェアが登場",
+   "summary_ja": "ジーユーと人気キャラクター「ちいかわ」のコラボレーション第2弾が本日より発売された。寒い冬の雪の日を楽しむことをテーマに、温かいルームウェアなどのアイテムを展開する。",
+   "category": "新商品・コラボ",
+   "brand": "GU",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "39f1469c6ea596ba",
    "url": "https://in.apparelresources.com/business-news/retail/uniqlo-india-builds-local-sourcing-base-eyes-30-target-fdi-norms",
@@ -287,6 +322,22 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
+   "has_detail": true
+  },
+  {
+   "id": "74b2d7db2bbdb122",
+   "url": "https://www.lionheartv.net/2026/11/uniqlos-holiday-celebrations-present-the-gifts-that-bring-us-together",
+   "title_original": "UNIQLO’s Holiday Celebrations Present the Gifts that Bring Us Together",
+   "source": "LionhearTV",
+   "image": "https://www.lionheartv.net/wp-content/uploads/2026/11/UNIQLOs-Holiday-Celebrations-P-1.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T17:55:07+00:00",
+   "title_ja": "ユニクロ、ホリデーシーズンのギフト提案キャンペーン",
+   "summary_ja": "ユニクロは、大切な人との絆を深めるホリデーシーズンのギフトに最適なアイテムを紹介するキャンペーンを展開しています。心温まる贈り物を通じて、人々を繋ぐ特別な企画を提案します。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 2,
    "has_detail": true
   },
   {
@@ -319,7 +370,7 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "b6aebf0b8b7cedd6",
@@ -338,6 +389,22 @@
    "has_detail": true
   },
   {
+   "id": "1a1e3909f49e9661",
+   "url": "https://lasisa.net/post/172519",
+   "title_original": "【ユニクロ】メンズの「ファーリーフリース」が11月30日に待望の復活！再販要望殺到の\"理由\"とは",
+   "source": "LASISA",
+   "image": "https://lasisa.net/wp-content/uploads/2027/11/20261126_uniqlo_men_furry_fleece_fullzip_jacket_01.jpg",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-26T10:30:00+00:00",
+   "title_ja": "ユニクロ、メンズ「ファーリーフリース」を11月30日再販",
+   "summary_ja": "多くの再販要望が寄せられていたユニクロのメンズ「ファーリーフリース」が、11月30日に待望の復活を果たします。高い人気を誇る定番アウターの再登場に注目が集まっています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
+  },
+  {
    "id": "14435a632384c1a6",
    "url": "https://hypebae.com/2026/11/cecilie-bahnsen-uniqlo-collaboration-collection-fleece-kidswear-where-to-buy",
    "title_original": "Cecilie Bahnsen Talks Femininity, Fleece and Her Latest UNIQLO Collaboration",
@@ -352,6 +419,22 @@
    "brand": "ユニクロ",
    "importance": 4,
    "has_detail": true
+  },
+  {
+   "id": "6e7a5c9fda399413",
+   "url": "https://news.yahoo.co.jp/articles/aa465a377ed334eb3e077075df55d763799c2856/images/000",
+   "title_original": "【きょう深夜まで】ユニクロ「感謝祭」、店舗営業後も“オンライン”購入可 (オリコン)",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26iq1MIym8YnDyRvKq2nXJSkFzONdo8pVntXnm0B2l_yJ275wwxyiTluoRMf_pl9i4IFBYCgUdOdA3ekIJ6Yle3OgMmWaEtiXpuJR5J6cKo9I",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-26T10:10:00+00:00",
+   "title_ja": "ユニクロ「感謝祭」、店舗営業終了後もオンラインで購入可能",
+   "summary_ja": "開催中のユニクロ「感謝祭」は、実店舗の営業が終了した深夜でもオンラインストアを通じて購入することができます。",
+   "category": "キャンペーン・セール",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
   },
   {
    "id": "5301af46350501bb",
@@ -383,7 +466,7 @@
    "category": "キャンペーン・セール",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "6a63638b747af4a2",
@@ -399,7 +482,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9b861dfb861f4b54",
@@ -415,7 +498,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 4,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "9f18481b66451b87",
@@ -6589,86 +6672,6 @@
    "title_ja": "ユニクロの10月国内既存店売上高は5.5％減、気温上昇で冬物が苦戦",
    "summary_ja": "ユニクロが発表した10月の国内既存店売上高は、前年同月比5.5％減少しました。月を通じて気温が高く推移したことが影響し、冬物商品の販売が伸び悩んだことが減収の要因となっています。",
    "category": "業績・経営",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "detail_tries": 2
-  },
-  {
-   "id": "feff7b9790f52e14",
-   "url": "https://news.shoninsha.co.jp/csr/323185",
-   "title_original": "ユニクロnews｜世界の難民や子どもたちにヒートテックなど100万点寄贈",
-   "source": "流通スーパーニュース",
-   "image": "",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T03:26:27+00:00",
-   "title_ja": "ユニクロが世界の難民や子どもたちにヒートテックなど100万点を寄贈",
-   "summary_ja": "ユニクロが世界の難民や子どもたちに向けて、ヒートテックなどの衣料品100万点を寄贈したことが明らかになった。難民支援や子どもたちへの継続的な衣料支援活動の一環として実施された。",
-   "category": "サステナビリティ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "detail_tries": 2
-  },
-  {
-   "id": "0e7ab55be701f6e3",
-   "url": "https://hypebeast.com/jp/2026/11/uniqlo-and-cecilie-bahnsen-2026-autumn-winter-collection-release-info",
-   "title_original": "UNIQLO and Cecilie Bahnsen の2026年秋冬コレクションが登場",
-   "source": "Hypebeast",
-   "image": "https://image-cdn.hypb.st/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2026%2F11%2F04%2Funiqlo-and-cecilie-bahnsen-2026-autumn-winter-collection-release-info-01-1.jpg?w=1080&cbr=1&q=90&fit=max",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T03:18:00+00:00",
-   "title_ja": "ユニクロとセシリー バンセンの2026年秋冬コレクションが登場",
-   "summary_ja": "ユニクロとセシリー バンセンによるコラボレーション「UNIQLO and Cecilie Bahnsen」の2026年秋冬コレクションが登場した。両ブランドの要素を融合させた注目の新作ラインナップとなっている。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "f1d7aef67eb4f196",
-   "url": "https://www.fashion-press.net/news/152847",
-   "title_original": "ユニクロ×セシリー バンセン第2弾、“小花刺繍入り”フリースジャケット＆シアーロンTなど",
-   "source": "ファッションプレス",
-   "image": "https://www.fashion-press.net/img/news/152847/top.jpg?1793761251",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T03:15:58+00:00",
-   "title_ja": "ユニクロ×セシリー バンセン第2弾コラボを発表",
-   "summary_ja": "ユニクロとセシリー バンセンによるコラボレーション第2弾が発表されました。小花刺繍をあしらったフリースジャケットやシアーロンTなどがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "4dd1558566ff1182",
-   "url": "https://news.yahoo.co.jp/articles/2de7aab9a17d757488cf11ec51ffbd206b09f6af",
-   "title_original": "ユニクロ＞「セシリー バンセン」と2度目のコラボ 秋冬コレクションのビジュアル公開 北欧ムードの女性・女児向けフリースアイテム発売へ（毎日キレイ）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000007-maikirei-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T03:10:00+00:00",
-   "title_ja": "ユニクロがセシリー バンセンと2度目のコラボ フリースなど発売へ",
-   "summary_ja": "ユニクロはブランド「セシリー バンセン」と2度目となるコラボレーションを発表し、秋冬コレクションのビジュアルを公開した。北欧のムードが漂う女性向けや女児向けのフリースアイテムなどを展開する。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "466f1a50c010f096",
-   "url": "https://news.yahoo.co.jp/articles/33482fb70b9c31594a09e927d8270145bfad0305/images/000",
-   "title_original": "ユニクロ × セシリー バンセン26年秋冬 フリースジャケットやスカートを発売 (FASHIONSNAP)",
-   "source": "Yahoo!ニュース",
-   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26hf7H4c6nmtKOhU_ca3BTGlc1nf8asn2KU8VHkGaEJmy0WDThgc4nbC69XEs7IYhL-6eJ-kJa17xXupvggGnJvyJlmRiTLvb8gPudLgYr5U-bwnmZo6km59fwbcGRuWxkw==",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T02:47:53+00:00",
-   "title_ja": "ユニクロとセシリー バンセンが26年秋冬でコラボ フリースジャケット等を発売",
-   "summary_ja": "ユニクロが「セシリー バンセン」とのコラボレーションによる2026年秋冬コレクションを発表しました。フリースジャケットやスカートといった注目のアイテムがラインナップされます。",
-   "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
