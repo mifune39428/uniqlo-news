@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T00:46:26.003522+09:00",
+ "updated_at": "2026-11-28T09:48:03.228226+09:00",
  "categories": [
   "新商品・コラボ",
   "キャンペーン・セール",
@@ -54,6 +54,7 @@
   "Extra.ie",
   "FASHION Magazine",
   "Fashion Times UK",
+  "FashionNetwork - The World's Fashion Business News",
   "FashionNetwork France",
   "FashionNetwork USA",
   "Fashionsnap.com",
@@ -128,6 +129,7 @@
   "SoraNews24",
   "Speed",
   "Stylist",
+  "Sugar & Cream",
   "THE FIRST TIMES",
   "THE MAGIC RAIN",
   "TRILL",
@@ -143,7 +145,6 @@
   "Trend Hunter",
   "UP TO DATE",
   "Unisba Media",
-  "VZ VermögensZentrum",
   "Vietnam.vn",
   "Vogue Japan",
   "WWD",
@@ -229,53 +230,66 @@
   "헤럴드경제"
  ],
  "count": 400,
- "detail_count": 244,
+ "detail_count": 241,
  "digest": {
-  "headline": "ユニクロ塚越社長が語る個店経営と、インド展開やセシリー・バンセンコラボ",
+  "headline": "ユニクロのインド展開拡大やセシリー・バンセンコラボ、GUちいかわ第2弾の話題をお",
   "points": [
    {
-    "text": "ユニクロの塚越社長がインタビューに応じ、世界一を目指す上で不可欠な「個店経営」の重要性や具体的な取り組みを語りました。",
+    "text": "ユニクロはインドのベンガルールにRMZエコワールド店をオープンし、現地での出店加速や調達比率の引き上げ方針を示しています。",
     "ids": [
-     "3010a9bec5ee494d"
-    ]
-   },
-   {
-    "text": "ユニクロとセシリー・バンセンによる、冬の防寒着や柔らかなニット、立体的なシルエットが特徴のコラボコレクションが発売されました。",
-    "ids": [
-     "14435a632384c1a6",
-     "5301af46350501bb",
-     "dd9a9f4164cc6176"
-    ]
-   },
-   {
-    "text": "インド市場では店舗網の拡大や現地調達比率の引き上げが進められ、売上高の大幅な伸びを目標に事業拡大に注力する方針が示されています。",
-    "ids": [
+     "6801fbc32cf78b7e",
      "39f1469c6ea596ba",
-     "fa4863c9e6e2ad51",
-     "9bd37c88691b5103"
+     "fa4863c9e6e2ad51"
     ]
    },
    {
-    "text": "再販の要望が多数寄せられていた人気のフリースアイテムが、11月30日に復活することが発表されました。",
+    "text": "ユニクロとセシリー・バンセンによる第2弾の秋冬コラボコレクションが発売され、フェミニンなデザインのフリースやニットが展開されています。",
     "ids": [
-     "b6aebf0b8b7cedd6",
-     "1a1e3909f49e9661"
+     "5301af46350501bb",
+     "dd9a9f4164cc6176",
+     "1be871b5ea6cd26a"
     ]
    },
    {
-    "text": "GUと「ちいかわ」のコラボレーション第2弾となる温かい冬のルームウェアなどが発売され、Xで82件の投稿を記録しています。",
+    "text": "再販の要望が多数寄せられていたユニクロの人気レディースフリースアイテムが、11月30日に復活を果たします。",
+    "ids": [
+     "b6aebf0b8b7cedd6"
+    ]
+   },
+   {
+    "text": "GUと「ちいかわ」のコラボレーション第2弾が発売され、温かい冬のルームウェアなどのアイテムが登場しています。",
     "ids": [
      "91ad0e142950154b"
     ]
+   },
+   {
+    "text": "GUちいかわポーチはXで130件投稿されるなどSNSで話題となっています。",
+    "ids": []
    }
   ],
   "days": 3,
-  "from": "2026-11-25T00:56:30.095642+09:00",
-  "generated_at": "2026-11-28T00:56:32.023534+09:00",
+  "from": "2026-11-25T09:54:34.799140+09:00",
+  "generated_at": "2026-11-28T09:54:36.113054+09:00",
   "article_count": 24,
-  "sig": "b0f5af3ea6df"
+  "sig": "0061be390d0a"
  },
  "items": [
+  {
+   "id": "4d7de29d74c236c3",
+   "url": "https://news.yahoo.co.jp/articles/3fab0402c07891eceda31b79b76ff8f9f2974520/images/000",
+   "title_original": "デイジーのボーダーに、色とりどりの花のアートや淡い総柄も。ユニクロ〈アンディ・ウォーホル〉の花柄Tシャツ3種は各1990円",
+   "source": "Yahoo!ニュース",
+   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26k5hu68MmEcNPF3RHRAIvEtZFzAQmj6ogOr8at72S1d0XV_KRdOUmYO_ovQIG5dTrnnGR0xOlkM0r9MtFWOYdFCyoxdACN6wFt4URCaX88ctGKHiFCQ_WkHwNXC_PLvr4g==",
+   "lang": "ja",
+   "region": "jp",
+   "published": "2026-11-27T13:35:33+00:00",
+   "title_ja": "ユニクロ、アンディ・ウォーホル財団の花柄Tシャツ3種",
+   "summary_ja": "アンディ・ウォーホルをモチーフにしたユニクロの新作Tシャツ3種類が登場します。ボーダーや色鮮やかな花のアート、淡い総柄などをあしらったデザインで、価格はそれぞれ1990円です。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "detail_tries": 1
+  },
   {
    "id": "af469e169f2de928",
    "url": "https://limo.media/articles/-/146366",
@@ -290,6 +304,22 @@
    "category": "新商品・コラボ",
    "brand": "ユニクロ",
    "importance": 3,
+   "detail_tries": 2
+  },
+  {
+   "id": "6801fbc32cf78b7e",
+   "url": "https://ww.fashionnetwork.com/news/Uniqlo-launches-fourth-bengaluru-store-at-rmz-ecoworld,1888872.html",
+   "title_original": "Uniqlo launches fourth Bengaluru store at RMZ Ecoworld",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T13:25:07+00:00",
+   "title_ja": "ユニクロ、インド・ベンガルールにRMZエコワールド店を開業",
+   "summary_ja": "ファーストリテイリングはインドのベンガルールにある商業施設「RMZ Ecoworld」に新店舗をオープンしました。同市内におけるユニクロの4店舗目となる新しい拠点の出店となります。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
    "detail_tries": 1
   },
   {
@@ -306,7 +336,7 @@
    "category": "海外展開",
    "brand": "ユニクロ",
    "importance": 3,
-   "detail_tries": 1
+   "detail_tries": 2
   },
   {
    "id": "4f40f4abecc941ec",
@@ -322,7 +352,23 @@
    "category": "業績・経営",
    "brand": "グループ",
    "importance": 1,
-   "detail_tries": 1
+   "detail_tries": 2
+  },
+  {
+   "id": "b840ec5775a8dcec",
+   "url": "https://sugarandcream.co/desalto-x-uniqlo-where-design-meets-everyday-life-desaltoxuniqlo-uniqlopiazzacordusio-francescorota-marckrusin-theunlimitedseating-miniclaysidetable-milan-piazzacordusio-onlinemagazine",
+   "title_original": "DESALTO X UNIQLO: WHERE DESIGN MEETS EVERYDAY LIFE",
+   "source": "Sugar & Cream",
+   "image": "https://sugarandcream.co/wp-content/uploads/2026/11/thumb-45-212x300.jpg",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-27T01:23:35+00:00",
+   "title_ja": "ユニクロがデザインと日常を融合する企画を展開",
+   "summary_ja": "デザルトとユニクロがコラボレーションし、デザインと日常生活の調和をテーマにした取り組みを行っています。",
+   "category": "新商品・コラボ",
+   "brand": "ユニクロ",
+   "importance": 3,
+   "has_detail": true
   },
   {
    "id": "b5694aaa20ed0d42",
@@ -403,6 +449,22 @@
    "brand": "ユニクロ",
    "importance": 2,
    "has_detail": true
+  },
+  {
+   "id": "fdb91bc76bd35b58",
+   "url": "https://businessmirror.com.ph/2026/11/27/uniqlo-brings-more-ways-to-say-thank-you-with-sm-nuvali-store-opening-on-november-27",
+   "title_original": "UNIQLO brings more ways to say Thank You with SM Nuvali store opening on November 27",
+   "source": "BusinessMirror",
+   "image": "",
+   "lang": "en",
+   "region": "global",
+   "published": "2026-11-26T16:00:00+00:00",
+   "title_ja": "フィリピンに新店舗、SMヌバリ店がオープン",
+   "summary_ja": "ユニクロがSMヌバリ店を11月27日にオープンし、感謝を伝えるための多彩なショッピング体験を提供します。",
+   "category": "店舗・出店",
+   "brand": "ユニクロ",
+   "importance": 4,
+   "detail_tries": 1
   },
   {
    "id": "667baeaa3b1628bb",
@@ -6611,70 +6673,6 @@
    "brand": "ユニクロ",
    "importance": 4,
    "detail_tries": 2
-  },
-  {
-   "id": "2de1792ecc9c83b1",
-   "url": "https://news.yahoo.co.jp/articles/8dbdf83a4e79d73049f1ed1c8b35ee40e327b47d",
-   "title_original": "「ユニクロ」が「セシリー バンセン」とコラボした秋冬コレクションを発売 北欧の冬をイメージしたカラーのフリースやスカート",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-02542389-wwdjapan-000-1-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T07:45:00+00:00",
-   "title_ja": "ユニクロがセシリー バンセンとの秋冬コラボを発表　フリースやスカートを展開",
-   "summary_ja": "ユニクロがブランド「セシリー バンセン」とのコラボによる秋冬コレクションの発売を発表した。北欧の冬をイメージしたカラーリングが特徴で、フリースやスカートといったアイテムを取り揃える。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
-  },
-  {
-   "id": "9b4e6963bb7938f4",
-   "url": "https://news.yahoo.co.jp/articles/f38198e031da4c520e00094234ab696e6073bb3a",
-   "title_original": "【ユニクロ】「爆買いしそう…」セシリーコラボの秋冬新作に絶賛の声「欲しいのばっか」「第2弾もやばい」（LASISA）",
-   "source": "Yahoo!ニュース",
-   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10167726-lasisa-000-10-view.jpg?exp=10800",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T07:30:00+00:00",
-   "title_ja": "ユニクロとセシリーのコラボ秋冬新作第2弾に注目が集まる",
-   "summary_ja": "ユニクロとセシリー・バンセンによるコラボレーションの秋冬新作第2弾が登場し、反響を呼んでいます。ラインナップの魅力からまとめ買いを検討する声も上がるなど、大きな話題となっています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "1bea47a31e044987",
-   "url": "https://lasisa.net/post/167726",
-   "title_original": "【ユニクロ×セシリー】秋冬大注目の第2弾コラボが11／20発売！小花刺しゅうのフリースなど注目アイテムまとめ",
-   "source": "LASISA",
-   "image": "https://lasisa.net/wp-content/uploads/2027/11/20261104_uniqlo_01.jpg",
-   "lang": "ja",
-   "region": "jp",
-   "published": "2026-11-04T07:30:00+00:00",
-   "title_ja": "ユニクロとセシリーの秋冬第2弾コラボが11月20日発売、フリースなどを展開",
-   "summary_ja": "ユニクロとセシリーによる注目の秋冬第2弾コラボレーション商品が、11月20日に発売されます。小花刺しゅうを施したフリースをはじめ、注目の各種アイテムがラインナップされています。",
-   "category": "新商品・コラボ",
-   "brand": "ユニクロ",
-   "importance": 3,
-   "has_detail": true
-  },
-  {
-   "id": "379210be2e5ae8db",
-   "url": "https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/fast-retailing-opens-uniqlo-global-flagship-store-shanghai",
-   "title_original": "Fast Retailing Opens UNIQLO Global Flagship Store in Shanghai",
-   "source": "VZ VermögensZentrum",
-   "image": "",
-   "lang": "en",
-   "region": "global",
-   "published": "2026-11-04T07:22:53+00:00",
-   "title_ja": "ファーストリテイリング、上海にユニクロのグローバル旗艦店を出店",
-   "summary_ja": "ファーストリテイリングは、中国・上海にユニクロのグローバル旗艦店をオープンしました。重要拠点である上海での旗艦店展開を通じて、ブランド発信と海外事業の強化を進めます。",
-   "category": "海外展開",
-   "brand": "ユニクロ",
-   "importance": 4,
-   "has_detail": true
   }
  ]
 }
